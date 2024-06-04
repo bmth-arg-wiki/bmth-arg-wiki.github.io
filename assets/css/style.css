@@ -1,0 +1,209 @@
+/*CSS reset*/
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+:root{
+    --titles: #518C81;
+    --link:  #AA755F;
+    --txt: #ededed;
+    --dark-txt: #282828;
+    --bg2: #282828;
+    --fontsize1: 1.875em;
+    --fontsize2: 1.5em;
+    --fontsize3: 1.25em;
+    --fontsize4: 1em;
+    --code: "Source Code Pro", monospace;
+}
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1.5;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+    margin: auto;
+    background-color: var(--bg2);
+    width: 50%;
+}
+
+table a { color: var(--txt);
+font-family: var(--code);
+text-decoration: none;
+}
+
+/* assets/css/style.css */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #191a1a;
+}
+
+h1 {
+    color: var(--titles);
+    font-size: var(--fontsize1);
+    font-weight: 800;
+}
+h2 { color: var(--titles);
+    font-size: var(--fontsize2);
+font-weight: 800;}
+
+h3 { color: var(--titles);
+    font-size: var(--fontsize3);
+font-weight: 800;}
+
+code {
+    color: #d4ae9b;
+    font-family: var(--code), sans-serif;
+    background-color: var(--bg2);
+    padding: 0.313em;
+}
+
+p, li { color: var(--txt);
+    font-size: var(--fontsize4);
+}
+th { color: var(--txt);
+font-weight: bold;
+font-size: var(--fontsize2);
+text-transform: uppercase;
+text-align: center;}
+
+a {color: var(--link);}
+img {max-width: 100%;
+}
+.wiki-content {
+    border: 2px solid #4CAF50;
+    padding: 2em;
+    border-radius: 10px;
+    background-color: var(--bg2);
+    width: 80%;
+    margin: auto;
+}
+
+.custom-container {
+    background-color: var(--bg2);
+    padding: 20px;
+    border-radius: 5px;
+}
+
+/* General page styling */
+.container {
+    display: flex;
+}
+
+.header-container,
+.footer-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+header {
+    background: #333;
+    color: #fff;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 1.5rem;
+}
+
+header nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin-right: 1rem;
+}
+
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+footer {
+    background: var(--bg2);
+    color: var(--txt);
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 2rem;
+}
+
+footer nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+footer nav ul li {
+    display: inline;
+    margin-right: 1rem;
+}
+
+footer nav ul li a {
+    color: #333;
+    text-decoration: none;
+}
+
+.sidebar {
+    float: left;
+    width: 25%;
+    background: #f4f4f4;
+    padding: 1rem;
+    box-sizing: border-box;
+}
+
+.content {
+    /* float: left; */
+    width: 75%; 
+    padding: 1.825rem;
+    box-sizing: border-box;
+}
+
+.wiki-content {
+    border: 2px solid var(--titles);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    background-color: var(--bg2);
+    margin: auto;
+}
