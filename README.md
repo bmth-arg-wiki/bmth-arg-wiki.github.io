@@ -21,7 +21,7 @@ You can use any Markdown editor, including online ones like [Dillinger](https://
 Dillinger can retrieve the files and make changes directly to GitHub. You will need to 
 [create an account](https://www.github.com) by clicking "Sign up" and following the instructions.
 
-![img.png](installation_help/img.png)
+![img.png](installation_help/dillinger_instruction.png)
 
 You will be asked to log in to GitHub. Log in, then click the same button again. You 
 should have access to the repository given by an admin. You can import all public 
