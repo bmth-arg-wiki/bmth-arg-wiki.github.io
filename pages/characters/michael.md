@@ -1,7 +1,7 @@
 # Michael
 
 Michael is one of the archangels. He is linked to [Insight 3: Purpose](../lore/insight3-purpose.md). 
-He is user 0011 on the [webpage](../webpage).
+He used to be user 0011 on the [webpage](../webpage) and is user 0010 as of the 24th of June 2024.
 
 ![img.png](../../Resources/michael/michael.png)
 

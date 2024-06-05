@@ -11,6 +11,8 @@ In the video he can be seen speaking to Eve about the effects of [P.u.s.s-e](../
 He stresses that there are a lot of negative side effects to its use, to have people 
 enter into [Youtopia](../lore/youtopia).
 
+He seemingly shoots himself at the end of the audio for [ABWMNO](../music/song-abwmno).
+
 ## Read More
 
 - [Nex Gen Corporation](../lore/nex-gen-corporation)

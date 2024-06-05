@@ -2,9 +2,7 @@
 
 ![Selene.png](../../Resources/selene/selene.png)
 
-Selene is one of the users that can be viewed on the M8 system. She has user number 0003. 
-Her name is pronounced "Se-lee-nee" by [Strassman](strassman) in a video call between 
-Eve and him in a file from the [FOR SOF](../files/for-sof) folder.
+Selene is one of the users that can be viewed on the M8 system. She has user number 0003.
 
 It is revealed in an audio log in the [FOR SOF](./for-sof#msgforsof.aiff) 
 folder that Selene is [SOF](./sof)'s mother, that left her within 20 minutes of her birth. Selene states 

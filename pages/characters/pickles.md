@@ -2,7 +2,8 @@
 
 ![img.png](../../Resources/pickles/pickles.png)
 
-Pickles is the in-universe character of Matt Nichols, one of the band members. He is user 0012 in the system.
+Pickles is the in-universe character of Matt Nichols, one of the band members. Before the June 4th 2024 update, 
+he was number 0012 in the system. He is currently user 0011.
 
 ![](../../Resources/pickles/pickles_art.jpg)
 

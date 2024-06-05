@@ -2,7 +2,9 @@
 
 Raphael is one of the archangels and is linked to [Insight 1: Connection](../lore/insight1-connection.md).
 
-Raphael can, strangely, be found under three different user ID's: 0004, 0007 and 0008.
+Raphael used to have three different user ID's: 0004, 0007 and 0008. After the June 4th 2024 update user 0008 has seemingly 
+disappeared, causing other characters to have 1 substracted from their user number. With this update, we went from 18 
+to 17 profiles.
 
 ![img.png](../../Resources/raphael/raphael0004.png)
 ![img_1.png](../../Resources/raphael/raphael0007.png)

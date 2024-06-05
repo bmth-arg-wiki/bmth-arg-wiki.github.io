@@ -2,7 +2,8 @@
 
 ![img_2.png](../../Resources/pan/pan.png)
 
-Omen of [Insight 1: Connection](../lore/insight1-connection). He is number 0009 in the system.
+Omen of [Insight 1: Connection](../lore/insight1-connection). Before June 4th 2024, his number was 0009 in the system. 
+It is currently 0008.
 
 ![](../../Resources/connection/raphael-selenes-map.png)
 

@@ -2,7 +2,8 @@
 
 ![img.png](../../Resources/madman/madman.png)
 
-Madman is Lee Malia's stand-in character in the universe for the band.
+Madman is Lee Malia's stand-in character in the universe for the band. Before the June 4th 2024 
+update he was number 0013 in the system, he is now user 0012.
 
 ![](../../Resources/madman/madman.jpg)
 

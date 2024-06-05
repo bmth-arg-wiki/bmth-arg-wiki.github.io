@@ -15,9 +15,9 @@ Direction: East
 Relic: [Pan](../characters/pan)'s Flute
 Symbol: triangle with line through the middle horizontally
 
-![img.png](Resources/connection/raphael-selenes-map.png)
+![img.png](../../Resources/connection/raphael-selenes-map.png)
 
-A region on [Selene's map](../files/for-sof#YOUTOPIA_selenes_map.vis)
+A region on [Selene's map](../files/for-sof)
 
 ![](../../Resources/band-cards.png)
 

@@ -1,6 +1,7 @@
 # Iara
 
-Iara is user 0016 and possibly a colleague of Selene.
+Iara is user 0015 and possibly a colleague of Selene. She used to be user 0016, before the 
+update on June 4th 2024.
 
 ![img_2.png](../../Resources/iara/iara.png)
 
