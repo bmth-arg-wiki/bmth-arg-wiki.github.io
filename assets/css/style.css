@@ -6,15 +6,16 @@
 
 :root{
     --titles: #518C81;
-    --link:  #AA755F;
-    --txt: #ededed;
+    --link:  #a67042;
+    --txt: #383838;
     --dark-txt: #282828;
-    --bg2: #282828;
+    --bg2: #d5d5d5;
     --fontsize1: 1.875em;
     --fontsize2: 1.5em;
     --fontsize3: 1.25em;
     --fontsize4: 1em;
     --code: "Source Code Pro", monospace;
+    --fonttitle: Georgia, serif;
 }
 
 html, body, div, span, applet, object, iframe,
@@ -74,24 +75,39 @@ text-decoration: none;
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #191a1a;
+    background-color: #ededed;
 }
 
 h1 {
-    color: var(--titles);
+    color: var(--dark-txt);
     font-size: var(--fontsize1);
     font-weight: 800;
+    text-transform: uppercase;
+    font-family: var(--fonttitle);
+    letter-spacing: -3px;
 }
+
+@keyframes blink {
+    50% {
+      opacity: 0.0;
+    }
+  }
+  .blink {
+    animation: blink 1s step-start 0s infinite;
+  }
+
 h2 { color: var(--titles);
     font-size: var(--fontsize2);
-font-weight: 800;}
+font-weight: 800;
+font-family: var(--fonttitle);}
 
 h3 { color: var(--titles);
     font-size: var(--fontsize3);
-font-weight: 800;}
+font-weight: 800;
+font-family: var(--fonttitle);}
 
 code {
-    color: #d4ae9b;
+    color: #44554d;
     font-family: var(--code), sans-serif;
     background-color: var(--bg2);
     padding: 0.313em;
