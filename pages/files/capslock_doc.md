@@ -11,9 +11,7 @@ Enjoy this picture of buff M8 as a buffer between you and the spoilers.
 
 ## Contents
 
-We find a storage crate that belongs to [Selene](../characters/selene.md). From the messages we see in the Kodek, 
-it seems that Selene is the person we are logged in as when we boot in safe mode using the 
-code 93934521.
+We find a storage crate that belongs to [Selene](../characters/selene.md).
 
 ![img.png](../../Resources/capslock_doc/crate.png)
 ![img.png](../../Resources/capslock_doc/crate_selene.png)
