@@ -19,11 +19,6 @@ He used to be user 0011 on the [webpage](../webpage) and is user 0010 as of the 
 
 "The seven archangels (or four – the traditions differ but always include Michael)" (wikipedia)
 
-## Speculation
-
-- The connections between the Christian fate and the various references to 'Kingslayer' could 
-indicate that Michael might be a/the Kingslayer?
-
 ## Read More
 
 - [Insight 3: Purpose](../lore/insight3-purpose)
