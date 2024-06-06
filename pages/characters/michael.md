@@ -15,7 +15,7 @@ He used to be user 0011 on the [webpage](../webpage) and is user 0010 as of the 
   - 12th of each month in Coptic calendar (Coptic Churches)
   Many other local and historical feasts.
 - **Attributes**: banner, scales, weighing souls, sword, slaying Satan or a dragon
-- **Patronage**: Protector of the Jewish people,[1] Guardian of the Catholic Church,[2] Vatican City,[3][4] France, Germany,[5] Normandy, Kyiv, dying people, poor souls,[6] bankers, grocers, police officers, military personnel
+- **Patronage**: Protector of the Jewish people, Guardian of the Catholic Church, Vatican City, France, Germany, Normandy, Kyiv, dying people, poor souls, bankers, grocers, police officers, military personnel
 
 "The seven archangels (or four – the traditions differ but always include Michael)" (wikipedia)
 

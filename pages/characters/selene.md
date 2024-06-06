@@ -4,16 +4,16 @@
 
 Selene is one of the users that can be viewed on the M8 system. She has user number 0003.
 
-It is revealed in an audio log in the [FOR SOF](./for-sof#msgforsof.aiff) 
-folder that Selene is [SOF](./sof)'s mother, that left her within 20 minutes of her birth. Selene states 
+It is revealed in an audio log in the [FOR SOF](../files/for-sof) 
+folder that Selene is [SOF](sof)'s mother, that left her within 20 minutes of her birth. Selene states 
 that she 'has to do something first' and leaves after hearing an alarm, stating to Sof that 
-the alarm is 'her cue'. She indicates that [M8](./m8) has been with her for some 
+the alarm is 'her cue'. She indicates that [M8](../m8) has been with her for some 
 time and has saved her life countless times, even highlighting the fact M8 may have 
 done the same for Sof by now.
 
-![Art of Selene and Eve](Resources/selene_eve_art.jpg)
+![Art of Selene and Eve](../../Resources/selene_eve_art.jpg)
 
-![img.png](Resources/selene/subject-selene.png)
+![img.png](../../Resources/selene/subject-selene.png)
 
 Top right corner of the log-in page displays `SUBJECT: SELENE`.
 
