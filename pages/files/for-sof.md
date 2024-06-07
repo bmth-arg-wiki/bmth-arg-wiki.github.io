@@ -10,49 +10,56 @@ match the contents of what we see (at least not yet).
 
 It contains documents on the [four insights](../lore/insights.md) and many more.
 
+**SPOILER ALERT: this article contains every known password.**
+
 ## Directory content
 
-| File                                                                            | Status    |
-|---------------------------------------------------------------------------------|-----------|
-| [msgforsoff.aiff](#msgforsoffaiff)                                              | ✔️         |
-| [The Insight Documents](#theinsightsdoc-insight1-4-docs)                        | ✔️         |
-| [CAPSLOCK.doc](#capslockdoc)                                                    | ❗         |
-| [StrassmanCONFIDENTIALPRT007.CODEC](#strassmanconfidentialprt007codec)          | ✔️         |
-| [DREADITScreenshot 2051.1.5.59.43.vis](#dreaditscreenshot-2051155943vis)        | ✔️         |
-| [YOUTOPIA_selenes_map.vis](#youtopia_selenes_mapvis)                            | ✔️         |
-| [R8/fulfilment_source[m0n0].doc](#r8fulfilment_sourcem0n0doc)                   | ✔️         |
-| [Selene_Journey_Log_01/midname?.memo](#selene_journey_log_01midnamememo)        | ❌         |
-| [Posthuman_Prototype_Alpha.mp3](#posthuman_prototype_alphamp3)                  | ❌         |
-| [Kingsl@yer_EncrypMsg.codek](#kingslyer_encrypmsgcodek)                         | ❌         |
-| [YOUTOPIA_Archangels_Secrets.docx](#youtopia_archangels_secretsdocx)            | ❌         |
-| [Ancient_Pyramids_Connection.avi](#ancient_pyramids_connectionavi)              | ❌         |
-| [M8_Core_Diagnostics.doc](#m8_core_diagnosticsdoc)                              | ❌         |
-| [Strassman.NexGen_Confidential_Memo.doc](#strassmannexgen_confidential_memodoc) | ❌         |
-| [NOX_Pan_Flute_Audio.mp3](#nox_pan_flute_audiomp3)                              | ❌         |
-| [.KNGSLYR_Theories_Collection.pdf](#kngslyr_theories_collectionpdf)             | ❌         |
-| [YOUTOPIA_Artifact_Locations.vis](#youtopia_artifact_locationsvis)              | ❌         |
-| [Book_of_Lies.vis](#book_of_liesvis)                                            | ❌         |
-| [PostHuman_Evolution_Chart.doc](#posthuman_evolution_chartdoc)                  | ❌         |
-| [Dreamscape_Do](#dreamscape_do)                                                 | ❌         |
-| [M8_wiFiPAss.doc](#m8_wifipassdoc)                                              | ❌         |
-| [NexGen_Research_Notes.doc](#nexgen_research_notesdoc)                          | ❌         |
-| [Eve_Birthright_Explained.mp4](#eve_birthright_explainedmp4)                    | ❌         |
-| [PH_Experiments_01.doc](#ph_experiments_01doc)                                  | ❌         |
-| [Eve_Hstry.doc](#eve_hstrydoc)                                                  | ❌         |
-| [YOUTOPIA_Portal_Discovery.mp4](#youtopia_portal_discoverymp4)                  | ❌         |
-| [NexGen_Future_Plan.doc](#nexgen_future_plandoc)                                | ❌         |
-| [Eve_Prophecy_.doc](#eve_prophecy_doc)                                          | ❌        |
-| [Dreams_01.m](#dreams_01m)                                                      | ❌        |
-| [NexGen_HighPriority_Memo.doc](#nexgen_highpriority_memodoc)                    | ❌         |
-| [XG_NG-01_UT_EntrA.ncpt](#xg_ng-01_ut_entrancpt)                                | ❌         |
-| [Sentience_Development.doc](#sentience_developmentdoc)                          | ❌         |
-| [DkEco_v2.0.corrupt](#dkeco_v20corrupt)                                         | ❌         |
-| [Selene_Vision_Log_04.mp3](#selene_vision_log_04mp3)                            | ❌         |
-| [PostHuman_Archive_02.vid](#posthuman_archive_02vid)                            | ❌         |
-| [YOUTOPIA_Unlock_Code_for_Empowerment.ncpt](#youtopia_unlock_code_for_empowermentncpt) |  ❌        |
-| [Dreamseeker_Astral_Projection_Simulator.xc](#dreamseeker_astral_projection_simulatorxc) |  ❌        |
-| [NGX_Pyramid_of_Eternal_Knowledge_Encryption.ncpt](#ngx_pyramid_of_eternal_knowledge_encryptionncpt) |  ❌        |
-| [YOUTOPIA_Initiation.doc](#youtopia_initiationdoc)                              |  ❌        |
+This table contains two links: the filename links to a relevant article (if there is one), the folder icon will bring 
+you to the known information (including password) about the file.
+
+| File                                                                                                 | Status | About                                    |
+|------------------------------------------------------------------------------------------------------|--------|------------------------------------------|
+| [msgforsoff.aiff](msgforsof)                                                                         | ✔️     | [📁](#msgforsoffaiff)                    |
+| [The Insight Documents](../lore/insights)                                                            | ✔️     | [📁](#the-insightsdoc-insight1-4-docs)   |
+| [StrassmanCONFIDENTIALPRT007.CODEC](strassmancodec)                                                  | ✔️     | [📁](#strassmanconfidentialprt007codec)  |
+| [DREADITScreenshot 2051.1.5.59.43.vis](dreadit)                                                      | ✔️     | [📁](#dreaditscreenshot-2051155943vis)   |
+| [YOUTOPIA_selenes_map.vis](selenes_map)                                                              | ✔️     | [📁](#youtopia_selenes_mapvis)           |
+| [R8/fulfilment_source[m0n0].doc](r8)                                                                 | ✔️     | [📁](#r8fulfilment_sourcem0n0doc)        |
+| [Selene_Personal_Journal_2037.02.doc](selene_personal_journal)                                       | ✔️     | [📁](#selene_personal_journal_203702doc) |
+| [Lauren_D8_Log_203701.docx](lauren_d8_log)                                                           | ✔️     | [📁](#lauren_d8_log_203701docx)          |
+| [Scott_Personal_Journal_VSPR-37.doc](scott_personal_journal)                                         | ✔️     | [📁](#scott_personal_journal_vspr-37doc) |
+| [Selene_Journey_Log_01/midname?.memo](#selene_journey_log_01midnamememo)                             | ❌      | [📁](#msgforsoffaiff)                    |
+| [Posthuman_Prototype_Alpha.mp3](#posthuman_prototype_alphamp3)                                       | ❌      | [📁](#msgforsoffaiff)                    |
+| [Kingsl@yer_EncrypMsg.codek](#kingslyer_encrypmsgcodek)                                              | ❌      | [📁](#msgforsoffaiff)                    |
+| [YOUTOPIA_Archangels_Secrets.docx](#youtopia_archangels_secretsdocx)                                 | ❌      | [📁](#msgforsoffaiff)                    |
+| [Ancient_Pyramids_Connection.avi](#ancient_pyramids_connectionavi)                                   | ❌      | [📁](#msgforsoffaiff)                    |
+| [M8_Core_Diagnostics.doc](#m8_core_diagnosticsdoc)                                                   | ❌      | [📁](#msgforsoffaiff)                    |
+| [Strassman.NexGen_Confidential_Memo.doc](#strassmannexgen_confidential_memodoc)                      | ❌      | [📁](#msgforsoffaiff)                    |
+| [NOX_Pan_Flute_Audio.mp3](#nox_pan_flute_audiomp3)                                                   | ❌      | [📁](#msgforsoffaiff)                    |
+| [.KNGSLYR_Theories_Collection.pdf](#kngslyr_theories_collectionpdf)                                  | ❌      | [📁](#msgforsoffaiff)                    |
+| [YOUTOPIA_Artifact_Locations.vis](#youtopia_artifact_locationsvis)                                   | ❌      | [📁](#msgforsoffaiff)                    |
+| [Book_of_Lies.vis](#book_of_liesvis)                                                                 | ❌      | [📁](#msgforsoffaiff)                    |
+| [PostHuman_Evolution_Chart.doc](#posthuman_evolution_chartdoc)                                       | ❌      | [📁](#msgforsoffaiff)                    |
+| [Dreamscape_Dossier.docx](#dreamscape_dossierdocx)                                                   | ❌      | [📁](#msgforsoffaiff)                    |
+| [M8_wiFiPAss.doc](#m8_wifipassdoc)                                                                   | ❌      | [📁](#msgforsoffaiff)                    |
+| [NexGen_Research_Notes.doc](#nexgen_research_notesdoc)                                               | ❌      | [📁](#msgforsoffaiff)                    |
+| [Eve_Birthright_Explained.mp4](#eve_birthright_explainedmp4)                                         | ❌      | [📁](#msgforsoffaiff)                    |
+| [PH_Experiments_01.doc](#ph_experiments_01doc)                                                       | ❌      | [📁](#msgforsoffaiff)                    |
+| [Eve_Hstry.doc](#eve_hstrydoc)                                                                       | ❌      | [📁](#msgforsoffaiff)                    |
+| [YOUTOPIA_Portal_Discovery.mp4](#youtopia_portal_discoverymp4)                                       | ❌      | [📁](#msgforsoffaiff)                    |
+| [NexGen_Future_Plan.doc](#nexgen_future_plandoc)                                                     | ❌      | [📁](#msgforsoffaiff)                    |
+| [Eve_Prophecy_.doc](#eve_prophecy_doc)                                                               | ❌      | [📁](#msgforsoffaiff)                    |
+| [Dreams_01.m](#dreams_01m)                                                                           | ❌      | [📁](#msgforsoffaiff)                    |
+| [NexGen_HighPriority_Memo.doc](#nexgen_highpriority_memodoc)                                         | ❌      | [📁](#msgforsoffaiff)                    |
+| [XG_NG-01_UT_EntrA.ncpt](#xg_ng-01_ut_entrancpt)                                                     | ❌      | [📁](#msgforsoffaiff)                    |
+| [Sentience_Development.doc](#sentience_developmentdoc)                                               | ❌      | [📁](#msgforsoffaiff)                    |
+| [DkEco_v2.0.corrupt](#dkeco_v20corrupt)                                                              | ❌      | [📁](#msgforsoffaiff)                    |
+| [Selene_Vision_Log_04.mp3](#selene_vision_log_04mp3)                                                 | ❌      | [📁](#msgforsoffaiff)                    |
+| [PostHuman_Archive_02.vid](#posthuman_archive_02vid)                                                 | ❌      | [📁](#msgforsoffaiff)                    |
+| [YOUTOPIA_Unlock_Code_for_Empowerment.ncpt](#youtopia_unlock_code_for_empowermentncpt)               | ❌      | [📁](#msgforsoffaiff)                    |
+| [Dreamseeker_Astral_Projection_Simulator.xc](#dreamseeker_astral_projection_simulatorxc)             | ❌      | [📁](#msgforsoffaiff)                    |
+| [NGX_Pyramid_of_Eternal_Knowledge_Encryption.ncpt](#ngx_pyramid_of_eternal_knowledge_encryptionncpt) | ❌      | [📁](#msgforsoffaiff)                    |
+| [YOUTOPIA_Initiation.doc](#youtopia_initiationdoc)                                                   | ❌      | [📁](#msgforsoffaiff)                    |
 
 This article also contains information on [previous versions](#previous-versions) and the 
 [corrupted files](#corrupt-files).
@@ -79,7 +86,7 @@ the premise of the ARG: we are exploring the files Selene left for her daughter.
 
 ![Screenshot of the audio player](../../Resources/for-sof/img_3.png)
 
-## THEINSIGHTS.DOC, INSIGHT1-4 docs
+## THE INSIGHTS.DOC, INSIGHT1-4 docs
 
 Password:
 - THEINSIGHT.DOC: None
@@ -127,10 +134,8 @@ to contain a Dreadit link in the URL bar.
 
 Password: `clive`
 
-![img.png](../../Resources/for-sof/selenesmap.png)
-
-The regions, symbols and text on this map all refer to [the insights](../lore/insights), which seem 
-to occupy a physical space in [Youtopia](../lore/youtopia).
+The password refers to [M8](../m8)'s middle name, which is referenced in some lines she says 
+in the sticky notes (TODO: expand on source).
 
 ## R8/fulfilment_source[m0n0].doc
 
@@ -142,6 +147,24 @@ The password for this file was discovered in the audio for [Top 10 staTues tHat 
 This document appeared on 29/05/2024 in a website update. The document details a 
 precursor of [M8](../m8) that is called [R8](r8). You can find more details in the 
 [R8 article](r8).
+
+## Selene_Personal_Journal_2037.02.doc
+
+Password: `0003`
+
+The password is Selene's user number in the [M8](../m8) system.
+
+## Lauren_D8_Log_203701.docx
+
+Password: `0014`
+
+The password for this file is [Ren](../characters/ren)'s user number.
+
+## Scott_Personal_Journal_VSPR-37.doc
+
+Password: `0005`
+
+The password for this file is [Syko](../characters/syko)'s user number.
 
 ## Selene_Journey_Log_01/midname?.memo
 
@@ -290,9 +313,10 @@ then remove it. Somewhere along the updates some files were lost from the view i
 ### Corrupt files
 
 There are currently 88 corrupted files in the folder. There used to be 18, before 
-the corrupted files weren't visible in some later upddated. They are all labeled 
-`[CORRUPTED]` If you clicked on any of these, M8 will tell you one of the following 
-phrases:
+the corrupted files weren't visible for a while in some later updates. They are all labeled 
+`[CORRUPTED]` 
+
+If you click on any of these, M8 will tell you one of the following phrases:
 - "This file is F'd up pretty bad. Don't worry, I can fix anything. Just check back later."
 - "Hey, I'm working on these. Come back later."
 - "Dude, don't you know what corrupted means? Give me some time!"
