@@ -1,4 +1,8 @@
 # Exclude locally hosted files
 _site/*
 
+# Exclude IDE files
 .idea/*
+
+# EXCLUDE RUBY ENVIRONMENTS THEY BREAK THE BUILD
+/~/
