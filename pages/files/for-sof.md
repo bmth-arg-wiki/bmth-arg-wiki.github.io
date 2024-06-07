@@ -3,19 +3,26 @@
 ![Password prompt for the folder](../../Resources/for-sof/for_sof_password_prompt.png)
 
 `FOR SOF` is a folder in the ARG that can be accessed on the computer. It is password 
-protected and was found on 26-05-2024 to require the password `past` to access.
+protected and was found on 26-05-2024 to require a password.
 
 M8 says "You have 132 documents and one audio log" when you open the folder. This doesn't 
 match the contents of what we see (at least not yet).
 
 It contains documents on the [four insights](../lore/insights.md) and many more.
 
-**SPOILER ALERT: this article contains every known password.**
+Note: this document contains all the known passwords for the files, but they are 
+only visible if you click 'password'. Try it now for the folder password!
+
+<details class="password">
+  <summary>Password</summary>
+
+`past`
+</details>
 
 ## Directory content
 
 This table contains two links: the filename links to a relevant article (if there is one), the folder icon will bring 
-you to the known information (including password) about the file.
+you to the known information (including password) about the file itself.
 
 | File                                                                                                 | Status | About                                    |
 |------------------------------------------------------------------------------------------------------|--------|------------------------------------------|
@@ -88,17 +95,41 @@ the premise of the ARG: we are exploring the files Selene left for her daughter.
 
 ## THE INSIGHTS.DOC, INSIGHT1-4 docs
 
-Password:
-- THEINSIGHT.DOC: None
-- INSIGHT1.DOC: `connection`
-- INSIGHT2.DOC: `empathy`
-- INSIGHT3.DOC: `purpose`
-- INSIGHT4.DOC: `vision`
-
-These are some documents introducing us to the concept of the four insights that 
+These are some documents introducing us to the concept of the four insights that
 we see throughout the ARG.
 
 [See the page on the insights](../../Resources/insights)
+
+### THEINSIGHT.DOC
+No password
+
+### INSIGHT1.DOC
+<details class="password">
+  <summary>Password</summary>
+
+`connection`
+</details>
+
+### INSIGHT2.DOC
+<details class="password">
+  <summary>Password</summary>
+
+`empathy`
+</details>
+
+### INSIGHT3.DOC
+<details class="password">
+  <summary>Password</summary>
+
+`purpose`
+</details>
+
+### INSIGHT4.DOC
+<details class="password">
+  <summary>Password</summary>
+
+`vision`
+</details>
 
 ## CAPSLOCK.doc
 
@@ -110,8 +141,12 @@ supposed to be.
 [See the page on the capslock doc](../files/capslock_doc)
 
 ## StrassmanCONFIDENTIALPRT007.CODEC
+<details class="password">
+  <summary>Password</summary>
 
-Password: `karl strassman`
+`karl strassman`
+</details>
+Password: 
 
 A document in the folder. The password screen used to be a placeholder, 
 but was changed on the 27th of May to include a picture of the user we know 
@@ -123,7 +158,11 @@ Also see the [article on this file](strassmancodec).
 
 ## DREADITScreenshot 2051.1.5.59.43.vis
 
-Password: `1d1b2c2a`
+<details class="password">
+  <summary>Password</summary>
+
+`1d1b2c2a`
+</details>
 
 The password to this file changed when the [Spyder Browser](../webbrowser) updated 
 to contain a Dreadit link in the URL bar.
@@ -132,7 +171,11 @@ to contain a Dreadit link in the URL bar.
 
 ## YOUTOPIA_selenes_map.vis
 
-Password: `clive`
+<details class="password">
+  <summary>Password</summary>
+
+`clive`
+</details>
 
 The password refers to [M8](../m8)'s middle name, which is referenced in some lines she says 
 in the sticky notes (TODO: expand on source).
@@ -140,7 +183,12 @@ in the sticky notes (TODO: expand on source).
 ## R8/fulfilment_source[m0n0].doc
 
 ![Password screen for the R8 file](../../Resources/for-sof/r8_pass.png)
-Password: `within`
+
+<details class="password">
+  <summary>Password</summary>
+
+`within`
+</details>
 
 The password for this file was discovered in the audio for [Top 10 staTues tHat CriEd bloOd](../music/song-top10).
 
@@ -150,19 +198,32 @@ precursor of [M8](../m8) that is called [R8](r8). You can find more details in t
 
 ## Selene_Personal_Journal_2037.02.doc
 
-Password: `0003`
+<details class="password">
+  <summary>Password</summary>
+
+`0003`
+</details>
+Password: ``
 
 The password is Selene's user number in the [M8](../m8) system.
 
 ## Lauren_D8_Log_203701.docx
 
-Password: `0014`
+<details class="password">
+  <summary>Password</summary>
+
+`0014`
+</details>
 
 The password for this file is [Ren](../characters/ren)'s user number.
 
 ## Scott_Personal_Journal_VSPR-37.doc
 
-Password: `0005`
+<details class="password">
+  <summary>Password</summary>
+
+`0005`
+</details>
 
 The password for this file is [Syko](../characters/syko)'s user number.
 
