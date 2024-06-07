@@ -22,6 +22,13 @@ After 26-05 update.
 
 An 8-bit version of Kool-Aid is included on the [webpage](./webpage).
 
+## Relation to YOUtopia
+
+Oli called YOUtopia and Kool-Aid two sides of the same coin in 
+[an interview on NexGen](https://www.youtube.com/watch?v=wLAoyZ4geIA).
+
+YOUtopia is about a paradise/dream, while KoolAid is described as more of a coma.
+
 ### 26-05-2024 Update
 
 The Kool-Aid music on the website was updated: the note `crunchy crunchy` was removed, 
