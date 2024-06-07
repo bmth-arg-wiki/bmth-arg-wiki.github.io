@@ -3,7 +3,7 @@
 ![Password prompt for the folder](../../Resources/for-sof/for_sof_password_prompt.png)
 
 `FOR SOF` is a folder in the ARG that can be accessed on the computer. It is password 
-protected and was found on 26-05-2024 to require a password.
+protected and was found on 26-05-2024. It requires a password.
 
 M8 says "You have 132 documents and one audio log" when you open the folder. This doesn't 
 match the contents of what we see (at least not yet).
