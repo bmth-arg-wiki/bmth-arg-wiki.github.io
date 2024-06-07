@@ -66,7 +66,7 @@ This article also contains information on [previous versions](#previous-versions
 
 ## Placeholders
 
-![Password screen for most files](../../Resources/for-sof/img_1.png)
+![Password screen for most files](../../Resources/for-sof/old_placeholder.png)
 
 When the website updates, new password screens are introduced for files, indicating that 
 they can now be unlocked. The specific screens will show the number of characters to input, 
@@ -84,7 +84,7 @@ Audio log from [Selene](../characters/selene.md) to [Sof](../characters/sof.md).
 This file is not password protected. This file is very lore-heavy and will introduce us to 
 the premise of the ARG: we are exploring the files Selene left for her daughter.
 
-![Screenshot of the audio player](../../Resources/for-sof/img_3.png)
+![Screenshot of the audio player](../../Resources/for-sof/msgforsof-audioplayer.png)
 
 ## THE INSIGHTS.DOC, INSIGHT1-4 docs
 
@@ -303,8 +303,8 @@ A password-protected file that currently can not be viewed in the folder.
 
 ## Previous versions
 
-![img.png](../../Resources/for-sof/img.png)
-![img_11.png](../../Resources/for-sof/img_11.png)
+![img.png](../../Resources/for-sof/for-sof-folder.png)
+![img_11.png](../../Resources/for-sof/for-sof-folder2.png)
 (Screenshot date: 25/05/2024)
 
 First version of the 'FOR SOF' folder. Additional versions would first introduce a scrollbar, 
