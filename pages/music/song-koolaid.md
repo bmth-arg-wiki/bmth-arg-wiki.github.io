@@ -20,7 +20,7 @@ Before 26-05 update.
 
 After 26-05 update.
 
-An 8-bit version of Kool-Aid is included on the [webpage](./webpage).
+An 8-bit version of Kool-Aid is included on the [webpage](../webpage).
 
 ## Relation to YOUtopia
 
