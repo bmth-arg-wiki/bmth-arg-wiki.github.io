@@ -27,3 +27,5 @@ Document in the [FOR SOF](for-sof) folder.
 ## Read More
 
 - [Syko (Oliver Scott Sykes)](../characters/syko)
+- [Selene](../characters/selene)
+- [Selene's personal journal](selene_personal_journal)
