@@ -15,10 +15,10 @@ As the author succumbs to the infection, the last entry infamously reads: “Itc
 Dear diary, I don't know what's going on, but something's up
 The dog won't stop barking and I think my TV is bust
 Every channel is the same, it's sending me insane
-And earlier, somebody bit me, what a fucking day
+And earlier, somebody bit me, what a fucking day
 
 [Chorus]
-The sky is falling, it's fucking boring
+The sky is falling, it's fucking boring
 I'm going braindead, isolated
 God is a shithead and we're his rejects
 Traumatised for breakfast
@@ -49,6 +49,7 @@ Ah, never mind, it's not the end of the world, oh, wait
 Fly, hahahaha, oh
 Lie, oh
 ```
+Source: [Genius](https://genius.com/Bring-me-the-horizon-dear-diary-lyrics)
 
 ## Read More
 
