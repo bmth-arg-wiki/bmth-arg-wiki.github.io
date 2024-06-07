@@ -31,7 +31,7 @@ at the time of writing. The timeline goes from most to least recent.
 
 [Bring Me The Horizon - 01BMTHS7-TooMuchMelody](https://www.youtube.com/watch?v=QBouIfEIChU)
 is released on YouTube, with the introduction containing some information that shows 
-information about [M8]'s database (can be deduced from code shown in the intro).
+information about [M8](../m8)'s database (can be deduced from code shown in the intro).
 
 ![M8s database](../../Resources/m8/M8s_database.png)
 
@@ -52,7 +52,7 @@ related to the ARG.
 [Post on instagram](https://www.instagram.com/p/C7VCa9lNazA/?img_index=1)
 
 Post for the NexGen release, where the collaborating artists are tagged 
-in the comments. The tracklist, with the capitals used for the [capslock doc](../files/capslock_doc.md) 
+in the comments. The track list, with the capitals used for the [capslock doc](../files/capslock_doc.md) 
 included. The band members have also been tagged on the image in the corners.
 
 There was also a [video from E.V.E](https://www.instagram.com/p/C7XBmOmqe3Y/) announcing 
@@ -113,7 +113,7 @@ from Post Human: Survival Horror.
 
 ![img_1.png](../../Resources/socials/insta_24_04_04.png)
 
-*"About me flames the pentagram, within the flames the six rayed star"* can be made out in the bottom text.
+*"Before me flames the pentagram, within me flames the six rayed star"* can be made out in the bottom text.
 
 ![img_2.png](../../Resources/socials/24_04_08.png)
 
@@ -125,7 +125,7 @@ BMTH post this on Instagram with the band members, @jontiwild and @jacobharrycar
 
 ### April 22th 2024
 
-![Longsleeve T-shirt merch photo.png](../../Resources/socials/insta_22_04.png)
+![Long sleeve T-shirt merch photo.png](../../Resources/socials/insta_22_04.png)
 
 [Post on Instagram](https://www.instagram.com/p/C6Eg7_kivy_/?img_index=7)
 
