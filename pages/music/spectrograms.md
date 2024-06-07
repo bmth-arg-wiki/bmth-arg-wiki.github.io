@@ -2,7 +2,7 @@
 
 In the songs on NexGen, several anomalies can be found in the spectrograms.
 
-## Known spectograms
+## Known spectrograms
 
 The following songs (all on NexGen) have been discovered to contain hidden messages. 
 They are listed in order of album appearance.
