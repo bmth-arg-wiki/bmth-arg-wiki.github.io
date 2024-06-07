@@ -8,6 +8,10 @@ a title with Post Human: Nex Gen (PH:NG), the connection between them is strongl
 PH:SH was supposed to be the first of four albums 
 ([source: Kerrang](https://www.kerrang.com/oli-sykes-on-bring-me-the-horizons-post-human-ep-series-theres-gonna-be-a-record-for-everyone))
 
+## Song articles
+
+[1. Dear Diary,](song-dear-diary)
+
 ## Socials
 
 ![](../../Resources/ph1/insta_2020_10_14_ph1.jpg)
