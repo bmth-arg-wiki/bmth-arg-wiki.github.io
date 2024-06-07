@@ -300,7 +300,7 @@ footer nav ul li a {
   box-sizing: border-box;
 }
 
-.wiki-content {
+article {
   border: 2px solid var(--titles);
   padding: 20px;
   margin: 20px;
