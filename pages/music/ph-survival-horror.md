@@ -1,4 +1,4 @@
-# Post Human: Survival Horror
+# POST HUMAN: Survival Horror
 
 ![](../../Resources/sof/img.png)
 
@@ -11,6 +11,14 @@ PH:SH was supposed to be the first of four albums
 ## Song articles
 
 [1. Dear Diary,](song-dear-diary)
+[2. Parasite Eve](song-parasite-eve)
+[3. Teardrops](song-teardrops)
+[4. Obey](song-obey)
+[5. Itch for the Cure (When Will We Be Free?)](song-kingslayer-itch)
+[6. Kingslayer](song-kingslayer-itch)
+[7. 1x1](song-1x1)
+[8. Ludens](song-ludens)
+[9. One Day The Only Butterflies Left Will Be In Your Chest As You March Towards Your Death](song-butterflies)
 
 ## Socials
 
