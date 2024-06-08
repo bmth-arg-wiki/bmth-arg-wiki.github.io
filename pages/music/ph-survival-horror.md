@@ -40,3 +40,4 @@ from NexGen. The theory is supported by the fact that both characters have a thi
 ## Read More
 
 - [Spectrograms](spectrograms)
+- [POST HUMAN: NeX GEn](ph-nex-gen)
