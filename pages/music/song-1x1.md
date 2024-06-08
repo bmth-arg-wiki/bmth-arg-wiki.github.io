@@ -37,16 +37,6 @@ Got me sinking to a dark place (Outta love)
 Evil twin under the staircase (Oh my God)
 Think I'm looking at a long night
 I'm alone, I'm alone, I'm alone, I'm alone
-See upcoming rock shows
-Get tickets for your favorite artists
-
-You might also like
-YOUtopia
-Bring Me The Horizon
-​n/A
-Bring Me The Horizon
-Obey
-Bring Me The Horizon
 
 [Pre-Chorus: Amy Love, Oli Sykes, Amy Love & Oli Sykes]
 Terrified (Terrified), I'm numb (But I'm numb)
