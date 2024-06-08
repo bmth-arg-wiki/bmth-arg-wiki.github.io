@@ -27,7 +27,7 @@ An 8-bit version of Kool-Aid is included on the [webpage](../webpage).
 Oli called YOUtopia and Kool-Aid two sides of the same coin in 
 [an interview on NexGen](https://www.youtube.com/watch?v=wLAoyZ4geIA).
 
-YOUtopia is about a paradise/dream, while KoolAid is described as more of a coma.
+[YOUtopia is about a paradise/dream, while KoolAid is described as more of a coma.](ph-nex-gen#connections)
 
 ### 26-05-2024 Update
 
@@ -44,6 +44,9 @@ that changed the information on the other songs.
 
 Related themes: betrayal, disillusionment, cults, control, brainwashing, suffering, 
 despair, addiction, existential struggle
+
+<details class="lyrics">
+<summary>Expand lyrics</summary>
 
 ```
 We are the children of the devolution
@@ -101,8 +104,11 @@ That this was gonna end in tears
 
 Or some shit like that
 ```
+</details>
 
 ## Read More
+
+- [POST HUMAN: NeX GEn](ph-nex-gen)
 
 Other singles:
 
