@@ -33,4 +33,4 @@ For more details, see the page on [spectrograms](spectrograms).
 - [POST HUMAN: NeX GEn](ph-nex-gen)
 - [P.U.S.S-E (concept)](../lore/pusse)
 - [Spectrograms](spectrograms)
-- [Insight 4: Purpose](../lore/insights4-purpose)
+- [Insight 4: Purpose](../lore/insight4-vision)
