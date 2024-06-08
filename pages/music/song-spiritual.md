@@ -8,6 +8,9 @@ the archangels [Michael](../characters/michael), [Gabriel](../characters/gabriel
 
 ## Lyrics
 
+<details class="lyrics">
+<summary>Expand lyrics</summary>
+
 ```
 before me, raphael
 behind me, gabriel
@@ -19,9 +22,11 @@ before me, raphael
 behind me, gabriel
 to my right hand, michael
 ```
+</details>
 
 Transcribed from the [lyric video](https://www.youtube.com/watch?v=VlZ79Cx1s7g).
 
 ## Read More
 
+- [POST HUMAN: NeX GEn](ph-nex-gen)
 - [Spectrograms](spectrograms)
