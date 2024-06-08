@@ -1,6 +1,6 @@
-# POST HUMAN: Nex Gen 
+# POST HUMAN: NeX GEn
 
-Post Human: Nex Gen is the 2nd album/EP in the POST HUMAN line. 
+POST HUMAN: NeX GEn is the 2nd album/EP in the POST HUMAN line. 
 
 ![album_cover.png](../../Resources/album_cover.png)
 ![nexgen_album2.jpg](../../Resources/nexgen_album2.jpg)
