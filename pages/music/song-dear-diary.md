@@ -1,5 +1,9 @@
 # Dear Diary,
 
+First song on [POST HUMAN: SURVIVAL HORROR](ph-survival-horror). 
+A lot of the [lyrics](#lyrics) on this song are referred to in 
+[Scott's Diary](../files/scott_personal_journal).
+
 Genius Annotations:
 ```
 The album POST HUMAN: SURVIVAL HORROR makes references to several video games. In “Dear Diary,” 
@@ -10,6 +14,10 @@ As the author succumbs to the infection, the last entry infamously reads: “Itc
 ```
 
 ## Lyrics
+Source: [Genius](https://genius.com/Bring-me-the-horizon-dear-diary-lyrics)
+
+<details class="lyrics">
+<summary>Expand lyrics</summary>
 
 ```
 Dear diary, I don't know what's going on, but something's up
@@ -49,8 +57,9 @@ Ah, never mind, it's not the end of the world, oh, wait
 Fly, hahahaha, oh
 Lie, oh
 ```
-Source: [Genius](https://genius.com/Bring-me-the-horizon-dear-diary-lyrics)
+</details>
 
 ## Read More
 
+- [POST HUMAN: SURVIVAL HORROR](ph-survival-horror)
 - [Scott's (Dear) Diary](../files/scott_personal_journal)

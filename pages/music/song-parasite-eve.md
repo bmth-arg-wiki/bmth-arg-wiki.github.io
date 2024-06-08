@@ -1,31 +1,59 @@
 # Parasite Eve
 
-Parasite Eve is the 2nd song on [PHSH](./ph-survival-horror).
+Parasite Eve is the 2nd song on [POST HUMAN: SURVIVAL HORROR](./ph-survival-horror).
+
+<details>
+<summary>Genius Annotation</summary>
 
 ```
-“Parasite Eve,” the second single from POST HUMAN: SURVIVAL HORROR, was recorded during the 2020’s quarantine and, although the inspiration for the track didn’t come from the COVID-19 pandemic, there are a lot of references to it. The title comes from a 1998 survival horror game of the same name released by Square. The band said:
+“Parasite Eve,” the second single from POST HUMAN: SURVIVAL HORROR, was recorded during 
+the 2020’s quarantine and, although the inspiration for the track didn’t come from the 
+COVID-19 pandemic, there are a lot of references to it. The title comes from a 1998 
+survival horror game of the same name released by Square. The band said:
 
-We’ve got to look that face to face. We’ve got to confront it. We’ve got to feel it. We’ve got to breathe it. We’ve got to live it sometimes to get through this. You know, it’s understandable that we want to repress these feelings, and sometimes becoming civilised requires us to repress aspects of ourselves that don’t fit in with the structured ideal of our society.
+We’ve got to look that face to face. We’ve got to confront it. We’ve got to feel it. 
+We’ve got to breathe it. We’ve got to live it sometimes to get through this. You know, 
+it’s understandable that we want to repress these feelings, and sometimes becoming 
+civilised requires us to repress aspects of ourselves that don’t fit in with the 
+structured ideal of our society.
 
-During the promotion of the song, the band changed their helix logo for a broken version.
+During the promotion of the song, the band changed their helix logo for a broken 
+version.
 
+The song was expected to be released on 2020, June, 10th, but was postponed due 
+to the George Floyd protests and all Black Lives Matter protests around the world. 
+As Oliver Sykes stated:
 
-The song was expected to be released on 2020, June, 10th, but was postponed due to the George Floyd protests and all Black Lives Matter protests around the world. As Oliver Sykes stated:
+So as some of you know we were planning on releasing a new track this week. 
+But with the incredible movement that is taking place currently we don’t feel 
+comfortable releasing and promoting anything that takes the focus off what’s important 
+right now. I know you will all understand because we have the best fans in the world and 
+I promise you we won’t make you wait too long and the good news is more music will be 
+coming soon after “Parasite Eve” too. But for now keep fighting the good fight and stay tuned.
 
-So as some of you know we were planning on releasing a new track this week. But with the incredible movement that is taking place currently we don’t feel comfortable releasing and promoting anything that takes the focus off what’s important right now. I know you will all understand because we have the best fans in the world and I promise you we won’t make you wait too long and the good news is more music will be coming soon after “Parasite Eve” too. But for now keep fighting the good fight and stay tuned.
+The game tells the story of a cop named Aya who is fighting against a biological entity that 
+calls itself Eve, who formed when a mitochondrial cell mutated and evolved, eventually 
+becoming self-aware and seeking a host beyond humanity.
 
-The game tells the story of a cop named Aya who is fighting against a biological entity that calls itself Eve, who formed when a mitochondrial cell mutated and evolved, eventually becoming self-aware and seeking a host beyond humanity.
-
-Eve threatens all life on Earth by causing her victims to spontaneously combust. The entity seeks to replace humanity with superior organisms that have control over their own DNA, and considers humanity to be a parasite leeching off the planet.
+Eve threatens all life on Earth by causing her victims to spontaneously combust. The entity 
+seeks to replace humanity with superior organisms that have control over their own DNA, 
+and considers humanity to be a parasite leeching off the planet.
 
 Also, when asked about what would he like to achieve on his last day alive, Oli Sykes said:
 A speed run on Parasite Eve’s hardest setting.
 
-Musically, it was influenced a lot by Oli Sykes playing a game called DOOM Eternal, as well as the contributions of the game soundtrack artist Mick Gordon, giving it a futuristic and cyber overlay.
+Musically, it was influenced a lot by Oli Sykes playing a game called DOOM Eternal, as well as 
+the contributions of the game soundtrack artist Mick Gordon, giving it a futuristic and cyber 
+overlay.
 ```
-Source: Genius Annotation
+</details>
 
 ## Lyrics
+
+Source: [Genius](https://genius.com/Bring-me-the-horizon-parasite-eve-lyrics)
+
+<details class="lyrics">
+<summary>Expand lyrics</summary>
 
 ```
 [Intro: Le Mystère des Voix Bulgares]
@@ -138,8 +166,9 @@ We cannot save you
 We cannot save you
 We cannot save you
 ```
-Source: [Genius](https://genius.com/Bring-me-the-horizon-parasite-eve-lyrics)
+</details>
 
 ## Read More
 
 - [EVE](../characters/eve)
+- [POST HUMAN: SURVIVAL HORROR](ph-survival-horror)
