@@ -12,6 +12,9 @@ the password for the [R8 file](../files/r8) being discovered.
 ## Lyrics
 
 Lyric video starts with: Top 10 staTues tHat CriEd bloOd (2x)
+<details class="lyrics">
+<summary>Source: Lyrics video</summary>
+
 ```
 I guesS tHat somE of us Are jUst boRN wiTh trAgedy IN our bloOd, It’s Just basIC cHemistry
 Or MAybe all these opeN wounds Is how the LiGht gets into yoU
@@ -54,8 +57,11 @@ And no amount oF love coULd SEt yOU fReE
 The figHT’s inside I’ll take myselF to hell anD BAck
 TonigHt we go to wAr
 ```
+</details>
 
 ## Read More
 
+- [POST HUMAN: NeX GEn](ph-nex-gen)
 - [Spectrograms](spectrograms)
 - [Insight 1 - Connection](../lore/insight1-connection)
+- [liMOusIne](song-limousine)
