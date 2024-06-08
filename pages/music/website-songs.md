@@ -48,3 +48,7 @@ The website songs uploaded to YouTube:
 - [5. WRIST](https://www.youtube.com/watch?v=89q8OXs2IAY)
 - [6. nmez!](https://www.youtube.com/watch?v=e4I4quwlxGM)
 - [7. MOLKO](https://www.youtube.com/watch?v=R42y99A9d-U)
+
+## Read More
+
+- [POST HUMAN: NeX GEn](ph-nex-gen)
