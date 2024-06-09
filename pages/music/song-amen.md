@@ -1,9 +1,7 @@
 # AmEN! (song)
 
 AmEN! is the 13th song on NexGen and was also released as a song. It features Lil Uzi Vert and Daryl 
-Palumbo of Glassjaw.
-
-[Official Music Video](https://www.youtube.com/watch?v=2TjcPpasesA)
+Palumbo of Glassjaw. It has an [official Music Video](https://www.youtube.com/watch?v=2TjcPpasesA).
 
 ## Lyrics
 
