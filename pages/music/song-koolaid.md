@@ -4,7 +4,7 @@ Song on the album, previously released as the sixth and last single.
 Does not seem to contain any clues in the [spectrograms](spectrograms.md).
 
 The 8-bit version of this song was released through the ARG website and 
-has seen a few interesting changes.
+has seen a few interesting changes. It also has [an official music video](https://www.youtube.com/watch?v=Jq4NhAnnD0Q).
 
 ## Kool-Aid (8-bit)
 
