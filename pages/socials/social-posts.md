@@ -18,7 +18,7 @@ been shared on Oli's profile before.
 
 ![Band member profile pictures corresponding to in-universe characters](../../Resources/socials/band_member_profiles.png)
 
-The band themselves post on at least Instagram, YouTube and Facebook 
+The band themselves post on at least Instagram, YouTube, Twitter/X and Facebook 
 (which may be better in terms of picture quality).
 
 ## Timeline
