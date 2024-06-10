@@ -27,6 +27,20 @@ The following section highlights some (seemingly) ARG-related
 social media screenshots from Bring Me The Horizon's official channels. Note that some posts may not be included 
 at the time of writing. The timeline goes from most to least recent.
 
+### June 10th 2024
+
+![angeldust.jpg](../../Resources/socials/angeldust.jpg)
+![Vegan Poster](../../Resources/socials/gdanks_vegan.jpg)
+![Madman Poster](../../Resources/socials/gdansk_madman.jpg)
+![Syko Poster](../../Resources/socials/gdansk_syko.jpg)
+![Pickles Poster](../../Resources/socials/gdansk_pickles.jpg)
+
+## June 8th 2024
+
+![Selene Poster](../../Resources/socials/selene_poster.png)
+
+A poster of Selene and M8 looking sad, announcing a European Tour.
+
 ### May 27th 2024
 
 [Bring Me The Horizon - 01BMTHS7-TooMuchMelody](https://www.youtube.com/watch?v=QBouIfEIChU)
