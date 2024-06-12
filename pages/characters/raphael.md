@@ -10,6 +10,9 @@ to 17 profiles.
 ![img_1.png](../../Resources/raphael/raphael0007.png)
 ![img_2.png](../../Resources/raphael/raphael0008.png)
 
+Currently, the picture from 0004 and 0008 is used for the Raphael profiles, the middle 
+image is actually [Uriel](uriel).
+
 ## Christian Faith
 
 Feast: 29 September; 24 October
