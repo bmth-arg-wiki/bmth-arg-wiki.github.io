@@ -7,14 +7,18 @@ This wiki will focus on objective information as much as possible and indicate w
 
 There is a lot going on in this ARG! This section will attempt to explain the most important sources.
 
+![POST HUMAN: NeX GEn album cover](Resources/album_cover.png)
+
 ### The Album
 
 The album itself contains many tracks, with some of them hiding secrets! Nearly all tracks 
 have a lyric video and there are many official videos too.
 
+![Screenshot of website Multi-dimensional Navigator 8](Resources/webpage/webpage-overview.png)
+
 ### The Webpage
 
-The webpage for the ARG can be found on https://www.multidimensionalnavigator8.help/index-desktop.html 
+The webpage for the ARG can be found [here](https://www.multidimensionalnavigator8.help/index-desktop.html) 
 and provides the bulk of what we know about the Nex Gen lore. The wiki also covers [the webpage](pages/webpage) 
 itself and the components on it.
 
@@ -22,6 +26,8 @@ Currently, many functionalities (including wi-fi) are disabled. Updates have mos
 files in a folder called [FOR SOF](pages/files/for-sof). The recommended order is to read about the webpage first, 
 then read more about the files in this folder. All passwords are spoiler-tagged, but articles about characters, songs 
 or the lore will obviously contain many spoilers.
+
+![band-cards.png](Resources/band-cards.png)
 
 ### Socials & other sources
 
