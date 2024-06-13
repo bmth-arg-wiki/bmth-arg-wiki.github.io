@@ -2,6 +2,20 @@
 
 Fourth song on [POST HUMAN: SURVIVAL HORROR](ph-survival-horror).
 
+## Interviews
+
+```
+Pop-metal banger ‘Obey’ sees the band implore the listener to “wake up and smell the 
+corruption”. “Lyrically, it’s very much coming from the oppressor saying, ‘Don’t pay 
+too much attention! Get on with your lives and you won’t have too much trouble,” he 
+explains. “‘If you do kick up a fuss, we’re going to come out and put you right.’ 
+It echoes what [Donald Trump] said throughout the [BLM protests], seeming to support 
+right-wing groups. It’s the stuff of nightmares. It’s trying to convey that notion 
+that we are being a bit too submissive.”
+```
+
+[Source: NME](https://www.nme.com/big-reads/bring-me-the-horizon-cover-interview-2020-post-human-survival-horror-2804768)
+
 ## Lyrics
 
 Source: Genius.com

@@ -11,6 +11,22 @@ outro comes from the album’s next song, “Kingslayer.”
 The band confirmed this on Twitter.
 ```
 
+## Interviews
+
+```
+The hook-laden ‘Kingslayer’, which features Japanese pop-metal sensations BABYMETAL, 
+is an ode to someone who’s “willing to do what’s right even if it’s illegal”, says Sykes.
+
+Of BABYMETAL – not exactly a band for metal purists – Sykes says: “We wanted to do 
+something with them for ages. We’ve got a really special connection with them, even 
+though we don’t speak the same language. We don’t hang out or have conversations, but 
+when you see them, it makes you really happy. They work so well with the whole idea of 
+this record being cyber-punk-y. It sounds like an anime TV trailer.” 
+
+```
+[Source: NME](https://www.nme.com/big-reads/bring-me-the-horizon-cover-interview-2020-post-human-survival-horror-2804768)
+
+
 ## Lyrics
 
 ### Itch for the Cure

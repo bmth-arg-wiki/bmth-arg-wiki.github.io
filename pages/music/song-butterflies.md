@@ -2,6 +2,16 @@
 
 Ninth and last song on [POST HUMAN: SURVIVAL HORROR](ph-survival-horror).
 
+## Interviews
+
+```
+He continues: “The idea of that song is that I’m mankind, Amy is Mother Nature and 
+it felt like the perfect thing to have the mother of rock singing it. It’s saying, 
+‘This is the end of our world, so we need to try and find a new one’. [‘Survival Horror’] 
+ends in a hopeful way. We hope that it will make people want to do something.”
+```
+[Source: NME](https://www.nme.com/big-reads/bring-me-the-horizon-cover-interview-2020-post-human-survival-horror-2804768)
+
 ## Lyrics
 
 <details class="lyrics">

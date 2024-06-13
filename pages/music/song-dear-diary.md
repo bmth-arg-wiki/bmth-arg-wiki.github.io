@@ -30,7 +30,8 @@ The sky is falling, it's fucking boring
 I'm going braindead, isolated
 God is a shithead and we're his rejects
 Traumatised for breakfast
-I can't stomach anymore Survival Horror
+I can't stomach anymore 
+Survival Horror
 
 [Guitar Solo]
 
@@ -45,7 +46,8 @@ The sky is falling, it's fucking boring
 I'm going braindead, isolatеd
 God is a shithead and we're his rеjects
 Traumatised for breakfast
-I can't stomach anymore Survival Horror
+I can't stomach anymore 
+Survival Horror
 
 [Bridge]
 Dear diary, dog stopped barking, probably 'cause I ate his face

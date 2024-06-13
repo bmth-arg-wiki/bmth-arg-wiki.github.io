@@ -2,6 +2,18 @@
 
 Seventh song on [POST HUMAN: Survival Horror](ph-survival-horror).
 
+## Interviews
+
+```
+‘1X1’, meanwhile, features British nu-metal revivalists Nova Twins, one of Sykes’ 
+favourite new bands, who soundtracked many of his lockdown hours. Here the frontman 
+laments that he’s been “reliving my memories – and they’re killing me one by one”. 
+The song, he says, addresses “the guilt that we as a society carry for what we’ve done 
+to other species and ethnicities and other genders”, but also the struggle to escape 
+his own history.
+```
+[Source: NME](https://www.nme.com/big-reads/bring-me-the-horizon-cover-interview-2020-post-human-survival-horror-2804768)
+
 ## Lyrics
 
 <details class="lyrics">

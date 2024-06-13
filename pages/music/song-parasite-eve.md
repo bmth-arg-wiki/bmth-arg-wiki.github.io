@@ -2,6 +2,8 @@
 
 Parasite Eve is the 2nd song on [POST HUMAN: SURVIVAL HORROR](./ph-survival-horror).
 
+## Interviews
+
 <details>
 <summary>Genius Annotation</summary>
 
@@ -47,6 +49,24 @@ the contributions of the game soundtrack artist Mick Gordon, giving it a futuris
 overlay.
 ```
 </details>
+
+
+## Interviews
+
+```
+“‘Parasite Eve’ was about the dawn of a new problem that mankind was going to face,” 
+says Sykes. “I was getting anxious, feeling that this could be our future. I wrote it 
+before Covid, and we talked a lot about whether or not we should release it. We were 
+worried if it was offensive. The line, ‘When we forget the infection / Will we remember 
+the lesson?’ was originally ‘If we survive the infection…’. That line just shook me at 
+first because people were actually dying.
+
+“Then we thought, ‘People need this, actually’, to get a cathartic experience from music 
+and process things a little bit – even if it is dark. That really cemented what we wanted 
+to do with this record and what the rest of the album was going to be themed around.”
+```
+[Source: NME](https://www.nme.com/big-reads/bring-me-the-horizon-cover-interview-2020-post-human-survival-horror-2804768)
+
 
 ## Lyrics
 

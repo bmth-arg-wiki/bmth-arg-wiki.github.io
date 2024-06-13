@@ -2,6 +2,19 @@
 
 Third song on [POST HUMAN: SURVIVAL HORROR](ph-survival-horror).
 
+## Interviews
+
+```
+“‘Teardrops’ is about how we’ve been traumatised into submission,” says Sykes. 
+“Whether the media intended it to be that way or not, death just becomes statistics. 
+We’ve been pummelled so much by bad news over the last year.” Speaking about the shocking 
+death of George Floyd under the knee of a US police officer, which led to renewed momentum 
+around the global Black Lives Matter protests, Sykes notes: “That was like, ‘Fucking hell, 
+there’s some real bad shit going on that we’ve just been sleepwalking through’.”
+```
+
+[Source: NME](https://www.nme.com/big-reads/bring-me-the-horizon-cover-interview-2020-post-human-survival-horror-2804768)
+
 ## Lyrics
 
 <details class="lyrics">
