@@ -12,7 +12,7 @@ There is a lot going on in this ARG! This section will attempt to explain the mo
 ### The Album
 
 The album itself contains many tracks, with some of them hiding secrets! Nearly all tracks 
-have a lyric video and there are many official videos too.
+have a lyric video and there are many [official videos](https://www.bmthofficial.com/videos/) too.
 
 ![Screenshot of website Multi-dimensional Navigator 8](Resources/webpage/webpage-overview.png)
 
