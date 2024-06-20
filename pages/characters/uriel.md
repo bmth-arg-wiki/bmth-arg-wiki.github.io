@@ -1,9 +1,9 @@
 # Uriel
 
 Uriel is the fourth archangel, linked to [Insight 4: Vision](../lore/insight4-vision). 
-He is user 0002 on the [webpage](./webpage)
+He is user 0002 on the [webpage](../webpage)
 
-![img_1.png](../../Resources/uriel/uriel.png)
+![img_1.png](../../Resources/characters/uriel/uriel.png)
 
 ## Read More
 

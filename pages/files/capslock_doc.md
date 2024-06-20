@@ -13,15 +13,15 @@ Enjoy this picture of buff M8 as a buffer between you and the spoilers.
 
 We find a storage crate that belongs to [Selene](../characters/selene.md).
 
-![img.png](../../Resources/capslock_doc/crate.png)
-![img.png](../../Resources/capslock_doc/crate_selene.png)
-![img.png](../../Resources/capslock_doc/img.png)
-![img_1.png](../../Resources/capslock_doc/img_1.png)
+![img.png](../../Resources/files/capslock_doc/crate.png)
+![img.png](../../Resources/files/capslock_doc/crate_selene.png)
+![img.png](../../Resources/files/capslock_doc/img.png)
+![img_1.png](../../Resources/files/capslock_doc/img_1.png)
 
 **!!! DO NOT SEND AN EMAIL TO THIS ADDRESS, IT IS A PLACEHOLDER AND 
 WAS NEVER MEANT TO BE FOUND !!!**
 
-![img_3.png](../../Resources/capslock_doc/img_3.png)
+![img_3.png](../../Resources/files/capslock_doc/img_3.png)
 
 ## Decrypting the password
 

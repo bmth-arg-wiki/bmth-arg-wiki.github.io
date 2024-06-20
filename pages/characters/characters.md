@@ -56,7 +56,7 @@ play a role in [Night of Pan](../lore/night-of-pan) ritual.
 
 A doctor working with [Eve](eve). He is user 0014.
 
-![img.png](../../Resources/strassman/strassman.png)
+![img.png](../../Resources/characters/strassman/strassman.png)
 
 ## The Band Members
 
@@ -75,7 +75,7 @@ The following characters correspond to the members:
 
 Sykes/Syko is 0005, Kean/Vegan is 0001, Malia/Madman is 0010 and Nicholls/Pickles is 0012.
 
-![Band cards](../../Resources/band-cards.png)
+![Band cards](../../Resources/characters/band-cards.png)
 
 A promotional image of the band on cards also links them to the [four insights](../lore/insights).
 

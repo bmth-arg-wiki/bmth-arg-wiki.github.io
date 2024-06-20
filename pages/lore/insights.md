@@ -2,11 +2,11 @@
 
 The first hint about the four insights was found in a spectogram of the song YOUtopia.
 
-![img_1.png](../../Resources/empathy/img_1.png)
+![img_1.png](../../Resources/insights/empathy/img_1.png)
 A screenshot of Sonic Visualizer, a program that can be used to analyze audio spectograms. 
 The program Audacity is an easily available alternative to achieve the same results.
 
-![img_2.png](../../Resources/empathy/img_2.png)
+![img_2.png](../../Resources/insights/empathy/img_2.png)
 Around 3:48 in the song, the message is hidden.
 
 ## Insight Spectograms
@@ -33,10 +33,10 @@ All the insights also contains a reference to the four elements: air, water, fir
 Additionally, [posts on instagram](../socials/social-posts) indicate that there might 
 be a fifth element we need to identify.
 
-![img.png](../../insight-directions.png)
+![img.png](../../Resources/insights/insight-directions.png)
 
 Each insight is also linked to a specific region in [Youtopia](youtopia), as indicated on 
-[Selene's map](../files/for-sof#YOUTOPIA_selenes_map.vis).
+[Selene's map](../files/for-sof#YOUTOPIA_selenes_mapvis).
 
 The following four insights are the ones referred to throughout the ARG. 
 They are assigned numbers according to the folder structure for `FOR SOF`. 
@@ -50,7 +50,7 @@ They make the most sense if read in the original order.
 ![img.png](../../Resources/insights/symbolism_elements.png)
 The ARG follows symbolism from real life around the four classical elements.
 
-![](../../Resources/band-cards.png)
+![](../../Resources/characters/band-cards.png)
 The four insights also seem to be directly linked to the in-universe [characters](../characters/characters.md#the-band-members) 
 for the band.
 

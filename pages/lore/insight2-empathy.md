@@ -3,7 +3,7 @@
 
 Empathy is the second insight we gather from the [spectrograms](../music/spectrograms).
 
-![img_5.png](../../Resources/empathy/img_5.png)
+![img_5.png](../../Resources/insights/empathy/img_5.png)
 
 ## Associations
 
@@ -15,11 +15,11 @@ Curse: ???
 Direction: West
 Relic: Guardian Tears
 
-![img.png](../../Resources/empathy/empathy-selenes-map.png)
+![img.png](../../Resources/insights/empathy/empathy-selenes-map.png)
 
-A region on [Selene's map](../files/for-sof#YOUTOPIA_selenes_map.vis)
+A region on [Selene's map](../files/for-sof#YOUTOPIA_selenes_mapvis)
 
-![](../../Resources/band-cards.png)
+![](../../Resources/characters/band-cards.png)
 
 Insight 2 is also associated with [Madman](../characters/madman).
 
@@ -27,15 +27,15 @@ Insight 2 is also associated with [Madman](../characters/madman).
 
 Password: `empathy`
 
-![img_3.png](../../Resources/empathy/img_3.png)
-![img_4.png](../../Resources/empathy/img_4.png)
-![img_6.png](../../Resources/empathy/img_6.png)
-![img_7.png](../../Resources/empathy/img_7.png)
-![img_8.png](../../Resources/empathy/img_8.png)
-![img_9.png](../../Resources/empathy/img_9.png)
-![img_10.png](../../Resources/empathy/img_10.png)
-![img_11.png](../../Resources/empathy/img_11.png)
-![img_12.png](../../Resources/empathy/img_12.png)
+![img_3.png](../../Resources/insights/empathy/img_3.png)
+![img_4.png](../../Resources/insights/empathy/img_4.png)
+![img_6.png](../../Resources/insights/empathy/img_6.png)
+![img_7.png](../../Resources/insights/empathy/img_7.png)
+![img_8.png](../../Resources/insights/empathy/img_8.png)
+![img_9.png](../../Resources/insights/empathy/img_9.png)
+![img_10.png](../../Resources/insights/empathy/img_10.png)
+![img_11.png](../../Resources/insights/empathy/img_11.png)
+![img_12.png](../../Resources/insights/empathy/img_12.png)
 
 ## Read More
 

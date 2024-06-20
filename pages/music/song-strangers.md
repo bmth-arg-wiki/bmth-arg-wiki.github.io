@@ -66,8 +66,8 @@ Save us from ourselves
 
 ## Song release
 
-![](../../Resources/songs/insta_2022_07_06_strangers_release.jpg)
-![](../../Resources/songs/insta_2022_07_06_strangers2.jpg)
+![](../../Resources/music/websitesongs/insta_2022_07_06_strangers_release.jpg)
+![](../../Resources/music/websitesongs/insta_2022_07_06_strangers2.jpg)
 
 The song was first announced as just `strangers`, without 
 the capitalization. Alternate capitalization `StRaNgErs` was 

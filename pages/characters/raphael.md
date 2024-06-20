@@ -6,9 +6,9 @@ Raphael used to have three different user ID's: 0004, 0007 and 0008. After the J
 disappeared, causing other characters to have 1 substracted from their user number. With this update, we went from 18 
 to 17 profiles.
 
-![img.png](../../Resources/raphael/raphael0004.png)
-![img_1.png](../../Resources/raphael/raphael0007.png)
-![img_2.png](../../Resources/raphael/raphael0008.png)
+![img.png](../../Resources/characters/raphael/raphael0004.png)
+![img_1.png](../../Resources/characters/raphael/raphael0007.png)
+![img_2.png](../../Resources/characters/raphael/raphael0008.png)
 
 Currently, the picture from 0004 and 0008 is used for the Raphael profiles, the middle 
 image is actually [Uriel](uriel).

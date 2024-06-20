@@ -61,7 +61,7 @@ related to the ARG.
 ### May 24th 2024
 
 ![Release post 1/2](../../Resources/socials/nexgen_release_insta.png)
-![Release post 2/2.png](../../Resources/nexgen_album2.jpg)
+![Release post 2/2.png](../../Resources/music/nexgen_album2.jpg)
 
 [Post on instagram](https://www.instagram.com/p/C7VCa9lNazA/?img_index=1)
 
@@ -97,7 +97,7 @@ and the [fifth element](../lore/insights.md). The caption is "𝙏𝙝𝙚 𝙂�
 
 [Post on Instagram](https://www.instagram.com/p/C6PG0zNiWV4/). Connections to ARG unknown.
 
-![img_2.png](../../Resources/connection/horizon-merch-connection1.png)
+![img_2.png](../../Resources/insights/connection/horizon-merch-connection1.png)
 
 The first insight was revealed to be connection on a 
 [Facebook post](https://www.facebook.com/photo/?fbid=979801893503451&set=pb.100044209477369.-2207520000)
@@ -105,7 +105,7 @@ on the 26th of April 2024.
 
 ### April 25th 2024
 
-![img.png](../../Resources/gatinha.png)
+![img.png](../../Resources/characters/gatinha.png)
 Location: Allianz Parque
 
 Character recognizes as Gatinha (portuguese for female cat). Cat 

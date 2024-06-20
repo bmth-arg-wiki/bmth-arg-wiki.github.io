@@ -17,9 +17,9 @@ also mentioned as being part of the
 [Lesser Banishing Ritual of the Pentagram](https://www.futureconscience.com/before-me-raphael-sacred-magic-and-the-four-archangels/). 
 The same invocation can be found in the source on this ritual.
 
-![img_1.png](../../Resources/archangels/archangels-lbrp.png)
+![img_1.png](../../Resources/characters/archangels/archangels-lbrp.png)
 
-![](../../Resources/spectrograms/spectrogram-archangels.png)
+![](../../Resources/music/spectrograms/spectrogram-archangels.png)
 Angels can also be found in the [spectrograms](../music/spectrograms) in 
 [(spi)ritual](../music/song-spiritual).
 

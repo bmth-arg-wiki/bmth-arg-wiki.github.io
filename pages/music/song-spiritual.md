@@ -4,7 +4,7 @@ The 8th song on NexGen. Its [spectrogram](spectrograms) shows four angels, assum
 the archangels [Michael](../characters/michael), [Gabriel](../characters/gabriel), 
 [Raphael](../characters/raphael) and [Uriel](../characters/uriel).
 
-![img.png](../../Resources/songs/spiritual-spectogram-archangels.png)
+![img.png](../../Resources/music/websitesongs/spiritual-spectogram-archangels.png)
 
 ## Lyrics
 

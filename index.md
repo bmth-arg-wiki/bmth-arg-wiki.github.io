@@ -7,7 +7,7 @@ This wiki will focus on objective information as much as possible and indicate w
 
 There is a lot going on in this ARG! This section will attempt to explain the most important sources.
 
-![POST HUMAN: NeX GEn album cover](Resources/album_cover.png)
+![POST HUMAN: NeX GEn album cover](Resources/music/album_cover.png)
 
 ### The Album
 
@@ -27,7 +27,7 @@ files in a folder called [FOR SOF](pages/files/for-sof). The recommended order i
 then read more about the files in this folder. All passwords are spoiler-tagged, but articles about characters, songs 
 or the lore will obviously contain many spoilers.
 
-![band-cards.png](Resources/band-cards.png)
+![band-cards.png](Resources/characters/band-cards.png)
 
 ### Socials & other sources
 

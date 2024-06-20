@@ -2,16 +2,16 @@
 
 Password: `1d1b2c2a`
 
-![](../../Resources/dreadit/dreadit_pass.png)
+![](../../Resources/files/dreadit/dreadit_pass.png)
 
 This file seems to be a forum post and first appeared in a website update on 28/05/2024. 
 The password was discovered in the URL that appeared in [the Spyder web browser](../webbrowser).
 
 ## Screenshots
 
-![](../../Resources/dreadit/dreadit1.png)
-![](../../Resources/dreadit/dreadit2.png)
-![](../../Resources/dreadit/dreadit3.png)
+![](../../Resources/files/dreadit/dreadit1.png)
+![](../../Resources/files/dreadit/dreadit2.png)
+![](../../Resources/files/dreadit/dreadit3.png)
 
 ## Transcript
 

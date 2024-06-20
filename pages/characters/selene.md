@@ -1,6 +1,6 @@
 # Selene
 
-![Selene.png](../../Resources/selene/selene.png)
+![Selene.png](../../Resources/characters/selene/selene.png)
 
 Selene is one of the users that can be viewed on the M8 system. She has user number 0003.
 
@@ -11,9 +11,9 @@ the alarm is 'her cue'. She indicates that [M8](../m8) has been with her for som
 time and has saved her life countless times, even highlighting the fact M8 may have 
 done the same for Sof by now.
 
-![Art of Selene and Eve](../../Resources/selene_eve_art.jpg)
+![Art of Selene and Eve](../../Resources/characters/selene_eve_art.jpg)
 
-![img.png](../../Resources/selene/subject-selene.png)
+![img.png](../../Resources/characters/selene/subject-selene.png)
 
 Top right corner of the log-in page displays `SUBJECT: SELENE`.
 

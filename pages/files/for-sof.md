@@ -133,7 +133,7 @@ No password
 
 ## CAPSLOCK.doc
 
-![Capslock doc password screen](../../Resources/capslock_doc/capslockdoc_password.png)
+![Capslock doc password screen](../../Resources/files/capslock_doc/capslockdoc_password.png)
 
 Note: this article may contain spoilers, as it was discovered earlier than it was 
 supposed to be.

@@ -3,9 +3,9 @@
 Sof is the girl from the cover art. She is referred to as such in several descriptions 
 on the Horizon merch website.
 
-![img.png](../../Resources/album_cover.png)
-![img.png](../../Resources/sof/nex_gen_sof_shirt.png)
-![img_1.png](../../Resources/sof/nex_gen_sof_backpack.png)
+![img.png](../../Resources/music/album_cover.png)
+![img.png](../../Resources/characters/sof/nex_gen_sof_shirt.png)
+![img_1.png](../../Resources/characters/sof/nex_gen_sof_backpack.png)
 
 It seems that the bear pictured with her is called VEX from the Horizon merch listings.
 
@@ -28,7 +28,7 @@ opened using the password `past`.
 
 ## Art
 
-![Sof by vinne.art on Instagram](../../Resources/sof/sof_art.jpg)
+![Sof by vinne.art on Instagram](../../Resources/characters/sof/sof_art.jpg)
 
 More original artwork from `@vinne.art`.
 
@@ -39,7 +39,7 @@ cover seems to show her with her third eye sewn shut. While the timeline is gene
 assumed to be linear (i.e. PH1 comes before PH2 in the timeline), there is still some 
 discussion around the timeline.
 
-![img.png](../../Resources/sof/img.png)
+![img.png](../../Resources/characters/sof/img.png)
 
 ## Read More
 

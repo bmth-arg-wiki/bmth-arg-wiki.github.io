@@ -12,11 +12,11 @@ There have actually been two versions of this song: the first version on the web
 of May 2024) and the second version on the website (26th of May 2024). 
 After the latest update, neither can be found on the website anymore.
 
-![img_3.png](../../Resources/songs/kool8.png)
+![img_3.png](../../Resources/music/websitesongs/kool8.png)
 
 Before 26-05 update.
 
-![img.png](../../Resources/songs/kool8-2.png)
+![img.png](../../Resources/music/websitesongs/kool8-2.png)
 
 After 26-05 update.
 

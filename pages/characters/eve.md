@@ -1,10 +1,10 @@
 # EVE/E.V.E
 
-![Eve.png](../../Resources/eve/eve.png)
+![Eve.png](../../Resources/characters/eve/eve.png)
 
 EVE is user 0000 in the system and the 'big boss', as M8 calls her.
 
-![img_1.png](../../Resources/eve/eve_boss.png)
+![img_1.png](../../Resources/characters/eve/eve_boss.png)
 
 It is implied that EVE is on earth, while we are not. 
 

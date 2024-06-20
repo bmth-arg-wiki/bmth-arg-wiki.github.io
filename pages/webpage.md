@@ -16,14 +16,14 @@ Password: 93934521
 The password to boot in safe mode is the serial number on the side of M8's
 head. It can be found on the album cover (although the serial number is very tiny).
 
-![Album Cover.png](../Resources/album_cover.png)
+![Album Cover.png](../Resources/music/album_cover.png)
 
 ## QR Code
 
 The QR code for the website was found at the end of the [spectrogram](music/spectrograms) 
 in the song DIg It.
 
-![img.png](../Resources/spectrograms/spectrogram_qr.png)
+![img.png](../Resources/music/spectrograms/spectrogram_qr.png)
 
 ## Website contents
 
@@ -85,7 +85,7 @@ The kodek messaging app also states that it needs a connection to the internet.
 
 Wi-fi options menu
 
-![Website button with M8.png](../Resources/webpage-button-m8.png)
+![Website button with M8.png](../Resources/webpage/webpage-button-m8.png)
 
 Website button with M8 on it shows us some system information.
 

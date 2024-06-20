@@ -26,7 +26,7 @@ what would you do for p.u.s.s.-e?
 
 For more details, see the page on [spectrograms](spectrograms).
 
-![img.png](../../Resources/spectrograms/spectogram_pusse_end.png)
+![img.png](../../Resources/music/spectrograms/spectogram_pusse_end.png)
 
 ## Read More
 

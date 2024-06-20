@@ -15,11 +15,11 @@ Direction: East
 Relic: [Pan](../characters/pan)'s Flute
 Symbol: triangle with line through the middle horizontally
 
-![img.png](../../Resources/connection/raphael-selenes-map.png)
+![img.png](../../Resources/insights/connection/raphael-selenes-map.png)
 
 A region on [Selene's map](../files/for-sof)
 
-![](../../Resources/band-cards.png)
+![](../../Resources/characters/band-cards.png)
 
 Insight 1 is also associated with [Syko](../characters/syko).
 
@@ -30,24 +30,24 @@ possibly indicating another code (might lead to [capslock doc](../files/capslock
 
 Password: `connection`
 
-![img_7.png](../../Resources/connection/connection1.png)
-![img.png](../../Resources/connection/connection2.png)
-![img_1.png](../../Resources/connection/connection3.png)
-![img_2.png](../../Resources/connection/connection4.png)
-![img_3.png](../../Resources/connection/connection5.png)
-![img_4.png](../../Resources/connection/connection6.png)
-![img_5.png](../../Resources/connection/connection7.png)
-![img_6.png](../../Resources/connection/connection8.png)
+![img_7.png](../../Resources/insights/connection/connection1.png)
+![img.png](../../Resources/insights/connection/connection2.png)
+![img_1.png](../../Resources/insights/connection/connection3.png)
+![img_2.png](../../Resources/insights/connection/connection4.png)
+![img_3.png](../../Resources/insights/connection/connection5.png)
+![img_4.png](../../Resources/insights/connection/connection6.png)
+![img_5.png](../../Resources/insights/connection/connection7.png)
+![img_6.png](../../Resources/insights/connection/connection8.png)
 
 ## Mentions on social media
 
-![img_2.png](../../Resources/connection/horizon-merch-connection1.png)
+![img_2.png](../../Resources/insights/connection/horizon-merch-connection1.png)
 
 The first insight was revealed to be connection on a 
 [Facebook post](https://www.facebook.com/photo/?fbid=979801893503451&set=pb.100044209477369.-2207520000)
 on the 26th of April 2024.
 
-![img.png](../../Resources/connection/insight1-connection-story.png)
+![img.png](../../Resources/insights/connection/insight1-connection-story.png)
 An instagram story revealing connection to be the first insight ~6 weeks before album launch.
 ## Read More
 

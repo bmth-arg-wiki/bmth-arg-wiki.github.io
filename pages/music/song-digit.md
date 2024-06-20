@@ -98,7 +98,7 @@ is life is a
 
 ## 93 second silence
 
-![img.png](../../Resources/songs/silence93.png)
+![img.png](../../Resources/music/websitesongs/silence93.png)
 
 The number 93 often appears, like in these 93 seconds of silence.
 

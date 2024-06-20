@@ -6,7 +6,7 @@ The 7th song on NexGen.
 
 ## Audio secrets
 
-![img_1.png](../../Resources/songs/bullet_reversed.png)
+![img_1.png](../../Resources/music/websitesongs/bullet_reversed.png)
 
 In this song we are warned about a doctor [Karl Strasmann](../characters/strassman) through 
 reversed audio.

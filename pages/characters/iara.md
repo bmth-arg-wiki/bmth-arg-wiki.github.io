@@ -3,7 +3,7 @@
 Iara is user 0015 and possibly a colleague of Selene. She used to be user 0016, before the 
 update on June 4th 2024.
 
-![img_2.png](../../Resources/iara/iara.png)
+![img_2.png](../../Resources/characters/iara/iara.png)
 
 ![img_1.png](../../Resources/webpage/message_screenshot.png)
 
