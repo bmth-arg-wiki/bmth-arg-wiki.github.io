@@ -11,6 +11,7 @@ The dashboard upon login, after the [weather module](#weather-module) was change
 
 ## Password
 
+![Bring-Me-The-Horizon-website-shot.png](../Resources/Bring-Me-The-Horizon-website-shot.png)
 Password: 93934521
 
 The password to boot in safe mode is the serial number on the side of M8's
