@@ -4,7 +4,14 @@ Song on the album, previously released as the sixth and last single.
 Does not seem to contain any clues in the [spectrograms](spectrograms.md).
 
 The 8-bit version of this song was released through the ARG website and 
-has seen a few interesting changes. It also has [an official music video](https://www.youtube.com/watch?v=Jq4NhAnnD0Q).
+has seen a few interesting changes. It also has [an official music video](https://www.youtube.com/watch?v=Jq4NhAnnD0Q), 
+as well as a [lyric video](https://www.youtube.com/watch?v=YyacCX-CFUM).
+
+## Lyric Video
+
+The lyric video was directed and edited by [circushead](https://circushead.co/pages/bring-me-the-horizon-kool-aid-lyric-video), 
+who also worked on the direction of Kool-Aid Live, including the visuals of a woman 
+only named in the live shows as Angeldust.
 
 ## Kool-Aid (8-bit)
 
@@ -109,6 +116,7 @@ Or some shit like that
 ## Read More
 
 - [POST HUMAN: NeX GEn](ph-nex-gen)
+- [Website songs](website-songs)
 
 Other singles:
 
