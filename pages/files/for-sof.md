@@ -133,6 +133,11 @@ No password
 </details>
 
 ## CAPSLOCK.doc
+<details class="password">
+  <summary>Password</summary>
+
+`DEKODE THE MATRIX TO ATTAIN YOUR CONCEALED ORIGINS`
+</details>
 
 ![Capslock doc password screen](../../Resources/files/capslock_doc/capslockdoc_password.png)
 

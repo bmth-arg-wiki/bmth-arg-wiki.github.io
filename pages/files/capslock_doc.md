@@ -27,7 +27,11 @@ WAS NEVER MEANT TO BE FOUND !!!**
 
 The password was decrypted using the capital letters from the tracklist/songs? (source needed).
 
+<details class="password">
+  <summary>Password</summary>
+
 `DEKODE THE MATRIX TO ATTAIN YOUR CONCEALED ORIGINS`
+</details>
 
 ## System Breach Email
 
