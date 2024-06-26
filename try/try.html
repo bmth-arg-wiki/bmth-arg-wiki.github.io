@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dropdown Menu Example</title>
+    <style>/* styles.css */
+
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            min-height: 100vh; /* Ensure sidebar stretches vertically */
+        }
+        
+        .sidebar {
+            width: 250px; /* Set width of sidebar */
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+        }
+        
+        .menu {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        
+        .menu-item {
+            position: relative;
+        }
+        
+        .main-title {
+            display: block;
+            padding: 15px 20px;
+            color: black; /* Set text color */
+            text-decoration: none;
+        }
+        
+        .main-title:hover {
+            background-color: #f0f0f0; /* Light background color on hover */
+        }
+        
+        .submenu {
+            display: none;
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        
+        .submenu li {
+            width: 100%;
+        }
+        
+        .submenu a {
+            display: block;
+            padding: 10px 20px;
+            color: black; /* Set text color */
+            text-decoration: none;
+        }
+        
+        /* Show submenu when menu item is clicked */
+        .menu-item.active .submenu {
+            display: block;
+        }
+        
+</style>        
+</head>
+<body>
+    <div class="sidebar">
+        <ul class="menu">
+            <li class="menu-item">
+                <a href="#" class="main-title">Main Title</a>
+                <ul class="submenu">
+                    <li><a href="#link1">Link 1</a></li>
+                    <li><a href="#link2">Link 2</a></li>
+                    <li><a href="#link3">Link 3</a></li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+
+    <script>// script.js
+
+        document.addEventListener("DOMContentLoaded", function() {
+            // Add click event listener to main-title links
+            let mainTitles = document.querySelectorAll('.main-title');
+            mainTitles.forEach(title => {
+                title.addEventListener('click', function(event) {
+                    // Toggle active class on parent menu-item
+                    let menuItem = this.parentNode;
+                    menuItem.classList.toggle('active');
+                    event.preventDefault();
+                });
+            });
+        
+            // Close dropdown if user clicks outside of it
+            window.addEventListener('click', function(event) {
+                let menus = document.querySelectorAll('.menu-item');
+                menus.forEach(menu => {
+                    if (!menu.contains(event.target)) {
+                        menu.classList.remove('active');
+                    }
+                });
+            });
+        });
+        
+        </script>
+</body>
+</html>
