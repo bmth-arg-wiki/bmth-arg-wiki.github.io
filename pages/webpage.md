@@ -107,12 +107,12 @@ Spyder is the in-universe [web browser](webbrowser) on the page.
 
 The website users are all [characters](characters/characters) with their own dedicated pages.
 
-## Kodek
+## Codek
 
 ![img.png](../Resources/webpage/kodek.png)
 
 This dialogue is shown briefly before getting a message that we need to connect to the 
-internet first to use the messager app.
+internet first to use the messaging app.
 
 ## Website backgrounds
 
