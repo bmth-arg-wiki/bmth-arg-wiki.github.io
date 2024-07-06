@@ -23,6 +23,7 @@ spoilers for this document are contained to that specific article.
 ## Official Art
 
 ![Art of Selene and Eve by vinne.art](../../Resources/characters/selene_eve_art.jpg)
+![Promotional poster for Selene](../../Resources/characters/selene/poster.jpg)
 ![Selene connected to cables with white eyes, promotional poster](../../Resources/characters/selene/poster_cables.jpg)
 
 ## Read More
