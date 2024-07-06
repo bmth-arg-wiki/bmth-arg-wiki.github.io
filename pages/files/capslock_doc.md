@@ -93,5 +93,6 @@ authentic artwork.
 
 ## Read More
 
+- [FOR SOF folder](./for-sof)
 - [M8](../m8)
 - [Selene](../characters/selene.md)

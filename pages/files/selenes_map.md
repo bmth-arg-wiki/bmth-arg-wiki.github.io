@@ -7,4 +7,5 @@ to occupy a physical space in [Youtopia](../lore/youtopia).
 
 ## Read More
 
+- [FOR SOF folder](./for-sof)
 - [Selene](../characters/selene)

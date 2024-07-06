@@ -68,5 +68,6 @@ I love you. I love you. I.. I’m sorry.
 
 ## Read More
 
+- [FOR SOF folder](./for-sof)
 - [Selene](../characters/selene.md)
 - [Sof](../characters/sof.md)

@@ -282,3 +282,9 @@ In this final section, the results of the tests are summarized.
 D8 summarizes that the initial tests of EVE look good, and that continued monitoring and improvements are recommended. Lauren shows positive physiological responses and interaction with EVE’s systems.
 
 **End of Log Entry**
+
+## Read More
+
+- [Lauren D8 log file](./lauren_d8_log)
+- [FOR SOF folder](./for-sof)
+- [Nex Gen Corporation](../lore/nex-gen-corporation)

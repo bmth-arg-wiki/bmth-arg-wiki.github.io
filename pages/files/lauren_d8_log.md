@@ -40,5 +40,6 @@ An analysis in simpler English can be found [here](lauren_d8_log_analysis).
 
 ## Read More
 
+- [FOR SOF folder](./for-sof)
 - [Lauren](../characters/ren)
 - [EVE](../characters/eve)

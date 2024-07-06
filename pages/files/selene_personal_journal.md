@@ -21,6 +21,7 @@ Document in the [FOR SOF](for-sof) folder.
 
 ## Read More
 
+- [FOR SOF folder](./for-sof)
 - [Selene](../characters/selene)
 - [Scott](../characters/syko)
 - [Scott's diary](scott_personal_journal)

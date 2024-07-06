@@ -27,6 +27,7 @@ pandemic, which occurred in 2037. It has strong ties to the song [Dear Diary](..
 
 ## Read More
 
+- [FOR SOF folder](./for-sof)
 - [Syko (Oliver Scott Sykes)](../characters/syko)
 - [Selene](../characters/selene)
 - [Selene's personal journal](selene_personal_journal)

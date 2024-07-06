@@ -126,6 +126,7 @@ From Discord user @Explo1t.
 
 ## Read More
 
+- [FOR SOF folder](./for-sof)
 - [Nex Gen](../lore/nex-gen-corporation)
 - [Karl Strassman](../characters/strassman)
 - [Selene](../characters/selene)
