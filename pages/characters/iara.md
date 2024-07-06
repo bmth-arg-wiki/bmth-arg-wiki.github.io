@@ -11,7 +11,7 @@ Iara is marked as "Iara (work)" in the [Codek](../webpage#codek), the in-univers
 service. We can also see her Nex Gen access card on her promotional poster, which 
 was found on [social media](../socials/social-posts).
 
-![poster.jpg](../../Resources/characters/iara/poster.jpg)
+![Promotional poster for Iara](../../Resources/characters/iara/poster.jpg)
 
 ## More Reading
 

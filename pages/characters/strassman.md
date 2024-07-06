@@ -19,7 +19,7 @@ when this audio was recorded in-universe.
 
 ## Official Art
 
-![poster.jpg](../../Resources/characters/strassman/poster.jpg)
+![Promotional poster for Strassman](../../Resources/characters/strassman/poster.jpg)
 
 ## Read More
 

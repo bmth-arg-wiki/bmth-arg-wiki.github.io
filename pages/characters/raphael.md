@@ -21,9 +21,17 @@ Patronage: travelers; lovers; the youth; finding one’s spouse; ordained marria
 shepherds; pharmacists; druggists; nurses; physicians; illness; eye afflictions; the sick; the blind; against nightmares;
 (source: wikipedia)
 
+## Official Art
+
+![Promotional poster for Raphael](../../Resources/characters/raphael/poster.jpg)
+
+Raphael also has the logo for [Connection](../lore/insight1-connection) on his chest.
+
 ## Read More
 
 - [Insight 1: Connection](../lore/insight1-connection)
+- [Syko](syko)
+- [Pan](pan)
 
 Other [archangels](archangels):
 

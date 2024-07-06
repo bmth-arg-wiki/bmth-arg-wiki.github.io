@@ -6,7 +6,7 @@ EVE is user 0000 in the system and the 'big boss', as M8 calls her.
 
 ![img_1.png](../../Resources/characters/eve/eve_boss.png)
 
-It is implied that EVE is on earth, while we are not. 
+It is implied that EVE is on earth, while we are not, from M8's voice lines.
 
 ## Abbreviations
 
@@ -26,7 +26,7 @@ Most of this information comes directly from the [Strassman codec file](../files
 
 ## E.V.E AI
 
-E.V.E is prominently mentioned in the [genesis storyline post](../lore/genesis-storyline).
+E.V.E is prominently mentioned in the [Genesis storyline post](../lore/genesis-storyline).
 
 ```
 E.V.E

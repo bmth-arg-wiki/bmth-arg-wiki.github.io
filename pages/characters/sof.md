@@ -26,8 +26,9 @@ Access was gained to [Multidimensional Navigator 8](../m8) (M8) through a QR cod
 This refers to a folder on the computer of the [webpage](../webpage), which can be 
 opened using the password `past`.
 
-## Art
+## Official Art
 
+![Promotional poster for Sof](../../Resources/characters/sof/poster.jpg)
 ![Sof by vinne.art on Instagram](../../Resources/characters/sof/sof_art.jpg)
 
 More original artwork from `@vinne.art`.

@@ -7,7 +7,7 @@ although the position of first user in the system belongs to [0000 EVE](eve).
 
 ![](../../Resources/characters/vegan/vegan_art.jpg)
 
-The insight associated with Vegan is [Vision](../lore/insight4-vision).
+The insight associated with Vegan is [Insight 4: Vision](../lore/insight4-vision).
 
 ## Read More
 

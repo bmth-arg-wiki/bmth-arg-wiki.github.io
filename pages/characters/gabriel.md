@@ -6,11 +6,17 @@ Gabriel is one of the [archangels](archangels) and linked to [Insight 2: Empathy
 He used to be user 0017 on the [webpage](../webpage), before an update on June 4th 2024 moved him to 
 user 0016.
 
+## Official art
+
+An official poster for Gabriel has not been released at the time of writing.
+
 ## Read More
 
 - [Insight 2: Empathy](../lore/insight2-empathy)
+- [Miseria](miseria)
+- [Madman](madman)
 
-Other [archangels](archangels):
+Other [Archangels](archangels):
 
 - [Michael](michael)
 - [Raphael](raphael)

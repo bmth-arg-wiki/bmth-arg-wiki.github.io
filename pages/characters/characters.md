@@ -99,8 +99,8 @@ imagery related to Mantra also appears in the music video for [Sugar, Honey, Ice
 
 Dallus Lauren was the head of R&D at Arc/Hive (see [Project D.U.S.T.](../files/project_dust)). 
 He passed away before 2037, as evidenced by the [D8 log](../files/lauren_d8_log) from his son 
-[Ikaro (Ren) Lauren](ren). The project D.U.S.T. file explains that he suffers from mares, despite 
-a desensitization protocol. 
+[Ikaro (Ren) Lauren](ren). Dallus Lauren also invented the MOXYPAK and possibly synths, according to the 
+same log. The project D.U.S.T. file explains that he suffers from mares, despite a desensitization protocol. 
 
 The following is speculation and has not been confirmed:
 
