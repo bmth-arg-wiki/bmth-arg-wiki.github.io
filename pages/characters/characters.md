@@ -83,7 +83,7 @@ A promotional image of the band on cards also links them to the [four insights](
 
 ## Nex Gen & Trinity employees
 
-### Trinity 
+### Trinity
 
 The members of the Trinity are three scientists, mentioned first in the [trinity document](../files/trinity_document).
 

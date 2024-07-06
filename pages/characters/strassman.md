@@ -1,20 +1,30 @@
-# Karl Strassman
+# Dr. Karl Strassman
 
 ![strassman.png](../../Resources/characters/strassman/strassman.png)
 
 Karl Strassman is a doctor that works with [Eve](eve), as seen in a 
-video unlocked on the 26th of May in the [FOR SOF](../files/for-sof) folder.
+[video](../files/strassmancodec) unlocked on the 26th of May in the 
+[FOR SOF](../files/for-sof) folder. This was one of the earliest files and 
+has been upgraded in quality from its initial release.
 
-![Strassman in a conversation with Eve.png](../../Resources/characters/strassman/strassman_video.png)
+![Strassman in a conversation with Eve](../../Resources/characters/strassman/strassman_video.png)
 
-In the video he can be seen speaking to Eve about the effects of [P.u.s.s-e](../lore/pusse). 
+In the video he can be seen speaking to Eve about the effects of [P.U.S.S-E](../lore/pusse). 
 He stresses that there are a lot of negative side effects to its use, to have people 
 enter into [Youtopia](../lore/youtopia).
 
-He seemingly shoots himself at the end of the audio for [ABWMNO](../music/song-abwmno).
+He seemingly shoots himself/is shot at the end of the audio for [ABWMNO](../music/song-abwmno). 
+It is unconfirmed who shot him, or whether he survived or not. It is unclear 
+when this audio was recorded in-universe.
+
+## Official Art
+
+![poster.jpg](../../Resources/characters/strassman/poster.jpg)
 
 ## Read More
 
+- [FOR SOF](../files/for-sof)
 - [Nex Gen Corporation](../lore/nex-gen-corporation)
-- [P.u.s.s-e](../lore/pusse)
-- [Eve](eve)
+- [Trinity](characters#trinity)
+- [P.U.S.S-E](../lore/pusse)
+- [E.V.E](eve)
