@@ -1,19 +1,20 @@
 # Downloadfest
 
-The Downloadfest event introduced [the Church of Genesis](church) and 
+The Downloadfest event introduced [the Church of Genxsis](church) and 
 seems to hold lore significance. 
+
+![Website screenshot](../../Resources/lore/genxsis.faith/genxsis_faith.png)
 
 ## Website
 
 The [website for downloadfest](https://www.genxsis.faith/) is still up and 
 contains a cypher.
 
-![Website screenshot](../../Resources/downloadfest/genxsis_faith.png)
-![cypher.png](../../Resources/downloadfest/cypher.png)
+![Cypher wheel](../../Resources/lore/genxsis.faith/cypher.png)
 
 The cypher can be obtained by clicking the symbol in the upper right corner. 
 
-![Bring Me The Horizon in the cypher symbols.png](../../Resources/other-webpages/bmth_cypher.png)
+![Bring Me The Horizon in the cypher symbols](../../Resources/other-webpages/bmth_cypher.png)
 
 It is sometimes used to spell out "BRING ME THE HORIZON" (pictured above) or "NEX GEN" on 
 current [promotional material](../socials).

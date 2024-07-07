@@ -5,7 +5,7 @@ including [social media pages](socials/social-posts).
 
 ## Downloadfest
 
-![Cypher](../Resources/downloadfest/cypher.png)
+![Cypher](../Resources/lore/genxsis.faith/cypher.png)
 
 A cypher found on a Downloadfest webpage was re-used in the ARG, as evidenced 
 by the use of these symbol in different promotional posts. Also see the 
