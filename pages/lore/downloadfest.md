@@ -21,20 +21,20 @@ current [promotional material](../socials).
 
 ## Downloadfest on Social Media
 
-![](../../Resources/downloadfest/downloadfest_noserialno.jpg)
-![](../../Resources/downloadfest/insta_downloadfest1.jpg)
-![](../../Resources/downloadfest/insta_downloadfest2.jpg)
-![](../../Resources/downloadfest/insta_downloadfest3.jpg)
-![](../../Resources/downloadfest/insta_downloadfest_4.jpg)
-![](../../Resources/downloadfest/insta_downloadfest5.jpg)
-![](../../Resources/downloadfest/insta_downloadfest6.jpg)
-![](../../Resources/downloadfest/insta_downloadfest7.jpg)
+![](../../Resources/lore/downloadfest/downloadfest_noserialno.jpg)
+![](../../Resources/lore/downloadfest/insta_downloadfest1.jpg)
+![](../../Resources/lore/downloadfest/insta_downloadfest2.jpg)
+![](../../Resources/lore/downloadfest/insta_downloadfest3.jpg)
+![](../../Resources/lore/downloadfest/insta_downloadfest_4.jpg)
+![](../../Resources/lore/downloadfest/insta_downloadfest5.jpg)
+![](../../Resources/lore/downloadfest/insta_downloadfest6.jpg)
+![](../../Resources/lore/downloadfest/insta_downloadfest7.jpg)
 
-![](../../Resources/downloadfest/insta_downloadfest_dancers.jpg)
-![](../../Resources/downloadfest/insta_downloadfest_dancer_picture.jpg)
-![](../../Resources/downloadfest/eve_art_downloadfest.jpg)
+![](../../Resources/lore/downloadfest/insta_downloadfest_dancers.jpg)
+![](../../Resources/lore/downloadfest/insta_downloadfest_dancer_picture.jpg)
+![](../../Resources/lore/downloadfest/eve_art_downloadfest.jpg)
 
-![](../../Resources/downloadfest/insta_downloadfest_genesisstoryline.jpg)
+![](../../Resources/lore/downloadfest/insta_downloadfest_genesisstoryline.jpg)
 
 This post also provided a lot of lore insights, which are documented on the 
 [Genesis Storyline page](genesis-storyline).

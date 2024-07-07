@@ -103,7 +103,7 @@ the premise of the ARG: we are exploring the files Selene left for her daughter.
 These are some documents introducing us to the concept of the four insights that
 we see throughout the ARG.
 
-[See the page on the insights](../../Resources/insights)
+[See the page on the insights](../../Resources/lore/insights)
 
 ### THEINSIGHT.DOC
 No password

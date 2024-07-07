@@ -97,7 +97,7 @@ and the [fifth element](../lore/insights.md). The caption is "𝙏𝙝𝙚 𝙂�
 
 [Post on Instagram](https://www.instagram.com/p/C6PG0zNiWV4/). Connections to ARG unknown.
 
-![img_2.png](../../Resources/insights/connection/horizon-merch-connection1.png)
+![img_2.png](../../Resources/lore/insights/connection/horizon-merch-connection1.png)
 
 The first insight was revealed to be connection on a 
 [Facebook post](https://www.facebook.com/photo/?fbid=979801893503451&set=pb.100044209477369.-2207520000)

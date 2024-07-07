@@ -7,7 +7,7 @@ Omen of [Insight 1: Connection](../lore/insight1-connection). Before June 4th 20
 It is currently 0008. His skin tone also changed during a later update in June, giving his 
 light skin tone a pinkish hue.
 
-![Pan on Selene's map](../../Resources/insights/connection/raphael-selenes-map.png)
+![Pan on Selene's map](../../Resources/lore/insights/connection/raphael-selenes-map.png)
 
 Marked on [Selene's](selene) map as "a beautiful mistake".
 

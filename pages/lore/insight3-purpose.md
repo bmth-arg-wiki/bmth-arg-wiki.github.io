@@ -3,7 +3,7 @@
 
 Purpose is the third insight, found in the spectrogram of puss-e.
 
-![img_1.png](../../Resources/insights/purpose/purpose_spectogram.png)
+![img_1.png](../../Resources/lore/insights/purpose/purpose_spectogram.png)
 
 ## Associations
 
@@ -22,18 +22,18 @@ Insight 3 is also associated with [Pickles](../characters/pickles).
 
 Password: purpose
 
-![img_13.png](../../Resources/insights/purpose/img_13.png)
-![img_14.png](../../Resources/insights/purpose/img_14.png)
-![img_15.png](../../Resources/insights/purpose/img_15.png)
-![img_16.png](../../Resources/insights/purpose/img_16.png)
-![img_1.png](../../Resources/insights/purpose/img_1.png)
-![img_2.png](../../Resources/insights/purpose/img_2.png)
-![img_3.png](../../Resources/insights/purpose/img_3.png)
-![img_4.png](../../Resources/insights/purpose/img_4.png)
+![img_13.png](../../Resources/lore/insights/purpose/img_13.png)
+![img_14.png](../../Resources/lore/insights/purpose/img_14.png)
+![img_15.png](../../Resources/lore/insights/purpose/img_15.png)
+![img_16.png](../../Resources/lore/insights/purpose/img_16.png)
+![img_1.png](../../Resources/lore/insights/purpose/img_1.png)
+![img_2.png](../../Resources/lore/insights/purpose/img_2.png)
+![img_3.png](../../Resources/lore/insights/purpose/img_3.png)
+![img_4.png](../../Resources/lore/insights/purpose/img_4.png)
 
 ## Speculation
 
-![Selene's map, with the prince of Death labelled](../../Resources/insights/purpose/princeofdeath.png)
+![Selene's map, with the prince of Death labelled](../../Resources/lore/insights/purpose/princeofdeath.png)
 
 The Prince of Death might be the curse of this Insight, according to 
 [Selene's map](../files/for-sof#YOUTOPIA_selenes_mapvis). However, following that logic 
