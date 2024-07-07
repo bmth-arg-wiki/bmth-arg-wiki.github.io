@@ -1,6 +1,9 @@
 # Itch For the Cure (When Will We Be Free) & Kingslayer
 
-Itch for the Cure and Kingslayer are the 5th and 6th songs on [POST HUMAN: SURVIVAL HORROR](ph-survival-horror).
+Itch for the Cure and Kingslayer are the 5th and 6th songs on [POST HUMAN: SURVIVAL HORROR](ph-survival-horror). 
+
+The concept of a Kingslayer seems to play a large role in the ARG, which can 
+for example be seen in the filenames in the [FOR SOF](../files/for-sof) folder.
 
 Genius Annotation:
 ```

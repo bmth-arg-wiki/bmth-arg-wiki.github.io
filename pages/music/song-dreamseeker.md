@@ -3,7 +3,9 @@
 The first song on NexGen, being a short intro that leads into the song 
 [Youtopia](../lore/youtopia). 
 
-The word Dreamseeker appears multiple times throughout the ARG.
+The word Dreamseeker appears multiple times throughout the ARG, referring 
+to a device of some kind. The [Dreadit](../files/dreadit) file confirms 
+that the Dreamseekers are being developed by Nex Gen.
 
 ## Lyrics
 
@@ -14,4 +16,5 @@ This song doesn't have any clear lyrics.
 - [POST HUMAN: NeX GEn](ph-nex-gen)
 - [Youtopia (song)](song-youtopia)
 - [Youtopia (concept)](../lore/youtopia)
-- [P.u.s.s-e](../lore/pusse)
+- [P.U.S.S-e](../lore/pusse)
+- [Dreadit post](../files/dreadit)

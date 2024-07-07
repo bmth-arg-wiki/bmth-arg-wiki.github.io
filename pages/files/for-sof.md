@@ -1,6 +1,6 @@
 # FOR SOF
 
-![Password prompt for the folder](../../Resources/for-sof/for_sof_password_prompt.png)
+![Password prompt for the folder](../../Resources/files/for_sof_password_prompt.png)
 
 `FOR SOF` is a folder in the ARG that can be accessed on the computer. It is password 
 protected and was found on 26-05-2024. It requires a password.
@@ -78,7 +78,7 @@ This article also contains information on [previous versions](#previous-versions
 
 ## Placeholders
 
-![Password screen for most files](../../Resources/for-sof/old_placeholder.png)
+![Password screen for most files](../../Resources/files/old_placeholder.png)
 
 When the website updates, new password screens are introduced for files, indicating that 
 they can now be unlocked. The specific screens will show the number of characters to input, 
@@ -96,7 +96,7 @@ Audio log from [Selene](../characters/selene.md) to [Sof](../characters/sof.md).
 This file is not password protected. This file is very lore-heavy and will introduce us to 
 the premise of the ARG: we are exploring the files Selene left for her daughter.
 
-![Screenshot of the audio player](../../Resources/for-sof/msgforsof-audioplayer.png)
+![Screenshot of the audio player](../../Resources/files/msgforsof-audioplayer.png)
 
 ## THE INSIGHTS.DOC, INSIGHT1-4 docs
 
@@ -161,7 +161,7 @@ A document in the folder. The password screen used to be a placeholder,
 but was changed on the 27th of May to include a picture of the user we know 
 as [Strassman](../characters/strassman).
 
-![img.png](../../Resources/for-sof/strassman-pass-screen.png)
+![img.png](../../Resources/files/strassman-pass-screen.png)
 
 Also see the [article on this file](strassmancodec).
 
@@ -191,7 +191,7 @@ in the sticky notes (TODO: expand on source).
 
 ## R8/fulfilment_source[m0n0].doc
 
-![Password screen for the R8 file](../../Resources/for-sof/r8_pass.png)
+![Password screen for the R8 file](../../Resources/files/r8_pass.png)
 
 <details class="password">
   <summary>Password</summary>
@@ -420,8 +420,8 @@ A password-protected file that currently can not be viewed in the folder.
 
 ## Previous versions
 
-![img.png](../../Resources/for-sof/for-sof-folder.png)
-![img_11.png](../../Resources/for-sof/for-sof-folder2.png)
+![img.png](../../Resources/files/for-sof-folder.png)
+![img_11.png](../../Resources/files/for-sof-folder2.png)
 (Screenshot date: 25/05/2024)
 
 First version of the 'FOR SOF' folder. Additional versions would first introduce a scrollbar, 
@@ -438,7 +438,7 @@ If you click on any of these, M8 will tell you one of the following phrases:
 - "Hey, I'm working on these. Come back later."
 - "Dude, don't you know what corrupted means? Give me some time!"
 
-![img.png](../../Resources/for-sof/corrupted_files.png)
+![img.png](../../Resources/files/corrupted_files.png)
 
 After the update on 26/05/2024, corrupted files showed the following screen. In the next version 
 corrupted files could still be scrolled to using the arrow keys, before the corrupted files 

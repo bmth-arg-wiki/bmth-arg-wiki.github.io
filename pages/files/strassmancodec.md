@@ -4,7 +4,7 @@ A document in the [FOR SOF](for-sof) folder. The password screen used to be a pl
 but was changed on the 27th of May to include a picture of the user we know 
 as [Strassman](../characters/strassman).
 
-![img.png](../../Resources/for-sof/strassman-pass-screen.png)
+![img.png](../../Resources/files/strassman-pass-screen.png)
 
 The password to this file was found to be `karl strassman`, his full name, 
 which was found in reversed audio from [a bulleT w/my namE On](../music/song-abwmno).
