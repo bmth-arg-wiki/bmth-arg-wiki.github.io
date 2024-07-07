@@ -3,9 +3,9 @@
 Sof is the girl from the cover art. She is referred to as such in several descriptions 
 on the Horizon merch website.
 
-![img.png](../../Resources/music/album_cover.png)
-![img.png](../../Resources/characters/sof/nex_gen_sof_shirt.png)
-![img_1.png](../../Resources/characters/sof/nex_gen_sof_backpack.png)
+![Nex Gen album cover](../../Resources/music/album_cover.png)
+![Shirt featuring and identifying Sof on the Horizon Supply website](../../Resources/characters/sof/nex_gen_sof_shirt.png)
+![Vex backpack from horizon supply](../../Resources/characters/sof/nex_gen_sof_backpack.png)
 
 It seems that the bear pictured with her is called VEX from the Horizon merch listings.
 
@@ -16,15 +16,12 @@ She's the big boss. The head honcho. The one pulling the strings! Anything we fi
 So, no pressure."*
 - [M8](../m8) when prompted with "Who are u?"
 
-## Accessing M8
-
-Access was gained to [Multidimensional Navigator 8](../m8) (M8) through a QR code 
-
 ## FOR SOF
 
-[`FOR SOF`](../files/for-sof) was a puzzle in the ARG that was solved shortly after its inception. 
-This refers to a folder on the computer of the [webpage](../webpage), which can be 
-opened using the password `past`.
+[`FOR SOF`](../files/for-sof) refers to the folder in the ARG that we got access to using the first password within the website, 
+after gaining access with the code 93934521 from M8's head on the album cover. The files 
+we are seeing in this folder have all been left for her, in order to discover what her mom 
+[Selene](selene) is trying to tell her.
 
 ## Official Art
 
@@ -33,6 +30,12 @@ opened using the password `past`.
 
 More original artwork from `@vinne.art`.
 
+![Access Card for Sof from merch](../../Resources/characters/sof/access_card.png)
+
+This access card was designed to be shipped with the Sof statue, bundled with 
+some [band cards](characters#the-band-members) and other goodies along with the album. 
+The authenticity card specifically refers to Sof as "The Post Human".
+
 ## Speculation
 
 She is theorized to also be on the cover of Post Human: Survival Horror. The NexGen album 
@@ -40,7 +43,7 @@ cover seems to show her with her third eye sewn shut. While the timeline is gene
 assumed to be linear (i.e. PH1 comes before PH2 in the timeline), there is still some 
 discussion around the timeline.
 
-![img.png](../../Resources/characters/sof/img.png)
+![Survival Horror Album Cover](../../Resources/characters/sof/img.png)
 
 ## Read More
 
