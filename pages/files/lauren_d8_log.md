@@ -5,7 +5,7 @@ that the doctor is in fact Ren. The document itself also supports this.
 
 ## Screenshots
 
-An analysis in simpler English can be found [here](lauren_d8_log_analysis).
+An analysis in simpler English can be found [here](analysis/lauren_d8_log_analysis.md).
 
 ![diary1.png](../../Resources/files/lauren_d8_log/diary1.png)
 ![diary2.png](../../Resources/files/lauren_d8_log/diary2.png)
