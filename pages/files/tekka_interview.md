@@ -12,6 +12,72 @@ She does not seem to want to talk about this, shutting the interviewer down inst
 ![tekka_cover.png](../../Resources/files/tekka/tekka_cover.png)
 ![tekka_interview.png](../../Resources/files/tekka/tekka_interview.png)
 
+## Transcription
+
+```
+SOLVE ET COAGULA
+TEKKA
+ISSUE 51
+
+PAIN GANG
+Dive into the Ethereal World of Pain Gang:
+I         h         e
+Underground Sensation emerging from the dark corners of Eastern Erothia
+
+CULTURE TECH
+JUNE 28    $4,50
+
+"from hell to shell
+I never wanted to be the face of a new era.
+I just didn't want to die"
+
+REBECCA
+THE 1ST SYNTH 
+
+"for Rebecca what is Nex?
+
+
+TERMINAL ILLNESS, DANGEROUS EXPERIMENTS AND A CHAIN-SMOKING MARKETING PLOY
+
+
+Meet Rebecca, the first of her kind. Jax Jackson goes under the hood... Rebecca, a former terminally ill lab assistant at Arc/Hive found herself thrust into the spotlight following her transformation via a cutting edge SYNTH trial. Diagnosed with a degenerative neurological condition from environmental toxins, Rebecca saw this experiment as her last hope. The SYNTH trial was a remarkable success, seamlessly transferring her conciousness into a synthetic body and greatly enhancing her capabilities. Overnight, she became a symbol of scientific breakthrough and hope. But with newfound fame came intense scrutiny.
+
+
+JAXON: Rebecca, you've become the face of NEX GEN, but isn't chain-smoking a bit passé? At the TEKKA press event, you were puffing away like it was 2025.
+
+REBECCA: (nervous laughter) Yeah, I actually don't like smoking at all. It was a marketing stunt by NEX GEN to showcase the invulnerability of SYNTH bodies. They thought it would make a strong visual impact. Now, it's just a habit, I guess.
+
+JAXON: Marketing, huh? So, you're basically a walking ad. Not exactly the terminally ill girl you used to be. How did it feel, living with a death sentence?
+
+REBECCA: It was... overwhelming. I had a degenerative neurological condition from environmental toxins. They told me I had months left. Every day was a struggle, knowing that my time was running out and there was nothing I could do about it.
+
+JAXON: And now? You’re practically invincible. Ever thought about going wild, maybe trying drugs, partying?
+
+REBECCA: (hesitates) That’s not really my thing. I wasn’t into that stuff before, and I don’t see a reason to start now. My focus is on my work. 
+
+JAXON: Come on, everyone needs to cut loose sometimes. Ever been to one of our legendary TEKKA parties? Trust me, they’re worth it. 
+alec_baguette — Today at 00:01
+REBECCA: (smiles awkwardly) I’ve heard stories. Maybe I’ll attend one day, but I’m still adjusting to all this.
+
+JAXON: Speaking of work, you’ve been promoted to managing the R&D team. Quite the leap from where you started. How’s that going?
+
+REBECCA: It’s been a steep learning curve, but I’m managing. The team is brilliant, and we’re making significant progress in several key areas.
+
+JAXON: Let’s talk about the big players here. What’s your take on Victor Carmine? Some say he’s a visionary, others say he’s a bit of a psycho.
+
+REBECCA: Victor is… intense. He’s driven and has a clear vision for the future. He made some controversial decisions, but his dedication to advancing technology is undeniable.
+
+JAXON: And what about Dallus Lauren and Karl Strassman? Any juicy details on them?
+
+REBECCA: They’re both incredibly intelligent and committed to their work. I can’t really speak to their personal lives, though.
+
+JAXON: Come on, Rebecca. You must have heard something about the whole MANTRA debacle and Operation Trinity. What’s the real story there?
+
+REBECCA: (firmly) I can’t discuss that. My focus is on the present and our future projects.
+
+JAXON: Fair enough. But what about those rumors about extreme experiments and human suffering? What’s really going on behind the scenes?...
+```
+
 ## Read More
 
 - [FOR SOF folder](./for-sof)
