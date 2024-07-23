@@ -7,7 +7,7 @@ both including one of the [insights](../lore/insights), and an image at the end.
 
 ## Lyrics & text
 
-This song contains very little lyrics, functioning as an interlude on [the album](ph-nex-gen). 
+This song contains very few lyrics, functioning as an interlude on [the album](ph-nex-gen). 
 Since [P.U.S.S-E](../lore/pusse) is pretty significant to the lore, this transcription 
 also attempts to transcribe the talking we hear throughout.
 
