@@ -73,4 +73,4 @@ run the project locally by executing the following command:
 `bundle exec jekyll serve`
 
 6. View the project on `http://127.0.0.1:4000`. If strange things start happening, terminate the
-program and re-run the jekyll command.
+program and re-run the jekyll command. -
