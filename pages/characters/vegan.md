@@ -11,6 +11,11 @@ The insight associated with Vegan is [Insight 4: Vision](../lore/insight4-vision
 
 ## Read More
 
+- [Characters](characters)
+- [Insight 4: Vision](../lore/insight4-vision)
+
+Other band members:
+
 - [Syko](syko)
 - [Madman](madman)
 - [Pickles](pickles)

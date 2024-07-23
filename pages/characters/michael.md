@@ -27,11 +27,12 @@ Michael has the symbol for [Purpose](../lore/insight3-purpose) on his skirt.
 
 ## Read More
 
+- [Characters](characters)
 - [Insight 3: Purpose](../lore/insight3-purpose)
 - [Vanth](vanth)
 - [Pickles](pickles)
 
-Other [archangels](archangels):
+Other archangels:
 
 - [Gabriel](gabriel)
 - [Raphael](raphael)

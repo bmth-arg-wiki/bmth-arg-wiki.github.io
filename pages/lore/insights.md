@@ -51,7 +51,7 @@ They make the most sense if read in the original order.
 The ARG follows symbolism from real life around the four classical elements.
 
 ![](../../Resources/characters/band-cards.png)
-The four insights also seem to be directly linked to the in-universe [characters](../characters/characters.md#the-band-members) 
+The four insights also seem to be directly linked to the in-universe [characters](../characters/characters#band-members) 
 for the band.
 
 The fourth document ends with the conclusion that we need to apply the insights.
@@ -76,7 +76,7 @@ The four insights:
 3. [Purpose - Fire](insight3-purpose)
 4. [Vision - Earth](insight4-vision)
 
-The [archangels](../characters/archangels):
+The [archangels](../characters#archangels):
 - [Raphael](../characters/raphael)
 - [Gabriel](../characters/gabriel)
 - [Michael](../characters/michael)

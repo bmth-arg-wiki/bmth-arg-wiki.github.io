@@ -16,6 +16,7 @@ Additional artwork by the original artist.
 
 ## Read More
 
+- [Characters](characters)
 - [Insight 2: Empathy](../lore/insight2-empathy)
 - [Gabriel](gabriel)
 - [Miseria](miseria)

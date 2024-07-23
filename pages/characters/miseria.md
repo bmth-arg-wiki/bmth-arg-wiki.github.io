@@ -11,6 +11,7 @@ the 24th of June 2024 update.
 
 ## Read More
 
+- [Characters](characters)
 - [Insight 2: Empathy](../lore/insight2-empathy)
 - [Gabriel](gabriel)
 - [Madman](madman)

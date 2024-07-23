@@ -18,5 +18,6 @@ Screenshot of the music player on the 27th of May 2024. Ren might also be a prod
 
 ## Read More
 
+- [Characters](characters)
 - [Dallus Lauren](characters#dallus-lauren)
 - [Ren's D8 log](../files/lauren_d8_log)

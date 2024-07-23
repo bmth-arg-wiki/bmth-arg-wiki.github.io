@@ -4,47 +4,84 @@ The following page contains a categorization and short summary of all users in t
 significant characters in this ARG. It will help you get an overview of the most 
 important names and how the characters relate to each other.
 
-## E.V.E (L)
+***
 
-[E.V.E](eve) (Evolutionary Virtual Experiment), an AI supercomputer with questionable 
-intentions for humanity. She is user 0000 in the system, where she seems to be labeled 
-as just 'EVE'. This makes her the first user in the system.
+## System Users
 
-## Sof
+The following characters are mentioned on the website:
 
-[Sof](sof) is the daughter of Selene and the girl on the NexGen album cover. She has no user in the 
-[multidimensional navigator 8](../m8). She has pink hair, which may be due to a rare phenomenon 
-discussed in [The Science Study newspaper](../files/thesciencestudy).
+- [0000 E.V.E.](eve) 
+- [0001 Vegan](vegan)
+- [0002 Uriel](uriel)
+- [0003 Selene](selene)
+- [0004 Raphael](raphael)
+- [0005 Syko](syko)
+- [0006 M8](../m8)
+- [0007 Raphael](raphael)
+- [0008 Pan](pan)
+- [0009 Miseria](miseria)
+- [0010 Michael](michael)
+- [0011 Pickles](pickles)
+- [0012 Madman](madman)
+- [0013 Strassman](strassman)
+- [0014 Ren](ren)
+- [0015 Iara](iara)
+- [0016 Gabriel](gabriel)
+- [0017 Vanth](vanth)
 
-## M8
+Additionally, there are characters not listed on M8. These are:
 
-[M8](../m8) or Multidimensional Navigator 8, is a system assisting us during the ARG, as well as 
-the 'computer environment' we seem to be in. M8 is referred to as a **she** in the audio log 
-for Sof by [Selene](selene). M8 also has at least two predecessors in D8, which we learn about in 
-[Ren's log](../files/lauren_d8_log), and [R8](../files/r8).
+- [Sof](sof)
+- [Emily](#emily)
+- [Victor Carmine](#victor-carmine)
+- [Dr. Elias Mortem](#dr-elias-mortem)
+- [Rebecca](#rebecca)
 
-## Selene
+***
 
-[Selene](selene) is Sof's mother, leaving her about 20 minutes after birth. She 
-knows a lot about how M8 functions and claims it has saved her several times. She is user 0003 
-in the system.
+## Other Characters
 
-## Emily
+These characters have been mentioned in documents and currently do not have 
+enough information to have their own dedicated page.
+
+### Emily
 
 The name "Emily" is rank 9 out of 10 ranks to appear for a Discord event centered around the 
 [church of Genxsis](../lore/church). E.V.E is ranked 8th, implying that Emily is somehow above her in the ranks of Genxsis.
 
-## The Archangels
+### Victor Carmine
 
-[The archangels](archangels) and their [insights](../lore/insights)
+Victor Carmine is a mysterious man mentioned in the [Tekka Interview](../files/tekka_interview). Jax Jackson,
+the interviewer from Tekka mentions that he is a "big player" and that some call him a visionary, others call
+him a psycho.
+
+### Dr. Elias Mortem
+
+Dr. Elias Mortem was the lead scientist at Arc/Hive Research Division.
+
+### Rebecca
+
+Rebecca was a terminally ill lab assistant at Arc/Hive, before becoming the first
+synth. She is [interviewed](../files/tekka_interview) about the ambitious project from Nex Gen
+by a magazine called Tekka.
+
+***
+
+## Categorisations
+
+### The Archangels
+
+The archangels and their [insights](../lore/insights)
 
 - [Raphael - Connection](raphael)
 - [Gabriel - Empathy](gabriel)
 - [Michael - Purpose](michael)
 - [Uriel - Vision](uriel)
 
-Raphael, strangely, is users 0004, 0007 and 0008 in the system. 
-Gabriel is user 0017, Michael is 0011 and Uriel is 0002.
+![Spectrogram showing four angel-like figures](../../Resources/music/spectrograms/spectrogram-archangels.png)
+
+Angels can also be found in the [spectrograms](../music/spectrograms) in
+[(spi)ritual](../music/song-spiritual).
 
 ## Omens
 
@@ -60,7 +97,7 @@ It is unknown whether this refers to a character, or the real life Babalon.
 Pan's user number is 0009, Miseria's is 0010 and Vanth's is 0018. Pan might also 
 play a role in [Night of Pan](../lore/night-of-pan) ritual.
 
-## The Band Members
+## Band Members
 
 ![Band member tags on NexGen post](../../Resources/socials/band_member_tags.png)
 In the NexGen we can see that the band members are all tagged.
@@ -81,17 +118,19 @@ Sykes/Syko is 0005, Kean/Vegan is 0001, Malia/Madman is 0010 and Nicholls/Pickle
 
 A promotional image of the band on cards also links them to the [four insights](../lore/insights).
 
-## Nex Gen & Trinity employees
+## The Trinity
 
 ### Trinity
 
 The members of the Trinity are three scientists, mentioned first in the [trinity document](../files/trinity_document).
 
 #### Strassman
+
 The first member is [Dr. Karl Strassman](strassman), a doctor that works with [Eve](eve), as 
 evidenced by the [strassman codec](../files/strassmancodec). He is user 0014 on the [webpage](../webpage).
 
 #### Skys
+
 The second member is cult leader Skys, who we see in the music video for [Mantra](../music/amo-mantra). Some 
 imagery related to Mantra also appears in the music video for [Sugar, Honey, Ice and Tea](../music/amo-shit).
 
@@ -109,51 +148,8 @@ also bears a strong resemblance to Forest Whitaker (actor) in the [In the Dark](
 music video, who seems to be going through what looks like this desensitization protocol. This video 
 also contains (a second version of) the altilium chordata tank we see in the project D.U.S.T. file.
 
-### Victor Carmine
-
-Victor Carmine is a mysterious man mentioned in the [Tekka Interview](../files/tekka_interview). Jax Jackson, 
-the interviewer from Tekka mentions that he is a "big player" and that some call him a visionary, others call 
-him a psycho.
-
-### Dr. Elias Mortem
-
-Dr. Elias Mortem was the lead scientist at Arc/Hive Research Division.
-
-### Iara
-
-![poster.jpg](../../Resources/characters/iara/poster.jpg)
-
-[Iara](../characters/iara) works at Nex Gen, which is confirmed by several details. 
-First of all, she is noted as "Iara (work)" in the [codek messenger](../webpage#codek). 
-We also see her wearing a Nex Gen access card on her poster, which was published on 
-[social media](../socials/social-posts). She is also number 0015 on the [webpage](../webpage).
-
-### Rebecca
-
-Rebecca was a terminally ill lab assistant at Arc/Hive, before becoming the first 
-synth. She is [interviewed](../files/tekka_interview) about the ambitious project from Nex Gen 
-by a magazine called Tekka.
-
 ## Read More
 
-- [Sof](sof)
-- [Selene](selene)
-- [E.V.E](eve)
-- [The Archangels](archangels)
-  - [Raphael](raphael)
-  - [Gabriel](gabriel)
-  - [Michael](michael)
-  - [Uriel](uriel)
-- Omens
-  - [Pan](pan)
-  - [Miseria](miseria)
-  - [Vanth](vanth)
-  - The Babalon
-- Band Members
-  - [Syko](syko)
-  - [Madman](madman)
-  - [Vegan](vegan)
-  - [Pickles](pickles)
 - Nex Gen and Trinity
   - [Trinity document](../files/trinity_document)
   - [Tekka Interview](../files/tekka_interview)

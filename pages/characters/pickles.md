@@ -16,6 +16,7 @@ Additional art from the original artist.
 
 ## Read More
 
+- [Characters](characters)
 - [Insight 3: Purpose](../lore/insight3-purpose)
 - [Michael](michael)
 - [Vanth](vanth)

@@ -23,6 +23,7 @@ when this audio was recorded in-universe.
 
 ## Read More
 
+- [Characters](characters)
 - [FOR SOF](../files/for-sof)
 - [Nex Gen Corporation](../lore/nex-gen-corporation)
 - [Trinity](characters#trinity)

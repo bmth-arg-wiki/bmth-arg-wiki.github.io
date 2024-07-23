@@ -24,6 +24,7 @@ Boss fight: **Prince** Of Death
 
 ## Read More
 
+- [Characters](characters)
 - [Selene's map](../files/selenes_map)
 
 Insight 3:

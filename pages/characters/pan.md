@@ -17,5 +17,6 @@ Possibly related to [Night of Pan](../lore/night-of-pan).
 
 ## Read more
 
+- [Characters](characters)
 - [Raphael - Archangel of Connection](raphael)
 - [Insight 1: Connection](../lore/insight1-connection)

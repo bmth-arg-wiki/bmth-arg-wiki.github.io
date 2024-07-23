@@ -13,14 +13,6 @@ to 17 profiles.
 Currently, the picture from 0004 and 0008 is used for the Raphael profiles, the middle 
 image is actually [Uriel](uriel).
 
-## Christian Faith
-
-Feast: 29 September; 24 October
-Attributes: holding a bottle or flask; walking with Tobias; sounding a trumpet; carrying a fish or a staff
-Patronage: travelers; lovers; the youth; finding one’s spouse; ordained marriage; mental health; healing; guardian angels; 
-shepherds; pharmacists; druggists; nurses; physicians; illness; eye afflictions; the sick; the blind; against nightmares;
-(source: wikipedia)
-
 ## Official Art
 
 ![Promotional poster for Raphael](../../Resources/characters/raphael/poster.jpg)
@@ -29,11 +21,12 @@ Raphael also has the logo for [Connection](../lore/insight1-connection) on his c
 
 ## Read More
 
+- [Characters](characters)
 - [Insight 1: Connection](../lore/insight1-connection)
 - [Syko](syko)
 - [Pan](pan)
 
-Other [archangels](archangels):
+Other archangels:
 
 - [Gabriel](gabriel)
 - [Michael](michael)

@@ -43,6 +43,7 @@ constantly active.
 
 ## Read More
 
+- [Characters](characters)
 - [Youtopia](../lore/youtopia)
 - [Strassman](./strassman)
 - [NexGen](../lore/nex-gen-corporation)

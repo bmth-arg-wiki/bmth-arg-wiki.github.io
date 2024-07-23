@@ -16,12 +16,14 @@ The symbol for [Vision](../lore/insight4-vision) is also visible on his skirt.
 
 ## Read More
 
+- [Characters](characters)
+
 Insight 4:
 
 - [Insight 4: Vision](../lore/insight4-vision)
 - [Vegan](vegan)
 
-Other [Archangels](archangels):
+Other archangels:
 
 - [Gabriel](gabriel)
 - [Michael](michael)

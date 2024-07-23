@@ -17,6 +17,7 @@ Additional artwork of Syko by the original artist on Instagram.
 
 ## Read More
 
+- [Characters](characters)
 - [Scott's diary](../files/scott_personal_journal)
 
 Insight 1:
