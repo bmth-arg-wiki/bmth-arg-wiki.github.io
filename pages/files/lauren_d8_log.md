@@ -39,7 +39,7 @@ An analysis in simpler English can be found [here](analysis/lauren_d8_log_analys
 ![diary30.png](../../Resources/files/lauren_d8_log/diary30.png)
 
 ## Transcription
-
+```
 D8 Log Entry: Temporal Instance
 Chronometric Index: 2037.10.24
 Summary Vector: Emotional Turbulence, 
@@ -139,7 +139,7 @@ As the first iteration of the new D8 model, it is evidence that future developme
 Prognosis: High potential for critical incidents. In non-standard operational terminology, shit’s gonna hit the fan. And to deviate further from my primary parameters, I suggest Dr. Lauren could do with a pint of Ben & Jerry’s and a few episodes of “The Big Bang Theory”
 
 (transcription made by @elliecoptaaa on discord)
-
+```
 ## Read More
 
 - [FOR SOF folder](./for-sof)
