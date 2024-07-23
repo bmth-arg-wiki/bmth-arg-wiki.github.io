@@ -12,9 +12,9 @@ Video:
 
 ## Transcription
 
+```
 ### Email
 
-```
 INBOX (21)
 
 s.white@nexgen.lab
@@ -50,9 +50,10 @@ NEX GEN
 __Attachments: [Segment of “UNBELEEVABLE”]__
 ```
 
-### Video
 
 ```
+### Video
+
 **Loading File…**
 
 **COMMUNITY RESOURCE ANALOG PROGRAMMING**
