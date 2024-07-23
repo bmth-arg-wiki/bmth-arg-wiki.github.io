@@ -7,14 +7,13 @@ This file contains an email from Nex Gen's internal network and the video attach
 ![NEXGENLEAK1.png](../../Resources/files/unbeleevable/NEXGENLEAK1.png)
 ![NEXGENLEAK2.png](../../Resources/files/unbeleevable/NEXGENLEAK2.png)
 
-Video:
-[Unbeleevable](https://youtu.be/fQG3O6avUrw?si=zOYCqH0iVpDiaB2V)
+[Unbeleevable video on YouTube](https://youtu.be/fQG3O6avUrw?si=zOYCqH0iVpDiaB2V)
 
 ## Transcription
 
-```
 ### Email
 
+```
 INBOX (21)
 
 s.white@nexgen.lab
@@ -50,10 +49,9 @@ NEX GEN
 __Attachments: [Segment of “UNBELEEVABLE”]__
 ```
 
-
-```
 ### Video
 
+```
 **Loading File…**
 
 **COMMUNITY RESOURCE ANALOG PROGRAMMING**
@@ -101,4 +99,5 @@ __Attachments: [Segment of “UNBELEEVABLE”]__
 
 ## Read More
 
-- [Sky_&_The_Starjammers](skystarjammers)
+- [FOR SOF](for-sof)
+- [Sky_&_The_Starjammers.png](skystarjammers)
