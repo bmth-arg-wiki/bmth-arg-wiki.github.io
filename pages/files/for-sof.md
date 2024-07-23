@@ -40,7 +40,7 @@ you to the known information (including password) about the file itself.
 | [ISSUE-51-fromhelltoshell.pdf 1](tekka_interview)                                                    | ✔️     | [📁](#ISSUE-51-fromhelltoshellpdf-1)          |
 | [Jan15_2031_declassified_PROJECT D.U.S.T. 2](project_dust)                                           | ✔️     | [📁](#Jan15_2031_declassified_PROJECT-DUST-2) |
 | [SCISTUDYSCAN1999wrist.SCN](thesciencestudy)                                                         | ✔️     | [📁](#SCISTUDYSCAN1999wristSCN)               |
-| [Sky_&_The_Starjammers.png](skystarjammers)                                                          | ❌      | [📁](#sky__the_starjammerspng)                |
+| [Sky_&_The_Starjammers.png](skystarjammers)                                                          | ✔️     | [📁](#sky__the_starjammerspng)                |
 | [Nex Gen leak 'UNBELEEVABLE'.doc](unbeleevable)                                                      | ✔️     | [📁](#nex-gen-leak-unbeleevabledoc)           |
 | [Russian_poem.DOC](russianpoem)                                                                      | ❌      | [📁](#russian_poemdoc)                        |
 | [Selene_Journey_Log_01/midname?.memo](#selene_journey_log_01midnamememo)                             | ❌      | [📁](#msgforsoffaiff)                         |
@@ -316,7 +316,9 @@ Wrist has an anagram for the password in the song information.
 
 ## Sky_&_The_Starjammers.png
 
-Password unknown.
+<details class="password">
+INTERCELLULAR
+</details>
 
 [Back to all files](#directory-content)
 
