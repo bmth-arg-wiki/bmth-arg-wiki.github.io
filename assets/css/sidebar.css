@@ -1,5 +1,6 @@
 .sidebar {
   width: 250px;
+  padding:1em;
   background-color: #f0f0f0;
   top: 0;
   left: 0;
@@ -7,14 +8,6 @@
   overflow-y: auto;
   transition: transform 0.3s ease; /* Retirez la transition du transform */
   z-index: 1000;
-}
-
-.sidebar h1 {
-  padding: 20px;
-  margin: 0;
-  background-color: #333;
-  color: #fff;
-  text-align: center;
 }
 
 .sidebar ul {

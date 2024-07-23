@@ -100,9 +100,7 @@ mark,
 audio,
 video {
   margin: 0;
-  padding: 0;
   border: 0;
-  font-size: 100%;
   font: inherit;
   vertical-align: baseline;
 }
@@ -124,20 +122,29 @@ section {
 body {
   line-height: 1.5;
 }
-ol,
-ul {
-  list-style: none;
+blockquote {
+  padding: 10px 20px;
+  margin: 20px 0;
+  border-radius: 10px; /* To make the edges rounded */
+  font-style: italic;
+  position: relative;
 }
-blockquote,
-q {
-  quotes: none;
+
+blockquote::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: -5px; /* Adjust according to the border width */
+  width: 5px;
+  background: var(--titles); /* Same as border color */
+  border-radius: 10px;
 }
-blockquote:before,
+
 blockquote:after,
 q:before,
 q:after {
   content: "";
-  content: none;
 }
 table {
   border-collapse: collapse;
@@ -149,7 +156,7 @@ table {
 
 table a {
   color: var(--txt);
-  font-family: var(--code);
+  font-family: var(--code), sans-serif;
   text-decoration: none;
 }
 
@@ -165,8 +172,8 @@ h1 {
   font-size: var(--fontsize1);
   font-weight: 800;
   text-transform: uppercase;
-  font-family: var(--fonttitle);
-  letter-spacing: -3px;
+  font-family: var(--fonttitle), ui-sans-serif, sans-serif;
+  letter-spacing: -2px;
 }
 
 @keyframes blink {
@@ -182,19 +189,19 @@ h2 {
   color: var(--titles);
   font-size: var(--fontsize2);
   font-weight: 800;
-  font-family: var(--fonttitle);
+  font-family: var(--fonttitle), ui-sans-serif, sans-serif;
 }
 
 h3 {
   color: var(--titles);
   font-size: var(--fontsize3);
   font-weight: 800;
-  font-family: var(--fonttitle);
+  font-family: var(--fonttitle), ui-sans-serif, sans-serif;
 }
 
 code {
   color: #44554d;
-  font-family: var(--code), sans-serif;
+  font-family: var(--code), ui-sans-serif, sans-serif;
   background-color: var(--bg2);
   padding: 0.313em;
 }
@@ -238,61 +245,6 @@ img {
   display: flex;
 }
 
-.header-container,
-.footer-container {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 1rem;
-}
-
-header {
-  background: #333;
-  color: #fff;
-}
-
-header h1 {
-  margin: 0;
-  font-size: 1.5rem;
-}
-
-header nav ul {
-  list-style: none;
-  padding: 0;
-}
-
-header nav ul li {
-  display: inline;
-  margin-right: 1rem;
-}
-
-header nav ul li a {
-  color: #fff;
-  text-decoration: none;
-}
-
-footer {
-  background: var(--bg2);
-  color: var(--txt);
-  text-align: center;
-  padding: 1rem 0;
-  margin-top: 2rem;
-}
-
-footer nav ul {
-  list-style: none;
-  padding: 0;
-}
-
-footer nav ul li {
-  display: inline;
-  margin-right: 1rem;
-}
-
-footer nav ul li a {
-  color: #333;
-  text-decoration: none;
-}
-
 .content {
   /* float: left; */
   width: 75%;
@@ -303,8 +255,7 @@ footer nav ul li a {
 article {
   border: 2px solid var(--titles);
   padding: 20px;
-  margin: 20px;
+  margin: auto;
   border-radius: 10px;
   background-color: var(--bg2);
-  margin: auto;
 }
