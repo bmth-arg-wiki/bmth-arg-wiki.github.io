@@ -2,52 +2,57 @@
 
 This file contains an email from Nex Gen's internal network and the video attached to said email. 
 
+***
+
 ## Document contents
 
+### Email
 ![NEXGENLEAK1.png](../../Resources/files/unbeleevable/NEXGENLEAK1.png)
 ![NEXGENLEAK2.png](../../Resources/files/unbeleevable/NEXGENLEAK2.png)
 
-[Unbeleevable video on YouTube](https://youtu.be/fQG3O6avUrw?si=zOYCqH0iVpDiaB2V)
+### Video
+The video the email is referring to is a video of Lee speaking about the Mantra
+cult. You can watch the [Unbeleevable video on YouTube](https://youtu.be/fQG3O6avUrw?si=zOYCqH0iVpDiaB2V)
+
+***
 
 ## Transcription
 
 ### Email
 
-```
-INBOX (21)
-
-s.white@nexgen.lab
-CONFIDENTIAL: INTERNAL USE ONLY
-To: r.fletcher@nexgen.lab
-
-Dear Dr. Fletcher
-
-I hope this message finds you well. I am writing to bring to your immediate attention a potentially critical situation that has arisen concerning the Community Resource Analog Programming network. As you are aware, this platform allows the general public to create and broadcast their own channels, often resulting in a mix of harmless content and wild conspiracy theories. However, a recent show titled “UNBELEEVABLE” has raised significant concerns within our Public Relations team. 
-
-“UNBELEEVABLE” is hosted by an enigmatic figure who goes by the title Dr. Lee M.D, who appears to have unprecedented access to highly reliable sources. Unlike the usual far-fetched conspiracy theories we encounter, this show presents information with a level of credibility and depth that is alarming. M.D’s connections seem extensive and their revelations could potentially inflict severe damage to NEX GEN’s reputation and operations.
-
-M.D has made several accurate claims about our operations that suggest access to insider information, and the first segment of their exposé on the Cult of GENXSIS achieved the highest viewership figures on the platform, indicating a rapidly growing audience. My fear is with the recent escape within the GENXSIS program, there is a serious risk that more individuals may come forward with compromising information.
-
-The show’s content suggests the possibility of current employees or affiliates leaking sensitive information, and while I am not suggesting any drastic measures at this moment, it is imperative that we prepare for a potential crisis. I recommend the following steps:
-
--    Brief FANTOM Unit: Ensure the FANTOM tactical team is briefed on this development and ready for a rapid slate wipe if deemed necessary.
--    Monitor the Show: Assign a dedicated team to monitor “UNBELEEVABLE” and analyse its content for any actionable intelligence.
--    Internal Review: Conduct an internal review to identify potential sources of leaks and reinforce security protocols.
--    Public Relations Strategy: Develop a contingency PR strategy to address any allegations or revelations that may emerge from this show.
-
-For your review, I have attached a segment from the latest episode of “UNBELEEVABLE” which highlights some of the concerning claims made by Dr. Lee. I strongly advise viewing this segment to understand the gravity of the situation.
-
-Your prompt attention to this matter is crucial. Should you require further details or wish to discuss this in person, please do not hesitate to contact me directly.
-
-Best regards,
-
-Susan White
-Public Relations Department
-NEX GEN
-[logo of genxsis]
-
-__Attachments: [Segment of “UNBELEEVABLE”]__
-```
+> INBOX (21)
+>
+> s.white@nexgen.lab
+> CONFIDENTIAL: INTERNAL USE ONLY
+> To: r.fletcher@nexgen.lab
+>
+> Dear Dr. Fletcher
+>
+> I hope this message finds you well. I am writing to bring to your immediate attention a potentially critical situation that has arisen concerning the Community Resource Analog Programming network. As you are aware, this platform allows the general public to create and broadcast their own channels, often resulting in a mix of harmless content and wild conspiracy theories. However, a recent show titled “UNBELEEVABLE” has raised significant concerns within our Public Relations team. 
+>
+> “UNBELEEVABLE” is hosted by an enigmatic figure who goes by the title Dr. Lee M.D, who appears to have unprecedented access to highly reliable sources. Unlike the usual far-fetched conspiracy theories we encounter, this show presents information with a level of credibility and depth that is alarming. M.D’s connections seem extensive and their revelations could potentially inflict severe damage to NEX GEN’s reputation and operations.
+>
+> M.D has made several accurate claims about our operations that suggest access to insider information, and the first segment of their exposé on the Cult of GENXSIS achieved the highest viewership figures on the platform, indicating a rapidly growing audience. My fear is with the recent escape within the GENXSIS program, there is a serious risk that more individuals may come forward with compromising information.
+>
+> The show’s content suggests the possibility of current employees or affiliates leaking sensitive information, and while I am not suggesting any drastic measures at this moment, it is imperative that we prepare for a potential crisis. I recommend the following steps:
+>
+> -    Brief FANTOM Unit: Ensure the FANTOM tactical team is briefed on this development and ready for a rapid slate wipe if deemed necessary.
+> -    Monitor the Show: Assign a dedicated team to monitor “UNBELEEVABLE” and analyse its content for any actionable intelligence.
+> -    Internal Review: Conduct an internal review to identify potential sources of leaks and reinforce security protocols.
+> -    Public Relations Strategy: Develop a contingency PR strategy to address any allegations or revelations that may emerge from this show.
+>
+> For your review, I have attached a segment from the latest episode of “UNBELEEVABLE” which highlights some of the concerning claims made by Dr. Lee. I strongly advise viewing this segment to understand the gravity of the situation.
+>
+> Your prompt attention to this matter is crucial. Should you require further details or wish to discuss this in person, please do not hesitate to contact me directly.
+>
+> Best regards,
+>
+> Susan White
+> Public Relations Department
+> NEX GEN
+> [logo of genxsis]
+>
+> __Attachments: [Segment of “UNBELEEVABLE”]__
 
 ### Video
 
@@ -71,30 +76,32 @@ __Attachments: [Segment of “UNBELEEVABLE”]__
 >  “Enter Dr. Karl Strassman and Dr. Dallas Lauren. Two brain boxes intrigued by the claims Skys was making. These three ended up pushing neo-spiritualism to it’s absolute limits and before you knew it, the “Neosages” were born. And if that name is not ringing any bells, you might know them better as “The Cult of Mantra”. And these nutters my friends, set the stage for what would eventually become “GENXSIS”.
 >
 > “I know what you’re all thinking, what the fuck are you on about Lee? But bear with me, it all gets madder from here. Trust me, chapter two’s absolutely off it’s tits. Thanks for watching guys, and remember, don’t stop beleeving”
+>
+> [credits roll]
+>
+> **UNBELEEVABLE**
+>
+> **DIRECTED BY LEE M.D.**
+>
+> **I.A RENDERING BY LEE M.D.**
+>
+> **THEME BASED ON MELODIES ORIGINALLY WHISTLED BY LEE M.D.**
+>
+> **Lee:** “And for my premium beleevers, I’ll be interviewing the man who doesn’t know who he is or where he’s been.”
+>
+> [cuts back to Lee and a man]
+>
+> **Lee:** “Who are you?”
+>
+> **Man (Matt Nicholls):** “Don’t know…”
+>
+> **Lee:** “And where have you been”
+>
+> **Man (Matt Nicholls):** “Don’t know”
+>
+> **Lee:** “Unbeleevable”
 
-[credits roll]
-
-**UNBELEEVABLE**
-
-**DIRECTED BY LEE M.D.**
-
-**I.A RENDERING BY LEE M.D.**
-
-**THEME BASED ON MELODIES ORIGINALLY WHISTLED BY LEE M.D.**
-
-**Lee:** “And for my premium beleevers, I’ll be interviewing the man who doesn’t know who he is or where he’s been.”
-
-[cuts back to Lee and a man]
-
-**Lee:** “Who are you?”
-
-**Man (Matt Nicholls):** “Don’t know…”
-
-**Lee:** “And where have you been”
-
-**Man (Matt Nicholls):** “Don’t know”
-
-**Lee:** “Unbeleevable”
+***
 
 ## Read More
 
