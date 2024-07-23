@@ -32,6 +32,8 @@ CONGRATULATIONS!
 Be warned, this is a limited resource so be careful who you share the code with as this could comprimse your storage crate. 
 
 To claim your prize, email your full name + NOX to storagecrate@multidimensionalnavigator8.help
+
+(transcription by @elliecoptaaa on discord)
 ```
 
 ## Decrypting the password
