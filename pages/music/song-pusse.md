@@ -2,31 +2,66 @@
 
 *This article refers to the song, not the [general concept](../lore/pusse)*
 
-p.u.s.s-e is the 14th song on the album. It has been found to contain hidden images in its [spectrograms](spectrograms),
-both including one of the [insights](../lore/insights), as well as an image at the end.
+[ost] p.u.s.s-e is the 14th song on the album. It has been found to contain hidden images in its [spectrograms](spectrograms),
+both including one of the [insights](../lore/insights), and an image at the end.
 
-## Lyrics
+## Lyrics & text
 
-Source: [lyrics video](https://www.youtube.com/watch?v=J6b4fBX1ynQ)
+This song contains very little lyrics, functioning as an interlude on [the album](ph-nex-gen). 
+Since [P.U.S.S-E](../lore/pusse) is pretty significant to the lore, this transcription 
+also attempts to transcribe the talking we hear throughout.
 
 <details class="lyrics">
 <summary>Expand lyrics</summary>
 
 ```
-i think the question on everyone’s lips is 
-what would you do for p.u.s.s.-e?
-the bloods on your hands
-the bloods on your hands 
-what would you do for p.u.s.s.-e?
+- Talking:
+It's simple folk-
+[???]ogram therapeutic
+It's DMT! And how could it help you access Youtopia?
+Everybody stick around because we're gonna have some fun and look at this-
+(Woman talking fast and jumbled)
+I just wanted to try something new
+Ecsta[sy]
+You're si-
+(Screaming)
+GET AWAY, GET AWAY
+(More distorted screaming)
+
+I think the question on everyone's lips is 
+what would you do for P.U.S.S-E?
+
+(Music, flashes of "LET PUSS-E GUIDE YOU THERE")
+
+Do you wanna join the millions of people that already ascended to Youtopia?
+
+(Music, more imagery)
+
+State of the art emotion simulator
+Ancestors of the [yesteryears?]
+
+- Singing:
+THE BLOODS ON OUR HANDS
+THE BLOODS ON OUR HANDS
+
+- Talking:
+WHAT WOULD YOU DO FOR PUSS-E
+
+[SYMBOLS FLASHING, GENXSIS VIDEO, HIDDEN IMAGERY]
+
+Remember when you used to care?
+Remember when it used to mean something?
+Remember when it was as simple as the summer sunset?
+No? [man grumbling] You will.
 ```
 
 </details>
 
-## Spectograms
+## Spectrograms
 
 For more details, see the page on [spectrograms](spectrograms).
 
-![img.png](../../Resources/music/spectrograms/spectogram_pusse_end.png)
+![Spectrogram showing label on a P.U.S.S-E bottle](../../Resources/music/spectrograms/spectogram_pusse_end.png)
 
 ## Read More
 
