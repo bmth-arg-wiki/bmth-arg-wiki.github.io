@@ -76,6 +76,8 @@ JAXON: Come on, Rebecca. You must have heard something about the whole MANTRA de
 REBECCA: (firmly) I can’t discuss that. My focus is on the present and our future projects.
 
 JAXON: Fair enough. But what about those rumors about extreme experiments and human suffering? What’s really going on behind the scenes?...
+
+(transcription by @alec_baguette on discord)
 ```
 
 ## Read More
