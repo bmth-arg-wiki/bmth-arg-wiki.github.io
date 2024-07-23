@@ -23,6 +23,17 @@ WAS NEVER MEANT TO BE FOUND !!!**
 
 ![img_3.png](../../Resources/files/capslock_doc/img_3.png)
 
+## Transcription
+```
+YOU HAVE FOUND SELENE' STORAGE CRATE. 
+
+CONGRATULATIONS! 
+
+Be warned, this is a limited resource so be careful who you share the code with as this could comprimse your storage crate. 
+
+To claim your prize, email your full name + NOX to storagecrate@multidimensionalnavigator8.help
+```
+
 ## Decrypting the password
 
 The password was decrypted using the capital letters from the tracklist/songs? (source needed).
