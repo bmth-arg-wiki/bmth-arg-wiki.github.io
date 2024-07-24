@@ -2,6 +2,8 @@
 
 I am some **bold** and *italic* text. I am `code` or a `filename`.
 
+***
+
 ## Header 1
 
 - List item
