@@ -5,7 +5,9 @@ seems to hold lore significance.
 
 ![Website screenshot](../../Resources/lore/genxsis.faith/genxsis_faith.png)
 
-## Website
+***
+
+## genxsis.faith
 
 The [website for downloadfest](https://www.genxsis.faith/) is still up and 
 contains a cypher.
@@ -19,9 +21,14 @@ The cypher can be obtained by clicking the symbol in the upper right corner.
 It is sometimes used to spell out "BRING ME THE HORIZON" (pictured above) or "NEX GEN" on 
 current [promotional material](../socials).
 
+***
+
 ## Downloadfest on Social Media
 
 ![](../../Resources/lore/downloadfest/downloadfest_noserialno.jpg)
+
+Early art of Sof, with no serial number on M8's head present.
+
 ![](../../Resources/lore/downloadfest/insta_downloadfest1.jpg)
 ![](../../Resources/lore/downloadfest/insta_downloadfest2.jpg)
 ![](../../Resources/lore/downloadfest/insta_downloadfest3.jpg)
@@ -38,6 +45,8 @@ current [promotional material](../socials).
 
 This post also provided a lot of lore insights, which are documented on the 
 [Genesis Storyline page](genesis-storyline).
+
+***
 
 ## Read More
 

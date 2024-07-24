@@ -1,8 +1,11 @@
 # Insight 1: Connection
-"Manifest Divine Harmony"
+
+> *"Manifest Divine Harmony"*
 
 Connection is the first one of the four insights that we will need to master according 
 to the documents in the 'FOR SOF' folder.
+
+***
 
 ## Associations
  
@@ -15,20 +18,26 @@ Direction: East
 Relic: [Pan](../characters/pan)'s Flute
 Symbol: triangle with line through the middle horizontally
 
-![img.png](../../Resources/lore/insights/connection/raphael-selenes-map.png)
+![A beautiful mistake, written on Selene's map](../../Resources/lore/insights/connection/raphael-selenes-map.png)
 
 A region on [Selene's map](../files/for-sof)
 
-![](../../Resources/characters/band-cards.png)
+![Band card with Syko for connection](../../Resources/characters/band-cards.png)
 
 Insight 1 is also associated with [Syko](../characters/syko).
 
 **Top 10 Statues That Cried Blood** also has a lyric video with inconsistent capitalization, 
 possibly indicating another code (might lead to [capslock doc](../files/capslock_doc). 
 
+***
+
 ## Document in FOR SOF
 
-Password: `connection`
+<details class="password">
+  <summary>Password</summary>
+
+`connection`
+</details>
 
 ![img_7.png](../../Resources/lore/insights/connection/connection1.png)
 ![img.png](../../Resources/lore/insights/connection/connection2.png)
@@ -39,16 +48,21 @@ Password: `connection`
 ![img_5.png](../../Resources/lore/insights/connection/connection7.png)
 ![img_6.png](../../Resources/lore/insights/connection/connection8.png)
 
-## Mentions on social media
+***
 
-![img_2.png](../../Resources/lore/insights/connection/horizon-merch-connection1.png)
+## Notable mentions
+
+![Horizon Merch post containing the word connection](../../Resources/lore/insights/connection/horizon-merch-connection1.png)
 
 The first insight was revealed to be connection on a 
 [Facebook post](https://www.facebook.com/photo/?fbid=979801893503451&set=pb.100044209477369.-2207520000)
 on the 26th of April 2024.
 
-![img.png](../../Resources/lore/insights/connection/insight1-connection-story.png)
+![Mysterious Instagram story](../../Resources/lore/insights/connection/insight1-connection-story.png)
 An instagram story revealing connection to be the first insight ~6 weeks before album launch.
+
+***
+
 ## Read More
 
 - [Raphael](../characters/raphael)

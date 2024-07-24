@@ -1,9 +1,10 @@
 # Insight 2: Empathy
-*Seraphic Expression*
+
+>*Seraphic Expression*
 
 Empathy is the second insight we gather from the [spectrograms](../music/spectrograms).
 
-![img_5.png](../../Resources/lore/insights/empathy/img_5.png)
+![Empathy spectrogram](../../Resources/lore/insights/empathy/img_5.png)
 
 ## Associations
 
@@ -15,17 +16,21 @@ Curse: ???
 Direction: West
 Relic: Guardian Tears
 
-![img.png](../../Resources/lore/insights/empathy/empathy-selenes-map.png)
+![Empathy on Selene's map](../../Resources/lore/insights/empathy/empathy-selenes-map.png)
 
 A region on [Selene's map](../files/for-sof#YOUTOPIA_selenes_mapvis)
 
-![](../../Resources/characters/band-cards.png)
+![Band cards with Madman for empathy](../../Resources/characters/band-cards.png)
 
 Insight 2 is also associated with [Madman](../characters/madman).
 
 ## Document in FOR SOF
 
-Password: `empathy`
+<details class="password">
+  <summary>Password</summary>
+
+`empathy`
+</details>
 
 ![img_3.png](../../Resources/lore/insights/empathy/img_3.png)
 ![img_4.png](../../Resources/lore/insights/empathy/img_4.png)

@@ -1,9 +1,10 @@
 # Insight 3: Purpose
-*The Waltz Of Existence*
+
+>*The Waltz Of Existence*
 
 Purpose is the third insight, found in the spectrogram of puss-e.
 
-![img_1.png](../../Resources/lore/insights/purpose/purpose_spectogram.png)
+![Spectrogram of purpose](../../Resources/lore/insights/purpose/purpose_spectogram.png)
 
 ## Associations
 
@@ -13,14 +14,18 @@ Purpose is the third insight, found in the spectrogram of puss-e.
 - Curse: ???
 - Direction: South
 - Relic: Abramelin's Candle Of Eternal Light
-- 
-![](../../Resources/characters/band-cards.png)
+
+![Band card with Pickles and purpose logo](../../Resources/characters/band-cards.png)
 
 Insight 3 is also associated with [Pickles](../characters/pickles).
 
 # Document in FOR SOF
 
-Password: purpose
+<details class="password">
+  <summary>Password</summary>
+
+`purpose`
+</details>
 
 ![img_13.png](../../Resources/lore/insights/purpose/img_13.png)
 ![img_14.png](../../Resources/lore/insights/purpose/img_14.png)
@@ -30,14 +35,6 @@ Password: purpose
 ![img_2.png](../../Resources/lore/insights/purpose/img_2.png)
 ![img_3.png](../../Resources/lore/insights/purpose/img_3.png)
 ![img_4.png](../../Resources/lore/insights/purpose/img_4.png)
-
-## Speculation
-
-![Selene's map, with the prince of Death labelled](../../Resources/lore/insights/purpose/princeofdeath.png)
-
-The Prince of Death might be the curse of this Insight, according to 
-[Selene's map](../files/for-sof#YOUTOPIA_selenes_mapvis). However, following that logic 
-the Babylon would be both the curse and the omen of [Vision](insight4-vision).
 
 ## Read More
 

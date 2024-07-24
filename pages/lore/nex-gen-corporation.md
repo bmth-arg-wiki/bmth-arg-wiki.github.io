@@ -16,7 +16,9 @@ Embrace the future with us, where the only limit is your imagination!
 
 But between me and you, don't buy their bluetooth socks... They're fucking dogshit!*
 ```
-M8 when prompted on NexGen
+M8 when prompted on NexGen.
+
+***
 
 ## NEX GEN study
 
@@ -27,6 +29,8 @@ It emplored people to come forward to help unlock the mysteries of evolution. Th
 built a stae of the art advanced A.I research engine named [E.V.E](../characters/eve) designed to conduct mass 
 experiments on humans and use deep learning to rapidly progress research. After NEX GEN went 
 wrong and produced mutations the scientists abandonded the project and attempted to shut down E.V.E."*
+
+***
 
 ## Read More
 
