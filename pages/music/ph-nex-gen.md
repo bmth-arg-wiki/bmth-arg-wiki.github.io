@@ -2,12 +2,14 @@
 
 POST HUMAN: NeX GEn is the 2nd album/EP in the POST HUMAN line. 
 
-![album_cover.png](../../Resources/music/album_cover.png)
-![nexgen_album2.jpg](../../Resources/music/nexgen_album2.jpg)
+![Nex Gen album cover](../../Resources/music/album_cover.png)
+![Nex Gen album back](../../Resources/music/nexgen_album2.jpg)
+
+***
 
 ## Tracks
 
-All tracks have their own articles.
+All tracks for Nex Gen have their own articles.
 
 - [01. [ost] Dreamseeker](song-dreamseeker)
 - [02. YOUtopia](song-youtopia)
@@ -26,16 +28,22 @@ All tracks have their own articles.
 - [15. DiE4u](song-die4u)
 - [16. DIg It](song-digit)
 
+Additionally, there are some [songs](website-songs) on the music player on the [webpage](../webpage), 
+including two versions of Kool-Aid (8-bit version).
+
+***
+
 ## Connections
 
 See [interview on NexGen](https://www.youtube.com/watch?v=wLAoyZ4geIA).
+Oli states that some songs directly connect/mirror each other.
 
-## YOUtopia - Kool-Aid
+### YOUtopia - Kool-Aid
 
 Oli stated in an interview that [YOUtopia](song-youtopia) and [Kool-Aid](song-koolaid) are 
 "two sides of the same coin".
 
-## Top 10 staTues tHat CriEd bloOd - liMOusIne
+### Top 10 staTues tHat CriEd bloOd - liMOusIne
 
 He stated the same thing about [Top 10 staTues tHat CriEd bloOd](song-top10) and 
 [liMOusIne](song-limousine)
@@ -49,6 +57,9 @@ He stated the same thing about [Top 10 staTues tHat CriEd bloOd](song-top10) and
 Oli described n/A as group therapy, LosT as a one-on-one therapy session and sTraNgeRs as sharing that pain and 
 connecting over it with others.
 
+***
+
 ## Read More
 
 - [POST HUMAN: Survival Horror](ph-survival-horror)
+- [amo](amo)

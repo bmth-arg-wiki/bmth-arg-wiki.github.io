@@ -5,6 +5,8 @@
 [ost] p.u.s.s-e is the 14th song on the album. It has been found to contain hidden images in its [spectrograms](spectrograms),
 both including one of the [insights](../lore/insights), and an image at the end.
 
+***
+
 ## Lyrics & text
 
 This song contains very few lyrics, functioning as an interlude on [the album](ph-nex-gen). 
@@ -57,11 +59,15 @@ No? [man grumbling] You will.
 
 </details>
 
+***
+
 ## Spectrograms
 
 For more details, see the page on [spectrograms](spectrograms).
 
 ![Spectrogram showing label on a P.U.S.S-E bottle](../../Resources/music/spectrograms/spectogram_pusse_end.png)
+
+***
 
 ## Read More
 
