@@ -3,10 +3,10 @@
 This wiki project uses Jekyll to build pages for its wiki and GitHub for its hosting, using a custom 
 theme.
 
-[Contributing to the Wiki](#contributing-to-the-wiki)
-[Developing the Wiki](#developing-the-wiki)
+- [Writing for the Wiki](#writing-for-the-wiki)
+- [Developing the Wiki](#developing-the-wiki)
 
-## Contributing to the Wiki
+## Writing for the Wiki
 
 If you want to be a collaborator on the wiki, please reach out on the ARG Discord or
 email [bmthargwiki@gmail.com](mailto:bmthargwiki@gmail.com).
@@ -15,19 +15,11 @@ Our less technical volunteers can contribute by writing [Markdown (tutorial)](ht
 that you can learn the basics of in just a few minutes. It is widely used and you may even know 
 some of it from a forum or Discord already!
 
-Also check out the [markdown example](markdown_example) (rendered) vs. [the code](markdown_example.md)!
+Also check out the [markdown example](pages/markdown_example) (rendered) vs. [the code](pages/markdown_example.md)!
 
-You can use any Markdown editor, including online ones like [Dillinger](https://dillinger.io/). 
-Dillinger can retrieve the files and make changes directly to GitHub. You will need to 
-[create an account](https://www.github.com) by clicking "Sign up" and following the instructions.
-
-![img.png](installation_help/dillinger_instruction.png)
-
-You will be asked to log in to GitHub. Log in, then click the same button again. You 
-should have access to the repository given by an admin. You can import all public 
-repositories. You can now import the document you wish to edit. When you are done editing, 
-you click "Save to", where you will be prompted to add a short description of what you changed. 
-Please keep this clear and concise.
+You can use any Markdown editor, including one built in on GitHub. Here, you will also be able to check the preview 
+to make sure everything looks normal. Adding images is currently difficult, but we are looking into more 
+editor-friendly options. :)
 
 ## Developing the Wiki
 
@@ -74,3 +66,7 @@ run the project locally by executing the following command:
 
 6. View the project on `http://127.0.0.1:4000`. If strange things start happening, terminate the
 program and re-run the jekyll command. -
+
+## Credit
+
+This wiki is maintained by a team of dedicated tinfoilers on Discord.
