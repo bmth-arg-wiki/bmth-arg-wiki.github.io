@@ -7,18 +7,36 @@ system.
 
 The insight associated with Syko is [Insight 1: Connection](../lore/insight1-connection).
 
-## Official Art
+***
 
-![Promotional poster for Syko](../../Resources/characters/syko/poster.jpg)
-![Syko art by vinne.art](../../Resources/characters/syko/syko_art.jpg)
+## Backstory
 
-Additional artwork of Syko by the original artist on Instagram.
+> *Seems like every channel is playing the same news story, it’s sending me insane. What’s even crazier-earlier, somebody bit me, BIT ME.*
+> 
+> - Scott in his [diary](../files/scott_personal_journal)
 
+Currently, we only have [Scott's Diary](../files/scott_personal_journal) for Syko's experiences. 
+His user number is the password for this file, and Oliver's second name in real life is Scott. 
+We know that he is 16 in 2037, putting his date of birth somewhere in 2020 or 2021, after the 
+[fall of Mantra](../files/unbeleevable).
+In his diary, he gets infected with VSPR-37.
+However, it is unknown what happens to him after the infection takes over his body and decision making (as 
+evidenced in the diary).
+
+> *It 3:16. Mouth taste like corpse….wait..sum1 knocking on my door…no…it cant be…That face…that tasty face…Tasty…itchy…*
+
+The diary ends with someone knocking at his door. [Selene](selene) is a likely candidate, as she mentions 
+that she will check on Scott in her own diary.
+The last line is also a reference to Resident Evil and the whole diary uses lots of lyrics from [Dear Diary](../music/song-dear-diary).
+
+***
 
 ## Read More
 
 - [Characters](characters)
 - [Scott's diary](../files/scott_personal_journal)
+- [Selene's diary](../files/selene_personal_journal)
+- [Dear Diary,](../music/song-dear-diary)
 
 Insight 1:
 
@@ -31,3 +49,18 @@ Other band members:
 - [Madman](madman)
 - [Pickles](pickles)
 - [Vegan](vegan)
+
+***
+
+## Official Art
+
+![Promotional poster for Syko](../../Resources/characters/syko/poster.jpg)
+![Syko art by vinne.art](../../Resources/characters/syko/syko_art.jpg)
+
+Additional artwork of Syko by the original artist on Instagram.
+
+![Artwork of Oskar](../../Resources/characters/syko/oskar_poster.png)
+
+There is also a tour poster with art of Oskar, which is the name of Oli's deceased dog 
+and the name of Scott's dog in his diary.
+This poster is likely a tribute to Syko and Oli's hairy friend.

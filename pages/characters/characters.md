@@ -1,48 +1,67 @@
 # Characters
 
-The following page contains a categorization and short summary of all users in the system, as well as any other 
-significant characters in this ARG. It will help you get an overview of the most 
+The following page contains a categorization of the characters in the ARG. It will help you get an overview of the most 
 important names and how the characters relate to each other.
 
 ***
 
 ## System Users
 
-The following characters are mentioned on the website:
+The following characters are mentioned on the website. Click on their name 
+to view their page:
 
-- [0000 E.V.E.](eve) 
-- [0001 Vegan](vegan)
-- [0002 Uriel](uriel)
-- [0003 Selene](selene)
-- [0004 Raphael](raphael)
-- [0005 Syko](syko)
-- [0006 M8](../m8)
-- [0007 Raphael](raphael)
-- [0008 Pan](pan)
-- [0009 Miseria](miseria)
-- [0010 Michael](michael)
-- [0011 Pickles](pickles)
-- [0012 Madman](madman)
-- [0013 Strassman](strassman)
-- [0014 Ren](ren)
-- [0015 Iara](iara)
-- [0016 Gabriel](gabriel)
-- [0017 Vanth](vanth)
-
-Additionally, there are characters not listed on M8. These are:
-
-- [Sof](sof)
-- [Emily](#emily)
-- [Victor Carmine](#victor-carmine)
-- [Dr. Elias Mortem](#dr-elias-mortem)
-- [Rebecca](#rebecca)
+| Number                      | Name                                      | Categorisation                                                           |
+|-----------------------------|------------------------------------------------|--------------------------------------------------------------------------|
+| [0000](eve)                 | [E.V.E.](eve)                                  | [Evil AI](../lore/genesis-storyline)                                     |
+| [0001](vegan)               | [Vegan](vegan)                                 | [Band member](#band-members)                                             |
+| [0002](uriel)               | [Uriel](uriel)                                 | [Archangel](#the-archangels)                                             |
+| [0003](selene)              | [Selene](selene)                               | Protagonist, involved with [Nex Gen](../lore/nex-gen-corporation)        |
+| [0004](raphael)             | [Raphael](raphael)                             | [Archangel](#the-archangels)                                             |
+| [0005](syko)                | [Syko](syko)                                   | [Band member](#band-members)                                             |
+| [0006](../m8)               | [M8](../m8)                                    | Technology                                                               |
+| [0007](raphael)             | [Raphael](raphael)                             | [Archangel](#the-archangels)                                             |
+| [0008](pan)                 | [Pan](pan)                                     | [Omen](#omens)                                                           |
+| [0009](miseria)             | [Miseria](miseria)                             | [Omen](#omen)                                                            |
+| [0010](michael)             | [Michael](michael)                             | [Archangel](#the-archangels)                                             |
+| [0011](pickles)             | [Pickles](pickles)                             | [Band member](#band-members)                                             |
+| [0012](madman)              | [Madman](madman)                               | [Band member](#band-members)                                             |
+| [0013](strassman)           | [Strassman](strassman)                         | [Nex Gen](../lore/nex-gen-corporation) employee, [Trinity](#the-trinity) |
+| [0014](ren)                 | [Ren](ren)                                     | [Nex Gen](../lore/nex-gen-corporation) employee                          |
+| [0015](iara)                | [Iara](iara)                                   | [Possible Nex Gen](../lore/nex-gen-corporation) employee                 |
+| [0016](gabriel)             | [Gabriel](gabriel)                             | [Archangel](#the-archangels)                                             |
+| [0017](vanth)               | [Vanth](vanth)                                 | [Omen](omen)                                                             |
 
 ***
 
 ## Other Characters
 
-These characters have been mentioned in documents and currently do not have 
-enough information to have their own dedicated page.
+Additionally, there are characters not listed on M8. For example because they were 
+mentioned in documents.
+
+These are:
+
+| Character                            | Source                                                   |
+|--------------------------------------|----------------------------------------------------------|
+| [Sof](sof)                           | Mentioned on Horizon supply website, girl on the cover   |
+| [Angeldust](#angeldust)              | Mentioned in live shows                                  |
+| [Dr. Elias Mortem](#dr-elias-mortem) | Mentioned in [Project D.U.S.T.](../files/project_dust)   |
+| [Emily](#emily)                      | Mentioned in the BMTH Discord                            |
+| [Rebecca](#rebecca)                  | Mentioned in [Tekka interview](../files/tekka_interview) |
+| [Victor Carmine](#victor-carmine)    | Mentioned in [Tekka interview](../files/tekka_interview) |
+
+
+### Sof
+
+Sof is the girl from the album and has her own [page](sof).
+
+### Angeldust
+
+Angeldust is shown on stage during [Kool-Aid](../music/song-koolaid).
+
+### Dr. Elias Mortem
+
+Dr. Elias Mortem was the lead scientist at Arc/Hive Research Division at the time of 
+declassification of the [Project D.U.S.T. research proposal](../files/project_dust).
 
 ### Emily
 
@@ -55,10 +74,6 @@ Victor Carmine is a mysterious man mentioned in the [Tekka Interview](../files/t
 the interviewer from Tekka mentions that he is a "big player" and that some call him a visionary, others call
 him a psycho.
 
-### Dr. Elias Mortem
-
-Dr. Elias Mortem was the lead scientist at Arc/Hive Research Division.
-
 ### Rebecca
 
 Rebecca was a terminally ill lab assistant at Arc/Hive, before becoming the first
@@ -68,6 +83,9 @@ by a magazine called Tekka.
 ***
 
 ## Categorisations
+
+The system numbers can be confusing, but we can still group some of our 
+characters to understand them better.
 
 ### The Archangels
 
@@ -83,19 +101,23 @@ The archangels and their [insights](../lore/insights)
 Angels can also be found in the [spectrograms](../music/spectrograms) in
 [(spi)ritual](../music/song-spiritual).
 
+***
+
 ## Omens
 
 The following characters are omens of the [insights](../lore/insights):
 
-- [Pan - Connection](pan)
-- [Miseria - Empathy](miseria)
-- [Vanth: Princess of Darkness - Purpose](vanth)
+- [Pan — Connection](pan)
+- [Miseria — Empathy](miseria)
+- [Vanth: Princess of Darkness — Purpose](vanth)
 
 Uriel's insight is [Vision](../lore/insight4-vision), which has the omen 'the Babylon'. 
 It is unknown whether this refers to a character, or the real life Babalon.
 
 Pan's user number is 0009, Miseria's is 0010 and Vanth's is 0018. Pan might also 
 play a role in [Night of Pan](../lore/night-of-pan) ritual.
+
+***
 
 ## Band Members
 
@@ -118,13 +140,15 @@ Sykes/Syko is 0005, Kean/Vegan is 0001, Malia/Madman is 0010 and Nicholls/Pickle
 
 A promotional image of the band on cards also links them to the [four insights](../lore/insights).
 
+***
+
 ## The Trinity
 
 ### Trinity
 
-The members of the Trinity are three scientists, mentioned first in the [trinity document](../files/trinity_document).
+The members of the Trinity are three people of interest, mentioned first in the [trinity document](../files/trinity_document).
 
-#### Strassman
+#### Karl Strassman
 
 The first member is [Dr. Karl Strassman](strassman), a doctor that works with [Eve](eve), as 
 evidenced by the [strassman codec](../files/strassmancodec). He is user 0014 on the [webpage](../webpage).
@@ -148,12 +172,16 @@ also bears a strong resemblance to Forest Whitaker (actor) in the [In the Dark](
 music video, who seems to be going through what looks like this desensitization protocol. This video 
 also contains (a second version of) the altilium chordata tank we see in the project D.U.S.T. file.
 
+***
+
 ## Read More
 
-- Nex Gen and Trinity
+- Nex Gen, Arc/hive and Trinity
+  - [Nex Gen Corporation](../lore/nex-gen-corporation)
   - [Trinity document](../files/trinity_document)
   - [Tekka Interview](../files/tekka_interview)
   - [Project D.U.S.T.](../files/project_dust)
+  
 - Character Journals
   - [Ren](../files/lauren_d8_log)
   - [Scott/Syko](../files/scott_personal_journal)

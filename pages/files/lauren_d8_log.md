@@ -56,7 +56,7 @@ Dr. Ikara Lauren: (voice quivering)
 
 +Today has been overwhelming. Losing my father…it’s like a piece of me is gone. The emptiness is so heavy. He was a true visionary. He was my hero. His work changed the world. 
 
-The MOXYPAL was revolutionary, a personal air purification device that transforms CO2 into breathable oxygen using BioCores. Still widely used, even if considered rudimentary now.
+The MOXYPAK was revolutionary, a personal air purification device that transforms CO2 into breathable oxygen using BioCores. Still widely used, even if considered rudimentary now.
 And the Synthetic Neurological Transference Human Project – systems designed to house human consciousness, enhancing cognitive functions and augmenting intellectual capacities. 
 My father envisioned a future where these would mitigate the environmental collapse, though they’re currently limited to military use and the ultra-wealthy.
 

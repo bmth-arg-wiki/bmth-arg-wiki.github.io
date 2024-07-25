@@ -13,7 +13,7 @@ as well as a [lyric video](https://www.youtube.com/watch?v=YyacCX-CFUM).
 
 The lyric video was directed and edited by [circushead](https://circushead.co/pages/bring-me-the-horizon-kool-aid-lyric-video), 
 who also worked on the direction of Kool-Aid Live, including the visuals of a woman 
-only named in the live shows as Angeldust.
+only named in the live shows as [Angeldust](../characters/angeldust).
 
 ***
 
@@ -126,6 +126,7 @@ despair, addiction, existential struggle
 
 - [POST HUMAN: NeX GEn](ph-nex-gen)
 - [Website songs](website-songs)
+- [Angeldust](../characters/angeldust)
 
 Other singles:
 

@@ -1,16 +1,19 @@
 # Unbeleevable
 
 This file contains an email from Nex Gen's internal network and the video attached to said email. 
+It is currently unknown whether the Dr. Lee MD from the video is also [Madman](../characters/madman) in the ARG.
 
 ***
 
 ## Document contents
 
 ### Email
+
 ![NEXGENLEAK1.png](../../Resources/files/unbeleevable/NEXGENLEAK1.png)
 ![NEXGENLEAK2.png](../../Resources/files/unbeleevable/NEXGENLEAK2.png)
 
 ### Video
+
 The video the email is referring to is a video of Lee speaking about the Mantra
 cult. You can watch the [Unbeleevable video on YouTube](https://youtu.be/fQG3O6avUrw?si=zOYCqH0iVpDiaB2V)
 
@@ -107,3 +110,12 @@ cult. You can watch the [Unbeleevable video on YouTube](https://youtu.be/fQG3O6a
 
 - [FOR SOF](for-sof)
 - [Sky_&_The_Starjammers.png](skystarjammers)
+
+***
+
+## More Screenshots
+
+![doesntknowwhoheis.png](../../Resources/files/unbeleevable/doesntknowwhoheis.png)
+
+This man does not know who he is and is being interviewed by Dr. Lee MD. This is Matt Nichols, 
+one of the band members, although it is unknown whether he is also playing [Pickles](../characters/pickles) here.

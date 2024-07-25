@@ -7,12 +7,7 @@ update he was number 0013 in the system, he is now user 0012.
 
 The insight associated with Madman is [empathy](../lore/insight2-empathy).
 
-## Official Artwork
-
-![Promotional poster for Madman](../../Resources/characters/madman/poster.jpg)
-![Art on instagram by vinne.art](../../Resources/characters/madman/madman.jpg)
-
-Additional artwork by the original artist.
+***
 
 ## Read More
 
@@ -26,3 +21,12 @@ Other band members:
 - [Syko](syko)
 - [Pickles](pickles)
 - [Vegan](vegan)
+
+***
+
+## More Art
+
+![Promotional poster for Madman](../../Resources/characters/madman/poster.jpg)
+![Art on instagram by vinne.art](../../Resources/characters/madman/madman.jpg)
+
+Additional artwork by the original artist.

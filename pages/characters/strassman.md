@@ -1,8 +1,12 @@
 # Dr. Karl Strassman
 
-![strassman.png](../../Resources/characters/strassman/strassman.png)
+![Karl Strassman's avatar](../../Resources/characters/strassman/strassman.png)
 
-Karl Strassman is a doctor that works with [Eve](eve), as seen in a 
+***
+
+## Backstory
+
+Karl Strassman is a doctor that works with [E.V.E](eve), as seen in a 
 [video](../files/strassmancodec) unlocked on the 26th of May in the 
 [FOR SOF](../files/for-sof) folder. This was one of the earliest files and 
 has been upgraded in quality from its initial release.
@@ -17,15 +21,30 @@ He seemingly shoots himself/is shot at the end of the audio for [ABWMNO](../musi
 It is unconfirmed who shot him, or whether he survived or not. It is unclear 
 when this audio was recorded in-universe.
 
+## Read More
+
+See [all characters](characters).
+
+Strassman before Nex Gen corporation:
+
+- [Trinity](characters#trinity)
+- [Skys](skys)
+- [Dallus Lauren](dallus-lauren)
+- [ARC/HIVE](../lore/archive)
+- [Operation Trinity](../files/trinity_document)
+- [Unbeleevable video](../files/unbeleevable)
+
+Strassman at Nex Gen corporation:
+
+- [E.V.E](eve)
+- [Selene](selene)
+- [Nex Gen Corporation](../lore/nex-gen-corporation)
+- [Youtopia](../lore/youtopia)
+- [P.U.S.S-E](../lore/pusse)
+- [Strassman codek (conversation with E.V.E)](../files/strassmancodec)
+
+***
+
 ## Official Art
 
 ![Promotional poster for Strassman](../../Resources/characters/strassman/poster.jpg)
-
-## Read More
-
-- [Characters](characters)
-- [FOR SOF](../files/for-sof)
-- [Nex Gen Corporation](../lore/nex-gen-corporation)
-- [Trinity](characters#trinity)
-- [P.U.S.S-E](../lore/pusse)
-- [E.V.E](eve)

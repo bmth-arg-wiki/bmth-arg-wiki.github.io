@@ -6,7 +6,7 @@ around October of the same year according to [Scott's diary](scott_personal_jour
 
 ## Content of the file
 
-![science_study_newspaper.png](../../Resources/files/science_study/science_study_newspaper.png)
+![Newspaper image](../../Resources/files/science_study/science_study_newspaper.png)
 
 This file first appeared on the 3th of July, looking very blurry. An update appeared 
 on the 5th of July. This update made the newspaper clearer and now allows users to zoom 

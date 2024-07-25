@@ -79,3 +79,9 @@ ends in a hopeful way. We hope that it will make people want to do something.”
 ## Read More
 
 - [POST HUMAN: SURVIVAL HORROR](ph-survival-horror)
+
+***
+
+## Watch More
+
+Not lore related: this song was performed live with Amy Lee, you can find the video on [YouTube](https://www.youtube.com/watch?v=gUihPJhG4KI).

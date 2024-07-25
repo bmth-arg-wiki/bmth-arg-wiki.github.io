@@ -6,7 +6,10 @@ by a magazine called Tekka.
 
 ![Tekka Magazine cover](../../Resources/files/tekka/tekka_cover.png)
 
+***
+
 ## Read More
 
 - [Characters](characters)
-- [Dallus Lauren](characters#dallus-lauren)
+- [ARC/HIVE](../lore/archive)
+- [Dallus Lauren](dallus-lauren)
