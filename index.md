@@ -13,8 +13,6 @@ This wiki will focus on objective information as much as possible and indicate w
 There is a lot going on in this ARG! We get it if you are overwhelmed. 
 This section will attempt to explain the most important sources.
 
-![POST HUMAN: NeX GEn album cover](Resources/music/album_cover.png)
-
 ### The Album
 
 The album itself contains many tracks, with some of them hiding secrets! Nearly all tracks 
