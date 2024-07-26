@@ -456,7 +456,9 @@ A tightening grip remains unseen, death will be, where life had been. => Noose
 https://www.instagram.com/p/C8Ziq3_CVIy/
 </details>
 
-- [Operation_Trinity_Analysis.xslx](../files/trinity_document)
+This file is not in English. See the links below in case you need some help interpreting.
+
+- [Operation_Trinity_Analysis.xslx](../files/trinity_document) (includes translation)
 - [Karl Strassman](../characters/strassman)
 - [Skys](../characters/skys)
 - [Dallus Lauren](../characters/dallus-lauren)
@@ -517,17 +519,16 @@ are well hidden!
 <details>
 <summary>Solution</summary>
 
-Using the [Instagram post](https://www.instagram.com/p/C8kLLWdC2MS/?img_index=1), 
-we can find the solution. Note that the last two characters should be switched 
-to unlock the file!
+Using this Instagram post: https://www.instagram.com/p/C8kLLWdC2MS/, 
+we can find the solution, reading the symbols from top to bottom.
+You can also see this password at the bottom of the page!
 
-![Symbols for the password](../../Resources/socials/project_dust_password_post.png)
-
-Alternatively, we can use the following image. Enter the symbols from top to bottom.
 </details>
 
 This gives us a lot more information on the people mentioned in the previous files 
 and their past.
+
+The solution can also be found in the image at the [end of the page](#password-1).
 
 - [Jan15_2031_declassified_PROJECT D.U.S.T. 2](../files/project_dust)
 - [Nex Gen Corporation](../lore/nex-gen-corporation)
@@ -625,9 +626,6 @@ The password is also the name of one of the most prominent actors in a music vid
 <details>
 <summary>Solution</summary>
 
-![Tour poster with hidden section](../../Resources/files/unbeleevable/in_the_forest_tour_poster.png)
-![object_archangel.png](../../Resources/files/unbeleevable/object_archangel.png)
-
 The password to this file is "forest". There is no official explanation 
 for this password, but there are different interpretations:
 
@@ -635,6 +633,8 @@ for this password, but there are different interpretations:
 2. "Deep in the forest, the blind one follows her every move"
 3. Lee Malia's son's name: Forrest (spelled with two r's)
 </details>
+
+See the [end of the page](#tour-poster-1) for more information on the solution.
 
 This file gives us access to an email and a video featuring one of the band members. 
 
@@ -669,3 +669,20 @@ Want to help us with the password hunt? Join the official [BMTH Discord](https:/
 
 - [Walkthrough part 1](../walkthrough/walkthrough)
 - [FOR SOF: file overview](../files/for-sof)
+
+## Picture passwords
+
+This section contains any pictures containing spoilers and is linked where necessary.
+
+### Password 1
+
+![Project DUST symbols](../../Resources/socials/project_dust_password_post.png)
+
+[Go back](#jan15_2031_declassified_project-dust-2)
+
+### Tour poster 1
+
+![Tour poster with hidden section](../../Resources/files/unbeleevable/in_the_forest_tour_poster.png)
+![object_archangel.png](../../Resources/files/unbeleevable/object_archangel.png)
+
+[Go back](#nex-gen-leak-unbeleevabledoc)
