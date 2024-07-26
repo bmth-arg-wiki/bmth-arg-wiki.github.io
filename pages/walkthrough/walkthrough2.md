@@ -4,6 +4,8 @@
 
 The folder of files is where most of the ARG takes place.
 First, we need to gain access to it.
+Passwords will be marked for spoilers, but this article will contain some 
+images and links.
 
 ***
 
@@ -59,14 +61,9 @@ to be the password due to the time discrepancies on the webpage.
 
 You can find more explanations about the webpage by reading some related articles.
 
-<details>
-<summary>View related articles</summary>
-
-- [Spectrograms](../music/spectrograms)
 - [Webpage](../webpage)
 - [Website songs](../music/website-songs)
 - [Website browser](../webbrowser)
-</details>
 
 [Quick access](#quick-access)
 
@@ -76,12 +73,9 @@ You can find more explanations about the webpage by reading some related article
 
 The first file is an [audio log](../files/msgforsof) that does not need a password.
 
-<details>
-<summary>Related articles</summary>
-
+- [msgforsof.aiff](../files/msgforsof)
 - [Sof](../characters/sof)
 - [Selene](../characters/selene)
-</details>
 
 [Quick access](#quick-access)
 
@@ -91,6 +85,8 @@ The first file is an [audio log](../files/msgforsof) that does not need a passwo
 
 The second file is a document that also does not require a password.
 Before doing some more research, we recommend opening the next set of files first.
+
+- [THEINSIGHTS.doc](../lore/insights)
 
 [Quick access](#quick-access)
 
@@ -143,9 +139,6 @@ in [DIg It](../music/song-digit).
 
 These files will tell us more about the lore, but we are only just at the start.
 
-<details>
-<summary>Related wiki articles</summary>
-
 Insights:
 
 - [The Insights](../lore/insights)
@@ -170,7 +163,6 @@ Characters:
 - [Michael](../characters/michael)
 - [Vanth](../characters/vanth)
 - [Uriel](../characters/uriel)
-</details>
 
 [Quick access](#quick-access)
 
@@ -203,6 +195,8 @@ By decoding the capital letters from the tracklist, we get
 
 Let's move on with the file actually intended to be next.
 
+- [CAPSLOCK.DOC](../files/capslock_doc)
+
 [Quick access](#quick-access)
 
 ***
@@ -226,15 +220,11 @@ get the name 'Karl Strassman' from [a bulleT w/my namE On](../music/song-abwmno)
 
 Learn more about Strassman in the related articles.
 
-<details>
-<summary>Related articles</summary>
-
 - [StrassmanCONFIDENTIALPRT007.CODEC](../files/strassmancodec)
 - [Nex Gen Corporation](../lore/nex-gen-corporation)
 - [Karl Strassman](../characters/strassman)
 - [E.V.E](../characters/eve)
 - [a bulleT w/my namE On](../music/song-abwmno)
-</details>
 
 [Quick access](#quick-access)
 
@@ -260,14 +250,10 @@ The password is '1d1b2c2a' and can be found in the [Spyder browser](../webbrowse
 
 This unlocks a Dreadit post with some comments on it.
 
-<details>
-<summary>Related articles</summary>
-
 - [DREADITScreenshot 2051.1.5.59.43.vis](../files/dreadit)
 - [Nex Gen Corporation](../lore/nex-gen-corporation)
 - [Selene](../characters)
 - [Neosages](../lore/mantra) (Spoiler-heavy for upcoming files)
-</details>
 
 [Quick access](#quick-access)
 
@@ -296,11 +282,6 @@ the sticky note.
 
 We've now got the map, which will tell us a little more about Youtopia.
 
-<details>
-<summary>Related articles</summary>
-
-Related lore:
-
 - [YOUTOPIA_selenes_map.vis](../files/selenes_map)
 - [Youtopia](../lore/youtopia)
 - [The Insights](../lore/insights)
@@ -315,8 +296,6 @@ Related characters:
 - [Michael](../characters/michael)
 - [Vanth](../characters/vanth)
 - [Uriel](../characters/uriel)
-
-</details>
 
 [Quick access](#quick-access)
 
@@ -348,6 +327,7 @@ This gives us a spec sheet for some technology.
 - [R8](../files/r8)
 - [M8](../m8)
 - [D8](../files/lauren_d8_log)
+
 </details>
 
 [Quick access](#quick-access)
@@ -374,6 +354,9 @@ The password is Selene's user number in the [M8 system](../webpage), 0003.
 
 You can learn more in the related articles, but we recommend unlocking [Scott's diary](#scott_personal_journal_vspr-37doc) 
 first.
+
+- [Selene_Personal_Journal_2037.02.doc](../files/selene_personal_journal)
+- [Selene](../characters/selene)
 
 [Quick access](#quick-access)
 
@@ -402,12 +385,8 @@ In this log we find out that his full name is Ikaro Lauren.
 
 More details on this character and document can be found in the related articles.
 
-<details>
-<summary>Related articles</summary>
-
 - [Lauren_D8_Log_203701.docx](../files/lauren_d8_log)
 - [Ren](../characters/ren)
-</details>
 
 [Quick access](#quick-access)
 
@@ -437,15 +416,11 @@ In this log we find out that Syko was still called Scott at 16 years old.
 You can read more about Scott in the related articles. This file is strongly tied to 
 [Selene's diary](#selene_personal_journal_203702doc).
 
-<details>
-<summary>Related articles</summary>
-
 - [Selene_Personal_Journal_2037.02.doc](../files/selene_personal_journal)
 - [Selene](../characters/selene)
 - [Scott_Personal_Journal_VSPR-37.doc](../files/scott_personal_journal)
 - [Syko](../characters/syko)
 - [Dear Diary,](../music/song-dear-diary)
-</details>
 
 [Quick access](#quick-access)
 
@@ -473,18 +448,13 @@ The shatter of a porcelain dream, under the weight of silent beams. => Hammer (A
 A serpent slips through the veins where hidden secrets bring. => Poison
 A tightening grip remains unseen, death will be, where life had been. => Noose
 
-[Post with the solution](https://www.instagram.com/p/C8Ziq3_CVIy/?img_index=1)
+https://www.instagram.com/p/C8Ziq3_CVIy/
 </details>
-
-<details>
-<summary>Related articles</summary>
 
 - [Operation_Trinity_Analysis.xslx](../files/trinity_document)
 - [Karl Strassman](../characters/strassman)
 - [Skys](../characters/skys)
 - [Dallus Lauren](../characters/dallus-lauren)
-
-</details>
 
 [Quick access](#quick-access)
 
@@ -495,10 +465,14 @@ A tightening grip remains unseen, death will be, where life had been. => Noose
 <details>
 <summary>Hint 1</summary>
 
+The symbol on the password screen can be seen in an older music video.
 </details>
 <details>
 <summary>Hint 2</summary>
 
+The password is "arc/hive".
+It is hidden in "In the Dark", which shows several references to 
+a company with this name.
 </details>
 <details>
 <summary>Solution</summary>
@@ -507,9 +481,6 @@ The password is "arc/hive".
 The password screen refers to the logo we see in [In the Dark](../music/amo-in-the-dark), 
 which takes place at a mysterious organization called ARC/HIVE.
 </details>
-
-<details>
-<summary>Related articles</summary>
 
 - [ISSUE-51-fromhelltoshell.pdf 1](../files/tekka_interview)
 - [Nex Gen Corporation](../lore/nex-gen-corporation)
@@ -520,8 +491,6 @@ Related characters:
 - [Rebecca](../characters/rebecca)
 - [Karl Strassman](../characters/strassman)
 - [Dallus Lauren](../characters/dallus-lauren)
-
-</details>
 
 [Quick access](#quick-access)
 
@@ -555,9 +524,6 @@ Alternatively, we can use the following image. Enter the symbols from top to bot
 This gives us a lot more information on the people mentioned in the previous files 
 and their past.
 
-<details>
-<summary>Related articles</summary>
-
 - [Jan15_2031_declassified_PROJECT D.U.S.T. 2](../files/project_dust)
 - [Nex Gen Corporation](../lore/nex-gen-corporation)
 - [ARC/HIVE](../lore/archive)
@@ -572,8 +538,6 @@ Related characters:
 - [Dallus Lauren](../characters/dallus-lauren)
 - [Ikaro Lauren](../characters/ren)
 - [Syko](../characters/syko)
-
-</details>
 
 [Quick access](#quick-access)
 
@@ -600,12 +564,8 @@ a song in the [music player](../music/website-songs) info.
 
 This will unlock a newspaper with several areas you can zoom into.
 
-<details>
-<summary>Related articles</summary>
-
 - [SCISTUDYSCAN1999wrist.SCN](../files/thesciencestudy)
 - [Website songs](../music/website-songs)
-</details>
 
 [Quick access](#quick-access)
 
@@ -636,15 +596,10 @@ By switching them around, we can form the password: 'INTERCELLULAR'
 
 This will give us a poster.
 
-<details>
-<summary>Related articles</summary>
-
 - [Sky_&_The_Starjammers.png](../files/skystarjammers)
 - [Skys](../characters/skys)
 - [Mantra cult](../lore/mantra)
 - [Mantra (song)](../music/amo-mantra)
-
-</details>
 
 [Quick access](#quick-access)
 
@@ -678,9 +633,6 @@ for this password, but there are different interpretations:
 
 This file gives us access to an email and a video featuring one of the band members. 
 
-<details>
-<summary>Related articles</summary>
-
 - [Nex Gen leak ‘UNBELEEVABLE’.doc](../files/unbeleevable)
 - [Skys & the Starjammers poster](../files/skystarjammers)
 - [The Science Study newspaper](../files/thesciencestudy)
@@ -696,8 +648,6 @@ Related characters:
 - [Karl Strassman](../characters/strassman)
 - [Madman](../characters/madman) (maybe?)
 
-</details>
-
 [Quick access](#quick-access)
 
 ***
@@ -712,4 +662,5 @@ Please email [bmthargwiki@gmail.com](mailto:bmthargwiki@gmail.com).
 
 Want to help us with the password hunt? Join the official [BMTH Discord](https://discord.com/invite/bmthofficial).
 
+- [Walkthrough part 1](../walkthrough/walkthrough)
 - [FOR SOF: file overview](../files/for-sof)

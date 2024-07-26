@@ -71,9 +71,7 @@ There is a hidden QR code in the [spectrogram](../music/spectrograms) and it lea
 https://www.multidimensionalnavigator8.help/index-desktop.html.
 </details>
 
-Once you have found the website,
-you can click around to learn more about the different functionalities it has to offer.
-You can also read more about them on this wiki.
+Now we will need to log in to the webpage.
 
 ### Gaining access
 
@@ -96,7 +94,9 @@ The serial number we are looking for is 93934521 and can be seen on the side of 
 on the [NEx Gen album](../music/ph-nex-gen) cover.
 </details>
 
-We're in! You should now be able to explore the ARG website.
+We're in! Once you are logged into the website, you can click around to learn 
+more about the different functionalities it has to offer.
+You can also read more about them on this wiki.
 
 Want more details? The related articles on the wiki will tell you more about what
 you are seeing.
