@@ -11,18 +11,40 @@ There was also a website with a teaser called `joinmantra.org`.
 
 ***
 
-## joinmantra.org
+## Mantra Extended Intro
 
-![Mantra logo with the phrase "An Invitation to Salvation"](../../Resources/other-webpages/joinmantra.org/20180810062921.png)
+https://www.youtube.com/watch?v=vcI9-ZesGf4
+(few first lines from local file)
 
-*An invitation to salvation* is shown on the webpage, along with the Mantra logo. 
-The website contained a slightly moving image of Oli in the music video.
-It was revealed to be a teaser for the song.
-
-The website sadly does not exist in this form,
-but it can be viewed on the [wayback machine](https://web.archive.org/web/20190408225654/http://www.joinmantra.org/). 
-
-***
+> Woman:
+>
+> welcome
+> welcome to peace
+> welcome to spiritual enlightenment
+>
+> Man over radio/walkie-talkie?: 
+>
+> *Unit 2 move into position. Unit three and four maintain cover to sector seven*
+> 
+> Woman:
+> 
+> welcome to freedom
+> welcome to a new world order
+> welcome to a new way of thinking
+> welcome to a non-violent community
+>
+> Man: 
+> 
+> Level one's clear.
+>
+> Woman:
+> 
+> welcome to your worst nightmares
+> welcome to suffering
+> welcome to true betrayal
+> welcome to your pain
+> welcome to the end of the world
+> welcome to mantra
 
 ## Read More
 

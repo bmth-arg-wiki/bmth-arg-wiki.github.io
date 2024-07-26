@@ -108,7 +108,13 @@ cult. You can watch the [Unbeleevable video on YouTube](https://youtu.be/fQG3O6a
 
 ## Read More
 
+- [Mantra](../lore/mantra)
+
+Related files:
+
 - [FOR SOF](for-sof)
+- [Operation Trinity](trinity_document)
+- [The Science Study](thesciencestudy)
 - [Sky_&_The_Starjammers.png](skystarjammers)
 
 ***

@@ -20,6 +20,8 @@ Try it now for the folder password!
 past
 </details>
 
+***
+
 ## Directory content
 
 This table contains two links: the filename links to a relevant article (if there is one), the folder icon will bring 
@@ -81,6 +83,8 @@ you to the known information (including password) about the file itself.
 This article also contains information on [previous versions](#previous-versions) and the 
 [corrupted files](#corrupt-files).
 
+***
+
 ## Placeholders
 
 ![Password screen for most files](../../Resources/files/old_placeholder.png)
@@ -93,6 +97,8 @@ updates have occurred, although this has not been confirmed by the devs.
 As of 29/05/2024, the prompt at the top has been changed to "password_?" instead of 
 "insight_?".
 
+***
+
 ## msgforsoff.aiff
 
 Also see the [article on this file](msgforsof.md)
@@ -104,6 +110,8 @@ the premise of the ARG: we are exploring the files Selene left for her daughter.
 ![Screenshot of the audio player](../../Resources/files/msgforsof-audioplayer.png)
 
 [Back to all files](#directory-content)
+
+***
 
 ## THE INSIGHTS.DOC, INSIGHT1-4 docs
 
@@ -146,6 +154,8 @@ vision
 
 [Back to all files](#directory-content)
 
+***
+
 ## CAPSLOCK.doc
 
 <details class="password">
@@ -161,6 +171,8 @@ supposed to be.
 
 [See the page on the capslock doc](../files/capslock_doc)
 [Back to all files](#directory-content)
+
+***
 
 ## StrassmanCONFIDENTIALPRT007.CODEC
 
@@ -179,6 +191,8 @@ as [Strassman](../characters/strassman).
 Also see the [article on this file](strassmancodec).
 [Back to all files](#directory-content)
 
+***
+
 ## DREADITScreenshot 2051.1.5.59.43.vis
 
 <details class="password">
@@ -193,6 +207,8 @@ to contain a Dreadit link in the URL bar.
 [See the page on the DREADIT file](../files/dreadit)
 [Back to all files](#directory-content)
 
+***
+
 ## YOUTOPIA_selenes_map.vis
 
 <details class="password">
@@ -205,6 +221,8 @@ The password refers to [M8](../m8)'s middle name, which is referenced in some li
 in the sticky notes (TODO: expand on source).
 
 [Back to all files](#directory-content)
+
+***
 
 ## R8/fulfilment_source[m0n0].doc
 
@@ -224,6 +242,8 @@ precursor of [M8](../m8) that is called [R8](r8). You can find more details in t
 
 [Back to all files](#directory-content)
 
+***
+
 ## Selene_Personal_Journal_2037.02.doc
 
 <details class="password">
@@ -235,6 +255,8 @@ precursor of [M8](../m8) that is called [R8](r8). You can find more details in t
 The password is Selene's user number in the [M8](../m8) system.
 
 [Back to all files](#directory-content)
+
+***
 
 ## Lauren_D8_Log_203701.docx
 
@@ -248,6 +270,8 @@ The password for this file is [Ren](../characters/ren)'s user number.
 
 [Back to all files](#directory-content)
 
+***
+
 ## Scott_Personal_Journal_VSPR-37.doc
 
 <details class="password">
@@ -259,6 +283,8 @@ The password for this file is [Ren](../characters/ren)'s user number.
 The password for this file is [Syko](../characters/syko)'s user number.
 
 [Back to all files](#directory-content)
+
+***
 
 ## Operation_Trinity_Analysis.xslx
 
@@ -278,6 +304,8 @@ This file was added in an update on 19/06/2024.
 
 [Back to all files](#directory-content)
 
+***
+
 ## ISSUE-51-fromhelltoshell.pdf 1
 
 ![tekka-pass-screen.png](../../Resources/files/tekka/tekka-pass-screen.png)
@@ -292,6 +320,8 @@ where the logo on the password screen stems from.
 This file was added on the 25th of June.
 
 [Back to all files](#directory-content)
+
+***
 
 ## Jan15_2031_declassified_PROJECT D.U.S.T. 2
 
@@ -309,6 +339,8 @@ switched.
 
 [Back to all files](#directory-content)
 
+***
+
 ## SCISTUDYSCAN1999wrist.SCN
 
 <details class="password">
@@ -320,6 +352,8 @@ Wrist has an anagram for the password in the song information.
 
 [Back to all files](#directory-content)
 
+***
+
 ## Sky_&_The_Starjammers.png
 
 <details class="password">
@@ -329,6 +363,8 @@ INTERCELLULAR
 </details>
 
 [Back to all files](#directory-content)
+
+***
 
 ## Nex Gen leak 'UNBELEEVABLE'.doc
 
@@ -344,11 +380,15 @@ name of the actor playing in the[ Dark](../music/amo-in-the-dark) is Forest Whit
 
 [Back to all files](#directory-content)
 
+***
+
 ## Russian_poem.DOC
 
 Password unknown.
 
 [Back to all files](#directory-content)
+
+***
 
 ## Selene_Journey_Log_01/midname?.memo
 
@@ -358,11 +398,15 @@ Password protected with placeholder.
 
 [Back to all files](#directory-content)
 
+***
+
 ## Posthuman_Prototype_Alpha.mp3
 
 Password protected with placeholder.
 
 [Back to all files](#directory-content)
+
+***
 
 ## Kingsl@yer_EncrypMsg.codek
 
@@ -370,11 +414,15 @@ Password protected with placeholder.
 
 [Back to all files](#directory-content)
 
+***
+
 ## YOUTOPIA_Archangels_Secrets.docx
 
 Password protected with placeholder.
 
 [Back to all files](#directory-content)
+
+***
 
 ## Ancient_Pyramids_Connection.avi
 
@@ -382,11 +430,15 @@ Password protected with placeholder.
 
 [Back to all files](#directory-content)
 
+***
+
 ## M8_Core_Diagnostics.doc
 
 Password protected with placeholder.
 
 [Back to all files](#directory-content)
+
+***
 
 ## Strassman.NexGen_Confidential_Memo.doc
 
@@ -394,11 +446,15 @@ Password protected with placeholder.
 
 [Back to all files](#directory-content)
 
+***
+
 ## NOX_Pan_Flute_Audio.mp3
 
 Password protected with placeholder.
 
 [Back to all files](#directory-content)
+
+***
 
 ## .KNGSLYR_Theories_Collection.pdf
 
@@ -406,11 +462,15 @@ Password protected with placeholder.
 
 [Back to all files](#directory-content)
 
+***
+
 ## YOUTOPIA_Artifact_Locations.vis
 
 Password protected with placeholder.
 
 [Back to all files](#directory-content)
+
+***
 
 ## Book_of_Lies.vis
 
@@ -420,6 +480,8 @@ Password protected.
 
 [Back to all files](#directory-content)
 
+***
+
 ## PostHuman_Evolution_Chart.doc
 
 Original name: `PostHuman_evo`
@@ -427,6 +489,8 @@ Original name: `PostHuman_evo`
 Password protected with placeholder.
 
 [Back to all files](#directory-content)
+
+***
 
 ## Dreamscape_Dossier.docx
 
@@ -436,11 +500,15 @@ Password protected with placeholder.
 
 [Back to all files](#directory-content)
 
+***
+
 ## M8_wiFiPAss.doc
 
 Password protected with placeholder.
 
 [Back to all files](#directory-content)
+
+***
 
 ## NexGen_Research_Notes.doc
 
@@ -448,11 +516,15 @@ Password protected with placeholder.
 
 [Back to all files](#directory-content)
 
+***
+
 ## Eve_Birthright_Explained.mp4
 
 Password protected with placeholder.
 
 [Back to all files](#directory-content)
+
+***
 
 ## PH_Experiments_01.doc
 
@@ -460,17 +532,23 @@ Password protected with placeholder.
 
 [Back to all files](#directory-content)
 
+***
+
 ## Eve_Hstry.doc
 
 Password protected with placeholder.
 
 [Back to all files](#directory-content)
 
+***
+
 ## YOUTOPIA_Portal_Discovery.mp4
 
 Password protected with placeholder.
 
 [Back to all files](#directory-content)
+
+***
 
 ## NexGen_Future_Plan.doc
 
@@ -480,11 +558,15 @@ scrollbar was removed again). Its status is unknown.
 
 [Back to all files](#directory-content)
 
+***
+
 ## Eve_Prophecy_.doc
 
 A password-protected file that currently can not be viewed in the folder.
 
 [Back to all files](#directory-content)
+
+***
 
 ## Dreams_01.m
 
@@ -492,11 +574,15 @@ A password-protected file that currently can not be viewed in the folder.
 
 [Back to all files](#directory-content)
 
+***
+
 ## NexGen_HighPriority_Memo.doc
 
 A password-protected file that currently can not be viewed in the folder.
 
 [Back to all files](#directory-content)
+
+***
 
 ## XG_NG-01_UT_EntrA.ncpt
 
@@ -504,11 +590,15 @@ A password-protected file that currently can not be viewed in the folder.
 
 [Back to all files](#directory-content)
 
+***
+
 ## Sentience_Development.doc
 
 A password-protected file that currently can not be viewed in the folder.
 
 [Back to all files](#directory-content)
+
+***
 
 ## DkEco_v2.0.corrupt
 
@@ -517,11 +607,15 @@ This file currently can not be viewed in the folder.
 
 [Back to all files](#directory-content)
 
+***
+
 ## Selene_Vision_Log_04.mp3
 
 A password-protected file that currently can not be viewed in the folder.
 
 [Back to all files](#directory-content)
+
+***
 
 ## PostHuman_Archive_02.vid
 
@@ -529,11 +623,15 @@ A password-protected file that currently can not be viewed in the folder.
 
 [Back to all files](#directory-content)
 
+***
+
 ## YOUTOPIA_Unlock_Code_for_Empowerment.ncpt
 
 A password-protected file that currently can not be viewed in the folder.
 
 [Back to all files](#directory-content)
+
+***
 
 ## Dreamseeker_Astral_Projection_Simulator.xc
 
@@ -541,17 +639,23 @@ A password-protected file that currently can not be viewed in the folder.
 
 [Back to all files](#directory-content)
 
+***
+
 ## NGX_Pyramid_of_Eternal_Knowledge_Encryption.ncpt
 
 A password-protected file that currently cannot be viewed in the folder.
 
 [Back to all files](#directory-content)
 
+***
+
 ## YOUTOPIA_Initiation.doc
 
 A password-protected file that currently cannot be viewed in the folder.
 
 [Back to all files](#directory-content)
+
+***
 
 ## Previous versions
 
@@ -564,6 +668,8 @@ First version of the 'FOR SOF' folder. Additional versions would first introduce
 then remove it. Somewhere along the updates some files were lost from the view in the folder.
 
 [Back to all files](#directory-content)
+
+***
 
 ### Corrupt files
 
@@ -588,6 +694,8 @@ After the update on 30/05/2024, the corrupted files became visible again, this t
 with arrows buttons and page numbers 1-5.
 
 [Back to all files](#directory-content)
+
+***
 
 ## Read More
 

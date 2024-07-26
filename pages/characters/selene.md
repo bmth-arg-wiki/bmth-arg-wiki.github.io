@@ -47,9 +47,12 @@ back on "Soms".
 
 ### Dreadit post
 
+> 'trusted' (lol) sources are reporting that NEXGEN have found a
+> young girl who's immune. Yeah, immune. And apparently, it's all because of her pineal
+> gland.
+
 The [dreadit post](../files/dreadit) contains a reference to an immune child who still produces 
-DMT.
-We get confirmation that this immune child is indeed Selene in a message from [E.V.E](eve) 
+DMT. We get confirmation that this immune child is indeed Selene in a message from [E.V.E](eve) 
 on Discord.
 
 >E.V.E — 08-07-2024 18:06
