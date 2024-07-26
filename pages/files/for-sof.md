@@ -17,7 +17,7 @@ Try it now for the folder password!
 <details class="password">
   <summary>Password</summary>
 
-`past`
+past
 </details>
 
 ## Directory content
@@ -76,6 +76,7 @@ you to the known information (including password) about the file itself.
 | [Dreamseeker_Astral_Projection_Simulator.xc](#dreamseeker_astral_projection_simulatorxc)             | ❌      | [📁](#placeholders)                           |
 | [NGX_Pyramid_of_Eternal_Knowledge_Encryption.ncpt](#ngx_pyramid_of_eternal_knowledge_encryptionncpt) | ❌      | [📁](#placeholders)                           |
 | [YOUTOPIA_Initiation.doc](#youtopia_initiationdoc)                                                   | ❌      | [📁](#placeholders)                           |
+{: .table }
 
 This article also contains information on [previous versions](#previous-versions) and the 
 [corrupted files](#corrupt-files).
@@ -119,28 +120,28 @@ No password required.
 <details class="password">
   <summary>Password</summary>
 
-`connection`
+connection
 </details>
 
 ### INSIGHT2.DOC
 <details class="password">
   <summary>Password</summary>
 
-`empathy`
+empathy
 </details>
 
 ### INSIGHT3.DOC
 <details class="password">
   <summary>Password</summary>
 
-`purpose`
+purpose
 </details>
 
 ### INSIGHT4.DOC
 <details class="password">
   <summary>Password</summary>
 
-`vision`
+vision
 </details>
 
 [Back to all files](#directory-content)
@@ -150,7 +151,7 @@ No password required.
 <details class="password">
   <summary>Password</summary>
 
-`DEKODE THE MATRIX TO ATTAIN YOUR CONCEALED ORIGINS`
+DEKODE THE MATRIX TO ATTAIN YOUR CONCEALED ORIGINS
 </details>
 
 ![Capslock doc password screen](../../Resources/files/capslock_doc/capslockdoc_password.png)
@@ -166,14 +167,14 @@ supposed to be.
 <details class="password">
   <summary>Password</summary>
 
-`karl strassman`
+karl strassman
 </details>
 
 A document in the folder. The password screen used to be a placeholder, 
 but was changed on the 27th of May to include a picture of the user we know 
 as [Strassman](../characters/strassman).
 
-![img.png](../../Resources/files/strassman-pass-screen.png)
+![Password screen](../../Resources/files/strassman-pass-screen.png)
 
 Also see the [article on this file](strassmancodec).
 [Back to all files](#directory-content)
@@ -183,7 +184,7 @@ Also see the [article on this file](strassmancodec).
 <details class="password">
   <summary>Password</summary>
 
-`1d1b2c2a`
+1d1b2c2a
 </details>
 
 The password to this file changed when the [Spyder Browser](../webbrowser) updated 
@@ -197,7 +198,7 @@ to contain a Dreadit link in the URL bar.
 <details class="password">
   <summary>Password</summary>
 
-`clive`
+clive
 </details>
 
 The password refers to [M8](../m8)'s middle name, which is referenced in some lines she says 
@@ -212,7 +213,7 @@ in the sticky notes (TODO: expand on source).
 <details class="password">
   <summary>Password</summary>
 
-`within`
+within
 </details>
 
 The password for this file was discovered in the audio for [Top 10 staTues tHat CriEd bloOd](../music/song-top10).
@@ -228,7 +229,7 @@ precursor of [M8](../m8) that is called [R8](r8). You can find more details in t
 <details class="password">
   <summary>Password</summary>
 
-`0003`
+0003
 </details>
 
 The password is Selene's user number in the [M8](../m8) system.
@@ -240,7 +241,7 @@ The password is Selene's user number in the [M8](../m8) system.
 <details class="password">
   <summary>Password</summary>
 
-`0014`
+0014
 </details>
 
 The password for this file is [Ren](../characters/ren)'s user number.
@@ -252,7 +253,7 @@ The password for this file is [Ren](../characters/ren)'s user number.
 <details class="password">
   <summary>Password</summary>
 
-`0005`
+0005
 </details>
 
 The password for this file is [Syko](../characters/syko)'s user number.
@@ -294,8 +295,12 @@ This file was added on the 25th of June.
 
 ## Jan15_2031_declassified_PROJECT D.U.S.T. 2
 
-Password:
+<details class="password">
+<summary>Password</summary>
+
 ![dust-password.png](../../Resources/files/project_dust/dust-password.png)
+
+</details>
 
 This file was added along the previous issue 51 of Tekka magazine on the 25th of June 2024. 
 The file contains a research proposal for [several projects](project_dust). The password 
@@ -318,7 +323,9 @@ Wrist has an anagram for the password in the song information.
 ## Sky_&_The_Starjammers.png
 
 <details class="password">
+<summary>Password</summary>
 INTERCELLULAR
+
 </details>
 
 [Back to all files](#directory-content)
@@ -326,7 +333,9 @@ INTERCELLULAR
 ## Nex Gen leak 'UNBELEEVABLE'.doc
 
 <details class="password">
+<summary>Password</summary>
 forest
+
 </details>
 
 Lee Malia is one of the band members, his name is referred to in the filename. His son's name is Forest. Additionally, 
@@ -344,6 +353,7 @@ Password unknown.
 ## Selene_Journey_Log_01/midname?.memo
 
 Original name: `Selene_Journey_Log_01.memo`
+
 Password protected with placeholder.
 
 [Back to all files](#directory-content)
@@ -405,6 +415,7 @@ Password protected with placeholder.
 ## Book_of_Lies.vis
 
 Original name: `Book_of_Lies.`
+
 Password protected.
 
 [Back to all files](#directory-content)
@@ -412,6 +423,7 @@ Password protected.
 ## PostHuman_Evolution_Chart.doc
 
 Original name: `PostHuman_evo`
+
 Password protected with placeholder.
 
 [Back to all files](#directory-content)
@@ -419,6 +431,7 @@ Password protected with placeholder.
 ## Dreamscape_Dossier.docx
 
 Original name: `Dreamscape_Do`
+
 Password protected with placeholder.
 
 [Back to all files](#directory-content)
@@ -461,7 +474,7 @@ Password protected with placeholder.
 
 ## NexGen_Future_Plan.doc
 
-A password-protected file that currently can not be viewed in the folder, after 
+A password-protected file that currently cannot be viewed in the folder, after 
 some alterations were made to the file folder (arrows were removed, scrollbar was added, then 
 scrollbar was removed again). Its status is unknown.
 
@@ -530,13 +543,13 @@ A password-protected file that currently can not be viewed in the folder.
 
 ## NGX_Pyramid_of_Eternal_Knowledge_Encryption.ncpt
 
-A password-protected file that currently can not be viewed in the folder.
+A password-protected file that currently cannot be viewed in the folder.
 
 [Back to all files](#directory-content)
 
 ## YOUTOPIA_Initiation.doc
 
-A password-protected file that currently can not be viewed in the folder.
+A password-protected file that currently cannot be viewed in the folder.
 
 [Back to all files](#directory-content)
 
@@ -544,6 +557,7 @@ A password-protected file that currently can not be viewed in the folder.
 
 ![img.png](../../Resources/files/for-sof-folder.png)
 ![img_11.png](../../Resources/files/for-sof-folder2.png)
+
 (Screenshot date: 25/05/2024)
 
 First version of the 'FOR SOF' folder. Additional versions would first introduce a scrollbar, 
@@ -554,13 +568,15 @@ then remove it. Somewhere along the updates some files were lost from the view i
 ### Corrupt files
 
 There are currently 88 corrupted files in the folder. There used to be 18, before 
-the corrupted files weren't visible for a while in some later updates. They are all labeled 
-`[CORRUPTED]` 
+the corrupted files weren't visible for a while in some later updates.
+They are all labeled `[CORRUPTED]` 
 
 If you click on any of these, M8 will tell you one of the following phrases:
-- "This file is F'd up pretty bad. Don't worry, I can fix anything. Just check back later."
-- "Hey, I'm working on these. Come back later."
-- "Dude, don't you know what corrupted means? Give me some time!"
+> "This file is F'd up pretty bad. Don't worry, I can fix anything. Just check back later."
+
+> "Hey, I'm working on these. Come back later."
+
+> "Dude, don't you know what corrupted means? Give me some time!"
 
 ![img.png](../../Resources/files/corrupted_files.png)
 
@@ -569,11 +585,14 @@ corrupted files could still be scrolled to using the arrow keys, before the corr
 seemingly disappeared from the folder.
 
 After the update on 30/05/2024, the corrupted files became visible again, this time 
-with arrows buttons and page numbers 1-5/???.
+with arrows buttons and page numbers 1-5.
 
 [Back to all files](#directory-content)
 
 ## Read More
+
+Use the [table](#directory-content) to navigate to the file articles 
+by clicking their name.
 
 - [Characters](../characters/characters)
 - [Sof](../characters/sof)

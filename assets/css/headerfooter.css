@@ -1,54 +1,51 @@
-.header-container,
+/* Display title + subtitle vertically */
+header .container,
 .footer-container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 1rem;
+    display: block;
 }
 
-header {
-    background: #333;
-    color: #fff;
+header .title-container {
+    padding: 2em;
 }
 
-header h1 {
-    margin: 0;
-    font-size: 1.5rem;
+.footer {
+    background: var(--dark-txt);
+    background-color: var(--dark-txt);
+    color: var(--bg-darker);
 }
 
-header nav ul {
-    list-style: none;
-    padding: 0;
+/* Nice dark buttons and header/footer */
+.hero-head,
+.hero-body,
+.navbar-item,
+.navbar-button,
+.navbar-brand {
+    background: var(--dark-txt);
+    color: var(--bg-darker);
 }
 
-header nav ul li {
-    display: inline;
-    margin-right: 1rem;
+/* Slightly lighter buttons on hover */
+header a:hover,
+footer a:hover,
+header button:hover,
+footer button:hover {
+    background-color: var(--txt);
 }
 
-header nav ul li a {
-    color: #fff;
-    text-decoration: none;
+header .navbar-brand {
+    font-weight: bold;
 }
 
-footer {
-    background: #f1f1f1;
-    color: #333;
-    text-align: center;
-    padding: 1rem 0;
-    margin-top: 2rem;
+header .title {
+    font-family: var(--fonttitle);
+    text-transform: uppercase;
+    color: var(--link);
 }
 
-footer nav ul {
-    list-style: none;
-    padding: 0;
+header .subtitle {
+    color: var(--bg-darker);
 }
 
-footer nav ul li {
-    display: inline;
-    margin-right: 1rem;
-}
-
-footer nav ul li a {
-    color: #333;
-    text-decoration: none;
+footer li {
+    padding: 0.2em;
 }

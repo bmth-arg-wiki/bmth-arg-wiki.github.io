@@ -10,26 +10,27 @@ important names and how the characters relate to each other.
 The following characters are mentioned on the website. Click on their name 
 to view their page:
 
-| Number                      | Name                                      | Categorisation                                                           |
-|-----------------------------|------------------------------------------------|--------------------------------------------------------------------------|
-| [0000](eve)                 | [E.V.E.](eve)                                  | [Evil AI](../lore/genesis-storyline)                                     |
-| [0001](vegan)               | [Vegan](vegan)                                 | [Band member](#band-members)                                             |
-| [0002](uriel)               | [Uriel](uriel)                                 | [Archangel](#the-archangels)                                             |
-| [0003](selene)              | [Selene](selene)                               | Protagonist, involved with [Nex Gen](../lore/nex-gen-corporation)        |
-| [0004](raphael)             | [Raphael](raphael)                             | [Archangel](#the-archangels)                                             |
-| [0005](syko)                | [Syko](syko)                                   | [Band member](#band-members)                                             |
-| [0006](../m8)               | [M8](../m8)                                    | Technology                                                               |
-| [0007](raphael)             | [Raphael](raphael)                             | [Archangel](#the-archangels)                                             |
-| [0008](pan)                 | [Pan](pan)                                     | [Omen](#omens)                                                           |
-| [0009](miseria)             | [Miseria](miseria)                             | [Omen](#omen)                                                            |
-| [0010](michael)             | [Michael](michael)                             | [Archangel](#the-archangels)                                             |
-| [0011](pickles)             | [Pickles](pickles)                             | [Band member](#band-members)                                             |
-| [0012](madman)              | [Madman](madman)                               | [Band member](#band-members)                                             |
-| [0013](strassman)           | [Strassman](strassman)                         | [Nex Gen](../lore/nex-gen-corporation) employee, [Trinity](#the-trinity) |
-| [0014](ren)                 | [Ren](ren)                                     | [Nex Gen](../lore/nex-gen-corporation) employee                          |
-| [0015](iara)                | [Iara](iara)                                   | [Possible Nex Gen](../lore/nex-gen-corporation) employee                 |
-| [0016](gabriel)             | [Gabriel](gabriel)                             | [Archangel](#the-archangels)                                             |
-| [0017](vanth)               | [Vanth](vanth)                                 | [Omen](omen)                                                             |
+| Number            | Name                   | Categorisation                                                           |
+|-------------------|------------------------|--------------------------------------------------------------------------|
+| [0000](eve)       | [E.V.E.](eve)          | [Evil AI](../lore/genesis-storyline)                                     |
+| [0001](vegan)     | [Vegan](vegan)         | [Band member](#band-members)                                             |
+| [0002](uriel)     | [Uriel](uriel)         | [Archangel](#the-archangels)                                             |
+| [0003](selene)    | [Selene](selene)       | Protagonist, involved with [Nex Gen](../lore/nex-gen-corporation)        |
+| [0004](raphael)   | [Raphael](raphael)     | [Archangel](#the-archangels)                                             |
+| [0005](syko)      | [Syko](syko)           | [Band member](#band-members)                                             |
+| [0006](../m8)     | [M8](../m8)            | Technology                                                               |
+| [0007](raphael)   | [Raphael](raphael)     | [Archangel](#the-archangels)                                             |
+| [0008](pan)       | [Pan](pan)             | [Omen](#omens)                                                           |
+| [0009](miseria)   | [Miseria](miseria)     | [Omen](#omens)                                                           |
+| [0010](michael)   | [Michael](michael)     | [Archangel](#the-archangels)                                             |
+| [0011](pickles)   | [Pickles](pickles)     | [Band member](#band-members)                                             |
+| [0012](madman)    | [Madman](madman)       | [Band member](#band-members)                                             |
+| [0013](strassman) | [Strassman](strassman) | [Nex Gen](../lore/nex-gen-corporation) employee, [Trinity](#the-trinity) |
+| [0014](ren)       | [Ren](ren)             | [Nex Gen](../lore/nex-gen-corporation) employee                          |
+| [0015](iara)      | [Iara](iara)           | [Possible Nex Gen](../lore/nex-gen-corporation) employee                 |
+| [0016](gabriel)   | [Gabriel](gabriel)     | [Archangel](#the-archangels)                                             |
+| [0017](vanth)     | [Vanth](vanth)         | [Omen](omen)                                                             |
+{: .table }
 
 ***
 
@@ -48,7 +49,7 @@ These are:
 | [Emily](#emily)                      | Mentioned in the BMTH Discord                            |
 | [Rebecca](#rebecca)                  | Mentioned in [Tekka interview](../files/tekka_interview) |
 | [Victor Carmine](#victor-carmine)    | Mentioned in [Tekka interview](../files/tekka_interview) |
-
+{: .table }
 
 ### Sof
 

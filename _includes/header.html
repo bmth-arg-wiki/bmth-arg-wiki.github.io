@@ -1,10 +1,38 @@
-<header>
-    <div class="header-container">
-        <h1><a href="{{ '/' | relative_url }}">BMTH ARG Wiki</a></h1>
-        <nav>
-            <ul>
-                <li><a href="{{ '/' | relative_url }}">Home</a></li>
-            </ul>
+<section class="hero is-primary is-medium">
+    <div class="hero-head">
+        <nav class="navbar">
+            <div class="container">
+                <div class="navbar-brand">
+                    <a class="navbar-item" href="{{ '/' | relative_url }}">The Tinfoil Society</a>
+                    <span class="navbar-burger" data-target="navbarMenuHeroA">
+            <span></span>
+          </span>
+                </div>
+                <div id="navbarMenuHeroA" class="navbar-menu">
+                    <div class="navbar-end">
+                        <a class="navbar-item" href="{{ '/' | relative_url }}">Home</a>
+                        <a class="navbar-item" href="{{ site.baseurl }}/pages/webpage">M8 Webpage</a>
+                        <a class="navbar-item" href="{{ site.baseurl }}/pages/files/for-sof" >FOR SOF</a>
+                        <a class="navbar-item" href="{{ site.baseurl }}/pages/characters/characters" >Characters</a>
+                        <span class="navbar-item">
+                          <a class="navbar-button is-inverted" href="https://github.com/bmth-arg-wiki/bmth-arg-wiki.github.io" target="_blank">
+                            <span class="icon">
+                              <i class="fab fa-github"></i>
+                            </span>
+                          </a>
+                        </span>
+                    </div>
+                </div>
+            </div>
         </nav>
     </div>
-</header>
+    <div class="hero-body p-0">
+        <div class="container">
+            <div class="title-container">
+                <p class="title">BRING ME THE HORIZON</p>
+                <p class="subtitle">ARG Wiki</p>
+            </div>
+        </div>
+    </div>
+    <!-- potential hero footer here later -->
+</section>

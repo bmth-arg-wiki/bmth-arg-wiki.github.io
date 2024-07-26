@@ -1,14 +1,12 @@
-<footer>
-    <div class="footer-container">
-        <p>&copy; {{ site.time | date: "%Y" }} This is a hobby project documenting the progress of the
-            BMTH NexGen ARG, not an official wiki. All the assets belong to Sony Music and
-            Bring Me The Horizon, unless otherwise specified.
-        </p>
-        <nav>
-            <ul>
-                <li><a href="{{ '/' | relative_url }}">I wanna be a</a></li>
-                <li><a href="{{ '/pages/music/song-kingslayer-itch' | relative_url }}">KINGSLAYER</a></li>
-            </ul>
-        </nav>
-    </div>
-</footer>
+<div class="footer-container has-text-centered">
+    <p>&copy; {{ site.time | date: "%Y" }} This is a hobby project documenting the progress of the
+        BMTH NexGen ARG, not an official wiki. All assets belong to Sony Music and
+        Bring Me The Horizon, unless otherwise specified.
+    </p>
+    <nav class="level">
+        <ul class="level-item">
+            <li><a href="{{ '/' | relative_url }}">I wanna be a</a></li>
+            <li><a href="{{ '/pages/music/song-kingslayer-itch' | relative_url }}">KINGSLAYER</a></li>
+        </ul>
+    </nav>
+</div>
