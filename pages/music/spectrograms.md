@@ -13,13 +13,6 @@ They are listed in order of album appearance.
 
 [See Insight 1: Connection](../lore/insight1-connection.md)
 
-### a bulleT w/my namE On
-
-This song contains some anomalies in the spectrogram, that have not been connected to 
-any plot points (yet).
-
-![img.png](../../Resources/music/spectrograms/abwmno_spectro.png)
-
 ### [ost] (spi)ritual
 
 Seems to contain an image of the four archangels.
@@ -36,7 +29,7 @@ Seems to contain an image of the four archangels.
 
 This song also contains an image of what has been described as a label or pill bottle.
 
-![img.png](../../Resources/music/spectrograms/spectogram_pusse_end.png)
+![Spectrogram of pill bottle](../../Resources/music/spectrograms/spectogram_pusse_end.png)
 
 ### R.i.p. (duskCOre Remix)
 
