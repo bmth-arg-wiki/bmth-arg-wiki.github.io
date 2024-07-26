@@ -615,7 +615,7 @@ Look for a poster with PROJECT:ARCHANGEL on it on Instagram. It's a tour poster.
 <details>
 <summary>Hint 2</summary>
 
-The password is also the name of one of the most prominent actors in the music video.
+The password is also the name of one of the most prominent actors in a music video.
 </details>
 <details>
 <summary>Solution</summary>
