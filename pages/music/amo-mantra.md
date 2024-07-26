@@ -14,38 +14,30 @@ There was also a website with a teaser called `joinmantra.org`.
 ## Mantra Extended Intro
 
 https://www.youtube.com/watch?v=vcI9-ZesGf4
-(few first lines from local file)
 
-> Woman:
->
-> welcome
+> woman:
 > welcome to peace
 > welcome to spiritual enlightenment
 >
-> Man over radio/walkie-talkie?: 
+> guy on a radio: unit two move into position. unit three and four maintain cover to sector seven
 >
-> *Unit 2 move into position. Unit three and four maintain cover to sector seven*
-> 
-> Woman:
-> 
-> welcome to freedom
+> woman: welcome to freedom
 > welcome to a new world order
 > welcome to a new way of thinking
 > welcome to a non-violent community
 >
-> Man: 
-> 
-> Level one's clear.
+> guy on a radio: alpha team this is something team level one’s clear.
 >
-> Woman:
-> 
-> welcome to your worst nightmares
+> woman: welcome to your worst nightmares
 > welcome to suffering
 > welcome to true misery
 > welcome to your pain
-> welcome to the end of the world
+> welcome to the end of your life
 > welcome to mantra
+
+***
 
 ## Read More
 
 - [Other webpages](../other-webpages)
+- [Mantra cult](../lore/mantra)

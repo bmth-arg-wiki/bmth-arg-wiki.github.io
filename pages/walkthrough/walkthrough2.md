@@ -214,6 +214,11 @@ Any dialogue can be important.
 <details>
 <summary>Hint 2</summary>
 
+You are looking for a name and will need to reverse some audio to find it. Good luck!
+</details>
+<details>
+<summary>Solution</summary>
+
 The password is the name of the character we see on the login screen. We
 get the name 'Karl Strassman' from [a bulleT w/my namE On](../music/song-abwmno).
 </details>
