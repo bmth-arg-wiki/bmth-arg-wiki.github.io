@@ -30,7 +30,7 @@ Insight 4 is also associated with [Vegan](../characters/vegan.md).
 
 ***
 
-## FOR SOF
+## Document in FOR SOF
 
 <details class="password">
   <summary>Password</summary>
@@ -47,6 +47,42 @@ vision
 ![img_6.png](../../Resources/lore/insights/vision/img_6.png)
 ![img_7.png](../../Resources/lore/insights/vision/img_7.png)
 ![img_8.png](../../Resources/lore/insights/vision/img_8.png)
+
+***
+
+## Transcription
+
+> ## VISION: SYMPHONY OF SIGHT 
+>
+> **ELEMENT**: EARTH
+> 
+> **ARCHANGEL**: URIEL
+> 
+> **OMEN**: THE BABYLON
+> 
+> **DIRECTION**: NORTH
+> 
+> **RELIC**: GOLDEN RASPBERRY
+> 
+> **BAND MEMBER**: VEGAN
+>
+> This insight is deeply connected to the ideal of creativity, particularly in the context of daring to think differently. 
+>
+> Having a vision often requires individuals to take risks, challenge norms, and explore new ideas-all of which can invite criticism or rejection from others. By not taking things personally, individuals can free themselves of judgment and embrace their unique perspectives and ideas.
+>
+> History is replete with examples of groundbreaking innovations and discoveries that began with someone daring to think differently. From scientific advancements to artistic masterpieces, every great achievement for mankind started with an individual who was willing to challenge conventional thinking and explore new possibilities.
+>
+> When individuals shed the fear of embarrassments and pursue their creative visions, they open up new realms of possibility and potential for innovation.
+>
+> Denying your inner creations is tantamount to denying God. By not taking criticism or rejection personally, they are able to maintain their creative momentum and continue pushing boundaries.
+>
+> The principle of creativity can play a crucial rule in saving YOUtopia by inspiring innovative solutions to the challenges it faces. In this way, this insight serves as a reminder that creativity requires resilience and a willingness to persevere in the face of adversity.
+>
+> Now you have learnt the insights, its time to put them into practice.
+>
+> Good luck.
+>
+> (transcription by @elliecoptaaa on discord)
 
 ***
 
