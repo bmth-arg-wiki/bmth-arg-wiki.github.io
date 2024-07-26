@@ -1,5 +1,7 @@
 # Walkthrough Step 2: FOR SOF
 
+![Nex Gen Walkthrough ASCII art](../../Resources/walkthrough.png)
+
 The folder of files is where most of the ARG takes place.
 First, we need to gain access to it.
 
@@ -10,6 +12,7 @@ First, we need to gain access to it.
 **[Previous part of the walkthrough](walkthrough)**
 
 Jump to section:
+
 - [Folder password](#the-folder)
 - [msgforsof.aiff](#msgforsofaiff)
 - [THEINSIGHTS.DOC](#theinsightsdoc)
@@ -18,7 +21,16 @@ Jump to section:
 - [StrassmanCONFIDENTIALPRT007.CODEC](#strassmanconfidentialprt007codec)
 - [DREADITScreenshot 2051.1.5.59.43.vis](#dreaditscreenshot-2051155943vis)
 - [YOUTOPIA_selenes_map.vis](#youtopia_selenes_mapvis)
-- 
+- [R8/fulfilment_source[m0n0].doc](#r8fulfilment_sourcem0n0doc)
+- [Selene_Personal_Journal_2037.02.doc](#selene_personal_journal_203702doc)
+- [Lauren_D8_Log_203701.docx](#lauren_d8_log_203701docx)
+- [Scott_Personal_Journal_VSPR-37.doc](#scott_personal_journal_vspr-37doc)
+- [Operation_Trinity_Analysis.xslx](#operation_trinity_analysisxslx)
+- [ISSUE-51-fromhelltoshell.pdf 1](#issue-51-fromhelltoshellpdf-1)
+- [Jan15_2031_declassified_PROJECT D.U.S.T. 2](#jan15_2031_declassified_project-dust-2)
+- [SCISTUDYSCAN1999wrist.SCN](#scistudyscan1999wristscn)
+- [Sky_&_The_Starjammers.png](#sky__the_starjammerspng)
+- [Nex Gen leak ‘UNBELEEVABLE’.doc](#nex-gen-leak-unbeleevabledoc)
 
 ***
 
@@ -313,9 +325,29 @@ Related characters:
 ## R8/fulfilment_source[m0n0].doc
 
 <details>
+<summary>Hint 1</summary>
+
+The "mono" in the title is referring to a mono channel.
+</details>
+<details>
+<summary>Hint 2</summary>
+
+Listen to Top 10 staTues tHat CriEd bloOd.
+</details>
+<details>
 <summary>Solution</summary>
 
-within
+True fulfillment comes from "within", as we learn in the mono audio of [Top 10 staTues tHat CriEd bloOd](../music/song-top10)
+</details>
+
+This gives us a spec sheet for some technology.
+
+<details>
+<summary>Related articles</summary>
+
+- [R8](../files/r8)
+- [M8](../m8)
+- [D8](../files/lauren_d8_log)
 </details>
 
 [Quick access](#quick-access)
@@ -581,7 +613,6 @@ This will unlock a newspaper with several areas you can zoom into.
 
 ## Sky_&_The_Starjammers.png
 
-
 <details>
 <summary>Hint 1</summary>
 
@@ -600,14 +631,18 @@ This requires the Instagram post where a Nex Gen doc is shown on a picture of Ol
 It is not on the first slide.
 By zooming in on the doc we can see numbers, which correspond to letters in the words that 
 are circled.
-By switching them around we can form the password: 'INTERCELLULAR'
+By switching them around, we can form the password: 'INTERCELLULAR'
 </details>
+
+This will give us a poster.
 
 <details>
 <summary>Related articles</summary>
 
 - [Sky_&_The_Starjammers.png](../files/skystarjammers)
 - [Skys](../characters/skys)
+- [Mantra cult](../lore/mantra)
+- [Mantra (song)](../music/amo-mantra)
 
 </details>
 
@@ -620,18 +655,46 @@ By switching them around we can form the password: 'INTERCELLULAR'
 <details>
 <summary>Hint 1</summary>
 
+Look for a poster with PROJECT:ARCHANGEL on it on Instagram. It's a tour poster.
 </details>
 <details>
 <summary>Hint 2</summary>
 
+The password is also the name of one of the most prominent actors in the music video.
 </details>
 <details>
 <summary>Solution</summary>
 
+![Tour poster with hidden section](../../Resources/files/unbeleevable/in_the_forest_tour_poster.png)
+![object_archangel.png](../../Resources/files/unbeleevable/object_archangel.png)
+
+The password to this file is "forest". There is no official explanation 
+for this password, but there are different interpretations:
+
+1. Forest Whitaker (actor from [In the Dark](../music/amo-in-the-dark))
+2. "Deep in the forest, the blind one follows her every move"
+3. Lee Malia's son's name: Forrest (spelled with two r's)
 </details>
+
+This file gives us access to an email and a video featuring one of the band members. 
 
 <details>
 <summary>Related articles</summary>
+
+- [Nex Gen leak ‘UNBELEEVABLE’.doc](../files/unbeleevable)
+- [Skys & the Starjammers poster](../files/skystarjammers)
+- [The Science Study newspaper](../files/thesciencestudy)
+- [In The Dark](../music/amo-in-the-dark)
+- [Mantra](../lore/mantra)
+- [Church of Genxsis](../lore/church)
+- [Church of Genxsis at Downloadfest](../lore/downloadfest)
+
+Related characters:
+
+- [Skys](../characters/skys)
+- [Dallus Lauren](../characters/dallus-lauren)
+- [Karl Strassman](../characters/strassman)
+- [Madman](../characters/madman) (maybe?)
 
 </details>
 
@@ -647,4 +710,6 @@ of the wiki and see what lore you missed!
 Want to share any feedback, corrections or help us out?
 Please email [bmthargwiki@gmail.com](mailto:bmthargwiki@gmail.com).
 
-- [FOR SOF](../files/for-sof)
+Want to help us with the password hunt? Join the official [BMTH Discord](https://discord.com/invite/bmthofficial).
+
+- [FOR SOF: file overview](../files/for-sof)

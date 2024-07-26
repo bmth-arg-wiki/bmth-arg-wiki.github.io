@@ -1,10 +1,13 @@
 # Walkthrough Part 1
 
-Welcome to the ARG walkthrough! This ARG is ongoing, so this page will update semi-regularly. 
+![Nex Gen Walkthrough ASCII art](../../Resources/walkthrough.png)
+
+Welcome to the ARG walkthrough! This ARG is ongoing, so this page will update 
+semi-regularly. 
 
 This page is intended for people who would like to play through the ARG chronologically. All spoilers 
 are hidden until clicked.
-**Passwords are case sensitive**.
+**Passwords are case-sensitive**.
 
 Try it now!
 
@@ -24,7 +27,7 @@ if you are having trouble reading the files.
 
 - [Step 0: Listen to the album](#step-0-listen-to-the-album)
 - [Step 1: The website](#step-1-the-website)
-- [Step 2: The files](walkthrough2)
+- [Step 2: The files](walkthrough2) (next page)
 
 Since we are currently still unlocking the many files in the file folder, it is unknown when we will start a next step.
 
