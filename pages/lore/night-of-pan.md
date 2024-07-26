@@ -8,6 +8,18 @@ character [Pan](../characters/pan). Pagan/witchcraft symbolism is used many time
 
 ***
 
+### Instagram post
+
+![Night of Pan post](../../Resources/socials/nightofpan1.png)
+![Night of Pan post](../../Resources/socials/nightofpan2.png)
+
+BMTH official Instagram: April 16th 2024 @Qudos Bank Arena
+
+"Night of Pan" likely refers to the character [Pan](../characters/pan), who is the omen
+of the [Connection insight](../lore/insight1-connection).
+
+***
+
 ## Read More
 
 - [Pan](../characters/pan)

@@ -1,6 +1,6 @@
 # Insight 4: Vision
 
->*Symphony of Sight*
+> *Symphony of Sight*
 
 The last insight in the numbered order is Vision. Its spectogram was found in the song 'DIg It'.
 
@@ -35,7 +35,7 @@ Insight 4 is also associated with [Vegan](../characters/vegan.md).
 <details class="password">
   <summary>Password</summary>
 
-`vision`
+vision
 </details>
 
 ![img.png](../../Resources/lore/insights/vision/img.png)
@@ -52,7 +52,13 @@ Insight 4 is also associated with [Vegan](../characters/vegan.md).
 
 ## Read More
 
+Related characters:
+
 - [Uriel](../characters/uriel)
+- [Vegan](../characters/vegan)
+
+The other insights:
+
 - [The Insights](insights)
 - [Insight 1: Connection](insight1-connection)
 - [Insight 2: Empathy](insight2-empathy)

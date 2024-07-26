@@ -6,6 +6,8 @@ these accounts belong to real people, please **do not contact them**.
 Only posts that have not directly been linked to an article are contained here. If a post 
 links directly to the lore, it will be mentioned in the relevant article.
 
+***
+
 ## Band member's Instagram
 
 The band members have all updated their profile pictures and have a corresponding characters 
@@ -20,6 +22,8 @@ been shared on Oli's profile before.
 
 The band themselves post on at least Instagram, YouTube, Twitter/X and Facebook 
 (which may be better in terms of picture quality).
+
+***
 
 ## Timeline
 
@@ -158,15 +162,7 @@ caption 𝘿𝙧𝙚𝙖𝙢𝙨𝙚𝙚𝙠𝙚𝙧! [𝙢𝙚𝙡𝙗𝙤𝙪�
 A photo with the recurring number 33 was posted, including tags for the band members, 
 @jontiwild and @jacobharrycarter tagged.
 
-### April 16th 2024 - Night of Pan
-
-![Night of Pan post](../../Resources/socials/nightofpan1.png)
-![Night of Pan post](../../Resources/socials/nightofpan2.png)
-
-Location: Qudos Bank Arena
-
-"Night of Pan" likely refers to the character [Pan](../characters/pan), who is the omen 
-of the [Connection insight](../lore/insight1-connection).
+***
 
 ## Read More
 

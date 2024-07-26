@@ -3,6 +3,8 @@
 This page contains a list of known typos. It is currently unknown whether any typos are 
 intentional.
 
+***
+
 ## Bugs
 
 Some bugs were present in versions of the code that have been fixed in the meantime. 
@@ -10,6 +12,8 @@ This indicates that visual glitches etc. were most likely not intentional and ar
 priority for the development team.
 
 ![access-card.png](../Resources/webpage/access-card.png)
+
+***
 
 ## Typos & inconsistencies
 
@@ -26,4 +30,10 @@ of patient.
   - "Before me flames the pentagram, within me flames the six rayed star" from a [social media post](socials/social-posts#april-24th-2024)
 - Originally there were three profiles for [Raphael](characters/raphael), with one including a picture of [Uriel](characters/uriel)
 
-[Back to front page](../index)
+***
+
+## Read More
+
+- [Other webpages](other-webpages)
+- [Webpage](webpage)
+- [Web browser](webbrowser)

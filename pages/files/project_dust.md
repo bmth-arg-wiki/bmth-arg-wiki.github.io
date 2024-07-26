@@ -4,6 +4,8 @@ This file contains a research proposal from [ARC/HIVE](../music/amo-in-the-dark)
 for several projects. The initial proposal was finished or sent on the 15th of January 2021, 
 then the document was declassified by Nex Gen exactly 10 years later.
 
+***
+
 ## Document contents
 
 ![projectdust2.png](../../Resources/files/project_dust/projectdust2.png)
@@ -11,16 +13,20 @@ then the document was declassified by Nex Gen exactly 10 years later.
 ![dust2.png](../../Resources/files/project_dust/dust2.png)
 ![dust3.png](../../Resources/files/project_dust/dust3.png)
 
+***
+
 ## Transcription
 
-```
-First Page - Folder Cover
-Research & Development
-January 15th, 2021
 
-Project D.U.S.T. (P.S.Y)
-
-Second Page - Document
+> First Page - Folder Cover
+>
+> Research & Development
+> 
+> January 15th, 2021
+>
+> Project D.U.S.T. (P.S.Y)
+> 
+> Second Page - Document
 Project D.U.S.T. (P.S.Y)
 
 To: [Redacted], Director of Special Projects
@@ -78,12 +84,17 @@ Warning Notice:
 National Security Information
 Unauthorized Disclosure Subject to Severe Sanction
 [no caps lock version for readability purpose]
-```
+
+***
 
 ## Speculation
 
-The document speaks about "the special six", which may be the children we see in 
+![drawings.png](../../Resources/music/inthedark/drawings.png)
+
+- The document speaks about "the special six", which may be the children we see in 
 the official [Kool-Aid](../music/song-koolaid) music video.
+
+***
 
 ## Read More
 

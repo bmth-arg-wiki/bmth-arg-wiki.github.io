@@ -36,7 +36,7 @@ possibly indicating another code (might lead to [capslock doc](../files/capslock
 <details class="password">
   <summary>Password</summary>
 
-`connection`
+connection
 </details>
 
 ![img_7.png](../../Resources/lore/insights/connection/connection1.png)
@@ -65,8 +65,14 @@ An instagram story revealing connection to be the first insight ~6 weeks before 
 
 ## Read More
 
+Related characters:
+
 - [Raphael](../characters/raphael)
 - [Pan](../characters/pan)
+- [Syko](../characters/syko)
+
+Other insights:
+
 - [The Insights](./insights)
 - [Insight 2: Empathy](insight2-empathy)
 - [Insight 3: Purpose](insight3-purpose)

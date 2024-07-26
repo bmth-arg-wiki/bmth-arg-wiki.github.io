@@ -13,6 +13,6 @@ suffering of the patients is necessary for the greater good.
 
 ## Read More
 
-- [P.u.s.s-e](pusse)
+- [P.U.S.S-E](pusse)
 - [Nex Gen Corporation](nex-gen-corporation)
 - [Genesis Storyline](genesis-storyline)

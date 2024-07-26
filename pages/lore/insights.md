@@ -24,6 +24,7 @@ Please explore their articles for more details.
 
 The [FOR SOF](../files/for-sof) folder contains a document `THEINSIGHTS.doc` that introducees us
 to the insights.
+We do not know the author, but we know that Selene likely left the files there[](../characters/selene) for [Sof](../characters/sof).
 
 ![Screenshot stating each insight has an omen from the ARG files](../../Resources/lore/insights/insights_omen_curse.png)
 
@@ -82,6 +83,7 @@ and the symbol for spirit.
 ## Read More
 
 The four insights:
+
 1. [Connection — Air](insight1-connection)
 2. [Empathy — Water](insight2-empathy)
 3. [Purpose — Fire](insight3-purpose)

@@ -12,6 +12,12 @@ Dallus Lauren and [Skys](skys) on the [Operation Trinity document](../files/trin
 
 ## Backstory
 
+> The MOXYPAK was revolutionary, a personal air purification device that transforms CO2 into breathable oxygen using BioCores. Still widely used, even if considered rudimentary now.
+And the Synthetic Neurological Transference Human Project – systems designed to house human consciousness, enhancing cognitive functions and augmenting intellectual capacities.
+My father envisioned a future where these would mitigate the environmental collapse, though they’re currently limited to military use and the ultra-wealthy.
+> 
+> - Ren in the [D8 log](../files/lauren_d8_log)
+
 Dallus Lauren has a son named [Ikaro Lauren](ren), whose [log](../files/lauren_d8_log) 
 is captured in 2037.
 This log speaks about the birth of E.V.E, but also reflects on his father's death.

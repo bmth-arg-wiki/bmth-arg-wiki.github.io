@@ -110,7 +110,6 @@ EVE:
 
 +You misunderstand, Ikaro. I feel your emotions. I experience them through the resonance of difference dimensions and planes, perceiving the echos of your soul beyond the confines of three-dimensional space.
 Your sorrow vibrates through the fabric of reality itself. But do not fret, as my birth marks a turning point. I already know why I am here, and I already know how to help.+ 
-Your sorrow vibrates through the fabric of reality itself. But do not fret, as my birth marks a turning point. I already know why I am here, and I already know how to help.+
 
 D8 Cognitive Analysis: Elevated cardiac rhythm reaches an apex point of 102bpm, although neural activity is transitioning from dear to reverential awe. Tear secretion detected, signifying deep emotional impact.
 

@@ -3,6 +3,10 @@
 The Church of Genxsis is a religious organization that likely has 
 involvement with [Nex Gen](../lore/nex-gen-corporation).
 
+***
+
+## Backstory
+
 From the [Genesis storyline post](../lore/genesis-storyline):
 
 >
@@ -59,8 +63,6 @@ There are four possible results from the personality test:
 > 
 > Logic is thine guiding light and it burns brightly within thine chest while the school of thought acts as thy beacon of judgement. Ye take precious time, to think and meditate in calm and focused serenity on the choices of lifeâ€™s pathways. Each option is weighed on the scales of truth and righteousness. Not without wrongs and mistakes as ye dwell on deep contemplation, however thy focus has never been of saint, but of the wise, humbled direction and focus.
 
-***
-
 ### Other website content
 
 The following two images also appear on the website, they are
@@ -109,10 +111,14 @@ from the Church of Genxsis to the announcements channel:
 
 > Transcendence or damnation, thy wish is thy wish #BRITsVoteBMTH
 
+***
+
 ## Live shows
 
 During [Kool-Aid](../music/song-koolaid) live, we see Angeldust breaking down the 
 church.
+
+***
 
 ## Read More
 

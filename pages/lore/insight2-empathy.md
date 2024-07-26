@@ -6,6 +6,8 @@ Empathy is the second insight we gather from the [spectrograms](../music/spectro
 
 ![Empathy spectrogram](../../Resources/lore/insights/empathy/img_5.png)
 
+***
+
 ## Associations
 
 Song: **n/A**
@@ -24,12 +26,14 @@ A region on [Selene's map](../files/for-sof#YOUTOPIA_selenes_mapvis)
 
 Insight 2 is also associated with [Madman](../characters/madman).
 
+***
+
 ## Document in FOR SOF
 
 <details class="password">
   <summary>Password</summary>
 
-`empathy`
+empathy
 </details>
 
 ![img_3.png](../../Resources/lore/insights/empathy/img_3.png)
@@ -42,10 +46,18 @@ Insight 2 is also associated with [Madman](../characters/madman).
 ![img_11.png](../../Resources/lore/insights/empathy/img_11.png)
 ![img_12.png](../../Resources/lore/insights/empathy/img_12.png)
 
+***
+
 ## Read More
+
+Related characters:
 
 - [Gabriel](../characters/gabriel)
 - [Miseria](../characters/miseria)
+- [Madman](../characters/madman)
+
+The other insights:
+
 - [The Insights](insights)
 - [Insight 1: Connection](insight1-connection)
 - [Insight 3: Purpose](insight3-purpose)

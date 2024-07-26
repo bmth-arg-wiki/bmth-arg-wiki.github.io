@@ -38,8 +38,14 @@ Insight 3 is also associated with [Pickles](../characters/pickles).
 
 ## Read More
 
+Characters:
+
 - [Michael](../characters/michael)
 - [Vanth](../characters/vanth)
+- [Pickles](../characters/pickles)
+
+Other insights:
+
 - [The Insights](insights)
 - [Insight 1: Connection](insight1-connection)
 - [Insight 2: Empathy](insight2-empathy)
