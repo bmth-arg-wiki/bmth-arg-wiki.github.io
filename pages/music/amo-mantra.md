@@ -41,7 +41,7 @@ https://www.youtube.com/watch?v=vcI9-ZesGf4
 > 
 > welcome to your worst nightmares
 > welcome to suffering
-> welcome to true betrayal
+> welcome to true misery
 > welcome to your pain
 > welcome to the end of the world
 > welcome to mantra
