@@ -109,8 +109,6 @@ These were actually revealed in multiple social media posts, so take a look on I
 
 There is more hidden in the audio on NEx Gen. Have a look at the songs again!
 </details>
-
-Solutions:
 <details>
 <summary>Solution first file</summary>
 
@@ -178,18 +176,18 @@ in it.
 <details>
 <summary>Hint 1</summary>
 
-You are going to have a closer look at the album tracklist.
+You are going to have a closer look at the album track list.
 </details>
 <details>
 <summary>Hint 2</summary>
 
-Take the capital letters from the tracklist and find an anagram that matches
+Take the capital letters from the track list and find an anagram that matches
 the phrase on the password screen.
 </details>
 <details>
 <summary>Solution</summary>
 
-By decoding the capital letters from the tracklist, we get
+By decoding the capital letters from the track list, we get
 'DEKODE THE MATRIX TO ATTAIN YOUR CONCEALED ORIGINS'.
 </details>
 
