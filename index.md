@@ -12,6 +12,12 @@ This wiki will focus on objective information as much as possible and indicate w
 
 There is a lot going on in this ARG! We get it if you are overwhelmed. 
 This section will attempt to explain the most important sources.
+We also offer a walkthrough:
+
+1. [Walkthrough Part 1: The Website](pages/walkthrough/walkthrough)
+2. [Walkthrough Part 2: The FOR SOF folder](pages/walkthrough/walkthrough2)
+
+Since this ARG is still ongoing, updates will be reflected in the walkthrough as soon as possible 🖤
 
 ### The Album
 
