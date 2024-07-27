@@ -117,27 +117,28 @@ There is more hidden in the audio on NEx Gen. Have a look at the songs again!
 <summary>Solution first file</summary>
 
 The first insight is 'connection'.
-The [spectrogram](../music/spectrograms) for [Top 10 staTues tHat CriEd bloOd](../music/song-top10)
+The spectrogram for Top 10 staTues tHat CriEd bloOd
 contains this password, but we can also see it in several social media posts.
 </details>
 <details>
 <summary>Solution second file</summary>
 
-The second insight is 'empathy' and can be found in the [spectrogram](../music/spectrograms)
-in [n/A](../music/song-na). It can also be seen in social media posts occasionally.
+The second insight is 'empathy' and can be found in the spectrogram
+in n/A. It can also be seen in social media posts occasionally.
 </details>
 <details>
 <summary>Solution third file</summary>
 
-The third insight is 'purpose' and can be found in the [spectrogram](../music/spectrograms)
-in [[ost] puss-e](../music/song-pusse).
+The third insight is 'purpose' and can be found in the spectrogram
+in [ost] puss-e.
 </details>
 <details>
 <summary>Solution fourth file</summary>
 
-The fourth insight is 'vision' and can be found in the [spectrogram](../music/spectrograms)
-in [DIg It](../music/song-digit).
+The fourth insight is 'vision' and can be found in the spectrogram
+in DIg It.
 </details>
+
 
 These files will tell us more about the lore, but we are only just at the start.
 
@@ -222,8 +223,9 @@ You are looking for a name and will need to reverse some audio to find it. Good 
 <summary>Solution</summary>
 
 The password is the name of the character we see on the login screen. We
-get the name 'Karl Strassman' from [a bulleT w/my namE On](../music/song-abwmno).
+get the name 'Karl Strassman' from a bulleT w/my namE On.
 </details>
+
 
 Learn more about Strassman in the related articles.
 
@@ -252,7 +254,7 @@ Look in the browser.
 <details>
 <summary>Solution</summary>
 
-The password is '1d1b2c2a' and can be found in the [Spyder browser](../webbrowser) URL.
+The password is '1d1b2c2a' and can be found in the Spyder browser URL.
 </details>
 
 This unlocks a Dreadit post with some comments on it.
@@ -278,14 +280,15 @@ The password can be found on the ARG website itself
 <details>
 <summary>Hint 2</summary>
 
-Make sure to catch all of [M8](../m8)'s dialogue.
+Make sure to catch all of M8's dialogue.
 </details>
 <details>
 <summary>Solution</summary>
 
-The password is [M8](../m8)'s middle name: "clive". We hear this when prompting M8 through 
+The password is M8's middle name: "clive". We hear this when prompting M8 through 
 the sticky note.
 </details>
+
 
 We've now got the map, which will tell us a little more about Youtopia.
 
@@ -323,8 +326,9 @@ Listen to Top 10 staTues tHat CriEd bloOd.
 <details>
 <summary>Solution</summary>
 
-True fulfillment comes from "within", as we learn in the mono audio of [Top 10 staTues tHat CriEd bloOd](../music/song-top10)
+True fulfillment comes from "within", as we learn in the mono audio of Top 10 staTues tHat CriEd bloOd.
 </details>
+
 
 This gives us a spec sheet for some technology.
 
@@ -356,8 +360,9 @@ You are looking for a 4-digit number.
 <details>
 <summary>Solution</summary>
 
-The password is Selene's user number in the [M8 system](../webpage), 0003.
+The password is Selene's user number in the M8 system, "0003".
 </details>
+
 
 You can learn more in the related articles, but we recommend unlocking [Scott's diary](#scott_personal_journal_vspr-37doc) 
 first.
@@ -386,9 +391,10 @@ You are looking for a 4-digit number.
 <details>
 <summary>Solution</summary>
 
-The password is Ren's user number in the [M8 system](../webpage), 0014. 
+The password is Ren's user number in the M8 system, "0014". 
 In this log we find out that his full name is Ikaro Lauren.
 </details>
+
 
 More details on this character and document can be found in the related articles.
 
@@ -419,6 +425,7 @@ You are looking for a 4-digit number.
 The password is Syko's user number in the [M8 system](../webpage), 0005.
 In this log we find out that Syko was still called Scott at 16 years old.
 </details>
+
 
 You can read more about Scott in the related articles. This file is strongly tied to 
 [Selene's diary](#selene_personal_journal_203702doc).
@@ -458,6 +465,7 @@ A tightening grip remains unseen, death will be, where life had been. => Noose
 https://www.instagram.com/p/C8Ziq3_CVIy/
 </details>
 
+
 This file is not in English. See the links below in case you need some help interpreting.
 
 - [Operation_Trinity_Analysis.xslx](../files/trinity_document) (includes translation)
@@ -487,9 +495,12 @@ a company with this name.
 <summary>Solution</summary>
 
 The password is "arc/hive".
-The password screen refers to the logo we see in [In the Dark](../music/amo-in-the-dark), 
+The password screen refers to the logo we see in In the Dark, 
 which takes place at a mysterious organization called ARC/HIVE.
 </details>
+
+
+This reveals a new document which centers on a specific character.
 
 - [ISSUE-51-fromhelltoshell.pdf 1](../files/tekka_interview)
 - [Nex Gen Corporation](../lore/nex-gen-corporation)
@@ -526,6 +537,7 @@ we can find the solution, reading the symbols from top to bottom.
 You can also see this password at the bottom of the page!
 
 </details>
+
 
 This gives us a lot more information on the people mentioned in the previous files 
 and their past.
@@ -567,8 +579,9 @@ Look in the info for the songs in the music player.
 <summary>Solution</summary>
 
 The password is "grave", an anagram of the letters we see in the artist for WRIST, 
-a song in the [music player](../music/website-songs) info.
+a song in the music player info.
 </details>
+
 
 This will unlock a newspaper with several areas you can zoom into.
 
@@ -602,6 +615,7 @@ are circled.
 By switching them around, we can form the password: 'INTERCELLULAR'
 </details>
 
+
 This will give us a poster.
 
 - [Sky_&_The_Starjammers.png](../files/skystarjammers)
@@ -631,10 +645,11 @@ The password is also the name of one of the most prominent actors in a music vid
 The password to this file is "forest". There is no official explanation 
 for this password, but there are different interpretations:
 
-1. Forest Whitaker (actor from [In the Dark](../music/amo-in-the-dark))
+1. Forest Whitaker (actor from In the Dark)
 2. "Deep in the forest, the blind one follows her every move"
 3. Lee Malia's son's name: Forrest (spelled with two r's)
 </details>
+
 
 See the [end of the page](#tour-poster-1) for more information on the solution.
 
