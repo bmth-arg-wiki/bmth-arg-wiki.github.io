@@ -67,7 +67,7 @@ You're going to have to use some kind of tool to visualize audio, like Audacity.
 <details>
 <summary>Solution</summary>
 
-There is a hidden QR code in the [spectrogram](../music/spectrograms) and it leads us to
+There is a hidden QR code in the spectrogram and it leads us to
 https://www.multidimensionalnavigator8.help/index-desktop.html.
 </details>
 
@@ -91,7 +91,7 @@ Take a closer look at the album cover of NEx Gen.
 <summary>Solution</summary>
 
 The serial number we are looking for is 93934521 and can be seen on the side of M8's head 
-on the [NEx Gen album](../music/ph-nex-gen) cover.
+on the NEx Gen album cover.
 </details>
 
 We're in! Once you are logged into the website, you can click around to learn 
