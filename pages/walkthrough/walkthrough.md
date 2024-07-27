@@ -1,4 +1,6 @@
-# Walkthrough Part 1
+# Walkthrough Part 1: the Website
+
+**[next →](../walkthrough/walkthrough2.md)**
 
 ![Nex Gen Walkthrough ASCII art](../../Resources/walkthrough.png)
 
@@ -7,9 +9,7 @@ semi-regularly.
 
 This page is intended for people who would like to play through the ARG chronologically. All spoilers 
 are hidden until clicked.
-**Passwords are case-sensitive**.
-
-Try it now!
+**Passwords are case-sensitive**. Try it now!
 
 <details>
 <summary>Click me for hints and solutions!</summary>

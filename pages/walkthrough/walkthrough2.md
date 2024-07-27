@@ -1,11 +1,12 @@
-# Walkthrough Step 2: FOR SOF
+# Walkthrough Part 2: FOR SOF
 
-![Nex Gen Walkthrough ASCII art](../../Resources/walkthrough.png)
+**[← previous](walkthrough)**
 
-The folder of files is where most of the ARG takes place.
-First, we need to gain access to it.
+This folder of files is where most of the ARG takes place.
+First, we need to gain access to it!
+
 Passwords will be marked for spoilers, but this article will contain some 
-images and links.
+images and links related to the documents.
 
 ***
 
@@ -33,6 +34,9 @@ Jump to section:
 - [SCISTUDYSCAN1999wrist.SCN](#scistudyscan1999wristscn)
 - [Sky_&_The_Starjammers.png](#sky__the_starjammerspng)
 - [Nex Gen leak ‘UNBELEEVABLE’.doc](#nex-gen-leak-unbeleevabledoc)
+
+You do not have to open the files in this order.
+To navigate this page you can jump back up with [↑ Quick access](#quick-access) links.
 
 ***
 
@@ -65,7 +69,7 @@ You can find more explanations about the webpage by reading some related article
 - [Website songs](../music/website-songs)
 - [Website browser](../webbrowser)
 
-[Quick access](#quick-access)
+[↑ Quick access](#quick-access)
 
 ***
 
@@ -77,7 +81,7 @@ The first file is an [audio log](../files/msgforsof) that does not need a passwo
 - [Sof](../characters/sof)
 - [Selene](../characters/selene)
 
-[Quick access](#quick-access)
+[↑ Quick access](#quick-access)
 
 ***
 
@@ -88,7 +92,7 @@ Before doing some more research, we recommend opening the next set of files firs
 
 - [THEINSIGHTS.doc](../lore/insights)
 
-[Quick access](#quick-access)
+[↑ Quick access](#quick-access)
 
 ***
 
@@ -162,7 +166,7 @@ Characters:
 - [Vanth](../characters/vanth)
 - [Uriel](../characters/uriel)
 
-[Quick access](#quick-access)
+[↑ Quick access](#quick-access)
 
 ***
 
@@ -195,7 +199,7 @@ Let's move on with the file actually intended to be next.
 
 - [CAPSLOCK.DOC](../files/capslock_doc)
 
-[Quick access](#quick-access)
+[⬆️ Quick access](#quick-access)
 
 ***
 
@@ -229,7 +233,7 @@ Learn more about Strassman in the related articles.
 - [E.V.E](../characters/eve)
 - [a bulleT w/my namE On](../music/song-abwmno)
 
-[Quick access](#quick-access)
+[↑ Quick access](#quick-access)
 
 ***
 
@@ -258,7 +262,7 @@ This unlocks a Dreadit post with some comments on it.
 - [Selene](../characters)
 - [Neosages](../lore/mantra) (Spoiler-heavy for upcoming files)
 
-[Quick access](#quick-access)
+[↑ Quick access](#quick-access)
 
 ***
 
@@ -300,7 +304,7 @@ Related characters:
 - [Vanth](../characters/vanth)
 - [Uriel](../characters/uriel)
 
-[Quick access](#quick-access)
+[↑ Quick access](#quick-access)
 
 ***
 
@@ -333,7 +337,7 @@ This gives us a spec sheet for some technology.
 
 </details>
 
-[Quick access](#quick-access)
+[↑ Quick access](#quick-access)
 
 ***
 
@@ -361,7 +365,7 @@ first.
 - [Selene_Personal_Journal_2037.02.doc](../files/selene_personal_journal)
 - [Selene](../characters/selene)
 
-[Quick access](#quick-access)
+[↑ Quick access](#quick-access)
 
 ***
 
@@ -391,7 +395,7 @@ More details on this character and document can be found in the related articles
 - [Lauren_D8_Log_203701.docx](../files/lauren_d8_log)
 - [Ren](../characters/ren)
 
-[Quick access](#quick-access)
+[↑ Quick access](#quick-access)
 
 ***
 
@@ -425,7 +429,7 @@ You can read more about Scott in the related articles. This file is strongly tie
 - [Syko](../characters/syko)
 - [Dear Diary,](../music/song-dear-diary)
 
-[Quick access](#quick-access)
+[↑ Quick access](#quick-access)
 
 ***
 
@@ -461,7 +465,7 @@ This file is not in English. See the links below in case you need some help inte
 - [Skys](../characters/skys)
 - [Dallus Lauren](../characters/dallus-lauren)
 
-[Quick access](#quick-access)
+[↑ Quick access](#quick-access)
 
 ***
 
@@ -497,7 +501,7 @@ Related characters:
 - [Karl Strassman](../characters/strassman)
 - [Dallus Lauren](../characters/dallus-lauren)
 
-[Quick access](#quick-access)
+[↑ Quick access](#quick-access)
 
 ***
 
@@ -543,7 +547,7 @@ Related characters:
 - [Ikaro Lauren](../characters/ren)
 - [Syko](../characters/syko)
 
-[Quick access](#quick-access)
+[↑ Quick access](#quick-access)
 
 ***
 
@@ -571,7 +575,7 @@ This will unlock a newspaper with several areas you can zoom into.
 - [SCISTUDYSCAN1999wrist.SCN](../files/thesciencestudy)
 - [Website songs](../music/website-songs)
 
-[Quick access](#quick-access)
+[↑ Quick access](#quick-access)
 
 ***
 
@@ -605,7 +609,7 @@ This will give us a poster.
 - [Mantra cult](../lore/mantra)
 - [Mantra (song)](../music/amo-mantra)
 
-[Quick access](#quick-access)
+[↑ Quick access](#quick-access)
 
 ***
 
@@ -651,7 +655,7 @@ Related characters:
 - [Karl Strassman](../characters/strassman)
 - [Madman](../characters/madman) (maybe?)
 
-[Quick access](#quick-access)
+[↑ Quick access](#quick-access)
 
 ***
 
@@ -667,6 +671,8 @@ Want to help us with the password hunt? Join the official [BMTH Discord](https:/
 
 - [Walkthrough part 1](../walkthrough/walkthrough)
 - [FOR SOF: file overview](../files/for-sof)
+
+[↑ Quick access](#quick-access)
 
 ## Picture passwords
 
@@ -684,3 +690,5 @@ This section contains any pictures containing spoilers and is linked where neces
 ![object_archangel.png](../../Resources/files/unbeleevable/object_archangel.png)
 
 [Go back](#nex-gen-leak-unbeleevabledoc)
+
+[↑ Quick access](#quick-access)

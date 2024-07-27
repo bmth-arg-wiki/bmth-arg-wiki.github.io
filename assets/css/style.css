@@ -67,8 +67,14 @@ body {
   font-family: var(--fonttitle), ui-sans-serif, sans-serif;
 }
 
-summary {
-  color: var(--dark-txt);
+/* Make sure that body text color is applied even when overridden */
+body, details, summary {
+  color: var(--dark-txt); /* Use your desired readable color */
+  padding-bottom: 0.1em;
+}
+
+body b, body strong {
+  color: var(--txt);
 }
 
 table {
@@ -100,7 +106,6 @@ li {
 /* Tables */
 .content table {
   background: var(--bg);
-  width: 100%;
   border-collapse: collapse;
 }
 
