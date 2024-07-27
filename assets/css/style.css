@@ -6,6 +6,7 @@
   --link: #a67042;
   --txt: #383838;
   --dark-txt: #282828;
+  --dark-red: #a70b0b;
   --light-grey: #c8c8c8;
   --bg: #ededed;
   --bg-darker: #d5d5d5;
@@ -66,6 +67,18 @@ body {
   font-family: var(--fonttitle), ui-sans-serif, sans-serif;
 }
 
+summary {
+  color: var(--dark-txt);
+}
+
+table {
+  background-color: var(--light-grey);
+}
+
+p {
+  color: var(--txt);
+}
+
 a {
   color: var(--link);
 }
@@ -74,19 +87,44 @@ hr {
   background-color: var(--light-grey);
 }
 
-.content li {
+li {
   color: var(--txt);
   font-size: var(--fontsize4);
-}
-.content th {
-  color: var(--txt);
-  font-weight: bold;
-  text-align: center;
 }
 
 .content img {
   max-width: 70%;
   align-content: center;
+}
+
+/* Tables */
+.content table {
+  background: var(--bg);
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.content thead {
+  background: var(--titles);
+  color: var(--bg-lighter);
+}
+
+.content thead th {
+  font-weight: bold;
+  text-align: center;
+  border: none;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: var(--bg-lighter);
+}
+
+tbody tr:nth-child(even) {
+  background-color: var(--bg);
+}
+
+.content tbody td {
+  border: 1px solid var(--light-grey);
 }
 
 /* Special blocks */
@@ -122,4 +160,9 @@ hr {
 .content q:before,
 .content q:after {
   content: "";
+}
+
+code {
+  background: var(--bg);
+  color: var(--dark-red);
 }

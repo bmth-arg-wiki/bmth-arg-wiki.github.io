@@ -49,3 +49,7 @@ header .subtitle {
 footer li {
     padding: 0.2em;
 }
+
+footer p {
+    color: var(--bg-darker);
+}

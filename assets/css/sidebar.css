@@ -27,3 +27,7 @@
 .menu-list li ul {
   border-inline-start: 1px solid var(--light-grey);
 }
+
+.menu-list a {
+  color: var(--txt);
+}
