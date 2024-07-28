@@ -25,6 +25,7 @@
   font-size: 1em;
   padding-top: 5px;
   color: var(--titles);
+  cursor: pointer;
 }
 
 .menu-label::before {

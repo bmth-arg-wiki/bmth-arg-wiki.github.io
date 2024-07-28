@@ -99,25 +99,24 @@ li {
 }
 
 .content img {
-  max-width: 70%;
   align-content: center;
 }
 
 /* Tables */
 .content table {
-  width: 100%;
+  width: inherit;
   background: var(--bg);
   border-collapse: collapse;
 }
 
 .content thead {
   background: var(--titles);
-  color: var(--bg-lighter);
 }
 
-.content thead th {
+.content table th {
   font-weight: bold;
   text-align: center;
+  color: var(--bg-lighter);
   border: none;
 }
 
