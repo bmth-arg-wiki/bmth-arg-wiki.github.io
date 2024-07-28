@@ -3,11 +3,11 @@
 }
 
 .menu {
-  padding-top: 1.5em;
+  padding: 1.5em 0 0 1em;
 }
 
 .menu-list .menu-item, .menu-list a, .menu-list button {
-  background-color: var(--bg-lighter)
+  background-color: var(--bg-lighter);
 }
 
 .menu-list .menu-item:hover,

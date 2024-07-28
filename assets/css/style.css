@@ -26,14 +26,14 @@ body {
   background-color: #ededed;
 }
 
-.container {
+.page-body {
+  background: var(--bg);
   display: flex;
+  flex-wrap: wrap;
 }
 
-.custom-container {
-  background-color: var(--bg-lighter);
-  padding: 20px;
-  border-radius: 5px;
+.container {
+  display: flex;
 }
 
 .content {
