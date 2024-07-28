@@ -1,6 +1,9 @@
+.is-hidden {
+  display: none;
+}
+
 .menu {
   padding-top: 1.5em;
-  max-width: 25%;
 }
 
 .menu-list .menu-item, .menu-list a, .menu-list button {
@@ -23,6 +26,19 @@
   padding-top: 5px;
   color: var(--titles);
 }
+
+.menu-label::before {
+  content: '▼';
+  display: inline-block;
+  padding: 0.2em;
+  font-size: small;
+  transition: transform 0.3s ease;
+}
+
+.menu-label.collapsed::before {
+  transform: rotate(-90deg);
+}
+
 
 .menu-list li ul {
   border-inline-start: 1px solid var(--light-grey);

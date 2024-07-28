@@ -105,6 +105,7 @@ li {
 
 /* Tables */
 .content table {
+  width: 100%;
   background: var(--bg);
   border-collapse: collapse;
 }
