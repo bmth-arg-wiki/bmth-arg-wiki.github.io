@@ -1,3 +1,6 @@
+---
+title: "n/A"
+---
 # n/A (song)
 
 The 9th song on NexGen. Has a connection to [Insight 2: Empathy](../lore/insight2-empathy). 

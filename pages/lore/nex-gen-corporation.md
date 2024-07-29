@@ -1,7 +1,17 @@
+---
+title: "Nex Gen Corporation"
+---
 # Nex Gen Corporation
+
+> *"ALL HAIL NEX GEN! Could I get an amen?!"*
 
 Nex Gen Corporation works on innovative products and is somehow linked to the mystery around 
 this ARG. We currently know very little about them.
+They are mentioned explicitly in the song [AmEN!](../music/song-amen)
+
+***
+
+## Backstory
 
 > You want to know about the Nex Gen Corporation? Oh, where do I start? 
 > 

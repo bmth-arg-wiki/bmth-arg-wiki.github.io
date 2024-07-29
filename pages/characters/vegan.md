@@ -1,3 +1,6 @@
+---
+title: "Vegan"
+---
 # Vegan
 
 One of the stand-in characters for the band characters: Matt Kean. He is user 0001 in the system, 

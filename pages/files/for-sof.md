@@ -1,3 +1,6 @@
+---
+title: "FOR SOF"
+---
 # FOR SOF
 
 ![Password prompt for the folder](../../Resources/files/for_sof_password_prompt.png)

@@ -1,3 +1,6 @@
+---
+title: "Dallus Lauren"
+---
 # Dallus Lauren
 
 Dallus Lauren, also referred to as 'Dallas Lauren' in the [Unbeleevable](../files/unbeleevable) 

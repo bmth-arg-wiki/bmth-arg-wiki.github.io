@@ -1,3 +1,6 @@
+---
+title: "OBEY ft. YUNGBLUD"
+---
 # Obey ft. Yungblud
 
 Fourth song on [POST HUMAN: SURVIVAL HORROR](ph-survival-horror).

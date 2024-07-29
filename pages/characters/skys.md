@@ -1,3 +1,6 @@
+---
+title: "Skys"
+---
 # Skys
 
 > *Do you wanna start a cult with me?*

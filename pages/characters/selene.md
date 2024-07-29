@@ -1,3 +1,6 @@
+---
+title: "Selene"
+---
 # Selene
 
 ![Selene's Avatar](../../Resources/characters/selene/selene.png)

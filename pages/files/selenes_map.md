@@ -1,3 +1,6 @@
+---
+title: "Selene's Youtopia Map"
+---
 # YOUTOPIA_selenes_map.vis
 
 ![Selene's map of Youtopia](../../Resources/files/selenesmap.png)

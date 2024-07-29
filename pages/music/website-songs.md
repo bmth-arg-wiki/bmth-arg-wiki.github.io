@@ -1,3 +1,6 @@
+---
+title: "Website Songs"
+---
 # Website Songs
 
 The website's song player Nocturne also includes a few songs and artwork.

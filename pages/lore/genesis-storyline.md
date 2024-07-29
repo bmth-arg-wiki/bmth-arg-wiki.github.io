@@ -1,3 +1,6 @@
+---
+title: "Genesis Storyline"
+---
 # Genesis Storyline - Narrative Development
 
 ![Genesis Storyline Image.png](../../Resources/socials/genesis-storyline.png)

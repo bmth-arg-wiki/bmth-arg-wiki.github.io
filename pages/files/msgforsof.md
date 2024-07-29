@@ -1,3 +1,6 @@
+---
+title: "Message for Sof"
+---
 # msgforsoff.aiff
 
 In this audio log Selene says goodbye to [SOF](../characters/sof) after just giving birth to her less 

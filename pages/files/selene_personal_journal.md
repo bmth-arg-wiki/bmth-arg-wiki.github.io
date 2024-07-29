@@ -1,6 +1,10 @@
+---
+title: "Selene's Diary"
+---
 # Selene_Personal_Journal_2037.02.doc
 
-Document in the [FOR SOF](for-sof) folder.
+Document in the [FOR SOF](for-sof) folder. Selene talks about school and [Scott](scott_personal_journal), only 
+being 16 years old at the time of writing.
 
 ***
 

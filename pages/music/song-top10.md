@@ -1,3 +1,6 @@
+---
+title: "Top 10 staTues tHat CriEd bloOd"
+---
 # Top 10 staTues tHat CriEd bloOd (song)
 
 Song on the NexGen album. 

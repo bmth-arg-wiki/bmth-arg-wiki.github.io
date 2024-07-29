@@ -1,3 +1,6 @@
+---
+title: "Connection"
+---
 # Insight 1: Connection
 
 > *"Manifest Divine Harmony"*

@@ -1,3 +1,6 @@
+---
+title: "SOF"
+---
 # SOF
 
 Sof is the girl from the cover art. She is referred to as such in several descriptions 
@@ -10,7 +13,7 @@ The [first file](../files/msgforsof) introduces the relationship between her and
 
 ## Identification
 
-Since Sof is not a user in the [M8 system](webpage), her name had to be determined from 
+Since Sof is not a user in the [M8 system](../webpage), her name had to be determined from 
 other sources.
 
 ![Shirt featuring and identifying Sof on the Horizon Supply website](../../Resources/characters/sof/nex_gen_sof_shirt.png)
@@ -65,5 +68,5 @@ More original artwork from `@vinne.art`.
 ![Access Card for Sof from merch](../../Resources/characters/sof/access_card.png)
 
 This access card was designed to be shipped with the Sof statue, bundled with
-some [band cards](characters#the-band-members) and other goodies along with the album.
+some [band cards](characters#band-members) and other goodies along with the album.
 The authenticity card specifically refers to Sof as "The Post Human".

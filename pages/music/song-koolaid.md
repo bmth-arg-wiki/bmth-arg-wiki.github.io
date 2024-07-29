@@ -1,3 +1,6 @@
+---
+title: "Kool-Aid"
+---
 # Kool-Aid (song)
 
 Song on the album, previously released as the sixth and last single. 

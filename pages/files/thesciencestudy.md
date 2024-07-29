@@ -1,4 +1,7 @@
-# The Science Study (newspaper)
+---
+title: "The Science Study"
+---
+# SCISTUDYSCAN1999wrist.SCN
 
 The Science Study is an in-universe newspaper, published on New Elysium. This specific 
 edition was released in 2037, seemingly right before the pandemic, which happens 

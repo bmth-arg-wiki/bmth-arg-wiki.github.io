@@ -1,3 +1,6 @@
+---
+title: "sTraNgeRs"
+---
 # sTraNgeRs (song)
 
 One of the earlier singles released from PH: Nex Gen. 

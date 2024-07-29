@@ -1,3 +1,6 @@
+---
+title: "Vanth"
+---
 # Vanth
 
 ![Vanth's Avatar](../../Resources/characters/vanth/vanth.png)

@@ -1,8 +1,11 @@
+---
+title: "Ren/Ikaro"
+---
 # Ren
 
 ![Ren's avatar](../../Resources/characters/ren/black_ren.png)
 
-Ren is user number 0014 in the [M8](webpage) system.
+Ren is user number 0014 in the [M8](../webpage) system.
 
 ***
 

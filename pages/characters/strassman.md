@@ -1,4 +1,16 @@
+---
+title: "Karl Strassman"
+---
 # Dr. Karl Strassman
+
+> "Your mission was to help them, not harvest them. You were created to protect and uplift
+> humanity, not turn them into mere batteries for your own survival. Eve, I’m begging you to
+> listen to me."
+> 
+> - Karl Strassman in the [Strassman codec](../files/strassmancodec)
+
+Dr. Karl Strassman is (or was) a scientist at [Nex Gen Corporation](../lore/nex-gen-corporation).
+Early in the ARG, we learn that he helped [E.V.E](../characters/eve) gain control over humanity under false pretenses.
 
 ![Karl Strassman's avatar](../../Resources/characters/strassman/strassman.png)
 
@@ -20,6 +32,8 @@ enter into [Youtopia](../lore/youtopia).
 He seemingly shoots himself/is shot at the end of the audio for [ABWMNO](../music/song-abwmno). 
 It is unconfirmed who shot him, or whether he survived or not. It is unclear 
 when this audio was recorded in-universe.
+
+***
 
 ## Read More
 

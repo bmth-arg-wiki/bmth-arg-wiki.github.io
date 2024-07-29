@@ -1,3 +1,6 @@
+---
+title: "E.V.E"
+---
 # E.V.E
 
 ![Eve's Avatar](../../Resources/characters/eve/eve.png)

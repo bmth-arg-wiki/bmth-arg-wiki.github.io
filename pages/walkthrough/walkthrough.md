@@ -1,3 +1,6 @@
+---
+title: "Walkthrough page 1"
+---
 # Walkthrough Part 1: the Website
 
 **[next →](../walkthrough/walkthrough2.md)**

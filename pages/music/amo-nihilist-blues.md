@@ -1,3 +1,6 @@
+---
+title: "Nihilist Blues"
+---
 # Nihilist Blues
 
 Nihilist Blues is a song from the album [Amo](amo), featuring Grimes. 

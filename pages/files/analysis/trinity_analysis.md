@@ -1,4 +1,9 @@
-# Trinity members and their purpose at Arc/Hive
+---
+title: "ARC/HIVE"
+---
+# Trinity members and Arc/Hive
+
+This article discusses the role different trinity members could fill for [ARC/HIVE](../../lore/archive).
 
 ## Dallus Lauren
 
@@ -42,7 +47,7 @@ that the media came up with the name 'Cult of Mantra' as a result of this. Stras
 of Mantra the drug. There are merch items, physical releases and promotional images indicating that amo is a drug as well, 
 but no references have been made to this. This may have been another of Strassman's inventions.
 
-TL;DR: Arc/Hive probably wanted Strassman to develop drugs.
+TL;DR: ARC/HIVE probably wanted Strassman to develop drugs.
 
 ## Skys
 
@@ -59,16 +64,18 @@ if not the mastermind, behind the Neosages/Mantra cult. He was also in a band ca
 was possibly in this band too, which would explain his insider knowledge. However, we are not sure if there is only one of 
 each band member.
 Arc/Hive likely wanted knowledge from Skys. Everyone also assumes he was dead. There are a few problems with Skys for 
-Arc/Hive: his reputation may have gone down the drain and people think he is dead. His charisma was a strong tool, but 
-after faking his death and information about the Mantra cult spreading, his reputation might be too damaged to put that to use.
+Arc/Hive: his reputation may have gone down the drain, and people think he is dead. His charisma was a strong tool, but 
+after faking his death and information about the Mantra cult spreading,
+his reputation might be too damaged to put that to use.
+He would likely have to change his name and still be useful for his powers.
 
-TL;DR: Skys is charismatic (but likely known to be problematic and also dead), has tons of useful knowledge, is maybe 
-not so useful anymore after that info is shared.
+TL;DR: Skys is charismatic (but likely known to be problematic and also dead),
+has tons of useful knowledge, has special powers?
 
 ## Sources
 
-- #"Lauren's D8 Log"
-- #"Operation Trinity"
-- #"Jan15_2031_declassified__PROJECT D.U.S.T" 
-
-To add: unbeleevable, strassman codek
+- [Lauren's D8 Log](../lauren_d8_log)
+- [Operation Trinity](../trinity_document)
+- [Jan15_2031_declassified__PROJECT D.U.S.T](../project_dust)
+- [Unbeleevable video](../unbeleevable)
+- [Conversation between Strassman and E.V.E](../strassmancodec)

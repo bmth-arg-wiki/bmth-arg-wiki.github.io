@@ -1,3 +1,6 @@
+---
+title: "Ludens"
+---
 # Ludens
 
 Eight song on the tracklist of [POST HUMAN: SURVIVAL HORROR](ph-survival-horror). 

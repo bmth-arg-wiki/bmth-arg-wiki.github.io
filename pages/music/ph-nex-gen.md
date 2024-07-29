@@ -1,3 +1,6 @@
+---
+title: "POST HUMAN: NeX GEn"
+---
 # POST HUMAN: NeX GEn
 
 POST HUMAN: NeX GEn is the 2nd album/EP in the POST HUMAN line. 

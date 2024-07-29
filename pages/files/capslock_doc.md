@@ -1,3 +1,6 @@
+---
+title: "Capslock Doc"
+---
 # Capslock Doc
 
 The capslock doc can be found in the `FOR SOF` folder on the computer.

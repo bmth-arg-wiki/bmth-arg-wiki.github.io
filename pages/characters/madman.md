@@ -1,3 +1,6 @@
+---
+title: "Madman"
+---
 # Madman
 
 ![Madman's avatar](../../Resources/characters/madman/madman.png)

@@ -1,3 +1,6 @@
+---
+title: "Bugs & typos"
+---
 # Known bugs & typos
 
 This page contains a list of known typos. It is currently unknown whether any typos are 

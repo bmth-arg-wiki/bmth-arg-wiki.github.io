@@ -1,3 +1,6 @@
+---
+title: "Project D.U.S.T"
+---
 # Project D.U.S.T., P.S.Y & S.Y.K.O.
 
 This file contains a research proposal from [ARC/HIVE](../music/amo-in-the-dark) 

@@ -1,3 +1,6 @@
+---
+title: "Rebecca the First Synth"
+---
 # Rebecca
 
 Rebecca was a terminally ill lab assistant at Arc/Hive, before becoming the first

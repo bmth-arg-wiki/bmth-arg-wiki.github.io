@@ -1,3 +1,6 @@
+---
+title: "Syko"
+---
 # Syko
 
 ![Syko Avatar](../../Resources/characters/syko/syko.png)

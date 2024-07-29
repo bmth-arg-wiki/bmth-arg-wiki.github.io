@@ -1,3 +1,6 @@
+---
+title: "Dreadit Post"
+---
 # DREADITScreenshot 2051.1.5.59.43.vis
 
 <details class="password">

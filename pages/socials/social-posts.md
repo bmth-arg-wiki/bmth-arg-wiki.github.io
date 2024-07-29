@@ -1,4 +1,7 @@
-# Socials posts
+---
+title: "Social Media Posts"
+---
+# Social Media Posts
 
 The following article contains references to several social media accounts. Of course, 
 these accounts belong to real people, please **do not contact them**.

@@ -1,3 +1,6 @@
+---
+title: "Operation Trinity"
+---
 # Operation_Trinity_Analysis.xslx
 
 This file was introduced in an update on 19-06-2024. It confirms that there is lore for the 

@@ -1,3 +1,6 @@
+---
+title: "Strassman Codec"
+---
 # StrassmanCONFIDENTIALPRT007.CODEC
 
 A document in the [FOR SOF](for-sof) folder. The password screen used to be a placeholder, 

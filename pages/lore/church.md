@@ -1,3 +1,6 @@
+---
+title: "Church of Genxsis"
+---
 # Church of Genesis/Genxsis
 
 The Church of Genxsis is a religious organization that likely has 

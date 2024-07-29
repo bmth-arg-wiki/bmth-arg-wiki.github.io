@@ -1,3 +1,6 @@
+---
+title: "R.i.p (duskCOre RemIx)"
+---
 # R.i.p (duskCOre RemIx)
 
 - Has a skull in the [spectrograms](spectrograms.md)

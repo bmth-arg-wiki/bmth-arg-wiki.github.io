@@ -1,4 +1,7 @@
-# Unbeleevable
+---
+title: "Unbeleevable leak"
+---
+# Nex Gen leak "UNBELEEVABLE".doc
 
 This file contains an email from Nex Gen's internal network and the video attached to said email. 
 It is currently unknown whether the Dr. Lee MD from the video is also [Madman](../characters/madman) in the ARG.
@@ -9,8 +12,8 @@ It is currently unknown whether the Dr. Lee MD from the video is also [Madman](.
 
 ### Email
 
-![NEXGENLEAK1.png](../../Resources/files/unbeleevable/NEXGENLEAK1.png)
-![NEXGENLEAK2.png](../../Resources/files/unbeleevable/NEXGENLEAK2.png)
+![First screenshot of email](../../Resources/files/unbeleevable/NEXGENLEAK1.png)
+![Second screenshot of email](../../Resources/files/unbeleevable/NEXGENLEAK2.png)
 
 ### Video
 

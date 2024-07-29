@@ -1,8 +1,13 @@
+---
+title: "Vision"
+---
 # Insight 4: Vision
 
 > *Symphony of Sight*
 
-The last insight in the numbered order is Vision. Its spectogram was found in the song 'DIg It'.
+The last insight in the numbered order is Vision. Its spectrogram was found in the song 'DIg It'. 
+While the official BMTH Discord server has channels for connection, empathy and purpose, the channel 
+for the last insight (vision) has been named "creativity".
 
 ***
 

@@ -1,3 +1,6 @@
+---
+title: "Pan"
+---
 # Pan
 
 ![Pan's avatar after turning pink](../../Resources/characters/pan/pink_pan.png)

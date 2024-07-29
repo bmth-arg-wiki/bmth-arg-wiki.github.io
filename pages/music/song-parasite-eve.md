@@ -1,3 +1,6 @@
+---
+title: "Parasite Eve"
+---
 # Parasite Eve
 
 Parasite Eve is the 2nd song on [POST HUMAN: SURVIVAL HORROR](./ph-survival-horror).

@@ -1,3 +1,6 @@
+---
+title: "Spyder"
+---
 # Web Browser - Spyder
 
 The web browser is called Spyder. It seems that a Wi-Fi password is needed before we can use it.

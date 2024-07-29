@@ -1,3 +1,6 @@
+---
+title: "Archangel Michael"
+---
 # Michael
 
 Michael is one of the archangels. He is linked to [Insight 3: Purpose](../lore/insight3-purpose.md). 

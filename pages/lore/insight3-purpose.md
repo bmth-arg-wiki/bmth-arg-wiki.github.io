@@ -1,3 +1,6 @@
+---
+title: "Purpose"
+---
 # Insight 3: Purpose
 
 >*The Waltz Of Existence*
@@ -10,7 +13,7 @@ Purpose is the third insight, found in the spectrogram of puss-e.
 
 ## Associations
 
-- Song: **puss-e**
+- Song: **[ost] puss-e**
 - Archangel: [Michael](../characters/michael)
 - Omen: [Vanth](../characters/vanth): Princess of Death
 - Curse: ???

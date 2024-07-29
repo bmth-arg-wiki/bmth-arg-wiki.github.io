@@ -1,3 +1,6 @@
+---
+title: "[ost] p.u.s.s-e"
+---
 # [ost] p.u.s.s-e (song)
 
 *This article refers to the song, not the [general concept](../lore/pusse)*

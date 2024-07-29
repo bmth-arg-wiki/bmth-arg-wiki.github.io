@@ -1,3 +1,6 @@
+---
+title: "ARC/HIVE"
+---
 # ARC/HIVE
 
 ![ARC/HIVE logo](../../Resources/music/inthedark/neurologo.png)

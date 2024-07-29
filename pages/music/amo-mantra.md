@@ -1,6 +1,12 @@
-# MANTRA
+---
+title: "MANTRA"
+---
+# MANTRA (song)
 
-Second song from the album "Amo". It is related to the Mantra cult, which 
+> This article is about the song MANTRA, not about [the cult](../lore/mantra)
+
+Second song from the album "amo".
+It is related to the [Mantra cult](../lore/mantra), which 
 we can learn more about in a few different files:
 
 - [Trinity document](../files/trinity_document)
@@ -13,7 +19,7 @@ There was also a website with a teaser called `joinmantra.org`.
 
 ## Mantra Extended Intro
 
-https://www.youtube.com/watch?v=vcI9-ZesGf4
+The extended intro of Mantra offers us a little glimpse into the cult of Mantra.
 
 > woman:
 > welcome to peace
@@ -34,6 +40,8 @@ https://www.youtube.com/watch?v=vcI9-ZesGf4
 > welcome to your pain
 > welcome to the end of your life
 > welcome to mantra
+> 
+> https://www.youtube.com/watch?v=vcI9-ZesGf4
 
 ***
 
@@ -41,3 +49,7 @@ https://www.youtube.com/watch?v=vcI9-ZesGf4
 
 - [Other webpages](../other-webpages)
 - [Mantra cult](../lore/mantra)
+- [Trinity document](../files/trinity_document)
+- [Unbeleevable video](../files/unbeleevable)
+- [Skys & the Starjammers poster](../files/skystarjammers)
+- [joinmantra.org](../lore/mantra#joinmantraorg)

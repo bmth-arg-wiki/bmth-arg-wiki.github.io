@@ -1,4 +1,7 @@
-# [ost] spi(ritual)
+---
+title: "[ost] (spi)ritual"
+---
+# [ost] (spi)ritual
 
 The 8th song on NexGen. Its [spectrogram](spectrograms) shows four angels, assumed to be 
 the archangels [Michael](../characters/michael), [Gabriel](../characters/gabriel), 

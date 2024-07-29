@@ -1,3 +1,6 @@
+---
+title: "The Four Insights"
+---
 # The Four Insights
 
 The first hint about the four insights was found in a spectrogram of the song YOUtopia.

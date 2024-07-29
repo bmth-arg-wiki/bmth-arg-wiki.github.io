@@ -1,3 +1,6 @@
+---
+title: "itchy, tasty.."
+---
 # Dear Diary,
 
 First song on [POST HUMAN: SURVIVAL HORROR](ph-survival-horror). 

@@ -1,3 +1,6 @@
+---
+title: "In the Dark"
+---
 # In the Dark
 
 "In the Dark" is a song from the album 'Amo'. Its music video contains many references to a mysterious 

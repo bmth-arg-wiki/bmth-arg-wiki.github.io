@@ -1,4 +1,7 @@
-# Webpage
+---
+title: "Multidimensional Navigator 8 Webpage"
+---
+# Multidimensional Navigator 8 Webpage
 
 Most of the ARG takes place in the Multidimensional Navigator. You can access 
 it with the following link.

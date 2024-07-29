@@ -1,4 +1,7 @@
-# Tekka's Synth Interview
+---
+title: "Tekka's Synth Interview"
+---
+# ISSUE-51-fromhelltoshell.pdf 1
 
 This file contains an interview with a lady named Rebecca, who is the first synth. She 
 is interviewed about her life as a new synth, which she agreed to because of terminal illness. 

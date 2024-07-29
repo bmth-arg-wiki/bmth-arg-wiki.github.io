@@ -1,3 +1,6 @@
+---
+title: "[ost] Dreamseeker"
+---
 # [ost] Dreamseeker
 
 The first song on NexGen, being a short intro that leads into the song 

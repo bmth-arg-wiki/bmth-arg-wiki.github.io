@@ -1,3 +1,6 @@
+---
+title: "Sugar, Honey, Ice & Tea"
+---
 # Sugar, Honey, Ice & Tea
 
 Sugar, Honey, Ice & Tea (or SHIT), is a song from the album [amo](./amo). The music video was 

@@ -1,3 +1,6 @@
+---
+title: "D8 Log Entry Lauren"
+---
 # D8 Log Entry (analysed in simpler English)
 
 Also see [Lauren D8 log](../lauren_d8_log). This document seems to detail the genesis of [E.V.E](../../characters/eve).

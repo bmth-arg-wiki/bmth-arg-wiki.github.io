@@ -1,3 +1,6 @@
+---
+title: "Angeldust"
+---
 # Angeldust
 
 Angeldust appears in the live shows as a 'rotten angel' (as she is described by the artist on 

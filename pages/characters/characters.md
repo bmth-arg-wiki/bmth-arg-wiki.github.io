@@ -1,3 +1,6 @@
+---
+title: "Character Overview"
+---
 # Characters
 
 The following page contains a categorization of the characters in the ARG. It will help you get an overview of the most 
@@ -29,8 +32,7 @@ to view their page:
 | [0014](ren)       | [Ren](ren)             | [Nex Gen](../lore/nex-gen-corporation) employee                          |
 | [0015](iara)      | [Iara](iara)           | [Possible Nex Gen](../lore/nex-gen-corporation) employee                 |
 | [0016](gabriel)   | [Gabriel](gabriel)     | [Archangel](#the-archangels)                                             |
-| [0017](vanth)     | [Vanth](vanth)         | [Omen](omen)                                                             |
-{: .table }
+| [0017](vanth)     | [Vanth](vanth)         | [Omen](#omens)                                                           |
 
 ***
 

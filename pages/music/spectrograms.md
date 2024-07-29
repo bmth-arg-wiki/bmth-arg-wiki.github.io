@@ -1,3 +1,6 @@
+---
+title: "Spectrograms"
+---
 # Spectrograms
 
 In the songs on NexGen, several anomalies can be found in the spectrograms.

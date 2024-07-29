@@ -1,3 +1,6 @@
+---
+title: "Archangel Gabriel"
+---
 # Gabriel
 
 ![Gabriel's avatar](../../Resources/characters/gabriel/gabriel.png)

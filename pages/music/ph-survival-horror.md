@@ -1,4 +1,7 @@
-# POST HUMAN: Survival Horror
+---
+title: "POST HUMAN: SURVIVAL HORROR"
+---
+# POST HUMAN: SURVIVAL HORROR
 
 ![Survival Horror album cover](../../Resources/characters/sof/img.png)
 
@@ -24,6 +27,8 @@ explicitly citing they were all part of a bigger project. We also find reference
 ***
 
 ## Interviews
+
+This section contains snippets of interviews about the album as a whole.
 
 > During this period, he and the rest of the five-piece stayed sane by working remotely on
  ‘Post Human: Survival Horror’, the first in a run of four EPs coming in the next year, 
@@ -60,7 +65,7 @@ Nex Gen.
 ## Speculation
 
 - It is theorized that the girl on the cover of PH:SH (with the pink skin) is Sof 
-from NexGen. The theory is supported by the fact that both characters have a third eye 
+from NEx Gen. The theory is supported by the fact that both characters have a third eye 
 (with Sof's seemingly being sewn shut).
 
 ![Nex Gen album cover with Sof](../../Resources/music/album_cover.png)

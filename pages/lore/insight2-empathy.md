@@ -1,3 +1,6 @@
+---
+title: "Purpose"
+---
 # Insight 2: Empathy
 
 >*Seraphic Expression*

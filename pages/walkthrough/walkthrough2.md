@@ -1,3 +1,6 @@
+---
+title: "Walkthrough page 2"
+---
 # Walkthrough Part 2: FOR SOF
 
 **[← previous](walkthrough)**

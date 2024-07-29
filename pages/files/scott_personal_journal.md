@@ -1,3 +1,6 @@
+---
+title: "Scott's Dear Diary"
+---
 # Scott_Personal_Journal_VSPR-37.doc
 
 Document in the [FOR SOF](for-sof) folder. The document discusses the outbreak of the VSPR-37 

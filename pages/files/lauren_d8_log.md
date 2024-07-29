@@ -1,3 +1,6 @@
+---
+title: "Lauren D8 Log"
+---
 # Lauren_D8_Log_203701.docx
 
 Document in the [FOR SOF](for-sof) folder. The password is [Ren](../characters/ren)'s user number, confirming 

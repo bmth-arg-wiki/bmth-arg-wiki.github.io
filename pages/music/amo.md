@@ -1,6 +1,9 @@
-# Amo
+---
+title: "amo"
+---
+# amo
 
-Amo (2019) is an album about love. The album came out before POST HUMAN: 
+amo (2019) is an album about love. The album came out before POST HUMAN: 
 SURVIVAL HORROR, but has been linked back to the ARG for Nex Gen too.
 
 ***
@@ -21,7 +24,7 @@ SURVIVAL HORROR, but has been linked back to the ARG for Nex Gen too.
 - heavy metal (ft. Rahzel)
 - i don't know what to say
 
-Not all tracks have been linked back to the ARG conclusively, which 
+Not all tracks have been linked back to the ARG, which 
 is why many of these songs are not featured in articles yet.
 
 ***

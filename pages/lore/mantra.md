@@ -1,3 +1,6 @@
+---
+title: "Mantra Cult"
+---
 # Mantra Cult
 
 ![Mantra logo with the phrase "An Invitation to Salvation"](../../Resources/other-webpages/joinmantra.org/20180810062921.png)

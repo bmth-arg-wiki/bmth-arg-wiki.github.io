@@ -1,3 +1,6 @@
+---
+title: "Pickles"
+---
 # Pickles
 
 ![Pickles Avatar](../../Resources/characters/pickles/pickles.png)

@@ -1,4 +1,7 @@
-# Archangel Raphael
+---
+title: "Archangel Raphael"
+---
+# Raphael
 
 Raphael is one of the archangels and is linked to [Insight 1: Connection](../lore/insight1-connection.md).
 

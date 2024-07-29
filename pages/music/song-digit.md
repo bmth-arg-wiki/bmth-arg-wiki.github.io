@@ -1,3 +1,6 @@
+---
+title: "DIg It"
+---
 # DIg It (Song)
 
 DIg It is the final song on the album. It contains dialogue and hints from M8 after a 

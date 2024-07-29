@@ -1,4 +1,9 @@
-# Youtopia
+---
+title: "Youtopia"
+---
+# Youtopia (place)
+
+> You can find the article about the song YOUtopia [here](../music/song-youtopia).
 
 Youtopia is a fictional universe that can be entered using [P.U.S.S-E](../lore/pusse).
 

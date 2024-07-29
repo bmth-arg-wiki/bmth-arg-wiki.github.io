@@ -1,3 +1,6 @@
+---
+title: "Night of Pan"
+---
 # Night of Pan
 
 > "Within the system of Thelema, the Night of Pan, or N.O.X., is a mystical 
