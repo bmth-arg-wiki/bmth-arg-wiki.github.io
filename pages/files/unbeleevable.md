@@ -12,12 +12,16 @@ It is currently unknown whether the Dr. Lee MD from the video is also [Madman](.
 
 ### Email
 
-![E-mail screenshot](../../Resources/files/unbeleevable/NEXGENLEAK1.png)
+![Email screenshot](../../Resources/files/unbeleevable/NEXGENLEAK1.png)
 
 ### Video
 
 The video the email is referring to is a video of Lee speaking about the Mantra
 cult. You can watch the [Unbeleevable video on YouTube](https://youtu.be/fQG3O6avUrw?si=zOYCqH0iVpDiaB2V)
+
+![Community Resource Analog Program](../../Resources/files/unbeleevable/communityresourceanalog.png)
+
+Within the ARG, this is broadcasted by Community Resource Analog Program (CRAP).
 
 ***
 

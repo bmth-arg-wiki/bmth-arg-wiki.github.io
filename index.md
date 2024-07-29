@@ -46,23 +46,22 @@ or the lore will obviously contain many spoilers.
 ### Socials & other sources
 
 Currently the ARG is in active development and many exciting things 
-are happening. While this wiki was created for facts, we also have a [notion site](https://the-secret-tinfoil-society.notion.site/BRING-ME-THE-HORIZON-ARG-6c86ee58ee3b41a6b0c594cf59201d4b?pvs=4)
-holding the theories and secrets of our secret tinfoil society.
+are happening. BMTH also post ARG- and Nex Gen-related posts on their Instagram, 
+Twitter/X, YouTube and Facebook. 
+We include some of these posts in the various articles where relevant.
 
-BMTH also post ARG- and Nex Gen-related posts on their Instagram, Twitter/X, YouTube and Facebook. Some important 
-posts are covered on [the page on social posts](pages/socials/social-posts).
-
-Some [other webpages](pages/other-webpages) have also been linked or are theorised to link to this ARG, 
+Some [other webpages](pages/other-webpages) have also been linked or are theorized to link to this ARG, 
 they are discussed in their own article.
 
 ***
 
 ## Collaborators and conspirators
 
+While this wiki was created for facts,
+we also have a [notion site](https://the-secret-tinfoil-society.notion.site/BRING-ME-THE-HORIZON-ARG-6c86ee58ee3b41a6b0c594cf59201d4b?pvs=4)
+holding our theories and secrets.
+
 Want to get in on the project and lore discussions with our tinfoil society? Let us know in the Discord ARG server or email to 
 [bmthargwiki@gmail.com](mailto:bmthargwiki@gmail.com).
 
-You will need:
-- A GitHub account
-- Any Markdown editor (GitHub stores our files and has an editor)
-- Some knowledge of Markdown that is super easy to pick up.
+[Read more about us 👀](pages/about)
