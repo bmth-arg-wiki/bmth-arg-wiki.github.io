@@ -1,3 +1,18 @@
 title: Bring Me The Horizon ARG Wiki
 description: ALL HAIL NEX GEN
 repository: bmth-arg-wiki/bmth-arg-wiki.github.io
+
+cloudcannon:
+  collections_config:
+    pages:
+      _enabled_editors:
+        - 'content'
+      _source_editor:
+        type: markdown
+      fields:
+        - name: title
+          label: Title
+          type: text
+        - name: content
+          label: Main Content
+          type: markdown
