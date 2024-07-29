@@ -203,7 +203,7 @@ Let's move on with the file actually intended to be next.
 
 - [CAPSLOCK.DOC](../files/capslock_doc)
 
-[⬆️ Quick access](#quick-access)
+[↑️ Quick access](#quick-access)
 
 ***
 

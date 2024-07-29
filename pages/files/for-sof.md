@@ -221,7 +221,7 @@ clive
 </details>
 
 The password refers to [M8](../m8)'s middle name, which is referenced in some lines she says 
-in the sticky notes (TODO: expand on source).
+in the sticky notes.
 
 [Back to all files](#directory-content)
 
