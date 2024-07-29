@@ -9,14 +9,14 @@ Also check out our [page for theories](https://the-secret-tinfoil-society.notion
 ## Developers
 
 * @teapot6162 🐈
-* @linaanna
+* @linaanna 👾
 
 ---
 
 ## Editors
 
 * @alec_baguette 🥖
-* @linaanna
+* @linaanna 👾
 
 ---
 
