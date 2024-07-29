@@ -13,6 +13,13 @@ Also check out our [page for theories](https://the-secret-tinfoil-society.notion
 
 ---
 
+## Writers
+
+* @alec_baguette 🥖
+* @linaanna
+
+---
+
 ## Special Thanks
 
 Special thanks go out to our editors & contributors on Discord 🖤
