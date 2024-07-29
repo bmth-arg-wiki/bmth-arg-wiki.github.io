@@ -29,3 +29,7 @@ Other archangels:
 - [Michael](michael)
 - [Raphael](raphael)
 - [Uriel](uriel)
+
+## More Art
+
+![Gabriel official tour poster](../../Resources/characters/gabriel/poster.jpg)

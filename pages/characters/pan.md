@@ -50,3 +50,5 @@ Other [omens](characters#omens):
 ![Pan's avatar](../../Resources/characters/pan/pan.png)
 
 Pan's old avatar, where his skin does not look pink.
+
+![Official tour poster](../../Resources/characters/pan/poster.jpg)
