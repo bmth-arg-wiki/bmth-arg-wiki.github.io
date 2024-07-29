@@ -12,8 +12,7 @@ It is currently unknown whether the Dr. Lee MD from the video is also [Madman](.
 
 ### Email
 
-![First screenshot of email](../../Resources/files/unbeleevable/NEXGENLEAK1.png)
-![Second screenshot of email](../../Resources/files/unbeleevable/NEXGENLEAK2.png)
+![E-mail screenshot](../../Resources/files/unbeleevable/NEXGENLEAK1.png)
 
 ### Video
 

@@ -10,6 +10,7 @@ being 16 years old at the time of writing.
 
 ## Screenshots
 
+![Front of Selene's Diary](../../Resources/files/selene_diary/diary0.png)
 ![diary1.png](../../Resources/files/selene_diary/diary1.png)
 ![diary2.png](../../Resources/files/selene_diary/diary2.png)
 ![diary3.png](../../Resources/files/selene_diary/diary3.png)

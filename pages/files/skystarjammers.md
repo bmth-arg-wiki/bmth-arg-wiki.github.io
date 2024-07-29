@@ -3,6 +3,8 @@ title: "Skys & the Starjammers Poster"
 ---
 # Sky_&_The_Starjammers.png
 
+> ⚠ This page contains password spoilers.
+
 This file contains a poster of Skys and his band, 'Skys and the Starjammers', 
 with the filename seemingly missing an S in Skys.
 
@@ -17,8 +19,16 @@ with the filename seemingly missing an S in Skys.
 ## Password context
 
 ![nexgendoc.jpg](../../Resources/files/skys_starjammers/nexgendoc.jpg)
+![instagram_solve.jpg](../../Resources/files/skys_starjammers/instagram_solve.jpg)
 
-This document was revealed in an Instagram post. It contains four words and 5 sets of numbers. When you take each individual number to match up a letter, you get the letters needed for the password to this file.
+This document was revealed in an Instagram post. It contains four words and 5 sets of numbers. 
+When you take each individual number to match up a letter, you get the letters needed for the word 
+`INTERCELLULAR`.
+
+![password_placeholder.png](../../Resources/files/skys_starjammers/password_placeholder.png)
+
+You can see 12 lines for characters, since spaces are indicated on screen. Despite this, 
+the password was 13 characters long, causing confusion among the community.
 
 ***
 
