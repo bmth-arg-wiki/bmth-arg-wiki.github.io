@@ -13,7 +13,7 @@ Also check out our [page for theories](https://the-secret-tinfoil-society.notion
 
 ---
 
-## Writers
+## Editors
 
 * @alec_baguette 🥖
 * @linaanna
@@ -22,4 +22,4 @@ Also check out our [page for theories](https://the-secret-tinfoil-society.notion
 
 ## Special Thanks
 
-Special thanks go out to our editors & contributors on Discord 🖤
+Special thanks go out to our members & contributors on Discord 🖤
