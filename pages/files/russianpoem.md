@@ -83,6 +83,7 @@ The shadows behind the numbers seem different, but nothing has resulted from thi
 ***
 
 ## Read more
+
 More from [📁 FOR SOF](./for-sof)
 
 Currently, very little is known about this file. It dropped along with 

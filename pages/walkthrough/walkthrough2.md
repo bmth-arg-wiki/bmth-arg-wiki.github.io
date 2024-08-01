@@ -618,7 +618,6 @@ are circled.
 By switching them around, we can form the password: 'INTERCELLULAR'
 </details>
 
-
 This will give us a poster.
 
 - [Sky_&_The_Starjammers.png](../files/skystarjammers)
@@ -677,6 +676,34 @@ Related characters:
 
 ***
 
+## Rдорогая моя любовь.doc
+
+Also known as the `Russian_Poem.DOC`, which was its original name.
+
+<details>
+<summary>Hint 1</summary>
+
+The password for this document was found on Instagram.
+</details>
+<details>
+<summary>Hint 2</summary>
+
+You are looking for a post with pieces of a letter, that has to be reassembled.
+</details>
+<details>
+<summary>Solution</summary>
+
+This requires the Instagram post where puzzle pieces can be seen. By extracting 
+the pieces from the post, rotating and assembling them, we get the code '7795397'.
+
+</details>
+
+This file gives us a new document, although you might want to read the 
+[translation](../files/russianpoem#translated).
+You can find the assembled password clue [here](#reassembled-letter).
+
+[↑ Quick access](#quick-access)
+
 ## Read More
 
 Sadly, the other passwords are unknown at the time of writing. You can now enjoy the contens 
@@ -700,13 +727,19 @@ This section contains any pictures containing spoilers and is linked where neces
 
 ![Project DUST symbols](../../Resources/socials/project_dust_password_post.png)
 
-[Go back](#jan15_2031_declassified_project-dust-2)
+[Go back to file section](#jan15_2031_declassified_project-dust-2)
 
 ### Tour poster 1
 
 ![Tour poster with hidden section](../../Resources/files/unbeleevable/in_the_forest_tour_poster.png)
 ![object_archangel.png](../../Resources/files/unbeleevable/object_archangel.png)
 
-[Go back](#nex-gen-leak-unbeleevabledoc)
+[Go back to file section](#nex-gen-leak-unbeleevabledoc)
 
-[↑ Quick access](#quick-access)
+## Reassembled letter
+
+![Assembled password clue](../../Resources/files/russian_poem/clue.png)
+
+[Go back to file section](#Rдорогая-моя-любовьdoc)
+
+[↑ Jump to a file](#quick-access)
