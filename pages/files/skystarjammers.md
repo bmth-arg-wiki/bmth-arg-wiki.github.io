@@ -34,5 +34,7 @@ the password was 13 characters long, causing confusion among the community.
 
 ## Read More
 
-- [FOR SOF](for-sof)
-- [MANTRA](../music/amo-mantra)
+More from [📁 FOR SOF](./for-sof)
+
+- [Mantra cult](../lore/mantra)
+- [MANTRA (song)](../music/amo-mantra)

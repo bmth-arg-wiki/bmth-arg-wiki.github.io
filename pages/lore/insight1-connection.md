@@ -100,6 +100,8 @@ An instagram story revealing connection to be the first insight ~6 weeks before 
 
 ## Read More
 
+More from [📁 FOR SOF](../files/for-sof)
+
 Related characters:
 
 - [Raphael](../characters/raphael)

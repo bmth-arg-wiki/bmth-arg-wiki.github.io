@@ -156,6 +156,7 @@ An analysis in simpler English can be found [here](analysis/lauren_d8_log_analys
 
 ## Read More
 
-- [FOR SOF folder](./for-sof)
+More from [📁 FOR SOF](./for-sof)
+
 - [Lauren](../characters/ren)
 - [EVE](../characters/eve)

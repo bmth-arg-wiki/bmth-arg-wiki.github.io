@@ -93,6 +93,8 @@ vision
 
 ## Read More
 
+More from [📁 FOR SOF](../files/for-sof)
+
 Related characters:
 
 - [Uriel](../characters/uriel)

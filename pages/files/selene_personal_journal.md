@@ -71,7 +71,8 @@ That kinda stuck with me…I was thinking about trying my synth joke on him, but
 
 ## Read More
 
-- [FOR SOF folder](./for-sof)
+More from [📁 FOR SOF](./for-sof)
+
 - [Selene](../characters/selene)
 - [Scott](../characters/syko)
 - [Scott's diary](scott_personal_journal)

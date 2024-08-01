@@ -85,6 +85,8 @@ and the symbol for spirit.
 
 ## Read More
 
+More from [📁 FOR SOF](../files/for-sof)
+
 The four insights:
 
 1. [Connection — Air](insight1-connection)

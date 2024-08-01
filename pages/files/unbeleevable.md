@@ -114,11 +114,13 @@ Within the ARG, this is broadcasted by Community Resource Analog Program (CRAP).
 
 ## Read More
 
-- [Mantra](../lore/mantra)
+More from [📁 FOR SOF](./for-sof)
+
+- [Mantra cult](../lore/mantra)
+- [MANTRA (song)](../music/amo-mantra)
 
 Related files:
 
-- [FOR SOF](for-sof)
 - [Operation Trinity](trinity_document)
 - [The Science Study](thesciencestudy)
 - [Sky_&_The_Starjammers.png](skystarjammers)
@@ -127,7 +129,7 @@ Related files:
 
 ## More Screenshots
 
-![doesntknowwhoheis.png](../../Resources/files/unbeleevable/doesntknowwhoheis.png)
+![Screenshot of the man who does not know who he is](../../Resources/files/unbeleevable/doesntknowwhoheis.png)
 
 This man does not know who he is and is being interviewed by Dr. Lee MD. This is Matt Nichols, 
 one of the band members, although it is unknown whether he is also playing [Pickles](../characters/pickles) here.

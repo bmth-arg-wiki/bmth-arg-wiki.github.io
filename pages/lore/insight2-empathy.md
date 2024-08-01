@@ -87,6 +87,8 @@ empathy
 
 ## Read More
 
+More from [📁 FOR SOF](../files/for-sof)
+
 Related characters:
 
 - [Gabriel](../characters/gabriel)

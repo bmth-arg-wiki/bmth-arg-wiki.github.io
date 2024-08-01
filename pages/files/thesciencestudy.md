@@ -161,4 +161,12 @@ it? □
 
 ## Read More
 
-- [FOR SOF folder](./for-sof)
+More from [📁 FOR SOF](./for-sof)
+
+- [Mantra cult](../lore/mantra)
+- [Unbeleevable](unbeleevable)
+
+Related characters:
+
+- [Skys](../characters/skys)
+- [Strassman](../characters/strassman) (through spiritual research)

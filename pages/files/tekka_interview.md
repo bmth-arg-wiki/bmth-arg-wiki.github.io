@@ -81,7 +81,7 @@ Transcription by @alec_baguette on discord)
 
 ## Read More
 
-- [FOR SOF folder](./for-sof)
+More from [📁 FOR SOF](./for-sof)
 
 Related characters:
 

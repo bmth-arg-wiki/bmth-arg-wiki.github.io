@@ -65,6 +65,7 @@ Because unlocking these secrets will be difficult, but learning the truth will b
 
 ## Read More
 
-- [FOR SOF folder](./for-sof)
+More from [📁 FOR SOF](./for-sof)
+
 - [Selene](../characters/selene.md)
 - [Sof](../characters/sof.md)

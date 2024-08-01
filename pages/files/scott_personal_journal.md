@@ -90,13 +90,15 @@ virus…eatin away my humanity. Can feel it.
 > Cant rite anymore…run…
 >
 > It 3:16. Mouth taste like corpse….wait..sum1 knocking on my door…no…it cant be…That face…that tasty face…Tasty…itchy…
+>
+> - Transcription made by @elliecoptaaa on discord
 
-Transcription made by @elliecoptaaa on discord
-```
+***
 
 ## Read More
 
-- [FOR SOF folder](./for-sof)
+More from [📁 FOR SOF](./for-sof)
+
 - [Syko (Oliver Scott Sykes)](../characters/syko)
 - [Selene](../characters/selene)
 - [Selene's personal journal](selene_personal_journal)

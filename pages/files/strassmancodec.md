@@ -58,6 +58,7 @@ This transcription was compiled by users from the BMTH ARG Discord server.
 
 ## Read More
 
-- [FOR SOF](./for-sof)
+More from [📁 FOR SOF](./for-sof)
+
 - [Strassman](../characters/strassman)
 - [E.V.E](../characters/eve)

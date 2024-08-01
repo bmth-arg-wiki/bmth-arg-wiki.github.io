@@ -48,7 +48,7 @@ you to the known information (including password) about the file itself.
 | [SCISTUDYSCAN1999wrist.SCN](thesciencestudy)                                                         | ✔️     | [📁](#SCISTUDYSCAN1999wristSCN)               |
 | [Sky_&_The_Starjammers.png](skystarjammers)                                                          | ✔️     | [📁](#sky__the_starjammerspng)                |
 | [Nex Gen leak 'UNBELEEVABLE'.doc](unbeleevable)                                                      | ✔️     | [📁](#nex-gen-leak-unbeleevabledoc)           |
-| [Russian_poem.DOC](russianpoem)                                                                      | ❌      | [📁](#russian_poemdoc)                        |
+| [дорогая моя любовь.doc (Russian_poem.DOC)](russianpoem)                                             | ✔️     | [📁](#дорогая-моя-любовьdoc)                  |
 | [Selene_Journey_Log_01/midname?.memo](#selene_journey_log_01midnamememo)                             | ❌      | [📁](#placeholders)                           |
 | [Posthuman_Prototype_Alpha.mp3](#posthuman_prototype_alphamp3)                                       | ❌      | [📁](#placeholders)                           |
 | [Kingsl@yer_EncrypMsg.codek](#kingslyer_encrypmsgcodek)                                              | ❌      | [📁](#placeholders)                           |
@@ -81,7 +81,6 @@ you to the known information (including password) about the file itself.
 | [Dreamseeker_Astral_Projection_Simulator.xc](#dreamseeker_astral_projection_simulatorxc)             | ❌      | [📁](#placeholders)                           |
 | [NGX_Pyramid_of_Eternal_Knowledge_Encryption.ncpt](#ngx_pyramid_of_eternal_knowledge_encryptionncpt) | ❌      | [📁](#placeholders)                           |
 | [YOUTOPIA_Initiation.doc](#youtopia_initiationdoc)                                                   | ❌      | [📁](#placeholders)                           |
-{: .table }
 
 This article also contains information on [previous versions](#previous-versions) and the 
 [corrupted files](#corrupt-files).
@@ -381,15 +380,23 @@ Lee Malia is one of the band members, his name is referred to in the filename. H
 the phrase ‘Deep in the forest, the blind one followed her every move’ appears on promotional material. Finally, the 
 name of the actor playing in the[ Dark](../music/amo-in-the-dark) is Forest Whitaker.
 
-[Back to all files](#directory-content)
+[📁 Back to all files](#directory-content)
 
 ***
 
-## Russian_poem.DOC
+## дорогая моя любовь.doc
 
-Password unknown.
+<details class="password">
+<summary>Password</summary>
+7795397
 
-[Back to all files](#directory-content)
+</details>
+
+Also known as `Russian_poem.DOC`, its original name. The password 
+for this was found in an [Instagram post](https://www.instagram.com/p/C-DhcBaC4NP/). 
+You can view the reconstructed password on the [Russian Poem article](russianpoem).
+
+[📁 Back to all files](#directory-content)
 
 ***
 
@@ -397,81 +404,81 @@ Password unknown.
 
 Original name: `Selene_Journey_Log_01.memo`
 
-Password protected with placeholder.
+Password protected with [placeholder](#placeholders).
 
-[Back to all files](#directory-content)
+[📁 Back to all files](#directory-content)
 
 ***
 
 ## Posthuman_Prototype_Alpha.mp3
 
-Password protected with placeholder.
+Password protected with [placeholder](#placeholders).
 
-[Back to all files](#directory-content)
+[📁 Back to all files](#directory-content)
 
 ***
 
 ## Kingsl@yer_EncrypMsg.codek
 
-Password protected with placeholder.
+Password protected with [placeholder](#placeholders).
 
-[Back to all files](#directory-content)
+[📁 Back to all files](#directory-content)
 
 ***
 
 ## YOUTOPIA_Archangels_Secrets.docx
 
-Password protected with placeholder.
+Password protected with [placeholder](#placeholders).
 
-[Back to all files](#directory-content)
+[📁 Back to all files](#directory-content)
 
 ***
 
 ## Ancient_Pyramids_Connection.avi
 
-Password protected with placeholder.
+Password protected with [placeholder](#placeholders).
 
-[Back to all files](#directory-content)
+[📁 Back to all files](#directory-content)
 
 ***
 
 ## M8_Core_Diagnostics.doc
 
-Password protected with placeholder.
+Password protected with [placeholder](#placeholders).
 
-[Back to all files](#directory-content)
+[📁 Back to all files](#directory-content)
 
 ***
 
 ## Strassman.NexGen_Confidential_Memo.doc
 
-Password protected with placeholder.
+Password protected with [placeholder](#placeholders).
 
-[Back to all files](#directory-content)
+[📁 Back to all files](#directory-content)
 
 ***
 
 ## NOX_Pan_Flute_Audio.mp3
 
-Password protected with placeholder.
+Password protected with [placeholder](#placeholders).
 
-[Back to all files](#directory-content)
+[📁 Back to all files](#directory-content)
 
 ***
 
 ## .KNGSLYR_Theories_Collection.pdf
 
-Password protected with placeholder.
+Password protected with [placeholder](#placeholders).
 
-[Back to all files](#directory-content)
+[📁 Back to all files](#directory-content)
 
 ***
 
 ## YOUTOPIA_Artifact_Locations.vis
 
-Password protected with placeholder.
+Password protected with [placeholder](#placeholders).
 
-[Back to all files](#directory-content)
+[📁 Back to all files](#directory-content)
 
 ***
 
@@ -479,9 +486,9 @@ Password protected with placeholder.
 
 Original name: `Book_of_Lies.`
 
-Password protected.
+Password protected with [placeholder](#placeholders).
 
-[Back to all files](#directory-content)
+[📁 Back to all files](#directory-content)
 
 ***
 
@@ -489,9 +496,9 @@ Password protected.
 
 Original name: `PostHuman_evo`
 
-Password protected with placeholder.
+Password protected with [placeholder](#placeholders).
 
-[Back to all files](#directory-content)
+[📁 Back to all files](#directory-content)
 
 ***
 
@@ -499,178 +506,176 @@ Password protected with placeholder.
 
 Original name: `Dreamscape_Do`
 
-Password protected with placeholder.
+Password protected with [placeholder](#placeholders).
 
-[Back to all files](#directory-content)
+[📁 Back to all files](#directory-content)
 
 ***
 
 ## M8_wiFiPAss.doc
 
-Password protected with placeholder.
+Password protected with [placeholder](#placeholders).
 
-[Back to all files](#directory-content)
+[📁 Back to all files](#directory-content)
 
 ***
 
 ## NexGen_Research_Notes.doc
 
-Password protected with placeholder.
+Password protected with [placeholder](#placeholders).
 
-[Back to all files](#directory-content)
+[📁 Back to all files](#directory-content)
 
 ***
 
 ## Eve_Birthright_Explained.mp4
 
-Password protected with placeholder.
+Password protected with [placeholder](#placeholders).
 
-[Back to all files](#directory-content)
+[📁 Back to all files](#directory-content)
 
 ***
 
 ## PH_Experiments_01.doc
 
-Password protected with placeholder.
+Password protected with [placeholder](#placeholders).
 
-[Back to all files](#directory-content)
+[📁 Back to all files](#directory-content)
 
 ***
 
 ## Eve_Hstry.doc
 
-Password protected with placeholder.
+Password protected with [placeholder](#placeholders).
 
-[Back to all files](#directory-content)
+[📁 Back to all files](#directory-content)
 
 ***
 
 ## YOUTOPIA_Portal_Discovery.mp4
 
-Password protected with placeholder.
+Password protected with [placeholder](#placeholders).
 
-[Back to all files](#directory-content)
+[📁 Back to all files](#directory-content)
 
 ***
 
 ## NexGen_Future_Plan.doc
 
-A password-protected file that currently cannot be viewed in the folder, after 
-some alterations were made to the file folder (arrows were removed, scrollbar was added, then 
-scrollbar was removed again). Its status is unknown.
+Password protected with [placeholder](#placeholders).
 
-[Back to all files](#directory-content)
+[📁 Back to all files](#directory-content)
 
 ***
 
 ## Eve_Prophecy_.doc
 
-A password-protected file that currently can not be viewed in the folder.
+Password protected with [placeholder](#placeholders).
 
-[Back to all files](#directory-content)
+[📁 Back to all files](#directory-content)
 
 ***
 
 ## Dreams_01.m
 
-A password-protected file that currently can not be viewed in the folder.
+Password protected with [placeholder](#placeholders).
 
-[Back to all files](#directory-content)
+[📁 Back to all files](#directory-content)
 
 ***
 
 ## NexGen_HighPriority_Memo.doc
 
-A password-protected file that currently can not be viewed in the folder.
+Password protected with [placeholder](#placeholders).
 
-[Back to all files](#directory-content)
+[📁 Back to all files](#directory-content)
 
 ***
 
 ## XG_NG-01_UT_EntrA.ncpt
 
-A password-protected file that currently can not be viewed in the folder.
+Password protected with [placeholder](#placeholders).
 
-[Back to all files](#directory-content)
+[📁 Back to all files](#directory-content)
 
 ***
 
 ## Sentience_Development.doc
 
-A password-protected file that currently can not be viewed in the folder.
+Password protected with [placeholder](#placeholders).
 
-[Back to all files](#directory-content)
+[📁 Back to all files](#directory-content)
 
 ***
 
 ## DkEco_v2.0.corrupt
 
-Password protected (despite name indicating file is corrupt).
-This file currently can not be viewed in the folder.
+Password protected (despite name indicating file is corrupt) with [placeholder](#placeholders)).
 
-[Back to all files](#directory-content)
+[📁 Back to all files](#directory-content)
 
 ***
 
 ## Selene_Vision_Log_04.mp3
 
-A password-protected file that currently can not be viewed in the folder.
+Password protected with [placeholder](#placeholders).
 
-[Back to all files](#directory-content)
+[📁 Back to all files](#directory-content)
 
 ***
 
 ## PostHuman_Archive_02.vid
 
-A password-protected file that currently can not be viewed in the folder.
+Password protected with [placeholder](#placeholders).
 
-[Back to all files](#directory-content)
+[📁 Back to all files](#directory-content)
 
 ***
 
 ## YOUTOPIA_Unlock_Code_for_Empowerment.ncpt
 
-A password-protected file that currently can not be viewed in the folder.
+Password protected with [placeholder](#placeholders).
 
-[Back to all files](#directory-content)
+[📁 Back to all files](#directory-content)
 
 ***
 
 ## Dreamseeker_Astral_Projection_Simulator.xc
 
-A password-protected file that currently can not be viewed in the folder.
+Password protected with [placeholder](#placeholders).
 
-[Back to all files](#directory-content)
+[📁 Back to all files](#directory-content)
 
 ***
 
 ## NGX_Pyramid_of_Eternal_Knowledge_Encryption.ncpt
 
-A password-protected file that currently cannot be viewed in the folder.
+Password protected with [placeholder](#placeholders).
 
-[Back to all files](#directory-content)
+[📁 Back to all files](#directory-content)
 
 ***
 
 ## YOUTOPIA_Initiation.doc
 
-A password-protected file that currently cannot be viewed in the folder.
+Password protected with [placeholder](#placeholders).
 
-[Back to all files](#directory-content)
+[📁 Back to all files](#directory-content)
 
 ***
 
 ## Previous versions
 
-![img.png](../../Resources/files/for-sof-folder.png)
-![img_11.png](../../Resources/files/for-sof-folder2.png)
+![FOR SOF folder initial view](../../Resources/files/for-sof-folder.png)
+![FOR SOF folder scrolled down](../../Resources/files/for-sof-folder2.png)
 
 (Screenshot date: 25/05/2024)
 
 First version of the 'FOR SOF' folder. Additional versions would first introduce a scrollbar, 
-then remove it. Somewhere along the updates some files were lost from the view in the folder.
+then remove it.
+Some files were also temporarily not visible, but this has since been fixed.
 
-[Back to all files](#directory-content)
+[📁 Back to all files](#directory-content)
 
 ***
 
@@ -681,13 +686,14 @@ the corrupted files weren't visible for a while in some later updates.
 They are all labeled `[CORRUPTED]` 
 
 If you click on any of these, M8 will tell you one of the following phrases:
+
 > "This file is F'd up pretty bad. Don't worry, I can fix anything. Just check back later."
 
 > "Hey, I'm working on these. Come back later."
 
 > "Dude, don't you know what corrupted means? Give me some time!"
 
-![img.png](../../Resources/files/corrupted_files.png)
+![Corrupted files screen](../../Resources/files/corrupted_files.png)
 
 After the update on 26/05/2024, corrupted files showed the following screen. In the next version 
 corrupted files could still be scrolled to using the arrow keys, before the corrupted files 
@@ -696,7 +702,7 @@ seemingly disappeared from the folder.
 After the update on 30/05/2024, the corrupted files became visible again, this time 
 with arrows buttons and page numbers 1-5.
 
-[Back to all files](#directory-content)
+[📁 Back to all files](#directory-content)
 
 ***
 

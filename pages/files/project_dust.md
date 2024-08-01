@@ -108,7 +108,8 @@ the official [Kool-Aid](../music/song-koolaid) music video.
 
 ## Read More
 
-- [FOR SOF folder](./for-sof)
+More from [📁 FOR SOF](./for-sof)
+
 - [Nex Gen Corporation](../lore/nex-gen-corporation)
 - [In The Dark & ARC/HIVE](../music/amo-in-the-dark)
 - [Syko](../characters/syko)

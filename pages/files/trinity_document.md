@@ -47,6 +47,8 @@ information that was unknown to the writer of this document.
 
 ## Read More
 
+More from [📁 FOR SOF](./for-sof)
+
 - [Karl Strassman](../characters/strassman)
 - [Karl Strassman & Eve call](strassmancodec)
 - [In the Dark & ARC/HIVE](../music/amo-in-the-dark)
