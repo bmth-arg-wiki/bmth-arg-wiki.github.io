@@ -1,0 +1,12 @@
+Connection yellow
+#f4cb19
+
+Empathy blue
+#258dc6
+
+Purpose red
+#da1f32
+
+Vision green
+#42b64a
+
