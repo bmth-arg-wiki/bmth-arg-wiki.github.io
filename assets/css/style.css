@@ -66,9 +66,8 @@ body {
   font-family: var(--fonttitle), ui-sans-serif, sans-serif;
 }
 
-/* Make sure that body text color is applied even when overridden */
-body, details, summary {
-  color: var(--dark-txt); /* Use your desired readable color */
+body, details, summary {    /* Make sure that body text color is applied even when overridden */
+  color: var(--dark-txt);
   padding-bottom: 0.1em;
 }
 
@@ -95,6 +94,10 @@ hr {
 li {
   color: var(--txt);
   font-size: var(--fontsize4);
+}
+
+input {
+  color: var(--bg-lighter);
 }
 
 .content img {

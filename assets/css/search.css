@@ -1,45 +1,52 @@
-#search-bar {
-    margin: 32px auto;
-    border: 1px solid #ccc;
-    border-radius: 20px;
-    padding: 0 20px;
+.search h1 {
+    font-size: medium;
+}
 
-    & #search {
-        width: calc(100% - 30px);
-        border: none;
-        line-height: 44px;
-        outline: none;
-    }
-    & #search-result {
-        display: none;
-        position: absolute;
-        top: 80px;
-        width: calc(100% - 70px);
-        max-height: 325px;
-        overflow-y: auto;
-        background-color: white;
-        box-shadow: 0 4px 8px 0 #ccc;
-        z-index: 99999;
-        & .result-item {
-            display: block;
-            padding: 8px 16px;
-            text-decoration: none;
-            & .title,
-            .description {
-                width: 100%;
-                white-space: nowrap;
-                overflow: hidden;
-                text-overflow: ellipsis;
-            }
-            & .title {
-                color: #f74094;
-                padding-bottom: 4px;
-                font-size: 16px;
-            }
-            & .description {
-                color: #757575;
-                font-size: 16px;
-            }
-        }
-    }
+a .description {
+    color: var(--txt);
+}
+
+/* Custom styling for the search bar */
+.search-bar {
+    margin-top: 20px;
+}
+
+#search-form {
+    display: flex;
+    align-items: center;
+}
+
+.search {
+    flex: 1;
+    border-radius: 4px 0 0 4px;
+    width: 100%;
+}
+
+#clear-button {
+    border-radius: 0; /* Remove rounded corners */
+    border-left: none; /* Remove border between input and button */
+}
+
+#search-button {
+    background: var(--bg-darker);
+    border-radius: 0 4px 4px 0;
+}
+
+#search-result {
+    margin-top: 10px;
+}
+
+#search-result .result-item {
+    border: 1px solid var(--bg-darker); /* Light border color */
+    background-color: var(--bg-lighter); /* Light background color */
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    display: block;
+    text-decoration: none;
+    color: #363636; /* Dark text color */
+}
+
+#search-result .result-item:hover {
+    background-color: var(--bg-darker); /* Slightly darker background on hover */
 }
