@@ -1,5 +1,6 @@
 ---
 title: "Archangel Uriel"
+category: "characters"
 ---
 # Uriel
 

@@ -1,5 +1,6 @@
 ---
 title: "Pickles"
+category: "characters"
 ---
 # Pickles
 

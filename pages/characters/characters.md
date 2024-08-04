@@ -1,5 +1,7 @@
 ---
 title: "Character Overview"
+category: "characters"
+description: "Overview page with all of the system users and other important characters."
 ---
 # Characters
 

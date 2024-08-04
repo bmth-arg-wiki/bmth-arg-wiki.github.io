@@ -1,5 +1,6 @@
 ---
 title: "Vegan"
+category: "characters"
 ---
 # Vegan
 

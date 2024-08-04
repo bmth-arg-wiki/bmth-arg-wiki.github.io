@@ -1,5 +1,6 @@
 ---
 title: "E.V.E"
+category: "characters"
 ---
 # E.V.E
 

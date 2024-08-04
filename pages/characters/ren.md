@@ -1,5 +1,6 @@
 ---
 title: "Ren/Ikaro"
+category: "characters"
 ---
 # Ren
 

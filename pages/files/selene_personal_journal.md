@@ -1,5 +1,6 @@
 ---
 title: "Selene's Diary"
+category: "files"
 ---
 # Selene_Personal_Journal_2037.02.doc
 

@@ -1,5 +1,6 @@
 ---
 title: "Miseria"
+category: "characters"
 ---
 # Miseria
 

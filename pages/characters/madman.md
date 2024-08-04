@@ -1,5 +1,6 @@
 ---
 title: "Madman"
+category: "characters"
 ---
 # Madman
 

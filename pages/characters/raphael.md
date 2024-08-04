@@ -1,5 +1,6 @@
 ---
 title: "Archangel Raphael"
+category: "characters"
 ---
 # Raphael
 

@@ -1,5 +1,6 @@
 ---
 title: "Skys"
+category: "characters"
 ---
 # Skys
 

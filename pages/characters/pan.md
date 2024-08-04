@@ -1,5 +1,6 @@
 ---
 title: "Pan"
+category: "characters"
 ---
 # Pan
 

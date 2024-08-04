@@ -1,5 +1,6 @@
 ---
 title: "FOR SOF"
+category: "files"
 ---
 # FOR SOF
 

@@ -1,5 +1,6 @@
 ---
 title: "Scott's Dear Diary"
+category: "files"
 ---
 # Scott_Personal_Journal_VSPR-37.doc
 

@@ -1,5 +1,6 @@
 ---
 title: "Project D.U.S.T"
+category: "files"
 ---
 # Project D.U.S.T., P.S.Y & S.Y.K.O.
 

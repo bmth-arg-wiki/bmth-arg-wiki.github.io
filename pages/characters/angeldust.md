@@ -1,5 +1,6 @@
 ---
 title: "Angeldust"
+category: "characters"
 ---
 # Angeldust
 

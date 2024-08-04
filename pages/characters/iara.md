@@ -1,5 +1,6 @@
 ---
 title: "Iara"
+category: "characters"
 ---
 # Iara
 

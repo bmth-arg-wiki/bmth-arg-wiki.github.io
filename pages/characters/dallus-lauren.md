@@ -1,5 +1,6 @@
 ---
 title: "Dallus Lauren"
+category: "characters"
 ---
 # Dallus Lauren
 
