@@ -42,7 +42,7 @@ header .title {
     color: var(--link);
 }
 
-header .subtitle {
+header .subtitle a {
     color: var(--bg-darker);
 }
 
