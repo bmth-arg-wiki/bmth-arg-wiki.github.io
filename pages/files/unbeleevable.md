@@ -1,6 +1,6 @@
 ---
 title: "Unbeleevable leak"
-category: "files"
+categories: ["files"]
 ---
 # Nex Gen leak "UNBELEEVABLE".doc
 

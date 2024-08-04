@@ -1,10 +1,10 @@
 ---
 title: "MANTRA"
-category: "music"
+categories: ["music"]
 ---
 # MANTRA (song)
 
-> This article is about the song MANTRA, not about [the cult](../lore/mantra)
+> 🛈 This article is about the song MANTRA, not about [the cult](../lore/mantra)
 
 Second song from the album "amo".
 It is related to the [Mantra cult](../lore/mantra), which 

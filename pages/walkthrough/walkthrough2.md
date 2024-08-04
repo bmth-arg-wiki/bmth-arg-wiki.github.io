@@ -1,6 +1,6 @@
 ---
 title: "Walkthrough Part 2"
-category: ""
+categories: ["other"]
 ---
 # Walkthrough Part 2: FOR SOF
 

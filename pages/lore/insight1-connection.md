@@ -1,6 +1,6 @@
 ---
 title: "Connection"
-category: "lore"
+categories: ["lore"]
 ---
 # Insight 1: Connection
 

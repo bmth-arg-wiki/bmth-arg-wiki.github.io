@@ -1,6 +1,6 @@
 ---
 title: "Markdown Example"
-category: "tutorial"
+categories: ["tutorial"]
 ---
 # Title
 

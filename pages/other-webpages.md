@@ -1,6 +1,6 @@
 ---
 title: "Other webpages"
-category: "other"
+categories: ["other"]
 ---
 # Other webpages
 

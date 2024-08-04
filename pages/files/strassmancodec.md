@@ -1,6 +1,6 @@
 ---
 title: "Strassman Codec"
-category: "files"
+categories: ["files"]
 ---
 # StrassmanCONFIDENTIALPRT007.CODEC
 

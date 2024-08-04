@@ -1,6 +1,6 @@
 ---
 title: "Iara"
-category: "characters"
+categories: ["characters"]
 ---
 # Iara
 

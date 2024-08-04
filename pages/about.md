@@ -1,7 +1,7 @@
 ---
 title: "About the Tinfoilers 👽"
 description: "This is our about us and credit page."
-category: ""
+categories: ["other"]
 ---
 
 # About 👽

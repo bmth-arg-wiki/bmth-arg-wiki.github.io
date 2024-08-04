@@ -1,6 +1,6 @@
 ---
 title: "D8 Log Entry Lauren"
-category: "file-analysis"
+categories: ["files analysis"]
 ---
 # D8 Log Entry (analysed in simpler English)
 

@@ -1,6 +1,6 @@
 ---
 title: "AmEN!"
-category: "music"
+categories: ["music"]
 ---
 # AmEN! (song)
 

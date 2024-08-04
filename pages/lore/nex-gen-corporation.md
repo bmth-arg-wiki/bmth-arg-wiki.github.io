@@ -1,6 +1,6 @@
 ---
 title: "Nex Gen Corporation"
-category: "lore"
+categories: ["lore"]
 ---
 # Nex Gen Corporation
 

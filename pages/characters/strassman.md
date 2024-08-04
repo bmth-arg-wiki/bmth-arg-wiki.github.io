@@ -1,6 +1,6 @@
 ---
 title: "Karl Strassman"
-category: "characters"
+categories: ["characters"]
 ---
 # Dr. Karl Strassman
 

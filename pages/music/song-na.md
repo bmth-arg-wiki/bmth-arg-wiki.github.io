@@ -1,6 +1,6 @@
 ---
 title: "n/A"
-category: "music"
+categories: ["music"]
 ---
 # n/A (song)
 

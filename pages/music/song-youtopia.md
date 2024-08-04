@@ -1,8 +1,10 @@
 ---
 title: "YOUtopia"
-category: "music"
+categories: ["music"]
 ---
 # YOUtopia (song)
+
+> 🛈 This article is about the song, not the [general concept](../lore/youtopia)
 
 YOUtopia is the second song of the album. It shares a name with the fictional universe of Youtopia, 
 even though the stylization is different.

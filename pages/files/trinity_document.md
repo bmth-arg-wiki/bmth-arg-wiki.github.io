@@ -1,6 +1,6 @@
 ---
 title: "Operation Trinity"
-category: "files"
+categories: ["files"]
 ---
 # Operation_Trinity_Analysis.xslx
 

@@ -1,6 +1,6 @@
 ---
 title: "sTraNgeRs"
-category: "music"
+categories: ["music"]
 ---
 # sTraNgeRs (song)
 

@@ -1,6 +1,6 @@
 ---
 title: "1x1 ft. Nova Twins"
-category: "music"
+categories: ["music"]
 ---
 # 1x1 ft. Nova Twins
 

@@ -1,6 +1,6 @@
 ---
 title: "DArkSide"
-category: "music"
+categories: ["music"]
 ---
 # DArkSide
 

@@ -1,6 +1,6 @@
 ---
 title: "Genesis Storyline"
-category: "lore"
+categories: ["lore"]
 ---
 # Genesis Storyline - Narrative Development
 

@@ -1,6 +1,6 @@
 ---
 title: "The Science Study"
-category: "files"
+categories: ["files"]
 ---
 # SCISTUDYSCAN1999wrist.SCN
 

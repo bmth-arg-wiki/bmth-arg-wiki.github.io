@@ -1,6 +1,6 @@
 ---
 title: "Vanth"
-category: "characters"
+categories: ["characters"]
 ---
 # Vanth
 

@@ -1,6 +1,6 @@
 ---
 title: "Message for Sof"
-category: "files"
+categories: ["files"]
 ---
 # msgforsoff.aiff
 

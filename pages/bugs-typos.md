@@ -1,6 +1,6 @@
 ---
 title: "Bugs & typos"
-category: ""
+categories: ["other"]
 ---
 # Known bugs & typos
 

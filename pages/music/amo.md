@@ -1,6 +1,6 @@
 ---
 title: "amo"
-category: "music"
+categories: ["music"]
 ---
 # amo
 

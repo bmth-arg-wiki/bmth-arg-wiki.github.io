@@ -1,6 +1,6 @@
 ---
 title: "ARC/HIVE"
-category: "file-analysis"
+categories: ["files analysis"]
 ---
 # Trinity members and Arc/Hive
 

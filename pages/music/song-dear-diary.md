@@ -1,6 +1,6 @@
 ---
 title: "itchy, tasty.."
-category: "music"
+categories: ["music"]
 ---
 # Dear Diary,
 

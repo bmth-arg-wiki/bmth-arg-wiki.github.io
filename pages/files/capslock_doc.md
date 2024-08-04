@@ -1,6 +1,6 @@
 ---
 title: "Capslock Doc"
-category: "files"
+categories: ["files"]
 ---
 # Capslock Doc
 

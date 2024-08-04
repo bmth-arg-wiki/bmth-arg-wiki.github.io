@@ -1,6 +1,6 @@
 ---
 title: "Archangel Michael"
-category: "characters"
+categories: ["characters"]
 ---
 # Michael
 

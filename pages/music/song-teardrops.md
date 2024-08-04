@@ -1,6 +1,6 @@
 ---
 title: "Teardrops"
-category: "music"
+categories: ["music"]
 ---
 # Teardrops
 

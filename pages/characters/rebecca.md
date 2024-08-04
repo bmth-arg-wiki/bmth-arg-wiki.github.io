@@ -1,6 +1,6 @@
 ---
 title: "Rebecca the First Synth"
-category: "characters"
+categories: ["characters"]
 ---
 # Rebecca
 

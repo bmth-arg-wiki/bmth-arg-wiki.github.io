@@ -1,6 +1,6 @@
 ---
 title: "Selene's Diary"
-category: "files"
+categories: ["files"]
 ---
 # Selene_Personal_Journal_2037.02.doc
 

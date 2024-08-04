@@ -1,6 +1,6 @@
 ---
 title: "Website Songs"
-category: "music"
+categories: ["music", "webpage"]
 ---
 # Website Songs
 

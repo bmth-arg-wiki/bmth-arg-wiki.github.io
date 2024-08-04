@@ -1,6 +1,6 @@
 ---
 title: "Pan"
-category: "characters"
+categories: ["characters"]
 ---
 # Pan
 

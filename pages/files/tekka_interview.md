@@ -1,6 +1,6 @@
 ---
 title: "Tekka's Synth Interview"
-category: "files"
+categories: ["files"]
 ---
 # ISSUE-51-fromhelltoshell.pdf 1
 

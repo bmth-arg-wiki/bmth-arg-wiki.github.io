@@ -1,6 +1,6 @@
 ---
 title: "Social Media Posts"
-category: "socials"
+categories: ["socials", "archived"]
 ---
 # Social Media Posts
 

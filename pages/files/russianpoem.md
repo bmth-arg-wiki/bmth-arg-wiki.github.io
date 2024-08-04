@@ -1,6 +1,6 @@
 ---
 title: "Russian Poem"
-category: "files"
+categories: ["files"]
 ---
 # дорогая моя любовь.doc (Russian_poem.DOC)
 

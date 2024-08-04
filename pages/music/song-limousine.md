@@ -1,6 +1,6 @@
 ---
 title: "liMOusIne"
-category: "music"
+categories: ["music"]
 ---
 # liMOusIne
 

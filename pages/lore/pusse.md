@@ -1,6 +1,6 @@
 ---
 title: "P.U.S.S-E"
-category: "lore"
+categories: ["lore"]
 ---
 # P.U.S.S-E
 

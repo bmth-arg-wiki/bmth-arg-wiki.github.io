@@ -1,6 +1,6 @@
 ---
 title: "[ost] Dreamseeker"
-category: "music"
+categories: ["music"]
 ---
 # [ost] Dreamseeker
 

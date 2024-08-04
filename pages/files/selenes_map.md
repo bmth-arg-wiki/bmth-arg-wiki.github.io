@@ -1,6 +1,6 @@
 ---
 title: "Selene's Youtopia Map"
-category: "files"
+categories: ["files"]
 ---
 # YOUTOPIA_selenes_map.vis
 

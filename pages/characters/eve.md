@@ -1,6 +1,6 @@
 ---
 title: "E.V.E"
-category: "characters"
+categories: ["characters"]
 ---
 # E.V.E
 

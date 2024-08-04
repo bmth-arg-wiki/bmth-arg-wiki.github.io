@@ -1,6 +1,6 @@
 ---
 title: "Madman"
-category: "characters"
+categories: ["characters"]
 ---
 # Madman
 

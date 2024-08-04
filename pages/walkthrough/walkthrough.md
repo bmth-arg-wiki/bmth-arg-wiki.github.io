@@ -1,6 +1,6 @@
 ---
 title: "Walkthrough Part 1"
-category: ""
+categories: ["other"]
 ---
 # Walkthrough Part 1: the Website
 

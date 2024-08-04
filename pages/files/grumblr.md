@@ -1,6 +1,6 @@
 ---
 title: "Grumblr.html"
-category: "files"
+categories: ["files"]
 ---
 
 # Grumblr.HTML

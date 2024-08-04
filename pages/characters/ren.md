@@ -1,6 +1,6 @@
 ---
 title: "Ren/Ikaro"
-category: "characters"
+categories: ["characters"]
 ---
 # Ren
 

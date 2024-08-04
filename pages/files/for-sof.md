@@ -1,6 +1,6 @@
 ---
 title: "FOR SOF"
-category: "files"
+categories: ["files"]
 ---
 # FOR SOF
 

@@ -1,6 +1,6 @@
 ---
 title: "Kingslayer & Itch"
-category: "music"
+categories: ["music"]
 ---
 # Itch For the Cure (When Will We Be Free) & Kingslayer
 

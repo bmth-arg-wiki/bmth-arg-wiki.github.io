@@ -1,6 +1,6 @@
 ---
 title: "Archangel Uriel"
-category: "characters"
+categories: ["characters"]
 ---
 # Uriel
 

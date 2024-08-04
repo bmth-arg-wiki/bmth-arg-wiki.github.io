@@ -1,6 +1,6 @@
 ---
 title: "Dreadit Post"
-category: "files"
+categories: ["files"]
 ---
 # DREADITScreenshot 2051.1.5.59.43.vis
 

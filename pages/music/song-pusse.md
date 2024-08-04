@@ -1,6 +1,6 @@
 ---
 title: "[ost] p.u.s.s-e"
-category: "music"
+categories: ["music"]
 ---
 # [ost] p.u.s.s-e (song)
 

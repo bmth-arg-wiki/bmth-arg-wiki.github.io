@@ -1,6 +1,6 @@
 ---
 title: "Nihilist Blues"
-category: "music"
+categories: ["music"]
 ---
 # Nihilist Blues
 

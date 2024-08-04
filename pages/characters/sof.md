@@ -1,6 +1,6 @@
 ---
 title: "SOF"
-category: "characters"
+categories: ["characters"]
 ---
 # SOF
 

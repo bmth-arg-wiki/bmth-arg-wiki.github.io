@@ -1,6 +1,6 @@
 ---
 title: "DiE4u"
-category: "music"
+categories: ["music"]
 ---
 # DiE4u (song)
 

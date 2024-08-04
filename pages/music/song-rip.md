@@ -1,6 +1,6 @@
 ---
 title: "R.i.p (duskCOre RemIx)"
-category: "music"
+categories: ["music"]
 ---
 # R.i.p (duskCOre RemIx)
 

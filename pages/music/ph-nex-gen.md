@@ -1,6 +1,6 @@
 ---
 title: "POST HUMAN: NeX GEn"
-category: "music"
+categories: ["music"]
 ---
 # POST HUMAN: NeX GEn
 

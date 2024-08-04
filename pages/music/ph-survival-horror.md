@@ -1,6 +1,6 @@
 ---
 title: "POST HUMAN: SURVIVAL HORROR"
-category: "music"
+categories: ["music"]
 ---
 # POST HUMAN: SURVIVAL HORROR
 

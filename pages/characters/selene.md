@@ -1,6 +1,6 @@
 ---
 title: "Selene"
-category: "characters"
+categories: ["characters"]
 ---
 # Selene
 

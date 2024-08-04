@@ -1,6 +1,6 @@
 ---
 title: "Kngsl@yer_EncrypMsg.codek"
-category: "files"
+categories: ["files"]
 ---
 
 # Kngsl@yer_EncrypMsg.codek

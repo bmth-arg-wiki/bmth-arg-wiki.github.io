@@ -1,6 +1,6 @@
 ---
 title: "Spyder"
-category: "other"
+categories: ["webpage"]
 ---
 # Web Browser - Spyder
 

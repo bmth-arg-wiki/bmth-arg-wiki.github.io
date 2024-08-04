@@ -1,6 +1,6 @@
 ---
 title: "ARC/HIVE"
-category: "lore"
+categories: ["lore"]
 ---
 # ARC/HIVE
 

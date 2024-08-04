@@ -1,6 +1,6 @@
 ---
 title: "Syko"
-category: "characters"
+categories: ["characters"]
 ---
 # Syko
 

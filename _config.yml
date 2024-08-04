@@ -13,6 +13,9 @@ cloudcannon:
         - name: title
           label: Title
           type: text
+        - name: description
+          label: Description
+          type: text
         - name: content
           label: Main Content
           type: markdown

@@ -1,6 +1,6 @@
 ---
 title: "Purpose"
-category: "lore"
+categories: ["lore"]
 ---
 # Insight 2: Empathy
 

@@ -1,6 +1,6 @@
 ---
 title: "Skys & the Starjammers Poster"
-category: "files"
+categories: ["files"]
 ---
 # Sky_&_The_Starjammers.png
 

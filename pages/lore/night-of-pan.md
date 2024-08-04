@@ -1,6 +1,6 @@
 ---
 title: "Night of Pan"
-category: "lore"
+categories: ["lore"]
 ---
 # Night of Pan
 

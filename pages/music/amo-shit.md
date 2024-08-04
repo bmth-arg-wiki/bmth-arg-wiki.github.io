@@ -1,6 +1,6 @@
 ---
 title: "Sugar, Honey, Ice & Tea"
-category: "music"
+categories: ["music"]
 ---
 # Sugar, Honey, Ice & Tea
 

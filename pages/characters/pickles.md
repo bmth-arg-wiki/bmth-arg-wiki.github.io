@@ -1,6 +1,6 @@
 ---
 title: "Pickles"
-category: "characters"
+categories: ["characters"]
 ---
 # Pickles
 

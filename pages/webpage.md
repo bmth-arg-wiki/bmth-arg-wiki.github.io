@@ -1,6 +1,6 @@
 ---
 title: "Multidimensional Navigator 8 Webpage"
-category: "other"
+categories: ["webpage"]
 ---
 # Multidimensional Navigator 8 Webpage
 

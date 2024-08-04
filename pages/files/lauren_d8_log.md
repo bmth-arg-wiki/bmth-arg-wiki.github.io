@@ -1,6 +1,6 @@
 ---
 title: "Lauren D8 Log"
-category: "files"
+categories: ["files"]
 ---
 # Lauren_D8_Log_203701.docx
 
