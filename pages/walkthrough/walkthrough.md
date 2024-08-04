@@ -1,5 +1,6 @@
 ---
-title: "Walkthrough page 1"
+title: "Walkthrough Part 1"
+category: ""
 ---
 # Walkthrough Part 1: the Website
 

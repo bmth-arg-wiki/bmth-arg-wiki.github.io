@@ -1,5 +1,6 @@
 ---
-title: Downloadfest
+title: "Downloadfest"
+category: "lore"
 ---
 # Downloadfest
 

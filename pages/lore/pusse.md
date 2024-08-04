@@ -1,5 +1,6 @@
 ---
 title: "P.U.S.S-E"
+category: "lore"
 ---
 # P.U.S.S-E
 

@@ -1,5 +1,6 @@
 ---
 title: "Church of Genxsis"
+category: "lore"
 ---
 # Church of Genesis/Genxsis
 

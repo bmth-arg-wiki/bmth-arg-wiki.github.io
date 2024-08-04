@@ -1,5 +1,6 @@
 ---
-title: "Walkthrough page 2"
+title: "Walkthrough Part 2"
+category: ""
 ---
 # Walkthrough Part 2: FOR SOF
 

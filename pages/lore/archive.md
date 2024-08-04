@@ -1,5 +1,6 @@
 ---
 title: "ARC/HIVE"
+category: "lore"
 ---
 # ARC/HIVE
 

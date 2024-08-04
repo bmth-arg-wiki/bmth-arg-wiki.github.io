@@ -1,5 +1,6 @@
 ---
 title: "YOUtopia"
+category: "music"
 ---
 # YOUtopia (song)
 

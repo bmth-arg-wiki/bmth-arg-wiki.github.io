@@ -1,5 +1,6 @@
 ---
 title: "Vision"
+category: "lore"
 ---
 # Insight 4: Vision
 

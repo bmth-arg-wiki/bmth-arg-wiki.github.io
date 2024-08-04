@@ -1,5 +1,6 @@
 ---
 title: "Kool-Aid"
+category: "music"
 ---
 # Kool-Aid (song)
 

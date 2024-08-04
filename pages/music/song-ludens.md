@@ -1,5 +1,6 @@
 ---
 title: "Ludens"
+category: "music"
 ---
 # Ludens
 

@@ -1,5 +1,6 @@
 ---
 title: "Parasite Eve"
+category: "music"
 ---
 # Parasite Eve
 

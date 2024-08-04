@@ -1,5 +1,6 @@
 ---
 title: "Spectrograms"
+category: "music"
 ---
 # Spectrograms
 

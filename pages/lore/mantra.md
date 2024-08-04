@@ -1,5 +1,6 @@
 ---
 title: "Mantra Cult"
+category: "lore"
 ---
 # Mantra Cult
 

@@ -1,5 +1,6 @@
 ---
 title: "Genesis Storyline"
+category: "lore"
 ---
 # Genesis Storyline - Narrative Development
 

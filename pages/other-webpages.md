@@ -1,5 +1,6 @@
 ---
 title: "Other webpages"
+category: "other"
 ---
 # Other webpages
 

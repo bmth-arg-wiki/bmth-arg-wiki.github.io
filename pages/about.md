@@ -1,3 +1,9 @@
+---
+title: "About the Tinfoilers 👽"
+description: "This is our about us and credit page."
+category: ""
+---
+
 # About 👽
 
 The Tinfoil Society is a community of Bring Me The Horizon fans who are working on the ARG together.  Together we theorise and work on cool projects!

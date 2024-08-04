@@ -1,5 +1,6 @@
 ---
 title: "Top 10 staTues tHat CriEd bloOd"
+category: "music"
 ---
 # Top 10 staTues tHat CriEd bloOd (song)
 

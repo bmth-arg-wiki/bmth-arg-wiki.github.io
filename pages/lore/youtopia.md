@@ -1,5 +1,8 @@
 ---
 title: "Youtopia"
+category: "lore"
+description: "Youtopia is a state of mind that can be achieved through the Dreamseeker and potentially through 
+spiritual practices. P.U.S.S-E can be used to aid in this goal."
 ---
 # Youtopia (place)
 

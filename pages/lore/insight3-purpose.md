@@ -1,5 +1,6 @@
 ---
 title: "Purpose"
+category: "lore"
 ---
 # Insight 3: Purpose
 

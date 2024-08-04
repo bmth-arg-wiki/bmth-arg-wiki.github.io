@@ -1,5 +1,6 @@
 ---
 title: "Bugs & typos"
+category: ""
 ---
 # Known bugs & typos
 

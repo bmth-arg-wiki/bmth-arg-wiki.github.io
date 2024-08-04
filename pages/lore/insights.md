@@ -1,5 +1,6 @@
 ---
 title: "The Four Insights"
+category: "lore"
 ---
 # The Four Insights
 

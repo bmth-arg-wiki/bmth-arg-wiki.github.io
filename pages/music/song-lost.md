@@ -1,5 +1,6 @@
 ---
 title: "LosT"
+category: "music"
 ---
 #  LosT
 

@@ -1,5 +1,6 @@
 ---
 title: "Social Media Posts"
+category: "socials"
 ---
 # Social Media Posts
 

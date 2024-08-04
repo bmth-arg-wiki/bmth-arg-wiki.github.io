@@ -1,5 +1,6 @@
 ---
 title: "In the Dark"
+category: "music"
 ---
 # In the Dark
 

@@ -1,5 +1,6 @@
 ---
 title: "amo"
+category: "music"
 ---
 # amo
 

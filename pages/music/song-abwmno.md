@@ -1,5 +1,6 @@
 ---
 title: "a bulleT w/my namE On"
+category: "music"
 ---
 # a bulleT w/my namE On
 

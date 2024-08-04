@@ -1,5 +1,6 @@
 ---
 title: "[ost] (spi)ritual"
+category: "music"
 ---
 # [ost] (spi)ritual
 

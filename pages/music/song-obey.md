@@ -1,5 +1,6 @@
 ---
 title: "OBEY ft. YUNGBLUD"
+category: "music"
 ---
 # Obey ft. Yungblud
 

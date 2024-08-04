@@ -1,5 +1,6 @@
 ---
 title: "Spyder"
+category: "other"
 ---
 # Web Browser - Spyder
 

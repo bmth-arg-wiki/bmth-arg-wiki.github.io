@@ -1,5 +1,6 @@
 ---
 title: "DIg It"
+category: "music"
 ---
 # DIg It (Song)
 

@@ -1,5 +1,6 @@
 ---
 title: "MANTRA"
+category: "music"
 ---
 # MANTRA (song)
 
