@@ -14,7 +14,8 @@ The Kingslayer file has not been cracked yet. It requires two steps:
 
 ## The Puzzle
 
-> 🛈 This puzzle is very time-consuming and only allows you to input a password within 30 seconds.
+> 🛈 This puzzle is very time-consuming, and the password screen only allows you 30 
+> seconds to try a password after you click check.
 
 ![Solution to the wire puzzle](../../Resources/files/kingslayer_codek/puzzle.png)
 
