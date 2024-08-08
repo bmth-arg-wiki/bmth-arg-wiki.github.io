@@ -13,13 +13,11 @@ then the document was declassified by Nex Gen exactly 10 years later.
 
 ## Document contents
 
-<details class="password">
-  <summary>Password</summary>
+Password:
 
 ![password](../../Resources/files/project_dust/dust-password.png)
-
 The last two sigils are switched around.
-</details>
+
 
 ![Project DUST folder cover](../../Resources/files/project_dust/projectdust2.png)
 ![Project DUST page 1](../../Resources/files/project_dust/dust1.png)
