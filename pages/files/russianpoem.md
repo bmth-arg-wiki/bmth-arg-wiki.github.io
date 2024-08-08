@@ -1,22 +1,30 @@
 ---
 title: "Russian Poem"
 categories: ["files"]
+description: "russiam poem skys mantra"
 ---
-# дорогая моя любовь.doc (Russian_poem.DOC)
+# дорогая моя любовь.doc
+
+> 🛈 Used to be called Russian_poem.doc
 
 > "In the silence of the palace,
 > a moonbeam shines through the windows"
 
 This file was unlocked on the 30th of June 2024, after being released 
 on the 7th of June.
-The document was called `Russian_poem.DOC` on release and was changed to
-`дорогая моя любовь.doc`, which translates roughly to "my dear love".
+"дорогая моя любовь" roughly translates to "my dear love".
 
 The password was found in an Instagram post.
 
 ***
 
 ## Document Content
+
+<details class="password">
+  <summary>Password</summary>
+
+14012
+</details>
 
 ![The Russian Poem letter](../../Resources/files/russian_poem/russian_poem.png)
 
@@ -41,8 +49,6 @@ Also see the [translation to English](#translated).
 > Но знак тебе дарю, хочешь увидеть меня, найди меня на улице.  Твой взгляд в толпе, мое сердце помнить не может.
 >
 > Твой образ - мой ночной свет. Читай мой тайный друг, в этих стихах любовь и тайна живут
-> 
-> - Transcript by @dgeneresqueen on Discord
 
 ### Translated
 
@@ -67,12 +73,12 @@ Also see the [translation to English](#translated).
 >
 > Your image is my night light.
 > Read my secret friend, in these verses love and mystery live.
-> 
-> - Transcript & translation by @dgeneresqueen on Discord
+
+(Transcription and translation by @dgeneresqueen on Discord)
 
 ***
 
-## Password
+## Password context
 
 The password was found by taking multiple pieces of a letter from an 
 [Instagram post](https://www.instagram.com/p/C-DhcBaC4NP/) and combining them to form the code.
@@ -91,4 +97,3 @@ Currently, very little is known about this file. It dropped along with
 [Skys & the Starjammers poster](skystarjammers) and the [Unbeleevable video](unbeleevable). 
 It could be related to character [Skys](../characters/skys) due to the S on the 
 letter, but nothing has been confirmed.
-
