@@ -1,6 +1,7 @@
 ---
 title: "Purpose"
 categories: ["lore"]
+description: "insights empathy youtopia for sof"
 ---
 # Insight 2: Empathy
 
@@ -32,7 +33,7 @@ Insight 2 is also associated with [Madman](../characters/madman).
 
 ***
 
-## Document in FOR SOF
+## Document contents
 
 <details class="password">
   <summary>Password</summary>
