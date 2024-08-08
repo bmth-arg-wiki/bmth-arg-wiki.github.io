@@ -1,6 +1,7 @@
 ---
 title: "Tekka's Synth Interview"
 categories: ["files"]
+description: "rebecca sinclair arc/hive tekka interview youtopia nex gen synths"
 ---
 # ISSUE-51-fromhelltoshell.pdf 1
 
@@ -10,11 +11,21 @@ Interviewer Jax Jackson also ask her about Victor Carmine and her possible invol
 [Operation Trinity](trinity_document), Mantra and Arc/Hive, where she used to be a lab tech. 
 She does not seem to want to talk about this, shutting the interviewer down instead.
 
+***
+
 ## Document contents
+
+<details class="password">
+  <summary>Password</summary>
+
+arc/hive
+</details>
 
 ![tekka-solve.png](../../Resources/files/tekka/tekka-solve.png)
 ![tekka_cover.png](../../Resources/files/tekka/tekka_cover.png)
 ![tekka_interview.png](../../Resources/files/tekka/tekka_interview.png)
+
+***
 
 ## Transcription
 
@@ -76,7 +87,7 @@ She does not seem to want to talk about this, shutting the interviewer down inst
 >
 > JAXON: Fair enough. But what about those rumors about extreme experiments and human suffering? What’s really going on behind the scenes?...
 
-Transcription by @alec_baguette on discord)
+(Transcription by alec)
 
 ***
 
@@ -86,7 +97,7 @@ More from [📁 FOR SOF](./for-sof)
 
 Related characters:
 
-- [Characters](../characters/characters)
 - [Rebecca](../characters/rebecca)
 - [Dallus Lauren](../characters/dallus-lauren)
 - [Karl Strassman](../characters/strassman)
+- [Victor Carmine](../characters/characters)

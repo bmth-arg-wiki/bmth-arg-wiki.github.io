@@ -145,6 +145,8 @@ From Discord user @Explo1t.
 
 More from [📁 FOR SOF](./for-sof)
 
+Related articles:
+
 - [Nex Gen](../lore/nex-gen-corporation)
 
 Related characters:

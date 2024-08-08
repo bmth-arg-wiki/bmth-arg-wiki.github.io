@@ -1,8 +1,9 @@
 ---
 title: "Project D.U.S.T"
 categories: ["files"]
+description: "skys mantra trinity victor carmine arc/hive dust psy syko scott dallus lauren"
 ---
-# Project D.U.S.T., P.S.Y & S.Y.K.O.
+# Jan15_2031_declassified_PROJECT D.U.S.T. 2
 
 This file contains a research proposal from [ARC/HIVE](../music/amo-in-the-dark) 
 for several projects. The initial proposal was finished or sent on the 15th of January 2021, 
@@ -11,6 +12,12 @@ then the document was declassified by Nex Gen exactly 10 years later.
 ***
 
 ## Document contents
+
+Password:
+
+![password](../../Resources/files/project_dust/dust-password.png)
+The last two sigils are switched around.
+
 
 ![Project DUST folder cover](../../Resources/files/project_dust/projectdust2.png)
 ![Project DUST page 1](../../Resources/files/project_dust/dust1.png)
@@ -95,6 +102,8 @@ then the document was declassified by Nex Gen exactly 10 years later.
 > National Security Information  
 > Unauthorized Disclosure Subject to Severe Sanction
 
+(Transcription by Alec)
+
 ***
 
 ## Speculation
@@ -111,6 +120,10 @@ the official [Kool-Aid](../music/song-koolaid) music video.
 
 More from [📁 FOR SOF](./for-sof)
 
+Related articles:
+
 - [Nex Gen Corporation](../lore/nex-gen-corporation)
 - [In The Dark & ARC/HIVE](../music/amo-in-the-dark)
+
+Related characters:
 - [Syko](../characters/syko)

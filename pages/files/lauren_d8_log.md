@@ -1,6 +1,7 @@
 ---
 title: "Lauren D8 Log"
 categories: ["files"]
+description: "lauren dallus ren arc/hive eve d8"
 ---
 # Lauren_D8_Log_203701.docx
 
@@ -9,7 +10,13 @@ that the doctor is in fact Ren. The document itself also supports this.
 
 ***
 
-## Screenshots
+## Document contents
+
+<details class="password">
+  <summary>Password</summary>
+
+0015
+</details>
 
 An analysis in simpler English can be found [here](analysis/lauren_d8_log_analysis.md).
 
@@ -166,6 +173,11 @@ An analysis in simpler English can be found [here](analysis/lauren_d8_log_analys
 ## Read More
 
 More from [📁 FOR SOF](./for-sof)
+Related articles:
+
+- [ARC/HIVE](../lore/archive)
+
+Related Characters:
 
 - [Lauren](../characters/ren)
 - [EVE](../characters/eve)
