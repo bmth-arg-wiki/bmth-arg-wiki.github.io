@@ -3,7 +3,7 @@ title: "Project D.U.S.T"
 categories: ["files"]
 description: "skys mantra trinity victor carmine arc/hive dust psy syko scott dallus lauren"
 ---
-# Project D.U.S.T., P.S.Y & S.Y.K.O.
+# Jan15_2031_declassified_PROJECT D.U.S.T. 2
 
 This file contains a research proposal from [ARC/HIVE](../music/amo-in-the-dark) 
 for several projects. The initial proposal was finished or sent on the 15th of January 2021, 
@@ -16,7 +16,8 @@ then the document was declassified by Nex Gen exactly 10 years later.
 <details class="password">
   <summary>Password</summary>
 
-![password](../../Resources/files/project_dust/dust-password.png)
+![](../../Resources/files/project_dust/dust-password.png)
+
 The last two sigils are switched around.
 </details>
 
