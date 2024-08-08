@@ -42,7 +42,7 @@ knife hammer poison rope
 >
 > The Divided Territories of Colombia report that they have initiated 
 > a covert mission called Operation Trinity to extract key figures 
-> Novosovia. The main targets of Operation Trinity are Skais [Skys](../characters/skys), 
+> Novosovia. The main targets of Operation Trinity are Skais ([Skys](../characters/skys)), 
 > [Dr. Dallus Lauren](../characters/dallus-lauren), and [Dr. Karl Strassman](../characters/strassman).
 > 
 > It is believed that ARC/HIVE recognizes the potential of their research
