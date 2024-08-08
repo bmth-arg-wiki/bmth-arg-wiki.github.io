@@ -1,7 +1,7 @@
 ---
 title: "Selene's Diary"
 categories: ["files"]
-description: "selene vspr scott youtopia synths"
+description: "selene vspr scott youtopia synths diary"
 ---
 # Selene_Personal_Journal_2037.02.doc
 
