@@ -1,8 +1,16 @@
 ---
 title: "Dreadit Post"
 categories: ["files"]
+description: "dreadit nex gen youtopia for sof karl strassman"
 ---
 # DREADITScreenshot 2051.1.5.59.43.vis
+
+This file seems to be a forum post and first appeared in a website update on 28/05/2024. 
+The password was discovered in the URL that appeared in [the Spyder web browser](../webbrowser).
+
+***
+
+## Document contents
 
 <details class="password">
 <summary>Password</summary> 
@@ -11,21 +19,13 @@ categories: ["files"]
 </details>
 
 ![Password screen Dreadit](../../Resources/files/dreadit/dreadit_pass.png)
-
-This file seems to be a forum post and first appeared in a website update on 28/05/2024. 
-The password was discovered in the URL that appeared in [the Spyder web browser](../webbrowser).
-
-***
-
-## Screenshots
-
 ![Dreadit screenshot 1](../../Resources/files/dreadit/dreadit1.png)
 ![Dreadit screenshot 2](../../Resources/files/dreadit/dreadit2.png)
 ![Dreadit screenshot 3](../../Resources/files/dreadit/dreadit3.png)
 
 ***
 
-## Transcript
+## Transcription
 
 > LONG_AGO_ENGINE_ARCHIVE_CAPTURE (MARCH_26_2052): DREADIT.NXGN/ 
 >
@@ -146,5 +146,8 @@ From Discord user @Explo1t.
 More from [📁 FOR SOF](./for-sof)
 
 - [Nex Gen](../lore/nex-gen-corporation)
+
+Related characters:
+
 - [Karl Strassman](../characters/strassman)
 - [Selene](../characters/selene)
