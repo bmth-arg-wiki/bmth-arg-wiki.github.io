@@ -1,21 +1,29 @@
 ---
 title: "Strassman Codec"
 categories: ["files"]
+description: "strassman eve youtopia for sof karl"
 ---
 # StrassmanCONFIDENTIALPRT007.CODEC
 
 A document in the [FOR SOF](for-sof) folder. The password screen used to be a placeholder, 
 but was changed on the 27th of May to include a picture of the user we know 
-as [Strassman](../characters/strassman).
-
-![img.png](../../Resources/files/strassman-pass-screen.png)
-
-The password to this file was found to be `karl strassman`, his full name, 
-which was found in reversed audio from [a bulleT w/my namE On](../music/song-abwmno).
+as [Strassman](../characters/strassman). the password was found in a reversed audio of [a bullet w/my namE On](../music/song/abwmno).
 
 ***
 
-## Transcript
+## Document contents
+
+<details class="password">
+  <summary>Password</summary>
+
+karl strassman
+</details>
+
+![img.png](../../Resources/files/strassman-pass-screen.png)
+
+***
+
+## Transcription
 
 This transcription was compiled by users from the BMTH ARG Discord server.
 
@@ -60,6 +68,8 @@ This transcription was compiled by users from the BMTH ARG Discord server.
 ## Read More
 
 More from [📁 FOR SOF](./for-sof)
+
+Related Characters:
 
 - [Strassman](../characters/strassman)
 - [E.V.E](../characters/eve)
