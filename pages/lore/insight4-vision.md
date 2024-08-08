@@ -36,7 +36,7 @@ Insight 4 is also associated with [Vegan](../characters/vegan.md).
 
 ***
 
-## Document in FOR SOF
+## Document contents
 
 <details class="password">
   <summary>Password</summary>
@@ -101,7 +101,7 @@ Related characters:
 - [Uriel](../characters/uriel)
 - [Vegan](../characters/vegan)
 
-The other insights:
+Other insights:
 
 - [The Insights](insights)
 - [Insight 1: Connection](insight1-connection)
