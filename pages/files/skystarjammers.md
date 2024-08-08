@@ -36,6 +36,7 @@ INTERCELLULAR
 > OCTOBER PALACE
 
 (Transcription by Alec)
+
 ***
 
 ## Password context
