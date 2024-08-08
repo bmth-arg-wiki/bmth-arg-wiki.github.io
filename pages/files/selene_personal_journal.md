@@ -1,6 +1,7 @@
 ---
 title: "Selene's Diary"
 categories: ["files"]
+description: "selene vspr scott youtopia synths"
 ---
 # Selene_Personal_Journal_2037.02.doc
 
@@ -9,7 +10,13 @@ being 16 years old at the time of writing.
 
 ***
 
-## Screenshots
+## Document contents
+
+<details class="password">
+  <summary>Password</summary>
+
+0003
+</details>
 
 ![See the section transcription!](../../Resources/files/selene_diary/0.jpg)
 ![](../../Resources/files/selene_diary/1.jpg)
@@ -78,6 +85,11 @@ That kinda stuck with me…I was thinking about trying my synth joke on him, but
 
 More from [📁 FOR SOF](./for-sof)
 
+Related articles:
+
+- [Scott's diary](scott_personal_journal)
+
+Related characters:
+
 - [Selene](../characters/selene)
 - [Scott](../characters/syko)
-- [Scott's diary](scott_personal_journal)
