@@ -23,7 +23,7 @@ The password was found in an Instagram post.
 <details class="password">
   <summary>Password</summary>
 
-14012
+7795397
 </details>
 
 ![The Russian Poem letter](../../Resources/files/russian_poem/russian_poem.png)
