@@ -105,12 +105,12 @@ It’s official. I’ve got the big C. CERS. Chronic Environmental Respiratory S
 
 More from [📁 FOR SOF](./for-sof)
 
+Related articles:
+
+- [ARC/HIVE](../lore/archive)
+
 Related characters:
 
 - [Rebecca](../characters/rebecca)
 - [Iara](../characters/iara)
 - [Dallus Lauren](../characters/dallus-lauren)
-
-Related articles:
-
-- [ARC/HIVE](../lore/archive)
