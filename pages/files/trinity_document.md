@@ -1,11 +1,22 @@
 ---
 title: "Operation Trinity"
 categories: ["files"]
+description: "karl strassman dallus lauren skys mantra arc/hive"
 ---
 # Operation_Trinity_Analysis.xslx
 
 This file was introduced in an update on 19-06-2024. It confirms that there is lore for the 
 ARG hidden in BMTH's music since [Amo](../music/amo).
+
+***
+
+## Document contents
+
+<details class="password">
+  <summary>Password</summary>
+
+knife hammer poison rope
+</details>
 
 ![The Operation Trinity Document](../../Resources/files/trinity_document.png)
 
@@ -50,7 +61,14 @@ information that was unknown to the writer of this document.
 
 More from [📁 FOR SOF](./for-sof)
 
-- [Karl Strassman](../characters/strassman)
-- [Karl Strassman & Eve call](strassmancodec)
+Related articles:
+
+- [Strassman codec](strassmancodec)
 - [In the Dark & ARC/HIVE](../music/amo-in-the-dark)
 - [Mantra & joinmantra.org](../music/amo-mantra)
+
+Related characters:
+
+- [Karl Strassman](../characters/strassman)
+- [Dallus Lauren](../characters/dallus-lauren)
+- [Skys](../characters/skys)
