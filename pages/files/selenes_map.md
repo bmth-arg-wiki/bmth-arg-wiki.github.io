@@ -1,8 +1,19 @@
 ---
 title: "Selene's Youtopia Map"
 categories: ["files"]
+description: "selene youtopia"
 ---
 # YOUTOPIA_selenes_map.vis
+
+***
+
+## Document contents
+
+<details class="password">
+  <summary>Password</summary>
+
+clive
+</details>
 
 ![Selene's map of Youtopia](../../Resources/files/selenesmap.png)
 
