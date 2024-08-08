@@ -97,7 +97,7 @@ Related characters:
 - [Miseria](../characters/miseria)
 - [Madman](../characters/madman)
 
-The other insights:
+Other insights:
 
 - [The Insights](insights)
 - [Insight 1: Connection](insight1-connection)
