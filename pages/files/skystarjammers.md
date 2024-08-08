@@ -24,6 +24,19 @@ INTERCELLULAR
 
 ***
 
+## Transcription
+
+> a night of celebration with
+> **SKYS & the STARJAMMERS**
+>
+> invite only
+>
+> DECEMBER 19TH, 2004
+> OCTOBER PALACE
+
+(Transcription by Alec)
+***
+
 ## Password context
 
 ![nexgendoc.jpg](../../Resources/files/skys_starjammers/nexgendoc.jpg)
