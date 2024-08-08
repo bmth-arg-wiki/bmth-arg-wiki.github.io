@@ -1,6 +1,7 @@
 ---
 title: "Skys & the Starjammers Poster"
 categories: ["files"]
+description: "skys starjammers mantra october palace"
 ---
 # Sky_&_The_Starjammers.png
 
