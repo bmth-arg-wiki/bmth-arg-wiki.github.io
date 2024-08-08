@@ -111,20 +111,7 @@ Within the ARG, this is broadcasted by Community Resource Analog Program (CRAP).
 >
 > **Lee:** “Unbeleevable”
 
-***
-
-## Read More
-
-More from [📁 FOR SOF](./for-sof)
-
-- [Mantra cult](../lore/mantra)
-- [MANTRA (song)](../music/amo-mantra)
-
-Related files:
-
-- [Operation Trinity](trinity_document)
-- [The Science Study](thesciencestudy)
-- [Sky_&_The_Starjammers.png](skystarjammers)
+(Transcription by Alec)
 
 ***
 
@@ -134,3 +121,17 @@ Related files:
 
 This man does not know who he is and is being interviewed by Dr. Lee MD. This is Matt Nichols, 
 one of the band members, although it is unknown whether he is also playing [Pickles](../characters/pickles) here.
+
+***
+
+## Read More
+
+More from [📁 FOR SOF](./for-sof)
+
+Related Articles:
+
+- [Mantra cult](../lore/mantra)
+- [MANTRA (song)](../music/amo-mantra)
+- [Operation Trinity](trinity_document)
+- [The Science Study](thesciencestudy)
+- [Sky_&_The_Starjammers.png](skystarjammers)

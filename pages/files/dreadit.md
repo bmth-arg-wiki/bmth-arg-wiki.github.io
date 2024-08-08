@@ -137,7 +137,7 @@ The password was discovered in the URL that appeared in [the Spyder web browser]
 > > > > > ⬆️  20  ⬇️
 
 
-From Discord user @Explo1t.
+(Transcription by @Explo1t on discord)
 
 ***
 

@@ -1,6 +1,7 @@
 ---
 title: "Skys & the Starjammers Poster"
 categories: ["files"]
+description: "skys starjammers mantra october palace"
 ---
 # Sky_&_The_Starjammers.png
 
@@ -11,9 +12,30 @@ with the filename seemingly missing an S in Skys.
 
 ***
 
-## File content
+## Document content
+
+<details class="password">
+  <summary>Password</summary>
+
+INTERCELLULAR
+</details>
 
 ![poster.png](../../Resources/files/skys_starjammers/poster.png)
+
+***
+
+## Transcription
+
+> a night of celebration with
+>
+> **SKYS & the STARJAMMERS**
+>
+> invite only
+>
+> DECEMBER 19TH, 2004
+> OCTOBER PALACE
+
+(Transcription by Alec)
 
 ***
 
@@ -36,6 +58,8 @@ the password was 13 characters long, causing confusion among the community.
 ## Read More
 
 More from [📁 FOR SOF](./for-sof)
+
+Related articles:
 
 - [Mantra cult](../lore/mantra)
 - [MANTRA (song)](../music/amo-mantra)

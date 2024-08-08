@@ -5,6 +5,8 @@ description: "skys mantra trinity victor carmine arc/hive dust psy syko scott da
 ---
 # Jan15_2031_declassified_PROJECT D.U.S.T. 2
 
+> ⚠ This page contains password spoilers
+
 This file contains a research proposal from [ARC/HIVE](../music/amo-in-the-dark) 
 for several projects. The initial proposal was finished or sent on the 15th of January 2021, 
 then the document was declassified by Nex Gen exactly 10 years later.

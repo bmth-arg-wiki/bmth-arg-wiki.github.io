@@ -79,6 +79,8 @@ That kinda stuck with me…I was thinking about trying my synth joke on him, but
 > Later,
 > Selene
 
+(Transcription by @elliecoptaaa on Discord)
+
 ***
 
 ## Read More

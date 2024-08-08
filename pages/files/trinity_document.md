@@ -22,34 +22,36 @@ knife hammer poison rope
 
 ***
 
-## Transcription & translation from Russian
+## Transcription
 
 > (right)
-> FORMER MANTRA SCIENTISTS AID ARC/HIV
+>
+> **FORMER MANTRA SCIENTISTS AID ARC/HIV-**
+>
 > TOP MISSILE GUIDAN-
+>
 > ESCAPED MANTRA CU- 
 >
 > (main article from Russian)
-> OPERATION TRINITY
-> MANTRA_UPDATE_04    DEC 25 2020
+> 
+> ## OPERATION TRINITY
+> 
+> MANTRA_UPDATE_04       DEC 25 2020
 >
-> DTC recruits cult of mantra key figures
+> **DTC recruits cult of mantra key figures**
 >
-> The Divided Territories of Colombia report that they have started 
-> a secret mission called Operation Trinity to extract key figures 
-> Novosoviya.
-> The main targets of Operation Trinity are Skais ([Skys](../characters/skys), 
+> The Divided Territories of Colombia report that they have initiated 
+> a covert mission called Operation Trinity to extract key figures 
+> Novosovia. The main targets of Operation Trinity are Skais ([Skys](../characters/skys)), 
 > [Dr. Dallus Lauren](../characters/dallus-lauren), and [Dr. Karl Strassman](../characters/strassman).
-> It is believed that ARC/HIV recognizes the potential of their research
-> and seeks to attract them to their ranks to advance their technological and neuronal learning initiatives.
-> Obviously, not everything is as it seems, as DTC invades Novosoviya.
-> They took advantage of the chaos during the conflict to execute this secret recruitment plan.
-> Whether they offered safe passage only to "Trinity" or more is still unknown,
-> but it is reported that they were separated from their families.
-> The known rumors of Skais's (Skys) death are questioned, as it is said that Trinity is safe,
-> which implies that they are being transported simultaneously.
->
-> BCB
+> 
+> It is believed that ARC/HIVE recognizes the potential of their research
+> and aims to recruit them for their technological and neural trainings initiatives. It is evident that not everything is as it seems, as the DTC has invaded Novosovia, exploiting the chaos during the conflict to execute this secret recruitement plan.
+> 
+> Whether they offered safe passage only to "Trinity" or more individuals is still unknown,
+> but it is reported that they have been separated from their families. Rumors of Skais's (Skys) death are being questioned, as it is said that Trinity is intact, implying that they are being transported simultaneously.
+
+(Translation by @siensto and @beelzs_son on Discord)
 
 Note that we learn from the [Project D.U.S.T research proposal](project_dust) 
 that six children with special psychic powers were also recovered during Operation Trinity, 

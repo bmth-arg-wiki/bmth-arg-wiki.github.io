@@ -9,11 +9,22 @@ The file described the LBR sites."
 
 > 🛈 Coming soon!
 
-## Screenshots
+## Document contents
+
+<details class="password">
+  <summary>Password</summary>
+
+/
+</details>
 
 ## Transcription
 
 ## Read More
+
+Relevant articles:
+
+- [Nex Gen Corporation](../lore/nex-gen-corporation)
+- [ARC/HIVE](../lore/archive)
 
 Relevant characters:
 
@@ -22,7 +33,3 @@ Relevant characters:
 - [Dallus Lauren](../characters/dallus-lauren)
 - [Victor Carmine](../characters/characters#victor-carmine)
 
-Relevant lore:
-
-- [Nex Gen Corporation](../lore/nex-gen-corporation)
-- [ARC/HIVE](../lore/archive)
