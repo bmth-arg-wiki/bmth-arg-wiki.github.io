@@ -1,6 +1,7 @@
 ---
 title: "Scott's Dear Diary"
 categories: ["files"]
+description: "scott selene vspr diary youtopia"
 ---
 # Scott_Personal_Journal_VSPR-37.doc
 
@@ -9,7 +10,13 @@ pandemic, which occurred in 2037. It has strong ties to the song [Dear Diary](..
 
 ***
 
-## Screenshots
+## Document contents
+
+<details class="password">
+  <summary>Password</summary>
+
+0005
+</details>
 
 ![See the section transcription](../../Resources/files/scott_diary/0.jpg)
 ![](../../Resources/files/scott_diary/1.jpg)
@@ -100,6 +107,11 @@ virus…eatin away my humanity. Can feel it.
 
 More from [📁 FOR SOF](./for-sof)
 
+Related articles:
+
+- [Selene's personal journal](selene_personal_journal)
+
+Related characters:
+
 - [Syko (Oliver Scott Sykes)](../characters/syko)
 - [Selene](../characters/selene)
-- [Selene's personal journal](selene_personal_journal)
