@@ -11,7 +11,13 @@ with the filename seemingly missing an S in Skys.
 
 ***
 
-## File content
+## Document content
+
+<details class="password">
+  <summary>Password</summary>
+
+INTERCELLULAR
+</details>
 
 ![poster.png](../../Resources/files/skys_starjammers/poster.png)
 
@@ -36,6 +42,8 @@ the password was 13 characters long, causing confusion among the community.
 ## Read More
 
 More from [📁 FOR SOF](./for-sof)
+
+Related articles:
 
 - [Mantra cult](../lore/mantra)
 - [MANTRA (song)](../music/amo-mantra)
