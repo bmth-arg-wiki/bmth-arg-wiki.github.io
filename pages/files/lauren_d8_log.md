@@ -166,7 +166,7 @@ An analysis in simpler English can be found [here](analysis/lauren_d8_log_analys
 >
 > **Prognosis:** High potential for critical incidents. In non-standard operational terminology, shit’s gonna hit the fan. And to deviate further from my primary parameters, I suggest Dr. Lauren could do with a pint of Ben & Jerry’s and a few episodes of “The Big Bang Theory”
 
-(transcription made by @elliecoptaaa on discord)
+(Transcription made by @elliecoptaaa on discord)
 
 ***
 
