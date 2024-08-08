@@ -26,6 +26,8 @@ to occupy a physical space in [Youtopia](../lore/youtopia).
 
 More from [📁 FOR SOF](./for-sof)
 
+Related articles:
+
 - [Insights](../lore/insights)
 
 Related characters:
