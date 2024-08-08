@@ -1,22 +1,29 @@
 ---
 title: "The Science Study"
 categories: ["files"]
+description: "science study skys pink mantra"
 ---
 # SCISTUDYSCAN1999wrist.SCN
 
-The Science Study is an in-universe newspaper, published on New Elysium. This specific 
+The Science Study is an in-universe newspaper, published in New Elysium. This specific 
 edition was released in 2037, seemingly right before the pandemic, which happens 
 around October of the same year according to [Scott's diary](scott_personal_journal).
 
+This file first appeared on the 3th of July 2024, looking very blurry. An update appeared 
+on the 5th of July, making the newspaper clearer and now allows users to zoom 
+in on different portions of it.
+
 ***
 
-## Content of the file
+## Document contents
+
+<details class="password">
+  <summary>Password</summary>
+
+grave
+</details>
 
 ![Newspaper image](../../Resources/files/science_study/science_study_newspaper.png)
-
-This file first appeared on the 3th of July, looking very blurry. An update appeared 
-on the 5th of July. This update made the newspaper clearer and now allows users to zoom 
-in on different portions of the newspaper.
 
 ***
 
@@ -158,11 +165,15 @@ it? □
 >
 > [three reversed black and white pictures of what appears to be a mugshot + black and white picture of a nondescript building]
 
+(Transcription by Alec and Lina)
+
 ***
 
 ## Read More
 
 More from [📁 FOR SOF](./for-sof)
+
+Related articles:
 
 - [Mantra cult](../lore/mantra)
 - [Unbeleevable](unbeleevable)
