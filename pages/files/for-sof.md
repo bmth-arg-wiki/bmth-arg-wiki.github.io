@@ -50,9 +50,11 @@ you to the known information (including password) about the file itself.
 | [Sky_&_The_Starjammers.png](skystarjammers)                                                          | ✔️     | [📁](#sky__the_starjammerspng)                |
 | [Nex Gen leak 'UNBELEEVABLE'.doc](unbeleevable)                                                      | ✔️     | [📁](#nex-gen-leak-unbeleevabledoc)           |
 | [дорогая моя любовь.doc (Russian_poem.DOC)](russianpoem)                                             | ✔️     | [📁](#дорогая-моя-любовьdoc)                  |
+| [Kingsl@yer_EncrypMsg.codek](kingslayercodec)                                                        | ❗      | [📁](#Kingslyer_encrypmsgcodek)               |
+| [GRUMBLR.Rebecca_Sinclair_01142027](grumblr)                                                         | ️✔️    | [📁](#grumblrrebecca_sinclair_01142027)       |
+| [LBR_sites.Confidential.doc](lbr_sites)                                                              | ️✔️    | [📁](#lbr_sitesconfidentialdoc)               |
 | [Selene_Journey_Log_01/midname?.memo](#selene_journey_log_01midnamememo)                             | ❌      | [📁](#placeholders)                           |
 | [Posthuman_Prototype_Alpha.mp3](#posthuman_prototype_alphamp3)                                       | ❌      | [📁](#placeholders)                           |
-| [Kingsl@yer_EncrypMsg.codek](#kingslyer_encrypmsgcodek)                                              | ❌      | [📁](#placeholders)                           |
 | [YOUTOPIA_Archangels_Secrets.docx](#youtopia_archangels_secretsdocx)                                 | ❌      | [📁](#placeholders)                           |
 | [Ancient_Pyramids_Connection.avi](#ancient_pyramids_connectionavi)                                   | ❌      | [📁](#placeholders)                           |
 | [M8_Core_Diagnostics.doc](#m8_core_diagnosticsdoc)                                                   | ❌      | [📁](#placeholders)                           |
@@ -401,6 +403,63 @@ You can view the reconstructed password on the [Russian Poem article](russianpoe
 
 ***
 
+## Kingsl@yer_EncrypMsg.codek
+
+<details class="password">
+<summary>Password</summary>
+23.2907 (sum of the numbers on the pieces)
+</details>
+
+> 🛈 This file is currently inaccessible
+
+This file was originally between [Posthuman_Prototype_Alpha.mp3](#posthuman_prototype_alphamp3) and 
+[YOUTOPIA_Archangels_Secrets.docx](#youtopia_archangels_secretsdocx).
+It was updated on August 2nd, getting its current position in the list and a puzzle to unlock.
+
+This file with a puzzle and a password.
+Also see the [walkthrough](../walkthrough/walkthrough2) 
+for help cracking this file.
+
+[📁 Back to all files](#directory-content)
+
+***
+
+## GRUMBLR.Rebecca_Sinclair_01142027
+
+<details class="password">
+<summary>Password</summary>
+14012
+
+</details>
+
+Originally introduced as `Grumblr.HTML`. The file seemed to be cracked by coincidence or brute-forcing 
+at first, showing a background of a diary with green text displaying "test".
+This was replaced by another update on August the 7th, when the filename changed to the current 
+one and the file now showed us [Rebecca's Grumblr page](grumblr).
+
+***
+
+## LBR_sites.Confidential.doc
+
+<details class="password">
+<summary>Password</summary>
+
+This puzzle corresponds to the Insights on Selene's map.
+
+- Top: Upside down triangle with line (green = vision)
+- Right: Triangle with line (yellow = connection)
+- Bottom: Triangle without line (red = purpose)
+- Left: Upside down triangle without line (blue = empathy)
+
+</details>
+
+This document was first released on August 7th 2024 and requires a compass puzzle 
+to open.
+The puzzle became solvable in an update on the 8th of August, revealing a document 
+about so-called [LBR sites](lbr_sites).
+
+***
+
 ## Selene_Journey_Log_01/midname?.memo
 
 Original name: `Selene_Journey_Log_01.memo`
@@ -419,17 +478,11 @@ Password protected with [placeholder](#placeholders).
 
 ***
 
-## Kingsl@yer_EncrypMsg.codek
-
-Password protected with [placeholder](#placeholders).
-
-[📁 Back to all files](#directory-content)
-
-***
-
 ## YOUTOPIA_Archangels_Secrets.docx
 
-Password protected with [placeholder](#placeholders).
+Has received an update at the beginning of August, now showing a password screen 
+with four underscores and a period.
+It is currently unknown whether it can be opened.
 
 [📁 Back to all files](#directory-content)
 

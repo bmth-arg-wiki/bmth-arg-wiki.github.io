@@ -6,7 +6,7 @@ description:
 
 # GRUMBLR.Rebecca_Sinclair_01142027
 
-(used to be Grumblr.HTML)
+> 🛈 Used to be called Grumblr.HTML
 
 This file's name seems to be a play on Tumblr, just like [Dreaddit](dreadit) was a nod to Reddit.
 It contains an entry from [Rebecca Sinclair](../characters/rebecca) who has already been seen in [Tekka Magasine](tekka_interview).
@@ -108,4 +108,9 @@ More from [📁 FOR SOF](./for-sof)
 Related characters:
 
 - [Rebecca](../characters/rebecca)
-- [Iara](..characters/iara)
+- [Iara](../characters/iara)
+- [Dallus Lauren](../characters/dallus-lauren)
+
+Related articles:
+
+- [ARC/HIVE](../lore/archive)
