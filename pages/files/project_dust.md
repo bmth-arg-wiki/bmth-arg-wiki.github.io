@@ -16,7 +16,7 @@ then the document was declassified by Nex Gen exactly 10 years later.
 <details class="password">
   <summary>Password</summary>
 
-![](../../Resources/files/project_dust/dust-password.png)
+![password](../../Resources/files/project_dust/dust-password.png)
 
 The last two sigils are switched around.
 </details>
