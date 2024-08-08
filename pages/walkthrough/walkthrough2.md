@@ -38,6 +38,10 @@ Jump to section:
 - [SCISTUDYSCAN1999wrist.SCN](#scistudyscan1999wristscn)
 - [Sky_&_The_Starjammers.png](#sky__the_starjammerspng)
 - [Nex Gen leak ‘UNBELEEVABLE’.doc](#nex-gen-leak-unbeleevabledoc)
+- [дорогая моя любовь.doc](#Rдорогая-моя-любовьdoc)
+- [Kngsl@yer_EncrypMsg.codek](#Kngslyer_EncrypMsgcodek)
+- [GRUMBLR.Rebecca_Sinclair_01142027](#GRUMBLRRebecca_Sinclair_01142027)
+- [LBR_sites.Confidential.doc](#LBR_sitesConfidentialdoc)
 
 You do not have to open the files in this order.
 To navigate this page you can jump back up with [↑ Quick access](#quick-access) links.
@@ -704,6 +708,139 @@ This file gives us a new document, although you might want to read the
 You can find the assembled password clue [here](#reassembled-letter).
 
 [↑ Quick access](#quick-access)
+
+## Kngsl@yer_EncrypMsg.codek
+
+> 🛈 This file has not worked on the website so far, even though the two step 
+> process to access it has been completed.
+
+The first step to unlock this file is to complete a puzzle within 8 minutes and 30 
+seconds.
+You will only have 30 seconds to enter a password after you complete it.
+
+<details>
+<summary>Hint 1 (puzzle)</summary>
+
+The puzzle pieces are always in the same order. There is a pattern to discover here.
+</details>
+<details>
+<summary>Hint 2 (puzzle)</summary>
+
+The number on the previous wire is relevant to your current wire.
+</details>
+<details>
+<summary>Puzzle solution</summary>
+
+The pieces are always in the same order, making the strategy below the most viable.
+
+1. Start at the top, the green line will connect and show you what is correct
+2. Leave the first piece alone, but note the number it displays
+3. Click each blue piece until it displays the number of the previous wire.
+4. Click it once more and rotate it into place.
+5. Repeat for each wire.
+
+Tip: you will need to click once for the first wire you connect, twice for the second and this pattern
+continues until the end.
+</details>
+
+After the puzzle the next challenge is the password.
+
+<details>
+<summary>Hint 3 (password)</summary>
+
+The password is numerical.
+</details>
+<details>
+<summary>Hint 4 (password)</summary>
+
+You're going to need some numbers from the puzzle.
+</details>
+<details>
+<summary>Password solution</summary>
+
+The password is 23.2907, the sum of all the numbers we used for the puzzle pieces.
+</details>
+
+[↑ Quick access](#quick-access)
+
+***
+
+## GRUMBLR.Rebecca_Sinclair_01142027
+
+<details>
+<summary>Hint 1</summary>
+
+The solution is numerical can be found within the website.
+</details>
+<details>
+<summary>Hint 2</summary>
+
+The filename is the hint.
+</details>
+<details>
+<summary>Solution</summary>
+
+The password for the file is "14012".
+</details>
+
+This will unlock the [Grumblr file](../files/grumblr).
+
+Characters:
+- [Rebecca](../characters/rebecca)
+- [Iara](../characters/iara)
+- [Dallus](../characters/dallus-lauren)
+
+Other relevant articles:
+- [ARC/HIVE](../lore/archive)
+- [Tekka Interview](../files/tekka_interview)
+- [In the Dark](../music/amo-in-the-dark) (speculated appearance)
+
+[↑ Quick access](#quick-access)
+
+***
+
+## LBR_sites.Confidential.doc
+
+<details>
+<summary>Hint 1</summary>
+
+The puzzle is a compass.
+</details>
+<details>
+<summary>Hint 2</summary>
+
+You will have to re-visit Selene's map and the insights.
+</details>
+<details>
+<summary>Solution</summary>
+
+This puzzle corresponds to the Insights on Selene's map.
+
+- Top: Upside down triangle with line (green = vision)
+- Right: Triangle with line (yellow = connection)
+- Bottom: Triangle without line (red = purpose)
+- Left: Upside down triangle without line (blue = empathy)
+
+</details>
+
+This will unlock a [mysterious new file](../files/lbr_sites).
+
+Relevant characters:
+
+- [EVE](../characters/eve)
+- [Karl Strassman](../characters/strassman)
+- [Dallus Lauren](../characters/dallus-lauren)
+- [Victor Carmine](../characters/characters#victor-carmine)
+
+Relevant articles:
+
+- [Nex Gen Corporation](../lore/nex-gen-corporation)
+- [ARC/HIVE](../lore/archive)
+- [In the Dark](../music/amo-in-the-dark) (speculated)
+
+[↑ Quick access](#quick-access)
+
+***
 
 ## Read More
 

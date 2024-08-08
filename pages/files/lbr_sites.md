@@ -1,7 +1,8 @@
 ---
 title: "LBR_sites.Confidential.doc"
 categories: ["files"]
-description:
+description: "File from Strassman and someone redacted to Victor Carmine and yet another redacted name. 
+The file described the LBR sites."
 ---
 
 # LBR_sites.Confidential.doc
