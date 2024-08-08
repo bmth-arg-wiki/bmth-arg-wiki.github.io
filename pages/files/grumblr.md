@@ -1,7 +1,7 @@
 ---
 title: "GRUMBLR.Rebecca_Rebecca_Sinclair_01142027"
 categories: ["files"]
-description: 
+description: "grumblr rebecca sinclair iara arc/hive synths"
 ---
 
 # GRUMBLR.Rebecca_Sinclair_01142027
@@ -98,6 +98,8 @@ It’s official. I’ve got the big C. CERS. Chronic Environmental Respiratory S
 >
 >
 > ❤️ 41      💬 13        ↩️ 8                                     Next page ->
+
+(Transcription by Alec)
 
 ***
 
