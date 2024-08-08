@@ -1,6 +1,7 @@
 ---
 title: "Vision"
 categories: ["lore"]
+description: "insights vision youtopia for sof"
 ---
 # Insight 4: Vision
 
