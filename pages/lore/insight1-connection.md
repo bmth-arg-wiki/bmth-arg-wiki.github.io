@@ -1,6 +1,7 @@
 ---
 title: "Connection"
 categories: ["lore"]
+description: "insights connection youtopia for sof"
 ---
 # Insight 1: Connection
 
@@ -35,7 +36,7 @@ possibly indicating another code (might lead to [capslock doc](../files/capslock
 
 ***
 
-## Document in FOR SOF
+## Document contents
 
 <details class="password">
   <summary>Password</summary>
