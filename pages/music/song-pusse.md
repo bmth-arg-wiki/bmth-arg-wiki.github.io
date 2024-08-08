@@ -1,6 +1,7 @@
 ---
 title: "[ost] p.u.s.s-e"
 categories: ["music"]
+description: "The song [ost] p.u.s.s-e from the album POST HUMAN: NEx Gen."
 ---
 # [ost] p.u.s.s-e (song)
 

@@ -1,6 +1,7 @@
 ---
 title: "amo"
 categories: ["music"]
+description: "The album amo."
 ---
 # amo
 

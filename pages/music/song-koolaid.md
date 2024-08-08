@@ -1,6 +1,7 @@
 ---
 title: "Kool-Aid"
 categories: ["music"]
+description: "The song Kool-Aid from the album POST HUMAN: NEx Gen."
 ---
 # Kool-Aid (song)
 

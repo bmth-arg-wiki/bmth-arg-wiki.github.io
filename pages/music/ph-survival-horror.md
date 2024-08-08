@@ -1,6 +1,7 @@
 ---
 title: "POST HUMAN: SURVIVAL HORROR"
 categories: ["music"]
+description: "The album POST HUMAN: SURVIVAL HORROR."
 ---
 # POST HUMAN: SURVIVAL HORROR
 

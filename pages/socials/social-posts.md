@@ -1,6 +1,7 @@
 ---
 title: "Social Media Posts"
 categories: ["socials", "archived"]
+description: "Important uncategorized social media posts."
 ---
 # Social Media Posts
 

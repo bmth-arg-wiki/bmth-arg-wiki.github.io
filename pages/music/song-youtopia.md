@@ -1,6 +1,7 @@
 ---
 title: "YOUtopia"
 categories: ["music"]
+description: "The song YOUtopia from the album POST HUMAN: NEx Gen."
 ---
 # YOUtopia (song)
 

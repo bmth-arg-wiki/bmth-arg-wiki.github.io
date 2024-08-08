@@ -1,6 +1,8 @@
 ---
 title: "Spyder"
 categories: ["webpage"]
+description: "The fictional browser in this universe, embedded as an application within the system. 
+Access to the internet has not been gained yet."
 ---
 # Web Browser - Spyder
 

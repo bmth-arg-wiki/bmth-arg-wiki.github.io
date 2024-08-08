@@ -1,6 +1,7 @@
 ---
 title: "R.i.p (duskCOre RemIx)"
 categories: ["music"]
+description: "The song R.i.p (duskCOre RemIx) from the album POST HUMAN: NEx Gen."
 ---
 # R.i.p (duskCOre RemIx)
 

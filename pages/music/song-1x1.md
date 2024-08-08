@@ -1,6 +1,7 @@
 ---
 title: "1x1 ft. Nova Twins"
 categories: ["music"]
+description: "The song 1x1 ft. Nova Twins from the album POST HUMAN: SURVIVAL HORROR."
 ---
 # 1x1 ft. Nova Twins
 

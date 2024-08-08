@@ -1,8 +1,9 @@
 ---
 title: "OBEY ft. YUNGBLUD"
 categories: ["music"]
+description: "The song OBEY ft. YUNGBLUD from the album POST HUMAN: SURVIVAL HORROR."
 ---
-# Obey ft. Yungblud
+# Obey ft. YUNGBLUD
 
 Fourth song on [POST HUMAN: SURVIVAL HORROR](ph-survival-horror).
 

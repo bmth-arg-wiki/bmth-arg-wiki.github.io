@@ -1,6 +1,7 @@
 ---
 title: "Top 10 staTues tHat CriEd bloOd"
 categories: ["music"]
+description: "The song Top 10 staTues tHat CriEd bloOd from the album POST HUMAN: NEx Gen."
 ---
 # Top 10 staTues tHat CriEd bloOd (song)
 

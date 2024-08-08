@@ -1,6 +1,7 @@
 ---
 title: "Sugar, Honey, Ice & Tea"
 categories: ["music"]
+description: "The song Sugar, Honey, Ice & Tea from the album amo."
 ---
 # Sugar, Honey, Ice & Tea
 

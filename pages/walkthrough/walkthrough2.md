@@ -1,6 +1,7 @@
 ---
 title: "Walkthrough Part 2"
 categories: ["other"]
+description: "The second part of the walkthrough focuses on opening the files in the FOR SOF folder."
 ---
 # Walkthrough Part 2: FOR SOF
 

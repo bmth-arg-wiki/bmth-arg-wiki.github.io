@@ -1,6 +1,7 @@
 ---
 title: "Kingslayer & Itch"
 categories: ["music"]
+description: "The songs Itch For The Cure (When Will We Be Free) and Kingslayer from the album POST HUMAN: SURVIVAL HORROR."
 ---
 # Itch For the Cure (When Will We Be Free) & Kingslayer
 

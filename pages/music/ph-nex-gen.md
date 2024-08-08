@@ -1,6 +1,7 @@
 ---
 title: "POST HUMAN: NeX GEn"
 categories: ["music"]
+description: "The album POST HUMAN: NeX GEn."
 ---
 # POST HUMAN: NeX GEn
 

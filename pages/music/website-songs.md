@@ -1,6 +1,7 @@
 ---
 title: "Website Songs"
 categories: ["music", "webpage"]
+description: "The songs embedded in the Multidimensional Navigator 8 website."
 ---
 # Website Songs
 

@@ -1,6 +1,7 @@
 ---
 title: "AmEN!"
 categories: ["music"]
+description: "The song AmEN! from the album POST HUMAN: NEx Gen."
 ---
 # AmEN! (song)
 

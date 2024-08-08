@@ -1,6 +1,7 @@
 ---
 title: "DiE4u"
 categories: ["music"]
+description: "The song DiE4u from the album POST HUMAN: NEx Gen."
 ---
 # DiE4u (song)
 

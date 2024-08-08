@@ -1,6 +1,7 @@
 ---
 title: "Butterflies ft. Amy Lee"
 categories: ["music"]
+description: "The song One Day The Only Butterflies Left Will Be In Your Chest As You March Towards Your Death ft. Amy Lee from the album POST HUMAN: SURVIVAL HORROR."
 ---
 # One Day The Only Butterflies Left Will Be In Your Chest As You March Towards Your Death ft. Amy Lee
 

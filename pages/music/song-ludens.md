@@ -1,6 +1,7 @@
 ---
 title: "Ludens"
 categories: ["music"]
+description: "The song Ludens from the album POST HUMAN: SURVIVAL HORROR."
 ---
 # Ludens
 

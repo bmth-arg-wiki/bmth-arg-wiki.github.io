@@ -1,6 +1,7 @@
 ---
 title: "Multidimensional Navigator 8 Webpage"
 categories: ["webpage"]
+description: "Discusses the most important parts we can view on the Multidimensional Navigator 8."
 ---
 # Multidimensional Navigator 8 Webpage
 

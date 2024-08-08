@@ -1,6 +1,7 @@
 ---
 title: "liMOusIne"
 categories: ["music"]
+description: "The song liMOusIne from the album POST HUMAN: NEx Gen."
 ---
 # liMOusIne
 

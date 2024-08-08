@@ -1,6 +1,8 @@
 ---
 title: "sTraNgeRs"
 categories: ["music"]
+description: "The song sTraNgeRs from the album POST HUMAN: NEx Gen."
+
 ---
 # sTraNgeRs (song)
 

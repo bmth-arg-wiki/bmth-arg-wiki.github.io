@@ -1,6 +1,7 @@
 ---
 title: "[ost] (spi)ritual"
 categories: ["music"]
+description: "The song [ost] (spi)ritual from the album POST HUMAN: NEx Gen."
 ---
 # [ost] (spi)ritual
 

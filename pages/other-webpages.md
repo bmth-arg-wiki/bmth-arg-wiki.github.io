@@ -1,6 +1,7 @@
 ---
 title: "Other webpages"
 categories: ["other"]
+description: "Other webpages that may be of interest to the ARG, "
 ---
 # Other webpages
 
@@ -9,7 +10,13 @@ including [social media pages](socials/social-posts).
 
 ***
 
-## Downloadfest
+## joinmantra.org
+
+See [Mantra](lore/mantra) for more details on the Mantra launch website.
+
+***
+
+## genxsis.faith
 
 ![Cypher](../Resources/lore/genxsis.faith/cypher.png)
 
@@ -23,10 +30,13 @@ page on [downloadfest](lore/downloadfest).
 
 ![Secrets to be found (about me page)](../Resources/other-webpages/dungeoncrawler_secretstobefound.jpg)
 
-This site seems to be relevant to the lore of the ARG and states that it contains secrets. 
+This site seems relevant to the lore of the ARG and states that it contains secrets. 
 It uses some references the ARG also uses and some bar codes on social media posters have linked 
 directly to this website.
 It also has coordinates on the front page pointing to the Temple of Solomon.
+
+The website also has an Instagram page, where its logo, the Heart of Chaos sigil is also mentioned here in the 
+same way the six-pointed star is in the ARG.
 
 ***
 

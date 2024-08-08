@@ -1,6 +1,7 @@
 ---
 title: "[ost] Dreamseeker"
 categories: ["music"]
+description: "[ost] Dreamseeker, the intro to the album POST HUMAN: NEx Gen."
 ---
 # [ost] Dreamseeker
 

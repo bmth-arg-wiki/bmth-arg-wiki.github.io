@@ -1,6 +1,7 @@
 ---
 title: "LosT"
 categories: ["music"]
+description: "The song LosT from the album POST HUMAN: NEx Gen."
 ---
 #  LosT
 

@@ -1,6 +1,7 @@
 ---
 title: "MANTRA"
 categories: ["music"]
+description: "The song MANTRA from the album amo."
 ---
 # MANTRA (song)
 

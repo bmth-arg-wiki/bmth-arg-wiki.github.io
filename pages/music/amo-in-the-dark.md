@@ -1,10 +1,11 @@
 ---
-title: "In the Dark"
+title: "In The Dark"
 categories: ["music"]
+description: "The song In The Dark from the album amo."
 ---
-# In the Dark
+# In The Dark
 
-"In the Dark" is a song from the album 'Amo'. Its music video contains many references to a mysterious 
+"In The Dark" is a song from the album 'Amo'. Its music video contains many references to a mysterious 
 organization called ARC/HIVE, just like [the D8 log](../files/lauren_d8_log).
 
 ![arc-hive-arg.png](../../Resources/music/amo/arc-hive-arg.png)

@@ -1,6 +1,7 @@
 ---
 title: "Spectrograms"
 categories: ["music"]
+description: "Spectrograms of Nex Gen and other BMTH audio."
 ---
 # Spectrograms
 

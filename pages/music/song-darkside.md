@@ -1,6 +1,7 @@
 ---
 title: "DArkSide"
 categories: ["music"]
+description: "The song DArkSide from the album POST HUMAN: NEx Gen."
 ---
 # DArkSide
 

@@ -1,6 +1,7 @@
 ---
 title: "DIg It"
 categories: ["music"]
+description: "The song DIg It from the album POST HUMAN: NEx Gen."
 ---
 # DIg It (Song)
 

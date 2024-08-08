@@ -1,6 +1,7 @@
 ---
 title: "itchy, tasty.."
 categories: ["music"]
+description: "The song Dear Diary, from the album POST HUMAN: SURVIVAL HORROR."
 ---
 # Dear Diary,
 

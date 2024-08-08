@@ -1,8 +1,9 @@
 ---
-title: "Nihilist Blues"
+title: "Nihilist Blues ft. Grimes"
 categories: ["music"]
+description: "The song Nihilist Blues ft. Grimes from the album amo."
 ---
-# Nihilist Blues
+# Nihilist Blues ft. Grimes
 
 Nihilist Blues is a song from the album [Amo](amo), featuring Grimes. 
 An official lyric video for it was released, containing strange messages 

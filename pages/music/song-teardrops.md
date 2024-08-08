@@ -1,6 +1,7 @@
 ---
 title: "Teardrops"
 categories: ["music"]
+description: "The song Teardrops from the album POST HUMAN: SURVIVAL HORROR."
 ---
 # Teardrops
 

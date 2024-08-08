@@ -1,6 +1,7 @@
 ---
 title: "Walkthrough Part 1"
 categories: ["other"]
+description: "The first part of the walkthrough focuses on getting to the website and getting to know the website."
 ---
 # Walkthrough Part 1: the Website
 
