@@ -1,6 +1,7 @@
 ---
 title: "Purpose"
 categories: ["lore"]
+description: "insights purpose youtopia for sof"
 ---
 # Insight 3: Purpose
 
