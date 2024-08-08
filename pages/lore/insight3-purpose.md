@@ -27,7 +27,7 @@ Insight 3 is also associated with [Pickles](../characters/pickles).
 
 ***
 
-## Document in FOR SOF
+## Document contents
 
 <details class="password">
   <summary>Password</summary>
@@ -82,7 +82,7 @@ Insight 3 is also associated with [Pickles](../characters/pickles).
 
 More from [📁 FOR SOF](../files/for-sof)
 
-Characters:
+Related characters:
 
 - [Michael](../characters/michael)
 - [Vanth](../characters/vanth)
