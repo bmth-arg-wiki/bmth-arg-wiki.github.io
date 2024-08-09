@@ -2,6 +2,9 @@ title: Bring Me The Horizon ARG Wiki
 description: ALL HAIL NEX GEN
 repository: bmth-arg-wiki/bmth-arg-wiki.github.io
 
+url: "http://www.secrettinfoilsociety.com"
+baseurl: ""
+
 cloudcannon:
   collections_config:
     pages:
