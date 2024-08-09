@@ -1,7 +1,7 @@
 # Gemfile
 source "https://rubygems.org"
 
-ruby file: ".ruby-version"
+ruby ">=3.1.4"
 
 gem "jekyll"
 
