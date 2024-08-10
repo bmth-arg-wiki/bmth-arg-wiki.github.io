@@ -78,7 +78,14 @@ This transcription was compiled by users from the BMTH ARG Discord server.
 
 More from [📁 FOR SOF](./for-sof)
 
+Related files:
+
+- [Dreadit post](dreadit)
+- [Youtopia map](selenes_map)
+- []()
+
 Related Characters:
 
 - [Strassman](../characters/strassman)
 - [E.V.E](../characters/eve)
+- [Selene](../characters/selene)

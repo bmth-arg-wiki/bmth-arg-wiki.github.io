@@ -1,7 +1,8 @@
 ---
 title: "Scott's Dear Diary"
 categories: ["files"]
-description: "scott selene vspr diary youtopia"
+tags: ["scott", "selene", "vspr", "diary", "youtopia", "syko", "oliver scott sykes", 
+"for sof", "vspr-37", "pandemic", "dear diary", "nexies"]
 ---
 # Scott_Personal_Journal_VSPR-37.doc
 

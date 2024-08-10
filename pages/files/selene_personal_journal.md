@@ -1,7 +1,11 @@
 ---
 title: "Selene's Diary"
+description: "Selene's diary is an early file revealing some details about her life as a 
+16-year old. She writes the diary around the time of VSPR-37 starting, with some in her environment 
+likely already being infected."
 categories: ["files"]
-description: "selene vspr scott youtopia synths diary"
+tags: ["selene", "vspr", "scott", "youtopia", "synths", "diary", "syko", "soms", "for sof", 
+"vspr-37", "pandemic", "synth", "jenna", "carter", "lawson", "eli", "pharma"]
 ---
 # Selene_Personal_Journal_2037.02.doc
 
@@ -38,16 +42,33 @@ being 16 years old at the time of writing.
 ![](../../Resources/files/selene_diary/17.jpg)
 ![](../../Resources/files/selene_diary/18.jpg)
 
+From her diary we learn a little about her family. Her mom is nodding off on "soms", likely a drug, 
+in front of the TV. However, she does suggest to Selene's father that they stock up on supplies. 
+
+Selene does not particularly like her teachers, making remarks about Mrs. Carter, Mr, Lawson and the 
+substitute teacher replacing Lawson.
+She also specifically mentions not being interested in quantum drifts and singularity.
+The latter is a term that is also often applied to situation in which AI takes control over human lives 
+on a large scale.
+
+Her friend Jenna remarks that she has been sick and from [Scott's diary](scott_personal_journal) we 
+know that he is sick as well.
+Both are likely suffering from the VSPR-37 pandemic, something that Selene is later revealed to be immune from. 
+The [Dreadit post](dreadit) refers to an immune child,
+which was later revealed to be Selene by [EVE](../characters/eve)'s messages in the official Bring Me The Horizon 
+Discord.
+
 ***
 
 ## Transcription
 
+> October 30, 2037
 > Dear Diary,
 >
 > Wow. Today may take the cake for the most ‘meh’ day in my 16 years of existence. School was its typical feedback loop. Mr. Thompson slapped me with a pinky for zoning out.
 >
 > Excuse me for not caring about quantum drifts and singularity, but at what point in my life will that stuff help me? Guess I sealed the deal when I told him a synth will probably be doing his job soon and he’ll be lucky if he gets to clean its whiteboard, so he may as well relax. He totally lost it. Not amused at all.
-Obviously a dumb play, but I was in one of those moods. TBH, my mind was on Scott. He’s been MIA for three days now, hasn’t replied to any of my codeks.
+> Obviously a dumb play, but I was in one of those moods. TBH, my mind was on Scott. He’s been MIA for three days now, hasn’t replied to any of my codeks.
 >
 > I’m used to being ghosted, but it’s not like him to ghost school, especially since he’s always flexing those grades.
 >
@@ -89,6 +110,8 @@ More from [📁 FOR SOF](./for-sof)
 
 Related articles:
 
+- [Message for Sof](msgforsof)
+- [Capslock doc](capslock_doc)
 - [Scott's diary](scott_personal_journal)
 
 Related characters:
