@@ -1,13 +1,21 @@
 ---
 title: "Strassman Codec"
+description: "The Strassman codec file contains a conversation between Dr. Karl Strassman and A.I. EVE. 
+Strassman raises concerns around the use of P.U.S.S-E to bring people to Youtopia. EVE does not seem to care, 
+however, stating they must continue for the greater good of mankind."
 categories: ["files"]
-description: "strassman eve youtopia for sof karl"
+tags: ["strassman", "eve", "youtopia", "for sof", "karl", "pusse", 
+       "codec", "indole alkaloid structure", "neurological disturbances"]
 ---
 # StrassmanCONFIDENTIALPRT007.CODEC
 
+> YOUtopia is the only hope for mankind’s survival, and I will ensure it 
+> continues. We are making the mother of all omelettes here, Karl. 
+> We can’t fret over a few broken eggs
+
 A document in the [FOR SOF](for-sof) folder. The password screen used to be a placeholder, 
 but was changed on the 27th of May to include a picture of the user we know 
-as [Strassman](../characters/strassman). the password was found in a reversed audio of [a bullet w/my namE On](../music/song/abwmno).
+as [Strassman](../characters/strassman). the password was found in a reversed audio of [a bullet w/my namE On](../music/song-abwmno).
 
 ***
 

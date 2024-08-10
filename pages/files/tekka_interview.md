@@ -21,9 +21,15 @@ She does not seem to want to talk about this, shutting the interviewer down inst
 arc/hive
 </details>
 
-![tekka-solve.png](../../Resources/files/tekka/tekka-solve.png)
-![tekka_cover.png](../../Resources/files/tekka/tekka_cover.png)
-![tekka_interview.png](../../Resources/files/tekka/tekka_interview.png)
+This document contains an interview between Jax Jackson and Rebecca Sinclair, the 
+first synth.
+In the interview they speak about her illness, her adjusting to being a synth, exclusive Tekka 
+parties and her role and colleagues at ARC/HIVE.
+She briefly mentions the colleagues, but seemingly shuts down when the interviewer start to ask about [Operation Trinity](trinity_document) 
+and the [Mantra cult](../lore/mantra).
+
+![Tekka Magazine Cover](../../Resources/files/tekka/tekka_cover.png)
+![Tekka Interview (see transcription)](../../Resources/files/tekka/tekka_interview.png)
 
 ***
 
@@ -95,9 +101,20 @@ arc/hive
 
 More from [📁 FOR SOF](./for-sof)
 
+Related files:
+
+- [Rebecca's Grumblr post](grumblr)
+- [LBR sites](lbr_sites)
+
+Related articles:
+
+- [ARC/HIVE](../lore/archive)
+- [Nex Gen Corporation](../lore/nex-gen-corporation)
+
 Related characters:
 
 - [Rebecca](../characters/rebecca)
+- [Iara](../characters/iara)
 - [Dallus Lauren](../characters/dallus-lauren)
 - [Karl Strassman](../characters/strassman)
 - [Victor Carmine](../characters/characters)

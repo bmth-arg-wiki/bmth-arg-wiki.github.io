@@ -1,6 +1,12 @@
 ---
 title: "Unbeleevable leak"
 categories: ["files"]
+description: "The Nex Gen leak file includes an email from Nex Gen's Susan White, 
+who is addressing the UNBELEEVABLE episode from CRAP TV. This fictional episode where 
+Dr. Lee MD speaks about the cult of MANTRA and Genxsis contains compromising information 
+for the company."
+tags: ["nex gen", "susan white", "unbeleevable", "dr lee md", "madman", "mantra", "church of genxsis", 
+"genxsis", "skys", "starjammers", "leak", "secret", "for sof", "novosovia"]
 ---
 # Nex Gen leak "UNBELEEVABLE".doc
 

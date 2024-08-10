@@ -1,7 +1,11 @@
 ---
 title: "The Science Study"
+description: "The Science Study is a newspaper dated 2037, describing the phenomenon of radiogenic leukotrichia, 
+a mysterious genetic anomaly that causes pink hair. The newspaper also features other articles 
+about spiritual science, the third eye and a picture we are told is young Skys in the Unbeleevable video."
 categories: ["files"]
-description: "science study skys pink mantra"
+tags: ["science study", "skys", "pink", "mantra", "Radiogenic Leukotrichia", "for sof", "unbeleevable", 
+       "new elysium", "2037", "vspr-37"]
 ---
 # SCISTUDYSCAN1999wrist.SCN
 
@@ -165,7 +169,7 @@ it? □
 >
 > [three reversed black and white pictures of what appears to be a mugshot + black and white picture of a nondescript building]
 
-(Transcription by Alec and Lina)
+(Transcription by @alec_baguette and @linaanna)
 
 ***
 
@@ -176,7 +180,7 @@ More from [📁 FOR SOF](./for-sof)
 Related articles:
 
 - [Mantra cult](../lore/mantra)
-- [Unbeleevable](unbeleevable)
+- [Unbeleevable video and leak](unbeleevable)
 
 Related characters:
 

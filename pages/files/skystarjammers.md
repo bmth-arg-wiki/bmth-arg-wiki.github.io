@@ -1,8 +1,11 @@
 ---
 title: "Skys & the Starjammers Poster"
+description: "A poster of Skys & the Starjammers, the band from MANTRA cult leader Skys. It advertises a show at October 
+Palace in 2004"
 categories: ["files"]
-description: "skys starjammers mantra october palace"
+tags: ["skys", "starjammers", "mantra", "october palace", "bring me the horizon"]
 ---
+
 # Sky_&_The_Starjammers.png
 
 > ⚠ This page contains password spoilers.
@@ -20,7 +23,7 @@ with the filename seemingly missing an S in Skys.
 INTERCELLULAR
 </details>
 
-![poster.png](../../Resources/files/skys_starjammers/poster.png)
+![Poster](../../Resources/files/skys_starjammers/sky.png)
 
 ***
 
@@ -41,8 +44,8 @@ INTERCELLULAR
 
 ## Password context
 
-![nexgendoc.jpg](../../Resources/files/skys_starjammers/nexgendoc.jpg)
-![instagram_solve.jpg](../../Resources/files/skys_starjammers/instagram_solve.jpg)
+![Nex Gen document from instagram](../../Resources/files/skys_starjammers/nexgendoc.jpg)
+![Numbers assigned to letters](../../Resources/files/skys_starjammers/instagram_solve.jpg)
 
 This document was revealed in an Instagram post. It contains four words and 5 sets of numbers. 
 When you take each individual number to match up a letter, you get the letters needed for the word 
@@ -59,7 +62,17 @@ the password was 13 characters long, causing confusion among the community.
 
 More from [📁 FOR SOF](./for-sof)
 
+Related files:
+
+- [Trinity Document](trinity_document)
+- [The Science Study](thesciencestudy)
+- [Unbeleevable](unbeleevable)
+
 Related articles:
 
 - [Mantra cult](../lore/mantra)
 - [MANTRA (song)](../music/amo-mantra)
+
+Related characters:
+
+- [Skys](../characters/skys)
