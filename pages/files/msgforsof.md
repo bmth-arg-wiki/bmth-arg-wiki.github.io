@@ -1,6 +1,9 @@
 ---
 title: "Message for Sof"
+description: "The first file in the folder is an audio message from Selene to her daughter Sof, 
+who she says has been born not even 20 minutes ago. She has to leave Sof after an alarm goes off."
 categories: ["files"]
+tags: ["sof", "selene", "mother", "m8", "birth", "destiny"]
 ---
 # msgforsoff.aiff
 

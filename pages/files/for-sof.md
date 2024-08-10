@@ -1,6 +1,7 @@
 ---
 title: "FOR SOF"
 categories: ["files"]
+tags: ["lore", "for sof", "sof", "selene", "documents", "passwords"]
 ---
 # FOR SOF
 

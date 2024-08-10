@@ -1,7 +1,7 @@
 ---
 title: "Dreadit Post"
 categories: ["files"]
-description: "dreadit nex gen youtopia for sof karl strassman"
+tags: ["dreadit", "nex gen", "youtopia", "for sof", "karl strassman"]
 ---
 # DREADITScreenshot 2051.1.5.59.43.vis
 

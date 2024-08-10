@@ -1,7 +1,8 @@
 ---
 title: "Tekka's Synth Interview"
 categories: ["files"]
-description: "rebecca sinclair arc/hive tekka interview youtopia nex gen synths"
+tags: ["rebecca sinclair", "arc/hive", "tekka", "interview", "youtopia", "nex gen", "synths", "for sof", 
+"rebecca", "lab assistant", "victor carmine", "dallus lauren", "karl strassman", "jax jackson"]
 ---
 # ISSUE-51-fromhelltoshell.pdf 1
 

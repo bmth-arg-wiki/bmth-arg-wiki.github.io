@@ -1,8 +1,9 @@
 ---
 title: "Russian Poem"
 categories: ["files"]
-description: "russiam poem skys mantra"
+description: ["russian", "poem", "skys", "mantra", "cult", "for sof"]
 ---
+
 # дорогая моя любовь.doc
 
 > 🛈 Used to be called Russian_poem.doc

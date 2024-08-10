@@ -1,8 +1,13 @@
 ---
 title: "Lauren D8 Log"
+description: "The D8 log is a log from Ikaro Lauren, activating EVE and witnessing her genesis. The document 
+also deals with his grief around the loss of his father, Dallus Lauren."
 categories: ["files"]
-description: "lauren dallus ren arc/hive eve d8"
+tags: ["lauren", "dallus", "ikaro", "ren", "arc/hive", "eve", "d8", "technology", 
+"for sof", "artificial intelligence", "genesis", "digitised", "date", "archival", "temporal", 
+"entity"]
 ---
+
 # Lauren_D8_Log_203701.docx
 
 Document in the [FOR SOF](for-sof) folder. The password is [Ren](../characters/ren)'s user number, confirming 
@@ -172,12 +177,22 @@ An analysis in simpler English can be found [here](analysis/lauren_d8_log_analys
 
 ## Read More
 
-More from [📁 FOR SOF](./for-sof)
+More from [📁 FOR SOF](./for-sof).
+
+Related files:
+
+- [Strassman codec](strassmancodec)
+- [Dreadit post](dreadit)
+- [R8 document](r8)
+- [LBR sites letter](lbr_sites)
+
 Related articles:
 
 - [ARC/HIVE](../lore/archive)
+- [Nex Gen](../lore/nex-gen-corporation)
 
 Related Characters:
 
-- [Lauren](../characters/ren)
+- [Ikaro Lauren](../characters/ren)
+- [Dallus Lauren](../characters/dallus-lauren)
 - [EVE](../characters/eve)

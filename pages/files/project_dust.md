@@ -1,11 +1,15 @@
 ---
-title: "Project D.U.S.T"
+title: "Project D.U.S.T proposal"
+description: "This document proposes projects D.U.S.T. and project S.Y.K.O. The proposal was written 
+by Dr. Elias Mortem, Lead Scientist at ARC/HIVE."
 categories: ["files"]
-description: "skys mantra trinity victor carmine arc/hive dust psy syko scott dallus lauren"
+tags: ["skys", "mantra", "trinity", "victor carmine", "arc/hive", "dust", "psy", "syko", 
+              "scott", "dallus lauren"]
 ---
+
 # Jan15_2031_declassified_PROJECT D.U.S.T. 2
 
-> ⚠ This page contains password spoilers
+> ⚠ This page contains password spoilers, since it uses an image.
 
 This file contains a research proposal from [ARC/HIVE](../music/amo-in-the-dark) 
 for several projects. The initial proposal was finished or sent on the 15th of January 2021, 
@@ -128,4 +132,7 @@ Related articles:
 - [In The Dark & ARC/HIVE](../music/amo-in-the-dark)
 
 Related characters:
+
 - [Syko](../characters/syko)
+- [Dallus Lauren](../characters/dallus-lauren)
+- [Dr. Elias Mortem](../characters/characters#dr-elias-mortem)

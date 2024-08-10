@@ -1,6 +1,10 @@
 ---
 title: "Kngsl@yer_EncrypMsg.codek"
+description: "A file with a puzzle and a password. It seems to be a video, but isn't viewable on 
+the website yet."
 categories: ["files"]
+tags: ["kingslayer", "codec", "codek", "for sof", "electric puzzle", "wires", 
+"currents"]
 ---
 
 # Kngsl@yer_EncrypMsg.codek

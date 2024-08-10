@@ -1,6 +1,7 @@
 ---
 title: "Capslock Doc"
 categories: ["files"]
+tags: ["selene", "capslock doc", "anagram", "dekode", "matrix", "concealed origins"]
 ---
 # Capslock Doc
 
