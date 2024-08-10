@@ -1,7 +1,11 @@
 ---
 title: "GRUMBLR.Rebecca_Rebecca_Sinclair_01142027"
+description: "A Grumblr post from Rebecca Sinclair describing the events around her 
+diagnosis of CERS. She also speaks about Iara and the developments Dallus Lauren is making 
+at ARC/HIVE, that could potentially save humanity."
 categories: ["files"]
 tags: ["grumblr", "rebecca sinclair", "iara", "arc/hive", "synths", "cers"]
+image: "/Resources/files/grumblr/GRUMBLR-1.png"
 ---
 
 # GRUMBLR.Rebecca_Sinclair_01142027
@@ -141,9 +145,17 @@ It’s official. I’ve got the big C. CERS. Chronic Environmental Respiratory S
 
 More from [📁 FOR SOF](./for-sof)
 
+Related files:
+
+- [Dreadit post](dreadit)
+- [Lauren's D8 log](lauren_d8_log)
+- [Tekka Interview](tekka_interview)
+- [LBR sites letter](lbr_sites)
+
 Related articles:
 
 - [ARC/HIVE](../lore/archive)
+- [Nex Gen](../lore/nex-gen-corporation)
 
 Related characters:
 

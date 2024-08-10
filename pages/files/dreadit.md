@@ -1,12 +1,18 @@
 ---
 title: "Dreadit Post"
+description: "The dreadit post was written by a user taking a cynical look at Nex Gen 
+and the projects they are developing using the immune child."
 categories: ["files"]
 tags: ["dreadit", "nex gen", "youtopia", "for sof", "karl strassman"]
+image: "/Resources/files/dreadit/dreadit.png"
 ---
 # DREADITScreenshot 2051.1.5.59.43.vis
 
 This file seems to be a forum post and first appeared in a website update on 28/05/2024. 
 The password was discovered in the URL that appeared in [the Spyder web browser](../webbrowser).
+
+The immune child in the Dreadit post was later confirmed to be [Selene](../characters/selene) 
+in a message from EVE on the official Bring Me The Horizon Discord.
 
 ***
 
@@ -19,9 +25,8 @@ The password was discovered in the URL that appeared in [the Spyder web browser]
 </details>
 
 ![Password screen Dreadit](../../Resources/files/dreadit/dreadit_pass.png)
-![Dreadit screenshot 1](../../Resources/files/dreadit/dreadit1.png)
-![Dreadit screenshot 2](../../Resources/files/dreadit/dreadit2.png)
-![Dreadit screenshot 3](../../Resources/files/dreadit/dreadit3.png)
+
+![See transcription](../../Resources/files/dreadit/dreadit.png)
 
 ***
 
@@ -135,9 +140,25 @@ The password was discovered in the URL that appeared in [the Spyder web browser]
 > > > > > u sound like an insufferable moron
 > > > > >
 > > > > > ⬆️  20  ⬇️
+> 
+> - Transcription by @Explo1t on discord
 
+The child in this post is [Selene](../characters/selene), as confirmed by the following 
+transmission from EVE on Discord on 08-07-2024:
 
-(Transcription by @Explo1t on discord)
+> Good evening @everyone
+> 
+> As you know, our Earth has been ravaged following the terrible virus that spread 
+> like wildfire across our beautiful planet. However, we at NeX GEn dedicated ourselves 
+> to control, I mean rebuild society from the ashes. We have been able to go deeper 
+> than anyone else has before, and we have found salvation !
+> 
+> Thanks to a very willing subject named Selene, who was immune to the virus, we have 
+> been able to probe the innermost recesses of her mind. Within this domain, she found 
+> herself ensnared in a dreamscape beyond her wildest imagination. She named this 
+> place Youtopia, a domain accessible to every human, with definitely no side effects. 
+> if you, too, wish to access Youtopia, all you need to do is…
+
 
 ***
 
@@ -145,11 +166,28 @@ The password was discovered in the URL that appeared in [the Spyder web browser]
 
 More from [📁 FOR SOF](./for-sof)
 
+Related files:
+
+- [Message for Sof](msgforsof)
+- [Capslock doc](capslock_doc)
+- [Selene's map](selenes_map)
+- [E.V.E.'s genesis D8 log](lauren_d8_log)
+- [Scott's diary](scott_personal_journal)
+- [Selene's diary](selene_personal_journal)
+- [Operation Trinity](trinity_document)
+- [Tekka Interview](tekka_interview)
+- [Project D.U.S.T. proposal](project_dust)
+- [LBR sites letter](lbr_sites)
+- [Unbeleevable leaked video email](unbeleevable)
+
 Related articles:
 
 - [Nex Gen](../lore/nex-gen-corporation)
+- [ARC/HIVE](../lore/archive)
 
 Related characters:
 
+- [E.V.E.](../characters/eve)
+- [Ikaro Lauren](../characters/ren)
 - [Karl Strassman](../characters/strassman)
 - [Selene](../characters/selene)

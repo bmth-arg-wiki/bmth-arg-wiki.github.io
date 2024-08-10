@@ -5,9 +5,14 @@ a mysterious genetic anomaly that causes pink hair. The newspaper also features 
 about spiritual science, the third eye and a picture we are told is young Skys in the Unbeleevable video."
 categories: ["files"]
 tags: ["science study", "skys", "pink", "mantra", "Radiogenic Leukotrichia", "for sof", "unbeleevable", 
-       "new elysium", "2037", "vspr-37"]
+       "new elysium", "2037", "vspr-37", "novosovia"]
+image: "/Resources/files/science_study/science_study_newspaper.png"
 ---
 # SCISTUDYSCAN1999wrist.SCN
+
+> "Conversely, in the Union of Novosovia, the condition is regarded with suspicion
+> and fear. Pink-haired children are often stigmatised and labeled as witches,
+> believed to possess malevolent magical powers."
 
 The Science Study is an in-universe newspaper, published in New Elysium. This specific 
 edition was released in 2037, seemingly right before the pandemic, which happens 
@@ -103,9 +108,22 @@ for the parents mutated gene to manifest in their offspring.
 >
 > ##### Blessed with a Curse?
 >
-> Different cultures have responded to Radiogenic Leukotrichia in various ways, particularly the pink hair variant. In several spiritual communities, such as those in parts of India and Tibet, pink-haired children are considered blessed. These cultures often view the condition as a sign of divine favor or spiritual significance. In these societies, children with pink hair might be given special roles, treated with reverence, or even granted certain privileges akin to royal or diplomatic status. For instance, in the city of Varanasi, such children are often involved in ceremonial activities and are believed to possess healing powers.
+> Different cultures have responded to Radiogenic Leukotrichia in various ways, 
+> particularly the pink hair variant. In several spiritual communities, such as those 
+> in parts of India and Tibet, pink-haired children are considered blessed. These 
+> cultures often view the condition as a sign of divine favor or spiritual significance. 
+> In these societies, children with pink hair might be given special roles, 
+> treated with reverence, or even granted certain privileges akin to royal or 
+> diplomatic status. For instance, in the city of Varanasi, such children are 
+> often involved in ceremonial activities and are believed to possess healing powers.
 >
-> Conversely, in the Union of Novosovia, the condition is regarded with suspicion and fear. Pink-haired children are often stigmatised and labeled as witches, believed to possess malevolent magical powers. This cultural perspective has led to significant social challenges for affected families, including isolation and discrimination. Historical superstitions and the existing socio-political climate exacerbate these beliefs, making life particularly difficult for those born with this rare condition.
+> Conversely, in the Union of Novosovia, the condition is regarded with suspicion 
+> and fear. Pink-haired children are often stigmatised and labeled as witches, 
+> believed to possess malevolent magical powers. This cultural perspective has led 
+> to significant social challenges for affected families, including isolation and 
+> discrimination. Historical superstitions and the existing socio-political climate 
+> exacerbate these beliefs, making life particularly difficult for those born with 
+> this rare condition.
 >
 > ##### Blessed with a Curse?
 >
@@ -177,10 +195,13 @@ it? □
 
 More from [📁 FOR SOF](./for-sof)
 
+Related files:
+
+- [Unbeleevable video and leak](unbeleevable)
+
 Related articles:
 
 - [Mantra cult](../lore/mantra)
-- [Unbeleevable video and leak](unbeleevable)
 
 Related characters:
 

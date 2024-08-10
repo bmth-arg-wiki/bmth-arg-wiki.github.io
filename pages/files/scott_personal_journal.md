@@ -1,9 +1,13 @@
 ---
 title: "Scott's Dear Diary"
+description: "Scott's diary speaks about being bitten and slowly succumbing to an infection, 
+in the middle of the starting VSPR-37 pandemic."
 categories: ["files"]
 tags: ["scott", "selene", "vspr", "diary", "youtopia", "syko", "oliver scott sykes", 
 "for sof", "vspr-37", "pandemic", "dear diary", "nexies"]
+image: "/Resources/files/scott_diary/0.jpg"
 ---
+
 # Scott_Personal_Journal_VSPR-37.doc
 
 Document in the [FOR SOF](for-sof) folder. The document discusses the outbreak of the VSPR-37 

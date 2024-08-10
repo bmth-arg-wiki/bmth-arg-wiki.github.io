@@ -7,6 +7,9 @@ tags: ["sof", "selene", "mother", "m8", "birth", "destiny"]
 ---
 # msgforsoff.aiff
 
+> I never believed in destiny, but now I see...
+> your destiny. You will be the one leads us out of this darkness.
+
 In this audio log Selene says goodbye to [SOF](../characters/sof) after just giving birth to her less 
 than 20 minutes ago. A baby is softly crying/making noises in the background and water is running. 
 She tells SOF that she has to leave and that M8 has saved Selene's life a few times. 
@@ -15,7 +18,8 @@ She speaks on how M8's character is 'a little bit crazy', but that she will prot
 Selene says that M8 is hiding the past, but for good reason. 
 
 You can also hear thunder partway through the audio, which upsets the baby, causing Selene to soothe 
-her. She says that there  Near the end of the recording an alarm goes off, which prompts Selene to say that's her cue, 
+her.
+She says that there is something she still needs to do. Near the end of the recording an alarm goes off, which prompts Selene to say that's her cue, 
 say a few more words goodbye and then end the recording.
 
 ***
@@ -70,6 +74,19 @@ Because unlocking these secrets will be difficult, but learning the truth will b
 ## Read More
 
 More from [📁 FOR SOF](./for-sof)
+
+Related files:
+
+- [Capslock doc](capslock_doc)
+- [Selene's map](selenes_map)
+- [Dreadit post](dreadit)
+- [Selene's journal](selene_personal_journal)
+
+Related articles:
+
+- [Nex Gen Corporation](../lore/nex-gen-corporation)
+
+Related characters:
 
 - [Selene](../characters/selene.md)
 - [Sof](../characters/sof.md)

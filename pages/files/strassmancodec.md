@@ -6,7 +6,9 @@ however, stating they must continue for the greater good of mankind."
 categories: ["files"]
 tags: ["strassman", "eve", "youtopia", "for sof", "karl", "pusse", 
        "codec", "indole alkaloid structure", "neurological disturbances"]
+image: "/Resources/files/strassman-pass-screen.png"
 ---
+
 # StrassmanCONFIDENTIALPRT007.CODEC
 
 > YOUtopia is the only hope for mankind’s survival, and I will ensure it 

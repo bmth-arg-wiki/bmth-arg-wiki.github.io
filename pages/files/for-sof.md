@@ -1,7 +1,10 @@
 ---
 title: "FOR SOF"
+description: "This page provides an overview of the files and passwords in the FOR SOF folder, along with 
+descriptions of previous versions of it."
 categories: ["files"]
 tags: ["lore", "for sof", "sof", "selene", "documents", "passwords"]
+image: "/Resources/files/for_sof_password_prompt.png"
 ---
 # FOR SOF
 

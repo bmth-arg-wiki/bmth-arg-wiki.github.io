@@ -6,6 +6,7 @@ likely already being infected."
 categories: ["files"]
 tags: ["selene", "vspr", "scott", "youtopia", "synths", "diary", "syko", "soms", "for sof", 
 "vspr-37", "pandemic", "synth", "jenna", "carter", "lawson", "eli", "pharma"]
+image: "/Resources/files/selene_diary/0.jpg"
 ---
 # Selene_Personal_Journal_2037.02.doc
 
@@ -108,10 +109,13 @@ That kinda stuck with me…I was thinking about trying my synth joke on him, but
 
 More from [📁 FOR SOF](./for-sof)
 
-Related articles:
+Related files:
 
 - [Message for Sof](msgforsof)
+- [Strassman codec](strassmancodec)
 - [Capslock doc](capslock_doc)
+- [Selene Youtopia map](selenes_map)
+- [Dreadit post](dreadit)
 - [Scott's diary](scott_personal_journal)
 
 Related characters:

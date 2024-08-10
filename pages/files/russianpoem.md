@@ -1,7 +1,10 @@
 ---
 title: "Russian Poem"
+description: "The Russian poem is a mysterious poem, seemingly about love to an unknown 
+ A from an unknown S."
 categories: ["files"]
-description: ["russian", "poem", "skys", "mantra", "cult", "for sof"]
+tags: ["russian", "poem", "skys", "mantra", "cult", "for sof"]
+image: "/Resources/files/russian_poem/russian_poem.png"
 ---
 
 # дорогая моя любовь.doc

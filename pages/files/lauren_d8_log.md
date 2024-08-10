@@ -6,6 +6,7 @@ categories: ["files"]
 tags: ["lauren", "dallus", "ikaro", "ren", "arc/hive", "eve", "d8", "technology", 
 "for sof", "artificial intelligence", "genesis", "digitised", "date", "archival", "temporal", 
 "entity"]
+image: "/Resources/files/lauren_d8_log/0.jpg"
 ---
 
 # Lauren_D8_Log_203701.docx

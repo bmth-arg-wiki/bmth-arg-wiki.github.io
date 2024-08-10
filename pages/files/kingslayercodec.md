@@ -5,6 +5,7 @@ the website yet."
 categories: ["files"]
 tags: ["kingslayer", "codec", "codek", "for sof", "electric puzzle", "wires", 
 "currents"]
+image: "/Resources/files/kingslayer_codek/puzzle.png"
 ---
 
 # Kngsl@yer_EncrypMsg.codek

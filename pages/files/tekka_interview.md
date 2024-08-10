@@ -3,7 +3,9 @@ title: "Tekka's Synth Interview"
 categories: ["files"]
 tags: ["rebecca sinclair", "arc/hive", "tekka", "interview", "youtopia", "nex gen", "synths", "for sof", 
 "rebecca", "lab assistant", "victor carmine", "dallus lauren", "karl strassman", "jax jackson"]
+image: "/Resources/files/tekka/tekka_cover.png"
 ---
+
 # ISSUE-51-fromhelltoshell.pdf 1
 
 This file contains an interview with a lady named Rebecca, who is the first synth. She 
@@ -93,8 +95,8 @@ and the [Mantra cult](../lore/mantra).
 > REBECCA: (firmly) I can’t discuss that. My focus is on the present and our future projects.
 >
 > JAXON: Fair enough. But what about those rumors about extreme experiments and human suffering? What’s really going on behind the scenes?...
-
-(Transcription by alec)
+>
+> (Transcription by @alec_baguette)
 
 ***
 

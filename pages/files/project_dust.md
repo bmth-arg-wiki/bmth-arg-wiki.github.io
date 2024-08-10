@@ -5,6 +5,7 @@ by Dr. Elias Mortem, Lead Scientist at ARC/HIVE."
 categories: ["files"]
 tags: ["skys", "mantra", "trinity", "victor carmine", "arc/hive", "dust", "psy", "syko", 
               "scott", "dallus lauren"]
+image: "/Resources/files/project_dust/projectdust2.png"
 ---
 
 # Jan15_2031_declassified_PROJECT D.U.S.T. 2
@@ -125,6 +126,15 @@ the official [Kool-Aid](../music/song-koolaid) music video.
 ## Read More
 
 More from [📁 FOR SOF](./for-sof)
+
+Related files:
+
+- [Strassman codec](strassmancodec)
+- [Map of Youtopia](selenes_map)
+- [Lauren D8 log](lauren_d8_log)
+- [Operation Trinity](trinity_document)
+- [The Science Study](thesciencestudy)
+- [LBR sites letter](lbr_sites)
 
 Related articles:
 

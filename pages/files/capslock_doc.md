@@ -1,8 +1,13 @@
 ---
 title: "Capslock Doc"
+description: "The capslock doc is a document that was found earlier than expected. Its password uses the 
+capital letters from the album itself. The email is currently unavailable and it is unknown 
+what will happen to this file."
 categories: ["files"]
 tags: ["selene", "capslock doc", "anagram", "dekode", "matrix", "concealed origins"]
+image: "/Resources/files/capslock_doc/crate_selene.png"
 ---
+
 # Capslock Doc
 
 The capslock doc can be found in the `FOR SOF` folder on the computer.
@@ -20,15 +25,15 @@ Enjoy this picture of buff M8 as a buffer between you and the spoilers.
 
 We find a storage crate that belongs to [Selene](../characters/selene.md).
 
-![img.png](../../Resources/files/capslock_doc/crate.png)
-![img.png](../../Resources/files/capslock_doc/crate_selene.png)
-![img.png](../../Resources/files/capslock_doc/img.png)
-![img_1.png](../../Resources/files/capslock_doc/img_1.png)
+![See transcription](../../Resources/files/capslock_doc/crate.png)
+![](../../Resources/files/capslock_doc/crate_selene.png)
+![](../../Resources/files/capslock_doc/img.png)
+![](../../Resources/files/capslock_doc/img_1.png)
 
-**!!! DO NOT SEND AN EMAIL TO THIS ADDRESS, IT IS A PLACEHOLDER AND 
+**!!! DO NOT EMAIL THIS ADDRESS, IT IS A PLACEHOLDER AND 
 WAS NEVER MEANT TO BE FOUND !!!**
 
-![img_3.png](../../Resources/files/capslock_doc/img_3.png)
+![](../../Resources/files/capslock_doc/img_3.png)
 
 ***
 
@@ -109,16 +114,25 @@ placeholder address anymore**.
 >           |      /  \      |
 >           |    /     \     |
 
-The email ends with an ASCII art rendering of M8, which has been screencaptured to preserve this 
+The email ends with an ASCII art rendering of M8, which has been screen captured to preserve this 
 authentic artwork.
 
-![Screencap](../../Resources/m8/buffm8.png)
+![Screen capture](../../Resources/m8/buffm8.png)
 
 ***
 
 ## Read More
 
 More from [📁 FOR SOF](./for-sof)
- 
+
+Related files:
+
+- [Strassman Codec](strassmancodec)
+- [Dreadit post](dreadit)
+- [Selene's map](selenes_map)
+- [Selene's diary](selene_personal_journal)
+
+Related characters:
+
 - [M8](../m8)
 - [Selene](../characters/selene.md)

@@ -5,7 +5,8 @@ also refers to many of the character's names. It is one of the first documents s
 categories: ["files"]
 tags: ["selene", "youtopia", "sof", "clive", "m8", "pan", "omen", "miseria", "vanth", 
 "archangels", "raphael", "michael", "uriel", "gabriel", "pusse", "lesser banishing ritual", "pentagram", 
-"insights", "connection", "empathy", ""]
+"insights", "connection", "empathy", "vision", "purpose"]
+image: "/Resources/files/map1.jpg"
 ---
 # YOUTOPIA_selenes_map.vis
 

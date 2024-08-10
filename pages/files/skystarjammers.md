@@ -4,6 +4,7 @@ description: "A poster of Skys & the Starjammers, the band from MANTRA cult lead
 Palace in 2004"
 categories: ["files"]
 tags: ["skys", "starjammers", "mantra", "october palace", "bring me the horizon"]
+image: "/Resources/files/skys_starjammers/sky.png"
 ---
 
 # Sky_&_The_Starjammers.png
