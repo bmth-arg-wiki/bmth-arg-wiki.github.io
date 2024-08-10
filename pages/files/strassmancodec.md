@@ -15,7 +15,8 @@ tags: ["strassman", "eve", "youtopia", "for sof", "karl", "pusse",
 
 A document in the [FOR SOF](for-sof) folder. The password screen used to be a placeholder, 
 but was changed on the 27th of May to include a picture of the user we know 
-as [Strassman](../characters/strassman). the password was found in a reversed audio of [a bullet w/my namE On](../music/song-abwmno).
+as [Strassman](../characters/strassman).
+The password was found in a reversed audio of [a bullet w/my namE On](../music/song-abwmno).
 
 ***
 
