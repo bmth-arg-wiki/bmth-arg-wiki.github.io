@@ -21,7 +21,7 @@ Enjoy this picture of buff M8 as a buffer between you and the spoilers.
 
 ***
 
-## Contents
+## Document contents
 
 We find a storage crate that belongs to [Selene](../characters/selene.md).
 
@@ -46,20 +46,22 @@ WAS NEVER MEANT TO BE FOUND !!!**
 > Be warned, this is a limited resource so be careful who you share the code with as this could comprimse your storage crate. 
 >
 > To claim your prize, email your full name + NOX to storagecrate@multidimensionalnavigator8.help
->
-> (transcription by @elliecoptaaa on discord)
+
+(Transcription by @elliecoptaaa on Discord)
 
 ***
 
-## Decrypting the password
+## Password context
 
-The password was decrypted using the capital letters from the tracklist/songs? (source needed).
+The password was decrypted using the capital letters from the tracklist + album name.
 
 <details class="password">
   <summary>Password</summary>
 
 DEKODE THE MATRIX TO ATTAIN YOUR CONCEALED ORIGINS
 </details>
+
+![tracklist](../../Resources/files/capslock_doc/tracklist.jpeg)
 
 ***
 
