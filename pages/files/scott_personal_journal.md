@@ -10,6 +10,8 @@ image: "/Resources/files/scott_diary/0.jpg"
 
 # Scott_Personal_Journal_VSPR-37.doc
 
+> That face... that tasty face.. Tasty... itchy...
+
 Document in the [FOR SOF](for-sof) folder. The document discusses the outbreak of the VSPR-37 
 pandemic, which occurred in 2037. It has strong ties to the song [Dear Diary](../music/song-dear-diary)
 
