@@ -28,6 +28,8 @@ that the doctor is in fact Ren. The document itself also supports this.
 
 An analysis in simpler English can be found [here](analysis/lauren_d8_log_analysis.md).
 
+### Gallery
+
 {% include gallery.html folder="files/lauren_d8_log/gallery" %}
 
 ***
