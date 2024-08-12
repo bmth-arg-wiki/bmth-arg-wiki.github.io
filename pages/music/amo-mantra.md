@@ -5,7 +5,7 @@ description: "The song MANTRA from the album amo."
 ---
 # MANTRA (song)
 
-> 🛈 This article is about the song MANTRA, not about [the cult](../lore/mantra)
+> ℹ︎ This article is about the song MANTRA, not about [the cult](../lore/mantra)
 
 Second song from the album "amo".
 It is related to the [Mantra cult](../lore/mantra), which 
