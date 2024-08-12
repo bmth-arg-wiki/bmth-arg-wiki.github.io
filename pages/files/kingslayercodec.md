@@ -10,10 +10,18 @@ image: "/Resources/files/kingslayer_codek/puzzle.png"
 
 # Kngsl@yer_EncrypMsg.codek
 
-The Kingslayer file has not been cracked yet. It requires two steps:
+> ⚠ This page contains password spoilers.
 
-1. Solving a puzzle (solved)
-2. Entering a password of an unknown length within a 30-second timer.
+The Kingslayer file has been cracked but leads to a black screen. 
+
+It requires two steps that have to be be achieved within the 8:25 timer:
+
+1. Solving a puzzle
+2. Entering a password. 
+
+***
+
+## Document contents
 
 <details class="password">
   <summary>Password</summary>
@@ -23,11 +31,11 @@ The Kingslayer file has not been cracked yet. It requires two steps:
 
 ***
 
-## The Puzzle
+## Password context
 
-> 🛈 This puzzle is very time-consuming, and the password screen only allows you 30 
-> seconds to try a password after you click check.
-> Keep the password ready!
+### The puzzle
+
+> ℹ︎  The puzzle is very time-consuming, and the password screen only allows very little time to enter the password after you click check. So keep the password ready!
 
 ![Solution to the wire puzzle](../../Resources/files/kingslayer_codek/puzzle.png)
 
@@ -48,5 +56,10 @@ continues until the end.
 
 ## Read More
 
+Related file:
+
+- [Project D.U.S.T.](project_dust) (brief mention of Project Kingslayer)
+
+Related song:
+  
 - [Itch for the Cure & Kingslayer](../music/song-kingslayer-itch)
-- [Project D.U.S.T.](project_dust) (Briefly mentions Project Kingslayer)

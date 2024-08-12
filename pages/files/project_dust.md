@@ -12,6 +12,8 @@ image: "/Resources/files/project_dust/projectdust2.png"
 
 > ⚠ This page contains password spoilers, since it uses an image.
 
+> Our primary objective centers on the development of a potent bioweapon.
+
 This file contains a research proposal from [ARC/HIVE](../music/amo-in-the-dark) 
 for several projects. The initial proposal was finished or sent on the 15th of January 2021, 
 then the document was declassified by Nex Gen exactly 10 years later.

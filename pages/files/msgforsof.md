@@ -24,9 +24,13 @@ say a few more words goodbye and then end the recording.
 
 ***
 
-## Audio transcript 
+## Document contents
 
-Adapted from Discord user @KKChamps
+![player](/../../Resources/files/msgforsof/msgforsof-player.png)
+
+***
+
+## Transcription
 
 > Hi Sof. This is Selene. 
 I’m your… I’m your mother. 
@@ -68,6 +72,8 @@ Because unlocking these secrets will be difficult, but learning the truth will b
 > I love you. I love you. I.. I’m sorry.
 >
 > [alarm still blaring, beep before recording ends]
+
+(Transcription by @KKChamps on Discord) 
 
 ***
 

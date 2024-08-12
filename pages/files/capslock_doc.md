@@ -10,6 +10,8 @@ image: "/Resources/files/capslock_doc/crate_selene.png"
 
 # Capslock Doc
 
+> This behaviour is both naughty and counterproductive!
+
 The capslock doc can be found in the `FOR SOF` folder on the computer.
 
 **(SPOILER) WARNING**: The password for this document was uncovered earlier than it was supposed to be. Using the information 
@@ -21,7 +23,7 @@ Enjoy this picture of buff M8 as a buffer between you and the spoilers.
 
 ***
 
-## Contents
+## Document contents
 
 We find a storage crate that belongs to [Selene](../characters/selene.md).
 
@@ -46,20 +48,22 @@ WAS NEVER MEANT TO BE FOUND !!!**
 > Be warned, this is a limited resource so be careful who you share the code with as this could comprimse your storage crate. 
 >
 > To claim your prize, email your full name + NOX to storagecrate@multidimensionalnavigator8.help
->
-> (transcription by @elliecoptaaa on discord)
+
+(Transcription by @elliecoptaaa on Discord)
 
 ***
 
-## Decrypting the password
+## Password context
 
-The password was decrypted using the capital letters from the tracklist/songs? (source needed).
+The password was decrypted using the capital letters from the tracklist + album name.
 
 <details class="password">
   <summary>Password</summary>
 
 DEKODE THE MATRIX TO ATTAIN YOUR CONCEALED ORIGINS
 </details>
+
+![tracklist](../../Resources/files/capslock_doc/tracklist.jpeg)
 
 ***
 
@@ -100,19 +104,19 @@ placeholder address anymore**.
 >
 > So stop being a dipshit, and play fair!
 >
->              (\ __ /)
+>              (\__/)
 >               (UwU)
->        ＿ノ ヽ ノ＼＿
->     /　`/ ⌒Ｙ⌒ Ｙ　 \
->  (　 (三ヽ人　 /　　 |
-> |　ﾉ⌒＼ ￣￣ヽ　 ノ
-> ヽ＿＿＿＞､＿＿／
+>           ＿ノ ヽ ノ＼＿
+>         /　`/ ⌒Ｙ⌒ Ｙ　 \
+>       (　 (三ヽ 人 /　　 |
+>      | 　ﾉ⌒＼   ￣￣ヽ ノ
+>       ヽ＿＿＿＞､＿＿／
 >           ｜( 王 ﾉ〈
 >            /ﾐ`ー―彡\
->           |╰         ╯|
->           |       /\       |.  M8 XOXOX
->           |      /  \      |
->           |    /     \     |
+>           |╰      ╯|
+>           |   /\   |.  M8 XOXOX
+>           |  /  \  |
+>           | /    \ |
 
 The email ends with an ASCII art rendering of M8, which has been screen captured to preserve this 
 authentic artwork.

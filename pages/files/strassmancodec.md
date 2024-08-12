@@ -84,7 +84,6 @@ Related files:
 
 - [Dreadit post](dreadit)
 - [Youtopia map](selenes_map)
-- []()
 
 Related Characters:
 

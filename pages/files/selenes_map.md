@@ -10,6 +10,8 @@ image: "/Resources/files/map1.jpg"
 ---
 # YOUTOPIA_selenes_map.vis
 
+> Where it ended (or began?)
+
 Selene's map is a file unlocked early in the ARG. The map itself contains references 
 to the [four insights](../lore/insights); [connection](../lore/insight1-connection), 
 [empathy](../lore/insight2-empathy), [purpose](../lore/insight3-purpose) and [vision](../lore/insight4-vision).
