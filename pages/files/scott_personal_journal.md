@@ -25,26 +25,9 @@ pandemic, which occurred in 2037. It has strong ties to the song [Dear Diary](..
 0005
 </details>
 
-![See the section transcription](../../Resources/files/scott_diary/0.jpg)
-![](../../Resources/files/scott_diary/1.jpg)
-![](../../Resources/files/scott_diary/2.jpg)
-![](../../Resources/files/scott_diary/3.jpg)
-![](../../Resources/files/scott_diary/4.jpg)
-![](../../Resources/files/scott_diary/5.jpg)
-![](../../Resources/files/scott_diary/6.jpg)
-![](../../Resources/files/scott_diary/7.jpg)
-![](../../Resources/files/scott_diary/8.jpg)
-![](../../Resources/files/scott_diary/9.jpg)
-![](../../Resources/files/scott_diary/10.jpg)
-![](../../Resources/files/scott_diary/11.jpg)
-![](../../Resources/files/scott_diary/12.jpg)
-![](../../Resources/files/scott_diary/13.jpg)
-![](../../Resources/files/scott_diary/14.jpg)
-![](../../Resources/files/scott_diary/15.jpg)
-![](../../Resources/files/scott_diary/16.jpg)
-![](../../Resources/files/scott_diary/17.jpg)
-![](../../Resources/files/scott_diary/18.jpg)
+### Gallery
 
+{% include gallery.html folder="files/scott_diary/gallery" %}
 ***
 
 ## Transcription
