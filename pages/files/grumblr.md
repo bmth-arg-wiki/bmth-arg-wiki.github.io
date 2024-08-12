@@ -10,7 +10,7 @@ image: "/Resources/files/grumblr/GRUMBLR-1.png"
 
 # GRUMBLR.Rebecca_Sinclair_01142027
 
-> 🛈 Used to be called Grumblr.HTML
+> ℹ︎ Used to be called Grumblr.HTML
 
 > I'm a crazy cat lady who listens to old-school metalcore and watches anime.
 
