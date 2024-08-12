@@ -46,7 +46,7 @@ connection
 
 ### Gallery
 
-% include gallery.html folder="lore/insights/connection/gallery" %}
+{% include gallery.html folder="lore/insights/connection/gallery" %}
 
 ***
 
