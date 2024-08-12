@@ -11,6 +11,8 @@ image: "/Resources/files/unbeleevable/doesntknowwhoheis.png"
 ---
 # Nex Gen leak "UNBELEEVABLE".doc
 
+> A cult supposedly run by a sentient I.A. robot that’s now the big cheese at a company riddled with more problems than a pub with no pints. I'm telling you; this lot are madder than a bag of foreskins. Tonight, we’ll be investigating the deranged tales of the cult of Genxsis, a cult so secret even they have secrets, the secrets have seschrets(?).
+
 This file contains an email from Nex Gen's internal network and the video attached to said email. 
 It is currently unknown whether the Dr. Lee MD from the video is also [Madman](../characters/madman) in the ARG.
 
