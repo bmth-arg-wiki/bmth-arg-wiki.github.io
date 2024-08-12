@@ -1,6 +1,7 @@
 ---
 title: "Angeldust"
 categories: ["characters", "live"]
+gallery_url: "/Resources/characters/angeldust/gallery"
 ---
 # Angeldust
 
@@ -27,14 +28,9 @@ Angeldust might also be linked to [Project D.U.S.T.](../files/project_dust).
 - [Rock Am Ring live show on YouTube](https://www.youtube.com/watch?v=zSwqLsuJRY0&pp=ygUebGl2ZSBzaG93IGJyaW5nIG1lIHRoZSBob3Jpem9u)
 - [BMTH live in London](https://www.youtube.com/watch?v=iDLwJ_ZqMk8)
 - [BMTH live at Graspop](https://www.youtube.com/watch?v=YNhjDaZmaac)
-- 
 
 ***
 
-## More Art
+## Gallery
 
-![Snapinsta.app_419285522_396189546210516_8103701970798932103_n_1080.jpg](../../Resources/characters/angeldust/Snapinsta.app_419285522_396189546210516_8103701970798932103_n_1080.jpg)
-![Snapinsta.app_420586154_2161014334245862_7991196059243332298_n_1080.jpg](../../Resources/characters/angeldust/Snapinsta.app_420586154_2161014334245862_7991196059243332298_n_1080.jpg)
-![Snapinsta.app_421965101_1714557015704404_8347097338448662242_n_1024.jpg](../../Resources/characters/angeldust/Snapinsta.app_421965101_1714557015704404_8347097338448662242_n_1024.jpg)
-
-More Angeldust art found by various BMTH-collaborators on Instagram.
+{% include gallery.html folder="characters/angeldust/gallery" %}

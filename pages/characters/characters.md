@@ -48,12 +48,11 @@ These are:
 | Character                            | Source                                                   |
 |--------------------------------------|----------------------------------------------------------|
 | [Sof](sof)                           | Mentioned on Horizon supply website, girl on the cover   |
-| [Angeldust](#angeldust)              | Mentioned in live shows                                  |
+| [Angeldust](angeldust)               | Mentioned in live shows                                  |
 | [Dr. Elias Mortem](#dr-elias-mortem) | Mentioned in [Project D.U.S.T.](../files/project_dust)   |
 | [Emily](#emily)                      | Mentioned in the BMTH Discord                            |
 | [Rebecca](#rebecca)                  | Mentioned in [Tekka interview](../files/tekka_interview) |
 | [Victor Carmine](#victor-carmine)    | Mentioned in [Tekka interview](../files/tekka_interview) |
-{: .table }
 
 ### Sof
 
