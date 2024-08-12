@@ -26,7 +26,7 @@ It was the first reveal that the [MANTRA cult](../lore/mantra) was a part of the
 knife hammer poison rope
 </details>
 
-![The Operation Trinity Document](../../Resources/files/operation_trinity.jpg)
+![The Operation Trinity Document](../../Resources/files/trinity/operation_trinity.jpg)
 
 ***
 
