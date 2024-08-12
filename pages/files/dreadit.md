@@ -8,6 +8,8 @@ image: "/Resources/files/dreadit/dreadit.png"
 ---
 # DREADITScreenshot 2051.1.5.59.43.vis
 
+> everyones favourite AI run megalordz Nex Gen is back on the scene.
+
 This file seems to be a forum post and first appeared in a website update on 28/05/2024. 
 The password was discovered in the URL that appeared in [the Spyder web browser](../webbrowser).
 
