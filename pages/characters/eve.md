@@ -7,9 +7,6 @@ categories: ["characters"]
 ![Eve's Avatar](../../Resources/characters/eve/eve.png)
 
 EVE is user 0000 in the system and the 'big boss', as M8 calls her.
-
-![Dialogue from M8 calling EVE the big boss](../../Resources/characters/eve/eve_boss.png)
-
 It is implied that EVE is on earth, while we are not, from M8's voice lines.
 
 ***
@@ -79,8 +76,6 @@ Relevant lore:
 - [Youtopia](../lore/youtopia)
 - [P.U.S.S-E](../lore/pusse)
 
-## More Art
+## Gallery
 
-![Unofficial Poster from Instagram](../../Resources/characters/eve/unofficial_poster.jpg)
-
-These posters were scrapped, but designed to be original material.
+{% include gallery.html folder="characters/eve/gallery" %}
