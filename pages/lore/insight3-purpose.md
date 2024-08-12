@@ -36,14 +36,9 @@ Insight 3 is also associated with [Pickles](../characters/pickles).
 `purpose`
 </details>
 
-![img_13.png](../../Resources/lore/insights/purpose/img_13.png)
-![img_14.png](../../Resources/lore/insights/purpose/img_14.png)
-![img_15.png](../../Resources/lore/insights/purpose/img_15.png)
-![img_16.png](../../Resources/lore/insights/purpose/img_16.png)
-![img_1.png](../../Resources/lore/insights/purpose/img_1.png)
-![img_2.png](../../Resources/lore/insights/purpose/img_2.png)
-![img_3.png](../../Resources/lore/insights/purpose/img_3.png)
-![img_4.png](../../Resources/lore/insights/purpose/img_4.png)
+### Gallery
+
+{% include gallery.html folder="lore/insights/purpose/gallery" %}
 
 ***
 
