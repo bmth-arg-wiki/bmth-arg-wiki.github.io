@@ -12,6 +12,8 @@ image: "/Resources/files/grumblr/GRUMBLR-1.png"
 
 > 🛈 Used to be called Grumblr.HTML
 
+> I'm a crazy cat lady who listens to old-school metalcore and watches anime.
+
 This file's name seems to be a play on Tumblr, just like [Dreaddit](dreadit) was a nod to Reddit.
 It contains an entry from [Rebecca Sinclair](../characters/rebecca) who has already been seen in [Tekka Magasine](tekka_interview).
 
