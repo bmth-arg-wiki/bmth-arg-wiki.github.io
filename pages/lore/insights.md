@@ -1,17 +1,23 @@
 ---
 title: "The Four Insights"
+description: "An overview of all four insights: connection, empathy, purpose, vision."
 categories: ["lore"]
+tags: "insights", "connection", "empathy", "purpose", "vision", "youtopia", "for sof"
 ---
 # The Four Insights
 
-The first hint about the four insights was found in a spectrogram of the song YOUtopia.
+> As Above So Below
 
-!["Master the 4 insights"](../../Resources/lore/insights/empathy/img_2.png)
-Around 3:48 in the song, the message is hidden.
+Document in the [FOR SOF](../files/for-sof) folder. It introduces us to the Insights. We do not kn0w its author, but we assume that [Selne](../characters/selene) likely left these files here for [Sof](../characters/sof).
 
 ***
 
-## Insight Spectrograms
+## Insights spectrograms
+
+The first hint about the four insights was found in a spectrogram of the song [YOUtopia](../music/song-youtopia).
+
+!["Master the 4 insights"](../../Resources/lore/insights/empathy/img_2.png)
+Around 3:48 in the song, the message is hidden.
 
 The following songs also contain hidden images related to the insights:
 
@@ -24,23 +30,24 @@ Please explore their articles for more details.
 
 ***
 
-## Introduction to the Insights
+## Document contents
 
-The [FOR SOF](../files/for-sof) folder contains a document `THEINSIGHTS.doc` that introducees us
-to the insights.
-We do not know the author, but we know that [Selene](../characters/selene) likely left the files there for [Sof](../characters/sof).
+screenshots here
 
-![Screenshot stating each insight has an omen from the ARG files](../../Resources/lore/insights/insights_omen_curse.png)
+***
 
+## Information
 
 Note that this document states that each insight comes with an omen and a curse. 
 The omens are mentioned in the documents for the insights, but the curses are not.
 
 All the insights also contain a reference to the four elements: air, water, fire and earth.
 
+Compass of Selene's map:
+
 ![Compass from Selene's map](../../Resources/lore/insights/insight-directions.png)
 
-Compass from Selene's map. North is [vision](insight4-vision), East is [connection](insight1-connection), 
+North is [vision](insight4-vision), East is [connection](insight1-connection), 
 South corresponds to [purpose](insight3-purpose) and West is [empathy](insight2-empathy).
 
 Each insight is also linked to a specific region in [Youtopia](youtopia), as indicated on 
