@@ -104,19 +104,19 @@ placeholder address anymore**.
 >
 > So stop being a dipshit, and play fair!
 >
->              (\ __ /)
+>              (\__/)
 >               (UwU)
->        ＿ノ ヽ ノ＼＿
->     /　`/ ⌒Ｙ⌒ Ｙ　 \
->  (　 (三ヽ人　 /　　 |
-> |　ﾉ⌒＼ ￣￣ヽ　 ノ
-> ヽ＿＿＿＞､＿＿／
+>           ＿ノ ヽ ノ＼＿
+>         /　`/ ⌒Ｙ⌒ Ｙ　 \
+>       (　 (三ヽ 人 /　　 |
+>      | 　ﾉ⌒＼   ￣￣ヽ ノ
+>       ヽ＿＿＿＞､＿＿／
 >           ｜( 王 ﾉ〈
 >            /ﾐ`ー―彡\
->           |╰         ╯|
->           |       /\       |.  M8 XOXOX
->           |      /  \      |
->           |    /     \     |
+>           |╰      ╯|
+>           |   /\   |.  M8 XOXOX
+>           |  /  \  |
+>           | /    \ |
 
 The email ends with an ASCII art rendering of M8, which has been screen captured to preserve this 
 authentic artwork.
