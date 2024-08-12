@@ -73,7 +73,7 @@ Because unlocking these secrets will be difficult, but learning the truth will b
 >
 > [alarm still blaring, beep before recording ends]
 
-(Transcription by @KKChamps on Discord)
+(Transcription by @KKChamps on Discord) 
 
 ***
 
