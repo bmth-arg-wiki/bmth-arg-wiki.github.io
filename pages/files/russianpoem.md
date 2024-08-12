@@ -9,7 +9,7 @@ image: "/Resources/files/russian_poem/russian_poem.png"
 
 # дорогая моя любовь.doc
 
-> 🛈 Used to be called Russian_poem.doc
+> ℹ︎ Used to be called Russian_poem.doc
 
 > "In the silence of the palace,
 > a moonbeam shines through the windows"
