@@ -10,6 +10,8 @@ image: "/Resources/files/capslock_doc/crate_selene.png"
 
 # Capslock Doc
 
+> This behaviour is both naughty and counterproductive!
+
 The capslock doc can be found in the `FOR SOF` folder on the computer.
 
 **(SPOILER) WARNING**: The password for this document was uncovered earlier than it was supposed to be. Using the information 
