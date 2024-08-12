@@ -104,7 +104,7 @@ placeholder address anymore**.
 >
 > So stop being a dipshit, and play fair!
 >
->               (\__/)
+>              (\__/)
 >               (UwU)
 >           ＿ノ ヽ ノ＼＿
 >         /　`/ ⌒Ｙ⌒ Ｙ　 \
