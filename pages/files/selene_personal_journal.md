@@ -10,6 +10,8 @@ image: "/Resources/files/selene_diary/0.jpg"
 ---
 # Selene_Personal_Journal_2037.02.doc
 
+> I dont get why they're so freaked out. It's just a bug, right?
+
 Document in the [FOR SOF](for-sof) folder. Selene talks about school and [Scott](scott_personal_journal), only 
 being 16 years old at the time of writing.
 
