@@ -28,14 +28,15 @@ Please explore their articles for more details.
 
 The [FOR SOF](../files/for-sof) folder contains a document `THEINSIGHTS.doc` that introducees us
 to the insights.
-We do not know the author, but we know that Selene likely left the files there[](../characters/selene) for [Sof](../characters/sof).
+We do not know the author, but we know that [Selene](../characters/selene) likely left the files there for [Sof](../characters/sof).
 
 ![Screenshot stating each insight has an omen from the ARG files](../../Resources/lore/insights/insights_omen_curse.png)
+
 
 Note that this document states that each insight comes with an omen and a curse. 
 The omens are mentioned in the documents for the insights, but the curses are not.
 
-All the insights also contains a reference to the four elements: air, water, fire and earth.
+All the insights also contain a reference to the four elements: air, water, fire and earth.
 
 ![Compass from Selene's map](../../Resources/lore/insights/insight-directions.png)
 
@@ -69,7 +70,8 @@ The fourth document ends with the conclusion that we need to apply the insights.
 While there was speculation, the fifth insight first seems to be confirmed through Selene's map.
 
 ![Middle of Selene's map, for the fifth insight](../../Resources/lore/insights/fifth-insight.png)
-![Instagram story about a BMTH show in Vegas](../../Resources/lore/insights/insta_las_vegas_story_fifth element.png)
+
+![Instagram story about a BMTH show in Vegas](../../Resources/lore/insights/insta_las_vegas_story_fifth_element.png)
 
 Reference on Bring Me The Horizon's Instagram story.
 
