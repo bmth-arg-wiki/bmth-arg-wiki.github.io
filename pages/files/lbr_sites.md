@@ -31,7 +31,7 @@ redaction follows.
 /
 </details>
 
-![LBR Site file](../../Resources/files/lbr_site.png)
+![LBR Site file](../../Resources/files/lbr_sites/lbr_site.png)
 
 ***
 
