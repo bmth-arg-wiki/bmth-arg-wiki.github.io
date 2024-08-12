@@ -27,11 +27,9 @@ Password:
 ![password](../../Resources/files/project_dust/dust-password.png)
 The last two sigils are switched around.
 
+### Gallery
 
-![Project DUST folder cover](../../Resources/files/project_dust/projectdust2.png)
-![Project DUST page 1](../../Resources/files/project_dust/dust1.png)
-![Project DUST page 2](../../Resources/files/project_dust/dust2.png)
-![Project DUST page 3](../../Resources/files/project_dust/dust3.png)
+{% include gallery.html folder="files/project_dust/gallery" %}
 
 ***
 
