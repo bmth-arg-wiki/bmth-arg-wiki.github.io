@@ -1,6 +1,8 @@
 ---
 title: "Pan"
+description: "Pan is the omen of connection. He is described on Selene's map as a 'beautiful mistake'."
 categories: ["characters"]
+tags: ["pan", "pan's flute", "night of pan", "beautiful mistake", "raphael", "youtopia"]
 ---
 # Pan
 
@@ -9,6 +11,7 @@ categories: ["characters"]
 Omen of [Insight 1: Connection](../lore/insight1-connection). Before June 4th 2024, his number was 0009 in the system. 
 It is currently 0008. His skin tone also changed during a later update in June, giving his 
 light skin tone a pinkish hue.
+The older avatar can be seen in the [gallery](#gallery).
 
 ***
 
@@ -46,10 +49,6 @@ Other [omens](characters#omens):
 
 ***
 
-## More Art
+## Gallery
 
-![Pan's avatar](../../Resources/characters/pan/pan.png)
-
-Pan's old avatar, where his skin does not look pink.
-
-![Official tour poster](../../Resources/characters/pan/poster.jpg)
+{% include gallery.html folder="characters/pan/gallery" %}

@@ -1,6 +1,9 @@
 ---
 title: "Miseria"
+description: "Miseria is the omen of empathy."
 categories: ["characters"]
+tags: ["miseria", "omen", "pan", "vanth", "guardian tears", "gabriel", "archangel", 
+"insights", "empathy"]
 ---
 # Miseria
 
@@ -28,6 +31,6 @@ Other omens:
 
 ***
 
-## More Art
+## Gallery
 
-![Promotional poster for Miseria](../../Resources/characters/miseria/poster.jpg)
+{% include gallery.html folder="characters/miseria/gallery" %}

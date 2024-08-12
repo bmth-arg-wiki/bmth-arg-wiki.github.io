@@ -1,7 +1,12 @@
 ---
 title: "E.V.E"
+description: "E.V.E. is an AI designed to save humankind. She is an important figure at 
+Nex Gen corporation and works together closely with Dr. Karl Strassman."
 categories: ["characters"]
+tags: ["eve", "ai", "ia", "evolutionary virtual experiment", "extremely violent ersatz lifeform", 
+"selene", "pusse", "youtopia", "strassman", "nex gen"]
 ---
+
 # E.V.E
 
 ![Eve's Avatar](../../Resources/characters/eve/eve.png)
@@ -25,11 +30,11 @@ E.V.E's goal is to get her and [Strassman](./strassman)'s subjects into
 
 While Strassman is very concerned about the effects of the [study](../lore/nex-gen-corporation#nex-gen-study) 
 on its subjects, E.V.E brushes them off as necessary sacrifices needed for a better future. 
-Both of them are apparently researching [Selene](selene).
-The [dreadit post](../files/dreadit) mentions an immune child, which was later confirmed in a message 
-from EVE on the official BMTH server to be Selene.
+Both of them are researching [Selene](selene), the immune child mentioned in the Dreadit post. 
+This was confirmed by a [message from E.V.E.](../socials/eve-discord) on Discord.
 Due to her unique physiology, she still produces DMT (which P.U.S.S-E is based on) and they are 
 therefore interested in her pineal gland.
+They speak about "synthesizing her unique indole alkaloid structure" in the [Strassman codec](../files/strassmancodec).
 
 E.V.E. often slips up in her wording, often speaking about controlling humanity and then 
 correcting herself that she is saving humanity.
@@ -57,12 +62,17 @@ E.V.E's exact origins are currently unknown. The [Lauren D8 log](../files/lauren
 does seem to indicate that E.V.E. gained sentience in 2037, showing remarkable capabilities 
 far outside what the scientists expected her to be capable of.
 
-Since we see many different versions of E.V.E, including at the real world live shows, it is currently unclear whether 
-this was their first version of E.V.E.
+Since we see many different versions of E.V.E, including at the real world live shows, it is currently 
+unclear whether this was their first version of E.V.E.
+
+The [Grumblr](../files/grumblr) post also talks about an AI chatbot [Iara](iara) created, a 
+possible predecessor or primitive version of E.V.E.
 
 ***
 
 ## Read More
+
+- [E.V.E's messages on Discord](../socials/eve-discord.md)
 
 Relevant characters:
 
@@ -75,6 +85,8 @@ Relevant lore:
 - [Nex Gen](../lore/nex-gen-corporation)
 - [Youtopia](../lore/youtopia)
 - [P.U.S.S-E](../lore/pusse)
+
+***
 
 ## Gallery
 

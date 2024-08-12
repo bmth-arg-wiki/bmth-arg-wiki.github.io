@@ -10,17 +10,15 @@ The [first file](../files/msgforsof) introduces the relationship between her and
 
 ![Nex Gen album cover](../../Resources/music/album_cover.png)
 
+The access card designed to be shipped with the Sof statue specifically refers to Sof 
+as "The Post Human".
+
 ***
 
 ## Identification
 
 Since Sof is not a user in the [M8 system](../webpage), her name had to be determined from 
-other sources.
-
-![Shirt featuring and identifying Sof on the Horizon Supply website](../../Resources/characters/sof/nex_gen_sof_shirt.png)
-![Vex backpack from horizon supply](../../Resources/characters/sof/nex_gen_sof_backpack.png)
-
-It seems that the bear pictured with her is called VEX from the Horizon merch listings.
+other sources, with the first being Horizon Supply. It seems that the bear pictured with her is called VEX from the Horizon merch listings.
 
 While she originated from earth, as stated by [M8](../m8), she does not currently seem to reside there.
 
@@ -59,15 +57,6 @@ discussion around the timeline.
 
 ***
 
-## Official Art
+## Gallery
 
-![Promotional poster for Sof](../../Resources/characters/sof/poster.jpg)
-![Sof by vinne.art on Instagram](../../Resources/characters/sof/sof_art.jpg)
-
-More original artwork from `@vinne.art`.
-
-![Access Card for Sof from merch](../../Resources/characters/sof/access_card.png)
-
-This access card was designed to be shipped with the Sof statue, bundled with
-some [band cards](characters#band-members) and other goodies along with the album.
-The authenticity card specifically refers to Sof as "The Post Human".
+{% include gallery.html folder="characters/sof/gallery" %}

@@ -60,6 +60,6 @@ Strassman at Nex Gen corporation:
 
 ***
 
-## Official Art
+## Gallery
 
-![Promotional poster for Strassman](../../Resources/characters/strassman/poster.jpg)
+{% include gallery.html folder="characters/strassman/gallery" %}

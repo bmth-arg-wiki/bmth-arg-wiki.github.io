@@ -1,7 +1,10 @@
 ---
 title: "Madman"
+description: "Madman is a stand-in for Lee Malia in the system users."
 categories: ["characters"]
+tags: ["madman", "lee malia", "bring me the horizon", "unbeleevable", "bmth"]
 ---
+
 # Madman
 
 ![Madman's avatar](../../Resources/characters/madman/madman.png)
@@ -28,9 +31,6 @@ Other band members:
 
 ***
 
-## More Art
+## Gallery
 
-![Promotional poster for Madman](../../Resources/characters/madman/poster.jpg)
-![Art on instagram by vinne.art](../../Resources/characters/madman/madman.jpg)
-
-Additional artwork by the original artist.
+{% include gallery.html folder="characters/madman/gallery" %}

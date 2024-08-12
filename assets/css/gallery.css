@@ -8,7 +8,7 @@
     box-sizing: border-box;
 }
 .gallery-item img {
-    width: 100%;
-    height: auto;
+    max-width: 33.3%;
+    max-height: 50%;
     display: block;
 }

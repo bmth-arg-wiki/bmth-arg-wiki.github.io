@@ -1,7 +1,11 @@
 ---
 title: "Pickles"
+description: "Pickles is the stand-in for Matt Nichols in the ARG universe."
 categories: ["characters"]
+tags: ["matt nichols", "pickles", "bmth", "bring me the horizon", "band member", "purpose", 
+"michael", "vanth"]
 ---
+
 # Pickles
 
 ![Pickles Avatar](../../Resources/characters/pickles/pickles.png)
@@ -31,9 +35,6 @@ Other band members:
 
 ***
 
-## More Art
+## Gallery
 
-![Promotional poster for Pickles](../../Resources/characters/pickles/poster.jpg)
-![Art on instagram by vinne.art](../../Resources/characters/pickles/pickles_art.jpg)
-
-Additional art from the original artist.
+{% include gallery.html folder="characters/pickles/gallery" %}

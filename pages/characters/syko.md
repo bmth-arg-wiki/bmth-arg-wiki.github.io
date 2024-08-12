@@ -10,6 +10,10 @@ Syko is the stand-in character in-universe for Oliver Sykes. He is user 0005 in 
 system.
 
 The insight associated with Syko is [Insight 1: Connection](../lore/insight1-connection).
+There is also a [tour poster](#gallery) with art of Oskar, which is the name of Oli's deceased dog
+and the name of Scott's dog in his diary.
+This poster is likely a tribute to Syko and Oli's hairy friend, which he also refers to in [Dear Diary,](../music/song-dear-diary) 
+and [Scott's diary](../files/scott_personal_journal).
 
 ***
 
@@ -56,15 +60,6 @@ Other band members:
 
 ***
 
-## Official Art
+## Gallery
 
-![Promotional poster for Syko](../../Resources/characters/syko/poster.jpg)
-![Syko art by vinne.art](../../Resources/characters/syko/syko_art.jpg)
-
-Additional artwork of Syko by the original artist on Instagram.
-
-![Artwork of Oskar](../../Resources/characters/syko/oskar_poster.png)
-
-There is also a tour poster with art of Oskar, which is the name of Oli's deceased dog 
-and the name of Scott's dog in his diary.
-This poster is likely a tribute to Syko and Oli's hairy friend.
+{% include gallery.html folder="characters/syko/gallery" %}

@@ -1,11 +1,14 @@
 ---
 title: "Archangel Uriel"
 categories: ["characters"]
+tags: ["vision", "gabriel", "raphael", "uriel", "michael", "archangel", "selene's map", 
+"north", "youtopia", "golden raspberry", "the babylon"]
 ---
 # Uriel
 
 Uriel is the fourth archangel, linked to [Insight 4: Vision](../lore/insight4-vision). 
-He is user 0002 on the [webpage](../webpage)
+He is user 0002 on the [webpage](../webpage).
+The symbol for 'Vision' is visible on his skirt in the [tour poster](#gallery).
 
 ![Uriel's Avatar](../../Resources/characters/uriel/uriel.png)
 
@@ -31,8 +34,7 @@ Other archangels:
 
 ***
 
-## More Art
+## Gallery
 
-![Promotional poster for Uriel](../../Resources/characters/uriel/poster.jpg)
+{% include gallery.html folder="characters/uriel/gallery" %}
 
-The symbol for [Vision](../lore/insight4-vision) is also visible on his skirt.

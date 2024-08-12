@@ -97,10 +97,6 @@ Related files:
 
 ***
 
-## More Art
+## Gallery
 
-![Art of Selene and Eve by vinne.art](../../Resources/characters/selene_eve_art.jpg)
-![Promotional poster for Selene](../../Resources/characters/selene/poster.jpg)
-![Selene connected to cables with white eyes, promotional poster](../../Resources/characters/selene/poster_cables.jpg)
-
-Official art from social media posts.
+{% include gallery.html folder="characters/selene/gallery" %}

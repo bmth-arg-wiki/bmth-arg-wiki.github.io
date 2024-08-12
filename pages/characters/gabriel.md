@@ -1,7 +1,11 @@
 ---
 title: "Archangel Gabriel"
+description: "Gabriel is the archangel of empathy."
 categories: ["characters"]
+tags: ["empathy", "gabriel", "raphael", "uriel", "michael", "archangel", "selene's map", 
+"miseria", "guardian tears", "youtopia"]
 ---
+
 # Gabriel
 
 ![Gabriel's avatar](../../Resources/characters/gabriel/gabriel.png)
@@ -31,6 +35,8 @@ Other archangels:
 - [Raphael](raphael)
 - [Uriel](uriel)
 
-## More Art
+***
 
-![Gabriel official tour poster](../../Resources/characters/gabriel/poster.jpg)
+## Gallery
+
+{% include gallery.html folder="characters/gabriel/gallery" %}

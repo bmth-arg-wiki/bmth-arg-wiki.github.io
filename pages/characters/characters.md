@@ -1,8 +1,13 @@
 ---
 title: "Character Overview"
-categories: ["characters"]
 description: "Overview page with all of the system users and other important characters."
+categories: ["characters"]
+tags: ["karl strassman", "dallus lauren", "skys", "madman", "syko", "lee malia", "vegan", "matt nichols", "pickles", 
+"oliver sykes", "eve", "sof", "selene", "rebecca sinclair", "matt kean", "uriel", "archangels", "omens", "gabriel", 
+"raphael", "michael", "purpose", "connection", "empathy", "vision", "insights", "nex gen", "m8", "ikaro lauren", "ren", 
+"iara", "vanth", "emily", "victor carmine", "angeldust", "trinity", "nex gen employees", "arc/hive"]
 ---
+
 # Characters
 
 The following page contains a categorization of the characters in the ARG. It will help you get an overview of the most 

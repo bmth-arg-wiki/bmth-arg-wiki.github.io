@@ -30,10 +30,6 @@ Other [band members](characters#band-members):
 
 ***
 
-## More Art
+## Gallery
 
-![Pickles by vinne.art, original artist](../../Resources/characters/vegan/vegan_art.jpg)
-
-More official art by @vinne.art on Instagram.
-
-![Official tour poster](../../Resources/characters/vegan/poster.jpg)
+{% include gallery.html folder="characters/vegan/gallery" %}

@@ -1,7 +1,11 @@
 ---
 title: "Iara"
+description: "Iara used to work at ARC/HIVE and can now be seen on her tour poster wearing a Nex Gen badge. 
+She is a talented coder, developing an AI chatbot at only 15 years old."
 categories: ["characters"]
+tags: ["iara", "ai", "chatbot", "arc/hive", "development", "machine learning", "rebecca sinclair"]
 ---
+
 # Iara
 
 Iara is user 0015 and works at Nex Gen. She used to be user 0016, before the 
@@ -28,6 +32,6 @@ was found on [social media](../socials/social-posts).
 
 ***
 
-## More Art
+## Gallery
 
-![Promotional poster for Iara](../../Resources/characters/iara/poster.jpg)
+{% include gallery.html folder="characters/iara/gallery" %}

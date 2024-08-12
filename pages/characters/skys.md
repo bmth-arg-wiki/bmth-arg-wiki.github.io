@@ -27,7 +27,7 @@ At some point he also started a band (Sky's & the Starjammers) and became the cu
 of the Neosages, better known as the [cult of Mantra](../music/amo-mantra).
 Lee then teases the next episode, which will focus on the Church of Genxsis and their involvement.
 
-![Poster for Skys & the Starjammers](../../Resources/files/skys_starjammers/poster.png)
+![Poster for Skys & the Starjammers](../../Resources/files/skys_starjammers/sky.png)
 
 Even though Operation Trinity only seems to take place in 2020 at the latest, we can 
 see that the band either already existed or was introduced in 2004, just like the real life 
@@ -54,8 +54,6 @@ Related articles:
 
 ***
 
-## More Art
+## Gallery
 
-![Young Skys between several kids](../../Resources/files/unbeleevable/young-skys.png)
-
-A young Skys, presumably after being abandoned by his parents, from the [Unbeleevable video](../files/unbeleevable)
+{% include gallery.html folder="characters/skys/gallery" %}

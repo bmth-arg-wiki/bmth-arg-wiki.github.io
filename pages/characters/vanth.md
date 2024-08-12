@@ -44,6 +44,6 @@ Other [omens](characters#omens):
 
 ***
 
-## Official Art
+## Gallery
 
-![Promotional poster for Vanth](../../Resources/characters/vanth/poster.jpg)
+{% include gallery.html folder="characters/vanth/gallery" %}
