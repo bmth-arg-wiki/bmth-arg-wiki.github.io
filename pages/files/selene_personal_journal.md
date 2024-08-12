@@ -25,6 +25,8 @@ being 16 years old at the time of writing.
 0003
 </details>
 
+### Gallery
+
 {% include gallery.html folder="files/selene_diary/gallery" %}
 
 From her diary we learn a little about her family. Her mom is nodding off on "soms", likely a drug, 
