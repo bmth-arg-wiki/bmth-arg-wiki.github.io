@@ -35,7 +35,7 @@ It requires two steps that have to be be achieved within the 8:25 timer:
 
 ### The puzzle
 
-> 🛈  The puzzle is very time-consuming, and the password screen only allows very little time to enter the password after you click check. So keep the password ready!
+> ℹ︎  The puzzle is very time-consuming, and the password screen only allows very little time to enter the password after you click check. So keep the password ready!
 
 ![Solution to the wire puzzle](../../Resources/files/kingslayer_codek/puzzle.png)
 
