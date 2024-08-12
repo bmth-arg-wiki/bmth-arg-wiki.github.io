@@ -27,21 +27,9 @@ It contains an entry from [Rebecca Sinclair](../characters/rebecca) who has alre
 14012
 </details>
 
-![grumblr screenshots](../../Resources/files/grumblr/GRUMBLR-1.png)
-![](../../Resources/files/grumblr/GRUMBLR-2.png)
-![](../../Resources/files/grumblr/GRUMBLR-3.png)
-![](../../Resources/files/grumblr/GRUMBLR-4.png)
-![](../../Resources/files/grumblr/GRUMBLR-5.png)
-![](../../Resources/files/grumblr/GRUMBLR-6.png)
-![](../../Resources/files/grumblr/GRUMBLR-7.png)
-![](../../Resources/files/grumblr/GRUMBLR-8.png)
-![](../../Resources/files/grumblr/GRUMBLR-9.png)
-![](../../Resources/files/grumblr/GRUMBLR-10.png)
-![](../../Resources/files/grumblr/GRUMBLR-11.png)
-![](../../Resources/files/grumblr/GRUMBLR-12.png)
-![](../../Resources/files/grumblr/GRUMBLR-13.png)
-![](../../Resources/files/grumblr/GRUMBLR-14.png)
-![](../../Resources/files/grumblr/GRUMBLR-15.png)
+### Gallery
+
+{% include gallery.html folder="files/grumblr/gallery" %}
 
 ***
 
