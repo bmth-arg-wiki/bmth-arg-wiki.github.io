@@ -25,25 +25,7 @@ being 16 years old at the time of writing.
 0003
 </details>
 
-![See the section transcription!](../../Resources/files/selene_diary/0.jpg)
-![](../../Resources/files/selene_diary/1.jpg)
-![](../../Resources/files/selene_diary/2.jpg)
-![](../../Resources/files/selene_diary/3.jpg)
-![](../../Resources/files/selene_diary/4.jpg)
-![](../../Resources/files/selene_diary/5.jpg)
-![](../../Resources/files/selene_diary/6.jpg)
-![](../../Resources/files/selene_diary/7.jpg)
-![](../../Resources/files/selene_diary/8.jpg)
-![](../../Resources/files/selene_diary/9.jpg)
-![](../../Resources/files/selene_diary/10.jpg)
-![](../../Resources/files/selene_diary/11.jpg)
-![](../../Resources/files/selene_diary/12.jpg)
-![](../../Resources/files/selene_diary/13.jpg)
-![](../../Resources/files/selene_diary/14.jpg)
-![](../../Resources/files/selene_diary/15.jpg)
-![](../../Resources/files/selene_diary/16.jpg)
-![](../../Resources/files/selene_diary/17.jpg)
-![](../../Resources/files/selene_diary/18.jpg)
+{% include gallery.html folder="files/selene_diary/gallery" %}
 
 From her diary we learn a little about her family. Her mom is nodding off on "soms", likely a drug, 
 in front of the TV. However, she does suggest to Selene's father that they stock up on supplies. 
