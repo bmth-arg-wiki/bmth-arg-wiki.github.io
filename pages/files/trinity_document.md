@@ -10,6 +10,8 @@ image: "/Resources/files/operation_trinity.jpg"
 ---
 # Operation_Trinity_Analysis.xslx
 
+> It is said that Trinity is intact.
+
 This file was introduced in an update on 19-06-2024. It confirms that there is lore for the 
 ARG hidden in BMTH's music since [Amo](../music/amo).
 It was the first reveal that the [MANTRA cult](../lore/mantra) was a part of the story.
