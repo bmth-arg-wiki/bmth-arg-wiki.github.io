@@ -75,12 +75,12 @@ redaction follows.
 
 ## Read More
 
-Relevant articles:
+Related articles:
 
 - [Nex Gen Corporation](../lore/nex-gen-corporation)
 - [ARC/HIVE](../lore/archive)
 
-Relevant characters:
+Related characters:
 
 - [EVE](../characters/eve)
 - [Rebecca Sinclair](../characters/rebecca)
