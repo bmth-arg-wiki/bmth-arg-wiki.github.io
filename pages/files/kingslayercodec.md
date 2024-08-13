@@ -101,6 +101,10 @@ The video is a brief radio call between "Spectre" and "Overwatch". They are foll
 >
 > [Call ends with a hang up sound.]
 
+> S K I P →
+> 
+> ◼︎◼︎◼︎ NX/GEN
+
 (Transcription by Alec)
 
 ***
