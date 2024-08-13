@@ -13,9 +13,9 @@ image: "/Resources/files/kingslayer_codek/puzzle.png"
 
 > Biohazard protocols are in effect.
 
-The Kingslayer file opens to a puzzle you have to solve in 7:55 minutes, which then opens a password sreen with a 30 seconds timer. 
+The Kingslayer file opens to a puzzle you have to solve in 7:55 minutes, which then opens a password screen with a 30 seconds timer. 
 
-The video is a brief radio call between "Spectre" and "Overwatch". They are following NYX 01 [(Selene)](../characters/selene) and NYX 02 [(Scott)](../characters/scott) closely before Spectre gets the FANTOM team to engage.
+The video is a brief radio call between "Spectre" and "Overwatch". They are following NYX 01 [(Selene)](../characters/selene) and NYX 02 [(Scott)](../characters/syko) closely before Spectre gets the FANTOM team to engage.
 
 ***
 
@@ -27,7 +27,7 @@ The video is a brief radio call between "Spectre" and "Overwatch". They are foll
 23.2907
 </details>
 
-[kingslayer codek screenshot](../../Resources/files/kingslayer_codek/kingslayer_codek_screenshot.png)
+![kingslayer codec screenshot](../../Resources/files/kingslayer_codek/kingslayer_codek_screenshot.png)
 
 ***
 
@@ -36,17 +36,25 @@ The video is a brief radio call between "Spectre" and "Overwatch". They are foll
 > MODE: CODEK
 
 > 140.15
+> 
 > → INCOMING →→ [string of numbers + letters + symbols that keeps changing]
+> 
 > SPECTRE nx.cdc
+> 
 > [Spectre avatar]
+> 
 > ACCESS LVL+ 4
 
 > MEMORY
 
 > 140.00
+> 
 > → INCOMING →→ [string of numbers + letters + symbols that keeps changing]
+> 
 > OVERWATCH nx.cdc
+> 
 > [Overwatch avatar]
+> 
 > ACCESS LVL+ 3
 
 > [Call over radio with eerie music:]
@@ -59,7 +67,7 @@ The video is a brief radio call between "Spectre" and "Overwatch". They are foll
 >
 > **Overwatch:** “Pulling up visuals on NYX 02. One moment. Oh, my…” [backs away from mic to vomit]
 >
-> **Spectre: ** “Overwatch, Report…”
+> **Spectre:** “Overwatch, Report…”
 >
 > **Overwatch:** “NYX 02 is… He appears to be consuming the face of… [stammers] I can only assume is… [stammers] A canine… This is…” [backs away from mic to vomit again]
 >
@@ -136,7 +144,7 @@ Related articles:
 Related characters:
 
 - [Selene](../characters/selene)
-- [Scott](../characters/scott)
+- [Scott](../characters/syko)
 
 Related song:
   
