@@ -4,6 +4,7 @@ description: "The first file in the folder is an audio message from Selene to he
 who she says has been born not even 20 minutes ago. She has to leave Sof after an alarm goes off."
 categories: ["files"]
 tags: ["sof", "selene", "mother", "m8", "birth", "destiny"]
+image: "/Resources/music/album_cover.png"
 ---
 # msgforsoff.aiff
 
@@ -26,7 +27,7 @@ say a few more words goodbye and then end the recording.
 
 ## Document contents
 
-![player](/../../Resources/files/msgforsof/msgforsof-player.png)
+![Audio player in the FOR SOF folder](../../Resources/files/msgforsof/msgforsof-player.png)
 
 ***
 

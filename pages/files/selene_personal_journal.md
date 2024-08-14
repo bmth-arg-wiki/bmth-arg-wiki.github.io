@@ -5,9 +5,10 @@ description: "Selene's diary is an early file revealing some details about her l
 likely already being infected."
 categories: ["files"]
 tags: ["selene", "vspr", "scott", "youtopia", "synths", "diary", "syko", "soms", "for sof", 
-"vspr-37", "pandemic", "synth", "jenna", "carter", "lawson", "eli", "pharma"]
+       "vspr-37", "pandemic", "synth", "jenna", "carter", "lawson", "eli", "pharma"]
 image: "/Resources/files/selene_diary/0.jpg"
 ---
+
 # Selene_Personal_Journal_2037.02.doc
 
 > I dont get why they're so freaked out. It's just a bug, right?

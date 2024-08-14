@@ -7,11 +7,11 @@ Dr. Lee MD speaks about the cult of MANTRA and Genxsis contains compromising inf
 for the company."
 tags: ["nex gen", "susan white", "unbeleevable", "dr lee md", "madman", "mantra", "church of genxsis", 
 "genxsis", "skys", "starjammers", "leak", "secret", "for sof", "novosovia"]
-image: "/Resources/files/unbeleevable/doesntknowwhoheis.png"
+image: "/Resources/files/unbeleevable/gallery/doesntknowwhoheis.png"
 ---
 # Nex Gen leak "UNBELEEVABLE".doc
 
-> A cult supposedly run by a sentient I.A. robot that’s now the big cheese at a company riddled with more problems than a pub with no pints. I'm telling you; this lot are madder than a bag of foreskins. Tonight, we’ll be investigating the deranged tales of the cult of Genxsis, a cult so secret even they have secrets, the secrets have seschrets(?).
+> "I'm telling you; this lot are madder than a bag of foreskins. Tonight, we’ll be investigating the deranged tales of the cult of Genxsis, a cult so secret even they have secrets, the secrets have seschrets(?)."
 
 This file contains an email from Nex Gen's internal network and the video attached to said email. 
 It is currently unknown whether the Dr. Lee MD from the video is also [Madman](../characters/madman) in the ARG.
@@ -29,9 +29,9 @@ It is currently unknown whether the Dr. Lee MD from the video is also [Madman](.
 The video the email is referring to is a video of Lee speaking about the Mantra
 cult. You can watch the [Unbeleevable video on YouTube](https://youtu.be/fQG3O6avUrw?si=zOYCqH0iVpDiaB2V)
 
-![Community Resource Analog Program](../../Resources/files/unbeleevable/communityresourceanalog.png)
-
 Within the ARG, this is broadcasted by Community Resource Analog Program (CRAP).
+
+{% include gallery.html folder="files/unbeleevable/gallery" %}
 
 ***
 
@@ -121,15 +121,6 @@ Within the ARG, this is broadcasted by Community Resource Analog Program (CRAP).
 > **Lee:** “Unbeleevable”
 
 (Transcription by Alec)
-
-***
-
-## More Screenshots
-
-![Screenshot of the man who does not know who he is](../../Resources/files/unbeleevable/doesntknowwhoheis.png)
-
-This man does not know who he is and is being interviewed by Dr. Lee MD. This is Matt Nichols, 
-one of the band members, although it is unknown whether he is also playing [Pickles](../characters/pickles) here.
 
 ***
 

@@ -8,6 +8,7 @@ tags: ["science study", "skys", "pink", "mantra", "Radiogenic Leukotrichia", "fo
        "new elysium", "2037", "vspr-37", "novosovia"]
 image: "/Resources/files/science_study/science_study_newspaper.png"
 ---
+
 # SCISTUDYSCAN1999wrist.SCN
 
 > "Conversely, in the Union of Novosovia, the condition is regarded with suspicion

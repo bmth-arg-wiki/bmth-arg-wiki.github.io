@@ -8,9 +8,10 @@ tags: ["selene", "youtopia", "sof", "clive", "m8", "pan", "omen", "miseria", "va
 "insights", "connection", "empathy", "vision", "purpose"]
 image: "/Resources/files/map1.jpg"
 ---
+
 # YOUTOPIA_selenes_map.vis
 
-> Where it ended (or began?)
+> "Where it ended (or began?)" - Selene
 
 Selene's map is a file unlocked early in the ARG. The map itself contains references 
 to the [four insights](../lore/insights); [connection](../lore/insight1-connection), 

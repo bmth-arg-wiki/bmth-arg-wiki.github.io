@@ -8,9 +8,10 @@ tags: ["karl", "strassman", "dallus", "lauren", "skys", "mantra", "arc/hive", "n
        "for sof", "cult", "DTC", "skais"]
 image: "/Resources/files/operation_trinity.jpg"
 ---
+
 # Operation_Trinity_Analysis.xslx
 
-> It is said that Trinity is intact.
+> "It is said that Trinity is intact."
 
 This file was introduced in an update on 19-06-2024. It confirms that there is lore for the 
 ARG hidden in BMTH's music since [Amo](../music/amo).

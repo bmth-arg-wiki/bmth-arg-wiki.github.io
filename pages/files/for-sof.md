@@ -3,9 +3,19 @@ title: "FOR SOF"
 description: "This page provides an overview of the files and passwords in the FOR SOF folder, along with 
 descriptions of previous versions of it."
 categories: ["files"]
-tags: ["lore", "for sof", "sof", "selene", "documents", "passwords"]
+tags: ["lore", "for sof", "sof", "selene", "documents", "passwords", "rain", "birth", 
+       "nex gen", "post human", "walkthrough", "arg", "bring me the horizon", "bmth", "password game", "qr code",
+       "dig it", "files", "serial number", "secrets", "past", "msgforsof", "insights",
+       "empathy", "connection", "purpose", "vision", "creativity", "capslock", "selene's storage crate",
+       "strassman", "karl", "pusse", "youtopia", "eve", "dreadit", "clive", "1d1b2c2a",
+       "r8", "m8 systems", "within", "0003", "0005", "0014", "vspr-37", "scott", "syko", "ren", "ikaro lauren",
+       "operation trinity", "arc/hive", "tekka", "interview", "synth", "chronic environmental respiratory syndrome",
+       "cers", "project dust", "angeldust", "psy", "mares", "radiogenic leukotrichia", "pink hair", "unbeleevable",
+       "starjammers", "skys", "october palace", "mantra", "cult", "genxsis", "russian poem", "my dear love",
+       "kingslayer", "nyx 01", "nyx 02", "grumblr", "rebecca sinclair", "lbr", "lbrp", "lesser banishing ritual"]
 image: "/Resources/files/for_sof_password_prompt.png"
 ---
+
 # FOR SOF
 
 ![Password prompt for the folder](../../Resources/files/for_sof_password_prompt.png)

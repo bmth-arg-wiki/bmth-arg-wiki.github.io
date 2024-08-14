@@ -5,13 +5,13 @@ also deals with his grief around the loss of his father, Dallus Lauren."
 categories: ["files"]
 tags: ["lauren", "dallus", "ikaro", "ren", "arc/hive", "eve", "d8", "technology", 
 "for sof", "artificial intelligence", "genesis", "digitised", "date", "archival", "temporal", 
-"entity"]
+"entity", "ikara", "moxypak"]
 image: "/Resources/files/lauren_d8_log/0.jpg"
 ---
 
 # Lauren_D8_Log_203701.docx
 
-> 'Be mindful Ikaro, lest you be consumed by the very brilliance you seek to harness.'
+> "Be mindful Ikaro, lest you be consumed by the very brilliance you seek to harness."
 
 Document in the [FOR SOF](for-sof) folder. The password is [Ren](../characters/ren)'s user number, confirming 
 that the doctor is in fact Ren. The document itself also supports this.

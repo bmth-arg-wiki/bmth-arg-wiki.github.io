@@ -3,12 +3,14 @@ title: "Dreadit Post"
 description: "The dreadit post was written by a user taking a cynical look at Nex Gen 
 and the projects they are developing using the immune child."
 categories: ["files"]
-tags: ["dreadit", "nex gen", "youtopia", "for sof", "karl strassman"]
+tags: ["dreadit", "nex gen", "youtopia", "for sof", "karl strassman", "pusse", 
+       "immune child", "indole alkaloid structure", "pineal gland", "experiments", 
+       "vspr-37"]
 image: "/Resources/files/dreadit/dreadit.png"
 ---
 # DREADITScreenshot 2051.1.5.59.43.vis
 
-> everyones favourite AI run megalordz Nex Gen is back on the scene.
+> "everyones favourite AI run megalordz Nex Gen is back on the scene." - Renn_nstimpy72
 
 This file seems to be a forum post and first appeared in a website update on 28/05/2024. 
 The password was discovered in the URL that appeared in [the Spyder web browser](../webbrowser).

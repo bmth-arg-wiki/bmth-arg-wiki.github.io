@@ -4,7 +4,7 @@ description: "File from Strassman and someone redacted to Victor Carmine and yet
 The file described the LBR sites."
 categories: ["files"]
 tags: ["arc/hive", "victor carmine", "karl strassman", "nex gen", "lesser banishing ritual", 
-"for sof", "pentagram", "energy overload", "incident"]
+       "for sof", "pentagram", "energy overload", "incident"]
 image: "/Resources/files/lbr_site.png"
 ---
 

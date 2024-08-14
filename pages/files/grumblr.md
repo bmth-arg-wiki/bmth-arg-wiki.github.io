@@ -4,7 +4,9 @@ description: "A Grumblr post from Rebecca Sinclair describing the events around 
 diagnosis of CERS. She also speaks about Iara and the developments Dallus Lauren is making 
 at ARC/HIVE, that could potentially save humanity."
 categories: ["files"]
-tags: ["grumblr", "rebecca sinclair", "iara", "arc/hive", "synths", "cers"]
+tags: ["grumblr", "rebecca sinclair", "iara", "arc/hive", "synths", "cers", "live journal", 
+       "blood porridge", "chronic environmental respiratory syndrome", "dr. turner", "terminal", 
+       "cat lady", "coding", "new-Seoul", "cyberia"]
 image: "/Resources/files/grumblr/GRUMBLR-1.png"
 ---
 
@@ -12,7 +14,7 @@ image: "/Resources/files/grumblr/GRUMBLR-1.png"
 
 > ℹ︎ Used to be called Grumblr.HTML
 
-> I'm a crazy cat lady who listens to old-school metalcore and watches anime.
+> "I'm a crazy cat lady who listens to old-school metalcore and watches anime."
 
 This file's name seems to be a play on Tumblr, just like [Dreaddit](dreadit) was a nod to Reddit.
 It contains an entry from [Rebecca Sinclair](../characters/rebecca) who has already been seen in [Tekka Magasine](tekka_interview).

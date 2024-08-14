@@ -11,7 +11,7 @@ image: "/Resources/files/skys_starjammers/sky.png"
 
 > ⚠ This page contains password spoilers.
 
-> Do you wanna start a cult with me?
+> "Do you wanna start a cult with me?"
 
 This file contains a poster of Skys and his band, 'Skys and the Starjammers', 
 with the filename seemingly missing an S in Skys.

@@ -2,6 +2,7 @@
 title: "Social Media Posts"
 categories: ["socials", "archived"]
 description: "Important uncategorized social media posts."
+tags: ["social media", "bring me the horizon", "bmth", "arg"]
 ---
 # Social Media Posts
 
@@ -56,7 +57,7 @@ A poster of Selene and M8 looking sad, announcing a European Tour.
 is released on YouTube, with the introduction containing some information that shows 
 information about [M8](../m8)'s database (can be deduced from code shown in the intro).
 
-![M8s database](../../Resources/m8/M8s_database.png)
+![M8s database](../../Resources/m8/gallery/M8s_database.png)
 
 ### May 25th 2024
 

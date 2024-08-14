@@ -4,7 +4,7 @@ description: "Scott's diary speaks about being bitten and slowly succumbing to a
 in the middle of the starting VSPR-37 pandemic."
 categories: ["files"]
 tags: ["scott", "selene", "vspr", "diary", "youtopia", "syko", "oliver scott sykes", 
-"for sof", "vspr-37", "pandemic", "dear diary", "nexies"]
+       "for sof", "vspr-37", "pandemic", "dear diary", "nexies", "oskar", "nyx 02", "terminated"]
 image: "/Resources/files/scott_diary/0.jpg"
 ---
 

@@ -4,7 +4,8 @@ description: "This document proposes projects D.U.S.T. and project S.Y.K.O. The 
 by Dr. Elias Mortem, Lead Scientist at ARC/HIVE."
 categories: ["files"]
 tags: ["skys", "mantra", "trinity", "victor carmine", "arc/hive", "dust", "psy", "syko", 
-              "scott", "dallus lauren"]
+       "scott", "dallus lauren", "mares", "daughter", "special six", "altilium chordata", 
+       "dreamseeker", "lead scientist", "elias mortem"]
 image: "/Resources/files/project_dust/projectdust2.png"
 ---
 

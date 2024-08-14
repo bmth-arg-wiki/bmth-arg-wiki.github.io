@@ -3,8 +3,9 @@ title: "Kngsl@yer_EncrypMsg.codek"
 description: "A file with a puzzle and a password. It gives a video of a radio call between Spectre and Overwatch."
 categories: ["files"]
 tags: ["kingslayer", "codec", "codek", "for sof", "electric puzzle", "wires", 
-"currents", "youtopia", "Spectre", "Overwatch", "NYX 01", "NYX 02", "FANTOM", "Scott", "Selene", "NEX GEN"]
-image: "/Resources/files/kingslayer_codek/puzzle.png"
+       "currents", "youtopia", "Spectre", "Overwatch", "NYX 01", "NYX 02", "FANTOM", 
+       "Scott", "Selene", "NEX GEN", "post human", "vspr-37"]
+image: "/Resources/files/kingslayer_codek/kingslayer_codek_screenshot.png"
 ---
 
 # Kngsl@yer_EncrypMsg.codek
@@ -34,7 +35,7 @@ The video is a brief radio call between "Spectre" and "Overwatch". They are foll
 ## Transcription
 
 > MODE: CODEK
-
+>
 > 140.15
 > 
 > → INCOMING →→ [string of numbers + letters + symbols that keeps changing]
@@ -44,9 +45,9 @@ The video is a brief radio call between "Spectre" and "Overwatch". They are foll
 > [Spectre avatar]
 > 
 > ACCESS LVL+ 4
-
+>
 > MEMORY
-
+>
 > 140.00
 > 
 > → INCOMING →→ [string of numbers + letters + symbols that keeps changing]
@@ -56,7 +57,7 @@ The video is a brief radio call between "Spectre" and "Overwatch". They are foll
 > [Overwatch avatar]
 > 
 > ACCESS LVL+ 3
-
+>
 > [Call over radio with eerie music:]
 >
 > **Spectre:** “Command, do you have visuals on NYX 01 and NYX 02?”
@@ -100,7 +101,7 @@ The video is a brief radio call between "Spectre" and "Overwatch". They are foll
 > **Spectre:** “Understood. NYX 02 has been terminated. There was no way to take him alive. We will retrieve the body. Well, what’s left of it. 
 >
 > [Call ends with a hang up sound.]
-
+>
 > S K I P →
 > 
 > ◼︎◼︎◼︎ NX/GEN
@@ -150,6 +151,6 @@ Related characters:
 - [Selene](../characters/selene)
 - [Scott](../characters/syko)
 
-Related song:
+Related songs:
   
 - [Itch for the Cure & Kingslayer](../music/song-kingslayer-itch)

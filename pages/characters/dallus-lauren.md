@@ -14,7 +14,7 @@ Dallus Lauren, also referred to as 'Dallas Lauren' in the [Unbeleevable](../file
 video, is one of [the Trinity](characters#trinity).
 According to the [D8 log](../files/lauren_d8_log), he died in or before 2037.
 
-![Dallus 'Dallas' Lauren in Unbeleevable episode 1](../../Resources/files/unbeleevable/dallus_lauren_unbeleevable.png)
+![Dallus 'Dallas' Lauren in Unbeleevable episode 1](../../Resources/files/unbeleevable/gallery/dallus_lauren_unbeleevable.png)
 
 Dallus Lauren and [Skys](skys) on the [Operation Trinity document](../files/trinity_document).
 

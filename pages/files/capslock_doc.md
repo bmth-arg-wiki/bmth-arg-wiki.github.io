@@ -10,7 +10,7 @@ image: "/Resources/files/capslock_doc/crate_selene.png"
 
 # CAPSLOCK.DOC
 
-> This behaviour is both naughty and counterproductive!
+> "This behaviour is both naughty and counterproductive!" - M8
 
 The capslock doc can be found in the `FOR SOF` folder on the computer.
 
