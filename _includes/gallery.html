@@ -1,9 +1,15 @@
-<div class="gallery">
+<div class="columns is-multiline">
     {% assign gallery_path = "/Resources/" | append: include.folder %}
     {% for image in site.static_files %}
     {% if image.path contains gallery_path %}
-    <div class="gallery-item">
-        <img src="{{ image.path }}" alt="{{ image.basename }}" loading="lazy">
+    <div class="column is-one-quarter-desktop is-half-tablet is-full-mobile">
+        <div class="card">
+            <div class="card-image">
+                <figure class="image is-3by2">
+                    <img src="{{ image.path }}" alt="{{ image.basename }}" loading="lazy">
+                </figure>
+            </div>
+        </div>
     </div>
     {% endif %}
     {% endfor %}
