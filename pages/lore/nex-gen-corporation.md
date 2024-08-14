@@ -1,7 +1,16 @@
 ---
 title: "Nex Gen Corporation"
+description: "Nex Gen is a corporation with super AI E.V.E. They work on 
+projects to 'enhance' humans and bring them to Youtopia."
 categories: ["lore"]
+tags: ["nex gen", "bmth", "arg", "post human", "innovation", "technology", 
+       "m8", "reverber8", "project dust", "experiments", "synths", "cyborgs", 
+       "pusse", "youtopia", "d8", "ikaro lauren", "iara", "selene", "syko", 
+       "scott", "overwatch", "spectre", "fantom", "susan white", "fletcher", 
+       "strassman", "karl", "dmt", "dreamseeker", "arc/hive"]
+image: "/Resources/files/lbr_sites.png"
 ---
+
 # Nex Gen Corporation
 
 > *"ALL HAIL NEX GEN! Could I get an amen?!"*

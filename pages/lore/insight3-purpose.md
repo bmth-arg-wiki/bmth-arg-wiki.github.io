@@ -1,11 +1,14 @@
 ---
 title: "Purpose"
+description: "Purpose is the third insight, linked to Michael, Vanth and Pickles."
 categories: ["lore"]
-description: "insights purpose youtopia for sof"
+tags: ["insights", "purpose", "youtopia", "for sof", "michael", "vanth", "pickles", 
+       "south", "red"]
+image: "/Resources/lore/insights/purpose/gallery/purpose1.png"
 ---
 # Insight 3: Purpose
 
->*The Waltz Of Existence*
+> *"The Waltz Of Existence"*
 
 Purpose is the third insight, found in the spectrogram of puss-e.
 

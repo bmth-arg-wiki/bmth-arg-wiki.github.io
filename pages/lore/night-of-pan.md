@@ -1,6 +1,9 @@
 ---
 title: "Night of Pan"
+description: "The night of Pan is something hinted at in social posts, linking back to the character Pan."
 categories: ["lore"]
+tags: ["bmth", "arg", "bring me the horizon", "night of pan", "pan", "connection", 
+       "ego death", "thelema"]
 ---
 # Night of Pan
 

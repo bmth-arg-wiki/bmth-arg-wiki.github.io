@@ -1,11 +1,15 @@
 ---
-title: "Purpose"
+title: "Empathy"
+description: "Empathy is the second insight on the way to Youtopia. 
+It is associated with band member Madman, Miseria and angel Gabriel."
 categories: ["lore"]
-description: "insights empathy youtopia for sof"
+tags: ["insights", "empathy", "youtopia", "for sof", "gabriel", "miseria", 
+       "madman", "blue", "west"]
+image: "/Resources/lore/insights/empathy/gallery/empathy1.png"
 ---
 # Insight 2: Empathy
 
->*Seraphic Expression*
+> *"Seraphic Expression"*
 
 Empathy is the second insight we gather from the [spectrograms](../music/spectrograms).
 

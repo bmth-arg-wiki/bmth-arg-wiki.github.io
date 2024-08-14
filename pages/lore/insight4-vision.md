@@ -1,11 +1,16 @@
 ---
 title: "Vision"
+description: "Vision is the last insight to reach Youtopia. This insight is associated 
+with Uriel, Vegan and the golden raspberry."
 categories: ["lore"]
-description: "insights vision youtopia for sof"
+tags: ["insights", "vision", "youtopia", "for sof", "uriel", "golden raspberry", 
+       "vegan"]
+image: "/Resources/lore/insights/vision/gallery/vision1.png"
 ---
+
 # Insight 4: Vision
 
-> *Symphony of Sight*
+> *"Symphony of Sight"*
 
 The last insight in the numbered order is Vision. Its spectrogram was found in the song 'DIg It'. 
 While the official BMTH Discord server has channels for connection, empathy and purpose, the channel 

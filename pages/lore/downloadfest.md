@@ -1,6 +1,12 @@
 ---
 title: "Downloadfest"
+description: "Downloadfest is the most famous out of the Church of Genxsis events, 
+involving a hunt for riddles and a mysterious ceremony inside."
 categories: ["lore"]
+tags: ["downloadfest", "bring me the horizon", "bmth", "arg", "nex gen", "post human", 
+       "genxsis", "genxsis.faith", "cult", "church", "emily", "tarot", "cypher", 
+       "mutated dancers"]
+image: "/Resources/lore/genxsis.faith/genxsis_faith.png"
 ---
 # Downloadfest
 

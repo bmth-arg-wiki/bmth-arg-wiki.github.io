@@ -1,6 +1,11 @@
 ---
 title: "Church of Genxsis"
+description: "The church of Genxsis is a cult related to the Mantra cult. It was established in 1956 by Alfred Ingram Winter."
 categories: ["lore"]
+tags: ["bmth", "bring me the horizon", "church of genxsis", "eve", "church of genesis", 
+       "alfred ingram winter", "nex gen", "experiment", "vspr-37", "downloadfest", "genxsis.faith", 
+       "mantra", "cult"]
+image: "/Resources/lore/genxsis.faith/genxsis_faith.png"
 ---
 # Church of Genesis/Genxsis
 
@@ -37,7 +42,8 @@ the church of Genxsis and their involvement with the [Mantra cult](../music/amo-
 ![Website screenshot](../../Resources/lore/genxsis.faith/genxsis_faith.png)
 
 The website also contains a personality test and contained a hidden section behind
-a password field as well. Sadly, the password protected content could not be retrieved from the website.
+a password field as well. Sadly, the password protected content could not be 
+retrieved from the website.
 
 ***
 
@@ -119,7 +125,7 @@ from the Church of Genxsis to the announcements channel:
 
 ## Live shows
 
-During [Kool-Aid](../music/song-koolaid) live, we see Angeldust breaking down the 
+During [Kool-Aid](../music/song-koolaid) live, we see [Angeldust](../characters/angeldust) breaking down the 
 church.
 
 ***

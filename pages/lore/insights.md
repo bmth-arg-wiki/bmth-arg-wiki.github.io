@@ -2,7 +2,9 @@
 title: "The Four Insights"
 description: "An overview of all four insights: connection, empathy, purpose, vision."
 categories: ["lore"]
-tags: ["insights", "connection", "empathy", "purpose", "vision", "youtopia", "for sof"]
+tags: ["insights", "connection", "empathy", "purpose", "vision", "youtopia", 
+       "for sof", "archangels", "omens"]
+image: "/Resources/files/selenes_map/map1.jpg"
 ---
 # The Four Insights
 

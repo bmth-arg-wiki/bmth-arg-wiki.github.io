@@ -1,6 +1,9 @@
 ---
 title: "P.U.S.S-E"
+description: "P.U.S.S-E is DMT, used to reach Youtopia within the ARG universe."
 categories: ["lore"]
+tags: ["pusse", "dmt", "strassman", "youtopia", "nex gen", "arg", "pineal", "upregulation", 
+       "gland", "pharma", "spirit molecule", "mares"]
 ---
 # P.U.S.S-E
 

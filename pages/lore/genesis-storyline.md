@@ -1,8 +1,15 @@
 ---
 title: "Genesis Storyline"
+description: "The genesis storyline refers to a post surrounding the narrative 
+development of the Church of Genxsis, used in the shows for Downloadfest."
 categories: ["lore"]
+tags: ["genesis", "genxsis", "cult", "oliver sykes", "oli sykes", 
+       "bring me the horizon", "bmth", "downloadfest", "nex gen", "experiments", 
+       "eve", "ai"]
+image: "/Resources/socials/genesis-storyline.png"
 ---
-# Genesis Storyline - Narrative Development
+
+# Genesis Storyline — Narrative Development
 
 ![Genesis Storyline Image.png](../../Resources/socials/genesis-storyline.png)
 

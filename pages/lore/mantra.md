@@ -1,10 +1,15 @@
 ---
 title: "Mantra Cult"
+description: "The Neosages, also known as the Mantra cult were lead by Skys, a mysterious leader with a charming aura 
+and pink hair."
 categories: ["lore"]
+tags: ["mantra", "experimentation", "cult", "drug", "bring me the horizon", "bmth", 
+       "arg", "lore", "invitation to salvation", "joinmantra.org", "starjammers", "skys"]
+image: "/Resources/other-webpages/joinmantra.org/20180810062921.png"
 ---
 # Mantra Cult
 
-![Mantra logo with the phrase "An Invitation to Salvation"](../../Resources/other-webpages/joinmantra.org/20180810062921.png)
+![The Cult of Mantra](../../Resources/files/unbeleevable/gallery/cult-of-mantra.png)
 
 The Neosages, better known as the Mantra, are a cult with their leader being
 [Skys](../characters/skys).
@@ -47,6 +52,8 @@ It is unknown what happens to Skys after he is extracted.
 ***
 
 ## joinmantra.org
+
+![Mantra logo with the phrase "An Invitation to Salvation"](../../Resources/other-webpages/joinmantra.org/20180810062921.png)
 
 joinmantra.org was a promotion for the music video for [Mantra (song)](../music/amo-mantra).
 

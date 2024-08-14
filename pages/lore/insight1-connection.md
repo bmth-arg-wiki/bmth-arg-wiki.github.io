@@ -1,8 +1,13 @@
 ---
 title: "Connection"
+description: "Connection is one of the insights or revelations to master in 
+the ARG, in order to ascend to Youtopia."
 categories: ["lore"]
-description: "insights connection youtopia for sof"
+tags: ["insights", "connection", "youtopia", "for sof", "pan", 
+       "raphael", "pan's flute", "yellow", "east", "syko", "oliver sykes"]
+image: "/Resources/lore/insights/connection/gallery/connection1.png"
 ---
+
 # Insight 1: Connection
 
 > *"Manifest Divine Harmony"*
