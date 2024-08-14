@@ -1,7 +1,8 @@
 ---
 title: "Other webpages"
 categories: ["other"]
-description: "Other webpages that may be of interest to the ARG, "
+description: "Other webpages that may be of interest to the ARG, like genxsis.faith 
+and dungeoncrawl33r."
 ---
 # Other webpages
 

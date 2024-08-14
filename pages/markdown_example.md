@@ -2,6 +2,7 @@
 title: "Markdown Example"
 categories: ["tutorial"]
 description: "Please ignore this example page."
+tags: []
 ---
 # Title
 

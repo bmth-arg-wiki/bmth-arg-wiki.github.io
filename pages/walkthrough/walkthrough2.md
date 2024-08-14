@@ -1,7 +1,16 @@
 ---
 title: "Walkthrough Part 2"
-categories: ["other"]
 description: "The second part of the walkthrough focuses on opening the files in the FOR SOF folder."
+categories: ["other"]
+tags: ["walkthrough", "arg", "bring me the horizon", "bmth", "password game", "qr code",
+       "dig it", "sof", "files", "serial number", "secrets", "past", "msgforsof", "insights", 
+       "empathy", "connection", "purpose", "vision", "creativity", "capslock", "selene's storage crate", 
+       "selene", "strassman", "karl", "pusse", "youtopia", "eve", "dreadit", "clive", "1d1b2c2a", 
+       "r8", "m8 systems", "within", "0003", "0005", "0014", "vspr-37", "scott", "syko", "ren", "ikaro lauren", 
+       "operation trinity", "arc/hive", "tekka", "interview", "synth", "chronic environmental respiratory syndrome", 
+       "cers", "project dust", "angeldust", "psy", "mares", "radiogenic leukotrichia", "pink hair", "unbeleevable", 
+       "starjammers", "skys", "october palace", "mantra", "cult", "genxsis", "russian poem", "my dear love", 
+       "kingslayer", "nyx 01", "nyx 02", "grumblr", "rebecca sinclair", "lbr", "lbrp", "lesser banishing ritual"]
 ---
 # Walkthrough Part 2: FOR SOF
 

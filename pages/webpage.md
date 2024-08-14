@@ -1,8 +1,12 @@
 ---
 title: "Multidimensional Navigator 8 Webpage"
-categories: ["webpage"]
 description: "Discusses the most important parts we can view on the Multidimensional Navigator 8."
+categories: ["webpage"]
+tags: ["webpage", "m8", "multidimensional navigator", "8-line", "dashboard", "backgrounds", 
+"access card", "acid rain", "weather", "nocturne", "spyder", "codek", "codec", "nex gen", 
+"ARG", "post human"]
 ---
+
 # Multidimensional Navigator 8 Webpage
 
 Most of the ARG takes place in the Multidimensional Navigator. You can access 

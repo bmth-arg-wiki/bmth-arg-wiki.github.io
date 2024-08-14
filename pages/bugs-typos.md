@@ -2,6 +2,7 @@
 title: "Bugs & typos"
 categories: ["other"]
 description: "This page attempted to track known bugs and typo's, until it became too much."
+tags: ["bugs", "typos"]
 ---
 # Known bugs & typos
 
