@@ -8,7 +8,7 @@ tags: ["selene", "capslock doc", "anagram", "dekode", "matrix", "concealed origi
 image: "/Resources/files/capslock_doc/crate_selene.png"
 ---
 
-# Capslock Doc
+# CAPSLOCK.DOC
 
 > This behaviour is both naughty and counterproductive!
 
@@ -27,7 +27,7 @@ Enjoy this picture of buff M8 as a buffer between you and the spoilers.
 
 We find a storage crate that belongs to [Selene](../characters/selene.md).
 
-###Gallery
+### Gallery
 
 {% include gallery.html folder="files/capslock_doc/gallery" %}
 

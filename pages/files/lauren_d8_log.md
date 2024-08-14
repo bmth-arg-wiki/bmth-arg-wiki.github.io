@@ -28,44 +28,9 @@ that the doctor is in fact Ren. The document itself also supports this.
 
 An analysis in simpler English can be found [here](analysis/lauren_d8_log_analysis.md).
 
-![See section on the transcription](../../Resources/files/lauren_d8_log/0.jpg)
-![](../../Resources/files/lauren_d8_log/1.jpg)
-![](../../Resources/files/lauren_d8_log/2.jpg)
-![](../../Resources/files/lauren_d8_log/3.jpg)
-![](../../Resources/files/lauren_d8_log/4.jpg)
-![](../../Resources/files/lauren_d8_log/5.jpg)
-![](../../Resources/files/lauren_d8_log/6.jpg)
-![](../../Resources/files/lauren_d8_log/7.jpg)
-![](../../Resources/files/lauren_d8_log/8.jpg)
-![](../../Resources/files/lauren_d8_log/9.jpg)
-![](../../Resources/files/lauren_d8_log/10.jpg)
-![](../../Resources/files/lauren_d8_log/11.jpg)
-![](../../Resources/files/lauren_d8_log/12.jpg)
-![](../../Resources/files/lauren_d8_log/13.jpg)
-![](../../Resources/files/lauren_d8_log/14.jpg)
-![](../../Resources/files/lauren_d8_log/15.jpg)
-![](../../Resources/files/lauren_d8_log/16.jpg)
-![](../../Resources/files/lauren_d8_log/17.jpg)
-![](../../Resources/files/lauren_d8_log/18.jpg)
-![](../../Resources/files/lauren_d8_log/19.jpg)
-![](../../Resources/files/lauren_d8_log/20.jpg)
-![](../../Resources/files/lauren_d8_log/21.jpg)
-![](../../Resources/files/lauren_d8_log/22.jpg)
-![](../../Resources/files/lauren_d8_log/23.jpg)
-![](../../Resources/files/lauren_d8_log/24.jpg)
-![](../../Resources/files/lauren_d8_log/25.jpg)
-![](../../Resources/files/lauren_d8_log/26.jpg)
-![](../../Resources/files/lauren_d8_log/27.jpg)
-![](../../Resources/files/lauren_d8_log/28.jpg)
-![](../../Resources/files/lauren_d8_log/29.jpg)
-![](../../Resources/files/lauren_d8_log/30.jpg)
-![](../../Resources/files/lauren_d8_log/31.jpg)
-![](../../Resources/files/lauren_d8_log/32.jpg)
-![](../../Resources/files/lauren_d8_log/33.jpg)
-![](../../Resources/files/lauren_d8_log/34.jpg)
-![](../../Resources/files/lauren_d8_log/35.jpg)
-![](../../Resources/files/lauren_d8_log/36.jpg)
-![](../../Resources/files/lauren_d8_log/37.jpg)
+### Gallery 
+
+{% include gallery.html folder="files/lauren_d8_log/gallery" %}
 
 ***
 

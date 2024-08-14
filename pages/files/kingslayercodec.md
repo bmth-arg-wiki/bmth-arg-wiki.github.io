@@ -1,10 +1,9 @@
 ---
 title: "Kngsl@yer_EncrypMsg.codek"
-description: "A file with a puzzle and a password. It seems to be a video, but isn't viewable on 
-the website yet."
+description: "A file with a puzzle and a password. It gives a video of a radio call between Spectre and Overwatch."
 categories: ["files"]
 tags: ["kingslayer", "codec", "codek", "for sof", "electric puzzle", "wires", 
-"currents"]
+"currents", "youtopia", "Spectre", "Overwatch", "NYX 01", "NYX 02", "FANTOM", "Scott", "Selene", "NEX GEN"]
 image: "/Resources/files/kingslayer_codek/puzzle.png"
 ---
 
@@ -12,12 +11,11 @@ image: "/Resources/files/kingslayer_codek/puzzle.png"
 
 > ⚠ This page contains password spoilers.
 
-The Kingslayer file has been cracked but leads to a black screen. 
+> Biohazard protocols are in effect.
 
-It requires two steps that have to be be achieved within the 8:25 timer:
+The Kingslayer file opens to a puzzle you have to solve in 7:55 minutes, which then opens a password screen with a 30 seconds timer. 
 
-1. Solving a puzzle
-2. Entering a password. 
+The video is a brief radio call between "Spectre" and "Overwatch". They are following NYX 01 [(Selene)](../characters/selene) and NYX 02 [(Scott)](../characters/syko) closely before Spectre gets the FANTOM team to engage.
 
 ***
 
@@ -29,6 +27,86 @@ It requires two steps that have to be be achieved within the 8:25 timer:
 23.2907
 </details>
 
+![kingslayer codec screenshot](../../Resources/files/kingslayer_codek/kingslayer_codek_screenshot.png)
+
+***
+
+## Transcription
+
+> MODE: CODEK
+
+> 140.15
+> 
+> → INCOMING →→ [string of numbers + letters + symbols that keeps changing]
+> 
+> SPECTRE nx.cdc
+> 
+> [Spectre avatar]
+> 
+> ACCESS LVL+ 4
+
+> MEMORY
+
+> 140.00
+> 
+> → INCOMING →→ [string of numbers + letters + symbols that keeps changing]
+> 
+> OVERWATCH nx.cdc
+> 
+> [Overwatch avatar]
+> 
+> ACCESS LVL+ 3
+
+> [Call over radio with eerie music:]
+>
+> **Spectre:** “Command, do you have visuals on NYX 01 and NYX 02?”
+>
+> **Overwatch:** “Affirmative, Spectre. Just a moment. NYX 01’s biometrics are stable. Current location… Proceeding towards the last known coordinates of NYX 02. She’s moving along 7th avenue. Pinging coordinates to you now. Appears calm.”
+>
+> **Spectre:** “Understood. And NYX 02?”
+>
+> **Overwatch:** “Pulling up visuals on NYX 02. One moment. Oh, my…” [backs away from mic to vomit]
+>
+> **Spectre:** “Overwatch, Report…”
+>
+> **Overwatch:** “NYX 02 is… He appears to be consuming the face of… [stammers] I can only assume is… [stammers] A canine… This is…” [backs away from mic to vomit again]
+>
+> **Spectre:** “Overwatch! Stay focused! Can you confirm if there’s any anomalies present in his bio readings?” [Overwatch heaving in the background]
+>
+> **Overwatch:** “I’m sorry, Spectre. Checking now. Confirmed. His vitals are erratic, heart rate spiking… Body temperature elevated beyond human norms. Blood work shows unknown viral markers.”
+>
+> **Spectre:** “Acknowledged. We will secure NYX 01 at all costs. Prepare the containment unit and alert medical to the potential infection vector.”
+>
+> **Overwatch:** “Understood. Coordinates for extraction are set. Tracking movement… Shit. NYX 01 has entered NIX TWO’s house.”
+>
+> **Spectre**: “Understood! Move FANTOM, engage now!”
+>
+> [Glass breaking then a man yelling “Open fire!”]
+> 
+> [NYX 01 (Selene) screaming in pain]
+>
+> [Gunshots then the same man yelling “Get down! Get down!”] 
+> 
+> [NYX 01 and NYX 02 (Scott) screaming in pain]
+> 
+> [Final gunshot then silence]
+>
+> **Overwatch:** “Spectre? Requesting immediate status report.”
+>
+> **Spectre:** “Ah, fuck. Casualties sustained. One fatal. We have NYX 01. She has been bitten, but is secured. Engaging in procedure THETA LOCK to ensure containment.”
+>
+> **Overwatch:** “Get her to NG Medical Unit immediately. Biohazard protocols are in effect. Move her to the Solitary Confinement Wing Echelon 9.”
+>
+> **Spectre:** “Understood. NYX 02 has been terminated. There was no way to take him alive. We will retrieve the body. Well, what’s left of it. 
+>
+> [Call ends with a hang up sound.]
+
+> S K I P →
+> 
+> ◼︎◼︎◼︎ NX/GEN
+
+(Transcription by Alec)
+
 ***
 
 ## Password context
@@ -37,7 +115,7 @@ It requires two steps that have to be be achieved within the 8:25 timer:
 
 > ℹ︎  The puzzle is very time-consuming, and the password screen only allows very little time to enter the password after you click check. So keep the password ready!
 
-![Solution to the wire puzzle](../../Resources/files/kingslayer_codek/puzzle.png)
+![Solution to the wire puzzle](../../Resources/files/kingslayer_codek/kingslayer_codek_puzzle.png)
 
 The following is the solution to the maze. To solve it yourself, you will need to beat the 
 timer and click and rotate the pieces.
@@ -49,7 +127,7 @@ The pieces are always in the same order, making the strategy below the most viab
 4. Click it once more and rotate it into place.
 5. Repeat for each wire.
 
-Tip: you will need to click once for the first wire you connect, twice for the second and this pattern 
+Tip: you will need to click once for the first wire you connect, twice for the second, and this pattern 
 continues until the end.
 
 ***
@@ -59,6 +137,18 @@ continues until the end.
 Related file:
 
 - [Project D.U.S.T.](project_dust) (brief mention of Project Kingslayer)
+- [Unbeleevable](unbeleevable) (brief mention of the FANTOM Team)
+- [Selene's Diary](selene_personal_journal)
+- [Scott's Diary](scott_personal_journal)
+
+Related articles:
+
+- [Nex Gen](../lore/nex-gen-corporation)
+
+Related characters:
+
+- [Selene](../characters/selene)
+- [Scott](../characters/syko)
 
 Related song:
   

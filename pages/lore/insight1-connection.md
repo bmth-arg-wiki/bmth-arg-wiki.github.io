@@ -44,14 +44,9 @@ possibly indicating another code (might lead to [capslock doc](../files/capslock
 connection
 </details>
 
-![img_7.png](../../Resources/lore/insights/connection/connection1.png)
-![img.png](../../Resources/lore/insights/connection/connection2.png)
-![img_1.png](../../Resources/lore/insights/connection/connection3.png)
-![img_2.png](../../Resources/lore/insights/connection/connection4.png)
-![img_3.png](../../Resources/lore/insights/connection/connection5.png)
-![img_4.png](../../Resources/lore/insights/connection/connection6.png)
-![img_5.png](../../Resources/lore/insights/connection/connection7.png)
-![img_6.png](../../Resources/lore/insights/connection/connection8.png)
+### Gallery
+
+{% include gallery.html folder="lore/insights/connection/gallery" %}
 
 ***
 

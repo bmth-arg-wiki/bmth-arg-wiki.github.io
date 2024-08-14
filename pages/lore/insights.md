@@ -32,11 +32,9 @@ Please explore their articles for more details.
 
 ## Document contents
 
-![insights1](../../Resources/lore/insights/theinsights-1.png)
-![insights2](../../Resources/lore/insights/theinsights-2.png)
-![insights3](../../Resources/lore/insights/theinsights-3.png)
-![insights4](../../Resources/lore/insights/theinsights-4.png)
-![insights5](../../Resources/lore/insights/theinsights-5.png)
+### Gallery
+
+{% include gallery.html folder="lore/insights/insightsdoc/gallery" %}
 
 ***
 

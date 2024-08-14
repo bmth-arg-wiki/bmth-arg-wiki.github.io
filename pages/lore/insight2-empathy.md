@@ -41,15 +41,9 @@ Insight 2 is also associated with [Madman](../characters/madman).
 empathy
 </details>
 
-![img_3.png](../../Resources/lore/insights/empathy/img_3.png)
-![img_4.png](../../Resources/lore/insights/empathy/img_4.png)
-![img_6.png](../../Resources/lore/insights/empathy/img_6.png)
-![img_7.png](../../Resources/lore/insights/empathy/img_7.png)
-![img_8.png](../../Resources/lore/insights/empathy/img_8.png)
-![img_9.png](../../Resources/lore/insights/empathy/img_9.png)
-![img_10.png](../../Resources/lore/insights/empathy/img_10.png)
-![img_11.png](../../Resources/lore/insights/empathy/img_11.png)
-![img_12.png](../../Resources/lore/insights/empathy/img_12.png)
+### Gallery
+
+{% include gallery.html folder="lore/insights/empathy/gallery" %}
 
 ***
 

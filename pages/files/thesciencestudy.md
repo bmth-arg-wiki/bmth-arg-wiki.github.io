@@ -32,7 +32,9 @@ in on different portions of it.
 grave
 </details>
 
-![Newspaper image](../../Resources/files/science_study/science_study_newspaper.png)
+### Gallery
+
+{% include gallery.html folder="files/science_study/gallery" %}
 
 ***
 
