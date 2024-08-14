@@ -146,3 +146,7 @@ Related characters:
 - [Syko](../characters/syko)
 - [Dallus Lauren](../characters/dallus-lauren)
 - [Dr. Elias Mortem](../characters/characters#dr-elias-mortem)
+
+Related song:
+
+- [In The Dark](../music/amo-in-the-dark)
