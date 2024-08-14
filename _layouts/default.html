@@ -7,6 +7,12 @@
     {% if page.tags %}
     <meta name="keywords" content="{{ page.tags | join: ', ' }}">
     {% endif %}
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="{{ page.url | relative_url }}" />
+    <meta property="og:image" content="{{ page.image | relative_url }}" />
+    <meta property="og:description" content="{{ page.description | strip_html | xml_escape }}" />
+    <meta property="og:site_name" content="{{ site.title }}" />
     <title class="title">{{ page.title }}</title>
     <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" type="image/x-icon">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.1/css/bulma.min.css">

@@ -6,6 +6,7 @@ project Trinity to retrieve Karl Strassman, Skys and Dallus Lauren."
 tags: ["arc/hive", "technology", "rebecca", "skys", "dallus", "lauren", "in the dark", 
 "science", "company", "project dust", "elias mortem", "dr. elias mortem", "syko", "nex gen", 
 "altilium chordata", "operation", "trinity"]
+image: "/Resources/music/inthedark/gallery/j_archivecamera.png"
 ---
 
 # ARC/HIVE
