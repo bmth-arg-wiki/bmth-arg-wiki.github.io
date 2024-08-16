@@ -64,7 +64,7 @@ you to the known information (including password) about the file itself.
 | [Sky_&_The_Starjammers.png](skystarjammers)                                                          | ✔️     | [📁](#sky__the_starjammerspng)                |
 | [Nex Gen leak 'UNBELEEVABLE'.doc](unbeleevable)                                                      | ✔️     | [📁](#nex-gen-leak-unbeleevabledoc)           |
 | [дорогая моя любовь.doc (Russian_poem.DOC)](russianpoem)                                             | ✔️     | [📁](#дорогая-моя-любовьdoc)                  |
-| [Kingsl@yer_EncrypMsg.codek](kingslayercodec)                                                        | ❗      | [📁](#Kingslyer_encrypmsgcodek)               |
+| [Kingsl@yer_EncrypMsg.codek](kingslayercodec)                                                        | ✔️     | [📁](#Kingslyer_encrypmsgcodek)               |
 | [GRUMBLR.Rebecca_Sinclair_01142027](grumblr)                                                         | ️✔️    | [📁](#grumblrrebecca_sinclair_01142027)       |
 | [LBR_sites.Confidential.doc](lbr_sites)                                                              | ️✔️    | [📁](#lbr_sitesconfidentialdoc)               |
 | [Selene_Journey_Log_01/midname?.memo](#selene_journey_log_01midnamememo)                             | ❌      | [📁](#placeholders)                           |
