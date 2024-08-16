@@ -144,7 +144,7 @@ Related files:
 Related articles:
 
 - [Nex Gen Corporation](../lore/nex-gen-corporation)
-- [In The Dark & ARC/HIVE](../music/amo-in-the-dark)
+- [ARC/HIVE](../lore/archive)
 
 Related characters:
 
