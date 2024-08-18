@@ -33,7 +33,7 @@ Through this existential misery/
 Now, we are going to need some real estate/
 But if I choose my words carefully/
 Think I could fool you that I’m the guru/
-Wait, how do you spell epiphany?
+Wait, how do you spell epiphany?/
 
 Before the truth will set you free/
 It’ll piss you off/
@@ -41,7 +41,7 @@ Before you find a place to be/
 You’re gonna lose the plot/
 Too late to tell you now/
 One ear and right out the other one/
-Because all you ever do is chant the same old mantra
+Because all you ever do is chant the same old mantra/
 
 Could I have your attention please/
 It’s time to tap in to your tragedy/
@@ -51,7 +51,7 @@ Imagine you're stood on a beach/
 Water gently lapping at your feet/
 But now your sinking/
 What were you thinking?/
-That’s all the time we have this week
+That’s all the time we have this week/
 
 And I know this doesn’t make a lot of sense/
 But do you really wanna think all by yourself now?/
