@@ -8,7 +8,7 @@ Sof is the girl from the cover art. She is referred to as such in several descri
 on the Horizon merch website.
 The [first file](../files/msgforsof) introduces the relationship between her and her mother, [Selene](selene).
 
-![Nex Gen album cover](../../Resources/music/album_cover.png)
+![Nex Gen album cover](../../Resources/music/ph2/album_cover.png)
 
 The access card designed to be shipped with the Sof statue specifically refers to Sof 
 as "The Post Human".

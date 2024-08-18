@@ -71,7 +71,7 @@ related to the ARG.
 ### May 24th 2024
 
 ![Release post 1/2](../../Resources/socials/nexgen_release_insta.png)
-![Release post 2/2.png](../../Resources/music/nexgen_album2.jpg)
+![Release post 2/2.png](../../Resources/music/ph2/nexgen_album2.jpg)
 
 [Post on instagram](https://www.instagram.com/p/C7VCa9lNazA/?img_index=1)
 

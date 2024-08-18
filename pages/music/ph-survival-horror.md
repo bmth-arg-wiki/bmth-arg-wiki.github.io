@@ -70,7 +70,7 @@ Nex Gen.
 from NEx Gen. The theory is supported by the fact that both characters have a third eye 
 (with Sof's seemingly being sewn shut).
 
-![Nex Gen album cover with Sof](../../Resources/music/album_cover.png)
+![Nex Gen album cover with Sof](../../Resources/music/ph2/album_cover.png)
 
 ***
 

@@ -34,7 +34,7 @@ The dashboard upon login, after the [weather module](#weather-module) was change
 The password to boot in safe mode is the serial number on the side of M8's
 head. It can be found on the album cover (although the serial number is very tiny).
 
-![Album cover Nex Gen](../Resources/music/album_cover.png)
+![Album cover Nex Gen](../Resources/music/ph2/album_cover.png)
 
 ***
 

@@ -7,8 +7,8 @@ description: "The album POST HUMAN: NeX GEn."
 
 POST HUMAN: NeX GEn is the 2nd album/EP in the POST HUMAN line. 
 
-![Nex Gen album cover](../../Resources/music/album_cover.png)
-![Nex Gen album back](../../Resources/music/nexgen_album2.jpg)
+![Nex Gen album cover](../../Resources/music/ph2/album_cover.png)
+![Nex Gen album back](../../Resources/music/ph2/nexgen_album2.jpg)
 
 ***
 
