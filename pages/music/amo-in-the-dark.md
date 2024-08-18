@@ -22,7 +22,7 @@ Moreover, we see a woman who seems to be [Rebecca](../characters/rebecca).
 
 ## Music Video Gallery
 
-{% include gallery.html folder="music/inthedark/gallery" %}
+{% include gallery.html folder="music/amo/inthedark/gallery" %}
 
 ***
 
