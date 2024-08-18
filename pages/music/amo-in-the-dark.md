@@ -26,35 +26,35 @@ Moreover, we see a woman who seems to be [Rebecca](../characters/rebecca).
     <summary>Lyrics</summary>
 
 > Oh, I’ve done it again/
-> Dug a little deep and it’s all caved in/
-> Now I free fall in a black hole/ 
-> I know I’m getting warm cos I feel so cold./
-> But I’m looking on the bright side now/ 
-> Trying to figure out somehow (none of this is real but)/ 
-> It’s looking like a write off now/
-> I think we need to talk like now.
+Dug a little deep and it’s all caved in/
+Now I free fall in a black hole/ 
+I know I’m getting warm cos I feel so cold./
+But I’m looking on the bright side now/ 
+Trying to figure out somehow (none of this is real but)/ 
+It’s looking like a write off now/
+I think we need to talk like now.
 >
 > So don’t swear to god he never asked you/
-> It’s not his heart you drove a knife through/
-> not his world you turned inside out/ 
-> not his tears still rolling down/ 
-> Jesus Christ you’re so damn cold/
-> Don’t you know you’ve lost control?/ 
-> Forget about the things you think I know/ 
-> No secrets, you can’t keep me in the dark/ 
+It’s not his heart you drove a knife through/
+not his world you turned inside out/ 
+not his tears still rolling down/ 
+Jesus Christ you’re so damn cold/
+Don’t you know you’ve lost control?/ 
+Forget about the things you think I know/ 
+No secrets, you can’t keep me in the dark/ 
 >
 > Deathblow, look at you go/
-> Brought a T-62 to a rodeo/
-> So tall it broke the fourth wall/ 
-> Guess my fairy-tale has a few plot holes/ 
-> well I’m looking on the bright side now/ 
-> Trying to figure out somehow (none of this is real no)/ 
-> you can give the act up now/ 
-> yeah, go ahead and take a bow./ 
+Brought a T-62 to a rodeo/
+So tall it broke the fourth wall/ 
+Guess my fairy-tale has a few plot holes/ 
+well I’m looking on the bright side now/ 
+Trying to figure out somehow (none of this is real no)/ 
+you can give the act up now/ 
+yeah, go ahead and take a bow./ 
 > 
 > I’m not looking for salvation, just a little faith In anyone or anything./
-> Cos it’s all come caving in/ 
-> And it’s time I knew you so
+Cos it’s all come caving in/ 
+And it’s time I knew you so
 
 (Source: In The Dark music video description)
 
