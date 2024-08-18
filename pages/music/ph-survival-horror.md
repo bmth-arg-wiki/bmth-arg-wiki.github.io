@@ -55,9 +55,9 @@ really working, is it?”
 
 ## Socials
 
-![Album announcement](../../Resources/music/ph1/insta_2020_10_14_ph1.jpg)
-![Album back with tracklist](../../Resources/music/ph1/insta_2020_10_14_ph-back.jpg)
-![Announcement of physical release](../../Resources/music/ph1/insta_2021_01_22_ph1_physical.jpg)
+![Album announcement](../../Resources/music/ph1/ph1_front_cover_insta.jpg)
+![Album back with tracklist](../../Resources/music/ph1/ph1_back_cover_insta.jpg)
+![Announcement of physical release](../../Resources/music/ph1/oliver_vinyl_insta.jpg)
 
 The art was made by Oliver's wife @alissic, who also made the cover for Post Human: 
 Nex Gen.

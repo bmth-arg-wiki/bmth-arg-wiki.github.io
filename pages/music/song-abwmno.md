@@ -13,7 +13,7 @@ The 7th song on NexGen.
 
 ## Audio secrets
 
-![Reversed bullet audio](../../Resources/music/ph2/bullet_reversed.png)
+![Reversed bullet audio](../../Resources/music/ph2/bullet/bullet_reversed.png)
 
 In this song we hear about a doctor [Karl Strasmann](../characters/strassman) through 
 reversed audio.

@@ -72,8 +72,8 @@ the title: `sTraNgeRs`.
 
 ## Song release
 
-![](../../Resources/music/ph2/insta_2022_07_06_strangers_release.jpg)
-![](../../Resources/music/ph2/insta_2022_07_06_strangers2.jpg)
+![](../../Resources/music/ph2/strangers/insta_2022_07_06_strangers_release.jpg)
+![](../../Resources/music/ph2/strangers/insta_2022_07_06_strangers2.jpg)
 
 The song was first announced as just `strangers`, without 
 the capitalization. Alternate capitalization `StRaNgErs` was 

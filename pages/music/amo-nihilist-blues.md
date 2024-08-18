@@ -17,11 +17,11 @@ to directly link this song to the ARG.
 The [lyric video for Nihilist Blues](https://www.youtube.com/watch?v=iwzfR7-33Wc) 
 contains some strange messages.
 
-![Suspicious lines of text in Nihilist Blues (3:57)](../../Resources/music/amo/nihilist-hidden-message.png) 
+![Suspicious lines of text in Nihilist Blues (3:57)](../../Resources/music/amo/nihilist-blues/nihilist-hidden-message.png) 
 
 At 3:57 in the lyric video we see message flashing on the screen.
 
-![nihilist-blues.png](../../Resources/music/amo/nihilist-blues.png)
+![nihilist-blues.png](../../Resources/music/amo/nihilist-blues/nihilist-blues.png)
 
 When we isolate the message it becomes readable:
 
