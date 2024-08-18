@@ -2,7 +2,6 @@
 title: "MANTRA"
 categories: ["music"]
 description: "The song MANTRA from the album amo."
-tags: "mantra", "amo", "skys", "cult", "music"
 ---
 # MANTRA (song)
 
