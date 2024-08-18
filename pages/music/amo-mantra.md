@@ -26,41 +26,41 @@ There was also a website with a teaser called `joinmantra.org`.
 <details class="lyrics">
     <summary>Lyrics</summary>
 
-> Do you wanna start a cult with me?/
-> I’m not vibrating like I oughta be/
-> I need a purpose, I can't keep surfing/
-> Through this existential misery/
-> Now, we are going to need some real estate/
-> But if I choose my words carefully/
-> Think I could fool you that I’m the guru/
-> Wait, how do you spell epiphany?
-> 
-> Before the truth will set you free/
-> It’ll piss you off/
-> Before you find a place to be/
-> You’re gonna lose the plot/
-> Too late to tell you now/
-> One ear and right out the other one/
-> Because all you ever do is chant the same old mantra
->
-> Could I have your attention please/
-> It’s time to tap in to your tragedy/
-> Think you could use a new abuser/
-> Close your eyes and listen carefully/
-> Imagine you're stood on a beach/
-> Water gently lapping at your feet/
-> But now your sinking/
-> What were you thinking?/
-> That’s all the time we have this week
->
-> And I know this doesn’t make a lot of sense/
-> But do you really wanna think all by yourself now?/
-> All I’m asking for’s a little bit of faith/
-> You know it's easy to believe/
-> And I know this doesn’t make a lot of sense./ 
-> Y’know you gotta work the corners of your mind now/
-> All I’m asking for’s a little bit of faith/
->You know it's easy to, so easy to believe
+Do you wanna start a cult with me?/
+I’m not vibrating like I oughta be/
+I need a purpose, I can't keep surfing/
+Through this existential misery/
+Now, we are going to need some real estate/
+But if I choose my words carefully/
+Think I could fool you that I’m the guru/
+Wait, how do you spell epiphany?
+
+Before the truth will set you free/
+It’ll piss you off/
+Before you find a place to be/
+You’re gonna lose the plot/
+Too late to tell you now/
+One ear and right out the other one/
+Because all you ever do is chant the same old mantra
+
+Could I have your attention please/
+It’s time to tap in to your tragedy/
+Think you could use a new abuser/
+Close your eyes and listen carefully/
+Imagine you're stood on a beach/
+Water gently lapping at your feet/
+But now your sinking/
+What were you thinking?/
+That’s all the time we have this week
+
+And I know this doesn’t make a lot of sense/
+But do you really wanna think all by yourself now?/
+All I’m asking for’s a little bit of faith/
+You know it's easy to believe/
+And I know this doesn’t make a lot of sense./ 
+Y’know you gotta work the corners of your mind now/
+All I’m asking for’s a little bit of faith/
+You know it's easy to, so easy to believe
 
 (Source: Mantra music video description)
 
