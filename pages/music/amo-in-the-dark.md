@@ -16,7 +16,7 @@ The video also showcases the altilium chordata tanks mentioned in [Project D.U.S
 
 Moreover, we see a woman who seems to be [Rebecca](../characters/rebecca).
 
-![rebecca](../../Resources/music/inthedark/gallery/g_rebeccasmoking.PNG)
+![rebecca](../../Resources/music/amo/inthedark/gallery/g_rebeccasmoking.PNG)
 
 ***
 

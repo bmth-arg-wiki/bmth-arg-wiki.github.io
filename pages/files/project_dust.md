@@ -116,13 +116,13 @@ The last two sigils are switched around.
 
 ## Speculation
 
-![Child's drawings](../../Resources/music/inthedark/gallery/l_dallusdaughterdrawings.png)
+![Child's drawings](../../Resources/music/amo/inthedark/gallery/l_dallusdaughterdrawings.png)
 
 - The drawings seen from the girl in ["In The Dark"](../music/amo-in-the-dark) indicate we might see his daughter(s) there.
 - The document speaks about "the special six", which may be the children we see in 
 the official [Kool-Aid](../music/song-koolaid) music video.
 
-![altilium chordata tank](../../Resources/music/inthedark/gallery/f_altiliumchordatatank.png)
+![altilium chordata tank](../../Resources/music/amo/inthedark/gallery/f_altiliumchordatatank.png)
 
 - The altilium chordata tank appears in ["In The Dark"](../music/amo-in-the-dark).
 
