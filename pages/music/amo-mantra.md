@@ -7,7 +7,9 @@ description: "The song MANTRA from the album amo."
 
 > ℹ︎ This article is about the song MANTRA, not about [the cult](../lore/mantra)
 
-Second song from the album "amo".
+> "Do you want to start a cult with me?"
+
+"Mantra" is the second song from the album "amo".
 It is related to the [Mantra cult](../lore/mantra), which 
 we can learn more about in a few different files:
 
@@ -19,29 +21,72 @@ There was also a website with a teaser called `joinmantra.org`.
 
 ***
 
+## Lyrics
+
+<details class="lyrics">
+    <summary>Lyrics</summary>
+
+> Do you wanna start a cult with me?/
+I’m not vibrating like I oughta be/
+I need a purpose, I can't keep surfing/
+Through this existential misery/
+Now, we are going to need some real estate/
+But if I choose my words carefully/
+Think I could fool you that I’m the guru/
+Wait, how do you spell epiphany?
+> 
+> Before the truth will set you free/
+It’ll piss you off/
+Before you find a place to be/
+You’re gonna lose the plot/
+Too late to tell you now/
+One ear and right out the other one/
+Because all you ever do is chant the same old mantra
+>
+> Could I have your attention please/
+It’s time to tap in to your tragedy/
+Think you could use a new abuser/
+Close your eyes and listen carefully/
+Imagine you're stood on a beach/
+Water gently lapping at your feet/
+But now your sinking/
+What were you thinking?/
+That’s all the time we have this week
+>
+> And I know this doesn’t make a lot of sense/
+But do you really wanna think all by yourself now?/
+All I’m asking for’s a little bit of faith/
+You know it's easy to believe/
+And I know this doesn’t make a lot of sense./ 
+Y’know you gotta work the corners of your mind now/
+All I’m asking for’s a little bit of faith/
+You know it's easy to, so easy to believe
+
+(Source: Mantra music video description)
+
+</details>
+
+***
+
+## Music Video Gallery
+
+{% include gallery.html folder="music/amo/mantra/gallery" %}
+
+***
+
 ## Mantra Extended Intro
 
 The extended intro of Mantra offers us a little glimpse into the cult of Mantra.
 
-> woman:
-> welcome to peace
-> welcome to spiritual enlightenment
+> **Woman:** "Welcome. Welcome to peace. Welcome to spiritual enlightenment."
 >
-> guy on a radio: unit two move into position. unit three and four maintain cover to sector seven
+> **Guy on a radio:** "Unit Two move into position. Unit Three and Four, maintain cover to Sector Seven."
 >
-> woman: welcome to freedom
-> welcome to a new world order
-> welcome to a new way of thinking
-> welcome to a non-violent community
+> **Woman:** "Welcome to freedom. Welcome to a new world order. Welcome to a new way of thinking. Welcome to a non-violent community."
 >
-> guy on a radio: alpha team this is something team level one’s clear.
+> **Guy on a radio:** "Alpha Team, this is Anchor Team. Level One’s clear."
 >
-> woman: welcome to your worst nightmares
-> welcome to suffering
-> welcome to true misery
-> welcome to your pain
-> welcome to the end of your life
-> welcome to mantra
+> **Woman:** "Welcome to your worst nightmares. Welcome to suffering. Welcome to true misery. Welcome to your pain. Welcome to the end of your life. Welcome to mantra,"
 > 
 > https://www.youtube.com/watch?v=vcI9-ZesGf4
 
@@ -49,9 +94,17 @@ The extended intro of Mantra offers us a little glimpse into the cult of Mantra.
 
 ## Read More
 
-- [Other webpages](../other-webpages)
-- [Mantra cult](../lore/mantra)
+Related files:
+
 - [Trinity document](../files/trinity_document)
 - [Unbeleevable video](../files/unbeleevable)
 - [Skys & the Starjammers poster](../files/skystarjammers)
+
+Related Articles:
+
+- [Mantra cult](../lore/mantra)
 - [joinmantra.org](../lore/mantra#joinmantraorg)
+
+Related Characters:
+
+- [Skys](../characters/skys.md)
