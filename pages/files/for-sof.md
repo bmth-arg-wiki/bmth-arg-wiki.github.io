@@ -12,7 +12,7 @@ tags: ["lore", "for sof", "sof", "selene", "documents", "passwords", "rain", "bi
        "operation trinity", "arc/hive", "tekka", "interview", "synth", "chronic environmental respiratory syndrome",
        "cers", "project dust", "angeldust", "psy", "mares", "radiogenic leukotrichia", "pink hair", "unbeleevable",
        "starjammers", "skys", "october palace", "mantra", "cult", "genxsis", "russian poem", "my dear love",
-       "kingslayer", "nyx 01", "nyx 02", "grumblr", "rebecca sinclair", "lbr", "lbrp", "lesser banishing ritual"]
+       "kingslayer", "nyx 01", "nyx 02", "grumblr", "rebecca sinclair", "lbr", "lbrp", "lesser banishing ritual", "goxmog"]
 image: "/Resources/files/for_sof_password_prompt.png"
 ---
 
@@ -121,15 +121,15 @@ As of 29/05/2024, the prompt at the top has been changed to "password_?" instead
 
 ## msgforsoff.aiff
 
-Also see the [article on this file](msgforsof.md)
-
 Audio log from [Selene](../characters/selene.md) to [Sof](../characters/sof.md). 
 This file is not password protected. This file is very lore-heavy and will introduce us to 
 the premise of the ARG: we are exploring the files Selene left for her daughter.
 
 ![Screenshot of the audio player](../../Resources/files/msgforsof-audioplayer.png)
 
-[Back to all files](#directory-content)
+See the [article on this file](msgforsof.md)
+
+[📁 Back to all files](#directory-content)
 
 ***
 
@@ -138,7 +138,7 @@ the premise of the ARG: we are exploring the files Selene left for her daughter.
 These are some documents introducing us to the concept of the four insights that
 we see throughout the ARG.
 
-[See the page on the insights](../../Resources/lore/insights)
+See the [article on the insights](../../Resources/lore/insights)
 
 ### THEINSIGHT.DOC
 
@@ -172,7 +172,7 @@ purpose
 vision
 </details>
 
-[Back to all files](#directory-content)
+[📁 Back to all files](#directory-content)
 
 ***
 
@@ -186,11 +186,11 @@ DEKODE THE MATRIX TO ATTAIN YOUR CONCEALED ORIGINS
 
 ![Capslock doc password screen](../../Resources/files/capslock_doc/capslockdoc_password.png)
 
-Note: this article may contain spoilers, as it was discovered earlier than it was 
-supposed to be.
+> ℹ︎ This article may contain spoilers, as it was discovered earlier than it was supposed to be.
 
-[See the page on the capslock doc](../files/capslock_doc)
-[Back to all files](#directory-content)
+See the [article on this file](../files/capslock_doc)
+
+[📁 Back to all files](#directory-content)
 
 ***
 
@@ -208,8 +208,9 @@ as [Strassman](../characters/strassman).
 
 ![Password screen](../../Resources/files/strassman-pass-screen.png)
 
-Also see the [article on this file](strassmancodec).
-[Back to all files](#directory-content)
+See the [article on this file](strassmancodec)
+
+[📁 Back to all files](#directory-content)
 
 ***
 
@@ -224,8 +225,9 @@ Also see the [article on this file](strassmancodec).
 The password to this file changed when the [Spyder Browser](../webbrowser) updated 
 to contain a Dreadit link in the URL bar.
 
-[See the page on the DREADIT file](../files/dreadit)
-[Back to all files](#directory-content)
+See the [rticle on this file](../files/dreadit)
+
+[📁 Back to all files](#directory-content)
 
 ***
 
@@ -240,7 +242,9 @@ clive
 The password refers to [M8](../m8)'s middle name, which is referenced in some lines she says 
 in the sticky notes.
 
-[Back to all files](#directory-content)
+See the [article on this file](../files/selenes_map)
+
+[📁 Back to all files](#directory-content)
 
 ***
 
@@ -257,10 +261,11 @@ within
 The password for this file was discovered in the audio for [Top 10 staTues tHat CriEd bloOd](../music/song-top10).
 
 This document appeared on 29/05/2024 in a website update. The document details a 
-precursor of [M8](../m8) that is called [R8](r8). You can find more details in the 
-[R8 article](r8).
+precursor of [M8](../m8) that is called [R8](r8).
 
-[Back to all files](#directory-content)
+See the [article on this file](r8)
+
+[📁 Back to all files](#directory-content)
 
 ***
 
@@ -274,7 +279,9 @@ precursor of [M8](../m8) that is called [R8](r8). You can find more details in t
 
 The password is Selene's user number in the [M8](../m8) system.
 
-[Back to all files](#directory-content)
+See the [article on this file](selene_personal_journal)
+
+[📁 Back to all files](#directory-content)
 
 ***
 
@@ -288,7 +295,9 @@ The password is Selene's user number in the [M8](../m8) system.
 
 The password for this file is [Ren](../characters/ren)'s user number.
 
-[Back to all files](#directory-content)
+See the [article on this file](lauren_d8_log)
+
+[📁 Back to all files](#directory-content)
 
 ***
 
@@ -302,7 +311,9 @@ The password for this file is [Ren](../characters/ren)'s user number.
 
 The password for this file is [Syko](../characters/syko)'s user number.
 
-[Back to all files](#directory-content)
+See the [article on this file](scott_personal_journal)
+
+[📁 Back to all files](#directory-content)
 
 ***
 
@@ -322,7 +333,9 @@ there is no submit button.
 
 This file was added in an update on 19/06/2024.
 
-[Back to all files](#directory-content)
+See the [article on this file](trinity_document)
+
+[📁 Back to all files](#directory-content)
 
 ***
 
@@ -339,7 +352,9 @@ where the logo on the password screen stems from.
 
 This file was added on the 25th of June.
 
-[Back to all files](#directory-content)
+See the [article on this file](tekka_interview)
+
+[📁 Back to all files](#directory-content)
 
 ***
 
@@ -357,7 +372,9 @@ The file contains a research proposal for [several projects](project_dust). The 
 was found in an instagram post, where the characters appeared. The last two characters were 
 switched.
 
-[Back to all files](#directory-content)
+See the [article on this file](project_dust)
+
+[📁 Back to all files](#directory-content)
 
 ***
 
@@ -370,7 +387,9 @@ grave
 This password was found in the [music player](../webpage#website-songs). The song 
 Wrist has an anagram for the password in the song information.
 
-[Back to all files](#directory-content)
+See the [article on this file](thesciencestudy)
+
+[📁 Back to all files](#directory-content)
 
 ***
 
@@ -382,7 +401,9 @@ INTERCELLULAR
 
 </details>
 
-[Back to all files](#directory-content)
+See the [article on this file](skystarjammers)
+
+[📁 Back to all files](#directory-content)
 
 ***
 
@@ -397,6 +418,8 @@ forest
 Lee Malia is one of the band members, his name is referred to in the filename. His son's name is Forest. Additionally, 
 the phrase ‘Deep in the forest, the blind one followed her every move’ appears on promotional material. Finally, the 
 name of the actor playing in the[ Dark](../music/amo-in-the-dark) is Forest Whitaker.
+
+See the [article on this file](unbeleevable)
 
 [📁 Back to all files](#directory-content)
 
@@ -413,6 +436,8 @@ name of the actor playing in the[ Dark](../music/amo-in-the-dark) is Forest Whit
 Also known as `Russian_poem.DOC`, its original name. The password 
 for this was found in an [Instagram post](https://www.instagram.com/p/C-DhcBaC4NP/). 
 You can view the reconstructed password on the [Russian Poem article](russianpoem).
+
+See the [article on this file](russianpoem)
 
 [📁 Back to all files](#directory-content)
 
@@ -433,6 +458,8 @@ This file with a puzzle and a password.
 Also see the [walkthrough](../walkthrough/walkthrough2) 
 for help cracking this file.
 
+See the [article on this file](kingslayercodec)
+
 [📁 Back to all files](#directory-content)
 
 ***
@@ -449,6 +476,10 @@ Originally introduced as `Grumblr.HTML`. The file seemed to be cracked by coinci
 at first, showing a background of a diary with green text displaying "test".
 This was replaced by another update on August the 7th, when the filename changed to the current 
 one and the file now showed us [Rebecca's Grumblr page](grumblr).
+
+See the [article on this file](grumblr)
+
+[📁 Back to all files](#directory-content)
 
 ***
 
@@ -471,11 +502,19 @@ to open.
 The puzzle became solvable in an update on the 8th of August, revealing a document 
 about so-called [LBR sites](lbr_sites).
 
+See the [article on this file](lbr_sites)
+
+[📁 Back to all files](#directory-content)
+
 ***
 
 ## GOXMOG_SIGHTINGS.zip
 
 This document was released on August 19th. It has not been unlocked yet.
+
+See the [article on this file](goxmog)
+
+[📁 Back to all files](#directory-content)
 
 ***
 
