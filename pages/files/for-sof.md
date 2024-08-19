@@ -67,6 +67,7 @@ you to the known information (including password) about the file itself.
 | [Kingsl@yer_EncrypMsg.codek](kingslayercodec)                                                        | ✔️     | [📁](#Kingslyer_encrypmsgcodek)               |
 | [GRUMBLR.Rebecca_Sinclair_01142027](grumblr)                                                         | ️✔️    | [📁](#grumblrrebecca_sinclair_01142027)       |
 | [LBR_sites.Confidential.doc](lbr_sites)                                                              | ️✔️    | [📁](#lbr_sitesconfidentialdoc)               |
+| [GOXMOG_SIGHTINGS.zip](goxmog)                                                                       | ❗️      | [📁](#goxmog_sightingszip)                    |
 | [Selene_Journey_Log_01/midname?.memo](#selene_journey_log_01midnamememo)                             | ❌      | [📁](#placeholders)                           |
 | [Posthuman_Prototype_Alpha.mp3](#posthuman_prototype_alphamp3)                                       | ❌      | [📁](#placeholders)                           |
 | [YOUTOPIA_Archangels_Secrets.docx](#youtopia_archangels_secretsdocx)                                 | ❌      | [📁](#placeholders)                           |
@@ -424,8 +425,6 @@ You can view the reconstructed password on the [Russian Poem article](russianpoe
 23.2907 (sum of the numbers on the pieces)
 </details>
 
-> 🛈 This file is currently inaccessible
-
 This file was originally between [Posthuman_Prototype_Alpha.mp3](#posthuman_prototype_alphamp3) and 
 [YOUTOPIA_Archangels_Secrets.docx](#youtopia_archangels_secretsdocx).
 It was updated on August 2nd, getting its current position in the list and a puzzle to unlock.
@@ -471,6 +470,12 @@ This document was first released on August 7th 2024 and requires a compass puzzl
 to open.
 The puzzle became solvable in an update on the 8th of August, revealing a document 
 about so-called [LBR sites](lbr_sites).
+
+***
+
+## GOXMOG_SIGHTINGS.zip
+
+This document was released on August 19th. It has not been unlocked yet.
 
 ***
 
