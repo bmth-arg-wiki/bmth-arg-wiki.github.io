@@ -225,7 +225,7 @@ See the [article on this file](strassmancodec)
 The password to this file changed when the [Spyder Browser](../webbrowser) updated 
 to contain a Dreadit link in the URL bar.
 
-See the [rticle on this file](../files/dreadit)
+See the [article on this file](../files/dreadit)
 
 [📁 Back to all files](#directory-content)
 
