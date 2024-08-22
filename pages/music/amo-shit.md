@@ -11,7 +11,7 @@ The music video was directed and edited by [Circushead](https://circushead.co/pa
 It is one of the many projects he collaborated on with Bring Me The Horizon.
 
 The music video contains some imagery that could be related to the ARG.
-But as-of-yet, no direct connections have been established.
+But as-of-yet, no direct connections have been established. 
 
 ***
 
