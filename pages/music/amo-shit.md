@@ -72,7 +72,7 @@ Yeah we want it right now.
 
 ## Music Video Gallery
 
-{% include gallery.html folder="music/amo/shit/gallery %}
+{% include gallery.html folder="music/amo/shit/gallery" %}
 
 ***
 
