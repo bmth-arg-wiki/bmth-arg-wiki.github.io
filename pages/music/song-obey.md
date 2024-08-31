@@ -91,7 +91,7 @@ It’s nicer when you can’t see the chains.
 > corruption”. “Lyrically, it’s very much coming from the oppressor saying, ‘Don’t pay
 > too much attention! Get on with your lives and you won’t have too much trouble',” he
 > explains. “‘If you do kick up a fuss, we’re going to come out and put you right.’
-> It echoes what [Donald Trump] said throughout the [BLM protests], seeming to support
+> It echoes what Donald Trump said throughout the BLM protests, seeming to support
 > right-wing groups. It’s the stuff of nightmares. It’s trying to convey that notion
 > that we are being a bit too submissive.”
 >
