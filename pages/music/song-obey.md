@@ -73,6 +73,8 @@ We’re gonna show you how to behave/
 Obey/
 It’s nicer when you can’t see the chains.
 
+(Source: Obey music video description)
+
 </details>
 
 ***
