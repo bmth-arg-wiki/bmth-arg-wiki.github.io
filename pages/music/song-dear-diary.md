@@ -9,7 +9,7 @@ tags: ["dear", "diary", "scott", "music"]
 > "I can't stomach anymore survival horror."
 
 "Dear Diary," is the first song on the album [POST HUMAN: SURVIVAL HORROR](ph-survival-horror). 
-Most of the [lyrics](#lyrics) are found in the file [Scott's Diary](../files/scott_personal_journal), like the infamous "dog stopped barking, probably coz I ate his face."
+Most of the [lyrics](#lyrics) are found in the file [Scott's Diary](../files/scott_personal_journal), like the infamous "dog stopped barking, probably 'cause I ate his face."
 
 ![atehisfacsong](../../Resources/music/ph1/dear-diary/atehisface.PNG)
 ![atehisfacediary](../../Resources/files/scott_diary/gallery/r.jpg)
