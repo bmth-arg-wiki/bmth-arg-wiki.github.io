@@ -50,6 +50,8 @@ nothing makes me sadder than my head./
 suicidal, violent tragic state of mind./
 lost my halo, now i’m my own anti-christ.
 
+(Source: Teardrops music video description)
+
 </details>
 
 ***
