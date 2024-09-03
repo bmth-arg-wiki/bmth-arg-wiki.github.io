@@ -125,6 +125,8 @@ but I want to obtain another world."
 
 "Now, let’s go and open the door of time."
 
+(Source: [Genius Lyrics](https://genius.com/Bring-me-the-horizon-kingslayer-lyrics))
+
 ***
 
 ## Genius Annotation
@@ -158,4 +160,4 @@ Related files:
 
 - [Project D.U.S.T.](../files/project_dust.md)
 
-[📁FOR SOF folder](../files/for-sof.md)
+[📁 FOR SOF folder](../files/for-sof.md)
