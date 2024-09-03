@@ -6,6 +6,8 @@ tags: ["itch", "for", "the", "cure", "kingslayer", "music", "song", "post", "hum
 ---
 # Itch For the Cure (When Will We Be Free) & Kingslayer ft. BABYMETAL
 
+> "I'd sacrifice my life to find you, angel of the blade."
+
 "Itch For The Cure" and "Kingslayer" are the fifth and sixth songs on the album [POST HUMAN: SURVIVAL HORROR](ph-survival-horror).
 
 The concept of "Kingslayer" plays a large role in the ARG, as can be seen in some filenames in the [FOR SOF](../files/for-sof) folder
