@@ -143,7 +143,7 @@ The following characters correspond to the members:
 - [Madman - Lee Malia](madman)
 - [Pickles - Mat Nicholls](pickles)
 
-Sykes/Syko is 0005, Kean/Vegan is 0001, Malia/Madman is 0010 and Nicholls/Pickles is 0012.
+Sykes/Syko is 0005, Kean/Vegan is 0001, Malia/Madman is 0012 and Nicholls/Pickles is 0011.
 
 ![Band cards](../../Resources/characters/band-cards.png)
 
