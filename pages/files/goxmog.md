@@ -1,8 +1,8 @@
 ---
 title: "GOXMOG_SIGHTINGS.zip"
-description: "not unlocked yet"
+description: "Contains pictures and a diagram of the goxmog creature."
 categories: ["files"]
-tags: ["for sof", "youtopia", "goxmog", "nex gen", "gox"]
+tags: ["for sof", "youtopia", "goxmog", "nex gen", "goxethoromogetheus"]
 ---
 
 # GOXMOG_SIGHTING.zip
@@ -32,7 +32,9 @@ cegfbdfagfdc
 > [bottom text:]
 > 
 > Warning Notice
+> 
 > NATIONAL SECURITY INFORMATION
+> 
 > Unauthorised Disclosure Subject to [?] Sanctions
 
 ***
