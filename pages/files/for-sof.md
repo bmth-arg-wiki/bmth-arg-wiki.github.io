@@ -67,7 +67,7 @@ you to the known information (including password) about the file itself.
 | [Kingsl@yer_EncrypMsg.codek](kingslayercodec)                                                        | ✔️     | [📁](#Kingslyer_encrypmsgcodek)               |
 | [GRUMBLR.Rebecca_Sinclair_01142027](grumblr)                                                         | ️✔️    | [📁](#grumblrrebecca_sinclair_01142027)       |
 | [LBR_sites.Confidential.doc](lbr_sites)                                                              | ️✔️    | [📁](#lbr_sitesconfidentialdoc)               |
-| [GOXMOG_SIGHTINGS.zip](goxmog)                                                                       | ❗️      | [📁](#goxmog_sightingszip)                    |
+| [GOXMOG_SIGHTINGS.zip](goxmog)                                                                       | ✔️️    | [📁](#goxmog_sightingszip)                    |
 | [Selene_Journey_Log_01/midname?.memo](#selene_journey_log_01midnamememo)                             | ❌      | [📁](#placeholders)                           |
 | [Posthuman_Prototype_Alpha.mp3](#posthuman_prototype_alphamp3)                                       | ❌      | [📁](#placeholders)                           |
 | [YOUTOPIA_Archangels_Secrets.docx](#youtopia_archangels_secretsdocx)                                 | ❌      | [📁](#placeholders)                           |
@@ -510,7 +510,14 @@ See the [article on this file](lbr_sites)
 
 ## GOXMOG_SIGHTINGS.zip
 
-This document was released on August 19th. It has not been unlocked yet.
+<details class="password">
+<summary>Password</summary>
+
+cegfbdfagfdc
+
+</details>
+
+This document was released on August 19th. The password was found on September 6th from a bmth instagram post from the same day.
 
 See the [article on this file](goxmog)
 
