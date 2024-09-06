@@ -23,7 +23,7 @@ cegfbdfagfdc
 
 ### Gallery
 
-{% include gallery.html folder="filed/goxmog/gallery" %}
+{% include gallery.html folder="files/goxmog/gallery" %}
 
 ***
 
