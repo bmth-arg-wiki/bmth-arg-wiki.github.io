@@ -2,12 +2,14 @@
 title: "GOXMOG_SIGHTINGS.zip"
 description: "not unlocked yet"
 categories: ["files"]
-tags: ["for sof", "youtopia", "goxmog"]
+tags: ["for sof", "youtopia", "goxmog", "nex gen", "gox"]
 ---
 
 # GOXMOG_SIGHTING.zip
 
-> Coming soon!
+> Goxethoromogetheus
+
+This file contains photographs and a diagram of a creature informally known as "goxmog".
 
 ***
 
@@ -16,14 +18,22 @@ tags: ["for sof", "youtopia", "goxmog"]
 <details class="password">
     <summary>Password</summary>
 
-not yet found
+cegfbdfagfdc
 </details>
 
 ### Gallery
 
+{% include gallery.html folder="filed/goxmog/gallery" %}
+
 ***
 
 ## Transcription
+
+> [bottom text:]
+> 
+> Warning Notice
+> NATIONAL SECURITY INFORMATION
+> Unauthorised Disclosure Subject to [?] Sanctions
 
 ***
 
