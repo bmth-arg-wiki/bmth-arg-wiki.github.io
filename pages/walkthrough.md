@@ -5,9 +5,10 @@ categories: ["walkthrough"]
 tags: ["walkthrough", "arg", "bring me the horizon", "bmth", "password game", "qr code", 
 "dig it", "sof", "for-sof", "serial number", "secrets"]
 ---
+
 # Walkthrough Part 1: the Website
 
-**[next →](walkthrough/walkthrough2)**
+**[next →]({{ site.baseurl }}/pages/walkthrough/walkthrough2)**
 
 ![Nex Gen Walkthrough ASCII art](../Resources/walkthrough.png)
 

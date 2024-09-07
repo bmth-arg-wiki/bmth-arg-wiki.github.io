@@ -66,17 +66,14 @@ When we click the folder, we find out that it's locked!
 
 <details>
 <summary>Hint 1</summary>
-
 The password can be found by taking a good look at the ARG website itself.
 </details>
 <details>
 <summary>Hint 2</summary>
-
 Take a good look at the system time; you'll notice that there is something off about it.
 </details>
 <details>
 <summary>Solution</summary>
-
 The password for the folder is "past". We don't have an official explanation for this, but it is assumed
 to be the password due to the time discrepancies on the webpage.
 </details>
@@ -121,7 +118,6 @@ contain hints in the form of symbols.
 
 <details>
 <summary>Files hint 1</summary>
-
 As you can gather from the file names, the passwords are related to the four insights
 we just read about.
 These were actually revealed in multiple social media posts, so take a look on Instagram or X.
@@ -137,6 +133,7 @@ There is more hidden in the audio on NEx Gen. Have a look at the songs again!
 The first insight is 'connection'.
 The spectrogram for Top 10 staTues tHat CriEd bloOd
 contains this password, but we can also see it in several social media posts.
+
 </details>
 <details>
 <summary>Solution second file</summary>
@@ -549,18 +546,16 @@ are well hidden!
 </details>
 <details>
 <summary>Solution</summary>
-
-Using this Instagram post: https://www.instagram.com/p/C8kLLWdC2MS/, 
+{{ "
+Using this [Instagram post](https://www.instagram.com/p/C8kLLWdC2MS/), 
 we can find the solution, reading the symbols from top to bottom.
-You can also see this password at the bottom of the page!
 
+![Project DUST symbols](../../Resources/socials/project_dust_password_post.png)
+" | markdownify }}
 </details>
-
 
 This gives us a lot more information on the people mentioned in the previous files 
 and their past.
-
-The solution can also be found in the image at the [end of the page](#password-1).
 
 - [Jan15_2031_declassified_PROJECT D.U.S.T. 2](../for-sof/project_dust)
 - [Nex Gen Corporation](../lore/nex-gen-corporation)
@@ -654,7 +649,10 @@ Look for a poster with PROJECT:ARCHANGEL on it on Instagram. It's a tour poster.
 <details>
 <summary>Hint 2</summary>
 
-The password is also the name of one of the most prominent actors in a music video.
+The password is also the name of one of the most prominent actors in a BMTH music video.
+
+{{ "![Tour poster with hidden section](../../Resources/files/unbeleevable/in_the_forest_tour_poster.png)" | markdownify }}
+
 </details>
 <details>
 <summary>Solution</summary>
@@ -665,10 +663,10 @@ for this password, but there are different interpretations:
 1. Forest Whitaker (actor from In the Dark)
 2. "Deep in the forest, the blind one follows her every move"
 3. Lee Malia's son's name: Forrest (spelled with two r's)
+
+{{ "![object_archangel.png](../../Resources/files/unbeleevable/object_archangel.png)" | markdownify }}
+
 </details>
-
-
-See the [end of the page](#tour-poster-1) for more information on the solution.
 
 This file gives us access to an email and a video featuring one of the band members. 
 
@@ -711,11 +709,12 @@ You are looking for a post with pieces of a letter, that has to be reassembled.
 This requires the Instagram post where puzzle pieces can be seen. By extracting 
 the pieces from the post, rotating and assembling them, we get the code '7795397'.
 
+{{"![Assembled password clue](../../Resources/files/russian_poem/clue.png)" | markdownify}}
+
 </details>
 
 This file gives us a new document, although you might want to read the 
 [translation](../for-sof/russianpoem#translated).
-You can find the assembled password clue [here](#reassembled-letter).
 
 [↑ Quick access](#quick-access)
 
@@ -866,28 +865,3 @@ Want to help us with the password hunt? Join the official [BMTH Discord](https:/
 - [FOR SOF: file overview](../for-sof)
 
 [↑ Quick access](#quick-access)
-
-## Picture passwords
-
-This section contains any pictures containing spoilers and is linked where necessary.
-
-### Password 1
-
-![Project DUST symbols](../../Resources/socials/project_dust_password_post.png)
-
-[Go back to file section](#jan15_2031_declassified_project-dust-2)
-
-### Tour poster 1
-
-![Tour poster with hidden section](../../Resources/files/unbeleevable/in_the_forest_tour_poster.png)
-![object_archangel.png](../../Resources/files/unbeleevable/object_archangel.png)
-
-[Go back to file section](#nex-gen-leak-unbeleevabledoc)
-
-## Reassembled letter
-
-![Assembled password clue](../../Resources/files/russian_poem/clue.png)
-
-[Go back to file section](#Rдорогая-моя-любовьdoc)
-
-[↑ Jump to a file](#quick-access)
