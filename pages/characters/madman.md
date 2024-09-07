@@ -18,7 +18,7 @@ The insight associated with Madman is [empathy](../lore/insight2-empathy).
 
 ## Read More
 
-- [Characters](characters)
+- [Characters](../characters)
 - [Insight 2: Empathy](../lore/insight2-empathy)
 - [Gabriel](gabriel)
 - [Miseria](miseria)

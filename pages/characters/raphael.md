@@ -8,7 +8,7 @@ tags: ["connection", "gabriel", "raphael", "uriel", "michael", "archangel", "sel
 
 # Raphael
 
-Raphael is one of the archangels and is linked to [Insight 1: Connection](../lore/insight1-connection.md).
+Raphael is one of the archangels and is linked to [Insight 1: Connection](../lore/insight1-connection).
 
 ![Raphael's avatar](../../Resources/characters/raphael/raphael0004.png)
 
@@ -26,7 +26,7 @@ The image for user 0007 used to actually be [Uriel](uriel).
 
 ## Read More
 
-- [Characters](characters)
+- [Characters](../characters)
 - [Insight 1: Connection](../lore/insight1-connection)
 - [Syko](syko)
 - [Pan](pan)

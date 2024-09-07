@@ -1,7 +1,7 @@
-# Exclude locally hosted files
+# Exclude locally hosted for-sof
 _site/*
 
-# Exclude IDE files
+# Exclude IDE for-sof
 .idea/*
 
 # EXCLUDE RUBY ENVIRONMENTS THEY BREAK THE BUILD

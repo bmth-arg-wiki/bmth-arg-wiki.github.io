@@ -13,7 +13,7 @@ The insight associated with Syko is [Insight 1: Connection](../lore/insight1-con
 There is also a [tour poster](#gallery) with art of Oskar, which is the name of Oli's deceased dog
 and the name of Scott's dog in his diary.
 This poster is likely a tribute to Syko and Oli's hairy friend, which he also refers to in [Dear Diary,](../music/song-dear-diary) 
-and [Scott's diary](../files/scott_personal_journal).
+and [Scott's diary](../for-sof/scott_personal_journal).
 
 ***
 
@@ -21,12 +21,12 @@ and [Scott's diary](../files/scott_personal_journal).
 
 > *Seems like every channel is playing the same news story, it’s sending me insane. What’s even crazier-earlier, somebody bit me, BIT ME.*
 > 
-> - Scott in his [diary](../files/scott_personal_journal)
+> - Scott in his [diary](../for-sof/scott_personal_journal)
 
-Currently, we only have [Scott's Diary](../files/scott_personal_journal) for Syko's experiences. 
+Currently, we only have [Scott's Diary](../for-sof/scott_personal_journal) for Syko's experiences. 
 His user number is the password for this file, and Oliver's second name in real life is Scott. 
 We know that he is 16 in 2037, putting his date of birth somewhere in 2020 or 2021, after the 
-[fall of Mantra](../files/unbeleevable).
+[fall of Mantra](../for-sof/unbeleevable).
 In his diary, he gets infected with VSPR-37.
 However, it is unknown what happens to him after the infection takes over his body and decision making (as 
 evidenced in the diary).
@@ -41,9 +41,9 @@ The last line is also a reference to Resident Evil and the whole diary uses lots
 
 ## Read More
 
-- [Characters](characters)
-- [Scott's diary](../files/scott_personal_journal)
-- [Selene's diary](../files/selene_personal_journal)
+- [Characters](../characters)
+- [Scott's diary](../for-sof/scott_personal_journal)
+- [Selene's diary](../for-sof/selene_personal_journal)
 - [Dear Diary,](../music/song-dear-diary)
 
 Insight 1:

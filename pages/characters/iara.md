@@ -19,7 +19,7 @@ update on June 4th 2024.
 
 Iara is marked as "Iara (work)" in the [Codek](../webpage#codek), the in-universe messaging
 service. We can also see her Nex Gen access card on her promotional poster, which
-was found on [social media](../socials/social-posts).
+was found on [social media](../socials).
 
 ![Iara seen in the Codek messenger](../../Resources/webpage/message_screenshot.png)
 
@@ -27,7 +27,7 @@ was found on [social media](../socials/social-posts).
 
 ## More Reading
 
-- [Characters](characters)
+- [Characters](../characters)
 - [Nex Gen Corporation](../lore/nex-gen-corporation)
 
 ***

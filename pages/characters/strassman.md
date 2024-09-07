@@ -8,7 +8,7 @@ categories: ["characters"]
 > humanity, not turn them into mere batteries for your own survival. Eve, I’m begging you to
 > listen to me."
 > 
-> - Karl Strassman in the [Strassman codec](../files/strassmancodec)
+> - Karl Strassman in the [Strassman codec](../for-sof/strassmancodec)
 
 Dr. Karl Strassman is (or was) a scientist at [Nex Gen Corporation](../lore/nex-gen-corporation).
 Early in the ARG, we learn that he helped [E.V.E](../characters/eve) gain control over humanity under false pretenses.
@@ -20,8 +20,8 @@ Early in the ARG, we learn that he helped [E.V.E](../characters/eve) gain contro
 ## Backstory
 
 Karl Strassman is a doctor that works with [E.V.E](eve), as seen in a 
-[video](../files/strassmancodec) unlocked on the 26th of May in the 
-[FOR SOF](../files/for-sof) folder. This was one of the earliest files and 
+[video](../for-sof/strassmancodec) unlocked on the 26th of May in the 
+[FOR SOF](../for-sof) folder. This was one of the earliest files and 
 has been upgraded in quality from its initial release.
 
 ![Strassman in a conversation with Eve](../../Resources/characters/strassman/strassman_video.png)
@@ -38,16 +38,16 @@ when this audio was recorded in-universe.
 
 ## Read More
 
-See [all characters](characters).
+See [all characters](../characters).
 
 Strassman before Nex Gen corporation:
 
-- [Trinity](characters#trinity)
+- [Trinity](../characters#trinity)
 - [Skys](skys)
 - [Dallus Lauren](dallus-lauren)
 - [ARC/HIVE](../lore/archive)
-- [Operation Trinity](../files/trinity_document)
-- [Unbeleevable video](../files/unbeleevable)
+- [Operation Trinity](../for-sof/trinity_document)
+- [Unbeleevable video](../for-sof/unbeleevable)
 
 Strassman at Nex Gen corporation:
 
@@ -56,7 +56,7 @@ Strassman at Nex Gen corporation:
 - [Nex Gen Corporation](../lore/nex-gen-corporation)
 - [Youtopia](../lore/youtopia)
 - [P.U.S.S-E](../lore/pusse)
-- [Strassman codek (conversation with E.V.E)](../files/strassmancodec)
+- [Strassman codek (conversation with E.V.E)](../for-sof/strassmancodec)
 
 ***
 

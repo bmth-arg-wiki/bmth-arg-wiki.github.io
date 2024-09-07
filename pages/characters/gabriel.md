@@ -24,7 +24,7 @@ An official poster for Gabriel has not been released at the time of writing.
 
 ## Read More
 
-- [Characters](characters)
+- [Characters](../characters)
 - [Insight 2: Empathy](../lore/insight2-empathy)
 - [Miseria](miseria)
 - [Madman](madman)

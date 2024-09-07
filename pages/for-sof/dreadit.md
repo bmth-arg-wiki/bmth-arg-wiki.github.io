@@ -2,11 +2,11 @@
 title: "Dreadit Post"
 description: "The dreadit post was written by a user taking a cynical look at Nex Gen 
 and the projects they are developing using the immune child."
-categories: ["files"]
+categories: ["for-sof"]
 tags: ["dreadit", "nex gen", "youtopia", "for sof", "karl strassman", "pusse", 
        "immune child", "indole alkaloid structure", "pineal gland", "experiments", 
        "vspr-37"]
-image: "/Resources/files/dreadit/dreadit.png"
+image: "/Resources/for-sof/dreadit/dreadit.png"
 ---
 # DREADITScreenshot 2051.1.5.59.43.vis
 
@@ -168,7 +168,7 @@ transmission from EVE on Discord on 08-07-2024:
 
 ## Read More
 
-More from [📁 FOR SOF](./for-sof)
+More from [📁 FOR SOF](../for-sof)
 
 Related files:
 

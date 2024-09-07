@@ -1,7 +1,7 @@
 ---
 title: "GOXMOG_SIGHTINGS.zip"
 description: "Contains pictures and a diagram of the goxmog creature."
-categories: ["files"]
+categories: ["for-sof"]
 tags: ["for sof", "youtopia", "goxmog", "nex gen", "goxethoromogetheus"]
 ---
 
@@ -41,4 +41,4 @@ cegfbdfagfdc
 
 ## Read more
 
-More  from [📁 FOR SOF](./for-sof)
+More  from [📁 FOR SOF](../for-sof)

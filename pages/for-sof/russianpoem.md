@@ -2,9 +2,9 @@
 title: "Russian Poem"
 description: "The Russian poem is a mysterious poem, seemingly about love to an unknown 
  A from an unknown S."
-categories: ["files"]
+categories: ["for-sof"]
 tags: ["russian", "poem", "skys", "mantra", "cult", "for sof"]
-image: "/Resources/files/russian_poem/russian_poem.png"
+image: "/Resources/for-sof/russian_poem/russian_poem.png"
 ---
 
 # дорогая моя любовь.doc
@@ -95,7 +95,7 @@ The shadows behind the numbers seem different, but nothing has resulted from thi
 
 ## Read more
 
-More from [📁 FOR SOF](./for-sof)
+More from [📁 FOR SOF](../for-sof)
 
 Currently, very little is known about this file. It dropped along with 
 [Skys & the Starjammers poster](skystarjammers) and the [Unbeleevable video](unbeleevable). 

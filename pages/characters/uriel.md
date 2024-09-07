@@ -19,7 +19,7 @@ a character.
 
 ## Read More
 
-- [Characters](characters)
+- [Characters](../characters)
 
 Insight 4:
 

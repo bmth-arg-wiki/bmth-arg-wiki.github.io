@@ -14,7 +14,7 @@ Song on the NexGen album.
 - A clue was found to [Insight 1: Connection](../lore/insight1-connection) in the 
 [spectrograms](spectrograms)
 - A segment in one of the channels (mono instead of stereo) had a hidden message that lead to 
-the password for the [R8 file](../files/r8) being discovered.
+the password for the [R8 file](../for-sof/r8) being discovered.
 
 ***
 

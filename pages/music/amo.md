@@ -34,12 +34,12 @@ is why many of these songs are not featured in articles yet.
 ## Relevance & links
 
 The song Mantra was long suspected to be related to the 
-ARG and a link was made between the [D8 log](../files/lauren_d8_log) and the ARC/HIVE company 
-we see in "In the Dark". The [Trinity analysis document](../files/trinity_document) first
+ARG and a link was made between the [D8 log](../for-sof/lauren_d8_log) and the ARC/HIVE company 
+we see in "In the Dark". The [Trinity analysis document](../for-sof/trinity_document) first
 introduced on 19-06-2024 confirmed this.
 
 Another link made directly because of this document is [Mantra](amo-mantra).
-The files [Nex Gen leak 'UNBELEEVABLE'](../files/unbeleevable) and [Sky_&_the_Starjammers.png](../files/skystarjammers) 
+The files [Nex Gen leak 'UNBELEEVABLE'](../for-sof/unbeleevable) and [Sky_&_the_Starjammers.png](../for-sof/skystarjammers) 
 also mention characters we see in this music video.
 
 Additionally, we get expansions on the lore in some other files mentioned under [Read More](#read-more)
@@ -63,10 +63,10 @@ Relevant documents:
 
 | Document                                               | Relevancy                                                                        |
 |--------------------------------------------------------|----------------------------------------------------------------------------------|
-| [D8 log](../files/lauren_d8_log)                       | Mentions Arc/Hive, Dallus Lauren                                                 |
-| [Trinity Analysis Document](../files/trinity_document) | Trinity introduced                                                               |
-| [Tekka Interview](../files/tekka_interview)            | Interview with previous Arc/Hive employee                                        |
-| [Project D.U.S.T.](../files/project_dust)              | Research at Arc/Hive in 2021                                                     |
-| [The Science Study](../files/thesciencestudy)          | Speaks on a rare phenomenon causing pink hair in people, relating back to Mantra |
-| [Nex Gen leak 'UNBELEEVABLE'](../files/unbeleevable)   | Unbeleevable video on Mantra & Nex Gen email                                     |
-| [Sky_&_the_Starjammers.png](../files/skystarjammers)   | Poster for Skys (Oli) and his band                                               |
+| [D8 log](../for-sof/lauren_d8_log)                       | Mentions Arc/Hive, Dallus Lauren                                                 |
+| [Trinity Analysis Document](../for-sof/trinity_document) | Trinity introduced                                                               |
+| [Tekka Interview](../for-sof/tekka_interview)            | Interview with previous Arc/Hive employee                                        |
+| [Project D.U.S.T.](../for-sof/project_dust)              | Research at Arc/Hive in 2021                                                     |
+| [The Science Study](../for-sof/thesciencestudy)          | Speaks on a rare phenomenon causing pink hair in people, relating back to Mantra |
+| [Nex Gen leak 'UNBELEEVABLE'](../for-sof/unbeleevable)   | Unbeleevable video on Mantra & Nex Gen email                                     |
+| [Sky_&_the_Starjammers.png](../for-sof/skystarjammers)   | Poster for Skys (Oli) and his band                                               |

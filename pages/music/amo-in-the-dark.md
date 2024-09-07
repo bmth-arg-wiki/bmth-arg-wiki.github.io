@@ -8,11 +8,11 @@ description: "The song In The Dark from the album amo."
 > "I'm not looking salvation, just a little faith in anyone or anything."
 
 "In The Dark" is a song from the album 'Amo'. Its music video contains many references to a mysterious 
-organization called ARC/HIVE, just like [the D8 log](../files/lauren_d8_log).
+organization called ARC/HIVE, just like [the D8 log](../for-sof/lauren_d8_log).
 
 ![arc-hive-arg.png](../../Resources/files/lauren_d8_log/gallery/s_lauren_d8.jpg)
 
-The video also showcases the altilium chordata tanks mentioned in [Project D.U.S.T.](../files/project_dust) as well as [Dr. Dallus Lauren](../characters/dallus-lauren) re-experiencing what we think might be the mares also mentioned in [Project D.U.S.T.](../files/project_dust)
+The video also showcases the altilium chordata tanks mentioned in [Project D.U.S.T.](../for-sof/project_dust) as well as [Dr. Dallus Lauren](../characters/dallus-lauren) re-experiencing what we think might be the mares also mentioned in [Project D.U.S.T.](../for-sof/project_dust)
 
 Moreover, we see a woman who seems to be [Rebecca](../characters/rebecca).
 
@@ -72,8 +72,8 @@ And it’s time I knew you so
 
 Related files:
 
-- [Project D.U.S.T.](../files/project_dust)
-- [Lauren d8 log](../files/lauren_d8_log)
+- [Project D.U.S.T.](../for-sof/project_dust)
+- [Lauren d8 log](../for-sof/lauren_d8_log)
 
 Related articles:
 

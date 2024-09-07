@@ -3,10 +3,10 @@ title: "Operation Trinity"
 description: "Operation Trinity is a file discussing ARC/HIVE's operation to retrieve Karl Strassman, Dallus Lauren and Skys 
 from the Mantra cult from Novosovia. We learn from the Project D.U.S.T. research proposal that 
 the 'special six' were also retrieved during the operation."
-categories: ["files"]
+categories: ["for-sof"]
 tags: ["karl", "strassman", "dallus", "lauren", "skys", "mantra", "arc/hive", "novosovia", 
        "for sof", "cult", "DTC", "skais"]
-image: "/Resources/files/operation_trinity.jpg"
+image: "/Resources/for-sof/operation_trinity.jpg"
 ---
 
 # Operation_Trinity_Analysis.xslx
@@ -62,7 +62,7 @@ knife hammer poison rope
 
 (Translation by @siensto and @beelzs_son on Discord)
 
-The article explains the importance of the [three key figures](../characters/characters#trinity) 
+The article explains the importance of the [three key figures](../characters#trinity) 
 and their research, which we learn more about in other files.
 [Rebecca Sinclair](../characters/rebecca) is also asked about [Operation Trinity](trinity_document), 
 but is not eager to answer questions asked by interviewer Jax Jackson in the [Tekka interview](tekka_interview).
@@ -75,7 +75,7 @@ information that was unknown to the writer of this document.
 
 ## Read More
 
-More from [📁 FOR SOF](./for-sof)
+More from [📁 FOR SOF](../for-sof)
 
 Related files:
 

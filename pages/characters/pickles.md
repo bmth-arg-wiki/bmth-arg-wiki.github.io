@@ -19,7 +19,7 @@ The insight associated with Pickles is [Insight 3: Purpose](../lore/insight3-pur
 
 ## Read More
 
-- [Characters](characters)
+- [Characters](../characters)
 
 Insight 3:
 

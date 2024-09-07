@@ -2,7 +2,7 @@
 title: "Message for Sof"
 description: "The first file in the folder is an audio message from Selene to her daughter Sof, 
 who she says has been born not even 20 minutes ago. She has to leave Sof after an alarm goes off."
-categories: ["files"]
+categories: ["for-sof"]
 tags: ["sof", "selene", "mother", "m8", "birth", "destiny"]
 image: "/Resources/music/album_cover.png"
 ---
@@ -80,7 +80,7 @@ Because unlocking these secrets will be difficult, but learning the truth will b
 
 ## Read More
 
-More from [📁 FOR SOF](./for-sof)
+More from [📁 FOR SOF](../for-sof)
 
 Related files:
 
@@ -95,5 +95,5 @@ Related articles:
 
 Related characters:
 
-- [Selene](../characters/selene.md)
-- [Sof](../characters/sof.md)
+- [Selene](../characters/selene)
+- [Sof](../characters/sof)

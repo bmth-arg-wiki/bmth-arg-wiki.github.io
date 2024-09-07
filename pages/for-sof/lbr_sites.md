@@ -2,10 +2,10 @@
 title: "LBR_sites.Confidential.doc"
 description: "File from Strassman and someone redacted to Victor Carmine and yet another redacted name. 
 The file described the LBR sites."
-categories: ["files"]
+categories: ["for-sof"]
 tags: ["arc/hive", "victor carmine", "karl strassman", "nex gen", "lesser banishing ritual", 
        "for sof", "pentagram", "energy overload", "incident"]
-image: "/Resources/files/lbr_site.png"
+image: "/Resources/for-sof/lbr_site.png"
 ---
 
 # LBR_sites.Confidential.doc
@@ -18,7 +18,7 @@ The document speaks about an incident at [ARC/HIVE](../lore/archive) and measure
 by [Nex Gen](../lore/nex-gen-corporation) to prevent more incidents.
 The letter is written by [Strassman](../characters/strassman) and another name seems to 
 be redacted.
-It is addressed to [Victor Carmine](../characters/characters#victor-carmine) and another
+It is addressed to [Victor Carmine](../characters#victor-carmine) and another
 redaction follows.
 
 ***
@@ -95,4 +95,4 @@ Related characters:
 - [Rebecca Sinclair](../characters/rebecca)
 - [Karl Strassman](../characters/strassman)
 - [Dallus Lauren](../characters/dallus-lauren)
-- [Victor Carmine](../characters/characters#victor-carmine)
+- [Victor Carmine](../characters#victor-carmine)

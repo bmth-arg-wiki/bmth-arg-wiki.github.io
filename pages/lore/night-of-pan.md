@@ -10,7 +10,7 @@ tags: ["bmth", "arg", "bring me the horizon", "night of pan", "pan", "connection
 > "Within the system of Thelema, the Night of Pan, or N.O.X., is a mystical 
 state that represents the stage of ego-death in the process of spiritual attainment." - Wikipedia
 
-The night of Pan links back to the word `NOX` in the [capslock doc](../files/capslock_doc), as well as 
+The night of Pan links back to the word `NOX` in the [capslock doc](../for-sof/capslock_doc), as well as 
 character [Pan](../characters/pan). Pagan/witchcraft symbolism is used many times throughout the ARG.
 
 ***

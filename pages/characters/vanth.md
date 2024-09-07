@@ -13,10 +13,10 @@ in the [Purpose](../lore/insight3-purpose) document.
 ## Backstory
 
 In the [insights](../lore/insights) files, we see the omens [Pan](pan), [Miseria](miseria) and the Babylon on 
-[Selene's map](../files/for-sof#YOUTOPIA_selenes_mapvis), but instead of 'Vanth: Princess of Death' in
+[Selene's map](../for-sof#YOUTOPIA_selenes_mapvis), but instead of 'Vanth: Princess of Death' in
 we see '**Prince of Death**' in the South region of the map. Vanth's gender has not been confirmed.
 
-![Vanth (female)](../../Resources/lore/insights/purpose/img_14.png)
+![Vanth (female)](../../Resources/lore/insights/purpose/gallery/purpose2.png)
 
 Vanth **Princess** of Death
 
@@ -28,8 +28,8 @@ Boss fight: **Prince** Of Death
 
 ## Read More
 
-- [Characters](characters)
-- [Selene's map](../files/selenes_map)
+- [Characters](../characters)
+- [Selene's map](../for-sof/selenes_map)
 
 Insight 3: Purpose
 
@@ -37,7 +37,7 @@ Insight 3: Purpose
 - [Michael](michael)
 - [Pickles](pickles)
 
-Other [omens](characters#omens):
+Other [omens](../characters#omens):
 
 - [Miseria](miseria)
 - [Pan](pan)

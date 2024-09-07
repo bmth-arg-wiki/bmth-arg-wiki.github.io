@@ -8,7 +8,7 @@ tags: ["nex gen", "bmth", "arg", "post human", "innovation", "technology",
        "pusse", "youtopia", "d8", "ikaro lauren", "iara", "selene", "syko", 
        "scott", "overwatch", "spectre", "fantom", "susan white", "fletcher", 
        "strassman", "karl", "dmt", "dreamseeker", "arc/hive"]
-image: "/Resources/files/lbr_sites.png"
+image: "/Resources/for-sof/lbr_sites.png"
 ---
 
 # Nex Gen Corporation
@@ -67,5 +67,5 @@ Related characters:
 Technologies from the 8-line:
 
 - [M8](../m8)
-- [R8](../files/r8)
-- [D8](../files/lauren_d8_log)
+- [R8](../for-sof/r8)
+- [D8](../for-sof/lauren_d8_log)

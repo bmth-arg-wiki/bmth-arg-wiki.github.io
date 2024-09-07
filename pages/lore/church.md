@@ -1,7 +1,7 @@
 ---
 title: "Church of Genxsis"
 description: "The church of Genxsis is a cult related to the Mantra cult. It was established in 1956 by Alfred Ingram Winter."
-categories: ["lore"]
+categories: ["lore", "other-webpages"]
 tags: ["bmth", "bring me the horizon", "church of genxsis", "eve", "church of genesis", 
        "alfred ingram winter", "nex gen", "experiment", "vspr-37", "downloadfest", "genxsis.faith", 
        "mantra", "cult"]
@@ -32,7 +32,7 @@ Additionally, there have been at least two Church of Genxsis events hosted:
 [Downloadfest](downloadfest) and Church of Genxsis Jakarta. There was also a 
 Church of Genxsis booth at NexFest Tokyo.
 
-The [unbeleevable video](../files/unbeleevable) also tells us a little more about 
+The [unbeleevable video](../for-sof/unbeleevable) also tells us a little more about 
 the church of Genxsis and their involvement with the [Mantra cult](../music/amo-mantra).
 
 ***

@@ -8,7 +8,7 @@ categories: ["characters"]
 
 The mysterious pink-haired man from the [Mantra](../music/amo-mantra) music video. 
 Dr. Lee MD (possibly [Madman](madman)) also states that he is the baby with pink 
-hair in the photo we also see on [The Science Study](../files/thesciencestudy).
+hair in the photo we also see on [The Science Study](../for-sof/thesciencestudy).
 
 ![Comparison of photos to Operation Trinity document shot](../../Resources/characters/dallus/dallus_mantraleader.png)
 
@@ -18,9 +18,9 @@ Comparing the [Trinity document]()
 
 ## Backstory
 
-![Newspaper image](../../Resources/files/science_study/science_study_newspaper.png)
+![Newspaper image](../../Resources/files/science_study/gallery/a_scistudy.png)
 
-A baby picture of Skys, according to [Dr. Lee MD](../files/unbeleevable). Lee also tells us that Skys was born with the 
+A baby picture of Skys, according to [Dr. Lee MD](../for-sof/unbeleevable). Lee also tells us that Skys was born with the 
 pink hair, which is the reason he was always special.
 He was then abandoned by his parents at 8 years old and traveled the world.
 At some point he also started a band (Sky's & the Starjammers) and became the cult leader 
@@ -39,17 +39,17 @@ founding year of Bring Me The Horizon.
 
 More on the Trinity:
 
-- [The Trinity (characters)](characters#trinity)
+- [The Trinity (characters)](../characters#trinity)
 - [Dallus Lauren](dallus-lauren)
 - [Karl Strassman](strassman)
 
 Related articles:
 
 - [MANTRA](../music/amo-mantra)
-- [Skys & the Starjammers poster](../files/skystarjammers)
-- [Operation Trinity](../files/trinity_document)
-- [Newspaper The Science Study](../files/thesciencestudy)
-- [Unbeleevable email & video](../files/unbeleevable)
+- [Skys & the Starjammers poster](../for-sof/skystarjammers)
+- [Operation Trinity](../for-sof/trinity_document)
+- [Newspaper The Science Study](../for-sof/thesciencestudy)
+- [Unbeleevable email & video](../for-sof/unbeleevable)
 - [Church of Genxsis](../lore/church)
 
 ***

@@ -2,11 +2,11 @@
 title: "Selene's Youtopia Map"
 description: "Selene's map of Youtopia displays the different insights in different regions and 
 also refers to many of the character's names. It is one of the first documents she left for Sof."
-categories: ["files"]
+categories: ["for-sof"]
 tags: ["selene", "youtopia", "sof", "clive", "m8", "pan", "omen", "miseria", "vanth", 
 "archangels", "raphael", "michael", "uriel", "gabriel", "pusse", "lesser banishing ritual", "pentagram", 
 "insights", "connection", "empathy", "vision", "purpose"]
-image: "/Resources/files/map1.jpg"
+image: "/Resources/for-sof/map1.jpg"
 ---
 
 # YOUTOPIA_selenes_map.vis
@@ -17,10 +17,10 @@ Selene's map is a file unlocked early in the ARG. The map itself contains refere
 to the [four insights](../lore/insights); [connection](../lore/insight1-connection), 
 [empathy](../lore/insight2-empathy), [purpose](../lore/insight3-purpose) and [vision](../lore/insight4-vision).
 
-The map also contains references to the [archangels](../characters/characters#the-archangels); 
+The map also contains references to the [archangels](../characters#the-archangels); 
 [Raphael](../characters/raphael), [Gabriel](../characters/gabriel), [Michael](../characters/michael) and 
 [Uriel](../characters/uriel).
-The [omens](../characters/characters#omens) [Pan](../characters/pan), [Miseria](../characters/miseria) and 
+The [omens](../characters#omens) [Pan](../characters/pan), [Miseria](../characters/miseria) and 
 [Vanth](../characters/vanth) are also on the map of Youtopia.
 
 Artifacts mentioned in the insight documents, being "the Guardian Tears", "Abramelin's candle", 
@@ -45,7 +45,7 @@ to occupy a physical space in [Youtopia](../lore/youtopia).
 
 ## Read More
 
-More from [📁 FOR SOF](./for-sof)
+More from [📁 FOR SOF](../for-sof)
 
 Related files:
 

@@ -3,17 +3,17 @@ title: "Selene's Diary"
 description: "Selene's diary is an early file revealing some details about her life as a 
 16-year old. She writes the diary around the time of VSPR-37 starting, with some in her environment 
 likely already being infected."
-categories: ["files"]
+categories: ["for-sof"]
 tags: ["selene", "vspr", "scott", "youtopia", "synths", "diary", "syko", "soms", "for sof", 
        "vspr-37", "pandemic", "synth", "jenna", "carter", "lawson", "eli", "pharma"]
-image: "/Resources/files/selene_diary/0.jpg"
+image: "/Resources/for-sof/selene_diary/0.jpg"
 ---
 
 # Selene_Personal_Journal_2037.02.doc
 
 > I dont get why they're so freaked out. It's just a bug, right?
 
-Document in the [FOR SOF](for-sof) folder. Selene talks about school and [Scott](scott_personal_journal), only 
+Document in the [FOR SOF](../for-sof) folder. Selene talks about school and [Scott](scott_personal_journal), only 
 being 16 years old at the time of writing.
 
 ***
@@ -94,7 +94,7 @@ That kinda stuck with me…I was thinking about trying my synth joke on him, but
 
 ## Read More
 
-More from [📁 FOR SOF](./for-sof)
+More from [📁 FOR SOF](../for-sof)
 
 Related files:
 

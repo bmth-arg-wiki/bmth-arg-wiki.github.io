@@ -12,7 +12,7 @@ The Tinfoil Society is a community of Bring Me The Horizon fans who are working 
 
 Also check out our [page for theories](https://the-secret-tinfoil-society.notion.site/BRING-ME-THE-HORIZON-ARG-6c86ee58ee3b41a6b0c594cf59201d4b), 
 where you can check out our latest findings and theories.
-This wiki will attempt to catalogue the known facts and provide a [walkthrough](walkthrough/walkthrough).
+This wiki will attempt to catalogue the known facts and provide a [walkthrough](walkthrough).
 
 ---
 
@@ -21,6 +21,7 @@ This wiki will attempt to catalogue the known facts and provide a [walkthrough](
 The team working on building the wiki's core structure.
 
 * @linaanna 👾: Lead dev & deployment
+* @owsel 🦉: Designer
 * @teapot6162 🐈: Colour palette & design
 
 ---

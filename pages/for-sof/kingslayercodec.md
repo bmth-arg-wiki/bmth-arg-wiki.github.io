@@ -1,11 +1,11 @@
 ---
 title: "Kngsl@yer_EncrypMsg.codek"
 description: "A file with a puzzle and a password. It gives a video of a radio call between Spectre and Overwatch."
-categories: ["files"]
+categories: ["for-sof"]
 tags: ["kingslayer", "codec", "codek", "for sof", "electric puzzle", "wires", 
        "currents", "youtopia", "Spectre", "Overwatch", "NYX 01", "NYX 02", "FANTOM", 
        "Scott", "Selene", "NEX GEN", "post human", "vspr-37"]
-image: "/Resources/files/kingslayer_codek/kingslayer_codek_screenshot.png"
+image: "/Resources/for-sof/kingslayer_codek/kingslayer_codek_screenshot.png"
 ---
 
 # Kngsl@yer_EncrypMsg.codek

@@ -30,14 +30,14 @@ Symbol: triangle with line through the middle horizontally
 
 ![A beautiful mistake, written on Selene's map](../../Resources/lore/insights/connection/raphael-selenes-map.png)
 
-A region on [Selene's map](../files/for-sof)
+A region on [Selene's map](../for-sof)
 
 ![Band card with Syko for connection](../../Resources/characters/band-cards.png)
 
 Insight 1 is also associated with [Syko](../characters/syko).
 
 **Top 10 Statues That Cried Blood** also has a lyric video with inconsistent capitalization, 
-possibly indicating another code (might lead to [capslock doc](../files/capslock_doc). 
+possibly indicating another code (might lead to [capslock doc](../for-sof/capslock_doc). 
 
 ***
 
@@ -102,7 +102,7 @@ An instagram story revealing connection to be the first insight ~6 weeks before 
 
 ## Read More
 
-More from [📁 FOR SOF](../files/for-sof)
+More from [📁 FOR SOF](../for-sof)
 
 Related characters:
 

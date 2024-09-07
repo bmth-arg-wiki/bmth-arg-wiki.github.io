@@ -34,7 +34,7 @@ that he might be her father or otherwise related.
 
 ## Read more
 
-- [Characters](characters)
+- [Characters](../characters)
 
 Insight 1: Connection
 
@@ -42,7 +42,7 @@ Insight 1: Connection
 - [Raphael — Archangel of Connection](raphael)
 - [Syko](syko)
 
-Other [omens](characters#omens):
+Other [omens](../characters#omens):
 
 - [Miseria](miseria)
 - [Vanth](vanth)

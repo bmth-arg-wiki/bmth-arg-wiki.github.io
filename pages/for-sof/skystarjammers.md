@@ -2,9 +2,9 @@
 title: "Skys & the Starjammers Poster"
 description: "A poster of Skys & the Starjammers, the band from MANTRA cult leader Skys. It advertises a show at October 
 Palace in 2004"
-categories: ["files"]
+categories: ["for-sof"]
 tags: ["skys", "starjammers", "mantra", "october palace", "bring me the horizon"]
-image: "/Resources/files/skys_starjammers/sky.png"
+image: "/Resources/for-sof/skys_starjammers/sky.png"
 ---
 
 # Sky_&_The_Starjammers.png
@@ -63,7 +63,7 @@ the password was 13 characters long, causing confusion among the community.
 
 ## Read More
 
-More from [📁 FOR SOF](./for-sof)
+More from [📁 FOR SOF](../for-sof)
 
 Related files:
 

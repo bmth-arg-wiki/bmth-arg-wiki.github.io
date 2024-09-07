@@ -3,9 +3,9 @@ title: "Capslock Doc"
 description: "The capslock doc is a document that was found earlier than expected. Its password uses the 
 capital letters from the album itself. The email is currently unavailable and it is unknown 
 what will happen to this file."
-categories: ["files"]
+categories: ["for-sof"]
 tags: ["selene", "capslock doc", "anagram", "dekode", "matrix", "concealed origins"]
-image: "/Resources/files/capslock_doc/crate_selene.png"
+image: "/Resources/for-sof/capslock_doc/crate_selene.png"
 ---
 
 # CAPSLOCK.DOC
@@ -25,7 +25,7 @@ Enjoy this picture of buff M8 as a buffer between you and the spoilers.
 
 ## Document contents
 
-We find a storage crate that belongs to [Selene](../characters/selene.md).
+We find a storage crate that belongs to [Selene](../characters/selene).
 
 ### Gallery
 
@@ -124,7 +124,7 @@ authentic artwork.
 
 ## Read More
 
-More from [📁 FOR SOF](./for-sof)
+More from [📁 FOR SOF](../for-sof)
 
 Related files:
 
@@ -136,4 +136,4 @@ Related files:
 Related characters:
 
 - [M8](../m8)
-- [Selene](../characters/selene.md)
+- [Selene](../characters/selene)

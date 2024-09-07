@@ -13,9 +13,9 @@ description: "The song MANTRA from the album amo."
 It is related to the [Mantra cult](../lore/mantra), which 
 we can learn more about in a few different files:
 
-- [Trinity document](../files/trinity_document)
-- [Unbeleevable video](../files/unbeleevable)
-- [Skys & the Starjammers poster](../files/skystarjammers)
+- [Trinity document](../for-sof/trinity_document)
+- [Unbeleevable video](../for-sof/unbeleevable)
+- [Skys & the Starjammers poster](../for-sof/skystarjammers)
 
 There was also a website with a teaser called `joinmantra.org`.
 
@@ -96,9 +96,9 @@ The extended intro of Mantra offers us a little glimpse into the cult of Mantra.
 
 Related files:
 
-- [Trinity document](../files/trinity_document)
-- [Unbeleevable video](../files/unbeleevable)
-- [Skys & the Starjammers poster](../files/skystarjammers)
+- [Trinity document](../for-sof/trinity_document)
+- [Unbeleevable video](../for-sof/unbeleevable)
+- [Skys & the Starjammers poster](../for-sof/skystarjammers)
 
 Related Articles:
 
@@ -107,4 +107,4 @@ Related Articles:
 
 Related Characters:
 
-- [Skys](../characters/skys.md)
+- [Skys](../characters/skys)

@@ -1,0 +1,25 @@
+.breadcrumb {
+    display: flex;
+}
+
+.breadcrumb ul {
+    margin-left: 0;
+    padding: 10px 0;
+}
+
+.breadcrumb li {
+    margin-top: 0;
+}
+
+.breadcrumb a {
+    color: var(--link);
+}
+
+.breadcrumb li.is-active a {
+    color: var(--txt);
+    font-weight: bold;
+}
+
+.breadcrumb a:hover {
+    color: var(--link-active);
+}

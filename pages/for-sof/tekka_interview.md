@@ -1,9 +1,9 @@
 ---
 title: "Tekka's Synth Interview"
-categories: ["files"]
+categories: ["for-sof"]
 tags: ["rebecca sinclair", "arc/hive", "tekka", "interview", "youtopia", "nex gen", "synths", "for sof", 
 "rebecca", "lab assistant", "victor carmine", "dallus lauren", "karl strassman", "jax jackson"]
-image: "/Resources/files/tekka/tekka_cover.png"
+image: "/Resources/for-sof/tekka/tekka_cover.png"
 ---
 
 # ISSUE-51-fromhelltoshell.pdf 1
@@ -135,7 +135,7 @@ and the [Mantra cult](../lore/mantra).
 
 ## Read More
 
-More from [📁 FOR SOF](./for-sof)
+More from [📁 FOR SOF](../for-sof)
 
 Related files:
 
@@ -153,4 +153,4 @@ Related characters:
 - [Iara](../characters/iara)
 - [Dallus Lauren](../characters/dallus-lauren)
 - [Karl Strassman](../characters/strassman)
-- [Victor Carmine](../characters/characters)
+- [Victor Carmine](../characters)

@@ -1,13 +1,13 @@
 ---
 title: "Other webpages"
-categories: ["other"]
+categories: ["other-webpages"]
 description: "Other webpages that may be of interest to the ARG, like genxsis.faith 
 and dungeoncrawl33r."
 ---
 # Other webpages
 
 A few other pages have been relevant to the investigation, mostly 
-including [social media pages](socials/social-posts).
+including [social media pages](socials).
 
 ***
 
@@ -44,4 +44,4 @@ same way the six-pointed star is in the ARG.
 ## Read More
 
 - [Webpage](webpage)
-- [Social posts](socials/social-posts)
+- [Social posts](socials)

@@ -1,10 +1,10 @@
 ---
 title: "Welcome to Youtopia"
 description: "Welcome to this fan-made wiki about BMTH's Nex Gen ARG. We catalogue 
-all the files, write about the lore and provide a spoiler-free walkthrough with hints."
+all the for-sof, write about the lore and provide a spoiler-free walkthrough with hints."
 tags: ["lore", "for sof", "sof", "selene", "documents", "passwords", "rain", "birth",
        "nex gen", "post human", "walkthrough", "arg", "bring me the horizon", "bmth", "password game", "qr code",
-       "dig it", "files", "serial number", "secrets", "past", "msgforsof", "insights",
+       "dig it", "for-sof", "serial number", "secrets", "past", "msgforsof", "insights",
        "empathy", "connection", "purpose", "vision", "creativity", "capslock", "selene's storage crate",
        "strassman", "karl", "pusse", "youtopia", "eve", "dreadit", "clive", "1d1b2c2a",
        "r8", "m8 systems", "within", "0003", "0005", "0014", "vspr-37", "scott", "syko", "ren", "ikaro lauren",
@@ -31,7 +31,7 @@ There is a lot going on in this ARG! We get it if you are overwhelmed.
 This section will attempt to explain the most important sources.
 We also offer a walkthrough:
 
-1. [Walkthrough Part 1: The Website](pages/walkthrough/walkthrough)
+1. [Walkthrough Part 1: The Website](pages/walkthrough.md)
 2. [Walkthrough Part 2: The FOR SOF folder](pages/walkthrough/walkthrough2)
 
 Since this ARG is still ongoing, updates will be reflected in the walkthrough as soon as possible 🖤
@@ -54,7 +54,7 @@ itself and the different software on it. The serial number on the side of M8's h
 is the code you will need to get into the website.
 
 Currently, many functionalities (including wi-fi) are disabled. Updates have mostly opened up 
-files in a folder called [FOR SOF](pages/files/for-sof). The recommended order is to read about the webpage first, 
+files in a folder called [FOR SOF](pages/for-sof.md). The recommended order is to read about the webpage first, 
 then read more about the files in this folder. All passwords are spoiler-tagged, but articles about characters, songs 
 or the lore will obviously contain many spoilers.
 

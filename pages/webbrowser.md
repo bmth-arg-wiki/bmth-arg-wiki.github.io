@@ -20,7 +20,7 @@ The web browser is called Spyder. It seems that a Wi-Fi password is needed befor
 ## Current findings
 
 - Error code likely refers (partially) to [Top 10 Statues That Cried Blood](music/song-top10)
-- When the first URL changed, it lead to the password for the [Dreadit file](files/dreadit) 
+- When the first URL changed, it lead to the password for the [Dreadit file](for-sof/dreadit) 
 being unlocked.
 
 ***

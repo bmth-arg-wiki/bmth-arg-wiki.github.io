@@ -3,10 +3,10 @@ title: "Strassman Codec"
 description: "The Strassman codec file contains a conversation between Dr. Karl Strassman and A.I. EVE. 
 Strassman raises concerns around the use of P.U.S.S-E to bring people to Youtopia. EVE does not seem to care, 
 however, stating they must continue for the greater good of mankind."
-categories: ["files"]
+categories: ["for-sof"]
 tags: ["strassman", "eve", "youtopia", "for sof", "karl", "pusse", 
        "codec", "indole alkaloid structure", "neurological disturbances"]
-image: "/Resources/files/strassman-pass-screen.png"
+image: "/Resources/for-sof/strassman-pass-screen.png"
 ---
 
 # StrassmanCONFIDENTIALPRT007.CODEC
@@ -15,7 +15,7 @@ image: "/Resources/files/strassman-pass-screen.png"
 > continues. We are making the mother of all omelettes here, Karl. 
 > We can’t fret over a few broken eggs
 
-A document in the [FOR SOF](for-sof) folder. The password screen used to be a placeholder, 
+A document in the [FOR SOF](../for-sof) folder. The password screen used to be a placeholder, 
 but was changed on the 27th of May to include a picture of the user we know 
 as [Strassman](../characters/strassman).
 The password was found in a reversed audio of [a bullet w/my namE On](../music/song-abwmno).
@@ -78,7 +78,7 @@ This transcription was compiled by users from the BMTH ARG Discord server.
 
 ## Read More
 
-More from [📁 FOR SOF](./for-sof)
+More from [📁 FOR SOF](../for-sof)
 
 Related files:
 

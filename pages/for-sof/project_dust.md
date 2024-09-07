@@ -2,11 +2,11 @@
 title: "Project D.U.S.T proposal"
 description: "This document proposes projects D.U.S.T. and project S.Y.K.O. The proposal was written 
 by Dr. Elias Mortem, Lead Scientist at ARC/HIVE."
-categories: ["files"]
+categories: ["for-sof"]
 tags: ["skys", "mantra", "trinity", "victor carmine", "arc/hive", "dust", "psy", "syko", 
        "scott", "dallus lauren", "mares", "daughter", "special six", "altilium chordata", 
        "dreamseeker", "lead scientist", "elias mortem"]
-image: "/Resources/files/project_dust/projectdust2.png"
+image: "/Resources/for-sof/project_dust/projectdust2.png"
 ---
 
 # Jan15_2031_declassified_PROJECT D.U.S.T. 2
@@ -130,7 +130,7 @@ the official [Kool-Aid](../music/song-koolaid) music video.
 
 ## Read More
 
-More from [📁 FOR SOF](./for-sof)
+More from [📁 FOR SOF](../for-sof)
 
 Related files:
 
@@ -150,7 +150,7 @@ Related characters:
 
 - [Syko](../characters/syko)
 - [Dallus Lauren](../characters/dallus-lauren)
-- [Dr. Elias Mortem](../characters/characters#dr-elias-mortem)
+- [Dr. Elias Mortem](../characters#dr-elias-mortem)
 
 Related song:
 

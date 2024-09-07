@@ -1,7 +1,8 @@
 ---
 title: "ARC/HIVE"
-categories: ["files analysis"]
+categories: ["for-sof"]
 ---
+
 # Trinity members and Arc/Hive
 
 This article discusses the role different trinity members could fill for [ARC/HIVE](../../lore/archive).
