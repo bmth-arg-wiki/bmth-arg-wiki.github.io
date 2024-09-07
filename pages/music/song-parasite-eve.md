@@ -9,7 +9,7 @@ tags: ["parasite", "eve", "music", "post", "human", "survival", "horror"]
 > "We cannot save you, enjoy the ride."
 
 "Parasite Eve" is the second song on the album [POST HUMAN: SURVIVAL HORROR](./ph-survival-horror).
-It's title, although referencing the 1998 video game of the same name, still reminds us of the antagonist of the ARG: [E.V.E.](../characters/eve.md)
+It's title, although referencing the 1998 video game of the same name, still reminds us of the antagonist of the ARG: [E.V.E.](../characters/eve)
 
 ***
 

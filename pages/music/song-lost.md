@@ -88,8 +88,8 @@ Source: [lyrics video](https://www.youtube.com/watch?v=L6tHMDaGgho).
 
 Other singles:
 
-- [AmEN!](song-amen.md)
-- [DArkSide](song-darkside.md)
-- [DiE4u](song-die4u.md)
-- [Kool-Aid](song-koolaid.md)
-- [sTraNgeRs](song-strangers.md)
+- [AmEN!](song-amen)
+- [DArkSide](song-darkside)
+- [DiE4u](song-die4u)
+- [Kool-Aid](song-koolaid)
+- [sTraNgeRs](song-strangers)
