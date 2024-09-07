@@ -11,8 +11,6 @@ image: "/Resources/for-sof/project_dust/projectdust2.png"
 
 # Jan15_2031_declassified_PROJECT D.U.S.T. 2
 
-> ⚠ This page contains password spoilers, since it uses an image.
-
 > Our primary objective centers on the development of a potent bioweapon.
 
 This file contains a research proposal from [ARC/HIVE](../music/amo-in-the-dark) 
@@ -25,8 +23,14 @@ then the document was declassified by Nex Gen exactly 10 years later.
 
 Password:
 
-![password](../../Resources/files/project_dust/dust-password.png)
+<details class="password">
+    <summary>Password</summary>
+
+{{"![password](../../Resources/files/project_dust/dust-password.png)" | markdownify}}
+
 The last two sigils are switched around.
+
+</details>
 
 ### Gallery
 
