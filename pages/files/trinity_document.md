@@ -25,6 +25,9 @@ It was the first reveal that the [MANTRA cult](../lore/mantra) was a part of the
   <summary>Password</summary>
 
 knife hammer poison rope
+
+{{"![trinity password](../../Resources/files/trinity/trinity_password.png)" | markdownify}}
+
 </details>
 
 ![The Operation Trinity Document](../../Resources/files/trinity/operation_trinity.jpg)
