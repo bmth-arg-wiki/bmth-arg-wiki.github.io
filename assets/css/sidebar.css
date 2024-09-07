@@ -13,7 +13,7 @@
 .menu-list .menu-item:hover,
 .menu-list a:hover,
 .menu-list button:hover {
-  background-color: white;
+  background-color: var(--green-accent);
 }
 
 .menu-title {

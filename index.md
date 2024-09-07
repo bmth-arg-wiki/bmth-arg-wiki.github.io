@@ -31,7 +31,7 @@ There is a lot going on in this ARG! We get it if you are overwhelmed.
 This section will attempt to explain the most important sources.
 We also offer a walkthrough:
 
-1. [Walkthrough Part 1: The Website](pages/walkthrough.md)
+1. [Walkthrough Part 1: The Website](pages/walkthrough)
 2. [Walkthrough Part 2: The FOR SOF folder](pages/walkthrough/walkthrough2)
 
 Since this ARG is still ongoing, updates will be reflected in the walkthrough as soon as possible 🖤
@@ -54,7 +54,7 @@ itself and the different software on it. The serial number on the side of M8's h
 is the code you will need to get into the website.
 
 Currently, many functionalities (including wi-fi) are disabled. Updates have mostly opened up 
-files in a folder called [FOR SOF](pages/for-sof.md). The recommended order is to read about the webpage first, 
+files in a folder called [FOR SOF](pages/for-sof). The recommended order is to read about the webpage first, 
 then read more about the files in this folder. All passwords are spoiler-tagged, but articles about characters, songs 
 or the lore will obviously contain many spoilers.
 
