@@ -91,8 +91,8 @@ core values and a podium channel.
 > she found herself ensnared in a dreamscape beyond her wildest imagination. She named 
 > this place Youtopia, a domain accessible to every human, with definitely no side effects. if you, too, wish to access Youtopia, all you need to do is…
 
-This message confirmed Selene as the immune child from the [Dreadit post](../files/dreadit). 
-However, from the [Strassman codec](../files/strassmancodec) we already know E.V.E. is lying about 
+This message confirmed Selene as the immune child from the [Dreadit post](../for-sof/dreadit). 
+However, from the [Strassman codec](../for-sof/strassmancodec) we already know E.V.E. is lying about 
 the lack of side effects.
 
 > — 10-07-2024 21:11
@@ -237,5 +237,5 @@ Relevant characters:
 
 - [E.V.E.](../characters/eve)
 - [Selene](../characters/selene)
-- [Emily](../characters/characters#emily)
+- [Emily](../characters#emily)
 - [Strassman](../characters/strassman)

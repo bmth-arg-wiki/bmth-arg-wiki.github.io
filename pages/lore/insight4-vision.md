@@ -38,7 +38,7 @@ From Selene's map
 
 ![Band card with Vegan and vision logo](../../Resources/characters/band-cards.png)
 
-Insight 4 is also associated with [Vegan](../characters/vegan.md).
+Insight 4 is also associated with [Vegan](../characters/vegan).
 
 ***
 
@@ -94,7 +94,7 @@ vision
 
 ## Read More
 
-More from [📁 FOR SOF](../files/for-sof)
+More from [📁 FOR SOF](../for-sof)
 
 Related characters:
 

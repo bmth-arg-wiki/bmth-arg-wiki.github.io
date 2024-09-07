@@ -18,7 +18,7 @@ Youtopia is a fictional universe that can be entered using [P.U.S.S-E](../lore/p
 
 It is supposed to provide a pleasant experience to patients, but P.U.S.S-E causes distressing 
 side effects to the participants. E.V.E. states that Youtopia will liberate humanity and that 
-humanity needs this in a video from the [FOR SOF](../files/for-sof) folder, even remarking that the 
+humanity needs this in a video from the [FOR SOF](../for-sof) folder, even remarking that the 
 suffering of the patients is necessary for the greater good.
 
 ***
@@ -27,9 +27,9 @@ suffering of the patients is necessary for the greater good.
 
 Related files:
 
-- [Strassman codec](../files/strassmancodec)
-- [Selene's map of Youtopia](../files/selenes_map)
-- [LBR Sites confidential letter](../files/lbr_sites)
+- [Strassman codec](../for-sof/strassmancodec)
+- [Selene's map of Youtopia](../for-sof/selenes_map)
+- [LBR Sites confidential letter](../for-sof/lbr_sites)
 
 Related articles:
 

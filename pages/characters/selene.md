@@ -14,7 +14,7 @@ Selene is one of the users that can be viewed on the M8 system. She has user num
 
 ### Introduction
 
-It is revealed in the [msgforsof Audio Log](../files/msgforsof) that Selene is [SOF](sof)'s mother, that left her within 20 minutes of her birth. Selene states 
+It is revealed in the [msgforsof Audio Log](../for-sof/msgforsof) that Selene is [SOF](sof)'s mother, that left her within 20 minutes of her birth. Selene states 
 that she 'has to do something first' and leaves after hearing an alarm, stating to Sof that 
 the alarm is 'her cue'. She indicates that [M8](../m8) has been with her for some 
 time and has saved her life countless times, even highlighting the fact M8 may have 
@@ -33,16 +33,16 @@ Top right corner of the log-in page displays `SUBJECT SELENE`.
 > Later,
 > Selene
 > 
-> - From [Selene's diary](../files/selene_personal_journal)
+> - From [Selene's diary](../for-sof/selene_personal_journal)
 
-[Selene's diary](../files/selene_personal_journal) is a file containing some of 
+[Selene's diary](../for-sof/selene_personal_journal) is a file containing some of 
 Selene's personal experiences in 2037, the year of the VSPR-37 outbreak. 
-This is the virus from [Scott's diary](../files/scott_personal_journal), who also happens 
+This is the virus from [Scott's diary](../for-sof/scott_personal_journal), who also happens 
 to be Selene's crush and band member [Syko](syko).
 
 > Need meet…fresh…Selen…mis u. wan to see her 1 last time, but scare of wat i do. her face is only thing that stil mek sense.
 her tasty face…
-> - Scott on Selene in his [diary](../files/scott_personal_journal)
+> - Scott on Selene in his [diary](../for-sof/scott_personal_journal)
 
 In the diaries she is only 16 years old, putting her birthday somewhere in 2021 or 2020.
 She also mentions that they are "in Eli", likely referring to a region or a city. 
@@ -55,7 +55,7 @@ back on "Soms".
 > young girl who's immune. Yeah, immune. And apparently, it's all because of her pineal
 > gland.
 
-The [dreadit post](../files/dreadit) contains a reference to an immune child who still produces 
+The [dreadit post](../for-sof/dreadit) contains a reference to an immune child who still produces 
 DMT. We get confirmation that this immune child is indeed Selene in a message from [E.V.E](eve) 
 on Discord.
 
@@ -70,7 +70,7 @@ on Discord.
 
 ## Selene & the capslock doc
 
-Selene also has a connection to the [capslock doc](../files/capslock_doc.md), which 
+Selene also has a connection to the [capslock doc](../for-sof/capslock_doc), which 
 was opened earlier in the timeline than expected by the devs. For this reason, 
 spoilers for this document are contained to that specific article.
 
@@ -80,20 +80,20 @@ spoilers for this document are contained to that specific article.
 
 Related characters:
 
-- [Characters](characters)
+- [Characters](../characters)
 - [Eve](eve)
 - [Sof](sof)
 - [M8](../m8)
 
 Related files:
 
-- [Files for Sof (folder)](../files/for-sof)
-- [Message for sof](../files/msgforsof)
-- [Selene's map](../files/selenes_map)
-- [Selene's diary](../files/selene_personal_journal)
-- [Scott's diary](../files/scott_personal_journal)
-- [Dreadit post](../files/dreadit)
-- [The Science Study](../files/thesciencestudy)
+- [Files for Sof (folder)](../for-sof)
+- [Message for sof](../for-sof/msgforsof)
+- [Selene's map](../for-sof/selenes_map)
+- [Selene's diary](../for-sof/selene_personal_journal)
+- [Scott's diary](../for-sof/scott_personal_journal)
+- [Dreadit post](../for-sof/dreadit)
+- [The Science Study](../for-sof/thesciencestudy)
 
 ***
 

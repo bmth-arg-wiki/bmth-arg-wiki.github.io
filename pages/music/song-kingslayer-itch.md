@@ -10,9 +10,9 @@ tags: ["itch", "for", "the", "cure", "kingslayer", "music", "song", "post", "hum
 
 "Itch For The Cure" and "Kingslayer" are the fifth and sixth songs on the album [POST HUMAN: SURVIVAL HORROR](ph-survival-horror).
 
-The concept of "Kingslayer" plays a large role in the ARG, as can be seen in some filenames in the [FOR SOF](../files/for-sof) folder
-(eg. [Kingsl@yer_EncrypMsg.codek](../files/kingslayercodec.md)).
-It is also mentioned in the [declassified Project D.U.S.T. file](../files/project_dust.md)
+The concept of "Kingslayer" plays a large role in the ARG, as can be seen in some filenames in the [FOR SOF](../for-sof) folder
+(eg. [Kingsl@yer_EncrypMsg.codek](../for-sof/kingslayercodec)).
+It is also mentioned in the [declassified Project D.U.S.T. file](../for-sof/project_dust)
 
 ***
 
@@ -160,6 +160,6 @@ this record being cyber-punk-y. It sounds like an anime TV trailer.”
 
 Related files:
 
-- [Project D.U.S.T.](../files/project_dust.md)
+- [Project D.U.S.T.](../for-sof/project_dust)
 
-[📁 FOR SOF folder](../files/for-sof.md)
+[📁 FOR SOF folder](../for-sof)

@@ -2,7 +2,7 @@
 title: "Mantra Cult"
 description: "The Neosages, also known as the Mantra cult were lead by Skys, a mysterious leader with a charming aura 
 and pink hair."
-categories: ["lore"]
+categories: ["lore", "other-webpages"]
 tags: ["mantra", "experimentation", "cult", "drug", "bring me the horizon", "bmth", 
        "arg", "lore", "invitation to salvation", "joinmantra.org", "starjammers", "skys"]
 image: "/Resources/other-webpages/joinmantra.org/20180810062921.png"
@@ -14,8 +14,8 @@ image: "/Resources/other-webpages/joinmantra.org/20180810062921.png"
 The Neosages, better known as the Mantra, are a cult with their leader being
 [Skys](../characters/skys).
 Skys is also in a band called 'Skys & the Starjammers',
-we learn from the [Unbeleevable episode](../files/unbeleevable).
-One of the files in the [FOR SOF](../files/for-sof) folder contains a [poster](../files/skystarjammers) 
+we learn from the [Unbeleevable episode](../for-sof/unbeleevable).
+One of the files in the [FOR SOF](../for-sof) folder contains a [poster](../for-sof/skystarjammers) 
 for the band, inviting people to their show at October Palace in 2004.
 
 ***
@@ -25,7 +25,7 @@ for the band, inviting people to their show at October Palace in 2004.
 The cult was started by a man named Skys, who was born with pink hair. His parents abandoned 
 him at 8 years old.
 After this point he fell in with a group of 'nutters'
-(as stated by Dr. Lee MD in [Unbeleevable](../files/unbeleevable)) 
+(as stated by Dr. Lee MD in [Unbeleevable](../for-sof/unbeleevable)) 
 and traveled the world.
 
 At some point he then picked up a guitar and his band got somewhat successful.
@@ -39,7 +39,7 @@ convulsing violently, along with the woman in red.
 A mysterious electricity-like power knocks out or kills all the cult members.
 We then see Skys open his eyes in his coffin, indicating that he is not dead.
 
-The [Trinity document](../files/trinity_document) also reveals that Skys' death was indeed faked and that he 
+The [Trinity document](../for-sof/trinity_document) also reveals that Skys' death was indeed faked and that he 
 was extracted from Novosoviya in Operation Trinity.
 
 > It is believed that ARC/HIV recognizes the potential of their research
@@ -70,7 +70,7 @@ but it can be viewed on the [wayback machine](https://web.archive.org/web/201904
 
 - Skys ended up at ARC/HIVE and can be seen in the [In the Dark](../music/amo-in-the-dark) music video.
 - Skys ended up changing his name after faking his death. He could have changed his name to [Victor Carmine](../characters#victor-carmine), 
-a mysterious man who is named along with Dallus and Strassman in the [Tekka interview](../files/tekka_interview)
+a mysterious man who is named along with Dallus and Strassman in the [Tekka interview](../for-sof/tekka_interview)
 
 ***
 
@@ -88,8 +88,8 @@ Related characters:
 
 Related files:
 
-- [Operation Trinity](../files/trinity_document)
-- [Skys & the Starjammers poster](../files/skystarjammers)
-- [Unbeleevable video](../files/unbeleevable)
-- [The Science Study newspaper](../files/thesciencestudy)
-- [Dreadit post](../files/dreadit)
+- [Operation Trinity](../for-sof/trinity_document)
+- [Skys & the Starjammers poster](../for-sof/skystarjammers)
+- [Unbeleevable video](../for-sof/unbeleevable)
+- [The Science Study newspaper](../for-sof/thesciencestudy)
+- [Dreadit post](../for-sof/dreadit)

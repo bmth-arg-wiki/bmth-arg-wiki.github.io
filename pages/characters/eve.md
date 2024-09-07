@@ -34,7 +34,7 @@ Both of them are researching [Selene](selene), the immune child mentioned in the
 This was confirmed by a [message from E.V.E.](../socials/eve-discord) on Discord.
 Due to her unique physiology, she still produces DMT (which P.U.S.S-E is based on) and they are 
 therefore interested in her pineal gland.
-They speak about "synthesizing her unique indole alkaloid structure" in the [Strassman codec](../files/strassmancodec).
+They speak about "synthesizing her unique indole alkaloid structure" in the [Strassman codec](../for-sof/strassmancodec).
 
 E.V.E. often slips up in her wording, often speaking about controlling humanity and then 
 correcting herself that she is saving humanity.
@@ -58,25 +58,25 @@ and [Nex Gen](../lore/nex-gen-corporation).
 
 ### Genesis
 
-E.V.E's exact origins are currently unknown. The [Lauren D8 log](../files/lauren_d8_log) 
+E.V.E's exact origins are currently unknown. The [Lauren D8 log](../for-sof/lauren_d8_log) 
 does seem to indicate that E.V.E. gained sentience in 2037, showing remarkable capabilities 
 far outside what the scientists expected her to be capable of.
 
 Since we see many different versions of E.V.E, including at the real world live shows, it is currently 
 unclear whether this was their first version of E.V.E.
 
-The [Grumblr](../files/grumblr) post also talks about an AI chatbot [Iara](iara) created, a 
+The [Grumblr](../for-sof/grumblr) post also talks about an AI chatbot [Iara](iara) created, a 
 possible predecessor or primitive version of E.V.E.
 
 ***
 
 ## Read More
 
-- [E.V.E's messages on Discord](../socials/eve-discord.md)
+- [E.V.E's messages on Discord](../socials/eve-discord)
 
 Relevant characters:
 
-- [Characters](characters)
+- [Characters](../characters)
 - [Strassman](strassman)
 - [Selene](selene)
 

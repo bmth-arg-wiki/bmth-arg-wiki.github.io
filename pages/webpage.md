@@ -51,7 +51,7 @@ in the song DIg It.
 
 The web page leads us to what looks like a personal computer. Here we can find some music, 
 some avatars corresponding to different characters and more. 
-We have a folder on our computer [FOR SOF](files/for-sof), 
+We have a folder on our computer [FOR SOF](for-sof), 
 which will be the next step to unlocking the mysteries of Youtopia.
 
 ***
@@ -136,7 +136,7 @@ Spyder is the in-universe [web browser](webbrowser) on the page.
 
 ## Website Users
 
-The website users are all [characters](characters/characters) with their own dedicated pages.
+The website users are all [characters](characters.md) with their own dedicated pages.
 
 ***
 
@@ -160,6 +160,6 @@ the webpage several times.
 
 ## Read More
 
-- [FOR SOF file folder](files/for-sof)
+- [FOR SOF file folder](for-sof.md)
 - [Web browser (Spyder)](webbrowser)
 - [Other webpages](other-webpages)

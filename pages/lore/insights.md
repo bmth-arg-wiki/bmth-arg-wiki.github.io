@@ -4,13 +4,13 @@ description: "An overview of all four insights: connection, empathy, purpose, vi
 categories: ["lore"]
 tags: ["insights", "connection", "empathy", "purpose", "vision", "youtopia", 
        "for sof", "archangels", "omens"]
-image: "/Resources/files/selenes_map/map1.jpg"
+image: "/Resources/for-sof/selenes_map/map1.jpg"
 ---
 # The Four Insights
 
 > As Above So Below
 
-Document in the [FOR SOF](../files/for-sof) folder. It introduces us to the Insights. We do not kn0w its author, but we assume that [Selne](../characters/selene) likely left these files here for [Sof](../characters/sof).
+Document in the [FOR SOF](../for-sof) folder. It introduces us to the Insights. We do not kn0w its author, but we assume that [Selne](../characters/selene) likely left these files here for [Sof](../characters/sof).
 
 ***
 
@@ -55,7 +55,7 @@ North is [vision](insight4-vision), East is [connection](insight1-connection),
 South corresponds to [purpose](insight3-purpose) and West is [empathy](insight2-empathy).
 
 Each insight is also linked to a specific region in [Youtopia](youtopia), as indicated on 
-[Selene's map](../files/for-sof#YOUTOPIA_selenes_mapvis). If we face East on this map, 
+[Selene's map](../for-sof#YOUTOPIA_selenes_mapvis). If we face East on this map, 
 with Raphael before us, think links to the position of the archangels as we hear in [[ost] spiritual](../music/song-spiritual).
 
 The following four insights are the ones referred to throughout the ARG. 
@@ -69,7 +69,7 @@ They make the most sense if read in the original order.
 
 ![Characters from the band on cards for the physical release](../../Resources/characters/band-cards.png)
 
-The four insights also seem to be directly linked to the in-universe [characters](../characters/characters#band-members) 
+The four insights also seem to be directly linked to the in-universe [characters](../characters#band-members) 
 for the band.
 
 The fourth document ends with the conclusion that we need to apply the insights.
@@ -99,7 +99,7 @@ and the symbol for spirit.
 
 ## Read More
 
-More from [📁 FOR SOF](../files/for-sof)
+More from [📁 FOR SOF](../for-sof)
 
 The four insights:
 

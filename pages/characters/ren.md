@@ -17,7 +17,7 @@ skin colour changing to a pinkish hue.
 ## Backstory
 
 Ren's full name is Lauren Ikaro, and he is a scientist at [Nex Gen](../lore/nex-gen-corporation), 
-as evidenced by [his log](../files/lauren_d8_log). In this log, he activates E.V.E., 
+as evidenced by [his log](../for-sof/lauren_d8_log). In this log, he activates E.V.E., 
 who shows remarkable capabilities, far exceeding initial expectations. He also reminiscisces 
 about his father [Dallus Lauren](dallus-lauren), who passed away before he 
 could activate E.V.E.
@@ -28,9 +28,9 @@ In the [website song](../music/website-songs) "nmez!" we also see Ren listed as 
 
 ## Read More
 
-- [Characters](characters)
+- [Characters](../characters)
 - [Dallus Lauren](dallus-lauren)
-- [Ren's D8 log](../files/lauren_d8_log)
+- [Ren's D8 log](../for-sof/lauren_d8_log)
 - [ARC/HIVE](../lore/archive)
 
 *** 

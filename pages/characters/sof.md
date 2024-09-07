@@ -6,7 +6,7 @@ categories: ["characters"]
 
 Sof is the girl from the cover art. She is referred to as such in several descriptions 
 on the Horizon merch website.
-The [first file](../files/msgforsof) introduces the relationship between her and her mother, [Selene](selene).
+The [first file](../for-sof/msgforsof) introduces the relationship between her and her mother, [Selene](selene).
 
 ![Nex Gen album cover](../../Resources/music/ph2/album_cover.png)
 
@@ -32,7 +32,7 @@ So, no pressure."*
 
 ## FOR SOF
 
-[`FOR SOF`](../files/for-sof) refers to the folder in the ARG that we got access to using the first password within the website, 
+[`FOR SOF`](../for-sof) refers to the folder in the ARG that we got access to using the first password within the website, 
 after gaining access with the code 93934521 from M8's head on the album cover. The files 
 we are seeing in this folder have all been left for her, to discover what her mom 
 [Selene](selene) is trying to tell her.
@@ -50,7 +50,7 @@ discussion around the timeline.
 
 ## Read More
 
-- [Characters](characters)
+- [Characters](../characters.md)
 - [M8](../m8)
 - [Selene](selene)
 - [E.V.E](eve)

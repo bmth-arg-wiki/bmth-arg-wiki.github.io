@@ -1,0 +1,11 @@
+<nav class="breadcrumb" aria-label="breadcrumbs">
+    <ul>
+        <li><a href="{{ '/' | relative_url }}">HOME</a></li>
+        {% if page.categories %}
+        {% for category in page.categories %}
+        <li><a href="{{ site.baseurl }}/pages/{{ category }}/">{{ category | replace: "-", " " | upcase }}</a></li>
+        {% endfor %}
+        {% endif %}
+        <li class="is-active"><a href="#" aria-current="page">{{ page.title }}</a></li>
+    </ul>
+</nav>

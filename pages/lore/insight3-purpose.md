@@ -79,7 +79,7 @@ Insight 3 is also associated with [Pickles](../characters/pickles).
 
 ## Read More
 
-More from [📁 FOR SOF](../files/for-sof)
+More from [📁 FOR SOF](../for-sof)
 
 Related characters:
 

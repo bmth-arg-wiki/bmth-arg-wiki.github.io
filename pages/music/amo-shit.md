@@ -78,7 +78,7 @@ Yeah we want it right now.
 
 ## Speculation
 
-The [Mantra cult](../lore/mantra.md) logo appears at 1:50 in the [video](https://youtu.be/-iM83TiKdY0?si=TNJ5mDrcf8bUpikq). 
+The [Mantra cult](../lore/mantra) logo appears at 1:50 in the [video](https://youtu.be/-iM83TiKdY0?si=TNJ5mDrcf8bUpikq). 
 
 ![mantra logo](../../Resources/music/amo/shit/gallery/q_mantralogo.PNG)
 
@@ -88,4 +88,4 @@ The [Mantra cult](../lore/mantra.md) logo appears at 1:50 in the [video](https:/
 
 Related articles:
 
-- [Mantra cult](../lore/mantra.md)
+- [Mantra cult](../lore/mantra)

@@ -10,7 +10,7 @@ description: "The album POST HUMAN: SURVIVAL HORROR."
 Post Human: Survival Horror (PH:SH) was the first Post Human album. PH:SH was supposed to be the first of four albums 
 ([source: Kerrang](https://www.kerrang.com/oli-sykes-on-bring-me-the-horizons-post-human-ep-series-theres-gonna-be-a-record-for-everyone)), 
 explicitly citing they were all part of a bigger project. We also find references to the song `Dear Diary,` in 
-[Scott's journal](../files/scott_personal_journal).
+[Scott's journal](../for-sof/scott_personal_journal).
 
 ***
 

@@ -21,7 +21,7 @@ different between the tracklist and the instagram.
 
 ![img.png](../../Resources/socials/promotional_image_pusse_youtopia.png)
 
-Promotional post from the BMTH instagram, see page on [social posts](../socials/social-posts)
+Promotional post from the BMTH instagram, see page on [social posts](../socials)
 
 ![img_1.png](../../Resources/webpage/access-card.png)
 
@@ -35,4 +35,4 @@ of P.U.S.S-E a day for this patient.
 - [P.U.S.S-E (song)](../music/song-pusse)
 - [Nex Gen Corporation](nex-gen-corporation)
 - [Youtopia](youtopia)
-- [Dreadit file](../files/dreadit)
+- [Dreadit file](../for-sof/dreadit)

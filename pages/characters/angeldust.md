@@ -23,7 +23,7 @@ When her arrival is communicated to [E.V.E](eve), it becomes clear that she is a
 - [Nex Gen Corporation](../lore/nex-gen-corporation)
 - [Church of Genxsis](../lore/church)
 
-Angeldust might also be linked to [Project D.U.S.T.](../files/project_dust).
+Angeldust might also be linked to [Project D.U.S.T.](../for-sof/project_dust).
 
 ***
 

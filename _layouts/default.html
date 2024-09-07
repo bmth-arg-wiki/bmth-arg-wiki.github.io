@@ -19,6 +19,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/search.css' | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/sidebar.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/breadcrumbs.css' | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/gallery.css' | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/headerfooter.css' | relative_url }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
@@ -31,12 +32,15 @@
         {% include searchbar.html %}
     </div>
     <div class="page-body">
-        <aside class="menu editable">
+        <aside class="menu">
             {% include sidebar.html %}
         </aside>
         <main class="content">
-            <div class="editable">
-                 {{ content }}
+            <div>
+                 {% include breadcrumbs.html %}
+            </div>
+            <div>
+                {{ content }}
             </div>
         </main>
     </div>

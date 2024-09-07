@@ -2,8 +2,9 @@
 
 /* Styling variables */
 :root {
-  --titles: #518c81;
-  --link: #a67042;
+  --titles: #437e73;
+  --link: #c6844e;
+  --link-active: #ba5142;
   --txt: #383838;
   --dark-txt: #282828;
   --dark-red: #a70b0b;
@@ -87,6 +88,10 @@ a {
   color: var(--link);
 }
 
+a:active {
+  color: var(--link-active);
+}
+
 hr {
   background-color: var(--light-grey);
 }
@@ -98,6 +103,10 @@ li {
 
 input {
   color: var(--bg-lighter);
+}
+
+.content li+li {
+  margin: 0;        /* Reset margin from bulma */
 }
 
 .content img {

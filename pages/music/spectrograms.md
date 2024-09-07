@@ -16,7 +16,7 @@ They are listed in order of album appearance.
 
 ### Top 10 Statues That Cried Blood
 
-[See Insight 1: Connection](../lore/insight1-connection.md)
+[See Insight 1: Connection](../lore/insight1-connection)
 
 ### [ost] (spi)ritual
 

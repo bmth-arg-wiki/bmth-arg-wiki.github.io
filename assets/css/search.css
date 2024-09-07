@@ -6,6 +6,10 @@ a .description {
     color: var(--txt);
 }
 
+a:active .description {
+    color: var(--titles);
+}
+
 /* Custom styling for the search bar */
 .search-bar {
     margin-top: 20px;
@@ -23,12 +27,15 @@ a .description {
 }
 
 #clear-button {
+    color: var(--bg-lighter);
+    background: var(--txt);
     border-radius: 0; /* Remove rounded corners */
     border-left: none; /* Remove border between input and button */
 }
 
 #search-button {
-    background: var(--bg-darker);
+    color: var(--bg-lighter);
+    background: var(--txt);
     border-radius: 0 4px 4px 0;
 }
 
@@ -44,7 +51,7 @@ a .description {
     margin-bottom: 10px;
     display: block;
     text-decoration: none;
-    color: #363636; /* Dark text color */
+    color: var(--txt); /* Dark text color */
 }
 
 #search-result .result-item:hover {

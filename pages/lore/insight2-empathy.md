@@ -29,7 +29,7 @@ Relic: Guardian Tears
 
 ![Empathy on Selene's map](../../Resources/lore/insights/empathy/empathy-selenes-map.png)
 
-A region on [Selene's map](../files/for-sof#YOUTOPIA_selenes_mapvis)
+A region on [Selene's map](../for-sof#YOUTOPIA_selenes_mapvis)
 
 ![Band cards with Madman for empathy](../../Resources/characters/band-cards.png)
 
@@ -87,7 +87,7 @@ empathy
 
 ## Read More
 
-More from [📁 FOR SOF](../files/for-sof)
+More from [📁 FOR SOF](../for-sof)
 
 Related characters:
 

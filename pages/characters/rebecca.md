@@ -9,12 +9,12 @@ tags: ["rebecca sinclair", "grumblr", "synth", "nex gen", "arc/hive", "cers"]
 # Rebecca Sinclair
 
 Rebecca was a former terminally ill lab assistant at Arc/Hive, before becoming the first
-synth. She is [interviewed](../files/tekka_interview) about the ambitious project from Nex Gen
+synth. She is [interviewed](../for-sof/tekka_interview) about the ambitious project from Nex Gen
 by a magazine called Tekka.
 
 ![Tekka Magazine cover](../../Resources/files/tekka/tekka_cover.png)
 
-We learn more about Rebecca and her diagnosis in the [Grumblr file](../files/grumblr). 
+We learn more about Rebecca and her diagnosis in the [Grumblr file](../for-sof/grumblr). 
 She suffers from CERS, or Chronic Environmental Respiratory Syndrome.
 This disease has already caused her so much damage she likely won't be able to be saved by 
 [Dallus Lauren](dallus-lauren)'s research.
@@ -27,8 +27,8 @@ She smokes as a marketing ploy.
 
 Related files:
 
-- [Tekka interview](../files/tekka_interview)
-- [Grumblr post](../files/grumblr)
+- [Tekka interview](../for-sof/tekka_interview)
+- [Grumblr post](../for-sof/grumblr)
 
 Related articles:
 
@@ -37,5 +37,5 @@ Related articles:
 
 Related characters:
 
-- [Characters](characters)
+- [Characters](../characters)
 - [Dallus Lauren](dallus-lauren)

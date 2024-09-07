@@ -1,9 +1,9 @@
 ---
 title: "Walkthrough Part 2"
-description: "The second part of the walkthrough focuses on opening the files in the FOR SOF folder."
-categories: ["other"]
+description: "The second part of the walkthrough focuses on opening the for-sof in the FOR SOF folder."
+categories: ["walkthrough"]
 tags: ["walkthrough", "arg", "bring me the horizon", "bmth", "password game", "qr code",
-       "dig it", "sof", "files", "serial number", "secrets", "past", "msgforsof", "insights", 
+       "dig it", "sof", "for-sof", "serial number", "secrets", "past", "msgforsof", "insights", 
        "empathy", "connection", "purpose", "vision", "creativity", "capslock", "selene's storage crate", 
        "selene", "strassman", "karl", "pusse", "youtopia", "eve", "dreadit", "clive", "1d1b2c2a", 
        "r8", "m8 systems", "within", "0003", "0005", "0014", "vspr-37", "scott", "syko", "ren", "ikaro lauren", 
@@ -14,7 +14,7 @@ tags: ["walkthrough", "arg", "bring me the horizon", "bmth", "password game", "q
 ---
 # Walkthrough Part 2: FOR SOF
 
-**[← previous](walkthrough)**
+**[← previous](../walkthrough)**
 
 This folder of files is where most of the ARG takes place.
 First, we need to gain access to it!
@@ -26,7 +26,7 @@ images and links related to the documents.
 
 ## Quick access
 
-**[Previous part of the walkthrough](walkthrough)**
+**[Previous part of the walkthrough](../walkthrough)**
 
 Jump to section:
 
@@ -93,9 +93,9 @@ You can find more explanations about the webpage by reading some related article
 
 ### msgforsof.aiff
 
-The first file is an [audio log](../files/msgforsof) that does not need a password.
+The first file is an [audio log](../for-sof/msgforsof) that does not need a password.
 
-- [msgforsof.aiff](../files/msgforsof)
+- [msgforsof.aiff](../for-sof/msgforsof)
 - [Sof](../characters/sof)
 - [Selene](../characters/selene)
 
@@ -192,7 +192,7 @@ Characters:
 ## CAPSLOCK.DOC
 
 This file is a special case, as it was uncovered before it was supposed to be.
-Also see the [article on this file](../files/capslock_doc).
+Also see the [article on this file](../for-sof/capslock_doc).
 We recommend reading this file at the end of your walkthrough and not following the instructions
 in it.
 
@@ -216,7 +216,7 @@ By decoding the capital letters from the track list, we get
 
 Let's move on with the file actually intended to be next.
 
-- [CAPSLOCK.DOC](../files/capslock_doc)
+- [CAPSLOCK.DOC](../for-sof/capslock_doc)
 
 [↑️ Quick access](#quick-access)
 
@@ -247,7 +247,7 @@ get the name 'Karl Strassman' from a bulleT w/my namE On.
 
 Learn more about Strassman in the related articles.
 
-- [StrassmanCONFIDENTIALPRT007.CODEC](../files/strassmancodec)
+- [StrassmanCONFIDENTIALPRT007.CODEC](../for-sof/strassmancodec)
 - [Nex Gen Corporation](../lore/nex-gen-corporation)
 - [Karl Strassman](../characters/strassman)
 - [E.V.E](../characters/eve)
@@ -277,7 +277,7 @@ The password is '1d1b2c2a' and can be found in the Spyder browser URL.
 
 This unlocks a Dreadit post with some comments on it.
 
-- [DREADITScreenshot 2051.1.5.59.43.vis](../files/dreadit)
+- [DREADITScreenshot 2051.1.5.59.43.vis](../for-sof/dreadit)
 - [Nex Gen Corporation](../lore/nex-gen-corporation)
 - [Selene](../characters)
 - [Neosages](../lore/mantra) (Spoiler-heavy for upcoming files)
@@ -310,7 +310,7 @@ the sticky note.
 
 We've now got the map, which will tell us a little more about Youtopia.
 
-- [YOUTOPIA_selenes_map.vis](../files/selenes_map)
+- [YOUTOPIA_selenes_map.vis](../for-sof/selenes_map)
 - [Youtopia](../lore/youtopia)
 - [The Insights](../lore/insights)
 
@@ -353,9 +353,9 @@ This gives us a spec sheet for some technology.
 <details>
 <summary>Related articles</summary>
 
-- [R8](../files/r8)
+- [R8](../for-sof/r8)
 - [M8](../m8)
-- [D8](../files/lauren_d8_log)
+- [D8](../for-sof/lauren_d8_log)
 
 </details>
 
@@ -385,7 +385,7 @@ The password is Selene's user number in the M8 system, "0003".
 You can learn more in the related articles, but we recommend unlocking [Scott's diary](#scott_personal_journal_vspr-37doc) 
 first.
 
-- [Selene_Personal_Journal_2037.02.doc](../files/selene_personal_journal)
+- [Selene_Personal_Journal_2037.02.doc](../for-sof/selene_personal_journal)
 - [Selene](../characters/selene)
 
 [↑ Quick access](#quick-access)
@@ -416,7 +416,7 @@ In this log we find out that his full name is Ikaro Lauren.
 
 More details on this character and document can be found in the related articles.
 
-- [Lauren_D8_Log_203701.docx](../files/lauren_d8_log)
+- [Lauren_D8_Log_203701.docx](../for-sof/lauren_d8_log)
 - [Ren](../characters/ren)
 
 [↑ Quick access](#quick-access)
@@ -448,9 +448,9 @@ In this log we find out that Syko was still called Scott at 16 years old.
 You can read more about Scott in the related articles. This file is strongly tied to 
 [Selene's diary](#selene_personal_journal_203702doc).
 
-- [Selene_Personal_Journal_2037.02.doc](../files/selene_personal_journal)
+- [Selene_Personal_Journal_2037.02.doc](../for-sof/selene_personal_journal)
 - [Selene](../characters/selene)
-- [Scott_Personal_Journal_VSPR-37.doc](../files/scott_personal_journal)
+- [Scott_Personal_Journal_VSPR-37.doc](../for-sof/scott_personal_journal)
 - [Syko](../characters/syko)
 - [Dear Diary,](../music/song-dear-diary)
 
@@ -486,7 +486,7 @@ https://www.instagram.com/p/C8Ziq3_CVIy/
 
 This file is not in English. See the links below in case you need some help interpreting.
 
-- [Operation_Trinity_Analysis.xslx](../files/trinity_document) (includes translation)
+- [Operation_Trinity_Analysis.xslx](../for-sof/trinity_document) (includes translation)
 - [Karl Strassman](../characters/strassman)
 - [Skys](../characters/skys)
 - [Dallus Lauren](../characters/dallus-lauren)
@@ -520,7 +520,7 @@ which takes place at a mysterious organization called ARC/HIVE.
 
 This reveals a new document which centers on a specific character.
 
-- [ISSUE-51-fromhelltoshell.pdf 1](../files/tekka_interview)
+- [ISSUE-51-fromhelltoshell.pdf 1](../for-sof/tekka_interview)
 - [Nex Gen Corporation](../lore/nex-gen-corporation)
 - [ARC/HIVE](../lore/archive)
 
@@ -562,7 +562,7 @@ and their past.
 
 The solution can also be found in the image at the [end of the page](#password-1).
 
-- [Jan15_2031_declassified_PROJECT D.U.S.T. 2](../files/project_dust)
+- [Jan15_2031_declassified_PROJECT D.U.S.T. 2](../for-sof/project_dust)
 - [Nex Gen Corporation](../lore/nex-gen-corporation)
 - [ARC/HIVE](../lore/archive)
 - [Kool-Aid](../music/song-koolaid) (Music video)
@@ -570,7 +570,7 @@ The solution can also be found in the image at the [end of the page](#password-1
 
 Related characters:
 
-- [Dr. Elias Mortem](../characters/characters#dr-elias-mortem)
+- [Dr. Elias Mortem](../characters#dr-elias-mortem)
 - [Karl Strassman](../characters/strassman)
 - [Skys](../characters/skys)
 - [Dallus Lauren](../characters/dallus-lauren)
@@ -603,7 +603,7 @@ a song in the music player info.
 
 This will unlock a newspaper with several areas you can zoom into.
 
-- [SCISTUDYSCAN1999wrist.SCN](../files/thesciencestudy)
+- [SCISTUDYSCAN1999wrist.SCN](../for-sof/thesciencestudy)
 - [Website songs](../music/website-songs)
 
 [↑ Quick access](#quick-access)
@@ -635,7 +635,7 @@ By switching them around, we can form the password: 'INTERCELLULAR'
 
 This will give us a poster.
 
-- [Sky_&_The_Starjammers.png](../files/skystarjammers)
+- [Sky_&_The_Starjammers.png](../for-sof/skystarjammers)
 - [Skys](../characters/skys)
 - [Mantra cult](../lore/mantra)
 - [Mantra (song)](../music/amo-mantra)
@@ -672,9 +672,9 @@ See the [end of the page](#tour-poster-1) for more information on the solution.
 
 This file gives us access to an email and a video featuring one of the band members. 
 
-- [Nex Gen leak ‘UNBELEEVABLE’.doc](../files/unbeleevable)
-- [Skys & the Starjammers poster](../files/skystarjammers)
-- [The Science Study newspaper](../files/thesciencestudy)
+- [Nex Gen leak ‘UNBELEEVABLE’.doc](../for-sof/unbeleevable)
+- [Skys & the Starjammers poster](../for-sof/skystarjammers)
+- [The Science Study newspaper](../for-sof/thesciencestudy)
 - [In The Dark](../music/amo-in-the-dark)
 - [Mantra](../lore/mantra)
 - [Church of Genxsis](../lore/church)
@@ -714,7 +714,7 @@ the pieces from the post, rotating and assembling them, we get the code '7795397
 </details>
 
 This file gives us a new document, although you might want to read the 
-[translation](../files/russianpoem#translated).
+[translation](../for-sof/russianpoem#translated).
 You can find the assembled password clue [here](#reassembled-letter).
 
 [↑ Quick access](#quick-access)
@@ -793,7 +793,7 @@ The filename is the hint.
 The password for the file is "14012".
 </details>
 
-This will unlock the [Grumblr file](../files/grumblr).
+This will unlock the [Grumblr file](../for-sof/grumblr).
 
 Characters:
 - [Rebecca](../characters/rebecca)
@@ -802,7 +802,7 @@ Characters:
 
 Other relevant articles:
 - [ARC/HIVE](../lore/archive)
-- [Tekka Interview](../files/tekka_interview)
+- [Tekka Interview](../for-sof/tekka_interview)
 - [In the Dark](../music/amo-in-the-dark) (speculated appearance)
 
 [↑ Quick access](#quick-access)
@@ -833,14 +833,14 @@ This puzzle corresponds to the Insights on Selene's map.
 
 </details>
 
-This will unlock a [mysterious new file](../files/lbr_sites).
+This will unlock a [mysterious new file](../for-sof/lbr_sites).
 
 Relevant characters:
 
 - [EVE](../characters/eve)
 - [Karl Strassman](../characters/strassman)
 - [Dallus Lauren](../characters/dallus-lauren)
-- [Victor Carmine](../characters/characters#victor-carmine)
+- [Victor Carmine](../characters#victor-carmine)
 
 Relevant articles:
 
@@ -862,8 +862,8 @@ Please email [bmthargwiki@gmail.com](mailto:bmthargwiki@gmail.com).
 
 Want to help us with the password hunt? Join the official [BMTH Discord](https://discord.com/invite/bmthofficial).
 
-- [Walkthrough part 1](../walkthrough/walkthrough)
-- [FOR SOF: file overview](../files/for-sof)
+- [Walkthrough part 1](../walkthrough)
+- [FOR SOF: file overview](../for-sof)
 
 [↑ Quick access](#quick-access)
 
