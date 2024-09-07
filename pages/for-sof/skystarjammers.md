@@ -9,8 +9,6 @@ image: "/Resources/for-sof/skys_starjammers/sky.png"
 
 # Sky_&_The_Starjammers.png
 
-> ⚠ This page contains password spoilers.
-
 > "Do you wanna start a cult with me?"
 
 This file contains a poster of Skys and his band, 'Skys and the Starjammers', 
@@ -47,17 +45,22 @@ INTERCELLULAR
 
 ## Password context
 
-![Nex Gen document from instagram](../../Resources/files/skys_starjammers/nexgendoc.jpg)
-![Numbers assigned to letters](../../Resources/files/skys_starjammers/instagram_solve.jpg)
+<details class="password">
+    <summary>⚠ The context contains spoilers</summary>
+
+{{"![Nex Gen document from instagram](../../Resources/files/skys_starjammers/nexgendoc.jpg)" | markdownify}}
+{{"![Numbers assigned to letters](../../Resources/files/skys_starjammers/instagram_solve.jpg)" | markdownify}}
 
 This document was revealed in an Instagram post. It contains four words and 5 sets of numbers. 
 When you take each individual number to match up a letter, you get the letters needed for the word 
 `INTERCELLULAR`.
 
-![password_placeholder.png](../../Resources/files/skys_starjammers/password_placeholder.png)
+{{"![password_placeholder.png](../../Resources/files/skys_starjammers/password_placeholder.png)" | markdownify}}
 
 You can see 12 lines for characters, since spaces are indicated on screen. Despite this, 
 the password was 13 characters long, causing confusion among the community.
+
+</details>
 
 ***
 
