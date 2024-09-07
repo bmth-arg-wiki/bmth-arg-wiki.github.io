@@ -28,7 +28,7 @@ redaction follows.
 <details class="password">
   <summary>Password</summary>
 
-{{!"[lbr password](../../Resources/files/lbr_sites/lbr_password.jpg)" | markdownify}}
+{{"![lbr password](../../Resources/files/lbr_sites/lbr_password.jpg)" | markdownify}}
 
 </details>
 
