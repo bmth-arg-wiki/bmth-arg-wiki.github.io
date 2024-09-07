@@ -20,6 +20,13 @@ It is currently unknown whether the Dr. Lee MD from the video is also [Madman](.
 
 ## Document contents
 
+<details class="password">
+    <summary>Password</summary>
+
+forest
+
+</details>
+
 ### Email
 
 ![Email screenshot](../../Resources/files/unbeleevable/NEXGENLEAK1.png)
