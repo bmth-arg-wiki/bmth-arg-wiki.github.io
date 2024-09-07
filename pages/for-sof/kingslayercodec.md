@@ -10,8 +10,6 @@ image: "/Resources/for-sof/kingslayer_codek/kingslayer_codek_screenshot.png"
 
 # Kngsl@yer_EncrypMsg.codek
 
-> ⚠ This page contains password spoilers.
-
 > Biohazard protocols are in effect.
 
 The Kingslayer file opens to a puzzle you have to solve in 7:55 minutes, which then opens a password screen with a 30 seconds timer. 
@@ -112,11 +110,14 @@ The video is a brief radio call between "Spectre" and "Overwatch". They are foll
 
 ## Password context
 
+<details class="password">
+    <summary>⚠ the context contains spoilers</summary>
+
 ### The puzzle
 
 > ℹ︎  The puzzle is very time-consuming, and the password screen only allows very little time to enter the password after you click check. So keep the password ready!
 
-![Solution to the wire puzzle](../../Resources/files/kingslayer_codek/kingslayer_codek_puzzle.png)
+{{"![Solution to the wire puzzle](../../Resources/files/kingslayer_codek/kingslayer_codek_puzzle.png)" | markdownify}}
 
 The following is the solution to the maze. To solve it yourself, you will need to beat the 
 timer and click and rotate the pieces.
@@ -130,6 +131,8 @@ The pieces are always in the same order, making the strategy below the most viab
 
 Tip: you will need to click once for the first wire you connect, twice for the second, and this pattern 
 continues until the end.
+
+</details>
 
 ***
 
