@@ -8,7 +8,7 @@ tags: ["empathy", "gabriel", "raphael", "uriel", "michael", "archangel", "selene
 
 # Gabriel
 
-![Gabriel's avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/gabriel/gabriel.png)
+![Gabriel's avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/gabriel/16gabriel.png)
 
 Gabriel is one of the archangels and linked to [Insight 2: Empathy](../lore/insight2-empathy). 
 He used to be user 0017 on the [webpage](../webpage), before an update on June 4th 2024 moved him to 

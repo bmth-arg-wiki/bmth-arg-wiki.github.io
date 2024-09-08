@@ -4,7 +4,7 @@ categories: ["characters"]
 ---
 # Vanth
 
-![Vanth's Avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/vanth/vanth.png)
+![Vanth's Avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/vanth/17vanth.png)
 
 Vanth was user 0018 in the system and is user 0017 as of the 4th of June 2024. 
 They are the Omen of [Insight 3: Purpose](../lore/insight3-purpose). In the documents, Vanth is referred to as a princess 
