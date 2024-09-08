@@ -28,9 +28,9 @@ in a message from EVE on the official Bring Me The Horizon Discord.
 1d1b2c2a
 </details>
 
-![Password screen Dreadit](../../Resources/files/dreadit/dreadit_pass.png)
+![Password screen Dreadit](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/dreadit/dreadit_pass.png)
 
-![See transcription](../../Resources/files/dreadit/dreadit.png)
+![See transcription](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/dreadit/dreadit.png)
 
 ***
 

@@ -39,7 +39,7 @@ the church of Genxsis and their involvement with the [Mantra cult](../music/amo-
 
 ## Website
 
-![Website screenshot](../../Resources/lore/genxsis.faith/genxsis_faith.png)
+![Website screenshot](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/genxsis.faith/genxsis_faith.png)
 
 The website also contains a personality test and contained a hidden section behind
 a password field as well. Sadly, the password protected content could not be 
@@ -51,23 +51,23 @@ retrieved from the website.
 
 There are four possible results from the personality test:
 
-![Personality test logo Blessed Exalter](../../Resources/lore/genxsis.faith/blessed_exalter.png)
+![Personality test logo Blessed Exalter](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/genxsis.faith/blessed_exalter.png)
 
 > **Blessed Exalter**
 >
 > Praise highly, so highly upon thee. Words akin to thy-self and ego flow around and off thee like wind and air, words like me and my and I, hold like the weight of a feather in thou hand and fall to the ground. Thou fears not of death, or life or betwixt either of these. But only lives to better thy-self and wish to aid all other beings. Ye reach out with a golden helping hand and grasp all that would reach back.
 
-![Personality test logo Chaos Seeker](../../Resources/lore/genxsis.faith/chaos_seeker.png)
+![Personality test logo Chaos Seeker](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/genxsis.faith/chaos_seeker.png)
 > **Chaos Seeker**
 > 
 > The fire consumeth thy soul, it burns and engulfs thine body, limbs and spirit. Ye draw a new pathway upon the map of life, with harsh crudeness and blunt force. Thy line of flame cuts through the social normalities and customs, it tears the map where ye judgement cares not. Thy psyche tips dangerously close to the edge of chaos, tread carefully.
 
-![Personality test logo Destiny Walker](../../Resources/lore/genxsis.faith/destiny_walker.png)
+![Personality test logo Destiny Walker](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/genxsis.faith/destiny_walker.png)
 > **Destiny Walker**
 > 
 > Ye hopeful and bravest soul, who alloweth thy feet to walk one step timely along thy destined pathway. O great journey, O destined roadmap, carved out like fateful paving stones before thou. Ye Destiny Walker cares not for sight, for thee passageway was meant for thy feet even if thou was rendered blind, even if thou was lost in the great unknown thou would light the true direction with thine very first step. Worry not on the twists and turns of your quest, as whichever doorway thou chooses it will be fated true.
 
-![Personality test logo Logic Dweller](../../Resources/lore/genxsis.faith/logic_dweller.png)
+![Personality test logo Logic Dweller](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/genxsis.faith/logic_dweller.png)
 
 > **Logic Dweller**
 > 
@@ -78,8 +78,8 @@ There are four possible results from the personality test:
 The following two images also appear on the website, they are
 labeled as `key.png` and `pgminev1973.png` respectively.
 
-![key.png](../../Resources/lore/genxsis.faith/key.png)
-![pmginev1973.png](../../Resources/lore/genxsis.faith/pmginev1973.png)
+![key.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/genxsis.faith/key.png)
+![pmginev1973.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/genxsis.faith/pmginev1973.png)
 
 The `key.png` logo is often used with Nex Gen. The `pgminev1973.png` only
 seems to appear on this website and on the cult robes from [DownloadFest](downloadfest)

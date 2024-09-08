@@ -9,7 +9,7 @@ image: "/Resources/other-webpages/joinmantra.org/20180810062921.png"
 ---
 # Mantra Cult
 
-![The Cult of Mantra](../../Resources/files/unbeleevable/gallery/cult-of-mantra.png)
+![The Cult of Mantra](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/unbeleevable/gallery/cult-of-mantra.png)
 
 The Neosages, better known as the Mantra, are a cult with their leader being
 [Skys](../characters/skys).
@@ -53,7 +53,7 @@ It is unknown what happens to Skys after he is extracted.
 
 ## joinmantra.org
 
-![Mantra logo with the phrase "An Invitation to Salvation"](../../Resources/other-webpages/joinmantra.org/20180810062921.png)
+![Mantra logo with the phrase "An Invitation to Salvation"](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/other-webpages/joinmantra.org/20180810062921.png)
 
 joinmantra.org was a promotion for the music video for [Mantra (song)](../music/amo-mantra).
 

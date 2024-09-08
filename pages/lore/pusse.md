@@ -19,11 +19,11 @@ P.U.S.S-E seems to be a drug, implied by instagram posts, a pill bottle at the e
 [the song](../music/song-pusse) and additional promotional information. The stylization of puss-e (like P.u.s.s-e) is 
 different between the tracklist and the instagram.
 
-![img.png](../../Resources/socials/promotional_image_pusse_youtopia.png)
+![img.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/promotional_image_pusse_youtopia.png)
 
 Promotional post from the BMTH instagram, see page on [social posts](../socials)
 
-![img_1.png](../../Resources/webpage/access-card.png)
+![img_1.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/access-card.png)
 
 The small text on the access card on the main ARG page also recommends two doses 
 of P.U.S.S-E a day for this patient.

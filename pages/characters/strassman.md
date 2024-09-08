@@ -13,7 +13,7 @@ categories: ["characters"]
 Dr. Karl Strassman is (or was) a scientist at [Nex Gen Corporation](../lore/nex-gen-corporation).
 Early in the ARG, we learn that he helped [E.V.E](../characters/eve) gain control over humanity under false pretenses.
 
-![Karl Strassman's avatar](../../Resources/characters/strassman/strassman.png)
+![Karl Strassman's avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/strassman/strassman.png)
 
 ***
 
@@ -24,7 +24,7 @@ Karl Strassman is a doctor that works with [E.V.E](eve), as seen in a
 [FOR SOF](../for-sof) folder. This was one of the earliest files and 
 has been upgraded in quality from its initial release.
 
-![Strassman in a conversation with Eve](../../Resources/characters/strassman/strassman_video.png)
+![Strassman in a conversation with Eve](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/strassman/strassman_video.png)
 
 In the video he can be seen speaking to Eve about the effects of [P.U.S.S-E](../lore/pusse). 
 He stresses that there are a lot of negative side effects to its use, to have people 

@@ -20,7 +20,7 @@ for the last insight (vision) has been named "creativity".
 
 ## Spectrogram
 
-![Spectrogram of the Vision symbol](../../Resources/lore/insights/vision/vision_spectogram.png)
+![Spectrogram of the Vision symbol](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/vision/vision_spectogram.png)
 
 ***
 
@@ -32,11 +32,11 @@ for the last insight (vision) has been named "creativity".
 - Direction: North
 - Relic: Golden Raspberry
 
-![Region on Selene's map](../../Resources/lore/insights/vision/vision-selenes-map.png)
+![Region on Selene's map](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/vision/vision-selenes-map.png)
 
 From Selene's map
 
-![Band card with Vegan and vision logo](../../Resources/characters/band-cards.png)
+![Band card with Vegan and vision logo](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/band-cards.png)
 
 Insight 4 is also associated with [Vegan](../characters/vegan).
 

@@ -4,6 +4,8 @@ _site/*
 # Exclude IDE for-sof
 .idea/*
 
+assets/scripts/
+
 # EXCLUDE RUBY ENVIRONMENTS THEY BREAK THE BUILD
 /~/
 /Gemfile.lock

@@ -12,7 +12,7 @@ Rebecca was a former terminally ill lab assistant at Arc/Hive, before becoming t
 synth. She is [interviewed](../for-sof/tekka_interview) about the ambitious project from Nex Gen
 by a magazine called Tekka.
 
-![Tekka Magazine cover](../../Resources/files/tekka/tekka_cover.png)
+![Tekka Magazine cover](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/tekka/tekka_cover.png)
 
 We learn more about Rebecca and her diagnosis in the [Grumblr file](../for-sof/grumblr). 
 She suffers from CERS, or Chronic Environmental Respiratory Syndrome.

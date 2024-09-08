@@ -27,7 +27,7 @@ say a few more words goodbye and then end the recording.
 
 ## Document contents
 
-![Audio player in the FOR SOF folder](../../Resources/files/msgforsof/msgforsof-player.png)
+![Audio player in the FOR SOF folder](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/msgforsof/msgforsof-player.png)
 
 ***
 

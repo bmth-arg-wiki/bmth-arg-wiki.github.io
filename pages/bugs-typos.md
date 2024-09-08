@@ -17,7 +17,7 @@ Some bugs were present in versions of the code that have been fixed in the meant
 This indicates that visual glitches etc. were most likely not intentional and are a 
 priority for the development team.
 
-![access-card.png](../Resources/webpage/access-card.png)
+![access-card.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/access-card.png)
 
 ***
 

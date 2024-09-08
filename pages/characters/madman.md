@@ -7,7 +7,7 @@ tags: ["madman", "lee malia", "bring me the horizon", "unbeleevable", "bmth"]
 
 # Madman
 
-![Madman's avatar](../../Resources/characters/madman/madman.png)
+![Madman's avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/madman/madman.png)
 
 Madman is Lee Malia's stand-in character in the universe for the band. Before the June 4th 2024 
 update he was number 0013 in the system, he is now user 0012.

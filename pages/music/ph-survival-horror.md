@@ -5,7 +5,7 @@ description: "The album POST HUMAN: SURVIVAL HORROR."
 ---
 # POST HUMAN: SURVIVAL HORROR
 
-![Survival Horror album cover](../../Resources/characters/sof/img.png)
+![Survival Horror album cover](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/sof/img.png)
 
 Post Human: Survival Horror (PH:SH) was the first Post Human album. PH:SH was supposed to be the first of four albums 
 ([source: Kerrang](https://www.kerrang.com/oli-sykes-on-bring-me-the-horizons-post-human-ep-series-theres-gonna-be-a-record-for-everyone)), 
@@ -55,9 +55,9 @@ really working, is it?”
 
 ## Socials
 
-![Album announcement](../../Resources/music/ph1/ph1_front_cover_insta.jpg)
-![Album back with tracklist](../../Resources/music/ph1/ph1_back_cover_insta.jpg)
-![Announcement of physical release](../../Resources/music/ph1/oliver_vinyl_insta.jpg)
+![Album announcement](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph1/ph1_front_cover_insta.jpg)
+![Album back with tracklist](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph1/ph1_back_cover_insta.jpg)
+![Announcement of physical release](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph1/oliver_vinyl_insta.jpg)
 
 The art was made by Oliver's wife @alissic, who also made the cover for Post Human: 
 Nex Gen.
@@ -70,7 +70,7 @@ Nex Gen.
 from NEx Gen. The theory is supported by the fact that both characters have a third eye 
 (with Sof's seemingly being sewn shut).
 
-![Nex Gen album cover with Sof](../../Resources/music/ph2/album_cover.png)
+![Nex Gen album cover with Sof](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover.png)
 
 ***
 

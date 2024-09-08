@@ -26,7 +26,7 @@ The video is a brief radio call between "Spectre" and "Overwatch". They are foll
 23.2907
 </details>
 
-![kingslayer codec screenshot](../../Resources/files/kingslayer_codek/kingslayer_codek_screenshot.png)
+![kingslayer codec screenshot](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/kingslayer_codek/kingslayer_codek_screenshot.png)
 
 ***
 
@@ -117,7 +117,7 @@ The video is a brief radio call between "Spectre" and "Overwatch". They are foll
 
 > ℹ︎  The puzzle is very time-consuming, and the password screen only allows very little time to enter the password after you click check. So keep the password ready!
 
-{{"![Solution to the wire puzzle](../../Resources/files/kingslayer_codek/kingslayer_codek_puzzle.png)" | markdownify}}
+{{"![Solution to the wire puzzle](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/kingslayer_codek/kingslayer_codek_puzzle.png)" | markdownify}}
 
 The following is the solution to the maze. To solve it yourself, you will need to beat the 
 timer and click and rotate the pieces.

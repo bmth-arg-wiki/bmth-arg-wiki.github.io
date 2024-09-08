@@ -13,7 +13,7 @@ Angeldust appears in the live shows as a 'rotten angel' (as she is described by 
 Instagram), who attacks the [Church of Genxsis](../lore/church). 
 When her arrival is communicated to [E.V.E](eve), it becomes clear that she is an enemy to her.
 
-![Snapinsta.app_420366895_392572589824770_3198707577784132863_n_1024.jpg](../../Resources/characters/angeldust/Snapinsta.app_420366895_392572589824770_3198707577784132863_n_1024.jpg)
+![Snapinsta.app_420366895_392572589824770_3198707577784132863_n_1024.jpg](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/angeldust/Snapinsta.app_420366895_392572589824770_3198707577784132863_n_1024.jpg)
 
 ***
 

@@ -11,7 +11,7 @@ image: "/Resources/socials/genesis-storyline.png"
 
 # Genesis Storyline — Narrative Development
 
-![Genesis Storyline Image.png](../../Resources/socials/genesis-storyline.png)
+![Genesis Storyline Image.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/genesis-storyline.png)
 
 Source: [Oli's instagram](https://www.instagram.com/p/CtUpM05MsXl/?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D&img_index=7)
 

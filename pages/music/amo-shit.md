@@ -80,7 +80,7 @@ Yeah we want it right now.
 
 The [Mantra cult](../lore/mantra) logo appears at 1:50 in the [video](https://youtu.be/-iM83TiKdY0?si=TNJ5mDrcf8bUpikq). 
 
-![mantra logo](../../Resources/music/amo/shit/gallery/q_mantralogo.PNG)
+![mantra logo](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/amo/shit/gallery/q_mantralogo.PNG)
 
 ***
 

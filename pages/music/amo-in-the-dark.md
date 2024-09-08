@@ -10,13 +10,13 @@ description: "The song In The Dark from the album amo."
 "In The Dark" is a song from the album 'Amo'. Its music video contains many references to a mysterious 
 organization called ARC/HIVE, just like [the D8 log](../for-sof/lauren_d8_log).
 
-![arc-hive-arg.png](../../Resources/files/lauren_d8_log/gallery/s_lauren_d8.jpg)
+![arc-hive-arg.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/lauren_d8_log/gallery/s_lauren_d8.jpg)
 
 The video also showcases the altilium chordata tanks mentioned in [Project D.U.S.T.](../for-sof/project_dust) as well as [Dr. Dallus Lauren](../characters/dallus-lauren) re-experiencing what we think might be the mares also mentioned in [Project D.U.S.T.](../for-sof/project_dust)
 
 Moreover, we see a woman who seems to be [Rebecca](../characters/rebecca).
 
-![rebecca](../../Resources/music/amo/inthedark/gallery/g_rebeccasmoking.PNG)
+![rebecca](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/amo/inthedark/gallery/g_rebeccasmoking.PNG)
 
 ***
 

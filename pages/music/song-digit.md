@@ -105,7 +105,7 @@ Source: [lyrics video](https://www.youtube.com/watch?v=15Fg3sTag4w).
 
 ## 93 second silence
 
-![img.png](../../Resources/music/spectrograms/silence93.png)
+![img.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/spectrograms/silence93.png)
 
 The number 93 often appears, like in these 93 seconds of silence.
 

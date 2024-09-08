@@ -41,7 +41,7 @@ Since this ARG is still ongoing, updates will be reflected in the walkthrough as
 The album itself contains many tracks, with some of them hiding secrets! Nearly all tracks 
 have a lyric video and there are many [official videos](https://www.bmthofficial.com/videos/) too.
 
-![Screenshot of website Multi-dimensional Navigator 8](Resources/webpage/webpage-overview.png)
+![Screenshot of website Multi-dimensional Navigator 8](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/webpage-overview.png)
 
 There is also lore from [POST HUMAN: SURVIVAL HORROR](pages/music/ph-survival-horror) and [amo](pages/music/amo), 
 but it's best to start with the new material first!
@@ -58,7 +58,7 @@ files in a folder called [FOR SOF](pages/for-sof). The recommended order is to r
 then read more about the files in this folder. All passwords are spoiler-tagged, but articles about characters, songs 
 or the lore will obviously contain many spoilers.
 
-![band-cards.png](Resources/characters/band-cards.png)
+![Image of band cards included with certain physical releases.](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/band-cards.png)
 
 ### Socials & other sources
 

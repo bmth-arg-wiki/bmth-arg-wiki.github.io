@@ -12,7 +12,7 @@ image: "/Resources/lore/insights/purpose/gallery/purpose1.png"
 
 Purpose is the third insight, found in the spectrogram of puss-e.
 
-![Spectrogram of purpose](../../Resources/lore/insights/purpose/purpose_spectogram.png)
+![Spectrogram of purpose](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/purpose/purpose_spectogram.png)
 
 ***
 
@@ -25,7 +25,7 @@ Purpose is the third insight, found in the spectrogram of puss-e.
 - Direction: South
 - Relic: Abramelin's Candle Of Eternal Light
 
-![Band card with Pickles and purpose logo](../../Resources/characters/band-cards.png)
+![Band card with Pickles and purpose logo](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/band-cards.png)
 
 Insight 3 is also associated with [Pickles](../characters/pickles).
 

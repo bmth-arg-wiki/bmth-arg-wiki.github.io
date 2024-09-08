@@ -28,11 +28,11 @@ There have actually been two versions of this song: the first version on the web
 of May 2024) and the second version on the website (26th of May 2024). 
 After the latest update, neither can be found on the website anymore.
 
-![Kool-Aid 8-bit picture](../../Resources/music/websitesongs/kool8.png)
+![Kool-Aid 8-bit picture](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/websitesongs/kool8.png)
 
 Before 26-05 update.
 
-![Kool-Aid 8-bit picture (second version)](../../Resources/music/websitesongs/kool8-2.png)
+![Kool-Aid 8-bit picture (second version)](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/websitesongs/kool8-2.png)
 
 After 26-05 update.
 
