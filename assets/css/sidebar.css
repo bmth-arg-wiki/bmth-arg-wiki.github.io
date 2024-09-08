@@ -1,9 +1,17 @@
-.is-hidden {
-  display: none;
+.collapsed {
+
+}
+
+.menu h2 {
+  color: var(--titles);
+  font-size: var(--fontsize2);
+  font-weight: 800;
 }
 
 .menu {
-  padding: 1.5em 0 0 1em;
+  position: sticky;
+  top: 0;
+  padding: 1em;
 }
 
 .menu-list .menu-item, .menu-list a, .menu-list button {
@@ -29,7 +37,7 @@
 }
 
 .menu-label::before {
-  content: '▼';
+  content: '↑';
   display: inline-block;
   padding: 0.2em;
   font-size: small;
@@ -37,9 +45,8 @@
 }
 
 .menu-label.collapsed::before {
-  transform: rotate(-90deg);
+  content: '↷';
 }
-
 
 .menu-list li ul {
   border-inline-start: 1px solid var(--light-grey);

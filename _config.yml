@@ -4,3 +4,10 @@ repository: bmth-arg-wiki/bmth-arg-wiki.github.io
 
 url: "http://www.secrettinfoilsociety.com"
 baseurl: ""
+
+plugins:
+  - jekyll-toc
+  - jekyll-anchor-tags
+
+toc:
+  insert_toc: false
