@@ -20,7 +20,7 @@ the alarm is 'her cue'. She indicates that [M8](../m8) has been with her for som
 time and has saved her life countless times, even highlighting the fact M8 may have 
 done the same for Sof by now.
 
-![Subject Selene](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/selene/gallery/selene-subject.png)
+![Subject Selene](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/selene/gallery/subject-selene.png)
 
 Top right corner of the log-in page displays `SUBJECT SELENE`.
 
