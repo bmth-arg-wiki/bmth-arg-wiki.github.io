@@ -4,7 +4,7 @@ categories: ["characters"]
 ---
 # Ren
 
-![Ren's avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/ren/ren_avatar.png)
+![Ren's avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/ren/14ren.png)
 
 Ren is user number 0014 in the [M8](../webpage) system.
 
