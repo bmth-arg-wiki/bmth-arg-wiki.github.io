@@ -14,7 +14,7 @@ tags: ["walkthrough", "arg", "bring me the horizon", "bmth", "password game", "q
 ---
 # Walkthrough Part 2: FOR SOF
 
-**[← previous](../walkthrough)**
+**[← previous](walkthrough1)**
 
 This folder of files is where most of the ARG takes place.
 First, we need to gain access to it!
@@ -26,7 +26,7 @@ images and links related to the documents.
 
 ## Quick access
 
-**[Previous part of the walkthrough](../walkthrough)**
+**[Previous part of the walkthrough](walkthrough1)**
 
 Jump to section:
 
@@ -853,7 +853,9 @@ Relevant articles:
 
 ## Read More
 
-Sadly, the other passwords are unknown at the time of writing. You can now enjoy the contens 
+[FOR SOF: file overview](../for-sof)
+
+Sadly, the other passwords are unknown at the time of writing. You can now enjoy the contents 
 of the wiki and see what lore you missed!
 
 Want to share any feedback, corrections or help us out?
@@ -861,7 +863,5 @@ Please email [bmthargwiki@gmail.com](mailto:bmthargwiki@gmail.com).
 
 Want to help us with the password hunt? Join the official [BMTH Discord](https://discord.com/invite/bmthofficial).
 
-- [Walkthrough part 1](../walkthrough)
-- [FOR SOF: file overview](../for-sof)
-
 [↑ Quick access](#quick-access)
+[← Previous part: Finding the Website](walkthrough1)

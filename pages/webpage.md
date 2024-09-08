@@ -136,7 +136,7 @@ Spyder is the in-universe [web browser](webbrowser) on the page.
 
 ## Website Users
 
-The website users are all [characters](characters.md) with their own dedicated pages.
+The website users are all [characters](characters) with their own dedicated pages.
 
 ***
 
@@ -160,6 +160,6 @@ the webpage several times.
 
 ## Read More
 
-- [FOR SOF file folder](for-sof.md)
+- [FOR SOF file folder](for-sof)
 - [Web browser (Spyder)](webbrowser)
 - [Other webpages](other-webpages)

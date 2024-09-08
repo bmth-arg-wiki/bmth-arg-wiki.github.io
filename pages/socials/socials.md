@@ -17,9 +17,9 @@ links directly to the lore, it will be mentioned in the relevant article.
 ## Band member's Instagram
 
 The band members have all updated their profile pictures and have a corresponding characters 
-in the ARG universe, being [Syko (Sykes)](characters/syko), 
-[Vegan (Kean)](characters/vegan), [Madman (Malia)](characters/madman) 
-and [Pickles (Nicholls)](characters/pickles). 
+in the ARG universe, being [Syko (Sykes)](../characters/syko), 
+[Vegan (Kean)](../characters/vegan), [Madman (Malia)](../characters/madman) 
+and [Pickles (Nicholls)](../characters/pickles). 
 
 There may be hidden clues in the band members' **public posts** and lore about NexGen has 
 been shared on Oli's profile before.
@@ -55,18 +55,9 @@ A poster of Selene and M8 looking sad, announcing a European Tour.
 
 [Bring Me The Horizon - 01BMTHS7-TooMuchMelody](https://www.youtube.com/watch?v=QBouIfEIChU)
 is released on YouTube, with the introduction containing some information that shows 
-information about [M8](m8)'s database (can be deduced from code shown in the intro).
+information about [M8](../m8)'s database (can be deduced from code shown in the intro).
 
 ![M8s database](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/m8/gallery/M8s_database.png)
-
-### May 25th 2024
-
-![img_1.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/instagram_25_05.png)
-
-[Post on Instagram](https://www.instagram.com/p/C7ZXq3ftmhM/?img_index=1)
-
-BMTH post another set of photos/videos, including content that might be 
-related to the ARG.
 
 ### May 24th 2024
 
@@ -76,7 +67,7 @@ related to the ARG.
 [Post on instagram](https://www.instagram.com/p/C7VCa9lNazA/?img_index=1)
 
 Post for the NexGen release, where the collaborating artists are tagged 
-in the comments. The track list, with the capitals used for the [capslock doc](for-sof/capslock_doc) 
+in the comments. The track list, with the capitals used for the [capslock doc](../for-sof/capslock_doc) 
 included. The band members have also been tagged on the image in the corners.
 
 There was also a [video from E.V.E](https://www.instagram.com/p/C7XBmOmqe3Y/) announcing 
@@ -100,8 +91,8 @@ BMTH post a [teaser](https://www.instagram.com/p/C6Y8NdqCLIG) for YOUtopia live.
 
 [Post on Instagram](https://www.instagram.com/p/C6WlVPXCRD_/?img_index=1)
 
-BMTH post with some Post Human-related text, including [golden raspberry (associated with Vision)](lore/insight4-vision) 
-and the [fifth element](lore/insights). The caption is "𝙏𝙝𝙚 𝙂𝙤𝙡𝙙𝙚𝙣 𝙍𝙖𝙨𝙥𝙗𝙚𝙧𝙧𝙮 & 𝙏𝙝𝙚 𝙁𝙞𝙛𝙩𝙝 𝙀𝙡𝙚𝙢𝙚𝙣𝙩 [𝙡𝙖𝙨 𝙫𝙚𝙜𝙖𝙨]".
+BMTH post with some Post Human-related text, including [golden raspberry (associated with Vision)](../lore/insight4-vision) 
+and the [fifth element](../lore/insights). The caption is "𝙏𝙝𝙚 𝙂𝙤𝙡𝙙𝙚𝙣 𝙍𝙖𝙨𝙥𝙗𝙚𝙧𝙧𝙮 & 𝙏𝙝𝙚 𝙁𝙞𝙛𝙩𝙝 𝙀𝙡𝙚𝙢𝙚𝙣𝙩 [𝙡𝙖𝙨 𝙫𝙚𝙜𝙖𝙨]".
 
 ### April 26th 2024
 
@@ -126,7 +117,7 @@ Instagram and Facebook.
 ![](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/25april.jpg)
 
 The following post also appeared on [Facebook](https://www.facebook.com/photo/?fbid=979038246913149&set=pb.100044209477369.-2207520000), 
-interestingly containing lyrics from [sTraNgeRs](music/song-strangers) and Parasite Eve  
+interestingly containing lyrics from [sTraNgeRs](../music/song-strangers) and Parasite Eve  
 from Post Human: Survival Horror.
 
 ### April 24th 2024
@@ -141,7 +132,7 @@ from Post Human: Survival Horror.
 
 ![img_2.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/24_04_08.png)
 
-This same post contains a compass that may relate to [the four insights](lore/insights)
+This same post contains a compass that may relate to [the four insights](../lore/insights)
 
 [Post on Instagram](https://www.instagram.com/p/C6KEiyoiBfe/?img_index=1)
 
@@ -153,7 +144,7 @@ BMTH post this on Instagram with the band members, @jontiwild and @jacobharrycar
 
 [Post on Instagram](https://www.instagram.com/p/C6Eg7_kivy_/?img_index=7)
 
-A post is made including merch where the names of the [Archangels](characters#the-archangels) 
+A post is made including merch where the names of the [Archangels](../characters#the-archangels) 
 can be spotted on slide 7.
 
 ### April 21st 2024
@@ -172,4 +163,4 @@ A photo with the recurring number 33 was posted, including tags for the band mem
 
 ## Read More
 
-- [Downloadfest](lore/downloadfest)
+- [Downloadfest](../lore/downloadfest)

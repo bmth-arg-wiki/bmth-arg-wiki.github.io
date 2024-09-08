@@ -25,7 +25,7 @@ are hidden until clicked.
 You can find hints and passwords on this page to help you through the ARG.
 </details>
 
-Want to see an overview of all the files found so far? Check out the [FOR SOF article](for-sof.md). 
+Want to see an overview of all the files found so far? Check out the [FOR SOF article](../for-sof). 
 This wiki also contains many transcriptions for the files, so check out the files' related articles 
 if you are having trouble reading the files.
 
@@ -35,7 +35,7 @@ if you are having trouble reading the files.
 
 - [Step 0: Listen to the album](#step-0-listen-to-the-album)
 - [Step 1: The website](#step-1-the-website)
-- [Step 2: The files](walkthrough/walkthrough2) (next page)
+- [Step 2: The files](walkthrough2) (next page)
 
 Since we are currently still unlocking the many files in the file folder, it is unknown when we will start a next step.
 
@@ -109,14 +109,16 @@ You can also read more about them on this wiki.
 Want more details? The related articles on the wiki will tell you more about what
 you are seeing.
 
-Continue to the next objective: [unlocking the files in the FOR SOF folder](walkthrough/walkthrough2).
+Continue to the next objective: [unlocking the files in the FOR SOF folder](walkthrough2).
 
 ***
 
 ## Read More
 
-- [The main webpage](webpage)
-- [The webbrowser](webbrowser)
-- [The website songs](music/website-songs)
+You can read more about the contents of the web page here:
 
-**[Next walkthrough page](walkthrough/walkthrough2)**
+- [The main webpage](../webpage)
+- [The webbrowser](../webbrowser)
+- [The website songs](../music/website-songs)
+
+**[Next walkthrough page](walkthrough2)**

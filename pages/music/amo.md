@@ -61,8 +61,8 @@ Albums:
 
 Relevant documents:
 
-| Document                                               | Relevancy                                                                        |
-|--------------------------------------------------------|----------------------------------------------------------------------------------|
+| Document                                                 | Relevancy                                                                        |
+|----------------------------------------------------------|----------------------------------------------------------------------------------|
 | [D8 log](../for-sof/lauren_d8_log)                       | Mentions Arc/Hive, Dallus Lauren                                                 |
 | [Trinity Analysis Document](../for-sof/trinity_document) | Trinity introduced                                                               |
 | [Tekka Interview](../for-sof/tekka_interview)            | Interview with previous Arc/Hive employee                                        |

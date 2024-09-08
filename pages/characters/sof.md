@@ -50,7 +50,7 @@ discussion around the timeline.
 
 ## Read More
 
-- [Characters](../characters.md)
+- [Character Overview](../characters)
 - [M8](../m8)
 - [Selene](selene)
 - [E.V.E](eve)
