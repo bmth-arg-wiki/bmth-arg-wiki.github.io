@@ -9,7 +9,7 @@ tags: ["eve", "ai", "ia", "evolutionary virtual experiment", "extremely violent 
 
 # E.V.E
 
-![Eve's Avatar](../../Resources/characters/eve/eve.png)
+![Eve's Avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/eve/0eve.png)
 
 EVE is user 0000 in the system and the 'big boss', as M8 calls her.
 It is implied that EVE is on earth, while we are not, from M8's voice lines.

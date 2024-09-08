@@ -4,7 +4,7 @@ categories: ["characters"]
 ---
 # Selene
 
-![Selene's Avatar](../../Resources/characters/selene/selene.png)
+![Selene's Avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/selene/3selene.png)
 
 Selene is one of the users that can be viewed on the M8 system. She has user number 0003.
 
