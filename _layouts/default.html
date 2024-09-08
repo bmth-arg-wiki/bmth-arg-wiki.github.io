@@ -40,9 +40,12 @@
                  {% include breadcrumbs.html %}
             </div>
             <div>
-                {{ content }}
+                {% include anchor_headings.html html=content anchorBody="#" anchorClass="heading-anchor"%}
             </div>
         </main>
+        <aside>
+            {% include toc.html %}
+        </aside>
     </div>
     {% include modal.html %}
     <footer class="footer">

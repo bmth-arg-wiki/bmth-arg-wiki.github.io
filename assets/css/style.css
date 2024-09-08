@@ -31,7 +31,7 @@ body {
 .page-body {
   background: var(--bg);
   display: flex;
-  flex-wrap: wrap;
+  justify-content: space-between;
 }
 
 .container {
@@ -112,6 +112,10 @@ input {
 
 .content img {
   align-content: center;
+}
+
+.content .heading-anchor {
+  color: var(--light-grey);
 }
 
 /* Tables */
