@@ -1,16 +1,40 @@
-<div class="columns is-multiline">
-    {% assign gallery_path = "/Resources/" | append: include.folder %}
-    {% for image in site.static_files %}
-    {% if image.path contains gallery_path %}
-    <div class="column is-one-quarter-desktop is-half-tablet is-full-mobile">
-        <div class="card">
-            <div class="card-image">
-                <figure class="image is-3by2">
-                    <img src="{{ image.path }}" alt="{{ image.basename }}" loading="lazy">
-                </figure>
-            </div>
-        </div>
-    </div>
-    {% endif %}
-    {% endfor %}
+<div class="columns is-multiline" id="image-gallery">
+    <!-- Gallery images will be loaded here -->
 </div>
+
+<script>
+    async function loadGallery(folder) {
+        const baseUrl = 'https://api.github.com/repos/bmth-arg-wiki/wiki-assets/contents/';
+        const galleryUrl = `${baseUrl}${folder}`;
+
+        try {
+            const response = await fetch(galleryUrl);
+            const files = await response.json();
+            const gallery = document.getElementById('image-gallery');
+            gallery.innerHTML = ''; // Clear previous gallery content
+
+            files.forEach(file => {
+                if (file.type === 'file' && file.name.match(/\.(jpg|jpeg|png|gif)$/i)) {
+                    const column = document.createElement('div');
+                    column.className = 'column is-one-quarter-desktop is-half-tablet is-full-mobile';
+                    column.innerHTML = `
+          <div class="card">
+            <div class="card-image">
+              <figure class="image is-3by2">
+                <img src="${file.download_url}" alt="${file.name}" loading="lazy">
+              </figure>
+            </div>
+          </div>
+        `;
+                    gallery.appendChild(column);
+                }
+            });
+        } catch (error) {
+            console.error('Error loading gallery:', error);
+        }
+    }
+
+    // Example usage: load a specific folder
+    const folder = '{{ include.folder }}'; // Ensure this is correctly passed in from Liquid
+    loadGallery(folder);
+</script>

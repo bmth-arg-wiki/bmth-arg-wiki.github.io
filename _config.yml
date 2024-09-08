@@ -4,21 +4,3 @@ repository: bmth-arg-wiki/bmth-arg-wiki.github.io
 
 url: "http://www.secrettinfoilsociety.com"
 baseurl: ""
-
-cloudcannon:
-  collections_config:
-    pages:
-      _enabled_editors:
-        - 'content'
-      _source_editor:
-        type: markdown
-      fields:
-        - name: title
-          label: Title
-          type: text
-        - name: description
-          label: Description
-          type: text
-        - name: content
-          label: Main Content
-          type: markdown
