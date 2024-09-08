@@ -17,7 +17,7 @@ The capslock doc can be found in the `FOR SOF` folder on the computer.
 **(SPOILER) WARNING**: The password for this document was uncovered earlier than it was supposed to be. Using the information 
 from this article might spoil your experience.
 
-![Buff m8](../../Resources/m8/mad_m8.png)
+![Buff m8](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/m8/mad_m8.png)
 
 Enjoy this picture of buff M8 as a buffer between you and the spoilers.
 
@@ -60,7 +60,7 @@ The password was decrypted using the capital letters from the tracklist + album 
 DEKODE THE MATRIX TO ATTAIN YOUR CONCEALED ORIGINS
 </details>
 
-![tracklist](../../Resources/files/capslock_doc/tracklist.jpeg)
+![tracklist](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/capslock_doc/tracklist.jpeg)
 
 ***
 
@@ -118,7 +118,7 @@ placeholder address anymore**.
 The email ends with an ASCII art rendering of M8, which has been screen captured to preserve this 
 authentic artwork.
 
-![Screen capture](../../Resources/m8/buffm8.png)
+![Screen capture](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/m8/buffm8.png)
 
 ***
 

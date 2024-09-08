@@ -8,7 +8,7 @@ Sof is the girl from the cover art. She is referred to as such in several descri
 on the Horizon merch website.
 The [first file](../for-sof/msgforsof) introduces the relationship between her and her mother, [Selene](selene).
 
-![Nex Gen album cover](../../Resources/music/ph2/album_cover.png)
+![Nex Gen album cover](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover.png)
 
 The access card designed to be shipped with the Sof statue specifically refers to Sof 
 as "The Post Human".
@@ -46,7 +46,7 @@ cover seems to show her with her third eye sewn shut. While the timeline is gene
 assumed to be linear (i.e. PH1 comes before PH2 in the timeline), there is still some 
 discussion around the timeline.
 
-![Survival Horror Album Cover](../../Resources/characters/sof/img.png)
+![Survival Horror Album Cover](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/sof/img.png)
 
 ## Read More
 

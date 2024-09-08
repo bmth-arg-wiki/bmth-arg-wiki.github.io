@@ -22,7 +22,7 @@ They are listed in order of album appearance.
 
 Seems to contain an image of the four archangels.
 
-![img_1.png](../../Resources/music/spectrograms/spectrogram-archangels.png)
+![img_1.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/spectrograms/spectrogram-archangels.png)
 
 ### n/A
 
@@ -34,7 +34,7 @@ Seems to contain an image of the four archangels.
 
 This song also contains an image of what has been described as a label or pill bottle.
 
-![Spectrogram of pill bottle](../../Resources/music/spectrograms/spectogram_pusse_end.png)
+![Spectrogram of pill bottle](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/spectrograms/spectogram_pusse_end.png)
 
 ### R.i.p. (duskCOre Remix)
 
@@ -42,14 +42,14 @@ Contains an image of a skull, with characters above and below that have not been
 contains a small audio fragment from the game Undertale, specifically to a skeleton named Sans. The skull is likely a 
 reference and might not be a clue to the ARG itself.
 
-![img.png](../../Resources/music/spectrograms/skull_spectrogram.png)
+![img.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/spectrograms/skull_spectrogram.png)
 
 ### DIg It
 
 DIg It contains the QR code that lead to the website, as well as 
 [Insight 4: Vision](../lore/insight4-vision).
 
-![img.png](../../Resources/music/spectrograms/spectrogram_qr.png)
+![img.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/spectrograms/spectrogram_qr.png)
 
 ***
 

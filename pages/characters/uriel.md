@@ -10,7 +10,7 @@ Uriel is the fourth archangel, linked to [Insight 4: Vision](../lore/insight4-vi
 He is user 0002 on the [webpage](../webpage).
 The symbol for 'Vision' is visible on his skirt in the [tour poster](#gallery).
 
-![Uriel's Avatar](../../Resources/characters/uriel/uriel.png)
+![Uriel's Avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/uriel/uriel.png)
 
 The official Omen for his insight, Vision, is the Babylon, which does not appear as 
 a character.

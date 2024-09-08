@@ -550,7 +550,7 @@ are well hidden!
 Using this [Instagram post](https://www.instagram.com/p/C8kLLWdC2MS/), 
 we can find the solution, reading the symbols from top to bottom.
 
-![Project DUST symbols](../../Resources/socials/project_dust_password_post.png)
+![Project DUST symbols](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/project_dust_password_post.png)
 " | markdownify }}
 </details>
 
@@ -651,7 +651,7 @@ Look for a poster with PROJECT:ARCHANGEL on it on Instagram. It's a tour poster.
 
 The password is also the name of one of the most prominent actors in a BMTH music video.
 
-{{ "![Tour poster with hidden section](../../Resources/files/unbeleevable/in_the_forest_tour_poster.png)" | markdownify }}
+{{ "![Tour poster with hidden section](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/unbeleevable/in_the_forest_tour_poster.png)" | markdownify }}
 
 </details>
 <details>
@@ -664,7 +664,7 @@ for this password, but there are different interpretations:
 2. "Deep in the forest, the blind one follows her every move"
 3. Lee Malia's son's name: Forrest (spelled with two r's)
 
-{{ "![object_archangel.png](../../Resources/files/unbeleevable/object_archangel.png)" | markdownify }}
+{{ "![object_archangel.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/unbeleevable/object_archangel.png)" | markdownify }}
 
 </details>
 
@@ -709,7 +709,7 @@ You are looking for a post with pieces of a letter, that has to be reassembled.
 This requires the Instagram post where puzzle pieces can be seen. By extracting 
 the pieces from the post, rotating and assembling them, we get the code '7795397'.
 
-{{"![Assembled password clue](../../Resources/files/russian_poem/clue.png)" | markdownify}}
+{{"![Assembled password clue](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/russian_poem/clue.png)" | markdownify}}
 
 </details>
 

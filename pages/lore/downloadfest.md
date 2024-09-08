@@ -12,7 +12,7 @@ image: "/Resources/lore/genxsis.faith/genxsis_faith.png"
 
 The Downloadfest event introduced [the Church of Genxsis](church) and  seems to hold lore significance.
 
-![Website screenshot](../../Resources/lore/genxsis.faith/genxsis_faith.png)
+![Website screenshot](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/genxsis.faith/genxsis_faith.png)
 
 ---
 
@@ -20,11 +20,11 @@ The Downloadfest event introduced [the Church of Genxsis](church) and  seems to 
 
 The [website for downloadfest](https://www.genxsis.faith/) is still up and  contains a cypher.
 
-![Cypher wheel](../../Resources/lore/genxsis.faith/cypher.png)
+![Cypher wheel](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/genxsis.faith/cypher.png)
 
 The cypher can be obtained by clicking the symbol in the upper right corner.
 
-![Bring Me The Horizon in the cypher symbols](../../Resources/other-webpages/bmth_cypher.png)
+![Bring Me The Horizon in the cypher symbols](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/other-webpages/bmth_cypher.png)
 
 It is sometimes used to spell out "BRING ME THE HORIZON" (pictured above) or "NEX GEN" on  current [promotional material](../socials).
 
@@ -32,15 +32,15 @@ It is sometimes used to spell out "BRING ME THE HORIZON" (pictured above) or "NE
 
 ## Downloadfest on Social Media
 
-![](../../Resources/lore/downloadfest/downloadfest_noserialno.jpg)
+![](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/downloadfest/downloadfest_noserialno.jpg)
 
 Early art of Sof, with no serial number on M8's head present.
 
-![](../../Resources/lore/downloadfest/insta_downloadfest1.jpg) ![](../../Resources/lore/downloadfest/insta_downloadfest2.jpg) ![](../../Resources/lore/downloadfest/insta_downloadfest3.jpg) ![](../../Resources/lore/downloadfest/insta_downloadfest_4.jpg) ![](../../Resources/lore/downloadfest/insta_downloadfest5.jpg) ![](../../Resources/lore/downloadfest/insta_downloadfest6.jpg) ![](../../Resources/lore/downloadfest/insta_downloadfest7.jpg)
+![](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/downloadfest/insta_downloadfest1.jpg) ![](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/downloadfest/insta_downloadfest2.jpg) ![](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/downloadfest/insta_downloadfest3.jpg) ![](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/downloadfest/insta_downloadfest_4.jpg) ![](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/downloadfest/insta_downloadfest5.jpg) ![](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/downloadfest/insta_downloadfest6.jpg) ![](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/downloadfest/insta_downloadfest7.jpg)
 
-![](../../Resources/lore/downloadfest/insta_downloadfest_dancers.jpg) ![](../../Resources/lore/downloadfest/insta_downloadfest_dancer_picture.jpg) ![](../../Resources/lore/downloadfest/eve_art_downloadfest.jpg)
+![](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/downloadfest/insta_downloadfest_dancers.jpg) ![](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/downloadfest/insta_downloadfest_dancer_picture.jpg) ![](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/downloadfest/eve_art_downloadfest.jpg)
 
-![](../../Resources/lore/downloadfest/insta_downloadfest_genesisstoryline.jpg)
+![](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/downloadfest/insta_downloadfest_genesisstoryline.jpg)
 
 This post also provided a lot of lore insights, which are documented on the  [Genesis Storyline page](genesis-storyline).
 

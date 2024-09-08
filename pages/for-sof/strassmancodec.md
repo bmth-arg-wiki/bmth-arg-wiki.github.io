@@ -30,7 +30,7 @@ The password was found in a reversed audio of [a bullet w/my namE On](../music/s
 karl strassman
 </details>
 
-![img.png](../../Resources/files/strassman-pass-screen.png)
+![img.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/strassman-pass-screen.png)
 
 ***
 

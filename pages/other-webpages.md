@@ -19,7 +19,7 @@ See [Mantra](lore/mantra) for more details on the Mantra launch website.
 
 ## genxsis.faith
 
-![Cypher](../Resources/lore/genxsis.faith/cypher.png)
+![Cypher](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/genxsis.faith/cypher.png)
 
 A cypher found on a Downloadfest webpage was re-used in the ARG, as evidenced 
 by the use of these symbol in different promotional posts. Also see the 
@@ -29,7 +29,7 @@ page on [downloadfest](lore/downloadfest).
 
 ## Dungeoncrawl33r.com
 
-![Secrets to be found (about me page)](../Resources/other-webpages/dungeoncrawler_secretstobefound.jpg)
+![Secrets to be found (about me page)](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/other-webpages/dungeoncrawler_secretstobefound.jpg)
 
 This site seems relevant to the lore of the ARG and states that it contains secrets. 
 It uses some references the ARG also uses and some bar codes on social media posters have linked 

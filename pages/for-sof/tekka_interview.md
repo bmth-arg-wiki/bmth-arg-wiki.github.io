@@ -33,8 +33,8 @@ parties and her role and colleagues at ARC/HIVE.
 She briefly mentions the colleagues, but seemingly shuts down when the interviewer start to ask about [Operation Trinity](trinity_document) 
 and the [Mantra cult](../lore/mantra).
 
-![Tekka Magazine Cover](../../Resources/files/tekka/tekka_cover.png)
-![Tekka Interview (see transcription)](../../Resources/files/tekka/tekka_interview.png)
+![Tekka Magazine Cover](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/tekka/tekka_cover.png)
+![Tekka Interview (see transcription)](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/tekka/tekka_interview.png)
 
 ***
 

@@ -4,7 +4,7 @@ categories: ["characters"]
 ---
 # Selene
 
-![Selene's Avatar](../../Resources/characters/selene/selene.png)
+![Selene's Avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/selene/selene.png)
 
 Selene is one of the users that can be viewed on the M8 system. She has user number 0003.
 
@@ -20,7 +20,7 @@ the alarm is 'her cue'. She indicates that [M8](../m8) has been with her for som
 time and has saved her life countless times, even highlighting the fact M8 may have 
 done the same for Sof by now.
 
-![Subject Selene](../../Resources/characters/selene/subject-selene.png)
+![Subject Selene](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/selene/subject-selene.png)
 
 Top right corner of the log-in page displays `SUBJECT SELENE`.
 

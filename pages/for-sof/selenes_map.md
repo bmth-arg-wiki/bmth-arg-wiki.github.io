@@ -36,7 +36,7 @@ Artifacts mentioned in the insight documents, being "the Guardian Tears", "Abram
 clive
 </details>
 
-![Selene's map of Youtopia](../../Resources/files/selenes_map/map1.jpg)
+![Selene's map of Youtopia](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/selenes_map/map1.jpg)
 
 The regions, symbols and text on this map all refer to [the insights](../lore/insights), which seem
 to occupy a physical space in [Youtopia](../lore/youtopia).

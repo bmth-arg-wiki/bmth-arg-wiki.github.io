@@ -70,7 +70,7 @@ No? [man grumbling] You will.
 
 For more details, see the page on [spectrograms](spectrograms).
 
-![Spectrogram showing label on a P.U.S.S-E bottle](../../Resources/music/spectrograms/spectogram_pusse_end.png)
+![Spectrogram showing label on a P.U.S.S-E bottle](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/spectrograms/spectogram_pusse_end.png)
 
 ***
 

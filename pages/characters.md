@@ -105,7 +105,7 @@ The archangels and their [insights](lore/insights)
 - [Michael - Purpose](characters/michael)
 - [Uriel - Vision](characters/uriel)
 
-![Spectrogram showing four angel-like figures](../Resources/music/spectrograms/spectrogram-archangels.png)
+![Spectrogram showing four angel-like figures](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/spectrograms/spectrogram-archangels.png)
 
 Angels can also be found in the [spectrograms](music/spectrograms) in
 [(spi)ritual](music/song-spiritual).
@@ -130,10 +130,10 @@ play a role in [Night of Pan](lore/night-of-pan) ritual.
 
 ## Band Members
 
-![Band member tags on NexGen post](../Resources/socials/band_member_tags.png)
+![Band member tags on NexGen post](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/band_member_tags.png)
 In the NexGen we can see that the band members are all tagged.
 
-![Band member profile pictures.png](../Resources/socials/band_member_profiles.png)
+![Band member profile pictures.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/band_member_profiles.png)
 The band members have also all changed their profile pictures to characters 
 of the game, strongly implying that these are the band's in-universe characters.
 
@@ -145,7 +145,7 @@ The following characters correspond to the members:
 
 Sykes/Syko is 0005, Kean/Vegan is 0001, Malia/Madman is 0012 and Nicholls/Pickles is 0011.
 
-![Band cards](../Resources/characters/band-cards.png)
+![Band cards](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/band-cards.png)
 
 A promotional image of the band on cards also links them to the [four insights](lore/insights).
 

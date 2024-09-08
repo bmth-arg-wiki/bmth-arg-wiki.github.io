@@ -24,7 +24,7 @@ and [Pickles (Nicholls)](characters/pickles).
 There may be hidden clues in the band members' **public posts** and lore about NexGen has 
 been shared on Oli's profile before.
 
-![Band member profile pictures corresponding to in-universe characters](../Resources/socials/band_member_profiles.png)
+![Band member profile pictures corresponding to in-universe characters](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/band_member_profiles.png)
 
 The band themselves post on at least Instagram, YouTube, Twitter/X and Facebook 
 (which may be better in terms of picture quality).
@@ -39,15 +39,15 @@ at the time of writing. The timeline goes from most to least recent.
 
 ### June 10th 2024
 
-![angeldust.jpg](../Resources/socials/angeldust.jpg)
-![Vegan Poster](../Resources/socials/gdanks_vegan.jpg)
-![Madman Poster](../Resources/socials/gdansk_madman.jpg)
-![Syko Poster](../Resources/socials/gdansk_syko.jpg)
-![Pickles Poster](../Resources/socials/gdansk_pickles.jpg)
+![angeldust.jpg](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/angeldust.jpg)
+![Vegan Poster](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/gdanks_vegan.jpg)
+![Madman Poster](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/gdansk_madman.jpg)
+![Syko Poster](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/gdansk_syko.jpg)
+![Pickles Poster](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/gdansk_pickles.jpg)
 
 ## June 8th 2024
 
-![Selene Poster](../Resources/socials/selene_poster.png)
+![Selene Poster](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/selene_poster.png)
 
 A poster of Selene and M8 looking sad, announcing a European Tour.
 
@@ -57,11 +57,11 @@ A poster of Selene and M8 looking sad, announcing a European Tour.
 is released on YouTube, with the introduction containing some information that shows 
 information about [M8](m8)'s database (can be deduced from code shown in the intro).
 
-![M8s database](../Resources/m8/gallery/M8s_database.png)
+![M8s database](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/m8/gallery/M8s_database.png)
 
 ### May 25th 2024
 
-![img_1.png](../Resources/socials/instagram_25_05.png)
+![img_1.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/instagram_25_05.png)
 
 [Post on Instagram](https://www.instagram.com/p/C7ZXq3ftmhM/?img_index=1)
 
@@ -70,8 +70,8 @@ related to the ARG.
 
 ### May 24th 2024
 
-![Release post 1/2](../Resources/socials/nexgen_release_insta.png)
-![Release post 2/2.png](../Resources/music/ph2/nexgen_album2.jpg)
+![Release post 1/2](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/nexgen_release_insta.png)
+![Release post 2/2.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/nexgen_album2.jpg)
 
 [Post on instagram](https://www.instagram.com/p/C7VCa9lNazA/?img_index=1)
 
@@ -96,7 +96,7 @@ BMTH post a [teaser](https://www.instagram.com/p/C6Y8NdqCLIG) for YOUtopia live.
 
 ### April 29th 2024
 
-![img.png](../Resources/socials/instagram_29_04.png)
+![img.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/instagram_29_04.png)
 
 [Post on Instagram](https://www.instagram.com/p/C6WlVPXCRD_/?img_index=1)
 
@@ -107,7 +107,7 @@ and the [fifth element](lore/insights). The caption is "𝙏𝙝𝙚 𝙂𝙤�
 
 [Post on Instagram](https://www.instagram.com/p/C6PG0zNiWV4/). Connections to ARG unknown.
 
-![img_2.png](../Resources/lore/insights/connection/horizon-merch-connection1.png)
+![img_2.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/connection/horizon-merch-connection1.png)
 
 The first insight was revealed to be connection on a 
 [Facebook post](https://www.facebook.com/photo/?fbid=979801893503451&set=pb.100044209477369.-2207520000)
@@ -115,7 +115,7 @@ on the 26th of April 2024.
 
 ### April 25th 2024
 
-![img.png](../Resources/characters/gatinha.png)
+![img.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/gatinha.png)
 Location: Allianz Parque
 
 Character recognizes as Gatinha (portuguese for female cat). Cat 
@@ -123,7 +123,7 @@ recognized as Gathinho (male cat). Drink recognized as
 caipirinha de sangue (caipirinha = cocktail, de sangue = of blood). Posted on 
 Instagram and Facebook.
 
-![](../Resources/socials/25april.jpg)
+![](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/25april.jpg)
 
 The following post also appeared on [Facebook](https://www.facebook.com/photo/?fbid=979038246913149&set=pb.100044209477369.-2207520000), 
 interestingly containing lyrics from [sTraNgeRs](music/song-strangers) and Parasite Eve  
@@ -131,15 +131,15 @@ from Post Human: Survival Horror.
 
 ### April 24th 2024
 
-![First slide of post](../Resources/socials/insta_24_04_1.png)
+![First slide of post](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/insta_24_04_1.png)
 
-![Second slide of post](../Resources/socials/insta_24_04_02.png)
+![Second slide of post](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/insta_24_04_02.png)
 
-![img_1.png](../Resources/socials/insta_24_04_04.png)
+![img_1.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/insta_24_04_04.png)
 
 *"Before me flames the pentagram, within me flames the six rayed star"* can be made out in the bottom text.
 
-![img_2.png](../Resources/socials/24_04_08.png)
+![img_2.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/24_04_08.png)
 
 This same post contains a compass that may relate to [the four insights](lore/insights)
 
@@ -149,7 +149,7 @@ BMTH post this on Instagram with the band members, @jontiwild and @jacobharrycar
 
 ### April 22th 2024
 
-![Long sleeve T-shirt merch photo.png](../Resources/socials/insta_22_04.png)
+![Long sleeve T-shirt merch photo.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/insta_22_04.png)
 
 [Post on Instagram](https://www.instagram.com/p/C6Eg7_kivy_/?img_index=7)
 
@@ -163,7 +163,7 @@ caption 𝘿𝙧𝙚𝙖𝙢𝙨𝙚𝙚𝙠𝙚𝙧! [𝙢𝙚𝙡𝙗𝙤𝙪�
 
 ### April 20th 2024
 
-![img_1.png](../Resources/socials/instagram_type-nx_x33.png)
+![img_1.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/instagram_type-nx_x33.png)
 
 A photo with the recurring number 33 was posted, including tags for the band members, 
 @jontiwild and @jacobharrycarter tagged.

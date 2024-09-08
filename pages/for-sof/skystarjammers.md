@@ -24,7 +24,7 @@ with the filename seemingly missing an S in Skys.
 INTERCELLULAR
 </details>
 
-![Poster](../../Resources/files/skys_starjammers/sky.png)
+![Poster](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/skys_starjammers/sky.png)
 
 ***
 
@@ -48,14 +48,14 @@ INTERCELLULAR
 <details class="password">
     <summary>⚠ The context contains spoilers</summary>
 
-{{"![Nex Gen document from instagram](../../Resources/files/skys_starjammers/nexgendoc.jpg)" | markdownify}}
-{{"![Numbers assigned to letters](../../Resources/files/skys_starjammers/instagram_solve.jpg)" | markdownify}}
+{{"![Nex Gen document from instagram](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/skys_starjammers/nexgendoc.jpg)" | markdownify}}
+{{"![Numbers assigned to letters](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/skys_starjammers/instagram_solve.jpg)" | markdownify}}
 
 This document was revealed in an Instagram post. It contains four words and 5 sets of numbers. 
 When you take each individual number to match up a letter, you get the letters needed for the word 
 `INTERCELLULAR`.
 
-{{"![password_placeholder.png](../../Resources/files/skys_starjammers/password_placeholder.png)" | markdownify}}
+{{"![password_placeholder.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/skys_starjammers/password_placeholder.png)" | markdownify}}
 
 You can see 12 lines for characters, since spaces are indicated on screen. Despite this, 
 the password was 13 characters long, causing confusion among the community.

@@ -17,8 +17,8 @@ character [Pan](../characters/pan). Pagan/witchcraft symbolism is used many time
 
 ### Instagram post
 
-![Night of Pan post](../../Resources/socials/nightofpan1.png)
-![Night of Pan post](../../Resources/socials/nightofpan2.png)
+![Night of Pan post](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/nightofpan1.png)
+![Night of Pan post](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/nightofpan2.png)
 
 BMTH official Instagram: April 16th 2024 @Qudos Bank Arena
 

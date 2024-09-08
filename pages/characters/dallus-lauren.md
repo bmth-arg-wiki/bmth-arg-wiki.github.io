@@ -14,7 +14,7 @@ Dallus Lauren, also referred to as 'Dallas Lauren' in the [Unbeleevable](../for-
 video, is one of [the Trinity](../characters#trinity).
 According to the [D8 log](../for-sof/lauren_d8_log), he died in or before 2037.
 
-![Dallus 'Dallas' Lauren in Unbeleevable episode 1](../../Resources/files/unbeleevable/gallery/dallus_lauren_unbeleevable.png)
+![Dallus 'Dallas' Lauren in Unbeleevable episode 1](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/unbeleevable/gallery/dallus_lauren_unbeleevable.png)
 
 Dallus Lauren and [Skys](skys) on the [Operation Trinity document](../for-sof/trinity_document).
 
@@ -36,7 +36,7 @@ the Moxypak, "a personal air purification device that transforms CO2 into breath
 Ren also speaks about his father's involvement with the development of the synth project, 
 which is short for "Synthetic Neurological Transference Human Project".
 
-![Comparison of photos to Operation Trinity document shot](../../Resources/characters/dallus/dallus_mantraleader.png)
+![Comparison of photos to Operation Trinity document shot](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/dallus/dallus_mantraleader.png)
 
 The [trinity document](../for-sof/trinity_document) shows us that Dallus in the man we see 
 in the music video for [In the Dark](../music/amo-in-the-dark).

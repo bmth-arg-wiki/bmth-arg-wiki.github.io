@@ -30,7 +30,7 @@ The password was found in an Instagram post.
 7795397
 </details>
 
-![The Russian Poem letter](../../Resources/files/russian_poem/russian_poem.png)
+![The Russian Poem letter](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/russian_poem/russian_poem.png)
 
 Also see the [translation to English](#translated).
 
@@ -87,7 +87,7 @@ Also see the [translation to English](#translated).
 The password was found by taking multiple pieces of a letter from an 
 [Instagram post](https://www.instagram.com/p/C-DhcBaC4NP/) and combining them to form the code.
 
-![Re-constructed password letter](../../Resources/files/russian_poem/clue.png)
+![Re-constructed password letter](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/russian_poem/clue.png)
 
 The shadows behind the numbers seem different, but nothing has resulted from this at the time of writing.
 

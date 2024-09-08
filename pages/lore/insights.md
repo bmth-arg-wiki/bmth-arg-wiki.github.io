@@ -18,7 +18,7 @@ Document in the [FOR SOF](../for-sof) folder. It introduces us to the Insights. 
 
 The first hint about the four insights was found in a spectrogram of the song [YOUtopia](../music/song-youtopia).
 
-!["Master the 4 insights"](../../Resources/lore/insights/empathy/img_2.png)
+!["Master the 4 insights"](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/empathy/img_2.png)
 Around 3:48 in the song, the message is hidden.
 
 The following songs also contain hidden images related to the insights:
@@ -49,7 +49,7 @@ All the insights also contain a reference to the four elements: air, water, fire
 
 Compass of Selene's map:
 
-![Compass from Selene's map](../../Resources/lore/insights/insight-directions.png)
+![Compass from Selene's map](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/insight-directions.png)
 
 North is [vision](insight4-vision), East is [connection](insight1-connection), 
 South corresponds to [purpose](insight3-purpose) and West is [empathy](insight2-empathy).
@@ -67,7 +67,7 @@ They make the most sense if read in the original order.
 3. [Purpose — Fire](insight3-purpose)
 4. [Vision — Earth](insight4-vision)
 
-![Characters from the band on cards for the physical release](../../Resources/characters/band-cards.png)
+![Characters from the band on cards for the physical release](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/band-cards.png)
 
 The four insights also seem to be directly linked to the in-universe [characters](../characters#band-members) 
 for the band.
@@ -80,16 +80,16 @@ The fourth document ends with the conclusion that we need to apply the insights.
 
 While there was speculation, the fifth insight first seems to be confirmed through Selene's map.
 
-![Middle of Selene's map, for the fifth insight](../../Resources/lore/insights/fifth-insight.png)
+![Middle of Selene's map, for the fifth insight](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/fifth-insight.png)
 
-![Instagram story about a BMTH show in Vegas](../../Resources/lore/insights/insta_las_vegas_story_fifth_element.png)
+![Instagram story about a BMTH show in Vegas](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/insta_las_vegas_story_fifth_element.png)
 
 Reference on Bring Me The Horizon's Instagram story.
 
 The pentagram that often occurs in the ARG also represents five elements, being: 
 water, earth, fire, air and **spirit**. 
 
-![Symbolism on Oli's jacket](../../Resources/lore/insights/oli_costume_spirit.png)
+![Symbolism on Oli's jacket](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/oli_costume_spirit.png)
 
 The Dreamseeker tour jacket Oli wore during the European tour also contains 
 several symbolic references, including a pentagram with the four triangles 

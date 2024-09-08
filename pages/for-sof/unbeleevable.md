@@ -29,7 +29,7 @@ forest
 
 ### Email
 
-![Email screenshot](../../Resources/files/unbeleevable/NEXGENLEAK1.png)
+![Email screenshot](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/unbeleevable/NEXGENLEAK1.png)
 
 ### Video
 

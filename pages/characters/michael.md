@@ -10,7 +10,7 @@ tags: ["purpose", "gabriel", "raphael", "uriel", "michael", "archangel", "selene
 Michael is one of the archangels. He is linked to [Insight 3: Purpose](../lore/insight3-purpose). 
 He used to be user 0011 on the [webpage](../webpage) and is user 0010 as of the 24th of June 2024.
 
-![Avatar for Michael](../../Resources/characters/michael/michael.png)
+![Avatar for Michael](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/michael/michael.png)
 
 Michael has the symbol for [Purpose](../lore/insight3-purpose) on his skirt, as seen on his 
 [tour poster](#gallery).

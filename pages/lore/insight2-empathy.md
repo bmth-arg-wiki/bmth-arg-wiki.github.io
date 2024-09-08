@@ -13,7 +13,7 @@ image: "/Resources/lore/insights/empathy/gallery/empathy1.png"
 
 Empathy is the second insight we gather from the [spectrograms](../music/spectrograms).
 
-![Empathy spectrogram](../../Resources/lore/insights/empathy/img_5.png)
+![Empathy spectrogram](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/empathy/img_5.png)
 
 ***
 
@@ -27,11 +27,11 @@ Curse: ???
 Direction: West
 Relic: Guardian Tears
 
-![Empathy on Selene's map](../../Resources/lore/insights/empathy/empathy-selenes-map.png)
+![Empathy on Selene's map](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/empathy/empathy-selenes-map.png)
 
 A region on [Selene's map](../for-sof#YOUTOPIA_selenes_mapvis)
 
-![Band cards with Madman for empathy](../../Resources/characters/band-cards.png)
+![Band cards with Madman for empathy](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/band-cards.png)
 
 Insight 2 is also associated with [Madman](../characters/madman).
 

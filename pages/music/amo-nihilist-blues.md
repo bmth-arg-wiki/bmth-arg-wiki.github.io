@@ -56,11 +56,11 @@ Little lamb to the slaughter.
 
 At 3:57 in the  [lyric video](https://www.youtube.com/watch?v=iwzfR7-33Wc) we see the secret message flashing on the screen.
 
-![Suspicious lines of text in Nihilist Blues (3:57)](../../Resources/music/amo/nihilist-blues/a_secretmessage.png)
+![Suspicious lines of text in Nihilist Blues (3:57)](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/amo/nihilist-blues/a_secretmessage.png)
 
 When we zoom in, the message it becomes clearer:
 
-![zoomed](../../Resources/music/amo/nihilist-blues/b_secretmessagezoomed.png)
+![zoomed](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/amo/nihilist-blues/b_secretmessagezoomed.png)
 
 > Angel crashes through mans window dystopian world
 > 

@@ -28,11 +28,11 @@ redaction follows.
 <details class="password">
   <summary>Password</summary>
 
-{{"![lbr password](../../Resources/files/lbr_sites/lbr_password.jpg)" | markdownify}}
+{{"![lbr password](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/lbr_sites/lbr_password.jpg)" | markdownify}}
 
 </details>
 
-![LBR Site file](../../Resources/files/lbr_sites/lbr_site.png)
+![LBR Site file](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/lbr_sites/lbr_site.png)
 
 ***
 

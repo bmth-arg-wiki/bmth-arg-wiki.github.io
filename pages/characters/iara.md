@@ -11,7 +11,7 @@ tags: ["iara", "ai", "chatbot", "arc/hive", "development", "machine learning", "
 Iara is user 0015 and works at Nex Gen. She used to be user 0016, before the 
 update on June 4th 2024.
 
-![Iara's avatar](../../Resources/characters/iara/iara.png)
+![Iara's avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/iara/iara.png)
 
 ***
 
@@ -21,7 +21,7 @@ Iara is marked as "Iara (work)" in the [Codek](../webpage#codek), the in-univers
 service. We can also see her Nex Gen access card on her promotional poster, which
 was found on [social media](../socials).
 
-![Iara seen in the Codek messenger](../../Resources/webpage/message_screenshot.png)
+![Iara seen in the Codek messenger](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/message_screenshot.png)
 
 ***
 

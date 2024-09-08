@@ -11,8 +11,8 @@ tags: ["dear", "diary", "scott", "music"]
 "Dear Diary," is the first song on the album [POST HUMAN: SURVIVAL HORROR](ph-survival-horror). 
 Most of the [lyrics](#lyrics) are found in the file [Scott's Diary](../for-sof/scott_personal_journal), like the infamous "dog stopped barking, probably 'cause I ate his face."
 
-![atehisfacsong](../../Resources/music/ph1/dear-diary/atehisface.PNG)
-![atehisfacediary](../../Resources/files/scott_diary/gallery/r.jpg)
+![atehisfacsong](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph1/dear-diary/atehisface.PNG)
+![atehisfacediary](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/scott_diary/gallery/r.jpg)
 
 ***
 

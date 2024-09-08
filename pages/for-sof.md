@@ -2,7 +2,7 @@
 title: "FOR SOF"
 description: "This page provides an overview of the for-sof and passwords in the FOR SOF folder, along with 
 descriptions of previous versions of it."
-categories: ["for-sof"]
+categories: []
 tags: ["lore", "for sof", "sof", "selene", "documents", "passwords", "rain", "birth", 
        "nex gen", "post human", "walkthrough", "arg", "bring me the horizon", "bmth", "password game", "qr code",
        "dig it", "for-sof", "serial number", "secrets", "past", "msgforsof", "insights",
@@ -18,7 +18,7 @@ image: "/Resources/for-sof/for_sof_password_prompt.png"
 
 # FOR SOF
 
-![Password prompt for the folder](../Resources/files/for_sof_password_prompt.png)
+![Password prompt for the folder](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/for_sof_password_prompt.png)
 
 `FOR SOF` is a folder in the ARG that can be accessed on the computer. It is password 
 protected and was found on 26-05-2024. It requires a password.
@@ -107,7 +107,7 @@ This article also contains information on [previous versions](#previous-versions
 
 ## Placeholders
 
-![Password screen for most files](../Resources/files/old_placeholder.png)
+![Password screen for most files](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/old_placeholder.png)
 
 When the website updates, new password screens are introduced for files, indicating that 
 they can now be unlocked. The specific screens will show the number of characters to input, 
@@ -125,9 +125,9 @@ Audio log from [Selene](characters/selene) to [Sof](characters/sof).
 This file is not password protected. This file is very lore-heavy and will introduce us to 
 the premise of the ARG: we are exploring the files Selene left for her daughter.
 
-![Screenshot of the audio player](../Resources/files/msgforsof-audioplayer.png)
+![Screenshot of the audio player](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/msgforsof-audioplayer.png)
 
-See the [article on this file](for-sof/msgforsof)
+See the [article on this file](./for-sof/msgforsof)
 
 [📁 Back to all files](#directory-content)
 
@@ -138,7 +138,7 @@ See the [article on this file](for-sof/msgforsof)
 These are some documents introducing us to the concept of the four insights that
 we see throughout the ARG.
 
-See the [article on the insights](../Resources/lore/insights)
+See the [article on the insights](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights)
 
 ### THEINSIGHT.DOC
 
@@ -184,7 +184,7 @@ vision
 DEKODE THE MATRIX TO ATTAIN YOUR CONCEALED ORIGINS
 </details>
 
-![Capslock doc password screen](../Resources/files/capslock_doc/capslockdoc_password.png)
+![Capslock doc password screen](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/capslock_doc/capslockdoc_password.png)
 
 > ℹ︎ This article may contain spoilers, as it was discovered earlier than it was supposed to be.
 
@@ -206,7 +206,7 @@ A document in the folder. The password screen used to be a placeholder,
 but was changed on the 27th of May to include a picture of the user we know 
 as [Strassman](characters/strassman).
 
-![Password screen](../Resources/files/strassman-pass-screen.png)
+![Password screen](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/strassman-pass-screen.png)
 
 See the [article on this file](for-sof/strassmancodec)
 
@@ -250,7 +250,7 @@ See the [article on this file](for-sof/selenes_map)
 
 ## R8/fulfilment_source[m0n0].doc
 
-![Password screen for the R8 file](../Resources/files/r8_pass.png)
+![Password screen for the R8 file](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/r8_pass.png)
 
 <details class="password">
   <summary>Password</summary>
@@ -341,7 +341,7 @@ See the [article on this file](for-sof/trinity_document)
 
 ## ISSUE-51-fromhelltoshell.pdf 1
 
-![tekka-pass-screen.png](../Resources/files/tekka/tekka-pass-screen.png)
+![tekka-pass-screen.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/tekka/tekka-pass-screen.png)
 
 <details class="password">
 arc/hive
@@ -363,7 +363,7 @@ See the [article on this file](for-sof/tekka_interview)
 <details class="password">
 <summary>Password</summary>
 
-![dust-password.png](../Resources/files/project_dust/dust-password.png)
+![dust-password.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/project_dust/dust-password.png)
 
 </details>
 
@@ -785,8 +785,8 @@ Password protected with [placeholder](#placeholders).
 
 ## Previous versions
 
-![FOR SOF folder initial view](../Resources/files/for-sof-folder.png)
-![FOR SOF folder scrolled down](../Resources/files/for-sof-folder2.png)
+![FOR SOF folder initial view](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/for-sof-folder.png)
+![FOR SOF folder scrolled down](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/for-sof-folder2.png)
 
 (Screenshot date: 25/05/2024)
 
@@ -812,7 +812,7 @@ If you click on any of these, M8 will tell you one of the following phrases:
 
 > "Dude, don't you know what corrupted means? Give me some time!"
 
-![Corrupted files screen](../Resources/files/corrupted_files.png)
+![Corrupted files screen](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/corrupted_files.png)
 
 After the update on 26/05/2024, corrupted files showed the following screen. In the next version 
 corrupted files could still be scrolled to using the arrow keys, before the corrupted files 

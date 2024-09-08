@@ -32,7 +32,7 @@ you can use them on the wiki. There is currently no automated process for this, 
 
 You can re-use existing images or newly added images by using:
 
-![Alt text makes the wiki more accessible!](../Resources/folder/filename.extension)
+![Alt text makes the wiki more accessible!](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/folder/filename.extension)
 
 #### Header 4
 

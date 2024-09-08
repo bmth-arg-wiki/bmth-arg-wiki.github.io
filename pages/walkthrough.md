@@ -10,7 +10,7 @@ tags: ["walkthrough", "arg", "bring me the horizon", "bmth", "password game", "q
 
 **[next →]({{ site.baseurl }}/pages/walkthrough/walkthrough2)**
 
-![Nex Gen Walkthrough ASCII art](../Resources/walkthrough.png)
+![Nex Gen Walkthrough ASCII art](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/walkthrough.png)
 
 Welcome to the ARG walkthrough! This ARG is ongoing, so this page will update 
 semi-regularly. 

@@ -4,7 +4,7 @@ categories: ["characters"]
 ---
 # Syko
 
-![Syko Avatar](../../Resources/characters/syko/syko.png)
+![Syko Avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/syko/syko.png)
 
 Syko is the stand-in character in-universe for Oliver Sykes. He is user 0005 in the [M8](../m8) 
 system.
