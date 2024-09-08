@@ -26,7 +26,7 @@ protected and was found on 26-05-2024. It requires a password.
 M8 says "You have 132 documents and one audio log" when you open the folder. This doesn't 
 match the contents of what we see (at least not yet).
 
-It contains documents on the [four insights](lore/insights) and many more.
+It contains documents on the [four insights](../lore/insights) and many more.
 
 Note: this document contains all the known passwords for the files, but they are 
 only visible if you click 'password' (unless they require an image). 
@@ -47,27 +47,27 @@ you to the known information (including password) about the file itself.
 
 | File                                                                                                 | Status | About                                         |
 |------------------------------------------------------------------------------------------------------|--------|-----------------------------------------------|
-| [msgforsoff.aiff](for-sof/msgforsof)                                                                 | ✔️     | [📁](#msgforsoffaiff)                         |
-| [The Insight Documents](lore/insights)                                                               | ✔️     | [📁](#the-insightsdoc-insight1-4-docs)        |
-| [CAPSLOCK.DOC](for-sof/capslock_doc)                                                                 | ✔️     | [📁](#capslockdoc)                            |
-| [StrassmanCONFIDENTIALPRT007.CODEC](for-sof/strassmancodec)                                          | ✔️     | [📁](#strassmanconfidentialprt007codec)       |
-| [DREADITScreenshot 2051.1.5.59.43.vis](for-sof/dreadit)                                              | ✔️     | [📁](#dreaditscreenshot-2051155943vis)        |
-| [YOUTOPIA_selenes_map.vis](for-sof/selenes_map)                                                      | ✔️     | [📁](#youtopia_selenes_mapvis)                |
-| [R8/fulfilment_source[m0n0].doc](for-sof/r8)                                                         | ✔️     | [📁](#r8fulfilment_sourcem0n0doc)             |
-| [Selene_Personal_Journal_2037.02.doc](for-sof/selene_personal_journal)                               | ✔️     | [📁](#selene_personal_journal_203702doc)      |
-| [Lauren_D8_Log_203701.docx](for-sof/lauren_d8_log)                                                   | ✔️     | [📁](#lauren_d8_log_203701docx)               |
-| [Scott_Personal_Journal_VSPR-37.doc](for-sof/scott_personal_journal)                                 | ✔️     | [📁](#scott_personal_journal_vspr-37doc)      |
-| [Operation_Trinity_Analysis.xslx](for-sof/trinity_document)                                          | ✔️     | [📁](#Operation_Trinity_Analysisxslx)         |
-| [ISSUE-51-fromhelltoshell.pdf 1](for-sof/tekka_interview)                                            | ✔️     | [📁](#ISSUE-51-fromhelltoshellpdf-1)          |
-| [Jan15_2031_declassified_PROJECT D.U.S.T. 2](for-sof/project_dust)                                   | ✔️     | [📁](#Jan15_2031_declassified_PROJECT-DUST-2) |
-| [SCISTUDYSCAN1999wrist.SCN](for-sof/thesciencestudy)                                                 | ✔️     | [📁](#SCISTUDYSCAN1999wristSCN)               |
-| [Sky_&_The_Starjammers.png](for-sof/skystarjammers)                                                  | ✔️     | [📁](#sky__the_starjammerspng)                |
-| [Nex Gen leak 'UNBELEEVABLE'.doc](for-sof/unbeleevable)                                              | ✔️     | [📁](#nex-gen-leak-unbeleevabledoc)           |
-| [дорогая моя любовь.doc (Russian_poem.DOC)](for-sof/russianpoem)                                     | ✔️     | [📁](#дорогая-моя-любовьdoc)                  |
-| [Kingsl@yer_EncrypMsg.codek](for-sof/kingslayercodec)                                                | ✔️     | [📁](#Kingslyer_encrypmsgcodek)               |
-| [GRUMBLR.Rebecca_Sinclair_01142027](for-sof/grumblr)                                                 | ️✔️    | [📁](#grumblrrebecca_sinclair_01142027)       |
-| [LBR_sites.Confidential.doc](for-sof/lbr_sites)                                                      | ️✔️    | [📁](#lbr_sitesconfidentialdoc)               |
-| [GOXMOG_SIGHTINGS.zip](for-sof/goxmog)                                                               | ✔️️    | [📁](#goxmog_sightingszip)                    |
+| [msgforsoff.aiff](msgforsof)                                                                         | ✔️     | [📁](#msgforsoffaiff)                         |
+| [The Insight Documents](../lore/insights)                                                            | ✔️     | [📁](#the-insightsdoc-insight1-4-docs)        |
+| [CAPSLOCK.DOC](capslock_doc)                                                                         | ✔️     | [📁](#capslockdoc)                            |
+| [StrassmanCONFIDENTIALPRT007.CODEC](strassmancodec)                                                  | ✔️     | [📁](#strassmanconfidentialprt007codec)       |
+| [DREADITScreenshot 2051.1.5.59.43.vis](dreadit)                                                      | ✔️     | [📁](#dreaditscreenshot-2051155943vis)        |
+| [YOUTOPIA_selenes_map.vis](selenes_map)                                                              | ✔️     | [📁](#youtopia_selenes_mapvis)                |
+| [R8/fulfilment_source[m0n0].doc](r8)                                                                 | ✔️     | [📁](#r8fulfilment_sourcem0n0doc)             |
+| [Selene_Personal_Journal_2037.02.doc](selene_personal_journal)                                       | ✔️     | [📁](#selene_personal_journal_203702doc)      |
+| [Lauren_D8_Log_203701.docx](lauren_d8_log)                                                           | ✔️     | [📁](#lauren_d8_log_203701docx)               |
+| [Scott_Personal_Journal_VSPR-37.doc](scott_personal_journal)                                         | ✔️     | [📁](#scott_personal_journal_vspr-37doc)      |
+| [Operation_Trinity_Analysis.xslx](trinity_document)                                                  | ✔️     | [📁](#Operation_Trinity_Analysisxslx)         |
+| [ISSUE-51-fromhelltoshell.pdf 1](tekka_interview)                                                    | ✔️     | [📁](#ISSUE-51-fromhelltoshellpdf-1)          |
+| [Jan15_2031_declassified_PROJECT D.U.S.T. 2](project_dust)                                           | ✔️     | [📁](#Jan15_2031_declassified_PROJECT-DUST-2) |
+| [SCISTUDYSCAN1999wrist.SCN](thesciencestudy)                                                         | ✔️     | [📁](#SCISTUDYSCAN1999wristSCN)               |
+| [Sky_&_The_Starjammers.png](skystarjammers)                                                          | ✔️     | [📁](#sky__the_starjammerspng)                |
+| [Nex Gen leak 'UNBELEEVABLE'.doc](unbeleevable)                                                      | ✔️     | [📁](#nex-gen-leak-unbeleevabledoc)           |
+| [дорогая моя любовь.doc (Russian_poem.DOC)](russianpoem)                                             | ✔️     | [📁](#дорогая-моя-любовьdoc)                  |
+| [Kingsl@yer_EncrypMsg.codek](kingslayercodec)                                                        | ✔️     | [📁](#Kingslyer_encrypmsgcodek)               |
+| [GRUMBLR.Rebecca_Sinclair_01142027](grumblr)                                                         | ️✔️    | [📁](#grumblrrebecca_sinclair_01142027)       |
+| [LBR_sites.Confidential.doc](lbr_sites)                                                              | ️✔️    | [📁](#lbr_sitesconfidentialdoc)               |
+| [GOXMOG_SIGHTINGS.zip](goxmog)                                                                       | ✔️️    | [📁](#goxmog_sightingszip)                    |
 | [Selene_Journey_Log_01/midname?.memo](#selene_journey_log_01midnamememo)                             | ❌      | [📁](#placeholders)                           |
 | [Posthuman_Prototype_Alpha.mp3](#posthuman_prototype_alphamp3)                                       | ❌      | [📁](#placeholders)                           |
 | [YOUTOPIA_Archangels_Secrets.docx](#youtopia_archangels_secretsdocx)                                 | ❌      | [📁](#placeholders)                           |
@@ -121,13 +121,13 @@ As of 29/05/2024, the prompt at the top has been changed to "password_?" instead
 
 ## msgforsoff.aiff
 
-Audio log from [Selene](characters/selene) to [Sof](characters/sof). 
+Audio log from [Selene](../characters/selene) to [Sof](../characters/sof). 
 This file is not password protected. This file is very lore-heavy and will introduce us to 
 the premise of the ARG: we are exploring the files Selene left for her daughter.
 
 ![Screenshot of the audio player](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/msgforsof-audioplayer.png)
 
-See the [article on this file](./for-sof/msgforsof)
+See the [article on this file](msgforsof)
 
 [📁 Back to all files](#directory-content)
 
@@ -138,7 +138,7 @@ See the [article on this file](./for-sof/msgforsof)
 These are some documents introducing us to the concept of the four insights that
 we see throughout the ARG.
 
-See the [article on the insights](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights)
+See the [article on the insights](../lore/insights).
 
 ### THEINSIGHT.DOC
 
@@ -188,7 +188,7 @@ DEKODE THE MATRIX TO ATTAIN YOUR CONCEALED ORIGINS
 
 > ℹ︎ This article may contain spoilers, as it was discovered earlier than it was supposed to be.
 
-See the [article on this file](for-sof/capslock_doc)
+See the [article on this file](capslock_doc)
 
 [📁 Back to all files](#directory-content)
 
@@ -204,11 +204,11 @@ karl strassman
 
 A document in the folder. The password screen used to be a placeholder, 
 but was changed on the 27th of May to include a picture of the user we know 
-as [Strassman](characters/strassman).
+as [Strassman](../characters/strassman).
 
 ![Password screen](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/strassman-pass-screen.png)
 
-See the [article on this file](for-sof/strassmancodec)
+See the [article on this file](strassmancodec)
 
 [📁 Back to all files](#directory-content)
 
@@ -222,10 +222,10 @@ See the [article on this file](for-sof/strassmancodec)
 1d1b2c2a
 </details>
 
-The password to this file changed when the [Spyder Browser](webbrowser) updated 
+The password to this file changed when the [Spyder Browser](../webbrowser) updated 
 to contain a Dreadit link in the URL bar.
 
-See the [article on this file](for-sof/dreadit)
+See the [article on this file](dreadit)
 
 [📁 Back to all files](#directory-content)
 
@@ -239,10 +239,10 @@ See the [article on this file](for-sof/dreadit)
 clive
 </details>
 
-The password refers to [M8](m8)'s middle name, which is referenced in some lines she says 
+The password refers to [M8](../m8)'s middle name, which is referenced in some lines she says 
 in the sticky notes.
 
-See the [article on this file](for-sof/selenes_map)
+See the [article on this file](selenes_map)
 
 [📁 Back to all files](#directory-content)
 
@@ -258,12 +258,12 @@ See the [article on this file](for-sof/selenes_map)
 within
 </details>
 
-The password for this file was discovered in the audio for [Top 10 staTues tHat CriEd bloOd](music/song-top10).
+The password for this file was discovered in the audio for [Top 10 staTues tHat CriEd bloOd](../music/song-top10).
 
 This document appeared on 29/05/2024 in a website update. The document details a 
-precursor of [M8](m8) that is called [R8](for-sof/r8).
+precursor of [M8](../m8) that is called [R8](r8).
 
-See the [article on this file](for-sof/r8)
+See the [article on this file](r8)
 
 [📁 Back to all files](#directory-content)
 
@@ -277,9 +277,9 @@ See the [article on this file](for-sof/r8)
 0003
 </details>
 
-The password is Selene's user number in the [M8](m8) system.
+The password is Selene's user number in the [M8](../m8) system.
 
-See the [article on this file](for-sof/selene_personal_journal)
+See the [article on this file](selene_personal_journal)
 
 [📁 Back to all files](#directory-content)
 
@@ -293,9 +293,9 @@ See the [article on this file](for-sof/selene_personal_journal)
 0014
 </details>
 
-The password for this file is [Ren](characters/ren)'s user number.
+The password for this file is [Ren](../characters/ren)'s user number.
 
-See the [article on this file](for-sof/lauren_d8_log)
+See the [article on this file](lauren_d8_log)
 
 [📁 Back to all files](#directory-content)
 
@@ -309,9 +309,9 @@ See the [article on this file](for-sof/lauren_d8_log)
 0005
 </details>
 
-The password for this file is [Syko](characters/syko)'s user number.
+The password for this file is [Syko](../characters/syko)'s user number.
 
-See the [article on this file](for-sof/scott_personal_journal)
+See the [article on this file](scott_personal_journal)
 
 [📁 Back to all files](#directory-content)
 
@@ -333,7 +333,7 @@ there is no submit button.
 
 This file was added in an update on 19/06/2024.
 
-See the [article on this file](for-sof/trinity_document)
+See the [article on this file](trinity_document)
 
 [📁 Back to all files](#directory-content)
 
@@ -347,12 +347,12 @@ See the [article on this file](for-sof/trinity_document)
 arc/hive
 </details>
 
-This password was found through a connection with [In the Dark](music/amo-in-the-dark), 
+This password was found through a connection with [In the Dark](../music/amo-in-the-dark), 
 where the logo on the password screen stems from.
 
 This file was added on the 25th of June.
 
-See the [article on this file](for-sof/tekka_interview)
+See the [article on this file](tekka_interview)
 
 [📁 Back to all files](#directory-content)
 
@@ -368,11 +368,11 @@ See the [article on this file](for-sof/tekka_interview)
 </details>
 
 This file was added along the previous issue 51 of Tekka magazine on the 25th of June 2024. 
-The file contains a research proposal for [several projects](for-sof/project_dust). The password 
+The file contains a research proposal for [several projects](project_dust). The password 
 was found in an instagram post, where the characters appeared. The last two characters were 
 switched.
 
-See the [article on this file](for-sof/project_dust)
+See the [article on this file](project_dust)
 
 [📁 Back to all files](#directory-content)
 
@@ -384,10 +384,10 @@ See the [article on this file](for-sof/project_dust)
 grave
 </details>
 
-This password was found in the [music player](webpage#website-songs). The song 
+This password was found in the [music player](../webpage#website-songs). The song 
 Wrist has an anagram for the password in the song information.
 
-See the [article on this file](for-sof/thesciencestudy)
+See the [article on this file](thesciencestudy)
 
 [📁 Back to all files](#directory-content)
 
@@ -401,7 +401,7 @@ INTERCELLULAR
 
 </details>
 
-See the [article on this file](for-sof/skystarjammers)
+See the [article on this file](skystarjammers)
 
 [📁 Back to all files](#directory-content)
 
@@ -417,9 +417,9 @@ forest
 
 Lee Malia is one of the band members, his name is referred to in the filename. His son's name is Forest. Additionally, 
 the phrase ‘Deep in the forest, the blind one followed her every move’ appears on promotional material. Finally, the 
-name of the actor playing in the[ Dark](music/amo-in-the-dark) is Forest Whitaker.
+name of the actor playing in the[ Dark](../music/amo-in-the-dark) is Forest Whitaker.
 
-See the [article on this file](for-sof/unbeleevable)
+See the [article on this file](unbeleevable)
 
 [📁 Back to all files](#directory-content)
 
@@ -435,9 +435,9 @@ See the [article on this file](for-sof/unbeleevable)
 
 Also known as `Russian_poem.DOC`, its original name. The password 
 for this was found in an [Instagram post](https://www.instagram.com/p/C-DhcBaC4NP/). 
-You can view the reconstructed password on the [Russian Poem article](for-sof/russianpoem).
+You can view the reconstructed password on the [Russian Poem article](russianpoem).
 
-See the [article on this file](for-sof/russianpoem)
+See the [article on this file](russianpoem)
 
 [📁 Back to all files](#directory-content)
 
@@ -455,10 +455,10 @@ This file was originally between [Posthuman_Prototype_Alpha.mp3](#posthuman_prot
 It was updated on August 2nd, getting its current position in the list and a puzzle to unlock.
 
 This file with a puzzle and a password.
-Also see the [walkthrough](walkthrough/walkthrough2) 
+Also see the [walkthrough](../walkthrough/walkthrough2) 
 for help cracking this file.
 
-See the [article on this file](for-sof/kingslayercodec)
+See the [article on this file](kingslayercodec)
 
 [📁 Back to all files](#directory-content)
 
@@ -475,9 +475,9 @@ See the [article on this file](for-sof/kingslayercodec)
 Originally introduced as `Grumblr.HTML`. The file seemed to be cracked by coincidence or brute-forcing 
 at first, showing a background of a diary with green text displaying "test".
 This was replaced by another update on August the 7th, when the filename changed to the current 
-one and the file now showed us [Rebecca's Grumblr page](for-sof/grumblr).
+one and the file now showed us [Rebecca](../characters/rebecca)'s [Grumblr page](grumblr).
 
-See the [article on this file](for-sof/grumblr)
+See the [article on this file](grumblr)
 
 [📁 Back to all files](#directory-content)
 
@@ -488,7 +488,7 @@ See the [article on this file](for-sof/grumblr)
 <details class="password">
 <summary>Password</summary>
 
-This puzzle corresponds to the Insights on Selene's map.
+This puzzle corresponds to the Insights on {{ "[Selene's map](selenes_map)" | markdownify}}.
 
 - Top: Upside down triangle with line (green = vision)
 - Right: Triangle with line (yellow = connection)
@@ -500,9 +500,9 @@ This puzzle corresponds to the Insights on Selene's map.
 This document was first released on August 7th 2024 and requires a compass puzzle 
 to open.
 The puzzle became solvable in an update on the 8th of August, revealing a document 
-about so-called [LBR sites](for-sof/lbr_sites).
+about so-called [LBR sites](lbr_sites).
 
-See the [article on this file](for-sof/lbr_sites)
+See the [article on this file](lbr_sites)
 
 [📁 Back to all files](#directory-content)
 
@@ -519,7 +519,7 @@ cegfbdfagfdc
 
 This document was released on August 19th. The password was found on September 6th from a BMTH instagram post from the same day.
 
-See the [article on this file](for-sof/goxmog)
+See the [article on this file](goxmog)
 
 [📁 Back to all files](#directory-content)
 
@@ -830,6 +830,6 @@ with arrows buttons and page numbers 1-5.
 Use the [table](#directory-content) to navigate to the file articles 
 by clicking their name.
 
-- [Characters](characters)
-- [Sof](characters/sof)
-- [M8](m8)
+- [Characters](../characters)
+- [Sof](../characters/sof)
+- [M8](../m8)
