@@ -8,7 +8,7 @@ tags: ["matt nichols", "pickles", "bmth", "bring me the horizon", "band member",
 
 # Pickles
 
-![Pickles Avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/pickles/pickles.png)
+![Pickles Avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/pickles/11pickles.png)
 
 Pickles is the in-universe character of Matt Nichols, one of the band members. Before the June 4th 2024 update, 
 he was number 0012 in the system. He is currently user 0011.
