@@ -18,8 +18,6 @@ image: "/Resources/for-sof/for_sof_password_prompt.png"
 
 # FOR SOF
 
-![Password prompt for the folder](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/for_sof_password_prompt.png)
-
 `FOR SOF` is a folder in the ARG that can be accessed on the computer. It is password 
 protected and was found on 26-05-2024. It requires a password.
 
