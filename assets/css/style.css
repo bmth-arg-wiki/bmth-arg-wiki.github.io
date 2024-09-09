@@ -102,10 +102,6 @@ li {
   font-size: var(--fontsize4);
 }
 
-input {
-  color: var(--bg-lighter);
-}
-
 .content li+li {
   margin: 0;        /* Reset margin from bulma */
 }

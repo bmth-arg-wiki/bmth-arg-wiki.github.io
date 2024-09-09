@@ -13,6 +13,11 @@ a:active .description {
 /* Custom styling for the search bar */
 .search-bar {
     margin-top: 20px;
+    height: 40px;
+}
+
+.search-bar input {
+    background: var(--bg-lighter);
 }
 
 #search-form {
@@ -29,6 +34,7 @@ a:active .description {
 #clear-button {
     color: var(--bg-lighter);
     background: var(--txt);
+    height: 40px;
     border-radius: 0; /* Remove rounded corners */
     border-left: none; /* Remove border between input and button */
 }
@@ -36,6 +42,7 @@ a:active .description {
 #search-button {
     color: var(--bg-lighter);
     background: var(--txt);
+    height: 40px;
     border-radius: 0 4px 4px 0;
 }
 
