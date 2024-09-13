@@ -29,13 +29,43 @@ cegfbdfagfdc
 
 ## Transcription
 
-> [bottom text:]
+> ### Image 1 bottom text:
+>
+> 00:56:04:01 - C1/A-011GMSS-3948-210
+
+>### Image 2 bottom text:
+>
+> 00:47:21:30 - C1/A-011GMSS-3948-210
+
+> ### Image 3 bottom text:
 > 
-> Warning Notice
+> 00:41:51:12 - C1/A-011GMSS-3948-210
+
+> ### Graph:
+>
+> **Goxethoromogetheus**
+>
+>[head area]
 > 
-> NATIONAL SECURITY INFORMATION
+>Tongue - Fang - Vomeronasal - Venom gland - Horn (Segments 1-4) - Cephalon
+>
+>[wings area:]
 > 
-> Unauthorised Disclosure Subject to [?] Sanctions
+>Forewing - Wing membrane - Wing-span - (Phalanx I-XVIII) - Fore-limbs - Hindwing - Chiropatagium - Plagiopatagium - Dactylopatagium - Pedipalp (Apendages 1-3)
+>
+> [core area]
+> 
+>Adbo-thoracic cage - Gills - Thorax - Pereonites (1-7)
+>
+> **RELEASED BY**
+> 
+>[NEX GEN logo + M8 Systems logo]
+>
+>*Warning Notice*
+> 
+>*NATIONAL SECURITY INFORMATION*
+> 
+>*Unauthorised Disclosure Subject to […] Sanctions*
 
 ***
 
