@@ -1,12 +1,15 @@
-<section class="hero is-primary is-medium">
+<section class="hero is-dark is-small">
     <div class="hero-head">
         <nav class="navbar">
             <div class="container">
                 <div class="navbar-brand">
                     <a class="navbar-item" href="{{ site.baseurl }}/pages/about">The Tinfoil Society</a>
-                    <span class="navbar-burger" data-target="navbarMenuHeroA">
-            <span></span>
-          </span>
+                    <a class="navbar-burger" role="button" aria-label="menu" aria-expanded="false" data-target="navbarMenuHeroA">
+                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true"></span>
+                    </a>
                 </div>
                 <div id="navbarMenuHeroA" class="navbar-menu">
                     <div class="navbar-end">
@@ -26,13 +29,25 @@
             </div>
         </nav>
     </div>
-    <div class="hero-body p-0">
+    <div class="hero-body">
         <div class="container">
-            <div class="title-container">
-                <p class="title"><a href="{{ site.baseurl }}/">BRING ME THE HORIZON</a></p>
-                <p class="subtitle"><a href="{{ site.baseurl }}/">ARG Wiki</a></p>
-            </div>
+            <p class="title"><a href="{{ site.baseurl }}/">BRING ME THE HORIZON</a></p>
+            <p class="subtitle"><a href="{{ site.baseurl }}/">ARG Wiki</a></p>
         </div>
     </div>
-    <!-- potential hero footer here later -->
+    <div class="hero-foot">
+        <nav class="tabs is-boxed is-fullwidth">
+            <div class="container">
+                <ul>
+                    <li class="is-active"><a href="{{ site.baseurl }}/">Home</a></li>
+                    <li><a href="{{ site.baseurl }}/pages/characters/characters">Characters</a></li>
+                    <li><a href="{{ site.baseurl }}/pages/for-sof/for-sof">Files</a></li>
+                    <li><a href="{{ site.baseurl }}/pages/lore/lore">Lore</a></li>
+                    <li><a href="{{ site.baseurl }}/pages/music/music">Music</a></li>
+                    <li><a href="{{ site.baseurl }}/pages/walkthrough/walkthrough1">Walkthrough</a></li>
+                </ul>
+            </div>
+        </nav>
+    </div>
 </section>
+<script src="/assets/js/hamburger.js"></script>

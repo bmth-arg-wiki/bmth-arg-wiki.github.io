@@ -5,6 +5,12 @@ repository: bmth-arg-wiki/bmth-arg-wiki.github.io
 url: "http://www.secrettinfoilsociety.com"
 baseurl: ""
 
+sass:
+  load_paths:
+    - _sass
+    - node_modules/bulma
+  style: compressed
+
 plugins:
   - jekyll-toc
   - jekyll-anchor-tags

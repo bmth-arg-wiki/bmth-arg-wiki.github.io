@@ -1,9 +1,55 @@
-@import "https://cdn.jsdelivr.net/npm/bulma@1.0.1/css/bulma.min.css";
+// Set your brand colors
+$green: #437e73;
+$yellow: #d1a841;
+$orange: #c6844e;
+$orange-darker: #d6511b;
+$red-dark: #a70b0b;
+$gray-darker: #282828;
+$gray-dark: #383838;
+$gray: #656565;
+$gray-lighter: #aeacac;
+$gray-lightest: #c8c8c8;
+$beige-light: #ededed;
+$beige-lighter: #fafafa;
 
-/* Styling variables */
+// Path to Bulma's sass folder
+@use "bulma/sass" with (
+  $family-primary: '"Arial", sans-serif',
+  $family-secondary: '"Georgia", serif',
+  $background: $beige-lighter,
+
+  // Base palette
+  $grey: $gray,
+  $grey-darker: $gray-darker,
+  $grey-dark: $gray-dark,
+  $grey-light: $gray-lightest,
+  $primary: $green,
+  $info: $yellow,
+  $link: $orange,
+  $warning: $orange-darker,
+  $danger: $red-dark,
+
+  // Base elements
+  $content-heading-color: $green,
+  $content-blockquote-background-color: $beige-lighter,
+  $content-blockquote-border-left: $green,
+  $content-table-cell-border: $gray,
+
+  // Navbar
+  $navbar-item-color: $red-dark,
+
+  // Misc.
+  $control-border-width: 2px,
+  $input-shadow: none
+);
+
+a.heading-anchor {
+  color: $gray-lighter;
+}
+
+/* Styling variables
 :root {
   --titles: #437e73;
-  --green-accent: #d5e5e2;
   --link: #c6844e;
   --link-active: #ba5142;
   --txt: #383838;
@@ -20,8 +66,8 @@
   --code: "Source Code Pro", monospace;
   --fonttitle: Georgia, serif;
 }
-
-/* General page styling */
+*/
+/*
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
@@ -44,7 +90,6 @@ body {
   box-sizing: border-box;
 }
 
-/* HTML base elements */
 .content h1 {
   color: var(--txt);
   font-size: var(--fontsize1);
@@ -68,7 +113,7 @@ body {
   font-family: var(--fonttitle), ui-sans-serif, sans-serif;
 }
 
-body, details, summary {    /* Make sure that body text color is applied even when overridden */
+body, details, summary {
   color: var(--dark-txt);
   padding-bottom: 0.1em;
 }
@@ -107,7 +152,7 @@ input {
 }
 
 .content li+li {
-  margin: 0;        /* Reset margin from bulma */
+  margin: 0;
 }
 
 .content img {
@@ -118,7 +163,6 @@ input {
   color: var(--light-grey);
 }
 
-/* Tables */
 .content table {
   width: inherit;
   background: var(--bg);
@@ -148,7 +192,6 @@ tbody tr:nth-child(even) {
   border: 1px solid var(--light-grey);
 }
 
-/* Special blocks */
 .content article {
   border: 2px solid var(--titles);
   padding: 20px;
@@ -161,7 +204,7 @@ tbody tr:nth-child(even) {
   background-color: var(--bg-lighter);
   padding: 10px 20px;
   margin: 20px 0;
-  border-radius: 10px; /* To make the edges rounded */
+  border-radius: 10px;
   font-style: italic;
   position: relative;
 }
@@ -171,9 +214,9 @@ tbody tr:nth-child(even) {
   position: absolute;
   top: 0;
   bottom: 0;
-  left: -5px; /* Adjust according to the border width */
+  left: -5px;
   width: 5px;
-  background: var(--titles); /* Same as border color */
+  background: var(--titles);
   border-radius: 10px;
 }
 
@@ -187,3 +230,4 @@ code {
   background: var(--bg);
   color: var(--dark-red);
 }
+*/
