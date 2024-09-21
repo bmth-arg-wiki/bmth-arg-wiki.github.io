@@ -24,40 +24,6 @@ images and links related to the documents.
 
 ***
 
-## Quick access
-
-**[Previous part of the walkthrough](walkthrough1)**
-
-Jump to section:
-
-- [Folder password](#the-folder)
-- [msgforsof.aiff](#msgforsofaiff)
-- [THEINSIGHTS.DOC](#theinsightsdoc)
-- [The insight files](#insight-files)
-- [CAPSLOCK.DOC](#capslockdoc)
-- [StrassmanCONFIDENTIALPRT007.CODEC](#strassmanconfidentialprt007codec)
-- [DREADITScreenshot 2051.1.5.59.43.vis](#dreaditscreenshot-2051155943vis)
-- [YOUTOPIA_selenes_map.vis](#youtopia_selenes_mapvis)
-- [R8/fulfilment_source[m0n0].doc](#r8fulfilment_sourcem0n0doc)
-- [Selene_Personal_Journal_2037.02.doc](#selene_personal_journal_203702doc)
-- [Lauren_D8_Log_203701.docx](#lauren_d8_log_203701docx)
-- [Scott_Personal_Journal_VSPR-37.doc](#scott_personal_journal_vspr-37doc)
-- [Operation_Trinity_Analysis.xslx](#operation_trinity_analysisxslx)
-- [ISSUE-51-fromhelltoshell.pdf 1](#issue-51-fromhelltoshellpdf-1)
-- [Jan15_2031_declassified_PROJECT D.U.S.T. 2](#jan15_2031_declassified_project-dust-2)
-- [SCISTUDYSCAN1999wrist.SCN](#scistudyscan1999wristscn)
-- [Sky_&_The_Starjammers.png](#sky__the_starjammerspng)
-- [Nex Gen leak ‘UNBELEEVABLE’.doc](#nex-gen-leak-unbeleevabledoc)
-- [дорогая моя любовь.doc](#Rдорогая-моя-любовьdoc)
-- [Kngsl@yer_EncrypMsg.codek](#Kngslyer_EncrypMsgcodek)
-- [GRUMBLR.Rebecca_Sinclair_01142027](#GRUMBLRRebecca_Sinclair_01142027)
-- [LBR_sites.Confidential.doc](#LBR_sitesConfidentialdoc)
-
-You do not have to open the files in this order.
-To navigate this page you can jump back up with [↑ Quick access](#quick-access) links.
-
-***
-
 ## The folder
 
 The folder can be found on the left side of the webpage. It's orange with an interesting
@@ -84,8 +50,6 @@ You can find more explanations about the webpage by reading some related article
 - [Website songs](../music/website-songs)
 - [Website browser](../webbrowser)
 
-[↑ Quick access](#quick-access)
-
 ***
 
 ### msgforsof.aiff
@@ -96,8 +60,6 @@ The first file is an [audio log](../for-sof/msgforsof) that does not need a pass
 - [Sof](../characters/sof)
 - [Selene](../characters/selene)
 
-[↑ Quick access](#quick-access)
-
 ***
 
 ## THEINSIGHTS.DOC
@@ -106,8 +68,6 @@ The second file is a document that also does not require a password.
 Before doing some more research, we recommend opening the next set of files first.
 
 - [THEINSIGHTS.doc](../lore/insights)
-
-[↑ Quick access](#quick-access)
 
 ***
 
@@ -182,8 +142,6 @@ Characters:
 - [Vanth](../characters/vanth)
 - [Uriel](../characters/uriel)
 
-[↑ Quick access](#quick-access)
-
 ***
 
 ## CAPSLOCK.DOC
@@ -214,8 +172,6 @@ By decoding the capital letters from the track list, we get
 Let's move on with the file actually intended to be next.
 
 - [CAPSLOCK.DOC](../for-sof/capslock_doc)
-
-[↑️ Quick access](#quick-access)
 
 ***
 
@@ -250,8 +206,6 @@ Learn more about Strassman in the related articles.
 - [E.V.E](../characters/eve)
 - [a bulleT w/my namE On](../music/song-abwmno)
 
-[↑ Quick access](#quick-access)
-
 ***
 
 ## DREADITScreenshot 2051.1.5.59.43.vis
@@ -278,8 +232,6 @@ This unlocks a Dreadit post with some comments on it.
 - [Nex Gen Corporation](../lore/nex-gen-corporation)
 - [Selene](../characters)
 - [Neosages](../lore/mantra) (Spoiler-heavy for upcoming files)
-
-[↑ Quick access](#quick-access)
 
 ***
 
@@ -322,8 +274,6 @@ Related characters:
 - [Vanth](../characters/vanth)
 - [Uriel](../characters/uriel)
 
-[↑ Quick access](#quick-access)
-
 ***
 
 ## R8/fulfilment_source[m0n0].doc
@@ -356,8 +306,6 @@ This gives us a spec sheet for some technology.
 
 </details>
 
-[↑ Quick access](#quick-access)
-
 ***
 
 ## Selene_Personal_Journal_2037.02.doc
@@ -384,8 +332,6 @@ first.
 
 - [Selene_Personal_Journal_2037.02.doc](../for-sof/selene_personal_journal)
 - [Selene](../characters/selene)
-
-[↑ Quick access](#quick-access)
 
 ***
 
@@ -415,8 +361,6 @@ More details on this character and document can be found in the related articles
 
 - [Lauren_D8_Log_203701.docx](../for-sof/lauren_d8_log)
 - [Ren](../characters/ren)
-
-[↑ Quick access](#quick-access)
 
 ***
 
@@ -450,8 +394,6 @@ You can read more about Scott in the related articles. This file is strongly tie
 - [Scott_Personal_Journal_VSPR-37.doc](../for-sof/scott_personal_journal)
 - [Syko](../characters/syko)
 - [Dear Diary,](../music/song-dear-diary)
-
-[↑ Quick access](#quick-access)
 
 ***
 
@@ -487,8 +429,6 @@ This file is not in English. See the links below in case you need some help inte
 - [Karl Strassman](../characters/strassman)
 - [Skys](../characters/skys)
 - [Dallus Lauren](../characters/dallus-lauren)
-
-[↑ Quick access](#quick-access)
 
 ***
 
@@ -526,8 +466,6 @@ Related characters:
 - [Rebecca](../characters/rebecca)
 - [Karl Strassman](../characters/strassman)
 - [Dallus Lauren](../characters/dallus-lauren)
-
-[↑ Quick access](#quick-access)
 
 ***
 
@@ -572,8 +510,6 @@ Related characters:
 - [Ikaro Lauren](../characters/ren)
 - [Syko](../characters/syko)
 
-[↑ Quick access](#quick-access)
-
 ***
 
 ## SCISTUDYSCAN1999wrist.SCN
@@ -600,8 +536,6 @@ This will unlock a newspaper with several areas you can zoom into.
 
 - [SCISTUDYSCAN1999wrist.SCN](../for-sof/thesciencestudy)
 - [Website songs](../music/website-songs)
-
-[↑ Quick access](#quick-access)
 
 ***
 
@@ -634,8 +568,6 @@ This will give us a poster.
 - [Skys](../characters/skys)
 - [Mantra cult](../lore/mantra)
 - [Mantra (song)](../music/amo-mantra)
-
-[↑ Quick access](#quick-access)
 
 ***
 
@@ -685,8 +617,6 @@ Related characters:
 - [Karl Strassman](../characters/strassman)
 - [Madman](../characters/madman) (maybe?)
 
-[↑ Quick access](#quick-access)
-
 ***
 
 ## Rдорогая моя любовь.doc
@@ -715,8 +645,6 @@ the pieces from the post, rotating and assembling them, we get the code '7795397
 
 This file gives us a new document, although you might want to read the 
 [translation](../for-sof/russianpoem#translated).
-
-[↑ Quick access](#quick-access)
 
 ## Kngsl@yer_EncrypMsg.codek
 
@@ -770,8 +698,6 @@ You're going to need some numbers from the puzzle.
 The password is 23.2907, the sum of all the numbers we used for the puzzle pieces.
 </details>
 
-[↑ Quick access](#quick-access)
-
 ***
 
 ## GRUMBLR.Rebecca_Sinclair_01142027
@@ -803,8 +729,6 @@ Other relevant articles:
 - [ARC/HIVE](../lore/archive)
 - [Tekka Interview](../for-sof/tekka_interview)
 - [In the Dark](../music/amo-in-the-dark) (speculated appearance)
-
-[↑ Quick access](#quick-access)
 
 ***
 
@@ -847,8 +771,6 @@ Relevant articles:
 - [ARC/HIVE](../lore/archive)
 - [In the Dark](../music/amo-in-the-dark) (speculated)
 
-[↑ Quick access](#quick-access)
-
 ***
 
 ## Read More
@@ -863,5 +785,4 @@ Please email [bmthargwiki@gmail.com](mailto:bmthargwiki@gmail.com).
 
 Want to help us with the password hunt? Join the official [BMTH Discord](https://discord.com/invite/bmthofficial).
 
-[↑ Quick access](#quick-access)
 [← Previous part: Finding the Website](walkthrough1)
