@@ -1,9 +1,5 @@
 @use "../variables" as *; // Import variables from the variables file
 
-aside {
-  order: 1;
-}
-
 /*
  * Menu (overall) styling
  */
@@ -12,10 +8,6 @@ aside {
 .menu-list button,
 .menu-list .menu-item {
   background-color: $pink-lightest;
-}
-
-.menu-list li ul {
-  border-inline-start: 1px solid $pink;
 }
 
 /**
