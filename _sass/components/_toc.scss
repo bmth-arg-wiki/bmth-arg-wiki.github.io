@@ -1,3 +1,35 @@
-.menu-list a, .menu-list button, .menu-list .menu-item {
+@use "../variables" as *; // Import variables from the variables file
+
+aside {
+  order: 1;
+}
+
+/*
+ * Menu (overall) styling
+ */
+.menu-list,
+.menu-list a,
+.menu-list button,
+.menu-list .menu-item {
   background-color: $pink-lightest;
+}
+
+.menu-list li ul {
+  border-inline-start: 1px solid $pink;
+}
+
+/**
+ * Headers
+ */
+.toc-level-2 a::before,
+.toc-level-3 a::before {
+  content: '#';
+  color: $pink;
+  display: inline-block;
+  padding: 0.25em;
+  font-size: small;
+}
+
+.toc-level-3 {
+  padding-left: 15px;
 }

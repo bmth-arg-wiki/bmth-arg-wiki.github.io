@@ -1,3 +1,5 @@
+@use "../variables" as *;
+
 /*
  * Global content styling
  */
@@ -41,7 +43,7 @@
  */
 
 // Horizontal separators
-hr {
+.content hr {
   background-color: $pink;
   height: 1px;
 }

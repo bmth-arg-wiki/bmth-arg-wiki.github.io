@@ -1,26 +1,4 @@
-// Selene
-$white: #FFFFFF;
-$very-pale-pink: #fff9f9;
-$pink-lightest: #fff1f2;
-$pink-lighter: #dcb4b6;
-$pink: #D7989EFF;
-$pink-darker: #CA7A7AFF;
-$light-brown: #A8A199FF;
-$medium-dark-brown: #4E4C4C;
-
-$blue-lighter: #3f76cf;
-$blue: #0552aa;//#4c6ea6;
-$blue-gray: #6B81A5FF;
-$gray: #74757A;
-$gray-darkest: #222223;
-$red: #d84848;
-$red-dark: #872d2d;
-
-// Extra pastels
-$pastel-green: #E2EFDE;
-$pastel-cyan: #DBFCFF;
-$pastel-blue: #E1EFF6FF;
-$pastel-purple: #B4AED1;
+@use "variables";
 
 // Path to Bulma's sass folder, overwrite their variables with our theme
 @use "bulma/sass" with (
@@ -29,37 +7,37 @@ $pastel-purple: #B4AED1;
   $family-secondary: '"Georgia", serif',
 
   // Base palette
-  $white: $very-pale-pink,
-  $grey: $gray,
+  $white: variables.$very-pale-pink,
+  $grey: variables.$gray,
 
   // Brand palette
-  $primary: $pink,
-  $info: $pink-darker,
-  $link: $blue-lighter,
-  $success: $blue,
-  $warning: $red,
-  $danger: $red-dark,
+  $primary: variables.$pink,
+  $info: variables.$pink-darker,
+  $success: variables.$blue-success,
+  $link: variables.$blue-link,
+  $warning: variables.$red,
+  $danger: variables.$red-dark,
 
   // Header
-  $title-color: $pink,
+  $title-color: variables.$pink,
 
   // Base content
-  $content-heading-color: $blue,
-  $content-blockquote-background-color: $white,
-  $content-blockquote-border-left: 5px solid $pink-darker,
-  $content-table-cell-border: 1px solid $gray,
-  $border: $pink-lightest,
+  $content-heading-color: variables.$blue-link,
+  $content-blockquote-background-color: variables.$white,
+  $content-blockquote-border-left: 5px solid variables.$pink-darker,
+  $content-table-cell-border: 1px solid variables.$gray,
+  $border: variables.$pink-lightest,
 
   // Misc.
   $control-border-width: 2px,
   $input-shadow: none
 );
 
-@import "components/_header";
-@import "components/_search_bar";
-@import "components/_contents";
-@import "components/_toc";
-@import "components/_footer";
+@use "components/_contents";
+@use "components/_header";
+@use "components/_search_bar";
+@use "components/_toc";
+@use "components/_footer";
 
 /*
  * Mobile
@@ -77,11 +55,11 @@ $pastel-purple: #B4AED1;
  */
 
 body {
-  background-color: $very-pale-pink;
-  color: $gray-darkest;
+  background-color: variables.$very-pale-pink;
+  color: variables.$gray-darkest;
 }
 
 // Hovering over links turns them from blue to red
 a:hover {
-  color: $red;
+  color: variables.$red;
 }

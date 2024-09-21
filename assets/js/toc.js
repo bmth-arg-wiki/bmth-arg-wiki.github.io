@@ -12,11 +12,14 @@ document.addEventListener('DOMContentLoaded', function () {
         const listItem = document.createElement('li');
         listItem.classList.add(`toc-level-${level}`);
 
+        const span = document.createElement('span');
+
         const anchor = document.createElement('a');
         anchor.href = `#${id}`;
         anchor.textContent = heading.textContent.trim().slice(0, -2);
 
-        listItem.appendChild(anchor);
+        span.appendChild(anchor);
+        listItem.appendChild(span);
         tocList.appendChild(listItem);
     });
 });

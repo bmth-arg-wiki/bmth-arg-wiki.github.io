@@ -1,7 +1,15 @@
+@use "../variables" as *; // Import variables from the variables file
+
+// Search-related variables
+$search-input-height: 40px;
+$search-button-height: 40px;
+
+// Styles for the search input
 .search input {
-  height: 40px;
+  height: $search-input-height;
 }
 
+// Styles for the search button
 .search button {
-  height: 40px;
+  height: $search-button-height;
 }
