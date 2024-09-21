@@ -21664,10 +21664,16 @@ a.heading-anchor:visited,
   height: 40px;
 }
 
-aside {
-  order: 1;
+.result-item {
+  padding: 5px;
 }
 
+@media screen and (min-width: 1023px) {
+  .toc-container {
+    position: sticky;
+    top: 0;
+  }
+}
 /*
  * Menu (overall) styling
  */
@@ -21676,10 +21682,6 @@ aside {
 .menu-list button,
 .menu-list .menu-item {
   background-color: #fff1f2;
-}
-
-.menu-list li ul {
-  border-inline-start: 1px solid #d7989e;
 }
 
 /**
@@ -21709,7 +21711,7 @@ aside {
 /*
  * Mobile
  */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
   #page-body {
     flex-direction: column;
   }

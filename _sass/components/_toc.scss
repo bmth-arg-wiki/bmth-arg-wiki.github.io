@@ -1,5 +1,12 @@
 @use "../variables" as *; // Import variables from the variables file
 
+@media screen and (min-width: $mobile-width) {
+  .toc-container {
+    position: sticky;
+    top: 0;
+  }
+}
+
 /*
  * Menu (overall) styling
  */
