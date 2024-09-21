@@ -21637,21 +21637,32 @@ a.heading-anchor:visited,
   font-size: medium;
 }
 
+.content a:visited {
+  color: #872d2d;
+}
+
 /*
  * Details (clickable element)
  */
 .content details {
-  padding: 0 10px 10px 0;
+  padding: 10px;
+  margin: 10px;
   background-color: #fff1f2;
   border-radius: 5px;
 }
 
-@media screen and (min-width: 768px) {
-  .toc-sidebar {
-    position: sticky;
-    top: 0;
-  }
+/*
+ * Misc.
+ */
+hr {
+  background-color: #d7989e;
+  height: 1px;
 }
+
+.menu-list a, .menu-list button, .menu-list .menu-item {
+  background-color: #fff1f2;
+}
+
 /*
  * Global footer styling
  */
@@ -21677,12 +21688,7 @@ body {
 }
 
 a:hover {
-  color: #872d2d;
-}
-
-hr {
-  background-color: #d7989e;
-  height: 1px;
+  color: #d84848;
 }
 
 /*# sourceMappingURL=main.css.map */
