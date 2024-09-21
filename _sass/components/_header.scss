@@ -1,0 +1,69 @@
+/*
+ * Full header styling
+ */
+
+// When hovering, links change from blue to red (Bulma overwrite)
+a.heading-anchor:hover,
+a.heading-anchor:visited:hover,
+a.heading-anchor:hover {
+  color: $red-dark;
+}
+
+/*
+ * Dark navbar (top hero)
+ */
+
+a.navbar-item {
+  color: $very-pale-pink;
+}
+
+a.navbar-item:focus,
+a.navbar-item:focus-within,
+a.navbar-item:hover,
+.navbar-link:focus,
+.navbar-link:focus-within,
+.navbar-link:hover,
+{
+  background: $pink-lighter;
+  color: $gray-darkest;
+}
+
+a.heading-anchor,
+a.heading-anchor:visited,
+.navbar-burger {
+  color: $pink-lighter;
+}
+
+/*
+ * Hero Banner
+ */
+
+// Custom title and subtitle colours
+.title a {
+  color: $pink;
+}
+.subtitle a {
+  color: $pink-lightest;
+}
+
+
+/*
+ * Dark tabs (bottom hero) (replaces side bar)
+ */
+// Dark by default and light up on hover/active
+.tabs.is-boxed li a {
+  color: $very-pale-pink;
+}
+
+// For active tabs we use a very light pink + dark txt
+.tabs.is-boxed li.is-active a {
+  background: $pink-lightest;
+  color: $gray-darkest;
+}
+
+// For hovered tabs we use a light pink + dark txt
+.tabs.is-boxed li a:hover {
+  background: $pink-lighter;
+  color: $gray-darkest;
+}
+

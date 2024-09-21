@@ -1,0 +1,31 @@
+/*
+ * Global content styling
+ */
+.content {
+  color: $gray-darkest;
+}
+
+/*
+ * Titles
+ */
+// Make the titles an itty bitty smaller
+.content h1 {
+  font-size: large;
+}
+
+.content h2 {
+  font-size: larger;
+}
+
+.content h3 {
+  font-size: medium;
+}
+
+/*
+ * Details (clickable element)
+ */
+.content details {
+  padding: 0 10px 10px 0;
+  background-color: $pink-lightest;
+  border-radius: 5px;
+}

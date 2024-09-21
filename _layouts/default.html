@@ -26,19 +26,21 @@
     <div class="search-bar">
         {% include searchbar.html %}
     </div>
-    <div class="container is-flex">
-        <div class="container">
-            <main class="content">
-                <div class="container">
+    <div class="container is-flex" id="page-body">
+        <div class="container is-three-quarters-desktop">
+            <main class="content pb-5">
+                <div class="p-2">
+                    <!-- Navigation links above title -->
                      {% include breadcrumbs.html %}
                 </div>
-                <div>
+                <div class="p-2">
+                    <!-- Page content wrapped in funny business -->
                     {% include anchor_headings.html html=content anchorBody="#" anchorClass="heading-anchor"%}
                 </div>
             </main>
         </div>
         <div>
-            <aside>
+            <aside class="container is-one-fourth-desktop p-2">
                 {% include toc.html %}
             </aside>
         </div>

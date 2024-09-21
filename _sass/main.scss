@@ -1,233 +1,92 @@
-// Set your brand colors
-$green: #437e73;
-$yellow: #d1a841;
-$orange: #c6844e;
-$orange-darker: #d6511b;
-$red-dark: #a70b0b;
-$gray-darker: #282828;
-$gray-dark: #383838;
-$gray: #656565;
-$gray-lighter: #aeacac;
-$gray-lightest: #c8c8c8;
-$beige-light: #ededed;
-$beige-lighter: #fafafa;
+// Selene
+$white: #FFFFFF;
+$very-pale-pink: #fff9f9;
+$pink-lightest: #fff1f2;
+$pink-lighter: #dcb4b6;
+$pink: #D7989EFF;
+$pink-darker: #CA7A7AFF;
+$light-brown: #A8A199FF;
+$medium-dark-brown: #4E4C4C;
 
-// Path to Bulma's sass folder
+$blue-lighter: #3f76cf;
+$blue: #0552aa;//#4c6ea6;
+$blue-gray: #6B81A5FF;
+$gray: #74757A;
+$gray-darkest: #222223;
+$red: #d84848;
+$red-dark: #872d2d;
+
+// Extra pastels
+$pastel-green: #E2EFDE;
+$pastel-cyan: #DBFCFF;
+$pastel-blue: #E1EFF6FF;
+$pastel-purple: #B4AED1;
+
+// Path to Bulma's sass folder, overwrite their variables with our theme
 @use "bulma/sass" with (
+  // Base styling
   $family-primary: '"Arial", sans-serif',
   $family-secondary: '"Georgia", serif',
-  $background: $beige-lighter,
 
   // Base palette
+  $white: $very-pale-pink,
   $grey: $gray,
-  $grey-darker: $gray-darker,
-  $grey-dark: $gray-dark,
-  $grey-light: $gray-lightest,
-  $primary: $green,
-  $info: $yellow,
-  $link: $orange,
-  $warning: $orange-darker,
+
+  // Brand palette
+  $primary: $pink,
+  $info: $pink-darker,
+  $link: $blue-lighter,
+  $success: $blue,
+  $warning: $red,
   $danger: $red-dark,
 
-  // Base elements
-  $content-heading-color: $green,
-  $content-blockquote-background-color: $beige-lighter,
-  $content-blockquote-border-left: $green,
-  $content-table-cell-border: $gray,
+  // Header
+  $title-color: $pink,
 
-  // Navbar
-  $navbar-item-color: $red-dark,
+  // Base content
+  $content-heading-color: $blue,
+  $content-blockquote-background-color: $white,
+  $content-blockquote-border-left: 5px solid $pink-darker,
+  $content-table-cell-border: 1px solid $gray,
+  $border: $pink-lightest,
 
   // Misc.
   $control-border-width: 2px,
   $input-shadow: none
 );
 
-a.heading-anchor {
-  color: $gray-lighter;
-}
+@import "components/_header";
+@import "components/_search_bar";
+@import "components/_contents";
+@import "components/_toc";
+@import "components/_footer";
 
-/* Styling variables
-:root {
-  --titles: #437e73;
-  --link: #c6844e;
-  --link-active: #ba5142;
-  --txt: #383838;
-  --dark-txt: #282828;
-  --dark-red: #a70b0b;
-  --light-grey: #c8c8c8;
-  --bg: #ededed;
-  --bg-darker: #d5d5d5;
-  --bg-lighter: #fafafa;
-  --fontsize1: 1.875em;
-  --fontsize2: 1.5em;
-  --fontsize3: 1.1em;
-  --fontsize4: 1em;
-  --code: "Source Code Pro", monospace;
-  --fonttitle: Georgia, serif;
-}
-*/
 /*
+ * Mobile
+ */
+
+// If we are using mobile, the Table of Contents doesn't fit next to page content
+@media screen and (max-width: 768px) {
+  #page-body {
+    flex-direction: column;
+  }
+}
+
+/*
+ * Global styling
+ */
+
 body {
-  font-family: Arial, sans-serif;
-  line-height: 1.6;
-  background-color: #ededed;
+  background-color: $very-pale-pink;
+  color: $gray-darkest;
 }
 
-.page-body {
-  background: var(--bg);
-  display: flex;
-  justify-content: space-between;
-}
-
-.container {
-  display: flex;
-}
-
-.content {
-  width: 70%;
-  padding: 1.825rem;
-  box-sizing: border-box;
-}
-
-.content h1 {
-  color: var(--txt);
-  font-size: var(--fontsize1);
-  font-weight: 600;
-  text-transform: uppercase;
-  font-family: var(--fonttitle), ui-sans-serif, sans-serif;
-  letter-spacing: -2px;
-}
-
-.content h2 {
-  color: var(--titles);
-  font-size: var(--fontsize2);
-  font-weight: 800;
-  font-family: var(--fonttitle), ui-sans-serif, sans-serif;
-}
-
-.content h3 {
-  color: var(--titles);
-  font-size: var(--fontsize3);
-  font-weight: 800;
-  font-family: var(--fonttitle), ui-sans-serif, sans-serif;
-}
-
-body, details, summary {
-  color: var(--dark-txt);
-  padding-bottom: 0.1em;
-}
-
-body b, body strong {
-  color: var(--txt);
-}
-
-table {
-  background-color: var(--light-grey);
-}
-
-p {
-  color: var(--txt);
-}
-
-a {
-  color: var(--link);
-}
-
-a:active {
-  color: var(--link-active);
+// Hovering over links turns them from blue to red
+a:hover {
+  color: $red-dark;
 }
 
 hr {
-  background-color: var(--light-grey);
+  background-color: $pink;
+  height: 1px;
 }
-
-li {
-  color: var(--txt);
-  font-size: var(--fontsize4);
-}
-
-input {
-  color: var(--bg-lighter);
-}
-
-.content li+li {
-  margin: 0;
-}
-
-.content img {
-  align-content: center;
-}
-
-.content .heading-anchor {
-  color: var(--light-grey);
-}
-
-.content table {
-  width: inherit;
-  background: var(--bg);
-  border-collapse: collapse;
-}
-
-.content thead {
-  background: var(--titles);
-}
-
-.content table th {
-  font-weight: bold;
-  text-align: center;
-  color: var(--bg-lighter);
-  border: none;
-}
-
-tbody tr:nth-child(odd) {
-  background-color: var(--bg-lighter);
-}
-
-tbody tr:nth-child(even) {
-  background-color: var(--bg);
-}
-
-.content tbody td {
-  border: 1px solid var(--light-grey);
-}
-
-.content article {
-  border: 2px solid var(--titles);
-  padding: 20px;
-  margin: auto;
-  border-radius: 10px;
-  background-color: var(--bg-lighter);
-}
-
-.content blockquote {
-  background-color: var(--bg-lighter);
-  padding: 10px 20px;
-  margin: 20px 0;
-  border-radius: 10px;
-  font-style: italic;
-  position: relative;
-}
-
-.content blockquote::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: -5px;
-  width: 5px;
-  background: var(--titles);
-  border-radius: 10px;
-}
-
-.content blockquote:after,
-.content q:before,
-.content q:after {
-  content: "";
-}
-
-code {
-  background: var(--bg);
-  color: var(--dark-red);
-}
-*/

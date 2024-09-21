@@ -1,0 +1,7 @@
+// Make the table of contents sticky on desktop only
+@media screen and (min-width: 768px) {
+  .toc-sidebar {
+    position: sticky;
+    top: 0;
+  }
+}

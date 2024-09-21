@@ -1,34 +1,9 @@
-<div class="menu is-primary toc-sidebar">
-  <h1 class="menu-label is-medium">Table of Contents</h1>
+<div class="menu toc-sidebar is-clickable">
+  <h1><a href="#" class="menu-label is-medium has-text-success has-text-weight-bold p-1">{{ page.title }}</a></h1>
   <nav>
-    <h2 class="menu-label is-medium">{{ page.title }}</h2>
-    <ul class="menu-list" id="toc-list">
+    <ul class="menu-list pt-2" id="toc-list">
       <!-- TOC will be generated here -->
     </ul>
   </nav>
 </div>
-
-<script>
-  document.addEventListener('DOMContentLoaded', function () {
-    const tocList = document.getElementById('toc-list');
-    const headings = document.querySelectorAll('h2, h3'); // Select h2 and h3 headings
-
-    headings.forEach(heading => {
-      const level = heading.tagName.toLowerCase() === 'h2' ? 2 : 3;
-      let id = heading.id || heading.textContent.trim().replace(/\s+/g, '-').toLowerCase();
-      if (!heading.id) {
-        heading.id = id; // Add an ID to the heading if it doesn't have one
-      }
-
-      const listItem = document.createElement('li');
-      listItem.classList.add(`toc-level-${level}`);
-
-      const anchor = document.createElement('a');
-      anchor.href = `#${id}`;
-      anchor.textContent = heading.textContent.trim().slice(0, -2);
-
-      listItem.appendChild(anchor);
-      tocList.appendChild(listItem);
-    });
-  });
-</script>
+<script src="/assets/js/toc.js"></script>
