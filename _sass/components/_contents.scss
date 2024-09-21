@@ -8,6 +8,7 @@
 /*
  * Titles
  */
+
 // Make the titles an itty bitty smaller
 .content h1 {
   font-size: large;
@@ -21,11 +22,25 @@
   font-size: medium;
 }
 
+.content a:visited {
+  color: $red-dark;
+}
+
 /*
  * Details (clickable element)
  */
 .content details {
   padding: 0 10px 10px 0;
-  background-color: $pink-lightest;
+  background-color: $pink-lighter;
   border-radius: 5px;
+}
+
+/*
+ * Misc.
+ */
+
+// Horizontal separators
+hr {
+  background-color: $pink;
+  height: 1px;
 }

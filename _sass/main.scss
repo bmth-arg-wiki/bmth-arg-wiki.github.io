@@ -56,10 +56,10 @@ $pastel-purple: #B4AED1;
 );
 
 @import "components/_header";
-@import "components/_search_bar";
-@import "components/_contents";
-@import "components/_toc";
-@import "components/_footer";
+//@import "components/_searchbar";
+//@import "components/_contents";
+//@import "components/_toc";
+//@import "components/_footer";
 
 /*
  * Mobile
@@ -83,10 +83,5 @@ body {
 
 // Hovering over links turns them from blue to red
 a:hover {
-  color: $red-dark;
-}
-
-hr {
-  background-color: $pink;
-  height: 1px;
+  color: $red;
 }
