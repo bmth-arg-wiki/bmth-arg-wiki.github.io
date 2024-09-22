@@ -1,7 +1,7 @@
 ---
 title: "About the Tinfoilers 👽"
 description: "This is our about us and credit page."
-categories: ["other"]
+categories: []
 tags: ["tinfoil society", "ARG", "bring me the horizon", "nex gen", "tinfoiling", 
 "theories"]
 ---
