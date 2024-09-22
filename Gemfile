@@ -12,7 +12,6 @@ gem "jekyll-github-metadata"
 
 group :jekyll_plugins do
   gem "jekyll-feed"
-  gem 'jekyll-toc'
   gem "jekyll-seo-tag"
   gem "jekyll-sitemap"
   gem "jekyll-paginate"

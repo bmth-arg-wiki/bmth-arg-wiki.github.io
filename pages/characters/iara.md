@@ -8,10 +8,10 @@ tags: ["iara", "ai", "chatbot", "arc/hive", "development", "machine learning", "
 
 # Iara
 
+![Iara's avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/iara/15iara.png)
+
 Iara is user 0015 and works at Nex Gen. She used to be user 0016, before the 
 update on June 4th 2024.
-
-![Iara's avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/iara/iara.png)
 
 ***
 

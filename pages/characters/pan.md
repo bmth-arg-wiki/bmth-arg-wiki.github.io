@@ -6,7 +6,7 @@ tags: ["pan", "pan's flute", "night of pan", "beautiful mistake", "raphael", "yo
 ---
 # Pan
 
-![Pan's avatar after turning pink](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/pan/pink_pan.png)
+![Pan's avatar after turning pink](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/pan/8pan.png)
 
 Omen of [Insight 1: Connection](../lore/insight1-connection). Before June 4th 2024, his number was 0009 in the system. 
 It is currently 0008. His skin tone also changed during a later update in June, giving his 

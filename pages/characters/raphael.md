@@ -8,9 +8,9 @@ tags: ["connection", "gabriel", "raphael", "uriel", "michael", "archangel", "sel
 
 # Raphael
 
-Raphael is one of the archangels and is linked to [Insight 1: Connection](../lore/insight1-connection).
+![Raphael's avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/raphael/4raphael.png)
 
-![Raphael's avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/raphael/raphael0004.png)
+Raphael is one of the archangels and is linked to [Insight 1: Connection](../lore/insight1-connection).
 
 Currently, he is user 0004 and 0007 in the system. It is unknown why this duplication 
 occurs.

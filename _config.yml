@@ -12,8 +12,4 @@ sass:
   style: compressed
 
 plugins:
-  - jekyll-toc
   - jekyll-anchor-tags
-
-toc:
-  insert_toc: false
