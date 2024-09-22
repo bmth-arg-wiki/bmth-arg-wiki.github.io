@@ -64,3 +64,8 @@ body {
 a:hover {
   color: variables.$red;
 }
+
+// Helper class to create the ARG font on the website
+.arg-font {
+  font-family: "arg-font", "sans-serif";
+}

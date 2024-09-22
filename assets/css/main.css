@@ -1,4 +1,8 @@
 @charset "UTF-8";
+@font-face {
+  font-family: "arg-font";
+  src: url("/assets/fonts/argfont.ttf");
+}
 /* Bulma Utilities */
 :root {
   --bulma-control-radius: var(--bulma-radius);
@@ -21726,6 +21730,10 @@ body {
 
 a:hover {
   color: #d84848;
+}
+
+.arg-font {
+  font-family: "arg-font", "sans-serif";
 }
 
 /*# sourceMappingURL=main.css.map */
