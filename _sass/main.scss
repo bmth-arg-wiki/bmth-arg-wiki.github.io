@@ -47,6 +47,7 @@
 @media screen and (max-width: variables.$mobile-width) {
   #page-body {
     flex-direction: column;
+    max-width: 70%;
   }
 }
 

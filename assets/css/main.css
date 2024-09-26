@@ -21633,7 +21633,7 @@ a.heading-anchor:visited,
 
 @media screen and (max-width: 1023px) {
   .navbar-menu.is-active {
-    background: #24292b;
+    background: #1f2525;
   }
 }
 /*
@@ -21666,9 +21666,10 @@ a.heading-anchor:visited,
 }
 
 @media screen and (min-width: 1023px) {
-  .toc-container {
+  #toc-container {
     position: sticky;
     top: 0;
+    min-width: 25%;
   }
 }
 /*
@@ -21711,6 +21712,7 @@ a.heading-anchor:visited,
 @media screen and (max-width: 1023px) {
   #page-body {
     flex-direction: column;
+    max-width: 70%;
   }
 }
 /*
