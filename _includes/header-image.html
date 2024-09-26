@@ -1,0 +1,60 @@
+<section class="hero header-background is-small">
+    <div class="hero-head">
+        <nav class="navbar">
+            <div class="container">
+                <!-- Navbar on top -->
+                <div class="navbar-brand">
+                    <a class="navbar-item" href="{{ site.baseurl }}/">
+                        <span class="icon">
+                            <i class="fa-solid fa-house"></i>
+                        </span>
+                    </a>
+                    <a class="navbar-item arg-font" href="{{ site.baseurl }}/pages/about">ABOUT</a>
+                    <a class="navbar-burger" role="button" aria-label="menu" aria-expanded="false" data-target="navbarMenuHeroA">
+                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true"></span>
+                    </a>
+                </div>
+
+                <!-- Items on the right, these also convert into the burger menu on mobile -->
+                <div id="navbarMenuHeroA" class="navbar-menu pb-1">
+                    <div class="navbar-end">
+                        <a class="navbar-item" href="{{ site.baseurl }}/pages/walkthrough/walkthrough">Walkthrough: Website</a>
+                        <a class="navbar-item" href="{{ site.baseurl }}/pages/walkthrough/walkthrough2">Walkthrough: FOR SOF</a>
+                        <span class="navbar-item">
+                          <a class="navbar-button is-dark has-text-white" href="https://github.com/bmth-arg-wiki/bmth-arg-wiki.github.io" target="_blank">
+                            <span class="icon">
+                              <i class="fab fa-github"></i>
+                            </span>
+                          </a>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </div>
+    <!-- Hero body/banner section -->
+    <div class="hero-body p-0">
+        <figure class="image is-fullwidth">
+            <img class="hero-banner" src="/assets/imgs/imagine_youtopia.PNG" alt="Imagine Youtopia Discord Contest Fanart">
+        </figure>
+    </div>
+    <!-- Hero footer with navigation tabs -->
+    <div class="hero-foot pt-1">
+        <nav class="tabs is-boxed is-fullwidth">
+            <div class="container">
+                <ul>
+                    <li class="is-active"><a href="{{ site.baseurl }}/">Home</a></li>
+                    <li><a href="{{ site.baseurl }}/pages/characters/characters">Characters</a></li>
+                    <li><a href="{{ site.baseurl }}/pages/for-sof/for-sof">Files</a></li>
+                    <li><a href="{{ site.baseurl }}/pages/lore/lore">Lore</a></li>
+                    <li><a href="{{ site.baseurl }}/pages/music/music">Music</a></li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+</section>
+<script src="/assets/js/hamburger.js"></script>
+<script src="/assets/js/tabs.js"></script>
