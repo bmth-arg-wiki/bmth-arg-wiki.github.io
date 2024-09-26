@@ -29,3 +29,5 @@ image: "Resources/lore/mantra/mantra-not-for-consumption.png"
 - [Multidimensional Navigator 8 (M8)](../m8.md)
 
 - [Night of Pan](night-of-pan.md)
+
+- [Post-Human NeX GEn Game Booklet](booklet.md)
