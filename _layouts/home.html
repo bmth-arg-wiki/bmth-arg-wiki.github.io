@@ -1,0 +1,48 @@
+<!-- _layouts/default.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% if page.tags %}
+    <meta name="keywords" content="{{ page.tags | join: ', ' }}">
+    {% endif %}
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="{{ page.url | relative_url }}" />
+    <meta property="og:image" content="{{ page.image | relative_url }}" />
+    <meta property="og:description" content="{{ page.description | strip_html | xml_escape }}" />
+    <meta property="og:site_name" content="{{ site.title }}" />
+    <title class="title">{{ page.title }}</title>
+    <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" type="image/x-icon">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <header class="header">
+        {% include header-image.html %}
+    </header>
+    <div class="search-bar">
+        {% include searchbar.html %}
+    </div>
+    <div class="container is-flex" id="page-body">
+        <div class="container is-three-quarters-desktop">
+            <main class="content pb-5">
+                <div class="p-2">
+                    <!-- Navigation links above title -->
+                     {% include breadcrumbs.html %}
+                </div>
+                <div class="p-2">
+                    <!-- Page content wrapped in funny business -->
+                    {% include anchor_headings.html html=content anchorBody="#" anchorClass="heading-anchor"%}
+                </div>
+            </main>
+        </div>
+    </div>
+    {% include modal.html %}
+    <footer class="footer">
+        {% include footer.html %}
+    </footer>
+</body>
+</html>

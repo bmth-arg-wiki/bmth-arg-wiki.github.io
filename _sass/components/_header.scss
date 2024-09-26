@@ -4,6 +4,10 @@
  * Full header styling
  */
 
+.header-background {
+  background: $gray-darkest;
+}
+
 // When hovering, links change from blue to red (Bulma overwrite)
 a.heading-anchor:hover,
 a.heading-anchor:visited:hover,
@@ -38,20 +42,8 @@ a.heading-anchor:visited,
 // Mobile styling
 @media screen and (max-width: $mobile-width){
   .navbar-menu.is-active {
-    background: $blue-success;
+    background: $gray-darker;
   }
-}
-
-/*
- * Hero Banner
- */
-
-// Custom title and subtitle colours
-.title a {
-  color: $pink;
-}
-.subtitle a {
-  color: $pink-lightest;
 }
 
 
