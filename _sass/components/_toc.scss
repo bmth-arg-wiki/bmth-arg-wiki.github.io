@@ -25,6 +25,12 @@
 /**
  * Headers
  */
+.toc-level-2,
+.toc-level-3 {
+  // Sometimes we're just gonna need more space
+  overflow-wrap: break-word;
+}
+
 .toc-level-2 a::before,
 .toc-level-3 a::before {
   content: '#';
