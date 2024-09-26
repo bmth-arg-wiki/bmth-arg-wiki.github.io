@@ -2,9 +2,13 @@
 
 @media screen and (min-width: $mobile-width) {
   #toc-container {
+    min-width: 25%;
+  }
+
+  // TOC is sticky on wider devices
+  #toc-aside {
     position: sticky;
     top: 0;
-    min-width: 25%;
   }
 }
 
