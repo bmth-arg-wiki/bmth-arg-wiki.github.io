@@ -2,35 +2,8 @@
     <div class="hero-head">
         <nav class="navbar">
             <div class="container">
-                <!-- Navbar on top -->
-                <div class="navbar-brand">
-                    <a class="navbar-item has-text-primary-90" href="{{ site.baseurl }}/">
-                        <span class="icon">
-                            <i class="fa-solid fa-house"></i>
-                        </span>
-                    </a>
-                    <a class="navbar-item arg-font" href="{{ site.baseurl }}/pages/about">ABOUT</a>
-                    <a class="navbar-burger" role="button" aria-label="menu" aria-expanded="false" data-target="navbarMenuHeroA">
-                        <span aria-hidden="true"></span>
-                        <span aria-hidden="true"></span>
-                        <span aria-hidden="true"></span>
-                        <span aria-hidden="true"></span>
-                    </a>
-                </div>
                 <!-- Top menu -->
-                <div id="navbarMenuHeroA" class="navbar-menu pb-1">
-                    <div class="navbar-end">
-                        <a class="navbar-item" href="{{ site.baseurl }}/pages/walkthrough/walkthrough">Walkthrough: Website</a>
-                        <a class="navbar-item" href="{{ site.baseurl }}/pages/walkthrough/walkthrough2">Walkthrough: FOR SOF</a>
-                        <span class="navbar-item">
-                          <a class="navbar-button is-dark has-text-white" href="https://github.com/bmth-arg-wiki/bmth-arg-wiki.github.io" target="_blank">
-                            <span class="icon">
-                              <i class="fab fa-github"></i>
-                            </span>
-                          </a>
-                        </span>
-                    </div>
-                </div>
+                {% include header-top-navbar.html %}
             </div>
         </nav>
     </div>
