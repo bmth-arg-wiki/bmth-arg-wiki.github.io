@@ -1,21 +1,27 @@
-<div class="container">
+<div class="container mt-4">
     <div class="search is-centered">
         <form id="search-form" action="javascript:void(0);" class="field has-addons">
-            <div class="control is-expanded">
-                <input type="text" id="search" class="input" placeholder="Search...">
+            <div class="control has-icons-left is-expanded">
+                <input type="text" id="search" class="input is-normal is-link" placeholder="Search...">
+                <span class="icon is-small is-left">
+                  <i class="fas fa-search"></i>
+                </span>
             </div>
             <div class="control">
-                <button type="button" id="clear-button" class="button" aria-label="Clear search">
+                <button type="button" id="clear-button" class="button is-danger is-normal" aria-label="Clear search">
                     <i class="fa fa-times"></i>
                 </button>
             </div>
             <div class="control">
-                <button type="submit" id="search-button" class="button" aria-label="Search the wiki">
-                    <i class="fa fa-search"></i>
+                <button type="submit" id="search-button" class="button is-success is-normal" aria-label="Search the wiki">
+                    <i class="fa fa-check"></i>
                 </button>
             </div>
         </form>
-        <div id="search-result" class="box" style="display:none;"></div>
+        <div id="search-result" class="box" style="display:none;">
+            <h2>Search results:</h2>
+            <!-- Search results are added here through JS -->
+        </div>
     </div>
 </div>
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>

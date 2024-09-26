@@ -15,39 +15,43 @@
     <meta property="og:site_name" content="{{ site.title }}" />
     <title class="title">{{ page.title }}</title>
     <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" type="image/x-icon">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.1/css/bulma.min.css">
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-    <link rel="stylesheet" href="{{ '/assets/css/search.css' | relative_url }}">
-    <link rel="stylesheet" href="{{ '/assets/css/sidebar.css' | relative_url }}">
-    <link rel="stylesheet" href="{{ '/assets/css/breadcrumbs.css' | relative_url }}">
-    <link rel="stylesheet" href="{{ '/assets/css/gallery.css' | relative_url }}">
-    <link rel="stylesheet" href="{{ '/assets/css/headerfooter.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 <body>
+    <!-- Header -->
     <header class="header">
         {% include header.html %}
     </header>
+    <!-- Search -->
     <div class="search-bar">
         {% include searchbar.html %}
     </div>
-    <div class="page-body">
-        <aside class="menu">
-            {% include sidebar.html %}
-        </aside>
-        <main class="content">
-            <div>
-                 {% include breadcrumbs.html %}
-            </div>
-            <div>
-                {% include anchor_headings.html html=content anchorBody="#" anchorClass="heading-anchor"%}
-            </div>
-        </main>
-        <aside>
-            {% include toc.html %}
-        </aside>
+    <!-- Page-specific content -->
+    <div class="container is-flex" id="page-body">
+        <div class="container">
+            <main class="content pb-5">
+                <div class="p-2">
+                    <!-- Navigation links above title -->
+                     {% include breadcrumbs.html %}
+                </div>
+                <div class="p-2">
+                    <!-- Page content wrapped in funny business -->
+                    {% include anchor_headings.html html=content anchorBody="#" anchorClass="heading-anchor"%}
+                </div>
+            </main>
+        </div>
+        <!-- Table of Contents: pages only (not on homepage) -->
+        <div class="toc-container" id="toc-container">
+            <aside class="container p-2">
+                {% include toc.html %}
+            </aside>
+        </div>
     </div>
+    <!-- Page modal -->
     {% include modal.html %}
+    <!-- Footer -->
     <footer class="footer">
         {% include footer.html %}
     </footer>

@@ -1,11 +1,18 @@
 # Exclude locally hosted for-sof
 _site/*
+_sass/
 
 # Exclude IDE for-sof
 .idea/*
 
-assets/scripts/
+# Handy scripts for funny business don't need to be on git
+scripts/
 
 # EXCLUDE RUBY ENVIRONMENTS THEY BREAK THE BUILD
 /~/
 /Gemfile.lock
+
+# Exclude node modules
+/node_modules
+
+/package-lock.json

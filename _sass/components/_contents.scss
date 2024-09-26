@@ -1,0 +1,49 @@
+@use "../variables" as *;
+
+/*
+ * Global content styling
+ */
+.content {
+  color: $gray-darkest;
+}
+
+/*
+ * Titles
+ */
+
+// Make the titles an itty bitty smaller
+.content h1 {
+  font-size: large;
+}
+
+.content h2 {
+  font-size: larger;
+}
+
+.content h3 {
+  font-size: medium;
+}
+
+.content a:visited {
+  color: $red-dark;
+}
+
+/*
+ * Details (clickable element)
+ */
+.content details {
+  padding: 10px;
+  margin: 10px;
+  background-color: $pink-lightest;
+  border-radius: 5px;
+}
+
+/*
+ * Misc.
+ */
+
+// Horizontal separators
+.content hr {
+  background-color: $pink;
+  height: 1px;
+}
