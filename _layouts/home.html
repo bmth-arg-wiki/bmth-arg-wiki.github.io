@@ -20,12 +20,15 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 <body>
+    <!-- Header -->
     <header class="header">
         {% include header-image.html %}
     </header>
+    <!-- Search -->
     <div class="search-bar">
         {% include searchbar.html %}
     </div>
+    <!-- Page body -->
     <div class="container is-flex" id="page-body">
         <div class="container">
             <main class="content pb-5">
@@ -40,7 +43,9 @@
             </main>
         </div>
     </div>
+    <!-- Modal for image viewer -->
     {% include modal.html %}
+    <!-- Footer -->
     <footer class="footer">
         {% include footer.html %}
     </footer>
