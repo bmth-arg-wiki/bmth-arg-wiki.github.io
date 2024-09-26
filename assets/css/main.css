@@ -21666,9 +21666,6 @@ a.heading-anchor:visited,
 }
 
 @media screen and (min-width: 1023px) {
-  #toc-container {
-    min-width: 25%;
-  }
   #toc-aside {
     position: sticky;
     top: 0;

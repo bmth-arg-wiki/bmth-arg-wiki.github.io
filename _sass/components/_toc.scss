@@ -1,10 +1,6 @@
-@use "../variables" as *; // Import variables from the variables file
+@use "../variables" as *;
 
 @media screen and (min-width: $mobile-width) {
-  #toc-container {
-    min-width: 25%;
-  }
-
   // TOC is sticky on wider devices
   #toc-aside {
     position: sticky;
