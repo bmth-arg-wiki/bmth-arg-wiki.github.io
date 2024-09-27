@@ -90,7 +90,7 @@ This booklet came with deluxe editions of the Post Human NeX GEn cds and vinyls.
 >
 >A POST HUMAN STUDY
 >
->[story] **OVERVIEW** +OST
+>[story] **OVERVIEW**+OST
 >
 >In a world ravaged by a parasitic virus that decimated half of humanity, a beacon of hope emerged in the form of an AI robot named E.V.E. Tasked with saving what remained of civilization, E.V.E.’s journey began with a remarkable discovery – the key to immunity lay in the pineal gland, a small but potent gland in the brain. Through meticulous research, E.V.E. uncovered a link between the pineal gland’s function and immunity to the virus. One of the last known survivors, a young girl named Selene, possessed a high-functioning pineal gland and was immune to the virus. She exhibited a wisdom beyond her years, hinting at a deeper connection to the mysteries of the universe.
 >
@@ -118,5 +118,40 @@ This booklet came with deluxe editions of the Post Human NeX GEn cds and vinyls.
 >[lyrics to YOUtopia]
 >
 >**PG.002**
+
+> ## Page 003 and 004:
+>
+>A POST HUMAN STUDY
+>
+>**M8**[controls]+OST
+>
+>Operation: Kool-Aid [03:48]
+> 
+>By using the M8 controller, you can set the button configurations in any way you wish.
+>
+>POST HUMAN: NeX GeN is compatible with the MK-002 M8 controller.
+>
+> **(93)**
+>
+>
+> [Kool Aid lyrics are scattered in boxes through the two pages]
+>
+>
+>[Boxes pointing at parts of M8 scattered on the pages:]
+> 
+>☐ FRIENDSHIP PLATE
+> 
+>☐ ARMOR PLATING
+>
+>☐ GUIDANCE SYSTEM
+>
+>☐ EYE
+>☐ PROPULSION SYSTEM
+>
+> 
+> [lighter grey text will come at a later time]
+> 
+>[Genxsis logo] 
+> PG.003          PG.004
 
 
