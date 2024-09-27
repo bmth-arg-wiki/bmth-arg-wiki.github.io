@@ -648,8 +648,7 @@ This file gives us a new document, although you might want to read the
 
 ## Kngsl@yer_EncrypMsg.codek
 
-> 🛈 This file has not worked on the website so far, even though the two step 
-> process to access it has been completed.
+> 🛈 This puzzle is a bit difficult to solve and involves precise clicking within a time limit.
 
 The first step to unlock this file is to complete a puzzle within 8 minutes and 30 
 seconds.
@@ -697,6 +696,8 @@ You're going to need some numbers from the puzzle.
 
 The password is 23.2907, the sum of all the numbers we used for the puzzle pieces.
 </details>
+
+This gives us access to a [new video](../for-sof/kingslayercodec).
 
 ***
 
@@ -772,6 +773,36 @@ Relevant articles:
 - [In the Dark](../music/amo-in-the-dark) (speculated)
 
 ***
+
+## GOXMOG_SIGHTING.zip
+
+<details>
+<summary>Hint 1</summary>
+
+The password for this file can be found on Instagram.
+</details>
+<details>
+<summary>Hint 2</summary>
+
+Look for a post on BMTH's instagram where you can see sheet music. The last video will provide 
+you with the audio you need for the password.
+</details>
+<details>
+<summary>Solution</summary>
+{{ "
+Using this [Instagram post](https://www.instagram.com/p/C_lAuPBCBEA/?img_index=10), 
+the last slide contains piano audio. This can be translated into notes to reveal the password:
+
+cegfbdfagfdc
+
+" | markdownify }}
+</details>
+
+This file is about the majestic [Goxmog](../for-sof/goxmog) and will provide more insight into its unique anatomy.
+
+## Recovered_Chapel.mp4
+
+The password for this file is currently unknown.
 
 ## Read More
 
