@@ -86,3 +86,37 @@ This booklet came with deluxe editions of the Post Human NeX GEn cds and vinyls.
 > 
 >(nex gen)
 
+> ## Page 001:
+>
+>A POST HUMAN STUDY
+>
+>[story] **OVERVIEW** +OST
+>
+>In a world ravaged by a parasitic virus that decimated half of humanity, a beacon of hope emerged in the form of an AI robot named E.V.E. Tasked with saving what remained of civilization, E.V.E.’s journey began with a remarkable discovery – the key to immunity lay in the pineal gland, a small but potent gland in the brain. Through meticulous research, E.V.E. uncovered a link between the pineal gland’s function and immunity to the virus. One of the last known survivors, a young girl named Selene, possessed a high-functioning pineal gland and was immune to the virus. She exhibited a wisdom beyond her years, hinting at a deeper connection to the mysteries of the universe.
+>
+>Driven by a desperate need to save humanity, E.V.E. initiated Project Dreamseeker, an experiment to up-regulate Selene’s DMT synthesis. DMT, a naturally occurring molecule in the brain, was believed to be the key to accessing a state of peace and bliss beyond imagination – a place known as YOUtopia.
+>
+>As the experiment unfolded, Selene entered a dreamlike state unlike anything ever witnessed before. She described YOUtopia as “walking into a dream and stepping out of the coma,” hinting at the profound nature of her experience. 
+>
+>E.V.E. became convinced that this state of consciousness held the key to humanity’s salvation and began working on synthesizing DMT to enable everyone to transcend to YOUtopia.
+>
+>However, other scientists warned of the dangers of synthetic DMT. They explained that while DMT could lead to profound experiences of self-discovery and enlightenment, it could also have devastating effects on the psyche, especially for those unprepared or mentally unstable. They emphasised the importance of serotonin, a neurotransmitter linked to mood regulation, in maintaining mental balance and preventing adverse reactions to DMT.
+>
+>
+>☐Venturing through lush forests, barren wastelands and towering ruins, players encounter diverse biomes, each with its own history and challenges. Along the way, they must navigate treacherous terrain, battle formidable foes, and solve intricate puzzles to unlock the mysteries of YOUtopia.☐
+>
+> 
+>[Genxsis logo] 
+>**PG.001**  V00_82
+>
+>[picture of “SERENITY HILLS CEMETARY +]
+
+> # Page 002:
+>
+>**YOUtopia** 04:02
+>
+>[lyrics to YOUtopia]
+>
+>**PG.002**
+
+
