@@ -129,7 +129,7 @@ This booklet came with deluxe editions of the Post Human NeX GEn cds and vinyls.
 > 
 >By using the M8 controller, you can set the button configurations in any way you wish.
 >
->POST HUMAN: NeX GeN is compatible with the MK-002 M8 controller.
+>**POST HUMAN: NeX GeN** is compatible with the MK-002 M8 controller.
 >
 > **(93)**
 >
