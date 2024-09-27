@@ -123,7 +123,7 @@ $(function () {
                 $('#search-result').append(
                     '<a class="result-item" href="' +
                     searchResult[i].url +
-                    '"><div class="h1">' + emoji + ' ' +
+                    '"><div class="h2">' + emoji + ' ' +
                     searchResult[i].title +
                     '</div><div class="description">' +
                     (searchResult[i].description || 'No description available.') +

@@ -1,38 +1,31 @@
-<section class="hero is-primary is-medium">
+<section class="hero header-background">
     <div class="hero-head">
         <nav class="navbar">
             <div class="container">
-                <div class="navbar-brand">
-                    <a class="navbar-item" href="{{ site.baseurl }}/pages/about">The Tinfoil Society</a>
-                    <span class="navbar-burger" data-target="navbarMenuHeroA">
-            <span></span>
-          </span>
-                </div>
-                <div id="navbarMenuHeroA" class="navbar-menu">
-                    <div class="navbar-end">
-                        <a class="navbar-item" href="{{ '/' | relative_url }}">Home</a>
-                        <a class="navbar-item" href="{{ site.baseurl }}/pages/for-sof/for-sof" >FOR SOF</a>
-                        <a class="navbar-item" href="{{ site.baseurl }}/pages/characters/characters" >Characters</a>
-                        <a class="navbar-item" href="{{ site.baseurl }}/pages/walkthrough/walkthrough1">Walkthrough</a>
-                        <span class="navbar-item">
-                          <a class="navbar-button is-inverted" href="https://github.com/bmth-arg-wiki/bmth-arg-wiki.github.io" target="_blank">
-                            <span class="icon">
-                              <i class="fab fa-github"></i>
-                            </span>
-                          </a>
-                        </span>
-                    </div>
-                </div>
+                <!-- Top menu -->
+                {% include header-top-navbar.html %}
             </div>
         </nav>
     </div>
-    <div class="hero-body p-0">
+    <div class="hero-body">
         <div class="container">
-            <div class="title-container">
-                <p class="title"><a href="{{ site.baseurl }}/">BRING ME THE HORIZON</a></p>
-                <p class="subtitle"><a href="{{ site.baseurl }}/">ARG Wiki</a></p>
-            </div>
+            <p class="title arg-font p-1"><a class="has-text-primary" href="{{ site.baseurl }}/">BRING ME THE HORIZON</a></p>
+            <p class="subtitle p-1"><a class="has-text-primary-90" href="{{ site.baseurl }}/">ARG Wiki</a></p>
         </div>
     </div>
-    <!-- potential hero footer here later -->
+    <div class="hero-foot">
+        <nav class="tabs is-boxed is-fullwidth">
+            <div class="container">
+                <ul>
+                    <li class="is-active"><a href="{{ site.baseurl }}/">Home</a></li>
+                    <li><a href="{{ site.baseurl }}/pages/characters/characters">Characters</a></li>
+                    <li><a href="{{ site.baseurl }}/pages/for-sof/for-sof">Files</a></li>
+                    <li><a href="{{ site.baseurl }}/pages/lore/lore">Lore</a></li>
+                    <li><a href="{{ site.baseurl }}/pages/music/music">Music</a></li>
+                </ul>
+            </div>
+        </nav>
+    </div>
 </section>
+<script src="/assets/js/hamburger.js"></script>
+<script src="/assets/js/tabs.js"></script>

@@ -1,0 +1,41 @@
+@use "../variables" as *;
+
+@media screen and (min-width: $mobile-width) {
+  // TOC is sticky on wider devices
+  #toc-aside {
+    position: sticky;
+    top: 0;
+  }
+}
+
+/*
+ * Menu (overall) styling
+ */
+.menu-list,
+.menu-list a,
+.menu-list button,
+.menu-list .menu-item {
+  background-color: $pink-lightest;
+}
+
+/**
+ * Headers
+ */
+.toc-level-2,
+.toc-level-3 {
+  // Sometimes we're just gonna need more space
+  overflow-wrap: break-word;
+}
+
+.toc-level-2 a::before,
+.toc-level-3 a::before {
+  content: '#';
+  color: $pink;
+  display: inline-block;
+  padding: 0.25em;
+  font-size: small;
+}
+
+.toc-level-3 {
+  padding-left: 15px;
+}

@@ -1,0 +1,71 @@
+@use "variables";
+
+// Path to Bulma's sass folder, overwrite their variables with our theme
+@use "bulma/sass" with (
+  // Base styling
+  $family-primary: '"Arial", sans-serif',
+
+  // Base palette
+  $white: variables.$very-pale-pink,
+  $grey: variables.$gray,
+
+  // Brand palette
+  $primary: variables.$pink,
+  $info: variables.$pink-darker,
+  $success: variables.$blue-success,
+  $link: variables.$blue-link,
+  $warning: variables.$red,
+  $danger: variables.$red-dark,
+
+  // Header
+  $title-color: variables.$pink,
+
+  // Base content
+  $content-heading-color: variables.$blue-link,
+  $content-blockquote-background-color: variables.$white,
+  $content-blockquote-border-left: 5px solid variables.$pink-darker,
+  $content-table-cell-border: 1px solid variables.$gray,
+  $border: variables.$pink-lightest,
+
+  // Misc.
+  $control-border-width: 2px,
+  $input-shadow: none
+);
+
+@use "components/_contents";
+@use "components/_header";
+@use "components/_search_bar";
+@use "components/_search_results";
+@use "components/_toc";
+@use "components/_footer";
+
+/*
+ * Mobile
+ */
+
+// If we are using mobile, the Table of Contents doesn't fit next to page content
+@media screen and (max-width: variables.$mobile-width) {
+  #page-body {
+    flex-direction: column;
+    max-width: 70%;
+  }
+}
+
+/*
+ * Global styling
+ */
+
+body {
+  background-color: variables.$very-pale-pink;
+  color: variables.$gray-darkest;
+}
+
+// Hovering over links turns them from blue to red
+a:hover {
+  color: variables.$red;
+}
+
+// Helper class to create the ARG font on the website
+.arg-font {
+  font-family: "arg-font", "sans-serif";
+}

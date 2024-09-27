@@ -1,0 +1,10 @@
+@use "../variables" as *; // Import variables from the variables file
+
+/*
+ * Global footer styling
+ */
+
+.footer {
+  background: $very-pale-pink;
+  color: $gray-darkest;
+}
