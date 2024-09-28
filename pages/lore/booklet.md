@@ -2,18 +2,20 @@
 title: "Post Human NeX GEn Game Booklet"
 description: "The booklet in the nex gen cd and vinyl."
 categories: ["lore", "other-webpages"]
-tags: ["lore", "nex gen", "booklet"]
+tags: ["lore", "nex gen", "booklet", "post human", "album"]
 ---
 
 # Post Human NeX GEn Game Booklet
 
-> This page is currently being built, hence why there isn't a gallery and full transcription yet! 
+> This page is currently being built, hence why there isn't a full transcription yet! 
 
 This booklet came with deluxe editions of the Post Human NeX GEn cds and vinyls.
 
 *** 
 
 # Gallery
+
+{% include gallery.html folder=lore/booklet/gallery" %}
 
 ***
 
