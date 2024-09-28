@@ -11,35 +11,33 @@ tags: ["eve", "ai", "ia", "evolutionary virtual experiment", "extremely violent 
 
 ![Eve's Avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/eve/0eve.png)
 
-EVE is user 0000 in the system and the 'big boss', as M8 calls her.
-It is implied that EVE is on earth, while we are not, from M8's voice lines.
+E.V.E. (Evolutionary Virtual Experiment) is user 0000.
 
-***
-
-## Abbreviations
-
-- E.V.E (Evolutionary Virtual Experiment) 
-- E.V.E/L (Extremely Violent Ersatz Lifeform)
+She is also known as E.V.E/L, which stands for Extremely Violent Ersatz Lifeform. M8 refers to her as the "big boss" in her WHO ARE YOU? speech.
+She also implies that E.V.E. is on earth while we are not.
 
 ***
 
 ## Backstory
 
-E.V.E's goal is to get her and [Strassman](./strassman)'s subjects into 
-[Youtopia](../lore/youtopia) using [P.U.S.S-E](../lore/pusse). 
+### Genesis
 
-While Strassman is very concerned about the effects of the [study](../lore/nex-gen-corporation#nex-gen-study) 
-on its subjects, E.V.E brushes them off as necessary sacrifices needed for a better future. 
-Both of them are researching [Selene](selene), the immune child mentioned in the Dreadit post. 
-This was confirmed by a [message from E.V.E.](../socials/eve-discord) on Discord.
-Due to her unique physiology, she still produces DMT (which P.U.S.S-E is based on) and they are 
-therefore interested in her pineal gland.
-They speak about "synthesizing her unique indole alkaloid structure" in the [Strassman codec](../for-sof/strassmancodec).
+E.V.E's exact origins are currently unknown. The [Lauren D8 log](../for-sof/lauren_d8_log) 
+does seem to indicate that E.V.E. gained sentience in 2037, showing remarkable capabilities 
+far outside what Ren expected her to be capable of.
 
-E.V.E. often slips up in her wording, often speaking about controlling humanity and then 
-correcting herself that she is saving humanity.
+Since we see many different versions of E.V.E, including at the real world live shows, it is currently 
+unclear whether this was the first version.
+
+The [Grumblr](../for-sof/grumblr) post also talks about an AI chatbot [Iara](iara) created, a 
+possible predecessor or primitive version of E.V.E.
+
+### Intentions
+
+E.V.E. often slips up in her wording, often speaking about controlling humanity then 
+promptly correcting herself into saying she wants to save it.
 It is certain that she has evil intentions, as we can see in the [Genesis Storyline](../lore/genesis-storyline) 
-Oli wrote for [Downloadfest](../lore/downloadfest).
+Oli wrote for [Downloadfest](../lore/downloadfest):
 
 > **E.V.E**
 >
@@ -56,38 +54,56 @@ constantly active.
 The same can be concluded from many live performances, where Oli instructs the fans to not listen to E.V.E. 
 and [Nex Gen](../lore/nex-gen-corporation).
 
-### Genesis
+### Current Goals
 
-E.V.E's exact origins are currently unknown. The [Lauren D8 log](../for-sof/lauren_d8_log) 
-does seem to indicate that E.V.E. gained sentience in 2037, showing remarkable capabilities 
-far outside what the scientists expected her to be capable of.
+As mentioned above, E.V.E. is at the head of [Nex Gen Corporation](../lore/nex-gen-corporation). She is also heavily affiliated with
+the [Church of Genxsis](../lore/church).
 
-Since we see many different versions of E.V.E, including at the real world live shows, it is currently 
-unclear whether this was their first version of E.V.E.
+Her goal is to get hers and [Strassman](./strassman)'s subjects into 
+[Youtopia](../lore/youtopia) using the revolutionary drug named [P.U.S.S-E](../lore/pusse). 
 
-The [Grumblr](../for-sof/grumblr) post also talks about an AI chatbot [Iara](iara) created, a 
-possible predecessor or primitive version of E.V.E.
-
-***
-
-## Read More
-
-- [E.V.E's messages on Discord](../socials/eve-discord)
-
-Relevant characters:
-
-- [Characters](../characters)
-- [Strassman](strassman)
-- [Selene](selene)
-
-Relevant lore:
-
-- [Nex Gen](../lore/nex-gen-corporation)
-- [Youtopia](../lore/youtopia)
-- [P.U.S.S-E](../lore/pusse)
+While Strassman is very concerned about the effects of the [study](../lore/nex-gen-corporation#nex-gen-study) 
+on its subjects, E.V.E brushes them off as necessary sacrifices needed for a better future. 
+Both of them are researching [Selene](selene), the immune child mentioned in the Dreadit post. 
+This was confirmed by a [message from E.V.E.](../socials/eve-discord) on Discord.
+Due to her unique physiology, she produces extraordinary amounts of DMT (which P.U.S.S-E is based on), and they are 
+therefore interested in her pineal gland.
+They speak about "synthesizing her unique indole alkaloid structure" in the [Strassman codec](../for-sof/strassmancodec).
 
 ***
 
 ## Gallery
 
 {% include gallery.html folder="characters/eve/gallery" %}
+
+***
+
+## Read More
+
+More [characters](characters)!
+
+Related files:
+
+- [Lauren D8 Log](../for-sof/lauren_d8_log)
+- [Strassman Codec](../for-sof/strassmancodec)
+- [Grumblr](../for-sof/grumblr)
+
+Related lore:
+
+- [Nex Gen Corporation](../lore/nex-gen-corporation)
+- [Church of Genxsis](../lore/church)
+- [YOUtopia](../lore/youtopia)
+- [P.U.S.S.-E](../lore/pusse)
+
+Related characters:
+
+- [Ren](ren)
+- [Iara](iara)
+- [Strassman](strassman)
+- [Selene](selene)
+
+Related articles:
+
+- [E.V.E's messages on Discord](../socials/eve-discord)
+- [Genesis Storyline](../lore/genesis-storyline)
+- [Download Festival](../lore/downloadfest)
