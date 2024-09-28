@@ -1,37 +1,40 @@
 ---
 title: "Vegan"
+description: "Vegan is the character for band member Matt Kean."
 categories: ["characters"]
+tags: ["vegan", "matt kean", "band", "bmth", "vision"]
 ---
 
 # Vegan
 
 ![Avatar for Vegan](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/vegan/1vegan.png)
 
-One of the stand-in characters for the band characters: Matt Kean. He is user 0001 in the system, 
-although the position of the first user in the system belongs to [0000 EVE](eve).
+Vegan is user 0001.
 
-
-The insight associated with Vegan is [Insight 4: Vision](../lore/insight4-vision).
-
-***
-
-## Read More
-
-- [Characters](../characters)
-
-Insight 4: Vision
-
-- [Insight 4: Vision](../lore/insight4-vision)
-- [Uriel](uriel)
-
-Other [band members](../characters#band-members):
-
-- [Syko](syko)
-- [Madman](madman)
-- [Pickles](pickles)
+He is the stand-in character for Matt Kean, BMTH's bassist. 
+He is related to the Fourth Insight: [Vision](../lore/insight4-vision), alongside archangel [Uriel](uriel) and omen [The Babylon](babylon.md).
 
 ***
 
 ## Gallery
 
 {% include gallery.html folder="characters/vegan/gallery" %}
+
+## Read More
+
+More [characters](characters)!
+
+Related lore:
+
+- [Insight 4: Vision](../lore/insight4-vision)
+
+Related characters:
+
+- [Archangel Uriel](uriel)
+- [The Babylon](babylon)
+
+Other [band members](../characters#band-members):
+
+- [Syko / Oli](syko)
+- [Madman / Lee](madman)
+- [Pickles/ Matt N.](pickles)
