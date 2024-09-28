@@ -387,7 +387,7 @@ Listen to Top 10 staTues tHat CriEd bloOd.
 <summary>Solution</summary>
 {{ "
 
-True fulfillment comes from "within", as we learn in the mono audio of [Top 10 staTues tHat CriEd bloOd](../music/song-top10).
+True fulfillment comes from 'within', as we learn in the mono audio of [Top 10 staTues tHat CriEd bloOd](../music/song-top10).
 
 " | markdownify }}
 </details>
@@ -598,15 +598,15 @@ The symbol on the password screen can be seen in an older music video.
 <details>
 <summary>Hint 2</summary>
 
-The password is "arc/hive".
-It is hidden in "In the Dark", which shows several references to 
+The password is 'arc/hive'.
+It is hidden in 'In the Dark', which shows several references to 
 a company with this name.
 </details>
 <details>
 <summary>Solution</summary>
 {{ "
 
-The password is "arc/hive".
+The password is 'arc/hive'.
 The password screen refers to the logo we see in [In the Dark](../music/amo-in-the-dark), 
 which takes place at a mysterious organization called ARC/HIVE.
 
