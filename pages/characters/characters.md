@@ -119,12 +119,13 @@ The following characters are omens of the [insights](../lore/insights):
 - [Pan — Connection](pan)
 - [Miseria — Empathy](miseria)
 - [Vanth: Princess of Darkness — Purpose](vanth)
+- [The Babylon - Vision](babylon)
 
 Uriel's insight is [Vision](../lore/insight4-vision), which has the omen 'the Babylon'. 
 It is unknown whether this refers to a character, or the real life Babalon.
 
 Pan's user number is 0009, Miseria's is 0010 and Vanth's is 0018. Pan might also 
-play a role in [Night of Pan](../lore/night-of-pan) ritual.
+play a role in [Night of Pan](../lore/night-of-pan) ritual. The Babylon does not have a user, and its appearance was only recently revealed on the [booklet](../lore/booklet).
 
 ***
 
