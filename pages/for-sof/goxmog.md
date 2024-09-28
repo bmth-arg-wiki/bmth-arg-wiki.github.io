@@ -3,6 +3,7 @@ title: "GOXMOG_SIGHTINGS.zip"
 description: "Contains pictures and a diagram of the goxmog creature."
 categories: ["for-sof"]
 tags: ["for sof", "youtopia", "goxmog", "nex gen", "goxethoromogetheus"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/goxmog/gallery/d_goxmog.jpg"
 ---
 
 # GOXMOG_SIGHTING.zip

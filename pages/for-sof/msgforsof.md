@@ -4,7 +4,7 @@ description: "The first file in the folder is an audio message from Selene to he
 who she says has been born not even 20 minutes ago. She has to leave Sof after an alarm goes off."
 categories: ["for-sof"]
 tags: ["sof", "selene", "mother", "m8", "birth", "destiny"]
-image: "/Resources/music/album_cover.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover.png"
 ---
 # msgforsoff.aiff
 
@@ -86,7 +86,7 @@ Related files:
 
 - [Capslock doc](capslock_doc)
 - [Selene's map](selenes_map)
-- [Dreadit post](dreadit)
+- [Dreaddit post](dreadit)
 - [Selene's journal](selene_personal_journal)
 
 Related articles:

@@ -5,7 +5,7 @@ The file described the LBR sites."
 categories: ["for-sof"]
 tags: ["arc/hive", "victor carmine", "karl strassman", "nex gen", "lesser banishing ritual", 
        "for sof", "pentagram", "energy overload", "incident"]
-image: "/Resources/for-sof/lbr_site.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/lbr_sites/lbr_site.png"
 ---
 
 # LBR_sites.Confidential.doc

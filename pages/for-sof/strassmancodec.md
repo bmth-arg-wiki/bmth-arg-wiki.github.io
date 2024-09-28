@@ -6,7 +6,7 @@ however, stating they must continue for the greater good of mankind."
 categories: ["for-sof"]
 tags: ["strassman", "eve", "youtopia", "for sof", "karl", "pusse", 
        "codec", "indole alkaloid structure", "neurological disturbances"]
-image: "/Resources/for-sof/strassman-pass-screen.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/strassman-pass-screen.png"
 ---
 
 # StrassmanCONFIDENTIALPRT007.CODEC
@@ -30,7 +30,7 @@ The password was found in a reversed audio of [a bullet w/my namE On](../music/s
 karl strassman
 </details>
 
-![img.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/strassman-pass-screen.png)
+![Strassman codec file password screen](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/strassman-pass-screen.png)
 
 ***
 

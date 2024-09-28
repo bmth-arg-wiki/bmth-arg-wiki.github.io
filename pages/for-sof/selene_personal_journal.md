@@ -6,7 +6,7 @@ likely already being infected."
 categories: ["for-sof"]
 tags: ["selene", "vspr", "scott", "youtopia", "synths", "diary", "syko", "soms", "for sof", 
        "vspr-37", "pandemic", "synth", "jenna", "carter", "lawson", "eli", "pharma"]
-image: "/Resources/for-sof/selene_diary/0.jpg"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/selene_diary/gallery/selene_diary1.jpg"
 ---
 
 # Selene_Personal_Journal_2037.02.doc

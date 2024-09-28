@@ -7,7 +7,7 @@ Dr. Lee MD speaks about the cult of MANTRA and Genxsis contains compromising inf
 for the company."
 tags: ["nex gen", "susan white", "unbeleevable", "dr lee md", "madman", "mantra", "church of genxsis", 
 "genxsis", "skys", "starjammers", "leak", "secret", "for sof", "novosovia"]
-image: "/Resources/for-sof/unbeleevable/gallery/doesntknowwhoheis.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/unbeleevable/gallery/doesntknowwhoheis.png"
 ---
 # Nex Gen leak "UNBELEEVABLE".doc
 

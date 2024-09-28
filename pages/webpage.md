@@ -5,6 +5,7 @@ categories: ["webpage"]
 tags: ["webpage", "m8", "multidimensional navigator", "8-line", "dashboard", "backgrounds", 
 "access card", "acid rain", "weather", "nocturne", "spyder", "codek", "codec", "nex gen", 
 "ARG", "post human"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/webpage-overview.png"
 ---
 
 # Multidimensional Navigator 8 Webpage

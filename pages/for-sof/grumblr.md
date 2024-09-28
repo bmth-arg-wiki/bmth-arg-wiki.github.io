@@ -7,7 +7,7 @@ categories: ["for-sof"]
 tags: ["grumblr", "rebecca sinclair", "iara", "arc/hive", "synths", "cers", "live journal", 
        "blood porridge", "chronic environmental respiratory syndrome", "dr. turner", "terminal", 
        "cat lady", "coding", "new-Seoul", "cyberia"]
-image: "/Resources/for-sof/grumblr/GRUMBLR-1.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/grumblr/gallery/a_GRUMBLR.png"
 ---
 
 # GRUMBLR.Rebecca_Sinclair_01142027
@@ -17,7 +17,7 @@ image: "/Resources/for-sof/grumblr/GRUMBLR-1.png"
 > "I'm a crazy cat lady who listens to old-school metalcore and watches anime."
 
 This file's name seems to be a play on Tumblr, just like [Dreaddit](dreadit) was a nod to Reddit.
-It contains an entry from [Rebecca Sinclair](../characters/rebecca) who has already been seen in [Tekka Magasine](tekka_interview). 
+It contains an entry from [Rebecca Sinclair](../characters/rebecca) who has already been seen in [Tekka Magazine](tekka_interview). 
 
 ***
 

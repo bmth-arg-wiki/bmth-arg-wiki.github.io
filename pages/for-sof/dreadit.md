@@ -6,7 +6,7 @@ categories: ["for-sof"]
 tags: ["dreadit", "nex gen", "youtopia", "for sof", "karl strassman", "pusse", 
        "immune child", "indole alkaloid structure", "pineal gland", "experiments", 
        "vspr-37"]
-image: "/Resources/for-sof/dreadit/dreadit.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/dreadit/dreadit.png"
 ---
 # DREADITScreenshot 2051.1.5.59.43.vis
 

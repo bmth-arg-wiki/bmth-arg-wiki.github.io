@@ -5,7 +5,7 @@ capital letters from the album itself. The email is currently unavailable and it
 what will happen to this file."
 categories: ["for-sof"]
 tags: ["selene", "capslock doc", "anagram", "dekode", "matrix", "concealed origins"]
-image: "/Resources/for-sof/capslock_doc/crate_selene.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/capslock_doc/gallery/crate_selene.png"
 ---
 
 # CAPSLOCK.DOC

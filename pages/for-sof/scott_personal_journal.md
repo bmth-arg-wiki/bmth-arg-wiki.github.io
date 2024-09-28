@@ -5,7 +5,7 @@ in the middle of the starting VSPR-37 pandemic."
 categories: ["for-sof"]
 tags: ["scott", "selene", "vspr", "diary", "youtopia", "syko", "oliver scott sykes", 
        "for sof", "vspr-37", "pandemic", "dear diary", "nexies", "oskar", "nyx 02", "terminated"]
-image: "/Resources/for-sof/scott_diary/0.jpg"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/scott_diary/gallery/a.jpg"
 ---
 
 # Scott_Personal_Journal_VSPR-37.doc
