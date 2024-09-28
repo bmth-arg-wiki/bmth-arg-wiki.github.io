@@ -163,7 +163,7 @@ This booklet came with deluxe editions of the Post Human NeX GEn cds and vinyls.
 >TONIGHT WE GO TO WAR 
 >[M8 systems logo]
 >
->**__NEW GAME__**
+>**NEW GAME**
 > 
 >☐Press the OPEN button on the [Dreamseeker©] Console, & insert the POST HUMAN: NeX GEn disc. After closing the disc cover, turn the power on & the [Dreamseeker©] logo will appear.☐
 >
@@ -180,7 +180,7 @@ This booklet came with deluxe editions of the Post Human NeX GEn cds and vinyls.
 >Now enjoy the game!
 >
 >
->**__LOAD GAME__**
+>**LOAD GAME**
 > 
 >☐Insert the POST HUMAN: NeX GEn disc into the [Dreamseeker©] console. Also insert your M8 system with your POST HUMAN: NeX GEn saved game into the M8 system slot then turn on the power.☐
 >
