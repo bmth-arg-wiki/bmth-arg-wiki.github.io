@@ -15,7 +15,7 @@ This booklet came with deluxe editions of the Post Human NeX GEn cds and vinyls.
 
 # Gallery
 
-{% include gallery.html folder=lore/booklet/gallery" %}
+{% include gallery.html folder="lore/booklet/gallery" %}
 
 ***
 
