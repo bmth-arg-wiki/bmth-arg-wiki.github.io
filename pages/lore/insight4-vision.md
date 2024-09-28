@@ -28,7 +28,7 @@ for the last insight (vision) has been named "creativity".
 
 - Song: **DIg It**
 - Archangel: [Uriel](../characters/uriel)
-- Omen: The Babylon
+- Omen: [The Babylon](../characters/babylon)
 - Direction: North
 - Relic: Golden Raspberry
 
@@ -99,6 +99,7 @@ More from [📁 FOR SOF](../for-sof)
 Related characters:
 
 - [Uriel](../characters/uriel)
+- [The Babylon](../characters/babylon)
 - [Vegan](../characters/vegan)
 
 Other insights:
