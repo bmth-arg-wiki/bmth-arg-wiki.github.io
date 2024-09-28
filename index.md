@@ -15,13 +15,19 @@ tags: ["lore", "for sof", "sof", "selene", "documents", "passwords", "rain", "bi
 image: "/Resources/webpage/webpage-overview.png"
 ---
 
-# Welcome to YOUtopia
+# Home
 
-> *"Where love is the law, a Youtopia"*
+{% include info.html 
+title="Where love is the law, a Youtopia" 
+icon="fa-solid fa-heart"
+content="Welcome to the Bring Me The Horizon ARG Wiki! We are here to help you get started." 
+%}
 
-Welcome to this wiki about BMTH's NexGen ARG. This is a work in progress, since this is an ongoing 
-ARG and new updates will be added regularly.
-This wiki will focus on objective information as much as possible and indicate whenever something is not confirmed.
+
+This wiki centers all around the mysteries around the album [POST HUMAN: NeX GEn](pages/music/ph-nex-gen). 
+The Alternate Reality Game, or ARG, is currently still developing and so are [we](pages/about). Our team will 
+try to regularly update the website and improve the look and experience. This wiki will focus on objective 
+information as much as possible and indicate whenever something is not confirmed.
 
 ***
 
@@ -74,11 +80,15 @@ they are discussed in their own article.
 
 ## Collaborators and conspirators
 
-While this wiki was created for facts,
-we also have a [notion site](https://the-secret-tinfoil-society.notion.site/BRING-ME-THE-HORIZON-ARG-6c86ee58ee3b41a6b0c594cf59201d4b?pvs=4)
-holding our theories and secrets.
+{% include info.html
+title="Grab your tinfoil hats!"
+icon="fa-solid fa-hat-wizard"
+content="The [Notion page]((https://the-secret-tinfoil-society.notion.site/BRING-ME-THE-HORIZON-ARG-6c86ee58ee3b41a6b0c594cf59201d4b?pvs=4)) 
+contains all of our latest theories. The wiki focuses on facts, high quality images and an introduction to the project."
+%}
 
-Want to get in on the project and lore discussions with our tinfoil society? Let us know in the Discord ARG server or email to 
+Want to get in on the project and lore discussions with our (not very) Secret Tinfoil Society? Join the discussion 
+on the [Bring Me The Horizon official Discord](https://discord.com/invite/bmthofficial) or email to 
 [bmthargwiki@gmail.com](mailto:bmthargwiki@gmail.com).
 
-[Read more about us 👀](pages/about)
+You can also read a little more [about us 👀](pages/about).
