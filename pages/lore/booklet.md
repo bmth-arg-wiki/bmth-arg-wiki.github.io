@@ -40,7 +40,7 @@ This booklet came with deluxe editions of the Post Human NeX GEn cds and vinyls.
 >
 >*Playing games while under the influence of p.u.s.s.-e may result in impaired judgement, distorted perception of time and space, and difficulty distinguishing between the virtual world and reality. Additionally, the heightened emotional sensitivity and altered sense of reality induced by the drug could exacerbate feelings of anxiety, paranoia, or disorientation. 
 >
->[Post Human NeX Gen logo]
+>[POST HUMAN: NeX GEn logo]
 
 > ## Intro right page:
 >
@@ -84,7 +84,7 @@ This booklet came with deluxe editions of the Post Human NeX GEn cds and vinyls.
 > 
 >[via Dreamseeker invocation]
 > 
->(nex gen)
+>**_(nex gen)_**
 
 > ## Page 001:
 >
@@ -106,10 +106,10 @@ This booklet came with deluxe editions of the Post Human NeX GEn cds and vinyls.
 >☐Venturing through lush forests, barren wastelands and towering ruins, players encounter diverse biomes, each with its own history and challenges. Along the way, they must navigate treacherous terrain, battle formidable foes, and solve intricate puzzles to unlock the mysteries of YOUtopia.☐
 >
 > 
+> V00_82    [Gameplay screenshot of SERENITY HILLS CEMETARY +] 
+> 
 >[Genxsis logo] 
->**PG.001**  V00_82
->
->[picture of “SERENITY HILLS CEMETARY +]
+>**PG.001**
 
 > # Page 002:
 >
@@ -134,9 +134,10 @@ This booklet came with deluxe editions of the Post Human NeX GEn cds and vinyls.
 > **(93)**
 >
 >
-> [Kool Aid lyrics are scattered in boxes through the two pages]
+> [Kool Aid lyrics are scattered in boxes throughout the two pages]
 >
->
+>[Big drawing of M8 on the pages]
+> 
 >[Boxes pointing at parts of M8 scattered on the pages:]
 > 
 >☐ FRIENDSHIP PLATE
@@ -146,12 +147,161 @@ This booklet came with deluxe editions of the Post Human NeX GEn cds and vinyls.
 >☐ GUIDANCE SYSTEM
 >
 >☐ EYE
+> 
 >☐ PROPULSION SYSTEM
 >
 > 
 > [lighter grey text will come at a later time]
 > 
 >[Genxsis logo] 
-> PG.003          PG.004
+> **PG.003          PG.004**
+
+> ## Page 005:
+>
+>014+012 
+>[barcode] 
+>TONIGHT WE GO TO WAR 
+>[M8 systems logo]
+>
+>**__NEW GAME__**
+> 
+>☐Press the OPEN button on the [Dreamseeker©] Console, & insert the POST HUMAN: NeX GEn disc. After closing the disc cover, turn the power on & the [Dreamseeker©] logo will appear.☐
+>
+>[Gameplay screenshot of Selene being experimented on]
+> 
+>The opening movie will play automatically, but you can skip it & all other cutscenes by pressing the START button.
+>
+>[Gameplay screenshot of the POST HUMAN: NeX GEn title screen]
+> 
+>After the title screen comes up, select START & press the X button or select CONTINUE to play where you left off.
+>
+>[Gameplay screenshot of Selene in front of something in armor]
+> 
+>Now enjoy the game!
+>
+>
+>**__LOAD GAME__**
+> 
+>☐Insert the POST HUMAN: NeX GEn disc into the [Dreamseeker©] console. Also insert your M8 system with your POST HUMAN: NeX GEn saved game into the M8 system slot then turn on the power.☐
+>
+>[POST HUMAN: NeX GEn cd]
+>
+>[Genxsis logo]
+>**PG.005**
+
+> ## Page 006:
+>
+>A POST HUMAN STUDY
+>
+>**HOW** [to] **PLAY**+OST
+>
+>**USING YOUR M8 SYSTEM**
+>
+>By using a M8 system you can save your game along the way. To use a M8 system (sold separately), insert into either slot 1 or 2 on your [Dreamseeker©]. This game requires one free block of memory for each saved game.
+>
+>**SAVING YOUR GAME**
+>
+>When you investigate a **YOUtopia Journal** in a biome you will be able to save your game onto your M8 system. Stand next to & face the **YOUtopia Journal** & press the **UP** button. After the save screen appears, select the M8 system slot & press the **DOWN** button. 
+>
+>04:00 +[the fights inside]
+>
+>**Top 10 staTues tHat CriEd blood**
+>
+>[Tp10STCB lyrics]
+>
+>**PG.006**
+
+> ## Page 007 and 008:
+>
+>A POST HUMAN STUDY
+> 
+>**SELENE’S MAP**+OST
+>
+>YOUtopia_NxExSxW_001_04:11_recording-005_
+> 
+>[53381102°N,1.4701223°W]+
+>
+>[[Selene’s map]](../for-sof/selenes_map)
+>
+>liMOusIne 
+>ft. AURORA
+>
+>[liMOusIne lyrics]
+>
+>**PG.007    PG.008**
+
+> ## Page 009 and 010:
+>
+>A POST HUMAN STUDY
+> 
+>**PROT**[AGONI]**STS**+OST
+>
+>THE HEX SIGIL IS ONE THAT CAN GUIDE YOU THROUGH LIFE WITH LUCK
+>
+>REAL TIME DISPLAY – 33X SOUL MAGNIFICATION THERMOGRAPHIC FILTER – from NEX GEN DREAMSEEKER OPERATION 93
+>
+>
+>[Drawings of Selene and Sof sideways across the two pages + smaller drawing of M8 on the right page]
+>
+>
+>S3l3ne.exe
+>
+>Configuration_001
+>
+> ### SELENE
+> 
+>☐Selene is a fearless adventurer on a quest of paramount importance in the fantastical realm of YOUtopia. With her unwavering determination and boundless courage, she journeys across this magical land, seeking to uncover ancient secrets and restore balance to the world. Armed with a deep sense of purpose, Selene faces countless challenges and dangers on her path, guided by the hope of fulfilling her destiny and bringing light to a world shrouded in darkness.◻︎ 
+>
+>⚔ ATTACK: 89 - ⛨️ DEFENCE: 77 - ✦ SPIRIT: 86
+>
+>**SPECIAL ABILITY:**
+> 
+>Selene possesses a high-functioning pineal gland & was one of the last know survivors of the virus that shattered humanity in the past.
+>
+>
+>s)0f_.exe
+> 
+>configuration_001
+>
+> ### SOF
+> 
+>◻︎Sof, born inside the Nex Gen Lab, embodies the promise of a new dawn. With the blood of adventurers coursing through their veins, they inherit the legacy of their mother, Selene, who left Sof in the care of an AI assistant “M8”. Surrounded by the wonders of this fantastical realm, Sof discovers the magic and mysteries that lie within.
+As they embark on her own journey of discovery, they start to put together the pieces of their fragmented family history, with the potential to reunite mankind.◻︎
+>
+>ATTACK: 15 ⚔ - DEFENCE: 10 ⛨ - SPIRIT: 90 ✦
+>
+>**SPECIAL ABILITY:**
+> 
+>Born a demigod with the power to bring light to the darkness.
+>
+>◻︎As Sof was born within the controlled environment of the Nex Gen Lab, they uncovered clues about their identity through the recordings left within M8. M8 was programmed with information that gradually revealed Sof’s true origins and the sacrifices Selene made.◻︎
+>
+>
+> ### M8
+> 
+>◻︎In the enchanting world of YOUtopia, M8 serves as a signal of guidance and companionship for Selene. With its state-of-the-art sensors and advanced communication systems, M8 is able to transmit grainy, low-frequency images and audio back to the Nex Gen Lab, providing invaluable insights and assistance.◻︎
+>
+>⚔ ATTACK: 05 - ⛨️ DEFENCE: 10 - ✦ SPIRIT: 34
+>
+>
+>V00_31
+>
+>
+>OPERATION: NEX GEN – OBJECT: ARCHANGEL
+>
+>[BMTH logo]
+> 
+>PH2
+> 
+>BRINGMETHEHORIZONⓇ
+> 
+>POST HUMAN – 002 – NXGN
+> 
+>(nex gen)
+> 
+>PH2222:2 Ω⌧⌧⌧
+>
+>[Genxsis logo]
+>**PG.009    PG.010**
 
 
