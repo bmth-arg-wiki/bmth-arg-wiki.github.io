@@ -10,17 +10,17 @@ tags: ["walkthrough", "arg", "bring me the horizon", "bmth", "password game", "q
        "operation trinity", "arc/hive", "tekka", "interview", "synth", "chronic environmental respiratory syndrome", 
        "cers", "project dust", "angeldust", "psy", "mares", "radiogenic leukotrichia", "pink hair", "unbeleevable", 
        "starjammers", "skys", "october palace", "mantra", "cult", "genxsis", "russian poem", "my dear love", 
-       "kingslayer", "nyx 01", "nyx 02", "grumblr", "rebecca sinclair", "lbr", "lbrp", "lesser banishing ritual"]
+       "kingslayer", "nyx 01", "nyx 02", "grumblr", "rebecca sinclair", "lbr", "lbrp", "lesser banishing ritual", "goxmog"]
 ---
 # Walkthrough Part 2: FOR SOF
 
 **[← previous](walkthrough)**
 
+> ℹ The passwords, hints, links and other spoilers in this article are all hidden. Click the arrows to expand any area
+to learn more and enjoy it your way!
+
 This folder of files is where most of the ARG takes place.
 First, we need to gain access to it!
-
-Passwords will be marked for spoilers, but this article will contain some 
-images and links related to the documents.
 
 ***
 
@@ -46,19 +46,39 @@ to be the password due to the time discrepancies on the webpage.
 
 You can find more explanations about the webpage by reading some related articles.
 
+<details>
+<summary>About the webpage</summary>
+{{ "
+
 - [Webpage](../webpage)
 - [Website songs](../music/website-songs)
 - [Website browser](../webbrowser)
 
+" | markdownify }}
+</details>
+
 ***
 
-### msgforsof.aiff
+## msgforsof.aiff
 
 The first file is an [audio log](../for-sof/msgforsof) that does not need a password.
 
+<details>
+<summary>Related lore</summary>
+{{ "
+
+Related files:
+
 - [msgforsof.aiff](../for-sof/msgforsof)
+
+Related characters:
+
 - [Sof](../characters/sof)
 - [Selene](../characters/selene)
+- [M8](../m8)
+
+" | markdownify }}
+</details>
 
 ***
 
@@ -67,7 +87,16 @@ The first file is an [audio log](../for-sof/msgforsof) that does not need a pass
 The second file is a document that also does not require a password.
 Before doing some more research, we recommend opening the next set of files first.
 
+<details>
+<summary>Related lore</summary>
+{{ "
+
+Related files:
+
 - [THEINSIGHTS.doc](../lore/insights)
+
+" | markdownify }}
+</details>
 
 ***
 
@@ -114,10 +143,13 @@ The fourth insight is 'vision' and can be found in the spectrogram
 in DIg It.
 </details>
 
-
 These files will tell us more about the lore, but we are only just at the start.
 
-Insights:
+<details>
+<summary>Related lore</summary>
+{{ "
+
+Related files:
 
 - [The Insights](../lore/insights)
 - [1. Connection](../lore/insight1-connection)
@@ -125,14 +157,7 @@ Insights:
 - [3. Purpose](../lore/insight3-purpose)
 - [4. Vision](../lore/insight4-vision)
 
-Songs:
-
-- [Top 10 staTues tHat CriEd bloOd](../music/song-top10)
-- [n/A](../music/song-na)
-- [[ost] puss-e](../music/song-pusse)
-- [DIg It](../music/song-digit)
-
-Characters:
+Related characters:
 
 - [Raphael](../characters/raphael)
 - [Pan](../characters/pan)
@@ -141,6 +166,16 @@ Characters:
 - [Michael](../characters/michael)
 - [Vanth](../characters/vanth)
 - [Uriel](../characters/uriel)
+
+Related music:
+
+- [Top 10 staTues tHat CriEd bloOd](../music/song-top10)
+- [n/A](../music/song-na)
+- [[ost] puss-e](../music/song-pusse)
+- [DIg It](../music/song-digit)
+
+" | markdownify }}
+</details>
 
 ***
 
@@ -171,7 +206,20 @@ By decoding the capital letters from the track list, we get
 
 Let's move on with the file actually intended to be next.
 
+<details>
+<summary>Related lore</summary>
+{{ "
+
+Related files:
+
 - [CAPSLOCK.DOC](../for-sof/capslock_doc)
+
+Related characters:
+
+- [Selene](../characters/selene)
+
+" | markdownify }}
+</details>
 
 ***
 
@@ -197,14 +245,32 @@ The password is the name of the character we see on the login screen. We
 get the name 'Karl Strassman' from a bulleT w/my namE On.
 </details>
 
+In this file we learn about Dr. Strassman, a mysterious employee of Nex Gen. We learn a lot more about his research 
+in later files.
 
-Learn more about Strassman in the related articles.
+<details>
+<summary>Related lore</summary>
+{{ "
+
+Related files:
 
 - [StrassmanCONFIDENTIALPRT007.CODEC](../for-sof/strassmancodec)
-- [Nex Gen Corporation](../lore/nex-gen-corporation)
+
+Related characters:
+
 - [Karl Strassman](../characters/strassman)
 - [E.V.E](../characters/eve)
+
+Related lore:
+
+- [Nex Gen Corporation](../lore/nex-gen-corporation)
+
+Related music:
+
 - [a bulleT w/my namE On](../music/song-abwmno)
+
+" | markdownify }}
+</details>
 
 ***
 
@@ -223,15 +289,30 @@ Look in the browser.
 <details>
 <summary>Solution</summary>
 
-The password is '1d1b2c2a' and can be found in the Spyder browser URL.
+The password is '1d1b2c2a' and can be found in the Spyder browser URL on the webpage itself.
 </details>
 
 This unlocks a Dreadit post with some comments on it.
 
+<details>
+<summary>Related lore</summary>
+{{ "
+
+Related files:
+
 - [DREADITScreenshot 2051.1.5.59.43.vis](../for-sof/dreadit)
-- [Nex Gen Corporation](../lore/nex-gen-corporation)
+
+Related characters:
+
 - [Selene](../characters)
+
+Related lore:
+
+- [Nex Gen Corporation](../lore/nex-gen-corporation)
 - [Neosages](../lore/mantra) (Spoiler-heavy for upcoming files)
+
+" | markdownify }}
+</details>
 
 ***
 
@@ -253,15 +334,19 @@ Make sure to catch all of M8's dialogue.
 <summary>Solution</summary>
 
 The password is M8's middle name: "clive". We hear this when prompting M8 through 
-the sticky note.
+the sticky note on the webpage itself.
 </details>
 
+We've now got the map, which will tell us a little more about Youtopia. This mysterious location plays a huge role 
+in the ARG overall and will introduce us to many new characters on [Selene](../characters/selene)'s journey.
 
-We've now got the map, which will tell us a little more about Youtopia.
+<details>
+<summary>Related lore</summary>
+{{ "
+
+Related files:
 
 - [YOUTOPIA_selenes_map.vis](../for-sof/selenes_map)
-- [Youtopia](../lore/youtopia)
-- [The Insights](../lore/insights)
 
 Related characters:
 
@@ -273,6 +358,14 @@ Related characters:
 - [Michael](../characters/michael)
 - [Vanth](../characters/vanth)
 - [Uriel](../characters/uriel)
+
+Related lore:
+
+- [Youtopia](../lore/youtopia)
+- [The Insights](../lore/insights)
+
+" | markdownify }}
+</details>
 
 ***
 
@@ -290,8 +383,11 @@ Listen to Top 10 staTues tHat CriEd bloOd.
 </details>
 <details>
 <summary>Solution</summary>
+{{ "
 
-True fulfillment comes from "within", as we learn in the mono audio of Top 10 staTues tHat CriEd bloOd.
+True fulfillment comes from "within", as we learn in the mono audio of [Top 10 staTues tHat CriEd bloOd](../music/song-top10).
+
+" | markdownify }}
 </details>
 
 
@@ -299,11 +395,13 @@ This gives us a spec sheet for some technology.
 
 <details>
 <summary>Related articles</summary>
+{{ "
 
 - [R8](../for-sof/r8)
 - [M8](../m8)
 - [D8](../for-sof/lauren_d8_log)
 
+" | markdownify }}
 </details>
 
 ***
@@ -326,12 +424,23 @@ You are looking for a 4-digit number.
 The password is Selene's user number in the M8 system, "0003".
 </details>
 
-
 You can learn more in the related articles, but we recommend unlocking [Scott's diary](#scott_personal_journal_vspr-37doc) 
-first.
+first to hear another side of the story.
+
+<details>
+<summary>Related lore</summary>
+{{ "
+
+Related files:
 
 - [Selene_Personal_Journal_2037.02.doc](../for-sof/selene_personal_journal)
+
+Related characters:
+
 - [Selene](../characters/selene)
+
+" | markdownify }}
+</details>
 
 ***
 
@@ -357,10 +466,25 @@ In this log we find out that his full name is Ikaro Lauren.
 </details>
 
 
-More details on this character and document can be found in the related articles.
+More details on this character and document can be found in the related articles. Later files 
+will give us much more insight into the Lauren family.
 
+<details>
+<summary>Related lore</summary>
+{{ "
+
+Related files:
+ 
 - [Lauren_D8_Log_203701.docx](../for-sof/lauren_d8_log)
+
+Related characters:
+
 - [Ren](../characters/ren)
+- [E.V.E](../characters/eve)
+- [Dallas Lauren](../characters/dallus-lauren)
+
+" | markdownify }}
+</details>
 
 ***
 
@@ -385,15 +509,30 @@ The password is Syko's user number in the [M8 system](../webpage), 0005.
 In this log we find out that Syko was still called Scott at 16 years old.
 </details>
 
-
 You can read more about Scott in the related articles. This file is strongly tied to 
-[Selene's diary](#selene_personal_journal_203702doc).
+[Selene's diary](#selene_personal_journal_203702doc). A later file will tell us what happened to Scott after 
+the journal.
+
+<details>
+<summary>Related lore</summary>
+{{ "
+
+Related files:
 
 - [Selene_Personal_Journal_2037.02.doc](../for-sof/selene_personal_journal)
-- [Selene](../characters/selene)
 - [Scott_Personal_Journal_VSPR-37.doc](../for-sof/scott_personal_journal)
+
+Related characters:
+
+- [Selene](../characters/selene)
 - [Syko](../characters/syko)
+
+Related music:
+
 - [Dear Diary,](../music/song-dear-diary)
+
+" | markdownify }}
+</details>
 
 ***
 
@@ -412,23 +551,38 @@ four pieces of text can be found that are not lyrics.
 </details>
 <details>
 <summary>Solution</summary>
+{{ "
 knife, hammer, poison, noose
+
+This solution was found in an [Instagram post](https://www.instagram.com/p/C8Ziq3_CVIy/).
 
 A silver tongue in the moon's embrace, violet streams of liquid grace => Knife
 The shatter of a porcelain dream, under the weight of silent beams. => Hammer (Although cup worked too)
 A serpent slips through the veins where hidden secrets bring. => Poison
 A tightening grip remains unseen, death will be, where life had been. => Noose
 
-https://www.instagram.com/p/C8Ziq3_CVIy/
+" | markdownify }}
 </details>
 
 
-This file is not in English. See the links below in case you need some help interpreting.
+This file is not in English, but its article provides a [translation](../for-sof/trinity_document#transcription). 
+We will learn a lot more about the characters involved in the next files!
 
+<details>
+<summary>Related lore</summary>
+{{ "
+
+Related files:
 - [Operation_Trinity_Analysis.xslx](../for-sof/trinity_document) (includes translation)
+
+Related characters:
+
 - [Karl Strassman](../characters/strassman)
 - [Skys](../characters/skys)
-- [Dallus Lauren](../characters/dallus-lauren)
+- [Dallas Lauren](../characters/dallus-lauren)
+
+" | markdownify }}
+</details>
 
 ***
 
@@ -448,24 +602,40 @@ a company with this name.
 </details>
 <details>
 <summary>Solution</summary>
+{{ "
 
 The password is "arc/hive".
-The password screen refers to the logo we see in In the Dark, 
+The password screen refers to the logo we see in [In the Dark](../music/amo-in-the-dark), 
 which takes place at a mysterious organization called ARC/HIVE.
+
+" | markdownify }}
 </details>
 
+This reveals a new document which centers on a specific character we'll learn more 
+about later.
 
-This reveals a new document which centers on a specific character.
+<details>
+<summary>Related lore</summary>
+{{ "
 
+Related files:
 - [ISSUE-51-fromhelltoshell.pdf 1](../for-sof/tekka_interview)
-- [Nex Gen Corporation](../lore/nex-gen-corporation)
-- [ARC/HIVE](../lore/archive)
 
 Related characters:
 
 - [Rebecca](../characters/rebecca)
 - [Karl Strassman](../characters/strassman)
-- [Dallus Lauren](../characters/dallus-lauren)
+- [Dallas Lauren](../characters/dallus-lauren)
+
+Related lore:
+
+- [Nex Gen Corporation](../lore/nex-gen-corporation)
+- [ARC/HIVE](../lore/archive)
+
+" | markdownify }}
+</details>
+
+
 
 ***
 
@@ -495,11 +665,12 @@ we can find the solution, reading the symbols from top to bottom.
 This gives us a lot more information on the people mentioned in the previous files 
 and their past.
 
+<details>
+<summary>Related lore</summary>
+{{ "
+
+Related files:
 - [Jan15_2031_declassified_PROJECT D.U.S.T. 2](../for-sof/project_dust)
-- [Nex Gen Corporation](../lore/nex-gen-corporation)
-- [ARC/HIVE](../lore/archive)
-- [Kool-Aid](../music/song-koolaid) (Music video)
-- [In the Dark](../music/amo-in-the-dark)
 
 Related characters:
 
@@ -509,6 +680,20 @@ Related characters:
 - [Dallus Lauren](../characters/dallus-lauren)
 - [Ikaro Lauren](../characters/ren)
 - [Syko](../characters/syko)
+
+Related lore:
+
+- [Nex Gen Corporation](../lore/nex-gen-corporation)
+- [ARC/HIVE](../lore/archive)
+
+Related music:
+
+- [Kool-Aid](../music/song-koolaid) (Music video)
+- [In the Dark](../music/amo-in-the-dark)
+
+
+" | markdownify }}
+</details>
 
 ***
 
@@ -534,8 +719,26 @@ a song in the music player info.
 
 This will unlock a newspaper with several areas you can zoom into.
 
+<details>
+<summary>Related lore</summary>
+{{ "
+
+Related files:
+ 
 - [SCISTUDYSCAN1999wrist.SCN](../for-sof/thesciencestudy)
+
+Related characters:
+
+- [Skys](../characters/skys)
+- [Strassman](../characters/strassman) (through field of study)
+
+Related music:
+
 - [Website songs](../music/website-songs)
+
+
+" | markdownify }}
+</details>
 
 ***
 
@@ -550,24 +753,34 @@ The password for this document was found on Instagram.
 <summary>Hint 2</summary>
 
 Find the Instagram post where there is a photo of Oli and an older Nex Gen document. 
-Zoom in on the document and you will find numbers you can match up to letters.
+Zoom in on the document, and you will find numbers you can match up to letters.
 </details>
 <details>
 <summary>Solution</summary>
+{{ "
 
-This requires the Instagram post where a Nex Gen doc is shown on a picture of Oli.
-It is not on the first slide.
-By zooming in on the doc we can see numbers, which correspond to letters in the words that 
-are circled.
-By switching them around, we can form the password: 'INTERCELLULAR'
+![Nex Gen Document](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/skys_starjammers/nexgendoc.jpg)
+![Relevant letters identified on the post](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/skys_starjammers/instagram_solve.jpg)
+
+This requires the [Instagram post](https://www.instagram.com/p/C9u_zsqu0cI/?img_index=8) where a Nex Gen doc is shown 
+on a picture of Oli on the 8th slide. By zooming in on the doc we can see numbers, which correspond to letters in the words that 
+are circled. By switching them around, we can form the password: 'INTERCELLULAR'
+" | markdownify }}
 </details>
 
 This will give us a poster.
+
+<details>
+<summary>Related lore</summary>
+{{ "
 
 - [Sky_&_The_Starjammers.png](../for-sof/skystarjammers)
 - [Skys](../characters/skys)
 - [Mantra cult](../lore/mantra)
 - [Mantra (song)](../music/amo-mantra)
+
+" | markdownify }}
+</details>
 
 ***
 
@@ -596,16 +809,27 @@ for this password, but there are different interpretations:
 2. "Deep in the forest, the blind one follows her every move"
 3. Lee Malia's son's name: Forrest (spelled with two r's)
 
-{{ "![object_archangel.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/unbeleevable/object_archangel.png)" | markdownify }}
+{{ "![Object archangel section from a tour poster](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/unbeleevable/object_archangel.png)" | markdownify }}
 
 </details>
 
 This file gives us access to an email and a video featuring one of the band members. 
 
+<details>
+<summary>Related lore</summary>
+{{ "
+
+- [Unbeleevable video on YouTube](https://www.youtube.com/watch?v=fQG3O6avUrw)
+
+Related files:
+
 - [Nex Gen leak ‘UNBELEEVABLE’.doc](../for-sof/unbeleevable)
 - [Skys & the Starjammers poster](../for-sof/skystarjammers)
 - [The Science Study newspaper](../for-sof/thesciencestudy)
-- [In The Dark](../music/amo-in-the-dark)
+- [Operation Trinity](../for-sof/trinity_document)
+
+Related lore:
+
 - [Mantra](../lore/mantra)
 - [Church of Genxsis](../lore/church)
 - [Church of Genxsis at Downloadfest](../lore/downloadfest)
@@ -616,6 +840,15 @@ Related characters:
 - [Dallus Lauren](../characters/dallus-lauren)
 - [Karl Strassman](../characters/strassman)
 - [Madman](../characters/madman) (maybe?)
+
+Related music:
+
+- [MANTRA](../music/amo-mantra)
+- [In The Dark](../music/amo-in-the-dark) (Dallas Lauren at ARC/HIVE after Operation Trinity)
+
+
+" | markdownify }}
+</details>
 
 ***
 
@@ -645,6 +878,17 @@ the pieces from the post, rotating and assembling them, we get the code '7795397
 
 This file gives us a new document, although you might want to read the 
 [translation](../for-sof/russianpoem#translated).
+
+<details>
+<summary>Related lore</summary>
+{{ "
+
+We currently know very little about this letter, but it is theorized to be from [Skys](../characters/skys).
+
+- [Russian Poem](../for-sof/russianpoem)
+
+" | markdownify }}
+</details>
 
 ## Kngsl@yer_EncrypMsg.codek
 
@@ -699,6 +943,25 @@ The password is 23.2907, the sum of all the numbers we used for the puzzle piece
 
 This gives us access to a [new video](../for-sof/kingslayercodec).
 
+<details>
+<summary>Related lore</summary>
+{{ "
+
+Relevant characters:
+- [Syko](../characters/syko)
+- [Selene](../characters/selene)
+
+Relevant files:
+- [Scott's Diary](../for-sof/scott_personal_journal)
+- [Selene's Diary](../for-sof/selene_personal_journal)
+
+Other relevant articles:
+- [Nex Gen Corporation](../lore/nex-gen-corporation)
+  " | markdownify }}
+</details>
+
+
+
 ***
 
 ## GRUMBLR.Rebecca_Sinclair_01142027
@@ -721,7 +984,11 @@ The password for the file is "14012".
 
 This will unlock the [Grumblr file](../for-sof/grumblr).
 
-Characters:
+<details>
+<summary>Related lore</summary>
+{{ "
+
+Relevant characters:
 - [Rebecca](../characters/rebecca)
 - [Iara](../characters/iara)
 - [Dallus](../characters/dallus-lauren)
@@ -730,6 +997,8 @@ Other relevant articles:
 - [ARC/HIVE](../lore/archive)
 - [Tekka Interview](../for-sof/tekka_interview)
 - [In the Dark](../music/amo-in-the-dark) (speculated appearance)
+  " | markdownify }}
+</details>
 
 ***
 
@@ -759,18 +1028,24 @@ This puzzle corresponds to the Insights on Selene's map.
 
 This will unlock a [mysterious new file](../for-sof/lbr_sites).
 
+<details>
+<summary>Related lore</summary>
+{{ "
+
 Relevant characters:
 
 - [EVE](../characters/eve)
 - [Karl Strassman](../characters/strassman)
-- [Dallus Lauren](../characters/dallus-lauren)
+- [Dallas Lauren](../characters/dallus-lauren)
 - [Victor Carmine](../characters#victor-carmine)
 
 Relevant articles:
 
 - [Nex Gen Corporation](../lore/nex-gen-corporation)
 - [ARC/HIVE](../lore/archive)
-- [In the Dark](../music/amo-in-the-dark) (speculated)
+- [In the Dark](../music/amo-in-the-dark)
+  " | markdownify }}
+</details>
 
 ***
 
@@ -799,6 +1074,16 @@ cegfbdfagfdc
 </details>
 
 This file is about the majestic [Goxmog](../for-sof/goxmog) and will provide more insight into its unique anatomy.
+
+<details>
+<summary>Related lore</summary>
+{{ "
+
+- [Goxmog](../for-sof/goxmog)
+- [Nex Gen Corporation](../lore/nex-gen-corporation)
+
+" | markdownify }}
+</details>
 
 ## Recovered_Chapel.mp4
 
