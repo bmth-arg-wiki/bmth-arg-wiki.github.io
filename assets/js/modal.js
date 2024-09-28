@@ -1,15 +1,13 @@
-const modal = document.querySelector('.modal');
+const modal = document.querySelector('#image-modal');
+const modalImage = modal.querySelector('#modal-image');
 
 const modalClose = document.querySelector('.modal-close');
 const modalBackground = document.querySelector('.modal-background');
-const modalImage = modal.querySelector('img');
 
 document.querySelectorAll('img').forEach(img => {
     img.addEventListener('click', (e) => {
         modal.classList.add('is-active');
-        console.log(modalImage.src + " | " + e.target.src)
         modalImage.src = e.target.src;
-        console.log('open')
     })
 })
 
@@ -22,6 +20,5 @@ modalClose.addEventListener('click', () => {
 })
 
 function closeModal(){
-    console.log("close")
     modal.classList.remove('is-active');
 }

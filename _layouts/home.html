@@ -24,10 +24,15 @@
     <header class="header">
         {% include header-image.html %}
     </header>
+
+    <!-- Modal for image viewer -->
+    {% include modal.html %}
+
     <!-- Search -->
     <div class="search-bar">
         {% include searchbar.html %}
     </div>
+
     <!-- Page body -->
     <div class="container is-flex" id="page-body">
         <div class="container">
@@ -43,11 +48,11 @@
             </main>
         </div>
     </div>
-    <!-- Modal for image viewer -->
-    {% include modal.html %}
+
     <!-- Footer -->
     <footer class="footer">
         {% include footer.html %}
     </footer>
+    <script src="/assets/js/modal.js"></script>
 </body>
 </html>
