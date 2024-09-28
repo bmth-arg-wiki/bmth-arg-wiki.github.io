@@ -20,10 +20,16 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 <body>
+
     <!-- Header -->
     <header class="header">
         {% include header.html %}
     </header>
+
+    <!-- Page modal -->
+    {% include modal.html %}
+
+
     <!-- Search -->
     <div class="search-bar">
         {% include searchbar.html %}
@@ -38,7 +44,8 @@
                 </div>
                 <div class="p-2">
                     <!-- Page content wrapped in funny business -->
-                    {% include anchor_headings.html html=content anchorBody="#" anchorClass="heading-anchor"%}
+                    {% assign modified_content = content | replace: '<img', '<img class="zoomable"' %}
+                    {% include anchor_headings.html html=modified_content anchorBody="#" anchorClass="heading-anchor"%}
                 </div>
             </main>
         </div>
@@ -49,11 +56,11 @@
             </aside>
         </div>
     </div>
-    <!-- Page modal -->
-    {% include modal.html %}
+
     <!-- Footer -->
     <footer class="footer">
         {% include footer.html %}
     </footer>
+    <script src="/assets/js/modal.js"></script>
 </body>
 </html>
