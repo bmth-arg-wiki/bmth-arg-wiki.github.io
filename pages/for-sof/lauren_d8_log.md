@@ -6,7 +6,7 @@ categories: ["for-sof"]
 tags: ["lauren", "dallus", "ikaro", "ren", "arc/hive", "eve", "d8", "technology", 
 "for sof", "artificial intelligence", "genesis", "digitised", "date", "archival", "temporal", 
 "entity", "ikara", "moxypak"]
-image: "/Resources/for-sof/lauren_d8_log/0.jpg"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/lauren_d8_log/gallery/a_lauren_d8.jpg"
 ---
 
 # Lauren_D8_Log_203701.docx

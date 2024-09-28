@@ -11,6 +11,7 @@ tags: ["walkthrough", "arg", "bring me the horizon", "bmth", "password game", "q
        "cers", "project dust", "angeldust", "psy", "mares", "radiogenic leukotrichia", "pink hair", "unbeleevable", 
        "starjammers", "skys", "october palace", "mantra", "cult", "genxsis", "russian poem", "my dear love", 
        "kingslayer", "nyx 01", "nyx 02", "grumblr", "rebecca sinclair", "lbr", "lbrp", "lesser banishing ritual", "goxmog"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/walkthrough.png"
 ---
 # Walkthrough Part 2: FOR SOF
 
@@ -19,7 +20,8 @@ tags: ["walkthrough", "arg", "bring me the horizon", "bmth", "password game", "q
 > ℹ The passwords, hints, links and other spoilers in this article are all hidden. Click the arrows to expand any area
 to learn more and enjoy it your way!
 
-This folder of files is where most of the ARG takes place.
+After exploring the ARG website for the first time, we can start to learn more by unlocking files. 
+`FOR SOF` is the folder of files where most of the ARG takes place.
 First, we need to gain access to it!
 
 ***

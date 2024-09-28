@@ -13,7 +13,7 @@ tags: ["lore", "for sof", "sof", "selene", "documents", "passwords", "rain", "bi
        "cers", "project dust", "angeldust", "psy", "mares", "radiogenic leukotrichia", "pink hair", "unbeleevable",
        "starjammers", "skys", "october palace", "mantra", "cult", "genxsis", "russian poem", "my dear love",
        "kingslayer", "nyx 01", "nyx 02", "grumblr", "rebecca sinclair", "lbr", "lbrp", "lesser banishing ritual", "goxmog"]
-image: "/Resources/for-sof/for_sof_password_prompt.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/for_sof_password_prompt.png"
 ---
 
 # FOR SOF

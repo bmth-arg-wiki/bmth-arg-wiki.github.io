@@ -3,6 +3,7 @@ title: "Other webpages"
 categories: ["other-webpages"]
 description: "Other webpages that may be of interest to the ARG, like genxsis.faith 
 and dungeoncrawl33r."
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/genxsis.faith/cypher.png"
 ---
 # Other webpages
 

@@ -4,6 +4,7 @@ description: "A catalogue of various E.V.E. messages on Discord."
 categories: ["characters", "socials"]
 tags: ["discord", "eve", "nex gen", "youtopia", "pusse", "insights", "selene", "connection", 
 "empathy", "purpose", "vision"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/eve/0eve.png"
 ---
 
 # E.V.E on Discord

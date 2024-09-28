@@ -3,6 +3,7 @@ title: "Social Media Posts"
 categories: ["socials", "archived"]
 description: "Important uncategorized social media posts."
 tags: ["social media", "bring me the horizon", "bmth", "arg"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/selene_poster.png"
 ---
 # Social Media Posts
 

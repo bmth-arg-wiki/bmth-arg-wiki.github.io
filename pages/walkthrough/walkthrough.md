@@ -4,6 +4,7 @@ description: "The first part of the walkthrough focuses on getting to the websit
 categories: ["walkthrough"]
 tags: ["walkthrough", "arg", "bring me the horizon", "bmth", "password game", "qr code", 
 "dig it", "sof", "for-sof", "serial number", "secrets"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/walkthrough.png"
 ---
 
 # Walkthrough Part 1: the Website

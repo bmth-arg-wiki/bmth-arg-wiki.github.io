@@ -6,7 +6,7 @@ categories: ["for-sof"]
 tags: ["skys", "mantra", "trinity", "victor carmine", "arc/hive", "dust", "psy", "syko", 
        "scott", "dallus lauren", "mares", "daughter", "special six", "altilium chordata", 
        "dreamseeker", "lead scientist", "elias mortem"]
-image: "/Resources/for-sof/project_dust/projectdust2.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/project_dust/gallery/a_projectdust.png"
 ---
 
 # Jan15_2031_declassified_PROJECT D.U.S.T. 2

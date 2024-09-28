@@ -6,7 +6,7 @@ categories: ["for-sof"]
 tags: ["selene", "youtopia", "sof", "clive", "m8", "pan", "omen", "miseria", "vanth", 
 "archangels", "raphael", "michael", "uriel", "gabriel", "pusse", "lesser banishing ritual", "pentagram", 
 "insights", "connection", "empathy", "vision", "purpose"]
-image: "/Resources/for-sof/map1.jpg"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/selenes_map/map1.jpg"
 ---
 
 # YOUTOPIA_selenes_map.vis
