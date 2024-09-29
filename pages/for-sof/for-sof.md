@@ -34,33 +34,8 @@ match the contents of what we see (at least not yet).
 
 ## Unlocked files
 
-This table contains two links: the filename links to a relevant article (if there is one), the folder icon will bring 
-you to the known information (including password) about the file itself.
-
-| File                                                                                                 | Status |
-|------------------------------------------------------------------------------------------------------|--------|
-| [msgforsoff.aiff](msgforsof)                                                                         | ✔️     |
-| [The Insight Documents](../lore/insights)                                                            | ✔️     |
-| [CAPSLOCK.DOC](capslock_doc)                                                                         | ✔️     |
-| [StrassmanCONFIDENTIALPRT007.CODEC](strassmancodec)                                                  | ✔️     |
-| [DREADITScreenshot 2051.1.5.59.43.vis](dreadit)                                                      | ✔️     |
-| [YOUTOPIA_selenes_map.vis](selenes_map)                                                              | ✔️     |
-| [R8/fulfilment_source[m0n0].doc](r8)                                                                 | ✔️     |
-| [Selene_Personal_Journal_2037.02.doc](selene_personal_journal)                                       | ✔️     |
-| [Lauren_D8_Log_203701.docx](lauren_d8_log)                                                           | ✔️     |
-| [Scott_Personal_Journal_VSPR-37.doc](scott_personal_journal)                                         | ✔️     |
-| [Operation_Trinity_Analysis.xslx](trinity_document)                                                  | ✔️     |
-| [ISSUE-51-fromhelltoshell.pdf 1](tekka_interview)                                                    | ✔️     |
-| [Jan15_2031_declassified_PROJECT D.U.S.T. 2](project_dust)                                           | ✔️     |
-| [SCISTUDYSCAN1999wrist.SCN](thesciencestudy)                                                         | ✔️     |
-| [Sky_&_The_Starjammers.png](skystarjammers)                                                          | ✔️     |
-| [Nex Gen leak 'UNBELEEVABLE'.doc](unbeleevable)                                                      | ✔️     |
-| [дорогая моя любовь.doc (Russian_poem.DOC)](russianpoem)                                             | ✔️     |
-| [Kingsl@yer_EncrypMsg.codek](kingslayercodec)                                                        | ✔️     |
-| [GRUMBLR.Rebecca_Sinclair_01142027](grumblr)                                                         | ️✔️    |
-| [LBR_sites.Confidential.doc](lbr_sites)                                                              | ️✔️    |
-| [GOXMOG_SIGHTINGS.zip](goxmog)                                                                       | ✔️️    |
-
+{% assign page_links = '/pages/for-sof/msgforsof, /pages/lore/insights, /pages/lore/insight1-connection, /pages/lore/insight2-empathy, /pages/lore/insight3-purpose, /pages/lore/insight4-vision, /pages/for-sof/capslock_doc, /pages/for-sof/strassmancodec, /pages/for-sof/dreadit, /pages/for-sof/selenes_map, /pages/for-sof/r8, /pages/for-sof/selene_personal_journal, /pages/for-sof/lauren_d8_log, /pages/for-sof/scott_personal_journal, /pages/for-sof/trinity_document, /pages/for-sof/tekka_interview, /pages/for-sof/project_dust, /pages/for-sof/thesciencestudy, /pages/for-sof/skystarjammers, /pages/for-sof/unbeleevable, /pages/for-sof/russianpoem, /pages/for-sof/kingslayercodec, /pages/for-sof/grumblr, /pages/for-sof/lbr_sites, /pages/for-sof/goxmog' | split: ", " %}
+{% include page-card-gallery.html links=page_links %}
 
 ## Locked files
 
@@ -100,9 +75,6 @@ These files currently all use [placeholder](#placeholders) screens.
 - Dreamseeker_Astral_Projection_Simulator.xc
 - NGX_Pyramid_of_Eternal_Knowledge_Encryption.ncpt
 - YOUTOPIA_Initiation.doc
-
-This article also contains information on [previous versions](#previous-versions) and the 
-[corrupted files](#corrupt-files).
 
 ***
 
@@ -150,5 +122,5 @@ with arrows buttons and page numbers 1-5.
 - [Character overview](../characters/characters)
 - [Lore overview](../lore/lore)
 - [Music overview](../music/music)
-- [Walkthrough: Website](../walkthrough/walkthrough1)
+- [Walkthrough: Website](../walkthrough/walkthrough)
 - [Walkthrough: FOR SOF](../walkthrough/walkthrough2)
