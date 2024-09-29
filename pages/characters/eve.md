@@ -5,6 +5,7 @@ Nex Gen corporation and works together closely with Dr. Karl Strassman."
 categories: ["characters"]
 tags: ["eve", "ai", "ia", "evolutionary virtual experiment", "extremely violent ersatz lifeform", 
 "selene", "pusse", "youtopia", "strassman", "nex gen"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/eve/0eve.png"
 ---
 
 # E.V.E

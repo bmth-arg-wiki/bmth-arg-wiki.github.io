@@ -1,8 +1,10 @@
 ---
 title: "Archangel Uriel"
+description: "Uriel is the archangel of Vision and resides in the North of Youtopia, according to Selene's map."
 categories: ["characters"]
 tags: ["vision", "gabriel", "raphael", "uriel", "michael", "archangel", "selene's map", 
 "north", "youtopia", "golden raspberry", "the babylon"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/uriel/2uriel.png"
 ---
 # Uriel
 

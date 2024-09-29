@@ -17,29 +17,8 @@ important names and how the characters relate to each other.
 
 ## System Users
 
-The following characters are mentioned on the website. Click on their name 
-to view their page:
-
-| Number            | Name                   | Categorisation                                                           |
-|-------------------|------------------------|--------------------------------------------------------------------------|
-| [0000](eve)       | [E.V.E.](eve)          | [Evil AI](../lore/genesis-storyline)                                     |
-| [0001](vegan)     | [Vegan](vegan)         | [Band member](#band-members)                                             |
-| [0002](uriel)     | [Uriel](uriel)         | [Archangel](#the-archangels)                                             |
-| [0003](selene)    | [Selene](selene)       | Protagonist, involved with [Nex Gen](../lore/nex-gen-corporation)        |
-| [0004](raphael)   | [Raphael](raphael)     | [Archangel](#the-archangels)                                             |
-| [0005](syko)      | [Syko](syko)           | [Band member](#band-members)                                             |
-| [0006](../m8)     | [M8](../m8)            | Technology                                                               |
-| [0007](raphael)   | [Raphael](raphael)     | [Archangel](#the-archangels)                                             |
-| [0008](pan)       | [Pan](pan)             | [Omen](#omens)                                                           |
-| [0009](miseria)   | [Miseria](miseria)     | [Omen](#omens)                                                           |
-| [0010](michael)   | [Michael](michael)     | [Archangel](#the-archangels)                                             |
-| [0011](pickles)   | [Pickles](pickles)     | [Band member](#band-members)                                             |
-| [0012](madman)    | [Madman](madman)       | [Band member](#band-members)                                             |
-| [0013](strassman) | [Strassman](strassman) | [Nex Gen](../lore/nex-gen-corporation) employee, [Trinity](#the-trinity) |
-| [0014](ren)       | [Ren](ren)             | [Nex Gen](../lore/nex-gen-corporation) employee                          |
-| [0015](iara)      | [Iara](iara)           | [Possible Nex Gen](../lore/nex-gen-corporation) employee                 |
-| [0016](gabriel)   | [Gabriel](gabriel)     | [Archangel](#the-archangels)                                             |
-| [0017](vanth)     | [Vanth](vanth)         | [Omen](#omens)                                                           |
+{% assign page_links = '/pages/characters/eve, /pages/characters/vegan, /pages/characters/uriel, /pages/characters/selene, /pages/characters/raphael, /pages/characters/syko, /pages/m8, /pages/characters/pan, /pages/characters/miseria, /pages/characters/michael, /pages/characters/pickles, /pages/characters/madman, /pages/characters/strassman, /pages/characters/ren, /pages/characters/iara, /pages/characters/gabriel, /pages/characters/vanth' | split: ", " %}
+{% include page-card-gallery.html links=page_links %}
 
 ***
 
@@ -98,17 +77,15 @@ characters to understand them better.
 
 ### The Archangels
 
-The archangels and their [insights](../lore/insights)
+The archangels are guardians of [Youtopia](../lore/youtopia) and all have their own [insights](../lore/insights).
 
-- [Raphael - Connection](raphael)
-- [Gabriel - Empathy](gabriel)
-- [Michael - Purpose](michael)
-- [Uriel - Vision](uriel)
+{% assign page_links = '/pages/characters/raphael, /pages/characters/gabriel, /pages/characters/michael, /pages/characters/uriel' | split: ", " %}
+{% include page-card-gallery.html links=page_links %}
 
 ![Spectrogram showing four angel-like figures](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/spectrograms/spectrogram-archangels.png)
 
 Angels can also be found in the [spectrograms](../music/spectrograms) in
-[(spi)ritual](../music/song-spiritual).
+[(spi)ritual](../music/song-spiritual). We learn more about these angels in the [deluxe album game booklet](../lore/booklet).
 
 ***
 
@@ -116,13 +93,11 @@ Angels can also be found in the [spectrograms](../music/spectrograms) in
 
 The following characters are omens of the [insights](../lore/insights):
 
-- [Pan — Connection](pan)
-- [Miseria — Empathy](miseria)
-- [Vanth: Princess of Darkness — Purpose](vanth)
-- [The Babylon - Vision](babylon)
+{% assign page_links = '/pages/characters/pan, /pages/characters/miseria, /pages/characters/vanth, /pages/characters/babylon' | split: ", " %}
+{% include page-card-gallery.html links=page_links %}
 
-Uriel's insight is [Vision](../lore/insight4-vision), which has the omen 'the Babylon'. 
-It is unknown whether this refers to a character, or the real life Babalon.
+Uriel's insight is [Vision](../lore/insight4-vision), which has the omen [the Babylon](babylon), which is not one of the 
+system users. The babylon is depicted as a three-headed snake in the [deluxe album booklet](../lore/booklet).
 
 Pan's user number is 0009, Miseria's is 0010 and Vanth's is 0018. Pan might also 
 play a role in [Night of Pan](../lore/night-of-pan) ritual. The Babylon does not have a user, and its appearance was only recently revealed on the [booklet](../lore/booklet).
@@ -131,20 +106,15 @@ play a role in [Night of Pan](../lore/night-of-pan) ritual. The Babylon does not
 
 ## Band Members
 
-![Band member tags on NexGen post](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/band_member_tags.png)
-In the NexGen we can see that the band members are all tagged.
+The following characters correspond to the members:
+
+{% assign page_links = '/pages/characters/syko, /pages/characters/vegan, /pages/characters/madman, /pages/characters/pickles' | split: ", " %}
+{% include page-card-gallery.html links=page_links %}
 
 ![Band member profile pictures.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/band_member_profiles.png)
-The band members have also all changed their profile pictures to characters 
-of the game, strongly implying that these are the band's in-universe characters.
 
-The following characters correspond to the members:
-- [Syko - Oliver Sykes](syko)
-- [Vegan - Matt Kean](vegan)
-- [Madman - Lee Malia](madman)
-- [Pickles - Mat Nicholls](pickles)
-
-Sykes/Syko is 0005, Kean/Vegan is 0001, Malia/Madman is 0012 and Nicholls/Pickles is 0011.
+We can find the evidence for this in the band's own instagram, where all of their profile pictures were changed to 
+correspond to the system users. Sykes/Syko is 0005, Kean/Vegan is 0001, Malia/Madman is 0012 and Nicholls/Pickles is 0011.
 
 ![Band cards](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/band-cards.png)
 
@@ -158,41 +128,40 @@ A promotional image of the band on cards also links them to the [four insights](
 
 The members of the Trinity are three people of interest, mentioned first in the [trinity document](../for-sof/trinity_document).
 
-#### Karl Strassman
+{% assign page_links = '/pages/characters/strassman, /pages/characters/skys, /pages/characters/dallus-lauren' | split: ", " %}
+{% include page-card-gallery.html links=page_links %}
 
 The first member is [Dr. Karl Strassman](strassman), a doctor that works with [Eve](eve), as 
 evidenced by the [strassman codec](../for-sof/strassmancodec). He is user 0014 on the [webpage](../webpage).
 
-#### Skys
-
-The second member is cult leader Skys, who we see in the music video for [Mantra](../music/amo-mantra). Some 
+The second member is cult leader [Skys](skys), who we see in the music video for [Mantra](../music/amo-mantra). Some 
 imagery related to Mantra also appears in the music video for [Sugar, Honey, Ice and Tea](../music/amo-shit).
 
-#### Dallus Lauren
-
-Dallus Lauren was the head of R&D at Arc/Hive (see [Project D.U.S.T.](../for-sof/project_dust)). 
+The last member is Dallas Lauren, who was the head of R&D at Arc/Hive (see [Project D.U.S.T.](../for-sof/project_dust)). 
 He passed away before 2037, as evidenced by the [D8 log](../for-sof/lauren_d8_log) from his son 
-[Ikaro (Ren) Lauren](ren). Dallus Lauren also invented the MOXYPAK and possibly synths, according to the 
+[Ikaro (Ren) Lauren](ren). Dallas Lauren also invented the MOXYPAK and possibly synths, according to the 
 same log. The project D.U.S.T. file explains that he suffers from mares, despite a desensitization protocol. 
-
-The following is speculation and has not been confirmed:
-
-One of the photos on the [trinity document](../for-sof/trinity_document) 
-also bears a strong resemblance to Forest Whitaker (actor) in the [In the Dark](../music/amo-in-the-dark) 
-music video, who seems to be going through what looks like this desensitization protocol. This video 
-also contains (a second version of) the altilium chordata tank we see in the project D.U.S.T. file.
+He is depicted in the music video for [In The Dark](../music/amo-in-the-dark) by Forest Whitaker, possibly 
+experiencing the desensitization protocol. This video also contains (a second version of) the altilium chordata 
+tank we see in the project D.U.S.T. file.
 
 ***
 
 ## Read More
 
-- Nex Gen, Arc/hive and Trinity
-  - [Nex Gen Corporation](../lore/nex-gen-corporation)
-  - [Trinity document](../for-sof/trinity_document)
-  - [Tekka Interview](../for-sof/tekka_interview)
-  - [Project D.U.S.T.](../for-sof/project_dust)
-  
-- Character Journals
-  - [Ren](../for-sof/lauren_d8_log)
-  - [Scott/Syko](../for-sof/scott_personal_journal)
-  - [Selene](../for-sof/selene_personal_journal)
+### Files
+
+Nex Gen, ARC/HIVE and Trinity:
+
+- [Nex Gen Corporation](../lore/nex-gen-corporation)
+- [ARC/HIVE](../lore/archive)
+- [Operation Trinity](../for-sof/trinity_document)
+- [Tekka Interview](../for-sof/tekka_interview)
+- [Project D.U.S.T.](../for-sof/project_dust)
+- [LBR Sites document](../for-sof/lbr_sites)
+ 
+Character Journals:
+
+- [Ren](../for-sof/lauren_d8_log)
+- [Scott/Syko](../for-sof/scott_personal_journal)
+- [Selene](../for-sof/selene_personal_journal)

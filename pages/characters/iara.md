@@ -4,6 +4,7 @@ description: "Iara used to work at ARC/HIVE and can now be seen on her tour post
 She is a talented coder, developing an AI chatbot at only 15 years old."
 categories: ["characters"]
 tags: ["iara", "ai", "chatbot", "arc/hive", "development", "machine learning", "rebecca sinclair"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/iara/15iara.png"
 ---
 
 # Iara

@@ -1,9 +1,11 @@
 ---
 title: "Archangel Michael"
-description: "Michael is one of the archangels, his insight being purpose."
+description: "Michael is one of the archangels, his insight being purpose. On the map of Youtopia, he is located in the 
+South."
 categories: ["characters"]
 tags: ["purpose", "gabriel", "raphael", "uriel", "michael", "archangel", "selene's map", 
 "pan", "youtopia", "pan's flute", "south"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/michael/10michael.png"
 ---
 # Michael
 

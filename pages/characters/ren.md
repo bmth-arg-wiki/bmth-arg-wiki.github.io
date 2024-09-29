@@ -1,6 +1,9 @@
 ---
 title: "Ren/Ikaro"
+description: "Ikaro Lauren, or Ren, is Dallas Lauren's son and an employee at Nex Gen. Ren is a trans man and could therefore still be the subject of 
+documents referring to Dallas' daughter."
 categories: ["characters"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/ren/14ren.png"
 ---
 # Ren
 

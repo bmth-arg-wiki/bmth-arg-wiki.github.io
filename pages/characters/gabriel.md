@@ -1,9 +1,10 @@
 ---
 title: "Archangel Gabriel"
-description: "Gabriel is the archangel of empathy."
+description: "Gabriel is the archangel of empathy. He resides in the west of Youtopia, according to Selene's map."
 categories: ["characters"]
 tags: ["empathy", "gabriel", "raphael", "uriel", "michael", "archangel", "selene's map", 
 "miseria", "guardian tears", "youtopia"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/gabriel/16gabriel.png"
 ---
 
 # Gabriel

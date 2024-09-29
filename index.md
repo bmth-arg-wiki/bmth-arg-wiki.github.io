@@ -37,10 +37,10 @@ There is a lot going on in this ARG! We get it if you are overwhelmed.
 This section will attempt to explain the most important sources.
 We also offer a walkthrough:
 
-1. [Walkthrough Part 1: The Website](pages/walkthrough/walkthrough)
-2. [Walkthrough Part 2: The FOR SOF folder](pages/walkthrough/walkthrough2)
+{% assign page_links = '/pages/walkthrough/walkthrough, /pages/walkthrough/walkthrough2' | split: ", " %}
+{% include page-card-gallery.html links=page_links %}
 
-Since this ARG is still ongoing, updates will be reflected in the walkthrough as soon as possible 🖤
+Since this ARG is still ongoing, updates will be reflected in the walkthrough as soon as possible. <i class="fa-solid fa-heart"></i>
 
 ### The Album
 
@@ -83,7 +83,7 @@ they are discussed in their own article.
 {% include info.html
 title="Grab your tinfoil hats!"
 icon="fa-solid fa-hat-wizard"
-content="The [Notion page]((https://the-secret-tinfoil-society.notion.site/BRING-ME-THE-HORIZON-ARG-6c86ee58ee3b41a6b0c594cf59201d4b?pvs=4)) 
+content="The [Notion page](https://the-secret-tinfoil-society.notion.site/BRING-ME-THE-HORIZON-ARG-6c86ee58ee3b41a6b0c594cf59201d4b?pvs=4)
 contains all of our latest theories. The wiki focuses on facts, high quality images and an introduction to the project."
 %}
 
