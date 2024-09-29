@@ -1,6 +1,11 @@
 ---
 title: "Selene"
+description: "Selene is one of the main protagonists of the story. Nex Gen refers to her as NYX-01 and has a keen 
+interest in her exceptional pineal gland and immunity to the virus."
 categories: ["characters"]
+tags: ["selene", "sof", "youtopia", "m8", "clive", "pusse", "strassman", "eve", "indole alkaloid structure", "pineal gland", 
+"mother", "protagonist"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/selene/3selene.png"
 ---
 # Selene
 

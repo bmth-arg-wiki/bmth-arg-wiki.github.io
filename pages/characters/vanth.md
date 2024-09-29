@@ -1,6 +1,9 @@
 ---
 title: "Vanth"
+description: "Vanth, the prince(ss) of Darkness is the mysterious omen of purpose. They carry the candle of Abremalin."
 categories: ["characters"]
+tags: ["vanth", "purpose", "omen", "candle of abremalin"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/vanth/17vanth.png"
 ---
 # Vanth
 
@@ -8,7 +11,8 @@ categories: ["characters"]
 
 Vanth was user 0018 in the system and is user 0017 as of the 4th of June 2024. 
 They are the Omen of [Insight 3: Purpose](../lore/insight3-purpose). In the documents, Vanth is referred to as a princess 
-in the [Purpose](../lore/insight3-purpose) document. 
+in the [Purpose](../lore/insight3-purpose) document. Both the map and the [deluxe album booklet](../lore/booklet) refer 
+to Vanth as 'prince' instead.
 
 ## Backstory
 
@@ -22,7 +26,7 @@ Vanth **Princess** of Death
 
 ![Vanth (male)](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/purpose/princeofdeath.png)
 
-Boss fight: **Prince** Of Death
+Boss fight: **Prince** Of Death. This is also how Vanth is referred to in the [deluxe album booklet](../lore/booklet).
 
 ***
 

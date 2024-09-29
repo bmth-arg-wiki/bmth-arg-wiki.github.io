@@ -1,14 +1,15 @@
 ---
-title: "Dallus Lauren"
-description: "Dallus Lauren is a scientist hoping to save the world from environmental collapse. 
+title: "Dallas Lauren"
+description: "Dallas Lauren is a scientist hoping to save the world from environmental collapse. 
 He was first involved with Mantra, then extracted from Novosovia by Operation Trinity. He later 
 worked for ARC/HIVE and his son Ikaro Lauren later continues his work at Nex Gen."
 categories: ["characters"]
 tags: ["dallus", "dallas", "lauren", "ikaro", "ren", "eve", "unbeleevable", "mantra", "arc/hive", 
 "nex gen", "skys", "strassman", "d8 log", "mares", "daughters", "moxypak", "environmental research"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/unbeleevable/gallery/dallus_lauren_unbeleevable.png"
 ---
 
-# Dallus Lauren
+# Dallas Lauren
 
 Dallus Lauren, also referred to as 'Dallas Lauren' in the [Unbeleevable](../for-sof/unbeleevable) 
 video, is one of [the Trinity](../characters#trinity).

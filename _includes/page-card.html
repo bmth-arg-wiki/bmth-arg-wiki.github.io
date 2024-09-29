@@ -1,0 +1,31 @@
+{% assign link_url = site.baseurl | append: include.link | append: '.html' %}
+{% assign linked_page = site.pages | where: "url", link_url | first %}
+
+{% if linked_page %}
+<div class="card is-flex is-flex-direction-column">
+    <div class="card-image is-align-self-flex-start">
+        <a href="{{ linked_page.url }}">
+            <figure class="image">
+                <img src="{{ linked_page.image }}" alt="Image for {{ linked_page.title }}">
+            </figure>
+        </a>
+    </div>
+    <div class="card-content is-flex-grow-1">
+        <div class="media">
+            <div class="media-content">
+                <a class="title is-5" href="{{ linked_page.url }}">{{ linked_page.title }}</a>
+                <p>{{ linked_page.description }}</p>
+            </div>
+        </div>
+    </div>
+    <div class="card-footer p-2 is-align-self-flex-end">
+        <div class="tags">
+            {% if page.categories %}
+            {% for category in linked_page.categories %}
+            <span class="tag has-background-primary-80"><a href="{{ site.baseurl }}/pages/{{ category }}/{{ category }}">{{ category | capitalize }}</a></span>
+            {% endfor %}
+            {% endif %}
+        </div>
+    </div>
+</div>
+{% endif %}

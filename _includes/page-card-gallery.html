@@ -1,0 +1,18 @@
+<div class="page-card-gallery pb-5">
+    <div class="columns is-multiline is-centered">
+        {% assign link_count = include.links | size %}
+        {% for link in include.links %}
+        <div class="column
+            {% if link_count == 2 %}
+                is-one-half-desktop
+            {% elsif link_count == 3 %}
+                is-one-third-desktop
+            {% else %}
+                is-one-quarter-desktop
+            {% endif %}
+            is-flex-direction-column">
+            {% include page-card.html link=link %}
+        </div>
+        {% endfor %}
+    </div>
+</div>

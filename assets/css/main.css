@@ -21595,6 +21595,10 @@ has-background-danger.is-hoverable:active {
   height: 1px;
 }
 
+.card {
+  height: 100%;
+}
+
 /*
  * Full header styling
  */

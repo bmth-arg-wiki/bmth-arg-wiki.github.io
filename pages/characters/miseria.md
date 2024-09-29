@@ -1,9 +1,10 @@
 ---
 title: "Miseria"
-description: "Miseria is the omen of empathy."
+description: "Miseria is the omen of empathy. She wears the empathy relic, the Guardians tears, around her neck."
 categories: ["characters"]
 tags: ["miseria", "omen", "pan", "vanth", "guardian tears", "gabriel", "archangel", 
 "insights", "empathy"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/miseria/9miseria.png"
 ---
 # Miseria
 

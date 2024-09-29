@@ -1,6 +1,9 @@
 ---
 title: "Karl Strassman"
+description: "Dr. Karl Strassman is an renowned employee at Nex Gen, discussing import strategy with AI leader E.V.E. 
+He has a keen interest in spirituality and neuroscience."
 categories: ["characters"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/strassman/13strassman.png"
 ---
 # Dr. Karl Strassman
 

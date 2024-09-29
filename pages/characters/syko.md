@@ -1,10 +1,19 @@
 ---
 title: "Syko"
+description: "Syko is one of seemingly several stand-ins for Oliver Sykes in-universe. Oli, as the fans refer to him, 
+is the lead vocalist of Bring Me The Horizon."
 categories: ["characters"]
+tags: ["syko", "oliver sykes", "bring me the horizon", "bmth", "scott", "oskar", "dear diary"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/syko/5syko.png"
 ---
 # Syko
 
 ![Syko Avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/syko/5syko.png)
+
+{% include info.html
+title="More info coming soon!"
+content="This will be updated with content from the lore booklet."
+%}
 
 Syko is the stand-in character in-universe for Oliver Sykes. He is user 0005 in the [M8](../m8) 
 system.

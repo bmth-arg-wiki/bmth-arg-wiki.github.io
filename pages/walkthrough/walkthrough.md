@@ -7,7 +7,7 @@ tags: ["walkthrough", "arg", "bring me the horizon", "bmth", "password game", "q
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/walkthrough.png"
 ---
 
-# Walkthrough Part 1: the Website
+# Walkthrough: The Website
 
 **[next →]({{ site.baseurl }}/pages/walkthrough/walkthrough2)**
 

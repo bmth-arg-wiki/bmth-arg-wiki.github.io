@@ -1,6 +1,6 @@
 ---
 title: "Walkthrough Part 2"
-description: "The second part of the walkthrough focuses on opening the for-sof in the FOR SOF folder."
+description: "The second part of the walkthrough focuses on opening the files in the FOR SOF folder."
 categories: ["walkthrough"]
 tags: ["walkthrough", "arg", "bring me the horizon", "bmth", "password game", "qr code",
        "dig it", "sof", "for-sof", "serial number", "secrets", "past", "msgforsof", "insights", 
@@ -13,7 +13,7 @@ tags: ["walkthrough", "arg", "bring me the horizon", "bmth", "password game", "q
        "kingslayer", "nyx 01", "nyx 02", "grumblr", "rebecca sinclair", "lbr", "lbrp", "lesser banishing ritual", "goxmog"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/walkthrough.png"
 ---
-# Walkthrough Part 2: FOR SOF
+# Walkthrough: FOR SOF
 
 **[← previous](walkthrough)**
 

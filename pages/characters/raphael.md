@@ -4,6 +4,7 @@ description: "Raphael is the archangel of connection, being drawn in the East on
 categories: ["characters"]
 tags: ["connection", "gabriel", "raphael", "uriel", "michael", "archangel", "selene's map", 
 "pan", "pan's flute", "night of pan", "east"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/raphael/4raphael.png"
 ---
 
 # Raphael
