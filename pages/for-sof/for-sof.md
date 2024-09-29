@@ -18,23 +18,17 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/f
 
 # FOR SOF
 
+{% include info.html
+title="Beware spoilers!"
+icon="fa-solid fa-lock-open"
+content="This article contains heavy spoilers, unlike our [walkthrough](../walkthrough/walkthrough)!"
+%}
+
 `FOR SOF` is a folder in the ARG that can be accessed on the computer. It is password 
 protected and was found on 26-05-2024. It requires a password.
 
 M8 says "You have 132 documents and one audio log" when you open the folder. This doesn't 
 match the contents of what we see (at least not yet).
-
-It contains documents on the [four insights](../lore/insights) and many more.
-
-Note: this document contains all the known passwords for the files, but they are 
-only visible if you click 'password' (unless they require an image). 
-Try it now for the folder password!
-
-<details class="password">
-  <summary>Password</summary>
-
-past
-</details>
 
 ***
 
@@ -45,8 +39,8 @@ you to the known information (including password) about the file itself.
 
 | File                                                                                                 | Status | About                                         |
 |------------------------------------------------------------------------------------------------------|--------|-----------------------------------------------|
-| [msgforsoff.aiff](msgforsof)                                                                         | ✔️     | [📁](#msgforsoffaiff)                         |
-| [The Insight Documents](../lore/insights)                                                            | ✔️     | [📁](#the-insightsdoc-insight1-4-docs)        |
+| [msgforsoff.aiff](msgforsof)                                                                         | ✔️     | [📁](msgforsof)                               |
+| [The Insight Documents](../lore/insights)                                                            | ✔️     | [📁](../lore/insights)                        |
 | [CAPSLOCK.DOC](capslock_doc)                                                                         | ✔️     | [📁](#capslockdoc)                            |
 | [StrassmanCONFIDENTIALPRT007.CODEC](strassmancodec)                                                  | ✔️     | [📁](#strassmanconfidentialprt007codec)       |
 | [DREADITScreenshot 2051.1.5.59.43.vis](dreadit)                                                      | ✔️     | [📁](#dreaditscreenshot-2051155943vis)        |
@@ -114,63 +108,6 @@ updates have occurred, although this has not been confirmed by the devs.
 
 As of 29/05/2024, the prompt at the top has been changed to "password_?" instead of 
 "insight_?".
-
-***
-
-## msgforsoff.aiff
-
-Audio log from [Selene](../characters/selene) to [Sof](../characters/sof). 
-This file is not password protected. This file is very lore-heavy and will introduce us to 
-the premise of the ARG: we are exploring the files Selene left for her daughter.
-
-![Screenshot of the audio player](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/msgforsof-audioplayer.png)
-
-See the [article on this file](msgforsof)
-
-[📁 Back to all files](#directory-content)
-
-***
-
-## THE INSIGHTS.DOC, INSIGHT1-4 docs
-
-These are some documents introducing us to the concept of the four insights that
-we see throughout the ARG.
-
-See the [article on the insights](../lore/insights).
-
-### THEINSIGHT.DOC
-
-No password required.
-
-### INSIGHT1.DOC
-<details class="password">
-  <summary>Password</summary>
-
-connection
-</details>
-
-### INSIGHT2.DOC
-<details class="password">
-  <summary>Password</summary>
-
-empathy
-</details>
-
-### INSIGHT3.DOC
-<details class="password">
-  <summary>Password</summary>
-
-purpose
-</details>
-
-### INSIGHT4.DOC
-<details class="password">
-  <summary>Password</summary>
-
-vision
-</details>
-
-[📁 Back to all files](#directory-content)
 
 ***
 

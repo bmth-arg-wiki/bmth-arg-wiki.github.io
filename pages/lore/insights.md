@@ -1,7 +1,7 @@
 ---
 title: "The Four Insights"
 description: "An overview of all four insights: connection, empathy, purpose, vision."
-categories: ["lore"]
+categories: ["lore", "for-sof"]
 tags: ["insights", "connection", "empathy", "purpose", "vision", "youtopia", 
        "for sof", "archangels", "omens"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/booklet/gallery/h-booklet.jpg"
@@ -13,6 +13,15 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/bo
 Document in the [FOR SOF](../for-sof) folder. It introduces us to the Insights. We do not know its author, but we assume that [Selene](../characters/selene) likely left these files here for [Sof](../characters/sof).
 
 ***
+
+## About
+
+These are some documents introducing us to the concept of the four insights that
+we see throughout the ARG. The documents left [for Sof](../for-sof/for-sof) indicate that 
+they must master these insights.
+
+***
+
 
 ## Insights spectrograms
 
