@@ -194,6 +194,17 @@ it? □
 
 ***
 
+## Password context
+
+<details class="password">
+grave
+</details>
+
+This password was found in the [music player](../webpage#website-songs). The song
+Wrist has an anagram for the password in the song information.
+
+***
+
 ## Read More
 
 More from [📁 FOR SOF](../for-sof)

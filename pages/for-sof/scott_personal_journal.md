@@ -28,6 +28,7 @@ pandemic, which occurred in 2037. It has strong ties to the song [Dear Diary](..
 ### Gallery
 
 {% include gallery.html folder="files/scott_diary/gallery" %}
+
 ***
 
 ## Transcription
@@ -90,6 +91,18 @@ virus…eatin away my humanity. Can feel it.
 > It 3:16. Mouth taste like corpse….wait..sum1 knocking on my door…no…it cant be…That face…that tasty face…Tasty…itchy…
 
 (Transcription made by @elliecoptaaa on discord)
+
+***
+
+## Password context
+
+<details class="password">
+  <summary>Password</summary>
+
+0005
+</details>
+
+The password for this file is [Syko](../characters/syko)'s user number.
 
 ***
 

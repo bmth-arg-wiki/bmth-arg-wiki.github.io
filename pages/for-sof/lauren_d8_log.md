@@ -143,6 +143,18 @@ An analysis in simpler English can be found [here](analysis/lauren_d8_log_analys
 
 ***
 
+## Password context
+
+<details class="password">
+  <summary>Password</summary>
+
+0014
+</details>
+
+The password for this file is [Ren](../characters/ren)'s user number.
+
+***
+
 ## Read More
 
 More from [📁 FOR SOF](../for-sof).

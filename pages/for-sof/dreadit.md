@@ -163,6 +163,18 @@ transmission from EVE on Discord on 08-07-2024:
 > place Youtopia, a domain accessible to every human, with definitely no side effects. 
 > if you, too, wish to access Youtopia, all you need to do is…
 
+***
+
+## Password context
+
+<details class="password">
+  <summary>Password</summary>
+
+1d1b2c2a
+</details>
+
+The password to this file changed when the [Spyder Browser](../webbrowser) updated
+to contain a Dreaddit link in the URL bar.
 
 ***
 

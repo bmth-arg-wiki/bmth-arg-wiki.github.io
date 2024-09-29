@@ -9,8 +9,6 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/r
 
 # дорогая моя любовь.doc
 
-> ℹ︎ Used to be called Russian_poem.doc
-
 > "In the silence of the palace,
 > a moonbeam shines through the windows"
 
@@ -18,17 +16,17 @@ This file was unlocked on the 30th of June 2024, after being released
 on the 7th of June.
 "дорогая моя любовь" roughly translates to "my dear love".
 
-The password was found in an Instagram post.
+***
+
+## About
+
+This file was originally released as `Russian_poem.DOC`, along with [Unbeleevable](unbeleevable) and 
+the [Skys & The Starjammers poster](skystarjammers). The password
+for this was found in an [Instagram post](https://www.instagram.com/p/C-DhcBaC4NP/).
 
 ***
 
 ## Document Content
-
-<details class="password">
-  <summary>Password</summary>
-
-7795397
-</details>
 
 ![The Russian Poem letter](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/russian_poem/russian_poem.png)
 
@@ -83,6 +81,18 @@ Also see the [translation to English](#translated).
 ***
 
 ## Password context
+
+<details class="password">
+  <summary>Password</summary>
+
+7795397
+</details>
+
+<details class="password">
+<summary>Password</summary>
+7795397
+
+</details>
 
 The password was found by taking multiple pieces of a letter from an 
 [Instagram post](https://www.instagram.com/p/C-DhcBaC4NP/) and combining them to form the code.

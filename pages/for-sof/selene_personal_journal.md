@@ -92,6 +92,18 @@ That kinda stuck with me…I was thinking about trying my synth joke on him, but
 
 ***
 
+## Password context
+
+<details class="password">
+  <summary>Password</summary>
+
+0003
+</details>
+
+The password is Selene's user number in the [M8](../m8) system.
+
+***
+
 ## Read More
 
 More from [📁 FOR SOF](../for-sof)

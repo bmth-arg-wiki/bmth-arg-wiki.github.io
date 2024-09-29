@@ -12,8 +12,6 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/g
 
 # GRUMBLR.Rebecca_Sinclair_01142027
 
-> ℹ︎ Used to be called Grumblr.HTML
-
 > "I'm a crazy cat lady who listens to old-school metalcore and watches anime."
 
 This file's name seems to be a play on Tumblr, just like [Dreaddit](dreadit) was a nod to Reddit.
@@ -21,13 +19,14 @@ It contains an entry from [Rebecca Sinclair](../characters/rebecca) who has alre
 
 ***
 
-## Document Contents
+## About
 
-<details class="password">
-  <summary>Password</summary>
+Originally introduced as `Grumblr.HTML`. The file seemed to be cracked by coincidence or brute-forcing
+at first, showing a background of a diary with green text displaying "test".
+This was replaced by another update on August the 7th, when the filename changed to the current
+one and the file now showed us [Rebecca](../characters/rebecca)'s Grumblr page.
 
-14012
-</details>
+***
 
 ### Gallery
 
@@ -130,6 +129,18 @@ It’s official. I’ve got the big C. CERS. Chronic Environmental Respiratory S
 > ❤️ 41      💬 13        ↩️ 8                                     Next page ->
 
 (Transcription by Alec)
+
+***
+
+## Password context
+
+<details class="password">
+  <summary>Password</summary>
+
+14012
+</details>
+
+This password seems to be part of the filename itself, `GRUMBLR.Rebecca_Rebecca_Sinclair_01142027`.
 
 ***
 

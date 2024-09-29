@@ -14,8 +14,18 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/c
 
 The capslock doc can be found in the `FOR SOF` folder on the computer.
 
-**(SPOILER) WARNING**: The password for this document was uncovered earlier than it was supposed to be. Using the information 
-from this article might spoil your experience.
+***
+
+## About
+
+![Capslock doc password screen](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/capslock_doc/capslockdoc_password.png)
+
+{% include info.html
+title="Beware spoilers!"
+icon="fa-solid fa-lock-open"
+content="This article contains heavy spoilers and was discovered earlier than it was supposed to be. It is unsure when 
+we will receive an update on the situation."
+%}
 
 ![Buff m8](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/m8/mad_m8.png)
 
@@ -114,11 +124,6 @@ placeholder address anymore**.
 >           |   /\   |.  M8 XOXOX
 >           |  /  \  |
 >           | /    \ |
-
-The email ends with an ASCII art rendering of M8, which has been screen captured to preserve this 
-authentic artwork.
-
-![Screen capture](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/m8/buffm8.png)
 
 ***
 

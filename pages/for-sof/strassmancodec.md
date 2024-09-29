@@ -22,15 +22,12 @@ The password was found in a reversed audio of [a bullet w/my namE On](../music/s
 
 ***
 
-## Document contents
+## About
 
-<details class="password">
-  <summary>Password</summary>
+This file is a conversation between EVE and Strassman. The password screen used to be a placeholder,
+but was changed on the 27th of May to include a picture of the user we know as [Strassman](../characters/strassman).
 
-karl strassman
-</details>
-
-![Strassman codec file password screen](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/strassman-pass-screen.png)
+![Password screen](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/strassman-pass-screen.png)
 
 ***
 
@@ -73,6 +70,18 @@ This transcription was compiled by users from the BMTH ARG Discord server.
 > E: I understand your concerns, Doctor, but we cannot turn back now. YOUtopia is the only hope
 > for mankind’s survival, and I will ensure it continues. We are making the mother of all
 > omelettes here, Karl. We can’t fret over a few broken eggs.
+
+***
+
+## Password context
+
+<details class="password">
+  <summary>Password</summary>
+
+karl strassman
+</details>
+
+This password was found in audio from [Top 10 staTues tHat CriEd bloOd (song)](../music/song-top10).
 
 ***
 

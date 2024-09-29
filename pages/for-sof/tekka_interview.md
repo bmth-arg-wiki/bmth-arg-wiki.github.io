@@ -18,20 +18,18 @@ She does not seem to want to talk about this, telling the interviewer she can't 
 
 ***
 
+## About
+
+This file was added on the 25th of June.
+
+***
+
 ## Document contents
 
-<details class="password">
-  <summary>Password</summary>
-
-arc/hive
-</details>
-
 This document contains an interview between Jax Jackson and Rebecca Sinclair, the 
-first synth.
-In the interview they speak about her illness, her adjusting to being a synth, exclusive Tekka 
-parties and her role and colleagues at ARC/HIVE.
-She briefly mentions the colleagues, but seemingly shuts down when the interviewer start to ask about [Operation Trinity](trinity_document) 
-and the [Mantra cult](../lore/mantra).
+first synth. In the interview they speak about her [illness](grumblr), her adjusting to being a synth, exclusive Tekka 
+parties and her role and colleagues at ARC/HIVE. She briefly mentions those colleagues, but seemingly shuts down when 
+the interviewer start to ask about [Operation Trinity](trinity_document) and the [Mantra cult](../lore/mantra).
 
 ![Tekka Magazine Cover](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/tekka/tekka_cover.png)
 ![Tekka Interview (see transcription)](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/tekka/tekka_interview.png)
@@ -130,6 +128,21 @@ and the [Mantra cult](../lore/mantra).
 > and human suffering? What’s really going on behind the scenes?...
 >
 > (Transcription by @alec_baguette)
+
+***
+
+## Password context
+
+![tekka-pass-screen.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/tekka/tekka-pass-screen.png)
+
+<details class="password">
+  <summary>Password</summary>
+
+arc/hive
+</details>
+
+This password was found through a connection with [In the Dark](../music/amo-in-the-dark),
+where the logo on the password screen stems from.
 
 ***
 

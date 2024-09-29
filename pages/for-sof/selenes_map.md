@@ -43,6 +43,17 @@ to occupy a physical space in [Youtopia](../lore/youtopia).
 
 ***
 
+## Password context
+
+<details class="password">
+  <summary>Password</summary>
+
+clive
+</details>
+
+The password refers to [M8](../m8)'s middle name, which is referenced in some lines she says
+in the sticky notes.
+
 ## Read More
 
 More from [📁 FOR SOF](../for-sof)
