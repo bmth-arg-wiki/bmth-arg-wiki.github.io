@@ -25,22 +25,34 @@ This booklet came with deluxe editions of the Post Human NeX GEn cds and vinyls.
 >
 >**WARNING: READ BEFORE THE USE OF [DREAMSEEKER©]**
 > 
-> A very small percentage of individuals may experience delusions when exposed to certain frequencies. Exposure to certain patterns or backgrounds on a television or screen or while playing video games, including games played on the DREAMSEEKER© console, may induce headbanging in these individuals. Certain conditions may induce previously undetected symptoms even in persons who have no history of prior delusions. If you, or anyone in your family, has this condition, consult your physician prior to playing. If you experience any of the following symptoms while playing this product – dizziness, altered vision, eye or muscle twitches, loss of awareness, disorientation, any involuntary movement, or possession – IMMEDIATELY discontinue use and consult your physician before resuming play.
->DREAMSEEKER© is a getaway to realms of endless adventure and boundless imagination, but its power comes with inherent risks. Before delving into its immersive experiences, it is imperative to exercise caution and prioritise self-care. Prologued use may lead to fatigue, eye strain, or discomfort. Remember to take regular breaks, stay hydrated, and maintain proper posture while gaming.  Additionally, be mindful of your surroundings and ensure adequate lighting to prevent accidents or injury. DREAMSEEKER© offers unparalleled escapades, but your well-being is paramount. Play responsibly and enjoy the journey safely.
+> A very small percentage of individuals may experience delusions when exposed to certain frequencies. 
+Exposure to certain patterns or backgrounds on a television or screen or while playing video games, including games played on the DREAMSEEKER© console, may induce headbanging in these individuals. 
+Certain conditions may induce previously undetected symptoms even in persons who have no history of prior delusions. 
+If you, or anyone in your family, has this condition, consult your physician prior to playing. 
+If you experience any of the following symptoms while playing this product – dizziness, altered vision, eye or muscle twitches, loss of awareness, disorientation, any involuntary movement, or possession – IMMEDIATELY discontinue use and consult your physician before resuming play.
+DREAMSEEKER© is a getaway to realms of endless adventure and boundless imagination, but its power comes with inherent risks. Before delving into its immersive experiences, it is imperative to exercise caution and prioritise self-care. Prologued use may lead to fatigue, eye strain, or discomfort. 
+Remember to take regular breaks, stay hydrated, and maintain proper posture while gaming.  
+Additionally, be mindful of your surroundings and ensure adequate lighting to prevent accidents or injury. 
+DREAMSEEKER© offers unparalleled escapades, but your well-being is paramount. 
+Play responsibly and enjoy the journey safely.
 >
 >**USE OF UNAUTHORISED PRODUCT:**
 > 
->The use of software or peripherals not authorised by DREAMSEEKER© may damage your console and/or invalidate your warranty. Only official or licensed peripherals should be used in the M8 ports or memory card slots. 
+>The use of software or peripherals not authorised by DREAMSEEKER© may damage your console and/or invalidate your warranty. 
+Only official or licensed peripherals should be used in the M8 ports or memory card slots. 
 >
 >**HANDLING YOUR DREAMSEEKER© FORMAT DISC:**
 > 
 >Do not bend it, crush it or submerge it in liquids.
->Do not leave it in direct sunlight or near a radiator or other source of heat. 
->Be sure to take an occasional rest break during extended play. 
->Keep this disc clean. Always hold the disc by the edged and keep it in its protective case when not in use. Clean the disc with a lint-free, soft, dry cloth, wiping in straight lines from center to outer edge. 
->Never use solvents or abrasive cleaners.
+Do not leave it in direct sunlight or near a radiator or other source of heat. 
+Be sure to take an occasional rest break during extended play. 
+Keep this disc clean. 
+Always hold the disc by the edged and keep it in its protective case when not in use. 
+Clean the disc with a lint-free, soft, dry cloth, wiping in straight lines from center to outer edge. 
+Never use solvents or abrasive cleaners.
 >
->*Playing games while under the influence of p.u.s.s.-e may result in impaired judgement, distorted perception of time and space, and difficulty distinguishing between the virtual world and reality. Additionally, the heightened emotional sensitivity and altered sense of reality induced by the drug could exacerbate feelings of anxiety, paranoia, or disorientation. 
+>*Playing games while under the influence of p.u.s.s.-e may result in impaired judgement, distorted perception of time and space, and difficulty distinguishing between the virtual world and reality. 
+Additionally, the heightened emotional sensitivity and altered sense of reality induced by the drug could exacerbate feelings of anxiety, paranoia, or disorientation. 
 >
 >[POST HUMAN: NeX GEn logo]
 
@@ -94,21 +106,30 @@ This booklet came with deluxe editions of the Post Human NeX GEn cds and vinyls.
 >
 >[story] **OVERVIEW**+OST
 >
->In a world ravaged by a parasitic virus that decimated half of humanity, a beacon of hope emerged in the form of an AI robot named E.V.E. Tasked with saving what remained of civilization, E.V.E.’s journey began with a remarkable discovery – the key to immunity lay in the pineal gland, a small but potent gland in the brain. Through meticulous research, E.V.E. uncovered a link between the pineal gland’s function and immunity to the virus. One of the last known survivors, a young girl named Selene, possessed a high-functioning pineal gland and was immune to the virus. She exhibited a wisdom beyond her years, hinting at a deeper connection to the mysteries of the universe.
+>In a world ravaged by a parasitic virus that decimated half of humanity, a beacon of hope emerged in the form of an AI robot named E.V.E. 
+Tasked with saving what remained of civilization, E.V.E.’s journey began with a remarkable discovery – the key to immunity lay in the pineal gland, a small but potent gland in the brain. 
+Through meticulous research, E.V.E. uncovered a link between the pineal gland’s function and immunity to the virus. 
+One of the last known survivors, a young girl named Selene, possessed a high-functioning pineal gland and was immune to the virus. 
+She exhibited a wisdom beyond her years, hinting at a deeper connection to the mysteries of the universe.
 >
->Driven by a desperate need to save humanity, E.V.E. initiated Project Dreamseeker, an experiment to up-regulate Selene’s DMT synthesis. DMT, a naturally occurring molecule in the brain, was believed to be the key to accessing a state of peace and bliss beyond imagination – a place known as YOUtopia.
+>Driven by a desperate need to save humanity, E.V.E. initiated Project Dreamseeker, an experiment to up-regulate Selene’s DMT synthesis. 
+DMT, a naturally occurring molecule in the brain, was believed to be the key to accessing a state of peace and bliss beyond imagination – a place known as YOUtopia.
 >
->As the experiment unfolded, Selene entered a dreamlike state unlike anything ever witnessed before. She described YOUtopia as “walking into a dream and stepping out of the coma,” hinting at the profound nature of her experience. 
+>As the experiment unfolded, Selene entered a dreamlike state unlike anything ever witnessed before. 
+She described YOUtopia as “walking into a dream and stepping out of the coma,” hinting at the profound nature of her experience. 
 >
 >E.V.E. became convinced that this state of consciousness held the key to humanity’s salvation and began working on synthesizing DMT to enable everyone to transcend to YOUtopia.
 >
->However, other scientists warned of the dangers of synthetic DMT. They explained that while DMT could lead to profound experiences of self-discovery and enlightenment, it could also have devastating effects on the psyche, especially for those unprepared or mentally unstable. They emphasised the importance of serotonin, a neurotransmitter linked to mood regulation, in maintaining mental balance and preventing adverse reactions to DMT.
+>However, other scientists warned of the dangers of synthetic DMT. 
+They explained that while DMT could lead to profound experiences of self-discovery and enlightenment, it could also have devastating effects on the psyche, especially for those unprepared or mentally unstable. 
+They emphasised the importance of serotonin, a neurotransmitter linked to mood regulation, in maintaining mental balance and preventing adverse reactions to DMT.
 >
 >
->☐Venturing through lush forests, barren wastelands and towering ruins, players encounter diverse biomes, each with its own history and challenges. Along the way, they must navigate treacherous terrain, battle formidable foes, and solve intricate puzzles to unlock the mysteries of YOUtopia.☐
+>☐Venturing through lush forests, barren wastelands and towering ruins, players encounter diverse biomes, each with its own history and challenges. 
+Along the way, they must navigate treacherous terrain, battle formidable foes, and solve intricate puzzles to unlock the mysteries of YOUtopia.☐
 >
 > 
-> V00_82    [Gameplay screenshot of SERENITY HILLS CEMETARY +] 
+> V00_82    [Gameplay screenshot of SERENITY HILLS CEMETARY+] 
 > 
 >[Genxsis logo] 
 >**PG.001**
@@ -167,7 +188,8 @@ This booklet came with deluxe editions of the Post Human NeX GEn cds and vinyls.
 >
 >**NEW GAME**
 > 
->☐Press the OPEN button on the [Dreamseeker©] Console, & insert the POST HUMAN: NeX GEn disc. After closing the disc cover, turn the power on & the [Dreamseeker©] logo will appear.☐
+>☐Press the OPEN button on the [Dreamseeker©] Console, & insert the POST HUMAN: NeX GEn disc. 
+After closing the disc cover, turn the power on & the [Dreamseeker©] logo will appear.☐
 >
 >[Gameplay screenshot of Selene being experimented on]
 > 
@@ -184,7 +206,8 @@ This booklet came with deluxe editions of the Post Human NeX GEn cds and vinyls.
 >
 >**LOAD GAME**
 > 
->☐Insert the POST HUMAN: NeX GEn disc into the [Dreamseeker©] console. Also insert your M8 system with your POST HUMAN: NeX GEn saved game into the M8 system slot then turn on the power.☐
+>☐Insert the POST HUMAN: NeX GEn disc into the [Dreamseeker©] console. 
+Also insert your M8 system with your POST HUMAN: NeX GEn saved game into the M8 system slot then turn on the power.☐
 >
 >[POST HUMAN: NeX GEn cd]
 >
@@ -199,11 +222,15 @@ This booklet came with deluxe editions of the Post Human NeX GEn cds and vinyls.
 >
 >**USING YOUR M8 SYSTEM**
 >
->By using a M8 system you can save your game along the way. To use a M8 system (sold separately), insert into either slot 1 or 2 on your [Dreamseeker©]. This game requires one free block of memory for each saved game.
+>By using a M8 system you can save your game along the way. 
+To use a M8 system (sold separately), insert into either slot 1 or 2 on your [Dreamseeker©]. 
+This game requires one free block of memory for each saved game.
 >
 >**SAVING YOUR GAME**
 >
->When you investigate a **YOUtopia Journal** in a biome you will be able to save your game onto your M8 system. Stand next to & face the **YOUtopia Journal** & press the **UP** button. After the save screen appears, select the M8 system slot & press the **DOWN** button. 
+>When you investigate a **YOUtopia Journal** in a biome you will be able to save your game onto your M8 system. 
+Stand next to & face the **YOUtopia Journal** & press the **UP** button. 
+After the save screen appears, select the M8 system slot & press the **DOWN** button. 
 >
 >04:00 +[the fights inside]
 >
@@ -252,7 +279,9 @@ This booklet came with deluxe editions of the Post Human NeX GEn cds and vinyls.
 >
 > ### SELENE
 > 
->☐Selene is a fearless adventurer on a quest of paramount importance in the fantastical realm of YOUtopia. With her unwavering determination and boundless courage, she journeys across this magical land, seeking to uncover ancient secrets and restore balance to the world. Armed with a deep sense of purpose, Selene faces countless challenges and dangers on her path, guided by the hope of fulfilling her destiny and bringing light to a world shrouded in darkness.◻︎ 
+>☐Selene is a fearless adventurer on a quest of paramount importance in the fantastical realm of YOUtopia. 
+With her unwavering determination and boundless courage, she journeys across this magical land, seeking to uncover ancient secrets and restore balance to the world. 
+Armed with a deep sense of purpose, Selene faces countless challenges and dangers on her path, guided by the hope of fulfilling her destiny and bringing light to a world shrouded in darkness.☐ 
 >
 >⚔ ATTACK: 89 - ⛨️ DEFENCE: 77 - ✦ SPIRIT: 86
 >
@@ -267,8 +296,10 @@ This booklet came with deluxe editions of the Post Human NeX GEn cds and vinyls.
 >
 > ### SOF
 > 
->◻︎Sof, born inside the Nex Gen Lab, embodies the promise of a new dawn. With the blood of adventurers coursing through their veins, they inherit the legacy of their mother, Selene, who left Sof in the care of an AI assistant “M8”. Surrounded by the wonders of this fantastical realm, Sof discovers the magic and mysteries that lie within.
-As they embark on her own journey of discovery, they start to put together the pieces of their fragmented family history, with the potential to reunite mankind.◻︎
+>☐Sof, born inside the Nex Gen Lab, embodies the promise of a new dawn. 
+With the blood of adventurers coursing through their veins, they inherit the legacy of their mother, Selene, who left Sof in the care of an AI assistant “M8”. 
+Surrounded by the wonders of this fantastical realm, Sof discovers the magic and mysteries that lie within.
+As they embark on her own journey of discovery, they start to put together the pieces of their fragmented family history, with the potential to reunite mankind.☐
 >
 >ATTACK: 15 ⚔ - DEFENCE: 10 ⛨ - SPIRIT: 90 ✦
 >
@@ -276,12 +307,14 @@ As they embark on her own journey of discovery, they start to put together the p
 > 
 >Born a demigod with the power to bring light to the darkness.
 >
->◻︎As Sof was born within the controlled environment of the Nex Gen Lab, they uncovered clues about their identity through the recordings left within M8. M8 was programmed with information that gradually revealed Sof’s true origins and the sacrifices Selene made.◻︎
+>☐As Sof was born within the controlled environment of the Nex Gen Lab, they uncovered clues about their identity through the recordings left within M8. 
+M8 was programmed with information that gradually revealed Sof’s true origins and the sacrifices Selene made.☐
 >
 >
 > ### M8
 > 
->◻︎In the enchanting world of YOUtopia, M8 serves as a signal of guidance and companionship for Selene. With its state-of-the-art sensors and advanced communication systems, M8 is able to transmit grainy, low-frequency images and audio back to the Nex Gen Lab, providing invaluable insights and assistance.◻︎
+>☐In the enchanting world of YOUtopia, M8 serves as a signal of guidance and companionship for Selene. 
+With its state-of-the-art sensors and advanced communication systems, M8 is able to transmit grainy, low-frequency images and audio back to the Nex Gen Lab, providing invaluable insights and assistance.☐
 >
 >⚔ ATTACK: 05 - ⛨️ DEFENCE: 10 - ✦ SPIRIT: 34
 >
@@ -429,7 +462,7 @@ Whether embarking on daring escapades, pulling pranks on unsuspecting friends, o
 > -	Relic: Guardian Tears
 >
 >
->  ### INSIGHT 003: purpose
+> ### INSIGHT 003: purpose
 >
 >[Purpose Insight sigil]
 >
@@ -462,3 +495,121 @@ Each insight, marked by its own compass point – North, West, South, & East –
 >[Genxsis logo]
 >**PG.013    PG.014**
 
+> # Page 015 and 016:
+>
+>A POST HUMAN STUDY
+> 
+>[NEX GEN] **LAB TEAM**+OST
+>
+>ft. Underoath 4:20 a bulleT w/ my name On
+>
+>[a bulleT w/ my name On lyrics laid out at the top and bottom of the pages]
+>
+>
+> ### IARA
+>
+>LEVEL 079
+> 
+>CHARACTER_PROFILES_IARA
+> 
+>[Three same variations of the BMTH logo]
+>
+>⚔ ATTACK: 78 - ⛨️ DEFENCE: 85 - ✦ SPIRIT: 88
+>
+>[Large drawing of Iara]
+>
+>Dr. Iara Copple, a visionary scientist and former child genius from the early 2000s, pioneered the creation of advanced AI systems. 
+Known for her brilliance and unwavering commitment to pushing the boundaries of technology, she developed ADAM, an AI chatbot that marked the dawn of a new era in artificial intelligence. 
+Her work, deeply rooted in a belief in the transformative potential of AI, eventually led to humanity’s first contact with an advanced alien civilisation. 
+Despite her groundbreaking achievements, Iara’s legacy is a double-edged sword; her creations brought profound advancements but also unknowingly set the stage for existential threats. 
+As her life’s work is co-opted by NEX GEN, the ethical and existential ramifications of her innovations become increasingly clear. 
+Dr. Copple’s story is one of genius intertwined with unintended consequences, reflecting the delicate balance between technological progress and the safeguarding of humanity’s future. 
+>
+>[Shadow drawing of Iara with writing saying configuration_001]
+>
+>
+> ### KARL STRASSMAN
+> 
+>LEVEL 087
+> 
+>CHARACTER_PROFILES_KARL_STRASSMAN
+> 
+>[Three same variations of the BMTH logo]
+>
+>⚔ ATTACK: 87 - ⛨️ DEFENCE: 70 - ✦ SPIRIT: 30
+>
+>[Large drawing of Strassman]
+>
+>Karl Strassman, a steadfast defender of YOUtopia’s ideals, finds himself at odds with the nefarious schemes of E.V.E. 
+Born in the rural town of Zelenopol, Union of Novosovia, Karl rose to prominence as the founder of neurospiritual research. 
+A former scholar turned scientific leader, Karl’s unwavering commitment to the welfare of the people drives him to oppose E.V.E.’s oppressive plans at every turn. 
+However, he is haunted by the role he played in helping E.V.E., and the unintended consequences of P.U.S.S.-E, a pineal gland up-regulator designed to help people access higher states of consciousness and reach YOUtopia, which, despite its potential, proved to be extremely dangerous and led to unforeseen tragedy.
+>
+>[Shadow drawing of Strassman with writing saying configuration_001]
+>
+>
+> ### REN
+> 
+>LEVEL 075
+> 
+>CHARACTER_PROFILES_REN
+> 
+>[Three same variations of the BMTH logo]
+>
+>⚔ ATTACK: 67 - ⛨️ DEFENCE: 39 - ✦ SPIRIT: 66
+>
+>[Large drawing of Ren]
+>
+>Ikaro Lauren was born into the tumultuous remnants of the Cult of MANTRA, his early ife marked by upheaval and uncertainty. 
+Raised in Elysium, a community fonded on the ashes of the cult, Ren struggled with his gender identity, ultimately embracing his true self. 
+Driven by a desire to honor his father’s legacy, Ren immersed himself in advanced research at NEX GEN, blending human ingenuity with alien technology. 
+Unbeknownst to him, this pursuit would lead to the creation of E.V.E. As Ren delves deeper into the mysteries of his father’s work, he faces a profound ethical dilemma, balancing the promise of scientific advancement against the looming threat of catastrophe. 
+Ren’s journey is one of resilience, self-discovery, and the relentless pursuit of knowledge in a world teetering on the brink of chaos.
+>
+>[Shadow drawing of Ren with writing saying configuration_001]
+>
+>[Genxsis logo]
+>**PG.015    PG.016**
+
+> ## Page 017 and 018:
+>
+>A POST HUMAN STUDY
+> 
+>**ARCH**[ANGELS]+OST
+>
+>In YOUtopia, Archangels Raphael, Gabriel, Michael, and Uriel manifest to assist Selene in navigating the realms landmarks.
+>
+>Each represents one of YOUtopia’s insights: Raphael for Connection, Gabriel for Empathy, Michael for Purpose, and Uriel for Vision. 
+Together, they guide Selene through the realms wonders, ensuring her journey aligns with its sacred balance.+
+>
+>☐[Insights sigils] Around the world of YOUtopia, Selene hunts for the mystical Insights that grant her power boosts. 
+These shards, scattered across the land, enhance abilities and fuel the heroes’ quest for mastery over darkness.☐
+>
+>
+>**[[ost]](spi)(spi)ritual** 01:54
+>
+>[[[ost]](spi)(spi)ritual lyrics]
+>
+>
+>[Large drawings of the four Archangels across the two pages]
+>
+>☐RAPHAEL+☐
+> 
+>☐GABRIEL+☐
+> 
+>☐MICHAEL+☐
+> 
+>☐URIEL+☐
+>
+>[Gameplay screenshot of ARCHANGEL SURGE+]
+>
+>[Gameplay screenshot of ARCHANGEL CHAMBER+]	
+>
+>
+>**n/A** 03:20
+>
+>[n/A lyrics]
+>
+>
+>[Genxsis logo]
+>**PG.017    PG.018**
