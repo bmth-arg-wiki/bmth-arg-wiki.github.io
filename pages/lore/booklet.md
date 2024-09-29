@@ -136,7 +136,7 @@ This booklet came with deluxe editions of the Post Human NeX GEn cds and vinyls.
 > **(93)**
 >
 >
-> [Kool Aid lyrics are scattered in boxes throughout the two pages]
+> [Kool Aid lyrics scattered in boxes throughout the two pages]
 >
 >[Big drawing of M8 on the pages]
 > 
@@ -246,9 +246,9 @@ This booklet came with deluxe editions of the Post Human NeX GEn cds and vinyls.
 >[Drawings of Selene and Sof sideways across the two pages + smaller drawing of M8 on the right page]
 >
 >
->S3l3ne.exe
+>s3l3ne.exe
 >
->Configuration_001
+>[Shadow drawing of Selene with writing saying configuration_001]
 >
 > ### SELENE
 > 
@@ -263,7 +263,7 @@ This booklet came with deluxe editions of the Post Human NeX GEn cds and vinyls.
 >
 >s)0f_.exe
 > 
->configuration_001
+>[Shadow drawing of Sof with writing saying configuration_001]
 >
 > ### SOF
 > 
@@ -306,4 +306,159 @@ As they embark on her own journey of discovery, they start to put together the p
 >[Genxsis logo]
 >**PG.009    PG.010**
 
+> ## Page 011 and 012:
+>
+> ### VEGAN
+> 
+>M.KEAN [86]
+>
+>CHARACTER_PROFILES_VEGAN
+>
+>[Three same variations of the BMTH logo]
+>
+>⚔ ATTACK: 79 - ⛨️ DEFENCE: 78 - ✦ SPIRIT: 83
+>
+>[Large drawing of Vegan]
+>
+>Vegan (the riddim ryder) is a beacon of compassion and harmony, devoted to nurturing the land and fostering understanding among its inhabitants. 
+With a deep reverence for nature and all its creatures, Vegan advocates for sustainable living and leads by example, inspiring others to tread lightly on the earth. 
+His gentle spirit and unwavering dedication make him a beloved figure in the community.
+>
+>[Shadow drawing of Vegan with writing saying configuration_001]
+>
+>
+> ### SYKO
+> 
+>O.SYKES [86]
+> 
+>CHARACTER_PROFILES_SYKO
+> 
+>[Three same variations of the BMTH logo]
+>
+>⚔ ATTACK: 81 - ⛨️ DEFENCE: 83 - ✦ SPIRIT: 96
+>
+>[Large drawing of Syko]
+>
+>Syko (nosferatu) is a enigmatic figure, known for his unconventional ways and unpredictable nature. 
+Syko has learned to navigate the complexities of life with a combination of cunning and resilience. 
+With a penchant for adventure and a thirst for discovery, he roams the land in search of excitement and new experiences.
+>
+>Syko’s bold demeanor and quick wit often lead him into daring escapades, where he faces challenges head-on with a mixture of bravery and recklessness. 
+Despite his impulsive nature, Syko possesses a keen intellect and an innate ability to adapt to any situation, making him a valuable ally and a formidable opponent.
+>
+>[Shadow drawing of Syko with writing saying configuration_001]
+>
+>
+> ### MADMAN
+> 
+>L.MALIA [87]
+> 
+>CHARACTER_PROFILES_MADMAN
+> 
+>[Three same variations of the BMTH logo]
+>
+>⚔ ATTACK: 79 - ⛨️ DEFENCE: 91 - ✦ SPIRIT: 80
+>
+>[Large drawing of Madman]
+>
+>Madman (the six string shredder) is a rugged yet fiercely loyal individual, known for his unwavering dedication to his family and his unyielding determination in the face of adversity. 
+Living amidst the ever-changing landscapes, Madman embodies the resilience and strength of spirit that defines life in this enchanted world.
+>
+>With a heart as vast as the horizon and a spirit untamed as the wilderness itself, Madman navigates challenges with a blend of courage and resourcefulness. 
+Whether defending his family from threats, venturing into the unknown to secure resources, or providing unwavering support to those in need, Madman’s presence brings a sense of stability and strength to his community.
+>
+>[Shadow drawing of Madman with writing saying configuration_001]
+>
+>
+> ### PICKLES
+> 
+>M.NICHOLLS [86]
+> 
+>CHARACTER_PROFILES_MADMAN
+> 
+>[Three same variations of the BMTH logo]
+>
+>⚔ ATTACK: 80 - ⛨️ DEFENCE: 78 - ✦ SPIRIT: 79
+>
+>[Large drawing of Pickles]
+>
+> Pickles (Rotherham’s 4th best drummer) is a mischievous and spirited individual, known for his cheeky antics and infectious sense of humor. 
+Living amidst colorful landscapes and vibrant communities, Pickles brings laughter and light to those around him with his playful demeanor and quick wit.
+>
+>With a twinkle in his eye and a grin that never fades, Pickles navigates his adventures with a sense of curiosity and boundless enthusiasm. 
+Whether embarking on daring escapades, pulling pranks on unsuspecting friends, or simply enjoying the simple pleasures of life, Pickles approaches each day with a sense of joy and spontaneity.
+>
+>[Shadow drawing of Pickles with writing saying configuration_001]
+>
+>
+>REAL TIME DISPLAY - 33X SOUL MAGNIFICATION THERMOGRAPHIC FILTER - From NEX GEN DREAMSEEKER OPERATION 93
+>
+>[Genxsis logo]
+>**PG.011    PG.012**
+
+> ## Page 013 and 014:
+>
+>A POST HUMAN STUDY
+> 
+>**INSIGHTS**[& COLLECTABLES]+OST
+>
+>02:45 DArkSide 
+>
+>[DArkSide lyrics scattered in boxes across the two pages.]
+>
+>
+> ### INSIGHT 001: connection
+>
+>[Connection Insight sigil]
+>
+> - Air
+> -	Archangel: Raphael
+> -	Omen: Pan
+> -	Direction: East
+> -	Relic: Pan’s Flute
+>
+>
+> ### INSIGHT 002: empathy
+>
+>[Empathy Insight sigil]
+>
+> -	Water
+> -	Archangel: Gabriel
+> -	Omen: Miseria
+> -	Direction: West
+> -	Relic: Guardian Tears
+>
+>
+>  ### INSIGHT 003: purpose
+>
+>[Purpose Insight sigil]
+>
+> -	Fire
+> -	Archangel: Michael
+> -	Omen: Vanth: Prince Of Death
+> -	Direction: South
+> -	Relic: Abramelin’s Candle Of Eternal Light
+>
+>
+> ### INSIGHT 004: vision
+>
+>[Vision Insight sigil]
+>
+> -	Earth
+> -	Archangel: Uriel
+> -	Omen: The Babylon
+> -	Direction: North
+> -	Relic: Golden Raspberry
+>
+>
+>Four profound insights await discovery by intrepid adventurers within YOUtopia. 
+Each insight embodies a fundamental truth of existence, guiding seekers on a transformative journey of self-discovery and enlightenment. 
+‘Connection’, represented by the element of Air and overseen by the Archangel Raphael, unveils the shimmering binds that unite souls, while the Crystal Heart pulsates with unity’s energy. 
+‘Empathy’, embodied in the element of Water and watched over by Archangel Gabriel, transforms tears into healing waters symbolised by the Empath’s Tear. 
+‘Purpose’, governed by the fiery element and Archangel Michael, ignites the soul with a blazing beacon of destiny, embodied in the Eternal Flame. 
+Lastly, ‘Vision’, guided by the element of Earth and Archangel Uriel, reveals the swirling vortex of dreams, with the Seer’s Lens offering clarity amidst the whispers of the ground. 
+Each insight, marked by its own compass point – North, West, South, & East – illuminates the path to enlightenment and the discovery of one’s true destiny within YOUtopia’s enchanting realm.
+>
+>[Genxsis logo]
+>**PG.013    PG.014**
 
