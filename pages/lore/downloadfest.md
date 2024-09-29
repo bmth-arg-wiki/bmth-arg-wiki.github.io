@@ -6,7 +6,7 @@ categories: ["lore"]
 tags: ["downloadfest", "bring me the horizon", "bmth", "arg", "nex gen", "post human", 
        "genxsis", "genxsis.faith", "cult", "church", "emily", "tarot", "cypher", 
        "mutated dancers"]
-image: "/Resources/lore/genxsis.faith/genxsis_faith.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/other-webpages/bmth_cypher.png"
 ---
 # Downloadfest
 

@@ -2,10 +2,10 @@
 title: "Mantra Cult"
 description: "The Neosages, also known as the Mantra cult were lead by Skys, a mysterious leader with a charming aura 
 and pink hair."
-categories: ["lore", "other-webpages"]
+categories: ["lore"]
 tags: ["mantra", "experimentation", "cult", "drug", "bring me the horizon", "bmth", 
        "arg", "lore", "invitation to salvation", "joinmantra.org", "starjammers", "skys"]
-image: "/Resources/other-webpages/joinmantra.org/20180810062921.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/unbeleevable/gallery/cult-of-mantra.png"
 ---
 # Mantra Cult
 

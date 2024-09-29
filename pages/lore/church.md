@@ -1,11 +1,11 @@
 ---
 title: "Church of Genxsis"
 description: "The church of Genxsis is a cult related to the Mantra cult. It was established in 1956 by Alfred Ingram Winter."
-categories: ["lore", "other-webpages"]
+categories: ["lore"]
 tags: ["bmth", "bring me the horizon", "church of genxsis", "eve", "church of genesis", 
        "alfred ingram winter", "nex gen", "experiment", "vspr-37", "downloadfest", "genxsis.faith", 
        "mantra", "cult"]
-image: "/Resources/lore/genxsis.faith/genxsis_faith.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/genxsis.faith/genxsis_faith.png"
 ---
 # Church of Genesis/Genxsis
 

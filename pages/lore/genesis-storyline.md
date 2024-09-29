@@ -6,7 +6,7 @@ categories: ["lore"]
 tags: ["genesis", "genxsis", "cult", "oliver sykes", "oli sykes", 
        "bring me the horizon", "bmth", "downloadfest", "nex gen", "experiments", 
        "eve", "ai"]
-image: "/Resources/socials/genesis-storyline.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/genesis-storyline.png"
 ---
 
 # Genesis Storyline — Narrative Development

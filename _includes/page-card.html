@@ -22,7 +22,7 @@
         <div class="tags">
             {% if page.categories %}
             {% for category in linked_page.categories %}
-            <span class="tag has-background-primary-80"><a href="{{ site.baseurl }}/pages/{{ category }}/{{ category }}">{{ category | capitalize }}</a></span>
+            <span class="tag has-background-primary-80"><a href="{{ site.baseurl }}/pages/{{ category }}/{{ category }}">{{ category | replace: "-", " " | upcase }}</a></span>
             {% endfor %}
             {% endif %}
         </div>

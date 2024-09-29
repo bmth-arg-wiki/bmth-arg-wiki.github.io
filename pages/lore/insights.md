@@ -4,13 +4,13 @@ description: "An overview of all four insights: connection, empathy, purpose, vi
 categories: ["lore"]
 tags: ["insights", "connection", "empathy", "purpose", "vision", "youtopia", 
        "for sof", "archangels", "omens"]
-image: "/Resources/for-sof/selenes_map/map1.jpg"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/booklet/gallery/h-booklet.jpg"
 ---
 # The Four Insights
 
 > As Above So Below
 
-Document in the [FOR SOF](../for-sof) folder. It introduces us to the Insights. We do not kn0w its author, but we assume that [Selne](../characters/selene) likely left these files here for [Sof](../characters/sof).
+Document in the [FOR SOF](../for-sof) folder. It introduces us to the Insights. We do not know its author, but we assume that [Selene](../characters/selene) likely left these files here for [Sof](../characters/sof).
 
 ***
 

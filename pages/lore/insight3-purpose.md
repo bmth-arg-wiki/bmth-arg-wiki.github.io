@@ -4,7 +4,7 @@ description: "Purpose is the third insight, linked to Michael, Vanth and Pickles
 categories: ["lore"]
 tags: ["insights", "purpose", "youtopia", "for sof", "michael", "vanth", "pickles", 
        "south", "red"]
-image: "/Resources/lore/insights/purpose/gallery/purpose1.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/purpose/gallery/purpose1.png"
 ---
 # Insight 3: Purpose
 

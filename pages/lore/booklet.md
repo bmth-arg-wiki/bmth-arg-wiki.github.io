@@ -1,8 +1,9 @@
 ---
 title: "Post Human NeX GEn Game Booklet"
 description: "The booklet in the nex gen cd and vinyl."
-categories: ["lore", "other-webpages"]
+categories: ["lore"]
 tags: ["lore", "nex gen", "booklet", "post human", "album"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/booklet/gallery/b-booklet.jpg"
 ---
 
 # Post Human NeX GEn Game Booklet

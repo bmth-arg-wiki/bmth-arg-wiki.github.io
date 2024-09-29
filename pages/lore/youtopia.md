@@ -5,7 +5,7 @@ spiritual practices. P.U.S.S-E can be used to aid in this goal."
 categories: ["lore"]
 tags: ["youtopia", "pusse", "dreamseeker", "nex gen", "experiments", "pineal gland", "selene",  
        "upregulation", "vegetative state", "step out of the coma", "paitient"]
-image: "/Resources/socials/promotional_image_pusse_youtopia.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/promotional_image_pusse_youtopia.png"
 ---
 
 # Youtopia (place)
