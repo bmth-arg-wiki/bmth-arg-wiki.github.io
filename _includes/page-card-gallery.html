@@ -1,5 +1,10 @@
+<!-- This needs to be excluded from the zoomable image replacement logic in
+ the default and home template -->
+{% assign is_page_card_gallery = true %}
+<!-- The card gallery -->
 <div class="page-card-gallery pb-5">
     <div class="columns is-multiline is-centered">
+        <!-- We check the link count, so we can still use the whole width for 2 or 3 page cards. -->
         {% assign link_count = include.links | size %}
         {% for link in include.links %}
         <div class="column

@@ -32,8 +32,11 @@
   $input-shadow: none
 );
 
+// Content (components)
 @use "components/_contents";
 @use "components/_page_card";
+
+// Other components
 @use "components/_header";
 @use "components/_search_bar";
 @use "components/_search_results";

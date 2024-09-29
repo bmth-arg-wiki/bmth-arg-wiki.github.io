@@ -44,8 +44,7 @@
                 </div>
                 <div class="p-2">
                     <!-- Page content wrapped in funny business -->
-                    {% assign modified_content = content | replace: '<img', '<img class="zoomable"' %}
-                    {% include anchor_headings.html html=modified_content anchorBody="#" anchorClass="heading-anchor"%}
+                    {% include anchor_headings.html html=content anchorBody="#" anchorClass="heading-anchor"%}
                 </div>
             </main>
         </div>
