@@ -19,16 +19,14 @@ It was the first reveal that the [MANTRA cult](../lore/mantra) was a part of the
 
 ***
 
+## About
+
+This file was added in an update on 19/06/2024 and the password was found on the same day. This document 
+confirmed that one of the system users was involved in the so-called [trinity](../characters/characters#trinity).
+
+***
+
 ## Document contents
-
-<details class="password">
-  <summary>Password</summary>
-
-knife hammer poison rope
-
-{{"![trinity password](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/trinity/trinity_password.png)" | markdownify}}
-
-</details>
 
 ![The Operation Trinity Document](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/trinity/operation_trinity.jpg)
 
@@ -73,6 +71,27 @@ but is not eager to answer questions asked by interviewer Jax Jackson in the [Te
 Note that we learn from the [Project D.U.S.T research proposal](project_dust) 
 that six children with special psychic powers were also recovered during Operation Trinity, 
 information that was unknown to the writer of this document.
+
+***
+
+## Password context
+
+<details class="password">
+<summary>Password</summary>
+{{ "
+knife, hammer, poison, noose
+
+A silver tongue in the moon's embrace, violet streams of liquid grace => Knife
+The shatter of a porcelain dream, under the weight of silent beams. => Hammer
+A serpent slips through the veins where hidden secrets bring. => Poison
+A tightening grip remains unseen, death will be, where life had been. => Noose
+
+Note that this puzzle seems/seemed buggy, you may have to reshuffle the tiles, since
+there is no submit button.
+" | markdownify }}
+</details>
+
+![trinity password](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/trinity/trinity_password.png)
 
 ***
 

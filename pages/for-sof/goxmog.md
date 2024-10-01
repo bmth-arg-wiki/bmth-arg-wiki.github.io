@@ -14,13 +14,12 @@ This file contains photographs and a diagram of a creature informally known as "
 
 ***
 
-## Document contents
+## About
 
-<details class="password">
-    <summary>Password</summary>
+This document was released on August 19th. The password was found on September 6th from a BMTH instagram post 
+from the same day.
 
-cegfbdfagfdc
-</details>
+***
 
 ### Gallery
 
@@ -70,6 +69,24 @@ cegfbdfagfdc
 
 ***
 
+## Password context
+
+<details class="password">
+<summary>Password</summary>
+
+cegfbdfagfdc
+
+The instagram post has a slide at the end with piano audio, which can be translated to notes.
+
+</details>
+
+This password was found in an Instagram post containing sheet music.
+
+***
+
 ## Read more
 
-More  from [📁 FOR SOF](../for-sof)
+More from [📁 FOR SOF](../for-sof)
+
+Sadly, very little is known about the Goxmog currently. It seems like it is a result of animal splicing 
+experiments by [Nex Gen](../lore/nex-gen-corporation).

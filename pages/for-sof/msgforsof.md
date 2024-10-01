@@ -4,7 +4,7 @@ description: "The first file in the folder is an audio message from Selene to he
 who she says has been born not even 20 minutes ago. She has to leave Sof after an alarm goes off."
 categories: ["for-sof"]
 tags: ["sof", "selene", "mother", "m8", "birth", "destiny"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/msgforsof/msgforsof-player.png"
 ---
 # msgforsoff.aiff
 
@@ -25,7 +25,11 @@ say a few more words goodbye and then end the recording.
 
 ***
 
-## Document contents
+## About
+
+This is the first file, an audio log from [Selene](../characters/selene) to [Sof](../characters/sof).
+This file is not password protected. This file is very lore-heavy and will introduce us to
+the premise of the ARG: we are exploring the files Selene left for her daughter.
 
 ![Audio player in the FOR SOF folder](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/msgforsof/msgforsof-player.png)
 

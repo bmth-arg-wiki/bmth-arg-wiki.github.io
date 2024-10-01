@@ -23,14 +23,16 @@ redaction follows.
 
 ***
 
+## About
+
+This document was first released on August 7th 2024 and requires a compass puzzle
+to open.
+The puzzle became solvable in an update on the 8th of August, revealing a document
+about so-called [LBR sites](lbr_sites).
+
+***
+
 ## Document contents
-
-<details class="password">
-  <summary>Password</summary>
-
-{{"![lbr password](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/lbr_sites/lbr_password.jpg)" | markdownify}}
-
-</details>
 
 ![LBR Site file](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/lbr_sites/lbr_site.png)
 
@@ -80,6 +82,22 @@ redaction follows.
 > [NEX GEN logo] [M8 SYSTEMS logo]
 
 (Transcription by Alec)
+
+***
+
+## Password context
+
+<details class="password">
+<summary>Password</summary>
+{{ "
+- Top: Upside down triangle with line (green = vision)
+- Right: Triangle with line (yellow = connection)
+- Bottom: Triangle without line (red = purpose)
+- Left: Upside down triangle without line (blue = empathy)
+" | markdownify}}
+</details>
+
+This puzzle corresponds to the Insights on [Selene's map](selenes_map).
 
 ***
 

@@ -19,18 +19,14 @@ then the document was declassified by Nex Gen exactly 10 years later.
 
 ***
 
-## Document contents
+## About
 
-Password:
+This file was added along the previous issue 51 of Tekka magazine on the 25th of June 2024.
+The file contains a research proposal for [several projects](project_dust). The password
+was found in an instagram post, where the characters appeared. The last two characters were
+switched.
 
-<details class="password">
-    <summary>Password</summary>
-
-{{"![password](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/project_dust/dust-password.png)" | markdownify}}
-
-The last two sigils are switched around.
-
-</details>
+***
 
 ### Gallery
 
@@ -118,17 +114,31 @@ The last two sigils are switched around.
 
 ***
 
+## Password context
+
+<details class="password">
+    <summary>Password</summary>
+
+{{"![password](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/project_dust/dust-password.png)" | markdownify}}
+
+The last two sigils are switched around.
+
+</details>
+
+***
+
 ## Speculation
 
 ![Child's drawings](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/amo/inthedark/gallery/l_dallusdaughterdrawings.png)
 
-- The drawings seen from the girl in ["In The Dark"](../music/amo-in-the-dark) indicate we might see his daughter(s) there.
+- The drawings seen from the girl in ["In The Dark"](../music/amo-in-the-dark) indicate we might see his daughter(s) there. Dallas' child is actually [Ren](../characters/ren), 
+a trans man.
 - The document speaks about "the special six", which may be the children we see in 
 the official [Kool-Aid](../music/song-koolaid) music video.
 
 ![altilium chordata tank](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/amo/inthedark/gallery/f_altiliumchordatatank.png)
 
-- The altilium chordata tank appears in ["In The Dark"](../music/amo-in-the-dark).
+The altilium chordata tank appears in ["In The Dark"](../music/amo-in-the-dark).
 
 ***
 

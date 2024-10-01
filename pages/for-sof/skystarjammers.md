@@ -46,12 +46,12 @@ INTERCELLULAR
 ## Password context
 
 <details class="password">
-    <summary>⚠ The context contains spoilers</summary>
+    <summary>Password</summary>
 
 {{"![Nex Gen document from instagram](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/skys_starjammers/nexgendoc.jpg)" | markdownify}}
 {{"![Numbers assigned to letters](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/skys_starjammers/instagram_solve.jpg)" | markdownify}}
 
-This document was revealed in an Instagram post. It contains four words and 5 sets of numbers. 
+It contains four words and 5 sets of numbers. 
 When you take each individual number to match up a letter, you get the letters needed for the word 
 `INTERCELLULAR`.
 
@@ -61,6 +61,8 @@ You can see 12 lines for characters, since spaces are indicated on screen. Despi
 the password was 13 characters long, causing confusion among the community.
 
 </details>
+
+This document was revealed in an Instagram post.
 
 ***
 

@@ -2,10 +2,10 @@
 title: "Empathy"
 description: "Empathy is the second insight on the way to Youtopia. 
 It is associated with band member Madman, Miseria and angel Gabriel."
-categories: ["lore"]
+categories: ["lore", "for-sof"]
 tags: ["insights", "empathy", "youtopia", "for sof", "gabriel", "miseria", 
        "madman", "blue", "west"]
-image: "/Resources/lore/insights/empathy/gallery/empathy1.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/empathy/gallery/empathy1.png"
 ---
 # Insight 2: Empathy
 
@@ -14,6 +14,12 @@ image: "/Resources/lore/insights/empathy/gallery/empathy1.png"
 Empathy is the second insight we gather from the [spectrograms](../music/spectrograms).
 
 ![Empathy spectrogram](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/empathy/img_5.png)
+
+***
+
+## About
+
+This was one of the first documents, seemingly available to unlock right from release.
 
 ***
 

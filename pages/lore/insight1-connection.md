@@ -2,10 +2,10 @@
 title: "Connection"
 description: "Connection is one of the insights or revelations to master in 
 the ARG, in order to ascend to Youtopia."
-categories: ["lore"]
+categories: ["lore", "for-sof"]
 tags: ["insights", "connection", "youtopia", "for sof", "pan", 
        "raphael", "pan's flute", "yellow", "east", "syko", "oliver sykes"]
-image: "/Resources/lore/insights/connection/gallery/connection1.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/connection/gallery/connection1.png"
 ---
 
 # Insight 1: Connection
@@ -14,6 +14,12 @@ image: "/Resources/lore/insights/connection/gallery/connection1.png"
 
 Connection is the first one of the four insights that we will need to master according 
 to the documents in the 'FOR SOF' folder.
+
+***
+
+## About
+
+This was one of the first documents, seemingly available to unlock right from release.
 
 ***
 

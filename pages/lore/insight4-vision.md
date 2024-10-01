@@ -2,10 +2,10 @@
 title: "Vision"
 description: "Vision is the last insight to reach Youtopia. This insight is associated 
 with Uriel, Vegan and the golden raspberry."
-categories: ["lore"]
+categories: ["lore", "for-sof"]
 tags: ["insights", "vision", "youtopia", "for sof", "uriel", "golden raspberry", 
        "vegan"]
-image: "/Resources/lore/insights/vision/gallery/vision1.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/vision/gallery/img.png"
 ---
 
 # Insight 4: Vision
@@ -15,6 +15,12 @@ image: "/Resources/lore/insights/vision/gallery/vision1.png"
 The last insight in the numbered order is Vision. Its spectrogram was found in the song 'DIg It'. 
 While the official BMTH Discord server has channels for connection, empathy and purpose, the channel 
 for the last insight (vision) has been named "creativity".
+
+***
+
+## About
+
+This was one of the first documents, seemingly available to unlock right from release.
 
 ***
 

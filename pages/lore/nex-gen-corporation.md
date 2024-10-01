@@ -8,7 +8,7 @@ tags: ["nex gen", "bmth", "arg", "post human", "innovation", "technology",
        "pusse", "youtopia", "d8", "ikaro lauren", "iara", "selene", "syko", 
        "scott", "overwatch", "spectre", "fantom", "susan white", "fletcher", 
        "strassman", "karl", "dmt", "dreamseeker", "arc/hive"]
-image: "/Resources/for-sof/lbr_sites.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/booklet/gallery/i-booklet.jpg"
 ---
 
 # Nex Gen Corporation

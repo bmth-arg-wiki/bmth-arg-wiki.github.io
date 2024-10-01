@@ -4,6 +4,7 @@ description: "P.U.S.S-E is DMT, used to reach Youtopia within the ARG universe."
 categories: ["lore"]
 tags: ["pusse", "dmt", "strassman", "youtopia", "nex gen", "arg", "pineal", "upregulation", 
        "gland", "pharma", "spirit molecule", "mares"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/promotional_image_pusse_youtopia.png"
 ---
 # P.U.S.S-E
 
@@ -19,7 +20,7 @@ P.U.S.S-E seems to be a drug, implied by instagram posts, a pill bottle at the e
 [the song](../music/song-pusse) and additional promotional information. The stylization of puss-e (like P.u.s.s-e) is 
 different between the tracklist and the instagram.
 
-![img.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/promotional_image_pusse_youtopia.png)
+![P.U.S.S-E product banner](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/promotional_image_pusse_youtopia.png)
 
 Promotional post from the BMTH instagram, see page on [social posts](../socials)
 

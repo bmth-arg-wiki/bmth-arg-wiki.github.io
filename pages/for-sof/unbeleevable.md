@@ -20,13 +20,6 @@ It is currently unknown whether the Dr. Lee MD from the video is also [Madman](.
 
 ## Document contents
 
-<details class="password">
-    <summary>Password</summary>
-
-forest
-
-</details>
-
 ### Email
 
 ![Email screenshot](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/unbeleevable/NEXGENLEAK1.png)
@@ -128,6 +121,20 @@ Within the ARG, this is broadcasted by Community Resource Analog Program (CRAP).
 > **Lee:** “Unbeleevable”
 
 (Transcription by Alec)
+
+***
+
+## Password context
+
+<details class="password">
+<summary>Password</summary>
+forest
+
+</details>
+
+Lee Malia is one of the band members, his name is referred to in the filename. His son's name is Forest. Additionally,
+the phrase ‘Deep in the forest, the blind one followed her every move’ appears on promotional material. Finally, the
+name of the actor playing in [In The Dark](../music/amo-in-the-dark) is Forest Whitaker.
 
 ***
 

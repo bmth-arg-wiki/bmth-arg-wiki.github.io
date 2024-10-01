@@ -18,15 +18,20 @@ The video is a brief radio call between "Spectre" and "Overwatch". They are foll
 
 ***
 
+## About
+
+This file was originally between `Posthuman_Prototype_Alpha.mp3` and `YOUTOPIA_Archangels_Secrets.docx`.
+It was updated on August 2nd, getting its current position in the list and a puzzle to unlock.
+
+This file with a puzzle and a password.
+Also see the [walkthrough](../walkthrough/walkthrough2)
+for help cracking this file.
+
+***
+
 ## Document contents
 
-<details class="password">
-  <summary>Password</summary>
-
-23.2907
-</details>
-
-![kingslayer codec screenshot](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/kingslayer_codek/kingslayer_codek_screenshot.png)
+**![kingslayer codec screenshot](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/kingslayer_codek/kingslayer_codek_screenshot.png)**
 
 ***
 
@@ -110,14 +115,20 @@ The video is a brief radio call between "Spectre" and "Overwatch". They are foll
 
 ## Password context
 
+{% include info.html
+title="The Kingslayer Puzzle"
+content="The puzzle is very time-consuming, and the password screen only allows very little time to enter the password after you click check. So keep the password ready!"
+%}
+
 <details class="password">
-    <summary>⚠ the context contains spoilers</summary>
+<summary>Password</summary>
+23.2907 (sum of the numbers on the pieces)
+</details>
 
-### The puzzle
-
-> ℹ︎  The puzzle is very time-consuming, and the password screen only allows very little time to enter the password after you click check. So keep the password ready!
-
-{{"![Solution to the wire puzzle](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/kingslayer_codek/kingslayer_codek_puzzle.png)" | markdownify}}
+<details>
+<summary>Puzzle solution & help</summary>
+{{" 
+![Solution to the wire puzzle](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/kingslayer_codek/kingslayer_codek_puzzle.png)
 
 The following is the solution to the maze. To solve it yourself, you will need to beat the 
 timer and click and rotate the pieces.
@@ -131,7 +142,7 @@ The pieces are always in the same order, making the strategy below the most viab
 
 Tip: you will need to click once for the first wire you connect, twice for the second, and this pattern 
 continues until the end.
-
+" | markdownify }}
 </details>
 
 ***

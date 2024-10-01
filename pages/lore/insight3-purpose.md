@@ -1,10 +1,10 @@
 ---
 title: "Purpose"
 description: "Purpose is the third insight, linked to Michael, Vanth and Pickles."
-categories: ["lore"]
+categories: ["lore", "for-sof"]
 tags: ["insights", "purpose", "youtopia", "for sof", "michael", "vanth", "pickles", 
        "south", "red"]
-image: "/Resources/lore/insights/purpose/gallery/purpose1.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/purpose/gallery/purpose1.png"
 ---
 # Insight 3: Purpose
 
@@ -13,6 +13,12 @@ image: "/Resources/lore/insights/purpose/gallery/purpose1.png"
 Purpose is the third insight, found in the spectrogram of puss-e.
 
 ![Spectrogram of purpose](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/purpose/purpose_spectogram.png)
+
+***
+
+## About
+
+This was one of the first documents, seemingly available to unlock right from release.
 
 ***
 
