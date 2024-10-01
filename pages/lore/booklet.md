@@ -6,7 +6,8 @@ tags: ["lore", "nex gen", "booklet", "post human", "album", "youtopia", "ost dre
        "top 10 statues that cried blood", "lyrics", "limousine", "selene", "sof", "vegan", "syko", "madman", "pickles", 
 "band", "darkside", "insights", "connection", "empathy", "purpose", "vision", "strassman", "Iara", "Ren", "ost spiritual",
 "archangels", "raphael", "uriel", "gabriel", "michael", "n/a", "eve", "omens", "miseria", "the babylon", "vanth", "pan", 
-"rip duskcore", "strangers", "genxsis"]
+"rip duskcore", "strangers", "genxsis", "relics", "pan's flute", "golden raspberry", "guardian tears", "candle of eternal light", 
+"amen", "pusse", "die4u", "dig it"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/booklet/b-booklet.jpg"
 ---
 
@@ -14,7 +15,7 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/bo
 
 > This page is currently being built, hence why there isn't a full transcription yet! 
 
-> 
+> Prepare for epic confrontations against powerful adversaries who guard the darkest secrets of YOUtopia.
 
 This booklet came with deluxe editions of the Post Human NeX GEn cds and vinyls.
 It contains a lot of lore and information about different elements of the ARG, along with the lyrics for each song on the album.
@@ -630,7 +631,7 @@ These shards, scattered across the land, enhance abilities and fuel the heroes�
 >[Genxsis logo] Ⓒ
 >**PG.017    PG.018**
 
-> ## Page 019 and 020 :
+> ## Page 019 and 020:
 >
 >A POST HUMAN STUDY
 > 
@@ -739,10 +740,10 @@ It requires true Vision to defeat, and if done so, rewards a hero with the ultim
 >[Shadow drawing of The Babylon with writing saying configuration_001]
 >
 >
->[Genxsis logo]
+>[Genxsis logo] Ⓒ
 >**PG.019    PG.020**
 
-> ## Page 021
+> ## Page 021:
 >
 >A POST HUMAN STUDY
 > 
@@ -765,6 +766,7 @@ After you collect these, visit the shrine to see what you unlocked.
 >
 >
 >[DIFFICULT]**Y SETTINGS**
+> 
 >☐**Novice:** Suitable for beginners, this difficulty setting provides a forgiving experience with reduces enemy aggression, simpler puzzles, and ample resources to aid progression.
 >
 >**Adventurer:** Ideal for those seeking a balanced challenge. 
@@ -788,7 +790,7 @@ Only the most cunning and tenacious adventurers will prevail against the trials 
 >
 >**PG.021**
 
-> ## Page 022
+> ## Page 022:
 >
 >YOU’VE GOT THE GAME
 >
@@ -807,3 +809,179 @@ Only the most cunning and tenacious adventurers will prevail against the trials 
 >03:23 (duskCOre RemIx)
 >
 >[R.i.p. (duskCOre RemIx) lyrics]
+
+> ## Page 023:
+>
+>A POST HUMAN STUDY
+>
+>**RELICS**+OST
+>
+>In YOUtopia, four ancient relics away Selene’s discovery, each imbued with unique powers essential for completing the hero’s journey. 
+These coveted artifacts, scattered across the land, hold the key to unlocking the true potential of YOUtopia and overcoming the challenges that lie ahead. 
+Each Relic is held by the four Omen’s that walk the land of Youtopia which Selene will need to uncover.
+>
+>**AmEN!**
+> 
+>ft. Lil Uzi Vert & Daryl Palumbo of Glassjaw
+>
+>03:09
+>
+>[AmEN! lyrics]
+>
+>[Gameplay screenshot of an old church / chapel]
+>
+>
+> ### Pan’s Flute
+> 
+>POWER: 89
+>
+>Pan’s Flute bewitched all with its haunting melody, compelling listeners to realise that true connection stars from within.
+>
+>[Drawing of Pan’s Flute]
+>
+>
+> ### Golden Raspberry
+> 
+>POWER: 76
+>
+>The Golden Raspberry symbolises self-awareness, awarded only to those with true vision and resilience. 
+It requires confronting inner doubts to defeat the ominous challenges guarding it.
+>
+>[Drawing of the Golden Raspberry]
+>
+>
+> ### Guardian Tears
+> 
+>POWER: 92
+>
+>The vial of Guardian tears symbolises empathy, awarded to those who survive a test of grief. 
+It serves as a reminder of shared pain and compassion, embodying the player’s emotional strength and capacity for empathy.
+>
+>[Drawing of the vial filled with the Guardian Tears]
+>
+>
+> ### Abramelin’s Candle Of Eternal Light
+> 
+>POWER: 86
+>
+>Abramelin’s Candle Of Eternal Light illuminates the path, reminding heroes that purpose is self-prescribed and must be discovered within oneself amidst uncertainty.
+>
+>[Drawing of the Candle Of Eternal Light]
+>
+>[Genxsis logo] Ⓒ
+**PG.023**
+
+> ## Page 024:
+>
+>[Genxsis logo]
+> 
+>NEX GEN [Dreamseeker variant] 2024 OST+
+> 
+>**A POST HUMAN STUDY (phase II)**
+>
+>[BRING ME THE HORIZON written in a rune-like font)
+> 
+>**PH2**
+>
+>PINEAL UPREGULATION SYNTHETIC SUBSTANCE ENHANCED
+>
+>**P.U.S.S.-E**
+>
+>STEP OUT OF THE COMA
+>
+>**YOUTOPIA**
+>
+>[p.u.s.s.-e pill inside the O of YOUTOPIA]
+>
+>**WARNING:**
+> 
+>side effects may include but not limited to PERMANENT EGO DEATH, HALLUCINATIONS, UNPLEASANT DREAMS & QUESTIONING LIFE ITSELF. 
+GENXSIS LTD Ⓒ holds no responsibility for any adverse effects, including death resulting from the use of this product.
+
+> ## Page 025:
+>
+>*prepare for [the journey] ahead*
+>
+>Below is an explanation of how to perform the various character actions & commands necessary to complete your journey in YOUtopia.
+>
+>**THE GAME SCREEN**
+>
+>**Action Screen**
+> 
+>This is the standard screen displayed when you are moving or fighting your way through YOUtopia. 
+When you speak with other characters on your journey, messages are displayed at the bottom of your screen.
+>
+>[Gameplay screenshot of the action screen with boxes pointing at different parts of it:]
+>
+>☐Your hit points (HP). 
+Each time you take damage, the current HP is reduced. 
+When the current HP reach zero, you will die. 
+HP can be recovered by searching chests located within the world of YOUtopia.☐
+>
+>☐Your dreamseeker points (DP). 
+Dreamseeker points are reduced when you use your Dreamseeker Element Shot. 
+DP begin to regenerate when defeating enemies & are also found inside chests located within the world of YOUtopia.☐
+>
+>☐The item within your pocket currently ready for use.☐
+>
+>☐Your current gold. 
+You can find gold scattered within YOUtopia & when defeating enemies.☐
+>
+>☐The YOUtopia map. 
+Use this to navigate the world & help you find items located within YOUtopia.☐
+>
+>
+>REAL TIME DISPLAY - 33X SOUL MAGNIFICATION THERMOGRAPHIC FILTER - from NEX GEN DREAMSEEKER OPERATION 93
+>
+>[Genxsis logo] Ⓒ
+>**PG.025**
+
+> ## Page 026:
+>
+>A POST HUMAN STUDY
+>
+>**WALK**[THROUGH]+OST
+>
+>**Your Journey**
+> 
+>☐**Ancient Ruins:** Explore sprawling ruins scattered across YOUtopia, remnants of a once-great civilisation now shrouded in mystery and decay. 
+Delve into forgotten chambers, decipher cryptic inscriptions, and unearth long-lost artifacts that hold the key to unraveling the world’s secrets.
+>
+>**Mystical Creatures:** Encounter mythical creatures that roam the untamed wilderness of YOUtopia From majestic dragons soaring through the skies to elusive forest spirits lurking in the shadows, each creature presents a unique challenge and an opportunity to learn more about the world’s rich lore.
+>
+>**Forbidden Magic:** Uncover the secrets of arcane magic hidden within ancient tomes and forbidden rituals. 
+Delve into dark sorcery and harness powerful spells to overcome obstacles and adversaries, but beware the corrupting influence of dark forces that seek to consume those who wield such power.
+>
+>**Betrayal and Deception:** Navigate a world where allies may conceal ulterior motives and foes may hide behind friendly faces. 
+Trust is a precious commodity in YOUtopia, and betrayal lurks around every corner. 
+Choose your allies wisely and be prepared to uncover the truth behind the lies.
+>
+>**Epic Confrontations:** Prepare for epic confrontations against powerful adversaries who guard the darkest secrets of YOUtopia. 
+From ancient Omens awakened from slumber to malevolent entities imprisoned within the depths of the earth, each encounter will test your courage, strength, and resolve.☐
+>
+>
+>**DiE4U**
+> 
+>03:27    015_0    -youmakemefeellikeshit
+>
+>[Gameplay screenshot of a lab with bodies in tanks]
+>
+>**PG.026**
+
+> ## Page 027 and 028:
+>
+>A POST HUMAN STUDY
+>
+>**CREDITS**+OST
+>
+>[Credits for every song of the album]
+>
+>[DIg It lyrics]
+
+***
+
+# Read More
+
+- [Lore](lore)
+- [Characters](../characters/characters)
+- [FOR SOF folder](../for-sof/for-sof)
