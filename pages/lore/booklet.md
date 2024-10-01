@@ -145,6 +145,8 @@ Along the way, they must navigate treacherous terrain, battle formidable foes, a
 
 > # Page 002:
 >
+> [Large drawing of Selene hooked to red and blue tubes]
+> 
 >**YOUtopia** 04:02
 >
 >[lyrics to YOUtopia]
@@ -183,9 +185,41 @@ Along the way, they must navigate treacherous terrain, battle formidable foes, a
 >☐ PROPULSION SYSTEM
 >
 > (initializing sequence)
+>
+> [Column behind main content left:]
 > 
-> [lighter grey text will come at a later time]
+>**Cable Entanglement Risk:** Exercise caution to prevent cable entanglement during operation. 
+Ensure cables are properly secured and rooted to avoid obstruction of moving parts or interference with M8’s functions.
+>
+>**Electrical Hazard:** Avoid exposure of M8’s electronics to water, moisture, or extreme environmental conditions. 
+Contact with liquid or excessive humidity may result in electrical sh–[cut-off by overlaid box]
+>
+>**Overloadin**-[cut-off by overlaid box]
+>
+>**Regular M**-[cut-off by overlaid box]
+>
+>**Safe Hand**-[cut-off by overlaid box] -weaken connections or cause breakage. 
+Follow manufacturer guidelines for safe handling and storage of spare parts.
+>
+>**Authorized Repairs Only:** In the event of damage to cables or electronics, seek assistance from qualified technicians or authorized service centers for repairs. 
+Attempting repairs without proper experience may result in further damage or void warranty coverage.
+>
+>**Shielding Ageing Interference:** Shield M8’s cables and electronics from electromagnetic interference sources to prevent signal degradation or disruption of communication and sensor function.
+>
+>[Column behind main content right:]
 > 
+>**Initialization:** Upon activation, M8 will initiate its boot-up sequence.
+Allow M8 a few moments to complete its initialization process.
+>
+>**Language Selection:** Follow the on-screen prompts to select- [cut-off by overlaid box]
+>
+>[Four paragraphs half cut-off by overlaid box]
+>
+>**Personalization:** Customize M8 to suit your preferences and requirements. 
+Adjust settings such as display brightness, volume levels, and notification preferences to optimize your experience with M8. 
+>
+>[One paragraph half cut-off by overlaid box]
+>
 >[Genxsis logo] Ⓒ
 > **PG.003    PG.004**
 
