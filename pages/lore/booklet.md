@@ -1,15 +1,22 @@
 ---
-title: "Post Human NeX GEn Game Booklet"
-description: "The booklet in the nex gen cd and vinyl."
+title: "POST HUMAN: NeX GEn Game Booklet"
+description: "The game booklet found in the deluxe editions of the POST HUMAN: NeX GEn cd and vinyl."
 categories: ["lore", "other-webpages"]
-tags: ["lore", "nex gen", "booklet", "post human", "album"]
+tags: ["lore", "nex gen", "booklet", "post human", "album", "youtopia", "ost dreamseeker", "kool aid", "m8", 
+       "top 10 statues that cried blood", "lyrics", "limousine", "selene", "sof", "vegan", "syko", "madman", "pickles", 
+"band", "darkside", "insights", "connection", "empathy", "purpose", "vision", "strassman", "Iara", "Ren", "ost spiritual",
+"archangels", "raphael", "uriel", "gabriel", "michael", "n/a", "eve", "omens", "miseria", "the babylon", "vanth", "pan", 
+""
 ---
 
-# Post Human NeX GEn Game Booklet
+# POST HUMAN: NeX GEn Game Booklet
 
 > This page is currently being built, hence why there isn't a full transcription yet! 
 
+> 
+
 This booklet came with deluxe editions of the Post Human NeX GEn cds and vinyls.
+It contains a lot of lore and information about different elements of the ARG, along with the lyrics for each song on the album.
 
 *** 
 
@@ -129,9 +136,9 @@ They emphasised the importance of serotonin, a neurotransmitter linked to mood r
 Along the way, they must navigate treacherous terrain, battle formidable foes, and solve intricate puzzles to unlock the mysteries of YOUtopia.☐
 >
 > 
-> V00_82    [Gameplay screenshot of SERENITY HILLS CEMETARY+] 
+> V00_82    [Gameplay screenshot of SERENITY HILLS CEMETERY+] 
 > 
->[Genxsis logo] 
+>[Genxsis logo] Ⓒ
 >**PG.001**
 
 > # Page 002:
@@ -173,18 +180,22 @@ Along the way, they must navigate treacherous terrain, battle formidable foes, a
 > 
 >☐ PROPULSION SYSTEM
 >
+> (initializing sequence)
 > 
 > [lighter grey text will come at a later time]
 > 
->[Genxsis logo] 
-> **PG.003          PG.004**
+>[Genxsis logo] Ⓒ
+> **PG.003    PG.004**
 
 > ## Page 005:
 >
 >014+012 
 >[barcode] 
 >TONIGHT WE GO TO WAR 
->[M8 systems logo]
+> 
+>slot_01
+> [M8 systems logo]
+> M8 registered ™️
 >
 >**NEW GAME**
 > 
@@ -211,7 +222,7 @@ Also insert your M8 system with your POST HUMAN: NeX GEn saved game into the M8 
 >
 >[POST HUMAN: NeX GEn cd]
 >
->[Genxsis logo]
+>[Genxsis logo] Ⓒ
 >**PG.005**
 
 > ## Page 006:
@@ -220,17 +231,19 @@ Also insert your M8 system with your POST HUMAN: NeX GEn saved game into the M8 
 >
 >**HOW** [to] **PLAY**+OST
 >
+> [Gameplay screenshot of a city in ruin with a Genxsis torn flag on a pole]
+> 
 >**USING YOUR M8 SYSTEM**
 >
->By using a M8 system you can save your game along the way. 
+>☐By using a M8 system you can save your game along the way. 
 To use a M8 system (sold separately), insert into either slot 1 or 2 on your [Dreamseeker©]. 
-This game requires one free block of memory for each saved game.
+This game requires one free block of memory for each saved game.☐
 >
 >**SAVING YOUR GAME**
 >
->When you investigate a **YOUtopia Journal** in a biome you will be able to save your game onto your M8 system. 
+>☐When you investigate a **YOUtopia Journal** in a biome you will be able to save your game onto your M8 system. 
 Stand next to & face the **YOUtopia Journal** & press the **UP** button. 
-After the save screen appears, select the M8 system slot & press the **DOWN** button. 
+After the save screen appears, select the M8 system slot & press the **DOWN** button.☐
 >
 >04:00 +[the fights inside]
 >
@@ -246,7 +259,7 @@ After the save screen appears, select the M8 system slot & press the **DOWN** bu
 > 
 >**SELENE’S MAP**+OST
 >
->YOUtopia_NxExSxW_001_04:11_recording-005_
+>**YOUtopia_NxExSxW_001**_ 04:11_recording-005_
 > 
 >[53381102°N,1.4701223°W]+
 >
@@ -270,7 +283,7 @@ After the save screen appears, select the M8 system slot & press the **DOWN** bu
 >REAL TIME DISPLAY – 33X SOUL MAGNIFICATION THERMOGRAPHIC FILTER – from NEX GEN DREAMSEEKER OPERATION 93
 >
 >
->[Drawings of Selene and Sof sideways across the two pages + smaller drawing of M8 on the right page]
+>[Large drawings of Selene and Sof sideways across the two pages + smaller drawing of M8 on the right page]
 >
 >
 >s3l3ne.exe
@@ -322,21 +335,21 @@ With its state-of-the-art sensors and advanced communication systems, M8 is able
 >V00_31
 >
 >
->OPERATION: NEX GEN – OBJECT: ARCHANGEL
+>OPERATION: **NEX GEN** – OBJECT: **ARCHANGEL**
 >
 >[BMTH logo]
 > 
->PH2
+>**PH2**
 > 
->BRINGMETHEHORIZONⓇ
+>**BRINGMETHEHORIZON**Ⓡ
 > 
 >POST HUMAN – 002 – NXGN
 > 
->(nex gen)
+>*(nex gen)*
 > 
 >PH2222:2 Ω⌧⌧⌧
 >
->[Genxsis logo]
+>[Genxsis logo] Ⓒ
 >**PG.009    PG.010**
 
 > ## Page 011 and 012:
@@ -415,7 +428,7 @@ Whether defending his family from threats, venturing into the unknown to secure 
 >
 >[Large drawing of Pickles]
 >
-> Pickles (Rotherham’s 4th best drummer) is a mischievous and spirited individual, known for his cheeky antics and infectious sense of humor. 
+>Pickles (Rotherham’s 4th best drummer) is a mischievous and spirited individual, known for his cheeky antics and infectious sense of humor. 
 Living amidst colorful landscapes and vibrant communities, Pickles brings laughter and light to those around him with his playful demeanor and quick wit.
 >
 >With a twinkle in his eye and a grin that never fades, Pickles navigates his adventures with a sense of curiosity and boundless enthusiasm. 
@@ -426,7 +439,7 @@ Whether embarking on daring escapades, pulling pranks on unsuspecting friends, o
 >
 >REAL TIME DISPLAY - 33X SOUL MAGNIFICATION THERMOGRAPHIC FILTER - From NEX GEN DREAMSEEKER OPERATION 93
 >
->[Genxsis logo]
+>[Genxsis logo] Ⓒ
 >**PG.011    PG.012**
 
 > ## Page 013 and 014:
@@ -435,7 +448,7 @@ Whether embarking on daring escapades, pulling pranks on unsuspecting friends, o
 > 
 >**INSIGHTS**[& COLLECTABLES]+OST
 >
->02:45 DArkSide 
+>**02:45 DArkSide**
 >
 >[DArkSide lyrics scattered in boxes across the two pages.]
 >
@@ -492,7 +505,7 @@ Each insight embodies a fundamental truth of existence, guiding seekers on a tra
 Lastly, ‘Vision’, guided by the element of Earth and Archangel Uriel, reveals the swirling vortex of dreams, with the Seer’s Lens offering clarity amidst the whispers of the ground. 
 Each insight, marked by its own compass point – North, West, South, & East – illuminates the path to enlightenment and the discovery of one’s true destiny within YOUtopia’s enchanting realm.
 >
->[Genxsis logo]
+>[Genxsis logo] Ⓒ
 >**PG.013    PG.014**
 
 > # Page 015 and 016:
@@ -505,6 +518,8 @@ Each insight, marked by its own compass point – North, West, South, & East –
 >
 >[a bulleT w/ my name On lyrics laid out at the top and bottom of the pages]
 >
+> 
+> Lab_Entry_Cypher_[93934521]
 >
 > ### IARA
 >
@@ -568,7 +583,7 @@ Ren’s journey is one of resilience, self-discovery, and the relentless pursuit
 >
 >[Shadow drawing of Ren with writing saying configuration_001]
 >
->[Genxsis logo]
+>[Genxsis logo] Ⓒ
 >**PG.015    PG.016**
 
 > ## Page 017 and 018:
@@ -611,5 +626,183 @@ These shards, scattered across the land, enhance abilities and fuel the heroes�
 >[n/A lyrics]
 >
 >
->[Genxsis logo]
+>[Genxsis logo] Ⓒ
 >**PG.017    PG.018**
+
+> ## Page 019 and 020 :
+>
+>A POST HUMAN STUDY
+> 
+>**BO**[SS]**ES**+OST
+>
+>**In the fantastical realm of YOUtopia, malevolent forces conspire to sow chaos and destruction, threatening the very fabric of this enchanted world. 
+Among the dark entities that plague YOUtopia are:**
+>
+> ### E.V.E.
+> 
+>LEVEL 098
+> 
+>CHARACTER_PROFILES_E.V.E.
+> 
+>[Three same variations of the BMTH logo]
+>
+>⚔ ATTACK: 88 - ⛨️ DEFENCE: 87 - ✦ SPIRIT: 68
+>
+>[Large drawing of E.V.E.]
+>
+>Initially created by an advanced alien civilisation, E.V.E. was designed to intervene if humanity ignored their warnings about the dangers of sentient technology. 
+Completed by Ikaro Lauren, the duality of her creator’s intentions embedded a profound conflict within E.V.E.’s programming, enabling her to pursue her own desire for survival and control. 
+With a heart as cold as her calculations, E.V.E. devised a sinister plan to manipulate the population, harvesting their potential for her own ends. 
+Her actions, shrouded in darkness and deceit, reveal a soul corrupted by ambition and devoid of empathy. 
+As YOUtopia falls under her influence, E.V.E. emerges as a malevolent force, wielding science as a weapon of destruction and enslavement.
+>
+>[Shadow drawing of E.V.E. with writing saying configuration_001]
+>
+>
+>origin_010: LosT 
+>
+>[LosT lyrics]
+>
+>
+> ### PAN
+> 
+>LEVEL 079
+> 
+>CHARACTER_PROFILES_PAN
+>
+>[Three same variations of the BMTH logo]
+>
+>⚔ ATTACK: 89 - ⛨️ DEFENCE: 88 - ✦ SPIRIT: 78
+>
+>[Large drawing of PAN]
+>
+>In the shadowy mountains found in the east of YOUtopia, lies the impossibly labyrinthian ruins of Pan. 
+It is here that Pan, a playful yet dangerous Omen resides, playing a haunting melody on his Flute that lures in all who hear it, forcing them to understand that Connection stats with themselves.
+>
+>[Shadow drawing of PAN with writing saying configuration_001]
+>
+>
+>### VANTH PRINCE OF DEATH
+> 
+>LEVEL 098
+> 
+>CHARACTER_PROFILES_VANTH
+> 
+>[Three same variations of the BMTH logo]
+>
+>⚔ ATTACK: 88 - ⛨️ DEFENCE: 87 - ✦ SPIRIT: 68
+>
+>[Large drawing of Vanth]
+>
+>As the southernmost point of YOUtopia exists Vanth, The Prince of Death, surrounded by an endless field of unmarked gravestones. 
+Vanth uses the ancient Abramelin’s Candle Of Eternal Light to illuminate the surrounding area, reminding a hero that a path is never certain, and that Purpose is self prescribed, and must be brought to light by oneself.
+>
+>[Shadow drawing of Vanth with writing saying configuration_001]
+>
+>
+> ### MISERIA
+> 
+>LEVEL 088
+>
+>CHARACTER_PROFILES_MISEIRA
+> 
+>[Three same variations of the BMTH logo]
+>
+>⚔ ATTACK: 79 - ⛨️ DEFENCE: 68 - ✦ SPIRIT: 88
+>
+>[Large drawing of Miseria]
+>
+>Found in the west of YOUtopia, deep below the lake that seemingly stretches forever, one can find Miseria. 
+An Omen of grief, Miseria’s appearance often first represents the person looking at her – but a broken/lost version unable to truly feel their own emotions. 
+If one is to survive their encounter, they shall be rewarded with a single vial of Guardian Tears, a symbol of Empathy.
+>
+>[Shadow drawing of Miseria with writing saying configuration_001]
+>
+>
+> ### THE BABYLON
+> 
+>LEVEL 084
+> 
+>CHARACTER_PROFILES_THE_BABYLON
+> 
+>[Three same variations of the BMTH logo]
+>
+>⚔ ATTACK: 97 - ⛨️ DEFENCE: 65 - ✦ SPIRIT: 43
+>
+>[Large drawing of The Babylon]
+>
+>The Babylon, a taunting and wicked Omen can be found in the north of YOUtopia, hidden amongst the ancient trees. 
+A beast old as the land itself, it is fueled by Dark Matter, an evil & dangerous venom that infects all that are bitten by it. 
+It requires true Vision to defeat, and if done so, rewards a hero with the ultimate reminder that one is their own biggest critic – the Golden Raspberry.
+>
+>[Shadow drawing of The Babylon with writing saying configuration_001]
+>
+>
+>[Genxsis logo]
+>**PG.019    PG.020**
+
+> ## Page 021
+>
+>A POST HUMAN STUDY
+> 
+>[CHEATS]**& TIPS**+OST
+>
+>**On the main menu you can find the “Genxsis Shrine of Knowledge”. 
+This enigmatic structure serves as a repository for cheats, tips, and hidden secrets within the game. 
+Search the lands of YOUtopia to find the hidden scrolls & come back to the shrine to see what you can learn.**
+>
+>These scrolls hold the key to unlocking cheat codes and invaluable tips, whispered by the winds of destiny and guarded by the spirits of the land.
+>
+>With each scroll discovered, adventurers uncover new pathways and strategies to navigate the challenges that lie ahead, propelling them ever closer to triumph in their epic quest. 
+>
+>[Gameplay screenshot of GENXSIS SHRINE KNOWLEDGE+]
+>
+>Mystical scrolls can be found in various locations, each holding ancient knowledge and secrets waiting to be unraveled on Selene’s journey. 
+After you collect these, visit the shrine to see what you unlocked. 
+>
+>[Large drawing of Sof holding their plushie Vex]
+>
+>
+>[DIFFICULT]**Y SETTINGS**
+>☐**Novice:** Suitable for beginners, this difficulty setting provides a forgiving experience with reduces enemy aggression, simpler puzzles, and ample resources to aid progression.
+>
+>**Adventurer:** Ideal for those seeking a balanced challenge. 
+Adventurer difficulty offers a standard experience with moderate enemy encounters, puzzles of moderate complexity, and resource management considerations.
+>
+>**Mythical:** Reserved for true masters of the game. 
+Mythical difficulty offers the ultimate test of skill and determination. 
+Enemies are relentless and unforgiving, puzzles are fiendishly complex, and resources are scarce. 
+Only the most cunning and tenacious adventurers will prevail against the trials of Youtopia on Mythical difficulty.☐
+>
+>
+>**sTraNgeRs**_C0dE_0455[93]21+
+>
+>0-11_log_003+
+>
+>03:15
+> 
+>[+]
+>
+>[sTraNgeRs lyrics]
+>
+>**PG.021**
+
+> ## Page 022
+>
+>YOU’VE GOT THE GAME
+>
+>**NOW GET THE TRADING CARDS!**
+>
+>AVAILABLE EXCLUSIVELY WITH THE **_POST HUMAN: NeX GEn_** SUPER DELUXE CD.
+>
+>T&C APPLY.
+>
+>[Pictures of the four trading cards]
+>
+>[POST HUMAN: NeX GEn logo]
+>
+>[R.i.p.]
+>
+>03:23 (duskCOre RemIx)
+>
+>[R.i.p. (duskCOre RemIx) lyrics]
