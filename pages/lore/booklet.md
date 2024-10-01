@@ -13,8 +13,6 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/bo
 
 # POST HUMAN: NeX GEn Game Booklet
 
-> This page is currently being built, hence why there isn't a full transcription yet! 
-
 > Prepare for epic confrontations against powerful adversaries who guard the darkest secrets of YOUtopia.
 
 This booklet came with deluxe editions of the Post Human NeX GEn cds and vinyls.
