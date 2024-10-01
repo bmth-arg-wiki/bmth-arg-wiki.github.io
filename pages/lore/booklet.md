@@ -6,7 +6,8 @@ tags: ["lore", "nex gen", "booklet", "post human", "album", "youtopia", "ost dre
        "top 10 statues that cried blood", "lyrics", "limousine", "selene", "sof", "vegan", "syko", "madman", "pickles", 
 "band", "darkside", "insights", "connection", "empathy", "purpose", "vision", "strassman", "Iara", "Ren", "ost spiritual",
 "archangels", "raphael", "uriel", "gabriel", "michael", "n/a", "eve", "omens", "miseria", "the babylon", "vanth", "pan", 
-""
+"rip duskcore", "strangers", "genxsis"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/booklet/b-booklet.jpg"
 ---
 
 # POST HUMAN: NeX GEn Game Booklet
