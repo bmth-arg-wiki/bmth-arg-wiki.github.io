@@ -6,7 +6,7 @@ tags: ["bmth", "arg", "nex gen", "church of genxis", "archive", "arc/hive", "man
 image: "Resources/lore/mantra/mantra-not-for-consumption.png"
 ---
 
-# Lore
+# Lore 
 
 {% assign page_links = '/pages/lore/youtopia, /pages/m8, /pages/lore/booklet, /pages/lore/pusse, /pages/lore/night-of-pan' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
