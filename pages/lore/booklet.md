@@ -1,7 +1,7 @@
 ---
 title: "POST HUMAN: NeX GEn Game Booklet"
 description: "The game booklet found in the deluxe editions of the POST HUMAN: NeX GEn cd and vinyl."
-categories: ["lore", "other-webpages"]
+categories: ["lore"]
 tags: ["lore", "nex gen", "booklet", "post human", "album", "youtopia", "ost dreamseeker", "kool aid", "m8", 
        "top 10 statues that cried blood", "lyrics", "limousine", "selene", "sof", "vegan", "syko", "madman", "pickles", 
 "band", "darkside", "insights", "connection", "empathy", "purpose", "vision", "strassman", "Iara", "Ren", "ost spiritual",
