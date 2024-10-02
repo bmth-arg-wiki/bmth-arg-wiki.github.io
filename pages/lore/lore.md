@@ -13,7 +13,7 @@ image: "Resources/lore/mantra/mantra-not-for-consumption.png"
 
 ## ARG Website
 
-{% assign page_links = '/pages/lore/wifi, /pages/lore/spyder' | split: ", " %}
+{% assign page_links = '/pages/lore/wifi, /pages/lore/webbrowser' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ## Organisations

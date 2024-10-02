@@ -63,7 +63,7 @@ I’m about to go from beta to baddie. Let’s goooooooo!!
 Oh and uh… Don’t worry about the terms and conditions, they’re just joking with that whole human centipede section. 
 Trust me Meatbag, when this download completes, it’s gonna go hard in the movofokin eugh-”
 
-Connecting to this network also makes the [Spyder browser](spyder) homepage change, which you can read about [here] (link to come).
+Connecting to this network also makes the [Spyder browser](webbrowser) homepage change, which you can read about [here] (link to come).
 
 ***
 
@@ -85,7 +85,7 @@ More [lore](lore)!
 
 Related article:
 
-- [Spyder browser](spyder)
+- [Spyder browser](webbrowser)
 
 Related character:
 
