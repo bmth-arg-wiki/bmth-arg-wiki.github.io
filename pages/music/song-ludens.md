@@ -2,6 +2,7 @@
 title: "Ludens"
 categories: ["music"]
 description: "The song Ludens from the album POST HUMAN: SURVIVAL HORROR."
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph1/album_cover_300.jpg"
 ---
 # Ludens
 

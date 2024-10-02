@@ -3,6 +3,7 @@ title: "Sugar, Honey, Ice & Tea"
 categories: ["music"]
 description: "The song Sugar, Honey, Ice & Tea from the album amo."
 tags: ["sugar", "honey", "ice", "tea", ",mantra", "music"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/amo/album_cover_300.png"
 ---
 # Sugar, Honey, Ice & Tea
 

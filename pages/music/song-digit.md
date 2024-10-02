@@ -2,6 +2,7 @@
 title: "DIg It"
 categories: ["music"]
 description: "The song DIg It from the album POST HUMAN: NEx Gen."
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover_300.png"
 ---
 # DIg It (Song)
 

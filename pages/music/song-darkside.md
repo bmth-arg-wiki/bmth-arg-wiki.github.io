@@ -2,6 +2,7 @@
 title: "DArkSide"
 categories: ["music"]
 description: "The song DArkSide from the album POST HUMAN: NEx Gen."
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover_300.png"
 ---
 # DArkSide
 

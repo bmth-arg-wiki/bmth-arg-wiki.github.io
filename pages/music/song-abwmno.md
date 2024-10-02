@@ -2,6 +2,7 @@
 title: "a bulleT w/my namE On"
 categories: ["music"]
 description: "The song a bulleT w/my namE On ft. Underoath from the album POST HUMAN: NEx Gen."
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover_300.png"
 ---
 # a bulleT w/my namE On
 

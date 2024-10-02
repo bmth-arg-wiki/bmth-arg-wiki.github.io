@@ -3,6 +3,7 @@ title: "Music Overview"
 categories: ["music"]
 description: "The overview pages for all Bring Me The Horizon music related to the ARG."
 tags: ["music", "bmth", "arg", "post human", "nex gen", "amo", "survival horror", "mantra", "youtopia"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/websitesongs/kool8.png"
 ---
 
 # Music

@@ -3,6 +3,7 @@ title: "itchy, tasty.."
 categories: ["music"]
 description: "The song Dear Diary, from the album POST HUMAN: SURVIVAL HORROR."
 tags: ["dear", "diary", "scott", "music"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph1/album_cover_300.jpg"
 ---
 # Dear Diary,
 

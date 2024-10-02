@@ -2,6 +2,7 @@
 title: "Spectrograms"
 categories: ["music"]
 description: "Spectrograms of Nex Gen and other BMTH audio."
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/spectrograms/spectrogram-archangels.png"
 ---
 # Spectrograms
 
@@ -22,7 +23,7 @@ They are listed in order of album appearance.
 
 Seems to contain an image of the four archangels.
 
-![img_1.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/spectrograms/spectrogram-archangels.png)
+![Spectrogram of (spi)ritual with low resolution angels](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/spectrograms/spectrogram-archangels.png)
 
 ### n/A
 
