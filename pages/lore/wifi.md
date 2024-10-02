@@ -52,8 +52,7 @@ Once connected to the wifi, an update screen appears and M8 starts talking excit
 >[Progress bar variations:] 93% / 84% / 72% / 50% / 45% / 35%
 >
 >ESTIMATED COMPLETION DATE [variations]: 9 hours / 90 hours / 400 days / -55 seconds / 4 days / 5 mins 
->
->
+
 >[M8 voicelines:]
 >
 >“Wait, wait, wait! Hold up! Am I? Am I seeing this right? 
@@ -63,7 +62,7 @@ I’m about to go from beta to baddie. Let’s goooooooo!!
 Oh and uh… Don’t worry about the terms and conditions, they’re just joking with that whole human centipede section. 
 Trust me Meatbag, when this download completes, it’s gonna go hard in the movofokin eugh-”
 
-Connecting to this network also makes the [Spyder browser](webbrowser) homepage change, which you can read about [here] (link to come).
+Connecting to this network also makes the [Spyder browser](webbrowser) homepage change, which you can read about [here](webbrowser#Version-3).
 
 ***
 
