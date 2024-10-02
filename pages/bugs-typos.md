@@ -42,4 +42,4 @@ of patient.
 
 - [Other webpages](other-webpages)
 - [Webpage](webpage)
-- [Web browser](webbrowser)
+- [Web browser](lore/webbrowser.md)

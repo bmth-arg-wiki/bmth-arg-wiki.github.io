@@ -54,7 +54,7 @@ You can find more explanations about the webpage by reading some related article
 
 - [Webpage](../webpage)
 - [Website songs](../music/website-songs)
-- [Website browser](../webbrowser)
+- [Website browser](../lore/webbrowser.md)
 
 " | markdownify }}
 </details>
