@@ -3,7 +3,7 @@ title: "Wifi"
 description: "This page is about the Wifi section of the ARG website."
 categories: ["lore"]
 tags: ["wifi", "arg", "website", "lore", "m8"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/wifi/wifi-on.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/wifi/wifi-networks.png"
 ---
 
 # Wifi
@@ -35,7 +35,7 @@ We finally got all the characters on the 30th, which lead us to unlock the first
 c4E9q62u
 </details>
 
-Once connected to the wifi, an update screen appears and M8 starts talking excitedely.
+Once connected to the wifi, an update screen appears and M8 starts talking excitedly.
 
 ![update screen](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/wifi/update-progress.png)
 

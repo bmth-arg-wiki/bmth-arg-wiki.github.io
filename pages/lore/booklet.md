@@ -13,7 +13,7 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/bo
 
 # POST HUMAN: NeX GEn Game Booklet
 
-> Prepare for epic confrontations against powerful adversaries who guard the darkest secrets of YOUtopia.
+> Prepare for epic confrontations against powerful adversaries who guard the darkest secrets of YOUtopia. 
 
 This booklet came with deluxe editions of the Post Human NeX GEn cds and vinyls.
 It contains a lot of lore and information about different elements of the ARG, along with the lyrics for each song on the album.
