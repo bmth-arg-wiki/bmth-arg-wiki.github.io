@@ -14,9 +14,8 @@ This page provides an overview of all music-related articles.
 
 ## Albums
 
-- [amo](amo)
-- [POST HUMAN: SURVIVAL HORROR](ph-survival-horror)
-- [POST HUMAN: NeX GEn](ph-nex-gen)
+{% assign page_links = '/pages/music/amo, /pages/music/ph-survival-horror, /pages/music/ph-nex-gen' | split: ", " %}
+{% include page-card-gallery.html links=page_links %}
 
 These albums have been found to contain some lore relevance and have more information about them available. 
 BMTH has hinted through social media posts that some older songs might also be related, including but not limited to: 
@@ -26,6 +25,9 @@ BMTH has hinted through social media posts that some older songs might also be r
 
 ## Other Music
 
+{% assign page_links = '/pages/music/website-songs, /pages/music/spectrograms' | split: ", " %}
+{% include page-card-gallery.html links=page_links %}
+
 Additionally, the website includes [exclusive songs](website-songs), being exclusively released there. 
 Some uploads can be found on YouTube.
 
@@ -34,12 +36,19 @@ a technique used to visualize music. Secret messages can be embedded here.
 
 ***
 
-## Read More
+## By album
 
-In the future, more information might be included on costumes, live performances etc.
+### amo
 
-- [Website songs](website-songs)
-- [Spectrograms](spectrograms)
-- [amo](amo)
-- [PH: Survival Horror](ph-survival-horror)
-- [PH: NeX GEn](ph-nex-gen)
+{% assign page_links = '/pages/music/amo-mantra, /pages/music/amo-nihilist-blues, /pages/music/amo-in-the-dark, /pages/music/amo-shit' | split: ", " %}
+{% include page-card-gallery.html links=page_links %}
+
+### POST HUMAN: SURVIVAL HORROR
+
+{% assign page_links = '/pages/music/song-dear-diary, /pages/music/song-parasite-eve, /pages/music/song-teardrops, /pages/music/song-obey, /pages/music/song-kingslayer-itch, /pages/music/song-1x1, /pages/music/song-ludens, /pages/music/song-butterflies'  | split: ", " %}
+{% include page-card-gallery.html links=page_links %}
+
+### POST HUMAN: NeX GEn
+
+{% assign page_links = '/pages/music/song-youtopia, /pages/music/song-koolaid, /pages/music/song-top10, /pages/music/song-limousine, /pages/music/song-darkside, /pages/music/song-abwmno, /pages/music/song-spiritual, /pages/music/song-na, /pages/music/song-lost, /pages/music/song-strangers, /pages/music/song-rip, /pages/music/song-amen, /pages/music/song-pusse, /pages/music/song-die4u, /pages/music/song-digit'  | split: ", " %}
+{% include page-card-gallery.html links=page_links %}
