@@ -1,5 +1,5 @@
 ---
-title: "OBEY ft. YUNGBLUD"
+title: "04. OBEY ft. YUNGBLUD"
 categories: ["music"]
 description: "The song OBEY ft. YUNGBLUD from the album POST HUMAN: SURVIVAL HORROR."
 tags: ["obey", "yungblud", "music", "song", "post", "human", "survival", "horror"]

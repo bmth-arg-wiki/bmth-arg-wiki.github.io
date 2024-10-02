@@ -1,5 +1,5 @@
 ---
-title: "[ost] p.u.s.s-e"
+title: "14. [ost] p.u.s.s-e"
 categories: ["music"]
 description: "The song [ost] p.u.s.s-e from the album POST HUMAN: NEx Gen."
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover_300.png"

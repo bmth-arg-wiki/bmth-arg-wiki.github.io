@@ -1,7 +1,8 @@
 ---
-title: "itchy, tasty.."
+title: "01. itchy, tasty.."
 categories: ["music"]
-description: "The song Dear Diary, from the album POST HUMAN: SURVIVAL HORROR."
+description: "The song Dear Diary, from the album POST HUMAN: SURVIVAL HORROR. Sorry, the title for this page was 
+devoured by a mysterious patient."
 tags: ["dear", "diary", "scott", "music"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph1/album_cover_300.jpg"
 ---

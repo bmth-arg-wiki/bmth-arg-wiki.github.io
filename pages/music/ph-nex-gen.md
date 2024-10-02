@@ -6,10 +6,7 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/p
 ---
 # POST HUMAN: NeX GEn
 
-POST HUMAN: NeX GEn is the 2nd album/EP in the POST HUMAN line. 
-
-![Nex Gen album cover](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover.png)
-![Nex Gen album back](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/nexgen_album2.jpg)
+POST HUMAN: NeX GEn is the 2nd album/EP in the POST HUMAN line.
 
 ***
 
@@ -17,22 +14,8 @@ POST HUMAN: NeX GEn is the 2nd album/EP in the POST HUMAN line.
 
 All tracks for Nex Gen have their own articles.
 
-- [01. [ost] Dreamseeker](song-dreamseeker)
-- [02. YOUtopia](song-youtopia)
-- [03. Kool-Aid](song-koolaid)
-- [04. Top 10 staTues tHat CriEd bloOd](song-top10)
-- [05. liMOusIne](song-limousine)
-- [06. DArkSide](song-darkside)
-- [07. a bulleT w/my namE On](song-abwmno)
-- [08. [ost] (spi)ritual](song-spiritual)
-- [09. n/A](song-na)
-- [10. LosT](song-lost)
-- [11. sTraNgeRs](song-strangers)
-- [12. R.i.p (duskCOre RemIx)](song-rip)
-- [13. AmEN!](song-amen)
-- [14. [ost] puss-e](song-pusse)
-- [15. DiE4u](song-die4u)
-- [16. DIg It](song-digit)
+{% assign page_links = '/pages/music/song-youtopia, /pages/music/song-koolaid, /pages/music/song-top10, /pages/music/song-limousine, /pages/music/song-darkside, /pages/music/song-abwmno, /pages/music/song-spiritual, /pages/music/song-na, /pages/music/song-lost, /pages/music/song-strangers, /pages/music/song-rip, /pages/music/song-amen, /pages/music/song-pusse, /pages/music/song-die4u, /pages/music/song-digit'  | split: ", " %}
+{% include page-card-gallery.html links=page_links %}
 
 Additionally, there are some [songs](website-songs) on the music player on the [webpage](../webpage), 
 including two versions of Kool-Aid (8-bit version).
@@ -67,5 +50,10 @@ connecting over it with others.
 
 ## Read More
 
-- [POST HUMAN: Survival Horror](ph-survival-horror)
-- [amo](amo)
+{% assign page_links = '/pages/music/amo, /pages/music/ph-survival-horror, /pages/music/spectrograms' | split: ", " %}
+{% include page-card-gallery.html links=page_links %}
+
+***
+
+![Nex Gen album cover](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover.png)
+![Nex Gen album back](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/nexgen_album2.jpg)

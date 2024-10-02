@@ -2,7 +2,7 @@
 title: "Spectrograms"
 categories: ["music"]
 description: "Spectrograms of Nex Gen and other BMTH audio."
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/spectrograms/spectrogram-archangels.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/spectrograms/skull_spectrogram.png"
 ---
 # Spectrograms
 

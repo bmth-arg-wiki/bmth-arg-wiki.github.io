@@ -6,8 +6,6 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/p
 ---
 # POST HUMAN: SURVIVAL HORROR
 
-![Survival Horror album cover](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/sof/img.png)
-
 Post Human: Survival Horror (PH:SH) was the first Post Human album. PH:SH was supposed to be the first of four albums 
 ([source: Kerrang](https://www.kerrang.com/oli-sykes-on-bring-me-the-horizons-post-human-ep-series-theres-gonna-be-a-record-for-everyone)), 
 explicitly citing they were all part of a bigger project. We also find references to the song `Dear Diary,` in 
@@ -17,15 +15,8 @@ explicitly citing they were all part of a bigger project. We also find reference
 
 ## Song articles
 
-- [1. Dear Diary,](song-dear-diary)
-- [2. Parasite Eve](song-parasite-eve)
-- [3. Teardrops](song-teardrops)
-- [4. Obey](song-obey)
-- [5. Itch for the Cure (When Will We Be Free?)](song-kingslayer-itch)
-- [6. Kingslayer](song-kingslayer-itch)
-- [7. 1x1](song-1x1)
-- [8. Ludens](song-ludens)
-- [9. One Day The Only Butterflies Left Will Be In Your Chest As You March Towards Your Death](song-butterflies)
+{% assign page_links = '/pages/music/song-dear-diary, /pages/music/song-parasite-eve, /pages/music/song-teardrops, /pages/music/song-obey, /pages/music/song-kingslayer-itch, /pages/music/song-1x1, /pages/music/song-ludens, /pages/music/song-butterflies'  | split: ", " %}
+{% include page-card-gallery.html links=page_links %}
 
 ***
 
@@ -79,3 +70,7 @@ from NEx Gen. The theory is supported by the fact that both characters have a th
 
 - [Spectrograms](spectrograms)
 - [POST HUMAN: NeX GEn](ph-nex-gen)
+- [amo]
+
+{% assign page_links = '/pages/music/amo, /pages/music/ph-nex-gen, /pages/music/spectrograms' | split: ", " %}
+{% include page-card-gallery.html links=page_links %}

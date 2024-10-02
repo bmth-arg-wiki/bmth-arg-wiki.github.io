@@ -1,5 +1,5 @@
 ---
-title: "Parasite Eve"
+title: "02. Parasite Eve"
 categories: ["music"]
 description: "The song Parasite Eve from the album POST HUMAN: SURVIVAL HORROR."
 tags: ["parasite", "eve", "music", "post", "human", "survival", "horror"]
