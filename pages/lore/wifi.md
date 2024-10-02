@@ -3,7 +3,7 @@ title: "Wifi"
 description: "This page is about the Wifi section of the ARG website."
 categories: ["lore"]
 tags: ["wifi", "arg", "website", "lore", "m8"]
-image: "https://raw,githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/wifi/wifi-on.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/wifi/wifi-on.png"
 ---
 
 # Wifi
@@ -12,11 +12,11 @@ The Multidimensional Navigator 8 has a wifi feature, which was unusable until Se
 
 It is found in this little tab on the left:
 
-![wifi off](https://raw.githubusercontent.con/bmth-arg-wiki/wiki-assets/main/lore/wifi/wifi-off.png)
+![wifi off](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/wifi/wifi-off.png)
 
 Clicking it reveals three networks, each protected by a different password.
 
-![wifi networks](https://raw.githubusercontent.con/bmth-arg-wiki/wiki-assets/main/lore/wifi/wifi-servers.png)
+![wifi networks](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/wifi/wifi-servers.png)
 
 ***
 
@@ -25,7 +25,7 @@ Clicking it reveals three networks, each protected by a different password.
 On the 27th and 28th of September, the pop-up stores each had a phone displaying one of the characters for one of the passwords.
 Here's the Amsterdam phone as an example:
 
-![Amst wifi phone](https://raw.githubusercontent.con/bmth-arg-wiki/wiki-assets/main/lore/wifi/phone-example.png)
+![Amst wifi phone](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/wifi/phone-example.png)
 
 We finally got all the characters on the 30th, which lead us to unlock the first wifi network: nxEcoSubLevel.
 
@@ -37,7 +37,7 @@ c4E9q62u
 
 Once connected to the wifi, an update screen appears and M8 starts talking excitedely.
 
-![update screen](https://raw.githubusercontent.con/bmth-arg-wiki/wiki-assets/main/lore/wifi/update-progress.png)
+![update screen](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/wifi/update-progress.png)
 
 ### Transcription
 
