@@ -3,6 +3,7 @@ title: "Kingslayer & Itch"
 categories: ["music"]
 description: "The songs Itch For The Cure (When Will We Be Free) and Kingslayer from the album POST HUMAN: SURVIVAL HORROR."
 tags: ["itch", "for", "the", "cure", "kingslayer", "music", "song", "post", "human", "survival", "horror"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph1/album_cover_300.jpg"
 ---
 # Itch For the Cure (When Will We Be Free) & Kingslayer ft. BABYMETAL
 

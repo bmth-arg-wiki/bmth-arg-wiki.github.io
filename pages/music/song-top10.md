@@ -2,6 +2,7 @@
 title: "Top 10 staTues tHat CriEd bloOd"
 categories: ["music"]
 description: "The song Top 10 staTues tHat CriEd bloOd from the album POST HUMAN: NEx Gen."
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover_300.png"
 ---
 # Top 10 staTues tHat CriEd bloOd (song)
 

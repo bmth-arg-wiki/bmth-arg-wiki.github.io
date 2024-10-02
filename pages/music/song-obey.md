@@ -3,6 +3,7 @@ title: "OBEY ft. YUNGBLUD"
 categories: ["music"]
 description: "The song OBEY ft. YUNGBLUD from the album POST HUMAN: SURVIVAL HORROR."
 tags: ["obey", "yungblud", "music", "song", "post", "human", "survival", "horror"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph1/album_cover_300.jpg"
 ---
 # Obey ft. YUNGBLUD
 

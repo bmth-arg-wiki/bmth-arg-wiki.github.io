@@ -3,6 +3,7 @@ title: "1x1 ft. Nova Twins"
 categories: ["music"]
 description: "The song 1x1 ft. Nova Twins from the album POST HUMAN: SURVIVAL HORROR."
 tags: ["1x1", "song", "music", "post", "human", "survival", "horror", "nova", "twins"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph1/album_cover_300.jpg"
 ---
 # 1x1 ft. Nova Twins
 

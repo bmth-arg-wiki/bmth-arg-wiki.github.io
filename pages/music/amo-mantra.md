@@ -2,6 +2,7 @@
 title: "MANTRA"
 categories: ["music"]
 description: "The song MANTRA from the album amo."
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/amo/album_cover_300.png"
 ---
 # MANTRA (song)
 

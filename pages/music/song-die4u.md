@@ -2,6 +2,7 @@
 title: "DiE4u"
 categories: ["music"]
 description: "The song DiE4u from the album POST HUMAN: NEx Gen."
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover_300.png"
 ---
 # DiE4u (song)
 

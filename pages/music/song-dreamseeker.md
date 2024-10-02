@@ -2,6 +2,7 @@
 title: "[ost] Dreamseeker"
 categories: ["music"]
 description: "[ost] Dreamseeker, the intro to the album POST HUMAN: NEx Gen."
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover_300.png"
 ---
 # [ost] Dreamseeker
 

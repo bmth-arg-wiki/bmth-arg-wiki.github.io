@@ -2,6 +2,7 @@
 title: "In The Dark"
 categories: ["music"]
 description: "The song In The Dark from the album amo."
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/amo/album_cover_300.png"
 ---
 # In The Dark
 

@@ -2,6 +2,7 @@
 title: "POST HUMAN: NeX GEn"
 categories: ["music"]
 description: "The album POST HUMAN: NeX GEn."
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover_300.png"
 ---
 # POST HUMAN: NeX GEn
 
