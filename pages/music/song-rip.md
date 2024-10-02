@@ -1,5 +1,5 @@
 ---
-title: "R.i.p (duskCOre RemIx)"
+title: "12. R.i.p (duskCOre RemIx)"
 categories: ["music"]
 description: "The song R.i.p (duskCOre RemIx) from the album POST HUMAN: NEx Gen."
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover_300.png"

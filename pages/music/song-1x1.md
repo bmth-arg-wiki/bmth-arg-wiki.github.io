@@ -1,5 +1,5 @@
 ---
-title: "1x1 ft. Nova Twins"
+title: "07. 1x1 ft. Nova Twins"
 categories: ["music"]
 description: "The song 1x1 ft. Nova Twins from the album POST HUMAN: SURVIVAL HORROR."
 tags: ["1x1", "song", "music", "post", "human", "survival", "horror", "nova", "twins"]

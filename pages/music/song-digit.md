@@ -1,10 +1,12 @@
 ---
-title: "DIg It"
+title: "16. DIg It"
 categories: ["music"]
 description: "The song DIg It from the album POST HUMAN: NEx Gen."
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover_300.png"
 ---
 # DIg It (Song)
+
+> i hate my fucking guts right now
 
 DIg It is the final song on the album. It contains dialogue and hints from M8 after a 
 period of silence (93 seconds). [Insight 4: Vision](../lore/insight4-vision) can be found 

@@ -1,7 +1,7 @@
 ---
-title: "Nihilist Blues ft. Grimes"
+title: "03. nihilist blues (feat. Grimes)"
 categories: ["music"]
-description: "The song Nihilist Blues ft. Grimes from the album amo."
+description: "The song nihilist blues from the album amo."
 tags: ["amo", "music", "nihilist blues", "nihilist", "blues"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/amo/album_cover_300.png"
 ---
