@@ -119,7 +119,7 @@ Continue to the next objective: [unlocking the files in the FOR SOF folder](walk
 You can read more about the contents of the web page here:
 
 - [The main webpage](../webpage)
-- [The webbrowser](../webbrowser)
+- [The webbrowser](../lore/webbrowser.md)
 - [The website songs](../music/website-songs)
 
 **[Next walkthrough page](walkthrough2)**

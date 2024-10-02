@@ -13,7 +13,7 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/d
 > "everyones favourite AI run megalordz Nex Gen is back on the scene." - Renn_nstimpy72
 
 This file seems to be a forum post and first appeared in a website update on 28/05/2024. 
-The password was discovered in the URL that appeared in [the Spyder web browser](../webbrowser).
+The password was discovered in the URL that appeared in [the Spyder web browser](../lore/webbrowser.md).
 
 The immune child in the Dreadit post was later confirmed to be [Selene](../characters/selene) 
 in a message from EVE on the official Bring Me The Horizon Discord.
@@ -173,7 +173,7 @@ transmission from EVE on Discord on 08-07-2024:
 1d1b2c2a
 </details>
 
-The password to this file changed when the [Spyder Browser](../webbrowser) updated
+The password to this file changed when the [Spyder Browser](../lore/webbrowser.md) updated
 to contain a Dreaddit link in the URL bar.
 
 ***

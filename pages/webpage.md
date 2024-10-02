@@ -131,7 +131,7 @@ serial number we used to access the webpage.
 
 ## Spyder
 
-Spyder is the in-universe [web browser](webbrowser) on the page. 
+Spyder is the in-universe [web browser](lore/webbrowser.md) on the page. 
 
 ***
 
@@ -162,5 +162,5 @@ the webpage several times.
 ## Read More
 
 - [FOR SOF file folder](for-sof)
-- [Web browser (Spyder)](webbrowser)
+- [Web browser (Spyder)](lore/webbrowser.md)
 - [Other webpages](other-webpages)
