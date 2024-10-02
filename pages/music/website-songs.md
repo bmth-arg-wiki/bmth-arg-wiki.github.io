@@ -2,7 +2,7 @@
 title: "Website Songs"
 categories: ["music", "lore"]
 description: "The songs embedded in the Multidimensional Navigator 8 website."
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/websitesongs/global_destruction.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/websitesongs/website_songs_300.png"
 ---
 # Website Songs
 
