@@ -27,7 +27,7 @@ Connections to other songs have not (yet) been found.
 02. [MANTRA](amo-mantra)
 03. [nihilist blues ft. Grimes](amo-nihilist-blues)
 04. [in the dark](amo-in-the-dark)
-05. wonderful life (ft. Dani Filth
+05. wonderful life (ft. Dani Filth)
 06. ouch
 07. medicine
 08. [sugar honey ice & tea](amo-shit)
