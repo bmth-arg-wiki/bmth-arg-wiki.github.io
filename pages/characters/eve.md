@@ -8,7 +8,7 @@ tags: ["eve", "ai", "ia", "evolutionary virtual experiment", "extremely violent 
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/eve/0eve.png"
 ---
 
-# E.V.E
+# E.V.E 
 
 ![Eve's Avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/eve/0eve.png)
 
