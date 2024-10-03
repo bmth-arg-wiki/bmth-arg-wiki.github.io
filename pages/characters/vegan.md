@@ -19,7 +19,7 @@ Vegan related to the Fourth Insight: [Vision](../lore/insight4-vision), alongsid
 
 ## Backstory
 
-Known as the "riddim ryder" in the [POST HUMAN: NeX GEn booklet](../lore/booklet), 
+Known as the "riddim ryder" in the [POST HUMAN: NeX GEn booklet](../lore/booklet#Vegan), 
 Vegan is a gentle spirit who loves the land is passionate about nurturing it and its inhabitants.
 He is a figure of light, harmony, and compassion beloved by the entire community. 
 

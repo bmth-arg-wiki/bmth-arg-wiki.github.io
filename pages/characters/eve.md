@@ -23,7 +23,7 @@ She also implies that E.V.E. is on earth at the moment while we are not.
 
 ### Genesis
 
-The [POST HUMAN: NeX GEn booklet](../lore/booklet) tells us that E.V.E. was originally created by an advanced alien civilisation as a precaution if humanity ignored warnings about dangerous sentient technology.
+The [POST HUMAN: NeX GEn booklet](../lore/booklet#EVE) tells us that E.V.E. was originally created by an advanced alien civilisation as a precaution if humanity ignored warnings about dangerous sentient technology.
 She was completed by [Ikaro Lauren](ren) as explained in the [Lauren D8 Log](../for-sof/lauren_d8_log).
 
 Since we see many different versions of E.V.E, including at the real world live shows, it is unclear if she went through multiple iterations of if she dimply just has different looks.
