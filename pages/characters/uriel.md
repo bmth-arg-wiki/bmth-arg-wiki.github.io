@@ -10,29 +10,18 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 
 ![Uriel's Avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/uriel/2uriel.png)
 
-Uriel is the fourth archangel, linked to [Insight 4: Vision](../lore/insight4-vision). 
-He is user 0002 on the [webpage](../webpage).
-The symbol for 'Vision' is visible on his skirt in the [tour poster](#gallery).
+Uriel is user 0002 in the Multidimensional Navigator 8.
 
-The official Omen for his insight, Vision, is the Babylon, which does not appear as 
-a character.
+He is related to the Fourth Insight: [Vision](../lore/insight4-vision), alongside Omen [The Babylon](babylon) and band member [Vegan](vegan).
+
+The symbol for 'Vision' is visible on his skirt in the [tour poster](#gallery).
 
 ***
 
-## Read More
+## Backstory
 
-- [Characters](../characters)
-
-Insight 4:
-
-- [Insight 4: Vision](../lore/insight4-vision)
-- [Vegan](vegan)
-
-Other archangels:
-
-- [Gabriel](gabriel)
-- [Michael](michael)
-- [Raphael](raphael)
+As told in the [POST HUMAN: NeX GEn booklet](../lore/booklet), the Archangels are there to assist [Selene](selene) in [YOUtopia](../lore/youtopia).
+They guide her through different realms, ensuring her journey stays balanced.
 
 ***
 
@@ -40,3 +29,25 @@ Other archangels:
 
 {% include gallery.html folder="characters/uriel/gallery" %}
 
+***
+
+## Read More
+
+- More [characters](characters)!
+
+Related lore:
+
+- [Insight 4: Vision](../lore/insight4-vision)
+- [YOUtopia](../lore/youtopia)
+
+Related characters:
+
+- [The Babylon](babylon)
+- [Vegan](vegan)
+- [Selene](selene)
+
+Other [Archangels](characters#The-Archangels):
+
+- [Gabriel](gabriel)
+- [Michael](michael)
+- [Raphael](raphael)
