@@ -23,13 +23,7 @@
 
     <!-- Header -->
     <header class="header">
-        <!-- Homepage uses the image banner -->
-        {% if page.url == "/" %}
-            {% include header-image.html %}
-        <!-- None of the other pages do, since it takes up a lot of space -->
-        {% else %}
-            {% include header.html %}
-        {% endif %}
+        {% include header.html %}
     </header>
 
     <!-- Page modal -->
