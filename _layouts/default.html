@@ -23,12 +23,17 @@
 
     <!-- Header -->
     <header class="header">
-        {% include header.html %}
+        <!-- Homepage uses the image banner -->
+        {% if page.url == "/" %}
+            {% include header-image.html %}
+        <!-- None of the other pages do, since it takes up a lot of space -->
+        {% else %}
+            {% include header.html %}
+        {% endif %}
     </header>
 
     <!-- Page modal -->
     {% include modal.html %}
-
 
     <!-- Search -->
     <div class="search-bar">
@@ -49,17 +54,19 @@
             </main>
         </div>
         <!-- Table of Contents: pages only (not on homepage) -->
-        <div class="toc-container" id="toc-container">
-            <aside class="container p-2" id="toc-aside">
-                {% include toc.html %}
-            </aside>
-        </div>
+        {% if page.url != "/" %}
+            <div class="toc-container" id="toc-container">
+                <aside class="container p-2" id="toc-aside">
+                    {% include toc.html %}
+                </aside>
+            </div>
+        {% endif %}
     </div>
-
     <!-- Footer -->
     <footer class="footer">
         {% include footer.html %}
     </footer>
+    <script src="/assets/js/toc.js"></script>
     <script src="/assets/js/modal.js"></script>
 </body>
 </html>
