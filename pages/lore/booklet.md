@@ -1010,6 +1010,8 @@ From ancient Omens awakened from slumber to malevolent entities imprisoned withi
 >
 >[DIg It lyrics]
 
+(Transcription by Alec)
+
 ***
 
 # Read More

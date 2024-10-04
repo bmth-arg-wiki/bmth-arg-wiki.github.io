@@ -2,7 +2,7 @@
 title: "Vegan"
 description: "Vegan is the character for band member Matt Kean, the bassist of Bring Me The Horizon."
 categories: ["characters"]
-tags: ["vegan", "matt kean", "band", "bmth", "vision"]
+tags: ["vegan", "matt kean", "band", "bmth", "vision", "uriel", "the babylon"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/vegan/1vegan.png"
 ---
 
@@ -10,16 +10,26 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 
 ![Avatar for Vegan](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/vegan/1vegan.png)
 
-Vegan is user 0001.
+Vegan is user 0001 in the Multidimensional Navigator 8.
 
 He is the stand-in character for Matt Kean, BMTH's bassist. 
-He is related to the Fourth Insight: [Vision](../lore/insight4-vision), alongside archangel [Uriel](uriel) and omen [The Babylon](babylon.md).
+Vegan is related to the Fourth Insight: [Vision](../lore/insight4-vision), alongside Archangel [Uriel](uriel) and Omen [The Babylon](babylon.md).
+
+***
+
+## Backstory
+
+Known as the "riddim ryder" in the [POST HUMAN: NeX GEn booklet](../lore/booklet#Vegan), 
+Vegan is a gentle spirit who loves the land is passionate about nurturing it and its inhabitants.
+He is a figure of light, harmony, and compassion beloved by the entire community. 
 
 ***
 
 ## Gallery
 
 {% include gallery.html folder="characters/vegan/gallery" %}
+
+***
 
 ## Read More
 
@@ -34,7 +44,7 @@ Related characters:
 - [Archangel Uriel](uriel)
 - [The Babylon](babylon)
 
-Other [band members](../characters#band-members):
+Other [band members](characters#band-members):
 
 - [Syko / Oli](syko)
 - [Madman / Lee](madman)

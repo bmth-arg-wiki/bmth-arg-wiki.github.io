@@ -1,7 +1,7 @@
 ---
 title: "Selene"
 description: "Selene is one of the main protagonists of the story. Nex Gen refers to her as NYX-01 and has a keen 
-interest in her exceptional pineal gland and immunity to the virus."
+interest in her exceptional pineal gland and immunity to the VSPR-37 virus."
 categories: ["characters"]
 tags: ["selene", "sof", "youtopia", "m8", "clive", "pusse", "strassman", "eve", "indole alkaloid structure", "pineal gland", 
 "mother", "protagonist"]
@@ -11,97 +11,80 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 
 ![Selene's Avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/selene/3selene.png)
 
-Selene is one of the users that can be viewed on the M8 system. She has user number 0003.
+Selene is user 0003 in the Multidimensional Navigator 8.
+
+She is the protagonist of the story.
 
 ***
 
 ## Backstory
 
-### Introduction
+### Overview
 
-It is revealed in the [msgforsof Audio Log](../for-sof/msgforsof) that Selene is [SOF](sof)'s mother, that left her within 20 minutes of her birth. Selene states 
-that she 'has to do something first' and leaves after hearing an alarm, stating to Sof that 
-the alarm is 'her cue'. She indicates that [M8](../m8) has been with her for some 
-time and has saved her life countless times, even highlighting the fact M8 may have 
-done the same for Sof by now.
+Selene is the immune girl from the [Dreaddit post](../for-sof/dreadit) [E.V.E](eve) and [Dr. Karl Strassman](strassman) are studying.
+Her high amounts of naturally produced DMT is what gave her the immunity to VSPR-37.
+Because of [Nex Gen](../lore/nex-gen-corporation) experimentations, she is now on an epic journey through [YOUtopia](../lore/youtopia).
+
+The top right corner of the ARG website log-in page displays "SUBJECT SELENE".
 
 ![Subject Selene](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/selene/gallery/subject-selene.png)
 
-Top right corner of the log-in page displays `SUBJECT SELENE`.
+### Teenage Years - VSPR-37 Outbreak
 
-### Selene's diary and Scott's diary
+When the outbreak first started in late October 2037, Selene was only 16, making her birth year 2020 or 2021.
 
-> If Scott’s not at school tomorrow, I’m definitely going to swing by his house after class to check on him. Gotta make sure he’s okay.
->
-> Damn, it he’s got me this worked up over nothing, he’s a dead man.
->
-> Later,
-> Selene
-> 
-> - From [Selene's diary](../for-sof/selene_personal_journal)
+In [her diary](../for-sof/selene_personal_journal.md), she talks about "this flu [...] it's appeared pretty much overnight" 
+and hearing her parents talking about "stocking up on supplies".
+She also mentions how she's worried about her friend (and crush) [Scott](syko), who she hasn't seen in three days. 
+Selene then plans on visiting him the next day if he still doesn't show up to school.
 
-[Selene's diary](../for-sof/selene_personal_journal) is a file containing some of 
-Selene's personal experiences in 2037, the year of the VSPR-37 outbreak. 
-This is the virus from [Scott's diary](../for-sof/scott_personal_journal), who also happens 
-to be Selene's crush and band member [Syko](syko).
+Scott also talks about her in [his diary](../for-sof/scott_personal_journal), writing "wish I could see her" when he can't go to school, 
+and "My moon, I wish I told u. Mayb u already nu..." when he gets really sick.
 
-> Need meet…fresh…Selen…mis u. wan to see her 1 last time, but scare of wat i do. her face is only thing that stil mek sense.
-her tasty face…
-> - Scott on Selene in his [diary](../for-sof/scott_personal_journal)
+### Motherhood
 
-In the diaries she is only 16 years old, putting her birthday somewhere in 2021 or 2020.
-She also mentions that they are "in Eli", likely referring to a region or a city. 
-Selene also mentions that her mother has been glued to the news, hoping that her mom is not 
-back on "Soms".
-
-### Dreadit post
-
-> 'trusted' (lol) sources are reporting that NEXGEN have found a
-> young girl who's immune. Yeah, immune. And apparently, it's all because of her pineal
-> gland.
-
-The [dreadit post](../for-sof/dreadit) contains a reference to an immune child who still produces 
-DMT. We get confirmation that this immune child is indeed Selene in a message from [E.V.E](eve) 
-on Discord.
-
->E.V.E — 08-07-2024 18:06
-> Good evening @everyone
->
->As you know, our Earth has been ravaged following the terrible virus that spread like wildfire across our beautiful planet. However, we at NeX GEn dedicated ourselves to control, I mean rebuild society from the ashes. We have been able to go deeper than anyone else has before, and we have found salvation !
->
->Thanks to a very willing subject named Selene, who was immune to the virus, we have been able to probe the innermost recesses of her mind. Within this domain, she found herself ensnared in a dreamscape beyond her wildest imagination. She named this place [Youtopia](../lore/youtopia), a domain accessible to every human, with definitely no side effects. if you, too, wish to access Youtopia, all you need to do is…
+It is revealed in the [msgforsof audio log](../for-sof/msgforsof) that Selene is [Sof](sof)'s mother, 
+and that she left them in the care of [M8](../m8) within 20 minutes of their birth. 
+She states having "to do something first" and takes off after hearing an alarm, saying the alarm is "her cue". 
+She mentions that M8 has been with her for a while, and has saved her life countless times, 
+even highlighting that M8 may have done the same for Sof by now.
 
 ***
 
-## Selene & the capslock doc
+## Selene & the CAPSLOCK DOC
 
-Selene also has a connection to the [capslock doc](../for-sof/capslock_doc), which 
-was opened earlier in the timeline than expected by the devs. For this reason, 
-spoilers for this document are contained to that specific article.
-
-***
-
-## Read More
-
-Related characters:
-
-- [Characters](../characters)
-- [Eve](eve)
-- [Sof](sof)
-- [M8](../m8)
-
-Related files:
-
-- [Files for Sof (folder)](../for-sof)
-- [Message for sof](../for-sof/msgforsof)
-- [Selene's map](../for-sof/selenes_map)
-- [Selene's diary](../for-sof/selene_personal_journal)
-- [Scott's diary](../for-sof/scott_personal_journal)
-- [Dreadit post](../for-sof/dreadit)
-- [The Science Study](../for-sof/thesciencestudy)
+Selene is connected to the [CAPSLOCK DOC](../for-sof/capslock_doc), which was opened earlier in the timeline than expected by the devs. 
+For this reason, spoilers for this document are contained to its article.
 
 ***
 
 ## Gallery
 
 {% include gallery.html folder="characters/selene/gallery" %}
+
+***
+
+# Read More
+
+More [characters](characters)!
+
+Related files:
+
+- [Dreaddit post](../for-sof/dreadit)
+- [Selene's Diary](../for-sof/selene_personal_journal)
+- [Scott's Diary](../for-sof/scott_personal_journal)
+- [msgforsof](../for-sof/msgforsof)
+- [CAPSLOCK DOC](../for-sof/capslock_doc)
+
+Related lore:
+
+- [Nex Gen Corporation](../lore/nex-gen-corporation)
+- [YOUtopia](../lore/youtopia)
+
+Related characters:
+
+- [E.V.E.](eve)
+- [Strassman](strassman)
+- [Scott/Syko](syko)
+- [Sof](sof)
+- [M8](../m8)
