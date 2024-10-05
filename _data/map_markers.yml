@@ -1,0 +1,111 @@
+markers:
+  - id: "marker-youtopia"
+    lat: 218.5
+    lng: 379
+    url: "/pages/lore/youtopia"
+
+  - id: "marker-walkthrough"
+    lat: 224.5
+    lng: 512.5
+    url: "/pages/walkthrough/walkthrough"
+
+  - id: "marker-insights"
+    lat: 70.5
+    lng: 61
+    url: "/pages/lore/insights"
+
+  - id: "marker-connection"
+    lat: 69
+    lng: 106
+    url: "/pages/lore/insight1-connection"
+    icon_color: "connection-yellow"
+
+  - id: "marker-flute"
+    lat: 128.5
+    lng: 571
+    url: "/pages/lore/insight1-connection"
+    icon_color: "connection-yellow"
+
+  - id: "marker-pan"
+    lat: 159
+    lng: 527.5
+    url: "/pages/characters/pan"
+    icon_color: "connection-yellow"
+
+  - id: "marker-raphael"
+    lat: 182
+    lng: 534
+    url: "/pages/characters/raphael"
+    icon_color: "connection-yellow"
+
+  - id: "marker-empathy"
+    lat: 72
+    lng: 18.5
+    url: "/pages/lore/insight2-empathy"
+    icon_color: "empathy-blue"
+
+  - id: "marker-miseria"
+    lat: 215.5
+    lng: 189
+    url: "/pages/characters/miseria"
+    icon_color: "empathy-blue"
+
+  - id: "marker-guardian-tears"
+    lat: 136
+    lng: 185.5
+    url: "/pages/lore/insight2-empathy"
+    icon_color: "empathy-blue"
+
+  - id: "marker-gabriel"
+    lat: 213.5
+    lng: 262.5
+    url: "/pages/characters/gabriel"
+    icon_color: "empathy-blue"
+
+  - id: "marker-purpose"
+    lat: 26
+    lng: 61
+    url: "/pages/lore/insight3-purpose"
+    icon_color: "purpose-red"
+
+  - id: "marker-michael"
+    lat: 98
+    lng: 335
+    url: "/pages/characters/michael"
+    icon_color: "purpose-red"
+
+  - id: "marker-candle"
+    lat: 73
+    lng: 407.5
+    url: "/pages/lore/insight3-purpose"
+    icon_color: "purpose-red"
+
+  - id: "marker-vanth"
+    lat: 99
+    lng: 446
+    url: "/pages/characters/vanth"
+    icon_color: "purpose-red"
+
+  - id: "marker-vision"
+    lat: 114.5
+    lng: 61.5
+    url: "/pages/lore/insight4-vision"
+    icon_color: "vision-green"
+
+  - id: "marker-golden-raspberry"
+    lat: 309
+    lng: 441
+    url: "/pages/lore/insight4-vision"
+    icon_color: "vision-green"
+
+  - id: "marker-uriel"
+    lat: 286.5
+    lng: 408.5
+    url: "/pages/characters/uriel"
+    icon_color: "vision-green"
+
+  - id: "marker-babylon"
+    lat: 305
+    lng: 337
+    url: "/pages/characters/babylon"
+    icon_color: "vision-green"

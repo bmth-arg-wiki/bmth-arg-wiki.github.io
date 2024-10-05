@@ -21599,6 +21599,37 @@ has-background-danger.is-hoverable:active {
   height: 100%;
 }
 
+#map {
+  height: 700px;
+}
+
+/* Map marker defaults to pink */
+.map-marker {
+  color: #d97320;
+  font-size: 24px;
+}
+
+/* Marker helper classes */
+.connection-yellow {
+  color: #f4cb18;
+}
+
+.empathy-blue {
+  color: #44d5da;
+}
+
+.purpose-red {
+  color: #d92031;
+}
+
+.vision-green {
+  color: #42b64a;
+}
+
+.spirit-purple {
+  color: #b120d9;
+}
+
 /*
  * Full header styling
  */
