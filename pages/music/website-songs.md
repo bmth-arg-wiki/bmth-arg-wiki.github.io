@@ -1,7 +1,9 @@
 ---
 title: "Website Songs"
-categories: ["music", "lore"]
 description: "The songs embedded in the Multidimensional Navigator 8 website."
+categories: ["music", "lore"]
+tags: ["bring me the horizon", "multidimensional navigator", "m8", "bmth", "unreleased", "global", "destruction", 
+"ay00000", "ayooooo", "kool-aid", "8-bit", "d.w.t.", "dwt", "devil", "wrist", "grave", "nmez", "molko"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/websitesongs/website_songs_300.png"
 ---
 # Website Songs
