@@ -105,18 +105,10 @@ The weather as displayed after the 26th of May update for roughly 1-2 months.
 
 ### Buttons
 
+{% include gallery.html folder="webpage/buttons" %}
+
 The page also provides a button to manage your [Wi-fi](lore/wifi), which will likely be needed to access the browser. 
-The Codek messaging app also states that it needs a connection to the internet.
-
-![Wi-fi screen](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/wifi_screen.png)
-
-Wi-fi options menu
-
-![Website button with M8](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/webpage-button-m8.png)
-
-Website button with M8 on it shows us some system information.
-
-![System specs?](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/system_specs.png)
+The Codek messaging app also states that it needs a connection to the internet. The website button with M8 on it shows us some system information.
 
 The last button in the row shows us what looks like system specifications, including the 
 serial number we used to access the webpage.
