@@ -2,15 +2,16 @@
 title: "Walkthrough Part 2"
 description: "The second part of the walkthrough focuses on opening the files in the FOR SOF folder."
 categories: ["walkthrough"]
-tags: ["walkthrough", "arg", "bring me the horizon", "bmth", "password game", "qr code",
-       "dig it", "sof", "for-sof", "serial number", "secrets", "past", "msgforsof", "insights", 
+tags: ["walkthrough", "arg", "bring me the horizon", "bmth", "password", "game", "qr code",
+       "multdimensional", "navigator", "sof", "for-sof", "serial number", "secrets", "past", "msgforsof", "insights", 
        "empathy", "connection", "purpose", "vision", "creativity", "capslock", "selene's storage crate", 
        "selene", "strassman", "karl", "pusse", "youtopia", "eve", "dreadit", "clive", "1d1b2c2a", 
        "r8", "m8 systems", "within", "0003", "0005", "0014", "vspr-37", "scott", "syko", "ren", "ikaro lauren", 
        "operation trinity", "arc/hive", "tekka", "interview", "synth", "chronic environmental respiratory syndrome", 
        "cers", "project dust", "angeldust", "psy", "mares", "radiogenic leukotrichia", "pink hair", "unbeleevable", 
        "starjammers", "skys", "october palace", "mantra", "cult", "genxsis", "russian poem", "my dear love", 
-       "kingslayer", "nyx 01", "nyx 02", "grumblr", "rebecca sinclair", "lbr", "lbrp", "lesser banishing ritual", "goxmog"]
+       "kingslayer", "nyx 01", "nyx 02", "grumblr", "rebecca sinclair", "lbr", "lbrp", "lesser banishing ritual", "goxmog", 
+        "dig it", "wifi"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/walkthrough.png"
 ---
 # Walkthrough: FOR SOF
@@ -1087,9 +1088,28 @@ This file is about the majestic [Goxmog](../for-sof/goxmog) and will provide mor
 " | markdownify }}
 </details>
 
+***
+
 ## Recovered_Chapel.mp4
 
 The password for this file is currently unknown.
+
+***
+
+## Wi-fi 
+
+At this point we recommend you check out the [wi-fi](../lore/wifi). The password 
+for the wi-fi was puzzled together in a special event during the pop-up shops hosted 
+across several cities across the world. Each location had a phone with one of the 
+characters for the password and a message telling the community to work together. 
+This one's a freebie!
+
+<details>
+<summary>Solution</summary>
+{{ "c4E9q62u" | markdownify }}
+</details>
+
+***
 
 ## Read More
 
