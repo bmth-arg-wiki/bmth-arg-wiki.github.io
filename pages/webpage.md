@@ -2,9 +2,9 @@
 title: "Multidimensional Navigator 8 Webpage"
 description: "Discusses the most important parts we can view on the Multidimensional Navigator 8."
 categories: ["webpage"]
-tags: ["webpage", "m8", "multidimensional navigator", "8-line", "dashboard", "backgrounds", 
+tags: ["webpage", "m8", "multidimensional", "navigator", "8-line", "dashboard", "backgrounds", 
 "access card", "acid rain", "weather", "nocturne", "spyder", "codek", "codec", "nex gen", 
-"ARG", "post human"]
+"ARG", "post human", "wifi"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/webpage-overview.png"
 ---
 
@@ -13,7 +13,7 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage
 Most of the ARG takes place in the Multidimensional Navigator. You can access 
 it with the following link.
 
-`https://www.multidimensionalnavigator8.help/index-desktop.html`
+[https://www.multidimensionalnavigator8.help/index-desktop.html](https://www.multidimensionalnavigator8.help/index-desktop.html)
 
 ![An overview of the webpage](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/webpage-overview.png)
 
@@ -105,7 +105,7 @@ The weather as displayed after the 26th of May update for roughly 1-2 months.
 
 ### Buttons
 
-The page also provides a button to manage your Wi-fi, which will likely be needed to access the browser. 
+The page also provides a button to manage your [Wi-fi](lore/wifi), which will likely be needed to access the browser. 
 The Codek messaging app also states that it needs a connection to the internet.
 
 ![Wi-fi screen](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/wifi_screen.png)
@@ -131,7 +131,7 @@ serial number we used to access the webpage.
 
 ## Spyder
 
-Spyder is the in-universe [web browser](lore/webbrowser.md) on the page. 
+Spyder is the in-universe [web browser](lore/webbrowser) on the page. 
 
 ***
 
@@ -143,19 +143,18 @@ The website users are all [characters](characters) with their own dedicated page
 
 ## Codek
 
-![img.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/kodek.png)
+![Screenshot of the codek on the website](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/kodek.png)
 
 This dialogue is shown briefly before getting a message that we need to connect to the 
-internet first to use the messaging app.
+internet first to use the messaging app. After connecting to the [wi-fi](lore/wifi), we still 
+sadly can not access the codek, since M8 is updating and a firewall prevents us from accessing the 
+full capabilities of the wi-fi.
 
 ***
 
 ## Website backgrounds
 
-![One of the many website backgrounds](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/backgrounds/background-green-symbol.png)
-
-One of the wallpapers on the background, with a symbol that appears on 
-the webpage several times.
+{% include gallery.html folder="webpage/gallery" %}
 
 ***
 
