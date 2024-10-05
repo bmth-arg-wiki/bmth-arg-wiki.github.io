@@ -51,6 +51,8 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    const folder = document.getElementById('image-gallery').dataset.folder;
-    loadGallery(folder);
+     const gallery = document.getElementById('image-gallery');
+     if (gallery) {
+        loadGallery(gallery.dataset.folder);
+     }
 });
