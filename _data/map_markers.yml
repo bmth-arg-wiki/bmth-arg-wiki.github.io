@@ -3,6 +3,7 @@ markers:
     lat: 218.5
     lng: 379
     url: "/pages/lore/youtopia"
+    custom_icon: "/assets/imgs/icons/pusse.png"
 
   - id: "marker-walkthrough"
     lat: 224.5
@@ -22,9 +23,10 @@ markers:
 
   - id: "marker-flute"
     lat: 128.5
-    lng: 571
+    lng: 548
     url: "/pages/lore/insight1-connection"
     icon_color: "connection-yellow"
+    custom_icon: "/assets/imgs/icons/flute.png"
 
   - id: "marker-pan"
     lat: 159
@@ -55,6 +57,7 @@ markers:
     lng: 185.5
     url: "/pages/lore/insight2-empathy"
     icon_color: "empathy-blue"
+    custom_icon: "/assets/imgs/icons/tears.png"
 
   - id: "marker-gabriel"
     lat: 213.5
@@ -75,10 +78,11 @@ markers:
     icon_color: "purpose-red"
 
   - id: "marker-candle"
-    lat: 73
+    lat: 75
     lng: 407.5
     url: "/pages/lore/insight3-purpose"
     icon_color: "purpose-red"
+    custom_icon: "/assets/imgs/icons/candle.png"
 
   - id: "marker-vanth"
     lat: 99
@@ -97,6 +101,7 @@ markers:
     lng: 441
     url: "/pages/lore/insight4-vision"
     icon_color: "vision-green"
+    custom_icon: "/assets/imgs/icons/raspberry.png"
 
   - id: "marker-uriel"
     lat: 286.5

@@ -34,7 +34,16 @@ document.addEventListener('DOMContentLoaded', () => {
     const title = div.getAttribute('data-title');
     const description = div.getAttribute('data-description');
     const url = div.getAttribute('data-url');
-    const customIcon = createIcon(div.getAttribute('data-icon-color'));
+    let customIcon;
+
+    if (div.getAttribute('data-custom-icon')) {
+        customIcon = L.icon({
+            iconUrl: div.getAttribute('data-custom-icon'),
+            iconSize: [50, 50]
+        });
+    } else {
+        customIcon = createIcon(div.getAttribute('data-icon-color'));
+    }
 
     const popupContent = `<p><a href='${url}'>${title}</a></p><p>${description}</p>`
     const popupOptions = {
