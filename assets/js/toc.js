@@ -20,6 +20,6 @@ document.addEventListener('DOMContentLoaded', function () {
 
         span.appendChild(anchor);
         listItem.appendChild(span);
-        tocList.appendChild(listItem);
+        if (tocList) { tocList.appendChild(listItem) }
     });
 });

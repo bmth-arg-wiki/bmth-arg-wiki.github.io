@@ -7,25 +7,20 @@
             </div>
         </nav>
     </div>
-    <div class="hero-body">
-        <div class="container">
-            <p class="title arg-font p-1"><a class="has-text-primary" href="{{ site.baseurl }}/">BRING ME THE HORIZON</a></p>
-            <p class="subtitle p-1"><a class="has-text-primary-90" href="{{ site.baseurl }}/">ARG Wiki</a></p>
+    <!-- Home page uses the image banner -->
+    {% if page.url == "/" %}
+        <div class="hero-body p-0">
+            <figure class="image is-fullwidth">
+                <img class="hero-banner" src="/assets/imgs/imagine_youtopia.PNG" alt="Imagine Youtopia Discord Contest Fanart">
+            </figure>
         </div>
-    </div>
-    <div class="hero-foot">
-        <nav class="tabs is-boxed is-fullwidth">
+    {% else %}
+        <div class="hero-body">
             <div class="container">
-                <ul>
-                    <li class="is-active"><a href="{{ site.baseurl }}/">Home</a></li>
-                    <li><a href="{{ site.baseurl }}/pages/characters/characters">Characters</a></li>
-                    <li><a href="{{ site.baseurl }}/pages/for-sof/for-sof">Files</a></li>
-                    <li><a href="{{ site.baseurl }}/pages/lore/lore">Lore</a></li>
-                    <li><a href="{{ site.baseurl }}/pages/music/music">Music</a></li>
-                </ul>
+                <p class="title arg-font p-1"><a class="has-text-primary" href="{{ site.baseurl }}/">BRING ME THE HORIZON</a></p>
+                <p class="subtitle p-1"><a class="has-text-primary-90" href="{{ site.baseurl }}/">ARG Wiki</a></p>
             </div>
-        </nav>
-    </div>
+        </div>
+    {% endif %}
+    {% include header-foot.html %}
 </section>
-<script src="/assets/js/hamburger.js"></script>
-<script src="/assets/js/tabs.js"></script>

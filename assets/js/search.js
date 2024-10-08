@@ -1,135 +1,108 @@
-// Set the maximum number of results from the search function
+// Set the maximum number of results
 const MAX_RESULTS = 10;
 
-$(function () {
+document.addEventListener('DOMContentLoaded', () => {
     let posts = [];
 
-    // On permalink /api/posts.json we have the data from all of our wiki articles
-    $.get('/api/posts.json', function (data) {
-        // Ensure data is properly parsed
-        if (typeof data === "string") {
-            try {
-                data = JSON.parse(data);
-                console.log(data);
-            } catch (e) {
-                console.error("Failed to parse JSON data:", e);
-                return;
+    // Fetch posts data from the JSON file
+    fetch('/api/posts.json')
+        .then(response => response.json())
+        .then(data => {
+            posts = data;
+
+            // Bind search functionality after posts are loaded
+            const searchInput = document.getElementById('search');
+            const searchForm = document.getElementById('search-form');
+            const clearButton = document.getElementById('clear-button');
+
+            // Attach event listeners
+            searchInput.addEventListener('keyup', performSearch);
+            searchForm.addEventListener('submit', function (event) {
+                event.preventDefault(); // Prevent form submission
+                performSearch();
+            });
+
+            clearButton.addEventListener('click', () => {
+                searchInput.value = ''; // Clear the search input
+                performSearch(); // Re-run the search with an empty value
+            });
+
+            // Initial search if input already has value
+            if (searchInput.value.length > 0) {
+                performSearch();
             }
-        }
-        posts = data;
-
-        // Bind search functionality ONLY AFTER the posts are loaded
-        $('#search').on('keyup', performSearch);
-        $('#search-form').on('submit', function () {
-            performSearch();
+        })
+        .catch(error => {
+            console.error('Failed to load posts JSON:', error);
         });
 
-        // Add a button to clear the result
-        $('#clear-button').on('click', function () {
-            $('#search').val('');
-            performSearch();
-        });
-
-        // Run search if there's already input in the search field
-        if ($('#search').val().length > 0) {
-            performSearch();
-        }
-    }).fail(function () {
-        console.error("Failed to load posts JSON");
-    });
-
-    // Emoji mapping for categories
-    var categoryEmojis = {
-        "music": "🎵",
-        "files": "🗂️",
-        "lore": "📚",
-        "characters": "🙋",
-        "default": "📰"
+    // Font Awesome icon mapping for categories (placeholders)
+    const categoryIcons = {
+        'music': '<i class="fa-solid fa-record-vinyl"></i>',
+        'for-sof': '<i class="fa-solid fa-file"></i>',
+        'lore': '<i class="fa-solid fa-book-open"></i>',
+        'characters': '<i class="fa-solid fa-address-card"></i>',
+        default: '<i class="fas fa-newspaper"></i>'
     };
 
-    // Map emoji to category
-    function getEmojiForCategory(category) {
-        return categoryEmojis[category] || categoryEmojis["default"];
+    // Get Font Awesome icon for category
+    function getIconForCategory(category) {
+        return categoryIcons[category] || categoryIcons['default'];
     }
 
     // Perform the search
     function performSearch() {
-        let keyword = $('#search').val().toLowerCase();
-        let searchResult = [];
+        const keyword = document.getElementById('search').value.toLowerCase();
+        const searchResult = document.getElementById('search-result');
+        let results = [];
         let additionalResults = [];
 
+        searchResult.innerHTML = ''; // Clear previous results
+
         if (keyword.length > 0) {
-            $('#search-result').show();
+            searchResult.style.display = 'block'; // Show result box
         } else {
-            $('#search-result').hide();
+            searchResult.style.display = 'none'; // Hide result box
         }
-        $('.result-item').remove();
 
         // First pass: prioritize results matching title or description
-        for (let i = 0; i < posts.length && searchResult.length < MAX_RESULTS; i++) {
-            let post = posts[i];
+        posts.forEach(post => {
+            if (!post) return;
 
-            // Skip if post is undefined or null
-            if (!post) {
-                continue;
-            }
+            const title = post.title ? post.title.toLowerCase() : '';
+            const description = post.description ? post.description.toLowerCase() : '';
+            const content = post.content ? post.content.toLowerCase() : '';
 
-            let title = post.title ? post.title.toLowerCase() : '';
-            let description = post.description ? post.description.toLowerCase() : '';
-            let content = post.content ? post.content.toLowerCase() : '';
-
-            // We always add results based on title and short description
-            if (title.indexOf(keyword) >= 0 || description.indexOf(keyword) >= 0) {
-                searchResult.push(post);
-
-            // Add it to the backup list if we don't match
-            } else if (content.indexOf(keyword) >= 0 && searchResult.length < MAX_RESULTS) {
+            if ((title.includes(keyword) || description.includes(keyword)) && results.length < MAX_RESULTS) {
+                results.push(post);
+            } else if (content.includes(keyword) && additionalResults.length < MAX_RESULTS) {
                 additionalResults.push(post);
             }
-        }
+        });
 
-        // If we need more results, the content-based results are added at the bottom.
-        if (searchResult.length < MAX_RESULTS) {
-            for (let i = 0; i < posts.length && searchResult.length < MAX_RESULTS; i++) {
-                let post = posts[i];
-
-                // Skip if post is undefined or null
-                if (!post || searchResult.includes(post)) { continue; }
-
-                // Check the content for matches
-                let content = post.content ? post.content.toLowerCase() : '';
-                if (content.indexOf(keyword) >= 0 && !additionalResults.includes(post)) {
-                    additionalResults.push(post);
+        // Fill in more results from content-based matches if needed
+        if (results.length < MAX_RESULTS) {
+            additionalResults.forEach(post => {
+                if (!results.includes(post) && results.length < MAX_RESULTS) {
+                    results.push(post);
                 }
-            }
+            });
         }
 
-        // Combine results, ensuring searchResult comes first
-        searchResult = searchResult.concat(additionalResults);
-
-        if (searchResult.length === 0) {
-            $('#search-result').append(
-                '<div class="result-item"><div class="description">There are no results.</div></div>'
-            );
+        // Display search results or "no results" message
+        if (results.length === 0) {
+            searchResult.innerHTML = '<div class="result-item"><div class="description">There are no results.</div></div>';
         } else {
-            for (let i = 0; i < MAX_RESULTS; i++) {
-                // Check the item for a category or make it undefined
-                let category = searchResult[i] ? searchResult[i].category : "";
-
-                // Determine the emoji for the category
-                let emoji = getEmojiForCategory(category); // Wrap category in an array
-
-                // Append HTML to display each search result
-                $('#search-result').append(
-                    '<a class="result-item" href="' +
-                    searchResult[i].url +
-                    '"><div class="h2">' + emoji + ' ' +
-                    searchResult[i].title +
-                    '</div><div class="description">' +
-                    (searchResult[i].description || 'No description available.') +
-                    '</div></a>'
-                );
-            }
+            results.forEach((post, i) => {
+                if (i >= MAX_RESULTS) return;
+                const icon = getIconForCategory(post.category); // Get Font Awesome icon
+                searchResult.innerHTML += `
+                    <a class="result-item" href="${post.url}">
+                        <div class="h2">${icon} ${post.title}</div>
+                        <div class="description">${post.description || 'No description available.'}</div>
+                    </a>
+                `;
+            });
         }
     }
 });

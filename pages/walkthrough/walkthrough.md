@@ -2,8 +2,8 @@
 title: "Walkthrough Part 1"
 description: "The first part of the walkthrough focuses on getting to the website and getting to know the website."
 categories: ["walkthrough"]
-tags: ["walkthrough", "arg", "bring me the horizon", "bmth", "password game", "qr code", 
-"dig it", "sof", "for-sof", "serial number", "secrets"]
+tags: ["walkthrough", "arg", "bring me the horizon", "bmth", "password", "game", "qr code", 
+"dig it", "sof", "for-sof", "serial number", "secrets", "multidimensional", "navigator"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/walkthrough.png"
 ---
 

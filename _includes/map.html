@@ -1,0 +1,18 @@
+<div id="map"></div>
+
+<div id="marker-data">
+    <!-- General markers -->
+    {% for marker in site.data.map_markers.markers %}
+    {% assign link_url = site.baseurl | append: marker.url | append: '.html' %}
+    {% assign linked_page = site.pages | where: "url", link_url | first %}
+    <div class="map-marker"
+         data-lat="{{ marker.lat }}"
+         data-lng="{{ marker.lng }}"
+         data-title="{{ linked_page.title }}"
+         data-description="{{ linked_page.description }}"
+         data-url="{{ site.baseurl }}{{ marker.url }}"
+         data-icon-color="{{ marker.icon_color }}"
+         data-custom-icon="{{ marker.custom_icon }}">
+    </div>
+    {% endfor %}
+</div>

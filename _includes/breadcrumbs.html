@@ -1,11 +1,13 @@
-<nav class="breadcrumb" aria-label="breadcrumbs">
-    <ul class="ml-0">
-        <li><a href="{{ '/' | relative_url }}">HOME</a></li>
-        {% if page.categories %}
-        {% for category in page.categories %}
-        <li><a href="{{ site.baseurl }}/pages/{{ category }}/{{ category }}">{{ category | replace: "-", " " | upcase }}</a></li>
-        {% endfor %}
-        {% endif %}
-        <li class="is-active"><a class="has-text-dark has-text-weight-semibold" href="#" aria-current="page">{{ page.title }}</a></li>
-    </ul>
-</nav>
+<div class="p-2">
+    <nav class="breadcrumb" aria-label="breadcrumbs">
+        <ul class="ml-0">
+            <li><a href="{{ '/' | relative_url }}">HOME</a></li>
+            {% if page.categories %}
+            {% for category in page.categories %}
+            <li><a href="{{ site.baseurl }}/pages/{{ category }}/{{ category }}">{{ category | replace: "-", " " | upcase }}</a></li>
+            {% endfor %}
+            {% endif %}
+            <li class="is-active"><a class="has-text-dark has-text-weight-semibold" href="#" aria-current="page">{{ page.title }}</a></li>
+        </ul>
+    </nav>
+</div>
