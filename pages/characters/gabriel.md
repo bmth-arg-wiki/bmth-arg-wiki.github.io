@@ -1,6 +1,6 @@
 ---
 title: "Archangel Gabriel"
-description: "Gabriel is the archangel of empathy. He resides in the West of Youtopia, according to Selene's map."
+description: "Gabriel is the archangel of empathy. Selene's map places him to the West of YOUtopia."
 categories: ["characters"]
 tags: ["empathy", "gabriel", "raphael", "uriel", "michael", "archangel", "selene's map", 
 "miseria", "guardian tears", "youtopia"]

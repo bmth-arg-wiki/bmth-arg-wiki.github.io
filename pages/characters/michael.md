@@ -1,6 +1,6 @@
 ---
 title: "Archangel Michael"
-description: "Michael is the archangel of Purpose. He resides in the South, according to Selene's map."
+description: "Michael is the archangel of Purpose. He shows up in the South of YOUtopia on Selene's map."
 categories: ["characters"]
 tags: ["purpose", "gabriel", "raphael", "uriel", "michael", "archangel", "selene's map", 
 "pan", "youtopia", "pan's flute", "south"]
