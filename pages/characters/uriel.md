@@ -20,7 +20,8 @@ The symbol for 'Vision' is visible on his skirt in the [tour poster](#gallery).
 
 ## Backstory
 
-As told in the [POST HUMAN: NeX GEn booklet](../lore/booklet), the Archangels are there to assist [Selene](selene) in [YOUtopia](../lore/youtopia).
+As told in the [POST HUMAN: NeX GEn booklet](../lore/booklet), 
+the Archangels are there to assist [Selene](selene) in [YOUtopia](../lore/youtopia).
 They guide her through different realms, ensuring her journey stays balanced.
 
 ***
