@@ -1,7 +1,6 @@
 ---
 title: "Madman"
-description: "Madman is a stand-in for Lee Malia in the system users. Lee Malia is the lead guitarist of Bring Me The 
-Horizon."
+description: "Madman is the stand-in for Lee Malia. He is the lead guitarist of Bring Me The Horizon."
 categories: ["characters"]
 tags: ["madman", "lee malia", "bring me the horizon", "unbeleevable", "bmth"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/madman/12madman.png"
@@ -11,36 +10,61 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 
 ![Madman's avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/madman/12madman.png)
 
-{% include info.html
-title="More info coming soon!"
-content="This will be updated with content from the lore booklet."
-%}
+Madman is user 0012 in the Multidimensional Navigator 8.
 
-Madman is Lee Malia's stand-in character in the universe for the band. Before the June 4th 2024 
-update he was number 0013 in the system, he is now user 0012. It is unsure whether this character is related to 
-Dr. Lee MD in the [Unbeleevable](../for-sof/unbeleevable) video, who is also depicted by Lee Malia, lead guitarist 
-of the band.
+He is the stand-in character for Lee Malia, BMTH's guitarist.
+Madman is related to the Second Insight: [Empathy](../lore/insight2-empathy), 
+alongside Archangel [Gabriel](gabriel) and Omen [Miseria](miseria).
 
-The insight associated with Madman is [empathy](../lore/insight2-empathy), an association he shares with [Miseria](miseria) 
-and [Gabriel](gabriel).
+Before the June 4th 2024 update, Madman used to be user 0013.
 
 ***
 
-## Read More
+## Backstory
 
-- [Characters](../characters)
-- [Insight 2: Empathy](../lore/insight2-empathy)
-- [Gabriel](gabriel)
-- [Miseria](miseria)
+Madman, referred to as the "six string shredder" in the [POST HUMAN: NeX GEn booklet](../lore/booklet), 
+embodies resilience, resourcefulness, dedication, and is said to be fervently loyal. 
+He is thoroughly dedicated to his family, and brings stability to the community.
 
-Other band members:
+***
 
-- [Syko](syko)
-- [Pickles](pickles)
-- [Vegan](vegan)
+## Current Goals
+
+{% include info.html 
+title="Tinfoil Warning!" 
+icon="fa-solid fa-triangle-exclamation"
+content="This category is not based on facts, it is just a theory." 
+%}
+
+
 
 ***
 
 ## Gallery
 
 {% include gallery.html folder="characters/madman/gallery" %}
+
+***
+
+## Read More
+
+More [Characters](characters)!
+
+Related files:
+
+- [Unbeleevable](../for-sof/unbeleevable)
+
+Related lore:
+
+- [Insight 2: Empathy](../lore/insight2-empathy)
+
+Related characters:
+
+- [Archangel Gabriel](gabriel)
+- [Miseria](miseria)
+
+Other [band members](characters#band-members):
+
+- [Vegan / Matt K.](vegan)
+- [Syko / Oli](syko)
+- [Pickles / Matt N.](pickles)
