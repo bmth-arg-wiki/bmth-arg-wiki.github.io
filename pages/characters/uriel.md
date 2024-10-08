@@ -1,6 +1,6 @@
 ---
 title: "Archangel Uriel"
-description: "Uriel is the archangel of Vision and resides in the North of Youtopia, according to Selene's map."
+description: "Uriel is the archangel of Vision. He resides in the North of Youtopia, according to Selene's map."
 categories: ["characters"]
 tags: ["vision", "gabriel", "raphael", "uriel", "michael", "archangel", "selene's map", 
 "north", "youtopia", "golden raspberry", "the babylon"]
@@ -33,7 +33,7 @@ They guide her through different realms, ensuring her journey stays balanced.
 
 ## Read More
 
-- More [characters](characters)!
+More [characters](characters)!
 
 Related lore:
 
@@ -48,6 +48,6 @@ Related characters:
 
 Other [Archangels](characters#The-Archangels):
 
+- [Raphael](raphael)
 - [Gabriel](gabriel)
 - [Michael](michael)
-- [Raphael](raphael)
