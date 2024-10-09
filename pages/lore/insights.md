@@ -49,6 +49,24 @@ Please explore their articles for more details.
 
 ***
 
+## Transcription
+
+>## The Four Insights
+>
+>I saw how the fabric of life is held together by the universal laws known as the 4 Insights.
+>
+>Each insight is represented by an archangel, and within each Insight exists an Omen & Curse - As Above So Below. 
+for everything good, there is an evil counterpart.
+>
+>These insights are crucial to saving youtopia and the people trapped within. 
+if you don't master these, that dark crack in the centre of your being will never be repaired.
+>
+>When you are ready, the insights are waiting for you to discover.
+
+(Transcription by alec)
+
+***
+
 ## Information
 
 Note that this document states that each insight comes with an omen and a curse. 
