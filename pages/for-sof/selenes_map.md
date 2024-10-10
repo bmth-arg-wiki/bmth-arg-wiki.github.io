@@ -43,6 +43,60 @@ to occupy a physical space in [Youtopia](../lore/youtopia).
 
 ***
 
+## Transcription
+
+>[Sort of clockwise, starting from the left and ending in the middle:]
+>
+>THE WALTZ OF EXISTENCE????
+>
+>ARCHANGEL: GABRIEL
+>
+>BOSS FIGHT MISERIA
+>
+>"EMBRACE YOURSELF"
+>
+>ITEM WON = GUARDIAN TEARS
+>
+>[Drawing of tears]
+>
+>BOSS FIGHT THE BABYLON
+>
+>[Drawing of snake eyes]
+>
+>ITEM GOLDEN RASPBERRY
+>
+>ARCHANGEL: URIEL
+>
+>"THANK GOD FOR THOSE TEARS!"
+>
+>X START
+>
+>ARCHANGEL: RAPHAEL
+>
+>[Drawing of an angel]
+>
+>ENCOUNTER WITH PAN
+>
+>"A BEAUTIFUL MISTAKE"
+>
+>[Drawings of broken hearts]
+>
+>ITEM PAN'S FLUTE
+>
+>BOSS FIGHT PRINCE OF DEATH
+>
+>ARCHANGEL: MICHAEL
+>
+>ITEM WON CANDLE OF ETERNAL LIGHT
+>
+>5TH ???
+>
+>WHERE IT ENDED (OR BEGAN?)
+
+(Transcription by Alec)
+
+***
+
 ## Password context
 
 <details class="password">
