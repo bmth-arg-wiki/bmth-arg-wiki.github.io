@@ -4,7 +4,7 @@
  * Global content styling
  */
 .content {
-  color: $gray-darkest;
+  color: $txt;
 }
 
 /*
@@ -24,8 +24,17 @@
   font-size: medium;
 }
 
+.content a {
+  color: $link;
+}
+
 .content a:visited {
-  color: $red-dark;
+  color: $warning;
+}
+
+.content blockquote {
+  background-color: $base;
+  color: $txt;
 }
 
 /*
@@ -34,7 +43,7 @@
 .content details {
   padding: 10px;
   margin: 10px;
-  background-color: $pink-lightest;
+  background-color: $primary-lightest;
   border-radius: 5px;
 }
 
@@ -44,6 +53,6 @@
 
 // Horizontal separators
 .content hr {
-  background-color: $pink;
+  background-color: $primary;
   height: 1px;
 }

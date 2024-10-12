@@ -6,26 +6,25 @@
   $family-primary: '"Arial", sans-serif',
 
   // Base palette
-  $white: variables.$very-pale-pink,
+  $white: variables.$base,
   $grey: variables.$gray,
 
   // Brand palette
-  $primary: variables.$pink,
+  $primary: variables.$primary,
   $info: variables.$pink-darker,
-  $success: variables.$blue-success,
-  $link: variables.$blue-link,
-  $warning: variables.$red,
-  $danger: variables.$red-dark,
+  $success: variables.$success,
+  $link: variables.$link,
+  $warning: variables.$warning,
+  $danger: variables.$danger,
 
   // Header
-  $title-color: variables.$pink,
+  $title-color: variables.$primary,
 
   // Base content
   $content-heading-color: variables.$blue-link,
-  $content-blockquote-background-color: variables.$white,
+  //$content-blockquote-background-color: variables.$white,
   $content-blockquote-border-left: 5px solid variables.$pink-darker,
-  $content-table-cell-border: 1px solid variables.$gray,
-  $border: variables.$pink-lightest,
+  //$content-table-cell-border: 1px solid variables.$gray,
 
   // Misc.
   $control-border-width: 2px,
@@ -40,7 +39,6 @@
 // Other components
 @use "components/_header";
 @use "components/_search_bar";
-@use "components/_search_results";
 @use "components/_toc";
 @use "components/_footer";
 
