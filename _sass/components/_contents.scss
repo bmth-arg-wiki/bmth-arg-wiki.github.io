@@ -24,12 +24,8 @@
   font-size: medium;
 }
 
-.content a {
-  color: $link;
-}
-
 .content a:visited {
-  color: $warning;
+  color: $danger;
 }
 
 .content blockquote {
