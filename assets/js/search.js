@@ -91,7 +91,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Display search results or "no results" message
         if (results.length === 0) {
-            searchResult.innerHTML = '<div class="result-item"><div class="description">There are no results.</div></div>';
+            searchResult.innerHTML = '<div class="result-item p-1"><div class="description">There are no results.</div></div>';
         } else {
             results.forEach((post, i) => {
                 if (i >= MAX_RESULTS) return;
