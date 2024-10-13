@@ -22,11 +22,11 @@ alongside Archangel [Raphael](raphael) and Omen [Pan](pan).
 
 Syko, otherwise knows as "nosferatu" in the [POST HUMAN: NeX GEn booklet](../lore/booklet), 
 is unpredictable, enigmatic, and bold. He has an affinity for adventure,
-which he approaches head-on with a keen intellect and resilience.
+which he approaches head-on with a keen intellect and resilience. 
 
 ***
 
-## Scott (Old identity?)
+## Scott (Old identity?) 
 
 {% include info.html 
 title="Tinfoil Warning!" 
