@@ -13,7 +13,8 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 Vegan is user 0001 in the Multidimensional Navigator 8.
 
 He is the stand-in character for Matt Kean, BMTH's bassist. 
-Vegan is related to the Fourth Insight: [Vision](../lore/insight4-vision), alongside Archangel [Uriel](uriel) and Omen [The Babylon](babylon.md).
+Vegan is related to the Fourth Insight: [Vision](../lore/insight4-vision), 
+alongside Archangel [Uriel](uriel) and Omen [The Babylon](babylon.md).
 
 ***
 
@@ -48,4 +49,4 @@ Other [band members](characters#band-members):
 
 - [Syko / Oli](syko)
 - [Madman / Lee](madman)
-- [Pickles/ Matt N.](pickles)
+- [Pickles/ Mat N.](pickles)
