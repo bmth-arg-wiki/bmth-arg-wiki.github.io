@@ -297,7 +297,7 @@ After the save screen appears, select the M8 system slot & press the **DOWN** bu
 > 
 >[53381102°N,1.4701223°W]+
 >
->[[Selene’s map]](../for-sof/selenes_map)
+>[[Selene’s map]](../for-sof/selenes_map#Transcription)
 >
 >liMOusIne 
 >ft. AURORA

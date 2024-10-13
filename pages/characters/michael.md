@@ -1,7 +1,6 @@
 ---
 title: "Archangel Michael"
-description: "Michael is one of the archangels, his insight being purpose. On the map of Youtopia, he is located in the 
-South."
+description: "Michael is the archangel of Purpose. He shows up in the South of YOUtopia on Selene's map."
 categories: ["characters"]
 tags: ["purpose", "gabriel", "raphael", "uriel", "michael", "archangel", "selene's map", 
 "pan", "youtopia", "pan's flute", "south"]
@@ -11,26 +10,22 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 
 ![Avatar for Michael](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/michael/10michael.png)
 
-Michael is one of the archangels. He is linked to [Insight 3: Purpose](../lore/insight3-purpose). 
-He used to be user 0011 on the [webpage](../webpage) and is user 0010 as of the 24th of June 2024.
+Michael is user 0010 in the Multidimensional Navigator 8.
 
-Michael has the symbol for [Purpose](../lore/insight3-purpose) on his skirt, as seen on his 
-[tour poster](#gallery).
+He is related to the Third Insight: [Empathy](../lore/insight2-empathy), 
+alongside Omen [Vanth: Prince(ss) Of Death](vanth) and band member [Pickles](pickles).
+
+The symbol for 'Purpose' is visible on his skirt in the [tour poster](#gallery).
+
+Before the June 4th 2024 update, Michael used to be user 0011.
 
 ***
 
-## Read More
+## Backstory
 
-- [Characters](../characters)
-- [Insight 3: Purpose](../lore/insight3-purpose)
-- [Vanth](vanth)
-- [Pickles](pickles)
-
-Other archangels:
-
-- [Gabriel](gabriel)
-- [Raphael](raphael)
-- [Uriel](uriel)
+As told in the [POST HUMAN: NeX GEn booklet](../lore/booklet), 
+the Archangels are there to assist [Selene](selene) in [YOUtopia](../lore/youtopia).
+They guide her through different realms, ensuring her journey stays balanced.
 
 ***
 
@@ -38,3 +33,25 @@ Other archangels:
 
 {% include gallery.html folder="characters/michael/gallery" %}
 
+***
+
+## Read More
+
+More [Characters](characters)!
+
+Related lore:
+
+- [Insight 3: Purpose](../lore/insight3-purpose)
+- [YOUtopia](../lore/youtopia)
+
+Related characters:
+
+- [Vanth](vanth)
+- [Pickles](pickles)
+- [Selene](selene)
+
+Other [archangels](characters#the-archangels):
+
+- [Raphael](raphael)
+- [Gabriel](gabriel)
+- [Uriel](uriel)
