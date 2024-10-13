@@ -9,4 +9,4 @@ tags: ["bring me the horizon", "multidimensional", "navigator", "password", "m8"
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/selenes_map/map1.jpg"
 ---
 
-{% include map.html %}
+{% include content/map.html %}
