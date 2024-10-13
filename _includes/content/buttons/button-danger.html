@@ -1,6 +1,6 @@
 <a class="button is-danger has-text-white" href="{{ include.link }}" target="_blank">
     <span class="icon">
-      <i class="{{ include.icon }}"></i>
+      <i class="{{ include.icon | default: 'fa-brands fa-youtube' }}"></i>
     </span>
     <span>{{ include.text }}</span>
 </a>
