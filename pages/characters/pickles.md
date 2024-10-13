@@ -1,6 +1,6 @@
 ---
 title: "Pickles"
-description: "Pickles is the stand-in for Mat Nichols in the ARG universe, the drummer of Bring Me The Horizon. "
+description: "Pickles is Mat Nicholls' character in the ARG universe, the drummer for Bring Me The Horizon. "
 categories: ["characters"]
 tags: ["mat nichols", "pickles", "bmth", "bring me the horizon", "band member", "purpose", 
 "michael", "vanth"]
@@ -11,36 +11,56 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 
 ![Pickles Avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/pickles/11pickles.png)
 
-{% include info.html
-title="More info coming soon!"
-content="This will be updated with content from the lore booklet."
-%}
+Pickles is user 0011 in the Multidimensional Navigator 8. 
 
-Pickles is the in-universe character of Mat Nichols, one of the band members. Before the June 4th 2024 update, 
-he was number 0012 in the system. He is currently user 0011.
+He is the stand-in character for Mat Nicholls, BMTH's drummer.
+Pickles is related to the Third Insight: [Purpose](../lore/insight3-purpose), 
+alongside Archangel [Michael](michael) and Omen [Vanth: Prince(ss) of Death](vanth).
 
-The insight associated with Pickles is [Insight 3: Purpose](../lore/insight3-purpose), like [Vanth](vanth) and [Michael](michael).
+Before the June 4th 2024 update, Pickles used to be user 0012.
 
 ***
 
-## Read More
+## Backstory
 
-- [Characters](../characters)
+"Rotherham's 4th best drummer" is said to be spirited, cheeky and to have a never fading smile and quick wit, 
+according to the [POST HUMAN: NeX GEn booklet](../lore/booklet).
+Pickles navigates every day with enthusiasm, bringing joy and laughter to those around him.
 
-Insight 3:
+***
 
-- [Insight 3: Purpose](../lore/insight3-purpose)
-- [Michael](michael)
-- [Vanth](vanth)
+## Pickles & UNBELEEVABLE
 
-Other band members:
-
-- [Madman](madman)
-- [Syko](syko)
-- [Vegan](vegan)
+At the end of the [Unbeleevable](../for-sof/unbeleevable) video, 
+Dr. Lee mentions his exclusive interview with "the man who doesn't know who he is or where he's been".
+We do not yet know if this mysterious man (played by Mat Nicholls) is Pickles or not.
 
 ***
 
 ## Gallery
 
 {% include gallery.html folder="characters/pickles/gallery" %}
+***
+
+## Read More
+
+More [Characters](characters)!
+
+Related file:
+
+- [Unbeleevable](../for-sof/unbeleevable)
+
+Related lore:
+
+- [Insight 3: Purpose](../lore/insight3-purpose)
+
+Related characters:
+
+- [Archangel Michael](michael)
+- [Vanth: Prince(ss) of Death](vanth)
+
+Other [band members](characters#band-members):
+
+- [Vegan / Matt K.](vegan)
+- [Syko / Oli](syko)
+- [Madman / Lee](madman)

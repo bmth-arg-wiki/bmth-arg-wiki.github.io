@@ -10,23 +10,31 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 
 ![Syko Avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/syko/5syko.png)
 
-{% include info.html
-title="More info coming soon!"
-content="This will be updated with content from the lore booklet."
-%}
+Syko is user 0005 in the Multidimensional Navigator 8.
 
-Syko is the stand-in character in-universe for Oliver Sykes. He is user 0005 in the [M8](../m8) 
-system.
-
-The insight associated with Syko is [Insight 1: Connection](../lore/insight1-connection).
-There is also a [tour poster](#gallery) with art of Oskar, which is the name of Oli's deceased dog
-and the name of Scott's dog in his diary.
-This poster is likely a tribute to Syko and Oli's hairy friend, which he also refers to in [Dear Diary,](../music/song-dear-diary) 
-and [Scott's diary](../for-sof/scott_personal_journal).
+He is the stand-in character for Oliver Sykes, BMTH's lead singer.
+Syko is related to the First Insight: [connection](../lore/insight1-connection), 
+alongside Archangel [Raphael](raphael) and Omen [Pan](pan).
 
 ***
 
 ## Backstory
+
+Syko, otherwise knows as "nosferatu" in the [POST HUMAN: NeX GEn booklet](../lore/booklet), 
+is unpredictable, enigmatic, and bold. He has an affinity for adventure,
+which he approaches head-on with a keen intellect and resilience.
+
+***
+
+## Scott & Syko
+
+{% include info.html 
+title="Tinfoil Warning" 
+icon="fa-solid fa-triangle-exclamation"
+content="This next section is entirely based on theory. 
+Although evidence points to the fact that Scott and Syko are the same person, 
+nothing has been officially confirmed or denied for now." 
+%}
 
 > *Seems like every channel is playing the same news story, it’s sending me insane. What’s even crazier-earlier, somebody bit me, BIT ME.*
 > 
@@ -48,27 +56,38 @@ The last line is also a reference to Resident Evil and the whole diary uses lots
 
 ***
 
-## Read More
-
-- [Characters](../characters)
-- [Scott's diary](../for-sof/scott_personal_journal)
-- [Selene's diary](../for-sof/selene_personal_journal)
-- [Dear Diary,](../music/song-dear-diary)
-
-Insight 1:
-
-- [Insight 1: Connection](../lore/insight1-connection)
-- [Raphael](raphael)
-- [Pan](pan)
-
-Other band members:
-
-- [Madman](madman)
-- [Pickles](pickles)
-- [Vegan](vegan)
-
-***
-
 ## Gallery
 
 {% include gallery.html folder="characters/syko/gallery" %}
+
+***
+
+## Read More
+
+More [Characters](characters)!
+
+**Syko**
+
+Related lore:
+
+- [Insight 1: Connection](../lore/insight1-connection)
+
+Related characters:
+
+- [Archangel Raphael](raphael)
+- [Pan](pan)
+
+Other [band members](characters#band-members):
+
+- [Vegan / Matt K.](vegan)
+- [Madman / Lee](madman)
+- [Pickles / Mat N.](pickles)
+
+
+**Scott*
+
+Related files:
+
+Related lore:
+
+Related characters:

@@ -47,7 +47,7 @@ or if Madman is also Dr. Lee.
 
 More [Characters](characters)!
 
-Related files:
+Related file:
 
 - [Unbeleevable](../for-sof/unbeleevable)
 
@@ -64,4 +64,4 @@ Other [band members](characters#band-members):
 
 - [Vegan / Matt K.](vegan)
 - [Syko / Oli](syko)
-- [Pickles / Matt N.](pickles)
+- [Pickles / Mat N.](pickles)
