@@ -12,13 +12,14 @@ friendly terms with Oli.
 
 ***
 
-## Lyrics
+## Official Material
 
-Source: Genius.com
+{% include content/buttons/button-danger.html text="Official MV" link="https://www.youtube.com/watch?v=B9wvTuDC-H0" %}
+{% include content/buttons/button-danger.html text="Official LV" link="https://www.youtube.com/watch?v=jWR2pkfwfuA" %}
 
 <details class="lyrics">
-<summary>Expand lyrics</summary>
-
+<summary>Lyrics</summary>
+{{ "
 > [Verse 1]
 > Some resist the future, some refuse the past
 > Either way, it's messed up if we can't unplug the fact
@@ -93,7 +94,9 @@ Source: Genius.com
 > Do you know why the flowers never bloom?
 > Will you retry or let the pain resume?
 > I need a new leader, we need a new Luden
-
+> 
+> Source: Genius.com
+" | markdownify }}
 </details>
 
 ***

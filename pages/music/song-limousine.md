@@ -13,7 +13,7 @@ stylized using these capital letters.
 
 ## Lyrics
 
-Source: [lyrics video](https://www.youtube.com/watch?v=e8U96n8L-lg).
+{% include content/buttons/button-danger.html text="Official LV" link="https://www.youtube.com/watch?v=e8U96n8L-lg" %}
 
 <details class="lyrics">
 <summary>Expand lyrics</summary>

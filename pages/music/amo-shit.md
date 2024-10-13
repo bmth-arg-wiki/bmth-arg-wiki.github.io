@@ -16,7 +16,10 @@ But as-of-yet, no direct connections have been established.
 
 ***
 
-## Lyrics
+## Official Material
+
+{% include content/buttons/button-danger.html text="Official MV" link="https://www.youtube.com/watch?v=-iM83TiKdY0" %}
+{% include content/buttons/button-danger.html text="Official LV" link="https://www.youtube.com/watch?v=ULj6eH5YfAw" %}
 
 <details class="lyrics">
     <summary>Lyrics</summary>

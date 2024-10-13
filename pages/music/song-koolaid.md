@@ -15,7 +15,11 @@ as well as a [lyric video](https://www.youtube.com/watch?v=YyacCX-CFUM).
 
 ***
 
-## Lyric Video
+## Official Material
+
+{% include content/buttons/button-danger.html text="Official MV" link="https://www.youtube.com/watch?v=Jq4NhAnnD0Q" %}
+{% include content/buttons/button-danger.html text="Official LV" link="https://www.youtube.com/watch?v=YyacCX-CFUM" %}
+{% include content/buttons/button-danger.html text="Live Visuals" link="https://www.youtube.com/watch?v=qSFN7Q6_RWY" %}
 
 The lyric video was directed and edited by [circushead](https://circushead.co/pages/bring-me-the-horizon-kool-aid-lyric-video), 
 who also worked on the direction of Kool-Aid Live, including the visuals of a woman 
@@ -67,8 +71,8 @@ Related themes: betrayal, disillusionment, cults, control, brainwashing, sufferi
 despair, addiction, existential struggle
 
 <details class="lyrics">
-<summary>Expand lyrics</summary>
-
+<summary>Lyrics</summary>
+{{ "
 > We are the children of the devolution
 > The infamous martyrs, the scars on the sun
 > Asphyxiating with a smile on your face
@@ -123,7 +127,7 @@ despair, addiction, existential struggle
 > That this was gonna end in tears
 >
 > Or some shit like that
-
+" | markdownify }}
 </details>
 
 ***

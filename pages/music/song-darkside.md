@@ -12,11 +12,11 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/p
 
 ## Lyrics
 
-Source: [lyrics video](https://www.youtube.com/watch?v=3Nt37RGbVjo).
+{% include content/buttons/button-danger.html text="Official LV" link="https://www.youtube.com/watch?v=3Nt37RGbVjo" %}
 
 <details class="lyrics">
-<summary>Source: Lyrics video</summary>
-
+<summary>Lyrics</summary>
+{{ "
 > Sinking under
 > Think my angels fallen
 > Safe place, plundered
@@ -74,7 +74,7 @@ Source: [lyrics video](https://www.youtube.com/watch?v=3Nt37RGbVjo).
 > Can’t trust myself tonight
 > Can’t trust myself
 > Can you talk me off the ledge again?
-
+" | markdownify }}
 </details>
 
 ***

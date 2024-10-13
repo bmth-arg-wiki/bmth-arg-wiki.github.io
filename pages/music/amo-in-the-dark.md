@@ -21,11 +21,15 @@ Moreover, we see a woman who seems to be [Rebecca](../characters/rebecca).
 
 ***
 
-## Lyrics
+## Official Material
+
+{% include content/buttons/button-danger.html text="Official MV" link="https://www.youtube.com/watch?v=Thazgd1HFus" %}
+
+{% include content/video.html link="https://www.youtube.com/embed/QBFa19YhI5k" %}
 
 <details class="lyrics">
-    <summary>Lyrics</summary>
-
+<summary>Lyrics</summary>
+{{"
 Oh, I’ve done it again/
 Dug a little deep and it’s all caved in/
 Now I free fall in a black hole/ 
@@ -58,7 +62,7 @@ Cos it’s all come caving in/
 And it’s time I knew you so
 
 (Source: In The Dark music video description)
-
+" | markdownify }}
 </details>
 
 ***

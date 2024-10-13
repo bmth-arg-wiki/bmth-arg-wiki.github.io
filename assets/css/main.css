@@ -1,4 +1,19 @@
 @charset "UTF-8";
+/*
+// Define CSS variables for light and dark modes
+:root {
+  --primary-light: variables.$primary;
+  --info-light: variables.$info;
+  --primary-dark: variables.$cyan;
+  --info-dark: variables.$cyan-darker;
+
+  --background-light: variables.$base;
+  --background-dark: variables.$gray-darker;
+
+  --text-light: variables.$gray-darker;
+  --text-dark: variables.$very-pale-cyan;
+}
+*/
 @font-face {
   font-family: "arg-font";
   src: url("/assets/fonts/argfont.ttf");
@@ -3950,7 +3965,7 @@ a.box:active {
   --bulma-content-heading-weight: var(--bulma-weight-extrabold);
   --bulma-content-heading-line-height: 1.125;
   --bulma-content-block-margin-bottom: 1em;
-  --bulma-content-blockquote-background-color: var(--bulma-background);
+  --bulma-content-blockquote-background-color: #FFFFFF;
   --bulma-content-blockquote-border-left: 5px solid #bd6d6d;
   --bulma-content-blockquote-padding: 1.25em 1.5em;
   --bulma-content-pre-padding: 1.25em 1.5em;
@@ -21573,12 +21588,8 @@ has-background-danger.is-hoverable:active {
   font-size: medium;
 }
 
-.content a {
-  color: #0552aa;
-}
-
 .content a:visited {
-  color: #d84848;
+  color: #872d2d;
 }
 
 .content blockquote {
@@ -21757,7 +21768,7 @@ a.heading-anchor:visited,
  */
 body {
   background-color: #fff9f9;
-  color: #1a1e20;
+  color: #1f2525;
 }
 
 a:hover {

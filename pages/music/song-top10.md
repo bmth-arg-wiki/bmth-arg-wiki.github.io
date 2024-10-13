@@ -10,21 +10,14 @@ Song on the NexGen album.
 
 ***
 
-## Clues
+## Official Material
 
-- A clue was found to [Insight 1: Connection](../lore/insight1-connection) in the 
-[spectrograms](spectrograms)
-- A segment in one of the channels (mono instead of stereo) had a hidden message that lead to 
-the password for the [R8 file](../for-sof/r8) being discovered.
+{% include content/buttons/button-danger.html text="Official MV" link="https://www.youtube.com/watch?v=LxxlN_FhLac" %}
+{% include content/buttons/button-danger.html text="Official LV" link="https://www.youtube.com/watch?v=_nrpxowbIYY" %}
 
-***
-
-## Lyrics
-
-Lyric video starts with: Top 10 staTues tHat CriEd bloOd (2x)
 <details class="lyrics">
-<summary>Source: Lyrics video</summary>
-
+<summary>Lyrics</summary>
+{{ "
 > I guesS tHat somE of us Are jUst boRN wiTh trAgedy IN our bloOd, It’s Just basIC cHemistry
 > Or MAybe all these opeN wounds Is how the LiGht gets into yoU
 > Cos I’m sTaRting to reAlIse
@@ -34,9 +27,9 @@ Lyric video starts with: Top 10 staTues tHat CriEd bloOd (2x)
 > And no amount of loVe couLd Set yoU fRee
 > The fIght’s INSIDe I’ll take myself to hell and bacK
 > TonIgHt we go to WaR
-> 
+>
 > (Unicursal Hexagram Symbol)
-> 
+>
 > Someone put A guN StrAight to our hearTs And paiNt tHe waLLs WiTh our loVe
 > There’s A worLd of hurt In uS and maybe oNce we spill our guts We can stITcH ourselvEs baCk up
 > YeAh I’m startiNg to reAliSe
@@ -46,7 +39,7 @@ Lyric video starts with: Top 10 staTues tHat CriEd bloOd (2x)
 > And no amoUNt of lOve couLd SeT yoU FRee
 > The figHt’s insiDe I’ll taKe myseLf to hell and bAck
 > TonighT we go To war
-> 
+>
 > (Church of Genxsis Symbol)
 >
 > Cos i kNow That yoU’rE loW
@@ -57,7 +50,7 @@ Lyric video starts with: Top 10 staTues tHat CriEd bloOd (2x)
 > (Church of Genxsis Symbol)
 >
 > YEAh The hardesT thiNg yoU’ll ever know
-> 
+>
 > (Unicursal Hexagram Coin)
 >
 > Is tHere’S no love lIKe yOur oWN
@@ -73,8 +66,19 @@ Lyric video starts with: Top 10 staTues tHat CriEd bloOd (2x)
 > And no amount oF love coULd SEt yOU fReE
 > The figHT’s inside I’ll take myselF to hell anD BAck
 > TonigHt we go to wAr
-
+> 
+> Source: Lyrics Video
+" | markdownify }}
 </details>
+
+***
+
+## Clues
+
+- A clue was found to [Insight 1: Connection](../lore/insight1-connection) in the 
+[spectrograms](spectrograms)
+- A segment in one of the channels (mono instead of stereo) had a hidden message that lead to 
+the password for the [R8 file](../for-sof/r8) being discovered.
 
 ***
 

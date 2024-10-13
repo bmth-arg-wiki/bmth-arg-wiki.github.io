@@ -11,11 +11,15 @@ Palumbo of Glassjaw. It has an [official Music Video](https://www.youtube.com/wa
 
 ***
 
-## Lyrics
+## Official Material
+
+{% include content/buttons/button-danger.html text="Official MV" link="https://www.youtube.com/watch?v=2TjcPpasesA" %}
+{% include content/buttons/button-danger.html text="Official Audio" link="https://www.youtube.com/watch?v=38En_TYdxcI" %}
+
 
 <details class="lyrics">
 <summary>Source: Lyrics video</summary>
-
+{{ "
 > I hope you have fun
 > Rotting in hell!
 > Swim the witch
@@ -108,6 +112,7 @@ Palumbo of Glassjaw. It has an [official Music Video](https://www.youtube.com/wa
 > You burn in hell!
 > It’s over!
 
+" | markdownify }}
 </details>
 
 ***

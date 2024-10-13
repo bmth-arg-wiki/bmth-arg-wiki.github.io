@@ -16,8 +16,8 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/p
 ## Lyrics
 
 <details class="lyrics">
-    <summary>Lyrics</summary>
-
+<summary>Lyrics</summary>
+{{ "
 Another day another post-traumatic order/
 (Brainwashed and feeling fine)/
 I bit off more than I could chew when I looked closer/
@@ -75,7 +75,7 @@ Obey/
 It’s nicer when you can’t see the chains.
 
 (Source: Obey music video description)
-
+" | markdownify }}
 </details>
 
 ***
@@ -95,5 +95,6 @@ It’s nicer when you can’t see the chains.
 > It echoes what Donald Trump said throughout the BLM protests, seeming to support
 > right-wing groups. It’s the stuff of nightmares. It’s trying to convey that notion
 > that we are being a bit too submissive.”
->
-> (Source: [NME](https://www.nme.com/big-reads/bring-me-the-horizon-cover-interview-2020-post-human-survival-horror-2804768))
+
+{% include content/buttons/button-primary.html text="NME interview" icon="fa-solid fa-microphone"
+link="https://www.nme.com/big-reads/bring-me-the-horizon-cover-interview-2020-post-human-survival-horror-2804768" %}

@@ -17,11 +17,11 @@ users to the webpage, starting the ARG.
 
 ## Lyrics
 
-Source: [lyrics video](https://www.youtube.com/watch?v=15Fg3sTag4w).
+{% include content/buttons/button-danger.html text="Official LV" link="https://www.youtube.com/watch?v=15Fg3sTag4w" %}
 
 <details class="lyrics">
 <summary>Expand lyrics</summary>
-
+{{ "
 > pins and needles in my face i
 > can’t trust my feelings anymore
 > shouldn’t of looked behind the veil my
@@ -101,7 +101,7 @@ Source: [lyrics video](https://www.youtube.com/watch?v=15Fg3sTag4w).
 > but the only thing
 > i figured out
 > is life is a
-
+" | markdownify }}
 </details>
 
 ***

@@ -15,11 +15,13 @@ concrete evidence to prove so.
 
 ***
 
-## Lyrics
+## Official Material
+
+{% include content/buttons/button-danger.html text="Official LV" link="https://www.youtube.com/watch?v=iwzfR7-33Wc" %}
 
 <details class="lyrics">
-    <summary>Lyrics</summary>
-
+<summary>Lyrics</summary>
+{{ " 
 I’ve been climbing up the walls/
 To escape the sinking feeling/ 
 But I can’t hide from the nihilist at my door./
@@ -48,7 +50,7 @@ You march in the dark,/
 Little lamb to the slaughter.
 
 (Source: Nihilist Blues lyric video description)
-
+" | markdownify }}
 </details>
 
 ***

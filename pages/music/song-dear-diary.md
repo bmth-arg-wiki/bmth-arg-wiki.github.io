@@ -8,21 +8,23 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/p
 ---
 # Dear Diary,
 
-> "I can't stomach anymore survival horror."
+> "I can't stomach anymore SURVIVAL HORRORRRR."
 
 "Dear Diary," is the first song on the album [POST HUMAN: SURVIVAL HORROR](ph-survival-horror). 
 Most of the [lyrics](#lyrics) are found in the file [Scott's Diary](../for-sof/scott_personal_journal), like the infamous "dog stopped barking, probably 'cause I ate his face."
 
-![atehisfacsong](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph1/dear-diary/atehisface.PNG)
-![atehisfacediary](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/scott_diary/gallery/r.jpg)
+![Ate his face in the song](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph1/dear-diary/atehisface.PNG)
+![Ate his face in the diary](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/scott_diary/gallery/r.jpg)
 
 ***
 
 ## Lyrics
 
-<details class="lyrics">
-    <summary>Lyrics</summary>
+{% include content/buttons/button-danger.html text="Official LV" link="https://www.youtube.com/watch?v=dcGKVnEbi8E" %}
 
+<details class="lyrics">
+<summary>Lyrics</summary>
+{{ "
 Dear diary, I don't know what's going on, but something's up/
 The dog won't stop barking and I think my TV is bust/
 Every channel is the same, it's sending me insane/
@@ -48,14 +50,15 @@ I can't stomach anymore/
 Survival Horror/
 
 Dear diary, dog stopped barking, probably 'cause I ate his face/
-"Tasty, itchy," TV say there's no more human race/
+'Tasty, itchy,' TV say there's no more human race/
 Kinda sad my whole entire existence been a waste/
 Ah, never mind, it's not the end of the world, oh, wait/
 
 Fly, hahahaha, oh/
 Lie, oh.
 
-(Source: Genius Lyrics website)
+Source: Genius.com
+" | markdownify }}
 
 </details>
 

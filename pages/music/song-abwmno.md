@@ -6,9 +6,7 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/p
 ---
 # a bulleT w/my namE On
 
-The 7th song on NexGen. 
-
-[Lyric video](https://www.youtube.com/watch?v=woFvFaB4stk)
+The 7th song on NexGen.
 
 ***
 
@@ -21,13 +19,13 @@ reversed audio.
 
 ***
 
-## Lyrics
+## Official Material
 
-Source: [lyrics video](https://www.youtube.com/watch?v=woFvFaB4stk).
+{% include content/buttons/button-danger.html text="Official LV" link="https://www.youtube.com/watch?v=woFvFaB4stk" %}
 
 <details class="lyrics">
-<summary>Source: Lyrics video</summary>
-
+<summary>Lyrics</summary>
+{{ " 
 > i guess this is goodbye
 > i guess we got what we deserved
 > hold on to your heart
@@ -109,7 +107,7 @@ Source: [lyrics video](https://www.youtube.com/watch?v=woFvFaB4stk).
 > the beat in my chest
 > sounds like a swan song
 > you’ve got a bullet with my name on
-
+" | markdownify }}
 </details>
 
 ***

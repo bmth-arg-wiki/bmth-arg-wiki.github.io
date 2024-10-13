@@ -17,13 +17,16 @@ It is also mentioned in the [declassified Project D.U.S.T. file](../for-sof/proj
 
 ***
 
-## Lyrics
+## Official Material
+
+{% include content/buttons/button-danger.html text="Itch for the Cure" link="https://www.youtube.com/watch?v=6rys48VMTaQ" %}
+{% include content/buttons/button-danger.html text="Kingslayer" link="https://www.youtube.com/watch?v=6rys48VMTaQ" %}
 
 ### Itch For The Cure
 
 <details class="lyrics">
-    <summary>Lyrics</summary>
-
+<summary>Lyrics</summary>
+{{ "
 I know why you're here, you're fed up of the fear/
 Sick of the fantasy world they've built, so you never see clear/
 Something is coming unplugged (Coming unplugged)/
@@ -40,14 +43,14 @@ Something is coming unplugged (When will we be free?)/
 There's a glitch in your trust.
 
 (Source: Genius Lyrics)
-
+" | markdownify }}
 </details>
 
 ### Kingslayer
 
 <details class="lyrics">
-    <summary>Lyrics</summary>
-
+<summary>Lyrics</summary>
+{{ "
 hi, are you looking for the other side?/
 feel like nothing ever seems quite right?/
 are you circling the drain pipe,/
@@ -105,7 +108,7 @@ is this what you want?/
 this is what you’ll fucking get./
 
 (Source: Kingslayer lyric video description.)
-
+" | markdownify }}
 </details>
 
 ***
@@ -128,7 +131,9 @@ but I want to obtain another world."
 
 "Now, let’s go and open the door of time."
 
-(Source: [Genius Lyrics](https://genius.com/Bring-me-the-horizon-kingslayer-lyrics))
+
+{% include content/buttons/button-primary.html text="Lyrics on Genius" icon="fa-solid fa-microphone"
+link="https://genius.com/Bring-me-the-horizon-kingslayer-lyrics" %}
 
 ***
 
@@ -162,5 +167,3 @@ this record being cyber-punk-y. It sounds like an anime TV trailer.”
 Related files:
 
 - [Project D.U.S.T.](../for-sof/project_dust)
-
-[📁 FOR SOF folder](../for-sof)

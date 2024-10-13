@@ -10,15 +10,17 @@ The 8th song on NexGen. Its [spectrogram](spectrograms) shows four angels, assum
 the archangels [Michael](../characters/michael), [Gabriel](../characters/gabriel), 
 [Raphael](../characters/raphael) and [Uriel](../characters/uriel).
 
-![img.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/spectrograms/spiritual-spectogram-archangels.png)
+![Spectrograms of spiritual](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/spectrograms/spiritual-spectogram-archangels.png)
 
 ***
 
-## Lyrics
+## Official Material
+
+{% include content/buttons/button-danger.html text="Official LV" link="https://www.youtube.com/watch?v=VlZ79Cx1s7g" %}
 
 <details class="lyrics">
 <summary>Expand lyrics</summary>
-
+{{ "
 > before me, raphael
 > behind me, gabriel
 > to my right hand, michael
@@ -28,10 +30,8 @@ the archangels [Michael](../characters/michael), [Gabriel](../characters/gabriel
 > before me, raphael
 > behind me, gabriel
 > to my right hand, michael
-
+" | markdownify }}
 </details>
-
-Transcribed from the [lyric video](https://www.youtube.com/watch?v=VlZ79Cx1s7g).
 
 ***
 

@@ -12,13 +12,13 @@ This insight is linked to archangel [Gabriel](../characters/gabriel) and omen
 
 ***
 
-## Lyrics
+## Official Material
 
-Source: [lyrics video](https://www.youtube.com/watch?v=CGHlZglJKuE).
+{% include content/buttons/button-danger.html text="Official LV" link="https://www.youtube.com/watch?v=CGHlZglJKuE" %}
 
 <details class="lyrics">
-<summary>Expand lyrics</summary>
-
+<summary>Lyrics</summary>
+{{ "
 > hi
 > my name’s oli
 > and i’m an addict
@@ -92,7 +92,7 @@ Source: [lyrics video](https://www.youtube.com/watch?v=CGHlZglJKuE).
 > what the fuck?
 > what am i gonna do?
 > where did it go wrong?
-
+" | markdownify }}
 </details>
 
 ***

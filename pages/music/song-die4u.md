@@ -10,11 +10,14 @@ DiE4u is the 15th song on NexGen and one of the singles that was released before
 
 ***
 
-## Lyrics
+## Official Material
+
+{% include content/buttons/button-danger.html text="Official MV" link="https://www.youtube.com/watch?v=IPUUbVhvqrE" %}
+{% include content/buttons/button-danger.html text="Behind the Scenes" link="https://www.youtube.com/watch?v=5FUKiqkGEgQ" %}
 
 <details class="lyrics">
 <summary>Expand lyrics</summary>
-
+{{ "
 > you know that i’d die for
 > i cry for
 > you know that i’d die for you
@@ -51,7 +54,7 @@ DiE4u is the 15th song on NexGen and one of the singles that was released before
 > this is a sentence
 > it’s a bullet in the head
 > so pull the trigger
-
+" | markdownify }}
 </details>
 
 ***
