@@ -28,15 +28,12 @@ He is thoroughly dedicated to his family, and brings stability to the community.
 
 ***
 
-## Current Goals
+## Madman & UNBELEEVABLE
 
-{% include info.html 
-title="Tinfoil Warning!" 
-icon="fa-solid fa-triangle-exclamation"
-content="This category is not based on facts, it is just a theory." 
-%}
-
-
+In the [Unbeleevable](../for-sof/unbeleevable) video, 
+the doctor (played by Lee Malia) calls himself "Dr. Lee".
+At this stage, we do not know if this is yet another character, 
+or if Madman is also Dr. Lee. 
 
 ***
 

@@ -51,6 +51,14 @@ even highlighting that M8 may have done the same for Sof by now.
 
 ***
 
+## Current goals
+
+Through [E.V.E.](eve)'s experiments to upregulate her DMT production, 
+Selene reached a "dreamlike state unlike anything ever witnessed before" known as [YOUtopia](../lore/youtopia).
+She now has to journey through this mystical land to discover the ancient mysteries of the world.
+
+***
+
 ## Selene & the CAPSLOCK DOC
 
 Selene is connected to the [CAPSLOCK DOC](../for-sof/capslock_doc), which was opened earlier in the timeline than expected by the devs. 
