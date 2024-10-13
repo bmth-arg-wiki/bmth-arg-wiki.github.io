@@ -13,11 +13,14 @@ the title: `sTraNgeRs`.
 
 ***
 
-## Lyrics
+## Official Material
+
+{% include content/buttons/button-danger.html text="Official MV" link="https://www.youtube.com/watch?v=FsNGxsrcZas" %}
+{% include content/buttons/button-danger.html text="Official LV" link="https://www.youtube.com/watch?v=tgMI63_TM6w" %}
 
 <details class="lyrics">
-<summary>Expand lyrics</summary>
-
+<summary>Lyrics</summary>
+{{ "
 > Maybe I’ll just be fucked up forever
 > should have figured myself out by now
 > And I don’t wanna tear myself open, no
@@ -68,13 +71,13 @@ the title: `sTraNgeRs`.
 >
 > S.O.S
 > Save us from ourselves
-
+" | markdownify }}
 </details>
 
 ## Song release
 
-![](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/strangers/insta_2022_07_06_strangers_release.jpg)
-![](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/strangers/insta_2022_07_06_strangers2.jpg)
+![Release announcement 1/2](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/strangers/insta_2022_07_06_strangers_release.jpg)
+![Release announcement 2/2](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/strangers/insta_2022_07_06_strangers2.jpg)
 
 The song was first announced as just `strangers`, without 
 the capitalization. Alternate capitalization `StRaNgErs` was 

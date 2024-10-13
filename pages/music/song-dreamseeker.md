@@ -6,24 +6,29 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/p
 ---
 # [ost] Dreamseeker
 
+> Let's begin
+
 The first song on NexGen, being a short intro that leads into the song 
-[Youtopia](../lore/youtopia). 
+[Youtopia](../lore/youtopia).
 
 The word Dreamseeker appears multiple times throughout the ARG, referring 
 to a device of some kind. The [Dreadit](../for-sof/dreadit) file confirms 
-that the Dreamseekers are being developed by Nex Gen.
+that the Dreamseekers are devices being developed by [Nex Gen](../lore/nex-gen-corporation).
 
 ***
 
 ## Lyrics
 
-This song doesn't have any clear lyrics.
+{% include content/buttons/button-danger.html text="Official LV" link="https://www.youtube.com/watch?v=B_IIaVKxd7o" %}
+
+> Let's begin
 
 ***
 
 ## Read More
 
 - [POST HUMAN: NeX GEn](ph-nex-gen)
+- [Nex Gen Corporation](../lore/nex-gen-corporation)
 - [Youtopia (song)](song-youtopia)
 - [Youtopia (concept)](../lore/youtopia)
 - [P.U.S.S-E](../lore/pusse)

@@ -12,13 +12,13 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/p
 
 ***
 
-## Lyrics
+## Official Material
 
-Source: [lyrics video](https://www.youtube.com/watch?v=J3Qz8rE-Zh0)
+{% include content/buttons/button-danger.html text="Official LV" link="https://www.youtube.com/watch?v=J3Qz8rE-Zh0" %}
 
 <details class="lyrics">
 <summary>Expand lyrics</summary>
-
+{{ " 
 > did my back hurt your knife?
 > do you think you’re bulletproof?
 > go chat shit all you like
@@ -105,7 +105,7 @@ Source: [lyrics video](https://www.youtube.com/watch?v=J3Qz8rE-Zh0)
 > r.i.p
 > so see you later punk
 > r.i.p
-
+" | markdownify }} 
 </details>
 
 ***

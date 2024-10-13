@@ -11,7 +11,7 @@
 
   // Brand palette
   $primary: variables.$primary,
-  $info: variables.$pink-darker,
+  $info: variables.$info,
   $success: variables.$success,
   $link: variables.$link,
   $warning: variables.$warning,
@@ -22,9 +22,8 @@
 
   // Base content
   $content-heading-color: variables.$blue-link,
-  //$content-blockquote-background-color: variables.$white,
+  $content-blockquote-background-color: variables.$white,
   $content-blockquote-border-left: 5px solid variables.$pink-darker,
-  //$content-table-cell-border: 1px solid variables.$gray,
 
   // Misc.
   $control-border-width: 2px,
@@ -57,15 +56,14 @@
 /*
  * Global styling
  */
-
 body {
-  background-color: variables.$very-pale-pink;
-  color: variables.$gray-darkest;
+  background-color: variables.$base;
+  color: variables.$txt;
 }
 
 // Hovering over links turns them from blue to red
 a:hover {
-  color: variables.$red;
+  color: variables.$warning;
 }
 
 // Helper class to create the ARG font on the website

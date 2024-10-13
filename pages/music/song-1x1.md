@@ -13,11 +13,13 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/p
 
 ***
 
-## Lyrics
+## Official Material
+
+{% include content/buttons/button-danger.html text="Official LV" link="https://www.youtube.com/watch?v=jN0aELsVQFA" %}
 
 <details class="lyrics">
 <summary>Lyrics</summary>
-
+{{ " 
 disconnected from the world again./
 no, the sun don’t shine in the place i’ve been./
 so why you keep acting like i don’t exist?/
@@ -69,7 +71,7 @@ the weight,/
 it pulls me underneath.
 
 (Source: 1x1 lyric video description)
-
+" | markdownify }}
 </details>
 
 ***
@@ -82,5 +84,6 @@ laments that he’s been “reliving my memories – and they’re killing me on
 The song, he says, addresses “the guilt that we as a society carry for what we’ve done 
 to other species and ethnicities and other genders”, but also the struggle to escape 
 his own history.
-> 
-> (Source: [NME](https://www.nme.com/big-reads/bring-me-the-horizon-cover-interview-2020-post-human-survival-horror-2804768))
+
+{% include content/buttons/button-primary.html text="NME interview" icon="fa-solid fa-microphone"
+link="https://www.nme.com/big-reads/bring-me-the-horizon-cover-interview-2020-post-human-survival-horror-2804768" %}

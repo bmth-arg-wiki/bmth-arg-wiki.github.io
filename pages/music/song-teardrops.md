@@ -15,9 +15,11 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/p
 
 ## Lyrics
 
-<details class="lyrics">
-    <summary>Lyrics</summary>
+{% include content/buttons/button-danger.html text="Official MV" link="https://www.youtube.com/watch?v=L5uV3gmOH9g" %}
 
+<details class="lyrics">
+<summary>Lyrics</summary>
+{{ "
 teardrops/
 
 we hurt ourselves for fun/
@@ -52,7 +54,7 @@ suicidal, violent tragic state of mind./
 lost my halo, now i’m my own anti-christ.
 
 (Source: Teardrops music video description)
-
+" | markdownify }}
 </details>
 
 ***

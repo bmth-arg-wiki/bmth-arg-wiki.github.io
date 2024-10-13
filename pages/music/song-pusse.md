@@ -13,7 +13,9 @@ both including one of the [insights](../lore/insights), and an image at the end.
 
 ***
 
-## Lyrics & text
+## Official Material
+
+{% include content/buttons/button-danger.html text="Official LV" link="https://www.youtube.com/watch?v=J6b4fBX1ynQ" %}
 
 This song contains very few lyrics, functioning as an interlude on [the album](ph-nex-gen). 
 Since [P.U.S.S-E](../lore/pusse) is pretty significant to the lore, this transcription 
@@ -21,8 +23,7 @@ also attempts to transcribe the talking we hear throughout.
 
 <details class="lyrics">
 <summary>Expand lyrics</summary>
-
-```
+{{ "
 - Talking:
 It's simple folk-
 [???]ogram therapeutic
@@ -39,7 +40,7 @@ GET AWAY, GET AWAY
 I think the question on everyone's lips is 
 what would you do for P.U.S.S-E?
 
-(Music, flashes of "LET PUSS-E GUIDE YOU THERE")
+(Music, flashes of 'LET PUSS-E GUIDE YOU THERE')
 
 Do you wanna join the millions of people that already ascended to Youtopia?
 
@@ -61,7 +62,7 @@ Remember when you used to care?
 Remember when it used to mean something?
 Remember when it was as simple as the summer sunset?
 No? [man grumbling] You will.
-```
+" | markdownify }}
 
 </details>
 

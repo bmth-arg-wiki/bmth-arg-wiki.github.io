@@ -14,11 +14,13 @@ It's title, although referencing the 1998 video game of the same name, still rem
 
 ***
 
-## Lyrics
+## Official Material
+
+{% include content/buttons/button-danger.html text="Official MV" link="https://www.youtube.com/watch?v=racmy7Y9P4M" %}
 
 <details class="lyrics">
-    <summary>Lyrics</summary>
-
+<summary>Lyrics</summary>
+{{ " 
 Накривил е калпачето ей така, па така/
 Нанагоре-нанадоле, ей така, па така/
 Накривил е калпачето ей така,па така/
@@ -66,8 +68,8 @@ when life is a prison and death is a door/
 this ain’t a warning/
 this is a war.
 
-(Source: Parasite Eve music video description + Genius Lyrics)
-
+(Source: Parasite Eve music video description)
+" | markdownify }}
 </details>
 
 ***

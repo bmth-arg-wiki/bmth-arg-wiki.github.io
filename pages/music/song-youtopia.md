@@ -6,18 +6,24 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/p
 ---
 # YOUtopia (song)
 
-> 🛈 This article is about the song, not the [general concept](../lore/youtopia)
 
-YOUtopia is the second song of the album. It shares a name with the fictional universe of Youtopia, 
+{% include content/info.html
+title="YOUtopia (Song)"
+content="This article is about the song, not the [general concept](../lore/youtopia)."
+%}
+
+YOUtopia is the second song of the album. It shares a name with the fictional universe of [Youtopia](../lore/youtopia), 
 even though the stylization is different.
 
 ***
 
-## Lyrics
+## Official Material
+
+{% include content/buttons/button-danger.html text="Official LV" link="https://www.youtube.com/watch?v=o5w5Qbl1J_Y" %}
 
 <details class="lyrics">
-<summary>Source: Lyrics video</summary>
-
+<summary>Lyrics</summary>
+{{ "
 > there’s a place i wanna take you
 > but i’m not quite there myself yet
 > i’m getting better but there’s still days
@@ -70,7 +76,7 @@ even though the stylization is different.
 > there's a place i wanna take you
 > where love is the law
 > a youtopia
-
+" | markdownify }}
 </details>
 
 ***

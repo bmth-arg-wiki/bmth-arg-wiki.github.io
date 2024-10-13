@@ -6,7 +6,10 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/a
 ---
 # MANTRA (song)
 
-> ℹ︎ This article is about the song MANTRA, not about [the cult](../lore/mantra)
+{% include content/info.html
+title="Mantra (Song)"
+content="This article is about the song MANTRA, not about [the cult](../lore/mantra)."
+%}
 
 > "Do you want to start a cult with me?"
 
@@ -18,15 +21,19 @@ we can learn more about in a few different files:
 - [Unbeleevable video](../for-sof/unbeleevable)
 - [Skys & the Starjammers poster](../for-sof/skystarjammers)
 
-There was also a website with a teaser called `joinmantra.org`.
+There was also a website with a teaser called `joinmantra.org`. It is no longer 
+available on the internet, but you can learn more about it in the [cult article](../lore/mantra).
 
 ***
 
-## Lyrics
+## Official Material
+
+{% include content/buttons/button-danger.html text="Official MV" link="https://www.youtube.com/watch?v=Thazgd1HFus" %}
+{% include content/buttons/button-danger.html text="Director's cut" link="https://www.youtube.com/watch?v=5-CKodNY41Y" %}
 
 <details class="lyrics">
-    <summary>Lyrics</summary>
-
+<summary>Lyrics</summary>
+{{"
 Do you wanna start a cult with me?/
 I’m not vibrating like I oughta be/
 I need a purpose, I can't keep surfing/
@@ -64,7 +71,7 @@ All I’m asking for’s a little bit of faith/
 You know it's easy to, so easy to believe
 
 (Source: Mantra music video description)
-
+"| markdownify }}
 </details>
 
 ***
