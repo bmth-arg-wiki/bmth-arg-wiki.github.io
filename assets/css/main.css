@@ -441,31 +441,31 @@
   --bulma-link-on-scheme: hsla(var(--bulma-link-h), var(--bulma-link-s), var(--bulma-link-on-scheme-l), 1);
   --bulma-info: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-l), 1);
   --bulma-info-base: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-l), 1);
-  --bulma-info-rgb: 202, 122, 122;
+  --bulma-info-rgb: 189, 109, 109;
   --bulma-info-h: 0deg;
-  --bulma-info-s: 43%;
-  --bulma-info-l: 64%;
+  --bulma-info-s: 38%;
+  --bulma-info-l: 58%;
   --bulma-info-00-l: 0%;
-  --bulma-info-05-l: 4%;
-  --bulma-info-10-l: 9%;
-  --bulma-info-15-l: 14%;
-  --bulma-info-20-l: 19%;
-  --bulma-info-25-l: 24%;
-  --bulma-info-30-l: 29%;
-  --bulma-info-35-l: 34%;
-  --bulma-info-40-l: 39%;
-  --bulma-info-45-l: 44%;
-  --bulma-info-50-l: 49%;
-  --bulma-info-55-l: 54%;
-  --bulma-info-60-l: 59%;
-  --bulma-info-65-l: 64%;
-  --bulma-info-70-l: 69%;
-  --bulma-info-75-l: 74%;
-  --bulma-info-80-l: 79%;
-  --bulma-info-85-l: 84%;
-  --bulma-info-90-l: 89%;
-  --bulma-info-95-l: 94%;
-  --bulma-info-100-l: 99%;
+  --bulma-info-05-l: 3%;
+  --bulma-info-10-l: 8%;
+  --bulma-info-15-l: 13%;
+  --bulma-info-20-l: 18%;
+  --bulma-info-25-l: 23%;
+  --bulma-info-30-l: 28%;
+  --bulma-info-35-l: 33%;
+  --bulma-info-40-l: 38%;
+  --bulma-info-45-l: 43%;
+  --bulma-info-50-l: 48%;
+  --bulma-info-55-l: 53%;
+  --bulma-info-60-l: 58%;
+  --bulma-info-65-l: 63%;
+  --bulma-info-70-l: 68%;
+  --bulma-info-75-l: 73%;
+  --bulma-info-80-l: 78%;
+  --bulma-info-85-l: 83%;
+  --bulma-info-90-l: 88%;
+  --bulma-info-95-l: 93%;
+  --bulma-info-100-l: 98%;
   --bulma-info-00: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-00-l), 1);
   --bulma-info-00-invert-l: var(--bulma-info-65-l);
   --bulma-info-00-invert: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-00-invert-l), 1);
@@ -479,7 +479,7 @@
   --bulma-info-15-invert-l: var(--bulma-info-75-l);
   --bulma-info-15-invert: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-15-invert-l), 1);
   --bulma-info-20: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-20-l), 1);
-  --bulma-info-20-invert-l: var(--bulma-info-85-l);
+  --bulma-info-20-invert-l: var(--bulma-info-80-l);
   --bulma-info-20-invert: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-20-invert-l), 1);
   --bulma-info-25: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-25-l), 1);
   --bulma-info-25-invert-l: var(--bulma-info-90-l);
@@ -515,7 +515,7 @@
   --bulma-info-75-invert-l: var(--bulma-info-15-l);
   --bulma-info-75-invert: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-75-invert-l), 1);
   --bulma-info-80: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-80-l), 1);
-  --bulma-info-80-invert-l: var(--bulma-info-15-l);
+  --bulma-info-80-invert-l: var(--bulma-info-20-l);
   --bulma-info-80-invert: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-80-invert-l), 1);
   --bulma-info-85: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-85-l), 1);
   --bulma-info-85-invert-l: var(--bulma-info-20-l);
@@ -529,7 +529,7 @@
   --bulma-info-100: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-100-l), 1);
   --bulma-info-100-invert-l: var(--bulma-info-30-l);
   --bulma-info-100-invert: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-100-invert-l), 1);
-  --bulma-info-invert-l: var(--bulma-info-05-l);
+  --bulma-info-invert-l: var(--bulma-info-100-l);
   --bulma-info-invert: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-invert-l), 1);
   --bulma-info-light-l: var(--bulma-info-90-l);
   --bulma-info-light: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-light-l), 1);
@@ -543,7 +543,7 @@
   --bulma-info-bold: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-bold-l), 1);
   --bulma-info-soft-invert: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-soft-invert-l), 1);
   --bulma-info-bold-invert: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-bold-invert-l), 1);
-  --bulma-info-on-scheme-l: 43.5294117647%;
+  --bulma-info-on-scheme-l: 43.431372549%;
   --bulma-info-on-scheme: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-on-scheme-l), 1);
   --bulma-success: hsla(var(--bulma-success-h), var(--bulma-success-s), var(--bulma-success-l), 1);
   --bulma-success-base: hsla(var(--bulma-success-h), var(--bulma-success-s), var(--bulma-success-l), 1);
@@ -1342,31 +1342,31 @@
     --bulma-link-on-scheme: hsla(var(--bulma-link-h), var(--bulma-link-s), var(--bulma-link-on-scheme-l), 1);
     --bulma-info: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-l), 1);
     --bulma-info-base: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-l), 1);
-    --bulma-info-rgb: 202, 122, 122;
+    --bulma-info-rgb: 189, 109, 109;
     --bulma-info-h: 0deg;
-    --bulma-info-s: 43%;
-    --bulma-info-l: 64%;
+    --bulma-info-s: 38%;
+    --bulma-info-l: 58%;
     --bulma-info-00-l: 0%;
-    --bulma-info-05-l: 4%;
-    --bulma-info-10-l: 9%;
-    --bulma-info-15-l: 14%;
-    --bulma-info-20-l: 19%;
-    --bulma-info-25-l: 24%;
-    --bulma-info-30-l: 29%;
-    --bulma-info-35-l: 34%;
-    --bulma-info-40-l: 39%;
-    --bulma-info-45-l: 44%;
-    --bulma-info-50-l: 49%;
-    --bulma-info-55-l: 54%;
-    --bulma-info-60-l: 59%;
-    --bulma-info-65-l: 64%;
-    --bulma-info-70-l: 69%;
-    --bulma-info-75-l: 74%;
-    --bulma-info-80-l: 79%;
-    --bulma-info-85-l: 84%;
-    --bulma-info-90-l: 89%;
-    --bulma-info-95-l: 94%;
-    --bulma-info-100-l: 99%;
+    --bulma-info-05-l: 3%;
+    --bulma-info-10-l: 8%;
+    --bulma-info-15-l: 13%;
+    --bulma-info-20-l: 18%;
+    --bulma-info-25-l: 23%;
+    --bulma-info-30-l: 28%;
+    --bulma-info-35-l: 33%;
+    --bulma-info-40-l: 38%;
+    --bulma-info-45-l: 43%;
+    --bulma-info-50-l: 48%;
+    --bulma-info-55-l: 53%;
+    --bulma-info-60-l: 58%;
+    --bulma-info-65-l: 63%;
+    --bulma-info-70-l: 68%;
+    --bulma-info-75-l: 73%;
+    --bulma-info-80-l: 78%;
+    --bulma-info-85-l: 83%;
+    --bulma-info-90-l: 88%;
+    --bulma-info-95-l: 93%;
+    --bulma-info-100-l: 98%;
     --bulma-info-00: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-00-l), 1);
     --bulma-info-00-invert-l: var(--bulma-info-65-l);
     --bulma-info-00-invert: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-00-invert-l), 1);
@@ -1380,7 +1380,7 @@
     --bulma-info-15-invert-l: var(--bulma-info-75-l);
     --bulma-info-15-invert: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-15-invert-l), 1);
     --bulma-info-20: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-20-l), 1);
-    --bulma-info-20-invert-l: var(--bulma-info-85-l);
+    --bulma-info-20-invert-l: var(--bulma-info-80-l);
     --bulma-info-20-invert: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-20-invert-l), 1);
     --bulma-info-25: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-25-l), 1);
     --bulma-info-25-invert-l: var(--bulma-info-90-l);
@@ -1416,7 +1416,7 @@
     --bulma-info-75-invert-l: var(--bulma-info-15-l);
     --bulma-info-75-invert: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-75-invert-l), 1);
     --bulma-info-80: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-80-l), 1);
-    --bulma-info-80-invert-l: var(--bulma-info-15-l);
+    --bulma-info-80-invert-l: var(--bulma-info-20-l);
     --bulma-info-80-invert: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-80-invert-l), 1);
     --bulma-info-85: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-85-l), 1);
     --bulma-info-85-invert-l: var(--bulma-info-20-l);
@@ -1430,7 +1430,7 @@
     --bulma-info-100: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-100-l), 1);
     --bulma-info-100-invert-l: var(--bulma-info-30-l);
     --bulma-info-100-invert: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-100-invert-l), 1);
-    --bulma-info-invert-l: var(--bulma-info-05-l);
+    --bulma-info-invert-l: var(--bulma-info-100-l);
     --bulma-info-invert: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-invert-l), 1);
     --bulma-info-light-l: var(--bulma-info-90-l);
     --bulma-info-light: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-light-l), 1);
@@ -1444,7 +1444,7 @@
     --bulma-info-bold: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-bold-l), 1);
     --bulma-info-soft-invert: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-soft-invert-l), 1);
     --bulma-info-bold-invert: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-bold-invert-l), 1);
-    --bulma-info-on-scheme-l: 43.5294117647%;
+    --bulma-info-on-scheme-l: 43.431372549%;
     --bulma-info-on-scheme: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-on-scheme-l), 1);
     --bulma-success: hsla(var(--bulma-success-h), var(--bulma-success-s), var(--bulma-success-l), 1);
     --bulma-success-base: hsla(var(--bulma-success-h), var(--bulma-success-s), var(--bulma-success-l), 1);
@@ -1801,7 +1801,7 @@
     --bulma-primary-on-scheme: hsla(var(--bulma-primary-h), var(--bulma-primary-s), var(--bulma-primary-on-scheme-l), 1);
     --bulma-link-on-scheme-l: 59.3137254902%;
     --bulma-link-on-scheme: hsla(var(--bulma-link-h), var(--bulma-link-s), var(--bulma-link-on-scheme-l), 1);
-    --bulma-info-on-scheme-l: 63.5294117647%;
+    --bulma-info-on-scheme-l: 63.431372549%;
     --bulma-info-on-scheme: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-on-scheme-l), 1);
     --bulma-success-on-scheme-l: 55%;
     --bulma-success-on-scheme: hsla(var(--bulma-success-h), var(--bulma-success-s), var(--bulma-success-on-scheme-l), 1);
@@ -2260,31 +2260,31 @@
   --bulma-link-on-scheme: hsla(var(--bulma-link-h), var(--bulma-link-s), var(--bulma-link-on-scheme-l), 1);
   --bulma-info: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-l), 1);
   --bulma-info-base: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-l), 1);
-  --bulma-info-rgb: 202, 122, 122;
+  --bulma-info-rgb: 189, 109, 109;
   --bulma-info-h: 0deg;
-  --bulma-info-s: 43%;
-  --bulma-info-l: 64%;
+  --bulma-info-s: 38%;
+  --bulma-info-l: 58%;
   --bulma-info-00-l: 0%;
-  --bulma-info-05-l: 4%;
-  --bulma-info-10-l: 9%;
-  --bulma-info-15-l: 14%;
-  --bulma-info-20-l: 19%;
-  --bulma-info-25-l: 24%;
-  --bulma-info-30-l: 29%;
-  --bulma-info-35-l: 34%;
-  --bulma-info-40-l: 39%;
-  --bulma-info-45-l: 44%;
-  --bulma-info-50-l: 49%;
-  --bulma-info-55-l: 54%;
-  --bulma-info-60-l: 59%;
-  --bulma-info-65-l: 64%;
-  --bulma-info-70-l: 69%;
-  --bulma-info-75-l: 74%;
-  --bulma-info-80-l: 79%;
-  --bulma-info-85-l: 84%;
-  --bulma-info-90-l: 89%;
-  --bulma-info-95-l: 94%;
-  --bulma-info-100-l: 99%;
+  --bulma-info-05-l: 3%;
+  --bulma-info-10-l: 8%;
+  --bulma-info-15-l: 13%;
+  --bulma-info-20-l: 18%;
+  --bulma-info-25-l: 23%;
+  --bulma-info-30-l: 28%;
+  --bulma-info-35-l: 33%;
+  --bulma-info-40-l: 38%;
+  --bulma-info-45-l: 43%;
+  --bulma-info-50-l: 48%;
+  --bulma-info-55-l: 53%;
+  --bulma-info-60-l: 58%;
+  --bulma-info-65-l: 63%;
+  --bulma-info-70-l: 68%;
+  --bulma-info-75-l: 73%;
+  --bulma-info-80-l: 78%;
+  --bulma-info-85-l: 83%;
+  --bulma-info-90-l: 88%;
+  --bulma-info-95-l: 93%;
+  --bulma-info-100-l: 98%;
   --bulma-info-00: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-00-l), 1);
   --bulma-info-00-invert-l: var(--bulma-info-65-l);
   --bulma-info-00-invert: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-00-invert-l), 1);
@@ -2298,7 +2298,7 @@
   --bulma-info-15-invert-l: var(--bulma-info-75-l);
   --bulma-info-15-invert: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-15-invert-l), 1);
   --bulma-info-20: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-20-l), 1);
-  --bulma-info-20-invert-l: var(--bulma-info-85-l);
+  --bulma-info-20-invert-l: var(--bulma-info-80-l);
   --bulma-info-20-invert: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-20-invert-l), 1);
   --bulma-info-25: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-25-l), 1);
   --bulma-info-25-invert-l: var(--bulma-info-90-l);
@@ -2334,7 +2334,7 @@
   --bulma-info-75-invert-l: var(--bulma-info-15-l);
   --bulma-info-75-invert: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-75-invert-l), 1);
   --bulma-info-80: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-80-l), 1);
-  --bulma-info-80-invert-l: var(--bulma-info-15-l);
+  --bulma-info-80-invert-l: var(--bulma-info-20-l);
   --bulma-info-80-invert: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-80-invert-l), 1);
   --bulma-info-85: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-85-l), 1);
   --bulma-info-85-invert-l: var(--bulma-info-20-l);
@@ -2348,7 +2348,7 @@
   --bulma-info-100: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-100-l), 1);
   --bulma-info-100-invert-l: var(--bulma-info-30-l);
   --bulma-info-100-invert: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-100-invert-l), 1);
-  --bulma-info-invert-l: var(--bulma-info-05-l);
+  --bulma-info-invert-l: var(--bulma-info-100-l);
   --bulma-info-invert: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-invert-l), 1);
   --bulma-info-light-l: var(--bulma-info-90-l);
   --bulma-info-light: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-light-l), 1);
@@ -2362,7 +2362,7 @@
   --bulma-info-bold: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-bold-l), 1);
   --bulma-info-soft-invert: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-soft-invert-l), 1);
   --bulma-info-bold-invert: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-bold-invert-l), 1);
-  --bulma-info-on-scheme-l: 43.5294117647%;
+  --bulma-info-on-scheme-l: 43.431372549%;
   --bulma-info-on-scheme: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-on-scheme-l), 1);
   --bulma-success: hsla(var(--bulma-success-h), var(--bulma-success-s), var(--bulma-success-l), 1);
   --bulma-success-base: hsla(var(--bulma-success-h), var(--bulma-success-s), var(--bulma-success-l), 1);
@@ -2752,7 +2752,7 @@
   --bulma-primary-on-scheme: hsla(var(--bulma-primary-h), var(--bulma-primary-s), var(--bulma-primary-on-scheme-l), 1);
   --bulma-link-on-scheme-l: 59.3137254902%;
   --bulma-link-on-scheme: hsla(var(--bulma-link-h), var(--bulma-link-s), var(--bulma-link-on-scheme-l), 1);
-  --bulma-info-on-scheme-l: 63.5294117647%;
+  --bulma-info-on-scheme-l: 63.431372549%;
   --bulma-info-on-scheme: hsla(var(--bulma-info-h), var(--bulma-info-s), var(--bulma-info-on-scheme-l), 1);
   --bulma-success-on-scheme-l: 55%;
   --bulma-success-on-scheme: hsla(var(--bulma-success-h), var(--bulma-success-s), var(--bulma-success-on-scheme-l), 1);
@@ -3950,11 +3950,11 @@ a.box:active {
   --bulma-content-heading-weight: var(--bulma-weight-extrabold);
   --bulma-content-heading-line-height: 1.125;
   --bulma-content-block-margin-bottom: 1em;
-  --bulma-content-blockquote-background-color: #FFFFFF;
-  --bulma-content-blockquote-border-left: 5px solid #ca7a7a;
+  --bulma-content-blockquote-background-color: var(--bulma-background);
+  --bulma-content-blockquote-border-left: 5px solid #bd6d6d;
   --bulma-content-blockquote-padding: 1.25em 1.5em;
   --bulma-content-pre-padding: 1.25em 1.5em;
-  --bulma-content-table-cell-border: 1px solid #74757A;
+  --bulma-content-table-cell-border: 1px solid var(--bulma-border);
   --bulma-content-table-cell-border-width: 0 0 1px;
   --bulma-content-table-cell-padding: 0.5em 0.75em;
   --bulma-content-table-cell-heading-color: var(--bulma-text-strong);
@@ -21555,7 +21555,7 @@ has-background-danger.is-hoverable:active {
  * Global content styling
  */
 .content {
-  color: #1a1e20;
+  color: #1f2525;
 }
 
 /*
@@ -21573,8 +21573,17 @@ has-background-danger.is-hoverable:active {
   font-size: medium;
 }
 
+.content a {
+  color: #0552aa;
+}
+
 .content a:visited {
-  color: #872d2d;
+  color: #d84848;
+}
+
+.content blockquote {
+  background-color: #fff9f9;
+  color: #1f2525;
 }
 
 /*
@@ -21657,7 +21666,7 @@ a.navbar-item:hover,
 .navbar-link:focus-within,
 .navbar-link:hover {
   background: #eac3bc;
-  color: #1a1e20;
+  color: #1f2525;
 }
 
 a.heading-anchor,
@@ -21685,7 +21694,7 @@ a.heading-anchor:visited,
 
 .tabs.is-boxed li a:hover {
   background: #eac3bc;
-  color: #1a1e20;
+  color: #1f2525;
 }
 
 .search input {
@@ -21696,26 +21705,12 @@ a.heading-anchor:visited,
   height: 40px;
 }
 
-.result-item {
-  padding: 5px;
-}
-
 @media screen and (min-width: 1023px) {
   #toc-aside {
     position: sticky;
     top: 0;
   }
 }
-/*
- * Menu (overall) styling
- */
-.menu-list,
-.menu-list a,
-.menu-list button,
-.menu-list .menu-item {
-  background-color: #fff1f2;
-}
-
 /**
  * Headers
  */
@@ -21724,8 +21719,7 @@ a.heading-anchor:visited,
   overflow-wrap: break-word;
 }
 
-.toc-level-2 a::before,
-.toc-level-3 a::before {
+.toc-level-2 a::before {
   content: "#";
   color: #e48f81;
   display: inline-block;
@@ -21733,8 +21727,12 @@ a.heading-anchor:visited,
   font-size: small;
 }
 
-.toc-level-3 {
-  padding-left: 15px;
+.toc-level-3 a::before {
+  content: "#";
+  color: #e48f81;
+  display: inline-block;
+  padding: 0.5em;
+  font-size: small;
 }
 
 /*

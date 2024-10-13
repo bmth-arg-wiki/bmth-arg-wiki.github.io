@@ -12,14 +12,14 @@
 a.heading-anchor:hover,
 a.heading-anchor:visited:hover,
 a.heading-anchor:hover {
-  color: $red-dark;
+  color: $danger;
 }
 
 /*
  * Dark navbar (top hero)
  */
 a.navbar-item {
-  color: $very-pale-pink;
+  color: $base;
 }
 
 a.navbar-item:focus,
@@ -27,22 +27,22 @@ a.navbar-item:focus-within,
 a.navbar-item:hover,
 .navbar-link:focus,
 .navbar-link:focus-within,
-.navbar-link:hover,
+.navbar-link:hover
 {
-  background: $pink-lighter;
-  color: $gray-darkest;
+  background: $primary-lighter;
+  color: $txt;
 }
 
 a.heading-anchor,
 a.heading-anchor:visited,
 .navbar-burger {
-  color: $pink-lighter;
+  color: $primary-lighter;
 }
 
 // Mobile styling
 @media screen and (max-width: $mobile-width){
   .navbar-menu.is-active {
-    background: $gray-darker;
+    background: $txt;
   }
 }
 
@@ -52,18 +52,18 @@ a.heading-anchor:visited,
  */
 // Dark by default and light up on hover/active
 .tabs.is-boxed li a {
-  color: $very-pale-pink;
+  color: $base;
 }
 
 // For active tabs we use a very light pink + dark txt
 .tabs.is-boxed li.is-active a {
-  background: $pink-lightest;
+  background: $primary-lightest;
   color: $gray-darkest;
 }
 
 // For hovered tabs we use a light pink + dark txt
 .tabs.is-boxed li a:hover {
-  background: $pink-lighter;
-  color: $gray-darkest;
+  background: $primary-lighter;
+  color: $txt;
 }
 

@@ -11,13 +11,16 @@ seems to contain relevant imagery to the world of [Youtopia](../lore/youtopia)
 
 ***
 
-## Lyrics
+## Official Material
 
-Source: [lyrics video](https://www.youtube.com/watch?v=L6tHMDaGgho).
+{% include content/buttons/button-danger.html text="Official MV" link="https://www.youtube.com/watch?v=xv-70a6yXfM" icon="fa-brands fa-youtube" %}
+{% include content/buttons/button-danger.html text="Official LV" link="https://www.youtube.com/watch?v=L6tHMDaGgho" icon="fa-brands fa-youtube" %}
+
+{% include content/video.html link="https://www.youtube.com/embed/1IQpJULLt-4" %}
 
 <details class="lyrics">
 <summary>Expand lyrics</summary>
-
+{{"
 > watching evangelion
 > with a big fat slug of ketamine
 > i lost the plot a little while ago, oh-oh
@@ -78,7 +81,9 @@ Source: [lyrics video](https://www.youtube.com/watch?v=L6tHMDaGgho).
 > i guess there's no remedy
 > own worst enemy
 > i'm so terribly lost
-
+>
+> Source: [lyrics video](https://www.youtube.com/watch?v=L6tHMDaGgho).
+" | markdownify }}
 </details>
 
 ***

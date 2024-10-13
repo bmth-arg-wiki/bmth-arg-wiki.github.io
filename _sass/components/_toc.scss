@@ -8,16 +8,6 @@
   }
 }
 
-/*
- * Menu (overall) styling
- */
-.menu-list,
-.menu-list a,
-.menu-list button,
-.menu-list .menu-item {
-  background-color: $pink-lightest;
-}
-
 /**
  * Headers
  */
@@ -27,15 +17,18 @@
   overflow-wrap: break-word;
 }
 
-.toc-level-2 a::before,
-.toc-level-3 a::before {
+.toc-level-2 a::before {
   content: '#';
-  color: $pink;
+  color: $primary;
   display: inline-block;
   padding: 0.25em;
   font-size: small;
 }
 
-.toc-level-3 {
-  padding-left: 15px;
+.toc-level-3 a::before {
+  content: '#';
+  color: $primary;
+  display: inline-block;
+  padding: 0.5em;
+  font-size: small;
 }

@@ -10,14 +10,15 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage
 
 # Multidimensional Navigator 8 Webpage
 
-Most of the ARG takes place in the Multidimensional Navigator. You can access 
-it with the following link.
+Most of the ARG takes place in the Multidimensional Navigator, a fictional piece of technology that 
+is also our character [M8](m8). You can access it with the following link:
 
 [https://www.multidimensionalnavigator8.help/index-desktop.html](https://www.multidimensionalnavigator8.help/index-desktop.html)
 
 ![An overview of the webpage](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/webpage-overview.png)
 
-The dashboard upon login, after the [weather module](#weather-module) was changed.
+The dashboard upon login. It's appearance has been pretty consistent for some time, with no new backgrounds/songs/users 
+appearing or existing ones changing. It is now also possible to access the [wi-fi](lore/wifi).
 
 ***
 
@@ -45,6 +46,8 @@ The QR code for the website was found at the end of the [spectrogram](music/spec
 in the song DIg It.
 
 ![QR code at the end of Dig It](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/spectrograms/spectrogram_qr.png)
+
+We do not recommend trying to scan this barcode, using the link above is much easier!
 
 ***
 
