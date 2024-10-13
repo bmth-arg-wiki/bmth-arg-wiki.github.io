@@ -17,7 +17,7 @@ image: "/Resources/webpage/webpage-overview.png"
 
 # Home
 
-{% include info.html 
+{% include content/info.html 
 title="Where love is the law, a Youtopia" 
 icon="fa-solid fa-heart"
 content="Welcome to the Bring Me The Horizon ARG Wiki! We are here to help you get started." 

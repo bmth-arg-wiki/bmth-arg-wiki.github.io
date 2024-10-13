@@ -6,7 +6,21 @@ permalink: "/styling"
 ---
 # Styling page
 
+{% include content/info.html
+title="Where love is the law, a Youtopia"
+icon="fa-solid fa-heart"
+content="Welcome to the styling page! This is just for reference."
+%}
+
 This page should contain all styling used in the Wiki, for testing and design purposes. :)
+
+## Buttons
+
+{% include content/buttons/button-danger.html text="Official MV" link="https://www.youtube.com/watch?v=xv-70a6yXfM" %}
+{% include content/buttons/button-danger.html text="Official LV" link="https://www.youtube.com/watch?v=L6tHMDaGgho" %}
+
+{% include content/buttons/button-primary.html text="NME interview" icon="fa-solid fa-microphone"
+link="https://www.nme.com/big-reads/bring-me-the-horizon-cover-interview-2020-post-human-survival-horror-2804768" %}
 
 ## Secrets
 
@@ -37,6 +51,12 @@ Example snippet from [FOR SOF](for-sof).
 ## Gallery
 
 {% include gallery.html folder="characters/syko/gallery" %}
+
+## Video
+
+Most videos are not allowed to be embedded, but the few that are can be embedded like this:
+
+{% include content/video.html link="https://www.youtube.com/embed/1IQpJULLt-4" %}
 
 ## Read More
 
