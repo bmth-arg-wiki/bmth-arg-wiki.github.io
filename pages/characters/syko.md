@@ -31,9 +31,7 @@ which he approaches head-on with a keen intellect and resilience.
 {% include info.html 
 title="Tinfoil Warning!" 
 icon="fa-solid fa-triangle-exclamation"
-content="This next section is entirely based on speculation. None of it is confirmed.
-The theory pointing towards Scott and Syko being the same person stems from the fact that the password
-for Scott's Diary is Syko's user number. "Scott" also happens to be Oli's real-life middle name. " 
+content="This next section is entirely based on speculation. None of it is confirmed. The theory pointing towards Scott and Syko being the same person stems from the fact that the password for Scott's Diary is Syko's user number. "Scott" also happens to be Oli's real-life middle name. " 
 %}
 
 ### Overview
