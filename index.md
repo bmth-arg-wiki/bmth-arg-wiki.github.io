@@ -83,7 +83,7 @@ they are discussed in their own article.
 {% include info.html
 title="Grab your tinfoil hats!"
 icon="fa-solid fa-hat-wizard"
-content="The [Notion page](https://the-secret-tinfoil-society.notion.site/BRING-ME-THE-HORIZON-ARG-6c86ee58ee3b41a6b0c594cf59201d4b?pvs=4)
+content="The [Notion page](https://the-secret-tinfoil-society.notion.site/BRING-ME-THE-HORIZON-ARG-6c86ee58ee3b41a6b0c594cf59201d4b)
 contains all of our latest theories. The wiki focuses on facts, high quality images and an introduction to the project."
 %}
 
