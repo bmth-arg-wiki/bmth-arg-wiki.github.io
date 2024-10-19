@@ -14,7 +14,7 @@ Also check out our [page for theories](https://the-secret-tinfoil-society.notion
 where you can check out our latest findings and theories.
 This wiki will attempt to catalogue the known facts and provide a [walkthrough](walkthrough).
 
----
+***
 
 ## Developers
 
@@ -24,7 +24,7 @@ The team working on building the wiki's core structure.
 * @owsel 🦉: Designer
 * @teapot6162 🐈: Colour palette & design
 
----
+***
 
 ## Editors
 
@@ -33,7 +33,7 @@ Main article writer and editors.
 * @alec_baguette 🥖
 * @linaanna 👾
 
----
+***
 
 ## Special Thanks
 
