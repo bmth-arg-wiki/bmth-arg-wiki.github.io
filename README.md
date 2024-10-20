@@ -23,7 +23,8 @@ editor-friendly options. :)
 
 ## Developing the Wiki
 
-This project is a simple front-end built with HTML/CSS and JavaScript.
+This project is a simple front-end built with HTML, SCSS with Bulma and vanilla JavaScript. It combines with 
+Jekyll (Liquid) to turn Markdown into fully functional HTML pages that can be hosted using GitHub Pages.
 
 Are you a dev on this project or do you just want to run it? Here's the way to do it.
 
