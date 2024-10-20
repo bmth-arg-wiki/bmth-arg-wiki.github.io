@@ -6,7 +6,7 @@ categories: ["for-sof"]
 tags: ["selene", "vspr", "scott", "youtopia", "synths", "diary", "syko", "for sof",  "files",
        "vspr-37", "pandemic", "lbrp", "lesser", "banishing", "ritual", "pentagram", "spiritual", 
        "nex gen", "pineal gland", "dmt", "pusse"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/selene_diary/gallery/selene_diary1.jpg"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/selene_youtopia_doc/doc-preview.png"
 ---
 
 # Selene Youtopia Doc

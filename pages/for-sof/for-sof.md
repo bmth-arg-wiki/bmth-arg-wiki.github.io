@@ -1,7 +1,7 @@
 ---
-title: "FOR SOF"
-description: "This page provides an overview of the for-sof and passwords in the FOR SOF folder, along with 
-descriptions of previous versions of it."
+title: "Files"
+description: "This page contains all files related to the ARG, including physical document distributed 
+during events. Most of the files are from the FOR SOF folder, which Selene left for her child Sof."
 categories: []
 tags: ["lore", "for sof", "sof", "selene", "documents", "passwords", "rain", "birth", 
        "nex gen", "post human", "walkthrough", "arg", "bring me the horizon", "bmth", "password game", "qr code",
@@ -16,7 +16,7 @@ tags: ["lore", "for sof", "sof", "selene", "documents", "passwords", "rain", "bi
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/for_sof_password_prompt.png"
 ---
 
-# FOR SOF
+# Files
 
 {% include info.html
 title="Beware spoilers!"
@@ -24,20 +24,32 @@ icon="fa-solid fa-lock-open"
 content="This article contains heavy spoilers, unlike our [walkthrough](../walkthrough/walkthrough)!"
 %}
 
+This page provides an overview of all files related to the ARG. Most of them were obtained 
+from the [website](../webpage), but others were distributed physically only (although that might still change).
+
+***
+
+## Event-related Documents
+
+{% assign page_links = '/pages/for-sof/selene_youtopia_doc' | split: ", " %}
+{% include page-card-gallery.html links=page_links %}
+
+***
+
+## FOR SOF
+
 `FOR SOF` is a folder in the ARG that can be accessed on the computer. It is password 
 protected and was found on 26-05-2024. It requires a password.
 
 M8 says "You have 132 documents and one audio log" when you open the folder. This doesn't 
 match the contents of what we see (at least not yet).
 
-***
-
-## Unlocked files
+### Unlocked files
 
 {% assign page_links = '/pages/for-sof/msgforsof, /pages/lore/insights, /pages/lore/insight1-connection, /pages/lore/insight2-empathy, /pages/lore/insight3-purpose, /pages/lore/insight4-vision, /pages/for-sof/capslock_doc, /pages/for-sof/strassmancodec, /pages/for-sof/dreadit, /pages/for-sof/selenes_map, /pages/for-sof/r8, /pages/for-sof/selene_personal_journal, /pages/for-sof/lauren_d8_log, /pages/for-sof/scott_personal_journal, /pages/for-sof/trinity_document, /pages/for-sof/tekka_interview, /pages/for-sof/project_dust, /pages/for-sof/thesciencestudy, /pages/for-sof/skystarjammers, /pages/for-sof/unbeleevable, /pages/for-sof/russianpoem, /pages/for-sof/kingslayercodec, /pages/for-sof/grumblr, /pages/for-sof/lbr_sites, /pages/for-sof/goxmog' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
-## Locked files
+### Locked files
 
 `Recovered_Chapel.MP4` was added on 26/09, the password is still unknown. Due to 
 developments around the pop up shops and the wi-fi password we are currently waiting.
@@ -76,9 +88,7 @@ These files currently all use [placeholder](#placeholders) screens.
 - NGX_Pyramid_of_Eternal_Knowledge_Encryption.ncpt
 - YOUTOPIA_Initiation.doc
 
-***
-
-## Placeholders
+### Placeholders
 
 ![Password screen for most files](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/old_placeholder.png)
 
@@ -89,8 +99,6 @@ updates have occurred, although this has not been confirmed by the devs.
 
 As of 29/05/2024, the prompt at the top has been changed to "password_?" instead of 
 "insight_?".
-
-***
 
 ### Corrupt files
 
