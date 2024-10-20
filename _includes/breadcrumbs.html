@@ -4,7 +4,9 @@
             <li><a href="{{ '/' | relative_url }}">HOME</a></li>
             {% if page.categories %}
             {% for category in page.categories %}
-            <li><a href="{{ site.baseurl }}/pages/{{ category }}/{{ category }}">{{ category | replace: "-", " " | upcase }}</a></li>
+            <li><a href="{{ site.baseurl }}/pages/{{ category }}/{{ category }}">
+                {{ category | replace: "for-sof", "files" | replace: "-", " " | upcase }}
+            </a></li>
             {% endfor %}
             {% endif %}
             <li class="is-active"><a class="has-text-dark has-text-weight-semibold" href="#" aria-current="page">{{ page.title }}</a></li>
