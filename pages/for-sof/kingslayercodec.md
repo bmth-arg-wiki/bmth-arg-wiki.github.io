@@ -31,7 +31,8 @@ for help cracking this file.
 
 ## Document contents
 
-**![kingslayer codec screenshot](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/kingslayer_codek/kingslayer_codek_screenshot.png)**
+{% include content/video.html link="https://drive.google.com/file/d/1iXxAKzvsej_wO7Vs5CnXIyh5hC6wSt1J/preview" %}
+
 
 ***
 
