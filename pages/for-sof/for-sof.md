@@ -31,8 +31,13 @@ from the [website](../webpage), but others were distributed physically only (alt
 
 ## Event-related Documents
 
-{% assign page_links = '/pages/for-sof/selene_youtopia_doc' | split: ", " %}
+{% assign page_links = '/pages/for-sof/selene_youtopia_doc, /pages/for-sof/chapel' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
+
+The following documents were obtained at the Nex Gen pop-up shops, where the [wi-fi](../lore/wifi) password 
+was also found. The USB distributed in the pop-up shops contained the `Chapel.mp4` video, while the physical 
+document folders that were handed out and hidden around the shops contained a document about [Selene](../characters/selene)'s 
+first visits to [Youtopia](../lore/youtopia).
 
 ***
 
