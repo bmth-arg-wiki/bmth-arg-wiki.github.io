@@ -83,6 +83,7 @@ Related files:
 - [Scott's Diary](../for-sof/scott_personal_journal)
 - [msgforsof](../for-sof/msgforsof)
 - [CAPSLOCK DOC](../for-sof/capslock_doc)
+- [Selene Youtopia doc](../for-sof/selene_youtopia_doc)
 
 Related lore:
 
