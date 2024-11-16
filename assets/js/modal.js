@@ -1,17 +1,14 @@
 const modal = document.querySelector('#image-modal');
 
-let modalImage;
-let modalCaption;
+// Image elements
+let modalImage = document.getElementById('modal-image')
+let modalCaption = document.getElementById("modal-caption");
 
-if (modal) {
-    modalImage = document.getElementById('modal-image')
-    modalCaption = document.getElementById("modal-caption");
-}
-
+// Buttons/interactable background
 const modalClose = document.querySelector('.modal-close');
 const modalBackground = document.querySelector('.modal-background');
 
-function closeModal(){
+function closeModal() {
     modal.classList.remove('is-active');
 }
 
@@ -28,16 +25,9 @@ if (modal) {
         })
     })
 
-    modalBackground.addEventListener('click', () => {
-        closeModal();
-    })
-
-    modalClose.addEventListener('click', () => {
-        closeModal();
-    })
+    // Add event listeners
+    modalBackground.addEventListener('click', closeModal);
+    modalClose.addEventListener('click', closeModal);
 }
-
-
-
 
 
