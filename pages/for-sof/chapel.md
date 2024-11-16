@@ -6,6 +6,8 @@ categories: ["for-sof"]
 tags: ["youtopia", "bmth", "files", "arg", "puzzle", "pop up shop", "nex gen", "usb", "biohazard", "chapel", 
 "church of genxsis", "mantra"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/chapel/doc-preview.png"
+previous: "for-sof/selene_youtopia_doc"
+previous_text: "Selene Youtopia Doc"
 ---
 # Chapel
 

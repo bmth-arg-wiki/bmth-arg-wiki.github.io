@@ -7,6 +7,8 @@ tags: ["selene", "vspr", "scott", "youtopia", "synths", "diary", "syko", "for so
        "vspr-37", "pandemic", "lbrp", "lesser", "banishing", "ritual", "pentagram", "spiritual", 
        "nex gen", "pineal gland", "dmt", "pusse"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/selene_youtopia_doc/doc-preview.png"
+next: "for-sof/chapel"
+next_text: "USB Chapel video"
 ---
 
 # Selene Youtopia Doc
