@@ -3,6 +3,10 @@ title: "08. Ludens"
 categories: ["music"]
 description: "The song Ludens from the album POST HUMAN: SURVIVAL HORROR."
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph1/album_cover_300.jpg"
+previous: "music/song-1x1"
+previous_text: "07. 1x1"
+next: "music/song-butterflies"
+next_text: "09. One Day The Only Butterflies"
 ---
 # Ludens
 

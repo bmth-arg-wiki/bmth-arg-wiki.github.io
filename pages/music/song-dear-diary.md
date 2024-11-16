@@ -5,6 +5,10 @@ description: "The song Dear Diary, from the album POST HUMAN: SURVIVAL HORROR. S
 devoured by a mysterious patient."
 tags: ["dear", "diary", "scott", "music"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph1/album_cover_300.jpg"
+previous: "music/ph-survival-horror"
+previous_text: "SURVIVAL HORROR"
+next: "music/song-parasite-eve"
+next_text: "02. Parasite Eve"
 ---
 # Dear Diary,
 
