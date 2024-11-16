@@ -8,7 +8,7 @@ image: "Resources/lore/mantra/mantra-not-for-consumption.png"
 
 # Lore 
 
-{% assign page_links = '/pages/lore/youtopia, /pages/m8, /pages/lore/booklet, /pages/lore/pusse, /pages/lore/night-of-pan' | split: ", " %}
+{% assign page_links = '/pages/lore/youtopia, /pages/lore/booklet, /pages/lore/pusse, /pages/m8, /pages/lore/night-of-pan' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ## ARG Website
@@ -18,12 +18,7 @@ image: "Resources/lore/mantra/mantra-not-for-consumption.png"
 
 ## Organisations
 
-{% assign page_links = '/pages/lore/mantra, /pages/lore/church, /pages/lore/genesis-storyline' | split: ", " %}
-{% include page-card-gallery.html links=page_links %}
-
-## Corporations
-
-{% assign page_links = '/pages/lore/nex-gen-corporation, /pages/lore/archive' | split: ", " %}
+{% assign page_links = '/pages/lore/mantra, /pages/lore/church, /pages/lore/nex-gen-corporation, /pages/lore/archive, /pages/lore/genesis-storyline' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ## Insights
