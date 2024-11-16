@@ -3,6 +3,10 @@ title: "04. in the dark"
 categories: ["music"]
 description: "The song in the dark from the album amo."
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/amo/album_cover_300.png"
+previous: "music/amo-nihilist-blues"
+previous_text: "02. nihilist blues"
+next: "music/amo-shit"
+next_text: "08. sugar honey ice & tea"
 ---
 # In The Dark
 

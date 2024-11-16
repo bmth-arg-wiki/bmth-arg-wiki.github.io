@@ -4,6 +4,10 @@ categories: ["music"]
 description: "The song nihilist blues from the album amo."
 tags: ["amo", "music", "nihilist blues", "nihilist", "blues"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/amo/album_cover_300.png"
+previous: "music/amo-mantra"
+previous_text: "MANTRA"
+next: "music/amo-in-the-dark"
+next_text: "04. in the dark"
 ---
 # Nihilist Blues ft. Grimes
 

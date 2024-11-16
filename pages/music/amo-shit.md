@@ -4,6 +4,8 @@ categories: ["music"]
 description: "The song sugar honey ice & tea from the album amo."
 tags: ["sugar", "honey", "ice", "tea", ",mantra", "music"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/amo/album_cover_300.png"
+previous: "music/amo-in-the-dark"
+previous_text: "04. in the dark"
 ---
 # Sugar, Honey, Ice & Tea
 
