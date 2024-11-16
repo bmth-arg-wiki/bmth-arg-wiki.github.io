@@ -3,6 +3,10 @@ title: "03. Kool-Aid"
 categories: ["music"]
 description: "The song Kool-Aid from the album POST HUMAN: NEx Gen."
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover_300.png"
+previous: "music/song-youtopia"
+previous_text: "YOUtopia"
+next: "music/song-top10"
+next_text: "04. Top 10 staTues tHat CriEd bloOd"
 ---
 # Kool-Aid (song)
 

@@ -3,6 +3,10 @@ title: "05. liMOusIne"
 categories: ["music"]
 description: "The song liMOusIne from the album POST HUMAN: NEx Gen."
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover_300.png"
+previous: "music/song-top10"
+previous_text: "04. Top 10 staTues tHat CriEd bloOd (song)"
+next: "music/song-darkside"
+next_text: "06. DArkSide"
 ---
 # liMOusIne
 

@@ -3,8 +3,12 @@ title: "15. DiE4u"
 categories: ["music"]
 description: "The song DiE4u from the album POST HUMAN: NEx Gen."
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover_300.png"
+previous: "music/song-pusse"
+previous_text: "14. [ost] p.u.s.s-e"
+next: "music/song-digit"
+next_text: "16. DIg It"
 ---
-# DiE4u (song)
+# DiE4u
 
 DiE4u is the 15th song on NexGen and one of the singles that was released before the album.
 

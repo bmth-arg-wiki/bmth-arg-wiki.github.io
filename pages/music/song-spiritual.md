@@ -3,6 +3,10 @@ title: "08. [ost] (spi)ritual"
 categories: ["music"]
 description: "The song [ost] (spi)ritual from the album POST HUMAN: NEx Gen."
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover_300.png"
+previous: "music/song-abwmno"
+previous_text: "07. a bulleT w/my namE On"
+next: "music/song-na"
+next_text: "09. n/A"
 ---
 # [ost] (spi)ritual
 

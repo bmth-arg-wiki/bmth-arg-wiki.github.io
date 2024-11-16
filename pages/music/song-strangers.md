@@ -3,9 +3,13 @@ title: "11. sTraNgeRs"
 categories: ["music"]
 description: "The song sTraNgeRs from the album POST HUMAN: NEx Gen."
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover_300.png"
+previous: "music/song-lost"
+previous_text: "10. LosT"
+next: "music/song-rip"
+next_text: "12. R.i.p (duskCOre RemIx)"
 
 ---
-# sTraNgeRs (song)
+# sTraNgeRs
 
 One of the earlier singles released from PH: Nex Gen. 
 The current capitalization on music platforms follows 

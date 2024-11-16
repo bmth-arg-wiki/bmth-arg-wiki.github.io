@@ -3,6 +3,10 @@ title: "09. n/A"
 categories: ["music"]
 description: "The song n/A from the album POST HUMAN: NEx Gen."
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover_300.png"
+previous: "music/song-spiritual"
+previous_text: "08. [ost] (spi)ritual"
+next: "music/song-lost"
+next_text: "10. LosT"
 ---
 # n/A (song)
 

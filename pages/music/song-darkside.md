@@ -3,6 +3,10 @@ title: "06. DArkSide"
 categories: ["music"]
 description: "The song DArkSide from the album POST HUMAN: NEx Gen."
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover_300.png"
+previous: "music/song-limousine"
+previous_text: "05. liMOusIne"
+next: "music/song-abwmno"
+next_text: "07. a bulleT w/my namE On"
 ---
 # DArkSide
 

@@ -3,6 +3,10 @@ title: "02. YOUtopia"
 categories: ["music"]
 description: "The song YOUtopia from the album POST HUMAN: NEx Gen."
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover_300.png"
+previous: "music/song-dreamseeker"
+previous_text: "01. [ost] dreamseeker"
+next: "music/song-koolaid"
+next_text: "03. Kool-Aid"
 ---
 # YOUtopia (song)
 

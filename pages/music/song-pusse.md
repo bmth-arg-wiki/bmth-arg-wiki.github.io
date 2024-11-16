@@ -3,8 +3,12 @@ title: "14. [ost] p.u.s.s-e"
 categories: ["music"]
 description: "The song [ost] p.u.s.s-e from the album POST HUMAN: NEx Gen."
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover_300.png"
+previous: "music/song-amen"
+previous_text: "13. AmEN!"
+next: "music/song-die4u"
+next_text: "15. DiE4u"
 ---
-# [ost] p.u.s.s-e (song)
+# [ost] p.u.s.s-e
 
 *This article refers to the song, not the [general concept](../lore/pusse)*
 

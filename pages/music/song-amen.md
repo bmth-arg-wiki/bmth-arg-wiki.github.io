@@ -3,8 +3,12 @@ title: "13. AmEN!"
 categories: ["music"]
 description: "The song AmEN! from the album POST HUMAN: NEx Gen."
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover_300.png"
+previous: "music/song-rip"
+previous_text: "12. R.i.p (duskCOre RemIx)"
+next: "music/song-pusse"
+next_text: "14. [ost] p.u.s.s-e"
 ---
-# AmEN! (song)
+# AmEN!
 
 AmEN! is the 13th song on NexGen and was also released as a song. It features Lil Uzi Vert and Daryl 
 Palumbo of Glassjaw. It has an [official Music Video](https://www.youtube.com/watch?v=2TjcPpasesA).
