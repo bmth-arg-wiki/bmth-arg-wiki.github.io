@@ -7,6 +7,10 @@ tags: ["skys", "mantra", "trinity", "victor carmine", "arc/hive", "dust", "psy",
        "scott", "dallus lauren", "mares", "daughter", "special six", "altilium chordata", 
        "dreamseeker", "lead scientist", "elias mortem"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/project_dust/gallery/a_projectdust.png"
+previous: "for-sof/tekka_interview"
+previous_text: "ISSUE-51-fromhelltoshell"
+next: "for-sof/thesciencestudy"
+next_text: "SCISTUDYSCAN1999wrist"
 ---
 
 # Jan15_2031_declassified_PROJECT D.U.S.T. 2

@@ -7,6 +7,10 @@ categories: ["for-sof"]
 tags: ["science study", "skys", "pink", "mantra", "Radiogenic Leukotrichia", "for sof", "unbeleevable", 
        "new elysium", "2037", "vspr-37", "novosovia"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/science_study/gallery/a_scistudy.png"
+previous: "for-sof/project_dust"
+previous_text: "Jan15_2031_declassified_PROJECT"
+next: "for-sof/skystarjammers"
+next_text: "Sky_&_The_Starjammers"
 ---
 
 # SCISTUDYSCAN1999wrist.SCN

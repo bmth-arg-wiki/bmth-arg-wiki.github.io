@@ -1,12 +1,16 @@
 ---
 title: "Strassman Codec"
-description: "The Strassman codec file contains a conversation between Dr. Karl Strassman and A.I. EVE. 
+description: "The Strassman codec file contains a conversation between Dr. Karl Strassman and A.I. E.V.E. 
 Strassman raises concerns around the use of P.U.S.S-E to bring people to Youtopia. EVE does not seem to care, 
 however, stating they must continue for the greater good of mankind."
 categories: ["for-sof"]
 tags: ["strassman", "eve", "youtopia", "for sof", "karl", "pusse", 
        "codec", "indole alkaloid structure", "neurological disturbances"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/strassman-pass-screen.png"
+previous: "for-sof/capslock_doc"
+previous_text: "CAPSLOCK.DOC"
+next: "for-sof/dreadit"
+next_text: "DREADITScreenshot"
 ---
 
 # StrassmanCONFIDENTIALPRT007.CODEC

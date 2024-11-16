@@ -1,9 +1,13 @@
 ---
-title: "Tekka's Synth Interview"
+title: "Rebecca's Synth Interview"
 categories: ["for-sof"]
 tags: ["rebecca sinclair", "arc/hive", "tekka", "interview", "youtopia", "nex gen", "synths", "for sof", 
 "rebecca", "lab assistant", "victor carmine", "dallus lauren", "karl strassman", "jax jackson"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/tekka/tekka_cover.png"
+previous: "for-sof/trinity_document"
+previous_text: "Operation_Trinity_Analysis"
+next: "for-sof/project_dust"
+next_text: "Jan15_2031_declassified_PROJECT"
 ---
 
 # ISSUE-51-fromhelltoshell.pdf 1

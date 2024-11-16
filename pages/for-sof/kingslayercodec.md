@@ -6,6 +6,10 @@ tags: ["kingslayer", "codec", "codek", "for sof", "electric puzzle", "wires",
        "currents", "youtopia", "Spectre", "Overwatch", "NYX 01", "NYX 02", "FANTOM", 
        "Scott", "Selene", "NEX GEN", "post human", "vspr-37"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/kingslayer_codek/kingslayer_codek_screenshot.png"
+previous: "for-sof/russianpoem"
+previous_text: "дорогая моя любовь"
+next: "for-sof/grumblr"
+next_text: "GRUMBLR.Rebecca_Sinclair"
 ---
 
 # Kngsl@yer_EncrypMsg.codek

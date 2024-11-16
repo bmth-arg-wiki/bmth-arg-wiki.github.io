@@ -7,6 +7,10 @@ tags: ["selene", "youtopia", "sof", "clive", "m8", "pan", "omen", "miseria", "va
 "archangels", "raphael", "michael", "uriel", "gabriel", "pusse", "lesser banishing ritual", "pentagram", 
 "insights", "connection", "empathy", "vision", "purpose"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/selenes_map/map1.jpg"
+previous: "for-sof/dreadit"
+previous_text: "DREADITscreenshot"
+next: "for-sof/r8"
+next_text: "R8/fulfilment_source[m0n0].doc"
 ---
 
 # YOUTOPIA_selenes_map.vis

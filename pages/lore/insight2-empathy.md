@@ -6,8 +6,12 @@ categories: ["lore", "for-sof"]
 tags: ["insights", "empathy", "youtopia", "for sof", "gabriel", "miseria", 
        "madman", "blue", "west"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/empathy/gallery/empathy1.png"
+previous: "lore/insight1-connection"
+previous_text: "INSIGHT1.DOC"
+next: "lore/insight3-purpose"
+next_text: "INSIGHT3.DOC"
 ---
-# Insight 2: Empathy
+# Insight 2: Empathy (INSIGHT2.DOC)
 
 > *"Seraphic Expression"*
 

@@ -6,6 +6,10 @@ categories: ["for-sof"]
 tags: ["arc/hive", "victor carmine", "karl strassman", "nex gen", "lesser banishing ritual", 
        "for sof", "pentagram", "energy overload", "incident"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/lbr_sites/lbr_site.png"
+previous: "for-sof/grumblr"
+previous_text: "GRUMBLR.Rebecca_Sinclair"
+next: "for-sof/goxmog"
+next_text: "GOXMOG_SIGHTINGS"
 ---
 
 # LBR_sites.Confidential.doc
