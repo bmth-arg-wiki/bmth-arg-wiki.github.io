@@ -1,0 +1,35 @@
+<!-- _layouts/tamagotchi.html -->
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+<body>
+
+<!-- Header -->
+<header class="header">
+    {% include header/header.html %}
+</header>
+
+<div class="container" id="map-content-container">
+    <!-- Search -->
+    <div class="search-bar">
+        {% include searchbar.html %}
+    </div>
+    <!-- Page-specific content -->
+    <div class="map-body page-body" id="map-container">
+        <!-- Map is loaded in through an include in the md file. -->
+        {{ content }}
+    </div>
+</div>
+<!-- Footer -->
+<footer class="footer">
+    {% include footer/footer.html %}
+</footer>
+<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
+<script src="/assets/js/map.js"></script>
+<script src="/assets/js/hamburger.js"></script>
+<script src="/assets/js/tabs.js"></script>
+<script src="/assets/js/toc.js"></script>
+<script src="/assets/js/gallery.js"></script>
+<script src="/assets/js/search.js"></script>
+</body>
+</html>

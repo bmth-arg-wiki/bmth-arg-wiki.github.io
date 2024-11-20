@@ -1,0 +1,160 @@
+<!-- Main page content -->
+<div class="tamagotchi is-fullwidth">
+  <!-- Title area -->
+  <div class="block tamagotchi-intro">
+    <h1 class="title">TamaScottchi</h1>
+    <div class="message is-warning">
+      <p class="message-body">This game contains graphic content, focusing around the events of the song "Dear Diary," and the Kingslayer ARG file.</p>
+    </div>
+  </div>
+
+  <!-- Main game area -->
+  <div class="game-area is-flex is-flex-direction-column">
+    <!-- Tamagotchi top bar container -->
+    <div class="block game-info is-flex is-flex-direction-row flex-justify-between">
+      <!-- Game menu box -->
+      <div class="block game-menu">
+        <!-- Restart button -->
+        <div class="restart-button">
+          <a class="button is-danger has-text-white">
+            <span class="icon"><i class="fa-solid fa-arrow-rotate-right"></i></span>
+            <span>Reset</span>
+          </a>
+        </div>
+      </div>
+      <!-- Needs Overview container -->
+      <div class="block game-needs is-flex is-flex-direction-row">
+        <!-- Hunger need -->
+        <div class="game-need hunger p-2">
+          <p>Hunger: 100</p>
+        </div>
+        <!-- Thirst need -->
+        <div class="game-need thirst p-2">
+          <p>Thirst: 100</p>
+        </div>
+        <!-- Fun need -->
+        <div class="game-need fun p-2">
+          <p>Fun: 100</p>
+        </div>
+        <!-- Sleep need -->
+        <div class="game-need sleep p-2">
+          <p>Sleep: 100</p>
+        </div>
+      </div>
+      <!-- Clock element -->
+      <div class="block game-clock is-flex is-flex-direction-column">
+        <!-- Game date -->
+        <div>October 28th, 2037</div>
+        <!-- Game time -->
+        <div>20:00</div>
+      </div>
+    </div>
+
+    <!-- Scott's house container (row) -->
+    <div class="block tamagotchi-env"></div>
+
+    <!-- Interaction panel (row) -->
+    <div class="block interaction-panel">
+      <!-- Top row (submenu options, only one active at a time) -->
+      <div class="interaction-panel-submenu">
+        <!-- Food & Drink submenu (has columns, aligned left) -->
+        <div class="submenu food-drink hidden is-flex is-flex-direction-row">
+          <!-- A golden Raspberry -->
+          <div class="submenu-option golden-raspberry p-2">
+            <div class="button is-large is-primary is-outlined">
+              <span><i class="fa-solid fa-lemon"></i></span>
+            </div>
+            <div class="submenu-option-text">Eat raspberry?</div>
+          </div>
+          <!-- Guardian's Tears -->
+          <div class="submenu-option guardian-tears p-2">
+            <div class="button is-large is-primary is-outlined">
+              <span><i class="fa-solid fa-face-sad-cry"></i></span>
+            </div>
+            <div class="submenu-option-text">Drink tears</div>
+          </div>
+          <!-- Water -->
+          <div class="submenu-option water p-2">
+            <div class="button is-large is-primary is-outlined">
+              <span><i class="fa-solid fa-droplet"></i></span>
+            </div>
+            <div class="submenu-option-text">Drink water</div>
+          </div>
+          <!-- Pizza -->
+          <div class="submenu-option pizza p-2">
+            <div class="button is-large is-primary is-outlined">
+              <span><i class="fa-solid fa-pizza-slice"></i></span>
+            </div>
+            <div class="submenu-option-text">Eat pizza</div>
+          </div>
+          <!-- Dog (game state dependent) -->
+          <div class="submenu-option dog hidden p-2">
+            <div class="button is-large is-primary is-outlined">
+              <span><i class="fa-solid fa-dog"></i></span>
+            </div>
+            <div class="submenu-option-text arg-font">TASTY... ITCHY...</div>
+          </div>
+        </div>
+        <!-- Activities submenu -->
+        <div class="submenu activities hidden is-flex is-flex-direction-row">
+          <!-- Play Pan's flute (column) -->
+          <div class="submenu-option flute p-2">
+            <div class="button is-large is-primary is-outlined">
+              <span><i class="fa-solid fa-guitar"></i></span>
+            </div>
+            <div class="submenu-option-text">Play the panflute</div>
+          </div>
+          <!-- Watch TV (column) -->
+          <div class="submenu-option tv p-2">
+            <div class="button is-large is-primary is-outlined">
+              <span><i class="fa-solid fa-tv"></i></span>
+            </div>
+            <div class="submenu-option-text">Watch TV</div>
+          </div>
+          <!-- Play with Oskar (column) -->
+          <div class="submenu-option oskar p-2">
+            <div class="button is-large is-primary is-outlined">
+              <span><i class="fa-solid fa-dog"></i></span>
+            </div>
+            <div class="submenu-option-text">Play with Oskar</div>
+          </div>
+          <!-- Call Selene (column) -->
+          <div class="submenu-option selene p-2">
+            <div class="button is-large is-primary is-outlined">
+                <span><i class="fa-solid fa-phone"></i></span>
+            </div>
+            <div class="submenu-option-text">Call Selene</div>
+          </div>
+        </div>
+      </div>
+      <!-- Sleep confirmation dialogue -->
+      <div class="sleep-confirmation hidden"></div>
+      <!-- Main menu buttons -->
+      <div class="interaction-panel-options is-flex is-flex-direction-row flex-justify-between ml-5 mr-5">
+        <!-- Food & drinks button container -->
+        <div class="interaction-option">
+          <div class="button is-large is-primary">
+            <span class="icon"><i class="fa-solid fa-mug-hot"></i></span>
+          </div>
+        </div>
+        <!-- Activities button container -->
+        <div class="interaction-option">
+          <div class="button is-large is-primary">
+            <span class="icon"><i class="fa-solid fa-icons"></i></span>
+          </div>
+        </div>
+        <!-- Sleep -->
+        <div class="interaction-option">
+          <div class="button is-large is-primary">
+            <span class="icon"><i class="fa-solid fa-bed"></i></span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<script>
+  /**
+   * Welcome to ramble city.
+   */
+</script>
