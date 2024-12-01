@@ -84,6 +84,12 @@ Song on the NexGen album.
 - A segment in one of the channels (mono instead of stereo) had a hidden message that lead to 
 the password for the [R8 file](../for-sof/r8) being discovered.
 
+The following hidden message can be heard at the end of the song, when putting the audio on mono-channel. 
+
+> I learnt the dream becomes clouded when we seek happiness outside ourselves. 
+> When i look for love, for validation, for fulfilment from the external. 
+> True Happiness. True Love. True Fulfilment can only be found [WITHIN](../for-sof/r8).
+
 ***
 
 ## Read More
