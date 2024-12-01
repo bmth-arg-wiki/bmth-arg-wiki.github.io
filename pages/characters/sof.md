@@ -8,29 +8,29 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/p
 ---
 # Sof
 
-Sof is the girl from the cover art. She is referred to as such in several descriptions 
+Sof is the child from the cover art. She is referred to as such in several descriptions 
 on the Horizon merch website.
-The [first file](../for-sof/msgforsof) introduces the relationship between her and her mother, [Selene](selene).
+The [first file](../for-sof/msgforsof) introduces the relationship between them and their mother, [Selene](selene) and the 
+name of the [FOR SOF](../for-sof/for-sof) folder makes it clear that the information presented in the files is for them.
 
 ![Nex Gen album cover](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover.png)
 
 The access card designed to be shipped with the Sof statue specifically refers to Sof 
-as "The Post Human".
+as "The Post Human". The [lore booklet](../lore/booklet) refers to Sof using they/them pronouns.
 
 ***
 
 ## Identification
 
-Since Sof is not a user in the [M8 system](../webpage), her name had to be determined from 
-other sources, with the first being Horizon Supply. It seems that the bear pictured with her is called VEX from the Horizon merch listings.
+Since Sof is not a user in the [M8 system](../webpage), their name had to be determined from 
+other sources, with the first being Horizon Supply. Horizon Supply listings also confirmed that the name of her bear is 
+Vex. Sof is also the name the [lore booklet](../lore/booklet) uses to refer to them.
 
-While she originated from earth, as stated by [M8](../m8), she does not currently seem to reside there.
+Sof was born inside the Nex Gen lab, being born from the immune child [Selene](selene), someone Nex Gen also took 
+great interest in. Only 20 minutes after their birth they were left in the care of AI assistant [M8](../m8), who was 
+programmed to gradually reveal Sof's true origins.
 
-> *"I can also chat with our home planet; Earth. Realtime data transfer straight to the all powerful and all glorious EVE! 
-She's the big boss. The head honcho. The one pulling the strings! Anything we find, Eve knows about it instantly. 
-So, no pressure."*
-> 
-> - [M8](../m8) when prompted with "Who are u?"
+The booklet states that Sof's special ability is that they were born a demi-god, with the power to bring light to darkness.
 
 ***
 
@@ -39,7 +39,7 @@ So, no pressure."*
 [`FOR SOF`](../for-sof) refers to the folder in the ARG that we got access to using the first password within the website, 
 after gaining access with the code 93934521 from M8's head on the album cover. The files 
 we are seeing in this folder have all been left for her, to discover what her mom 
-[Selene](selene) is trying to tell her.
+[Selene](selene) is trying to tell them.
 
 ***
 
