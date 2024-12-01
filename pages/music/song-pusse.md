@@ -50,12 +50,13 @@ Do you wanna join the millions of people that already ascended to Youtopia?
 
 (Music, more imagery)
 
-State of the art emotion simulator
-Ancestors of the [yesteryears?]
+State-of-the-art emotion simulator
+Ancestors of the yesteryear
 
 - Singing:
-THE BLOODS ON OUR HANDS
-THE BLOODS ON OUR HANDS
+THE BLOOD'S ON YOUR HANDS
+THE BLOOD'S ON YOUR HANDS
+(Note: this is spelled differently in the lyric video for unknown reasons)
 
 - Talking:
 WHAT WOULD YOU DO FOR PUSS-E
@@ -74,7 +75,8 @@ No? [man grumbling] You will.
 
 ## Spectrograms
 
-For more details, see the page on [spectrograms](spectrograms).
+For more details, see the page on [spectrograms](spectrograms). This song contains both a password for the [purpose](../lore/insight3-purpose) 
+file and a pill bottle.
 
 ![Spectrogram showing label on a P.U.S.S-E bottle](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/spectrograms/spectogram_pusse_end.png)
 
