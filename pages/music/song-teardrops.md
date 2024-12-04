@@ -4,6 +4,10 @@ categories: ["music"]
 description: "The song Teardrops from the album POST HUMAN: SURVIVAL HORROR."
 tags: ["teardrops", "song", "music", "post", "human", "survival", "horror"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph1/album_cover_300.jpg"
+previous: "music/song-parasite-eve"
+previous_text: "02. Parasite Eve"
+next: "music/song-obey"
+next_text: "04. Obey"
 ---
 # Teardrops
 

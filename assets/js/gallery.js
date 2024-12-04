@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
             files.forEach(file => {
                 if (file.type === 'file' && file.name.match(/\.(jpg|jpeg|png|gif)$/i)) {
                     const column = document.createElement('div');
-                    column.className = 'column is-one-quarter-desktop is-half-tablet is-full-mobile';
+                    column.className = 'column is-one-quarter-desktop is-one-quarter-tablet is-one-third-mobile';
 
                     let card = document.createElement('div');
                     card.classList.add('card')

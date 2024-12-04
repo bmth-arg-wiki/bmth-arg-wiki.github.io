@@ -7,6 +7,10 @@ tags: ["lauren", "dallus", "ikaro", "ren", "arc/hive", "eve", "d8", "technology"
 "for sof", "artificial intelligence", "genesis", "digitised", "date", "archival", "temporal", 
 "entity", "ikara", "moxypak"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/lauren_d8_log/gallery/a_lauren_d8.jpg"
+previous: "for-sof/selene_personal_journal"
+previous_text: "Selene_Personal_Journal"
+next: "for-sof/scott_personal_journal"
+next_text: "Scott_Personal_Journal"
 ---
 
 # Lauren_D8_Log_203701.docx

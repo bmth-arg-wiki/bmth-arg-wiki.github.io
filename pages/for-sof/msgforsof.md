@@ -5,6 +5,8 @@ who she says has been born not even 20 minutes ago. She has to leave Sof after a
 categories: ["for-sof"]
 tags: ["sof", "selene", "mother", "m8", "birth", "destiny"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/msgforsof/msgforsof-player.png"
+next: "lore/insights"
+next_text: "THEINSIGHTS.DOC"
 ---
 # msgforsoff.aiff
 

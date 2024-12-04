@@ -3,6 +3,8 @@ title: "POST HUMAN: SURVIVAL HORROR"
 categories: ["music"]
 description: "The album POST HUMAN: SURVIVAL HORROR."
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph1/album_cover_300.jpg"
+next: "music/song-dear-diary"
+next_text: "01. Dear Diary,"
 ---
 # POST HUMAN: SURVIVAL HORROR
 

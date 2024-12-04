@@ -5,6 +5,10 @@ Palace in 2004"
 categories: ["for-sof"]
 tags: ["skys", "starjammers", "mantra", "october palace", "bring me the horizon"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/skys_starjammers/sky.png"
+previous: "for-sof/thesciencestudy"
+previous_text: "SCISTUDYSCAN1999wrist"
+next: "for-sof/unbeleevable"
+next_text: "Nex Gen leak 'UNBELEEVABLE'"
 ---
 
 # Sky_&_The_Starjammers.png

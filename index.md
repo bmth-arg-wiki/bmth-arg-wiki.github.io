@@ -59,22 +59,25 @@ and provides the bulk of what we know about the Nex Gen lore. The wiki also cove
 itself and the different software on it. The serial number on the side of M8's head on the album cover 
 is the code you will need to get into the website.
 
-Currently, many functionalities (including wi-fi) are disabled. Updates have mostly opened up 
-files in a folder called [FOR SOF](pages/for-sof). The recommended order is to read about the webpage first, 
-then read more about the files in this folder. All passwords are spoiler-tagged, but articles about characters, songs 
-or the lore will obviously contain many spoilers.
+Currently, many functionalities are disabled. While the [wi-fi](pages/lore/wifi) password was found spread out in Bring 
+Me The Horizon pop-up shops all over the world, we still seem to be missing some credentials to actually use the wi-fi.  
+Updates have mostly opened up files in a folder called [FOR SOF](pages/for-sof). The recommended order is to read about 
+the webpage first, then read more about the files in this folder. All passwords are spoiler-tagged, but articles about 
+characters, songs or the lore will obviously contain many spoilers.
 
 ![Image of band cards included with certain physical releases.](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/band-cards.png)
 
 ### Socials & other sources
 
 Currently the ARG is in active development and many exciting things 
-are happening. BMTH also post ARG- and Nex Gen-related posts on their Instagram, 
-Twitter/X, YouTube and Facebook. 
-We include some of these posts in the various articles where relevant.
+are happening. BMTH also post ARG- and Nex Gen-related posts on their [Instagram](https://www.instagram.com/bringmethehorizon), 
+[Twitter](https://x.com/bmthofficial), [YouTube](https://www.youtube.com/@BMTHOfficialVEVO), [Facebook](https://www.facebook.com/bmthofficial/) 
+and [Discord](https://discord.com/invite/bmthofficial). We include some of these posts in the various articles where relevant.
 
 Some [other webpages](pages/other-webpages) have also been linked or are theorized to link to this ARG, 
-they are discussed in their own article.
+they are discussed in their own article. This includes the secret [genxsis.faith](https://genxsis.faith) cult website, 
+the [Mantra](https://joinmantra.org) website and [dungeoncrawl33r](https://dungeoncrawl33r.com), which some of the barcodes 
+on the poster point to.
 
 ***
 
@@ -83,8 +86,8 @@ they are discussed in their own article.
 {% include info.html
 title="Grab your tinfoil hats!"
 icon="fa-solid fa-hat-wizard"
-content="The [Notion page](https://the-secret-tinfoil-society.notion.site/BRING-ME-THE-HORIZON-ARG-6c86ee58ee3b41a6b0c594cf59201d4b?pvs=4)
-contains all of our latest theories. The wiki focuses on facts, high quality images and an introduction to the project."
+content="The [Notion page](https://the-secret-tinfoil-society.notion.site/BRING-ME-THE-HORIZON-ARG-6c86ee58ee3b41a6b0c594cf59201d4b)
+contains all of our theories. The wiki focuses documenting the confirmed world lore & sources and providing a walkthrough."
 %}
 
 Want to get in on the project and lore discussions with our (not very) Secret Tinfoil Society? Join the discussion 

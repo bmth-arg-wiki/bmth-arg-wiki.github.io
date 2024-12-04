@@ -4,6 +4,10 @@ categories: ["music"]
 description: "The song OBEY ft. YUNGBLUD from the album POST HUMAN: SURVIVAL HORROR."
 tags: ["obey", "yungblud", "music", "song", "post", "human", "survival", "horror"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph1/album_cover_300.jpg"
+previous: "music/song-teardrops"
+previous_text: "03. Teardrops"
+next: "music/song-kingslayer-itch"
+next_text: "05. Itch & 06. Kingslayer"
 ---
 # Obey ft. YUNGBLUD
 

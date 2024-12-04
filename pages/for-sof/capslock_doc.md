@@ -6,6 +6,10 @@ what will happen to this file."
 categories: ["for-sof"]
 tags: ["selene", "capslock doc", "anagram", "dekode", "matrix", "concealed origins"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/capslock_doc/gallery/crate_selene.png"
+previous: "lore/insight4-vision"
+previous_text: "INSIGHT4.DOC"
+next: "for-sof/strassmancodec"
+next_text: "StrassmanCONFIDENTIALPRT007"
 ---
 
 # CAPSLOCK.DOC

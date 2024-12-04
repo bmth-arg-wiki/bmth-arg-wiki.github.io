@@ -3,8 +3,10 @@ title: "16. DIg It"
 categories: ["music"]
 description: "The song DIg It from the album POST HUMAN: NEx Gen."
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover_300.png"
+previous: "music/song-die4u"
+previous_text: "15. DiE4u"
 ---
-# DIg It (Song)
+# DIg It
 
 > i hate my fucking guts right now
 

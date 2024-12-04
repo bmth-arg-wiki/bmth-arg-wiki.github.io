@@ -5,6 +5,10 @@ categories: ["lore", "for-sof"]
 tags: ["insights", "connection", "empathy", "purpose", "vision", "youtopia", 
        "for sof", "archangels", "omens"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/booklet/gallery/h-booklet.jpg"
+previous: "for-sof/msgforsof"
+previous_text: "msgforsoff.aiff"
+next: "lore/insight1-connection"
+next_text: "INSIGHT1.DOC"
 ---
 # The Four Insights
 

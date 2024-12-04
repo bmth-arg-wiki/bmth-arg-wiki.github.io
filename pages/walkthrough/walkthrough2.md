@@ -13,6 +13,8 @@ tags: ["walkthrough", "arg", "bring me the horizon", "bmth", "password", "game",
        "kingslayer", "nyx 01", "nyx 02", "grumblr", "rebecca sinclair", "lbr", "lbrp", "lesser banishing ritual", "goxmog", 
         "dig it", "wifi"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/walkthrough.png"
+previous: "walkthrough/walkthrough"
+previous_text: "Part 1. The Website"
 ---
 # Walkthrough: FOR SOF
 

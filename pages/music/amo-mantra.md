@@ -3,6 +3,10 @@ title: "02. MANTRA"
 categories: ["music"]
 description: "The song MANTRA from the album amo."
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/amo/album_cover_300.png"
+previous: "music/amo"
+previous_text: "amo"
+next: "music/amo-nihilist-blues"
+next_text: "03. nihilist blues"
 ---
 # MANTRA (song)
 

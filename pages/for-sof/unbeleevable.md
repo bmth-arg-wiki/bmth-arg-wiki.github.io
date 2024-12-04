@@ -8,6 +8,10 @@ for the company."
 tags: ["nex gen", "susan white", "unbeleevable", "dr lee md", "madman", "mantra", "church of genxsis", 
 "genxsis", "skys", "starjammers", "leak", "secret", "for sof", "novosovia"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/unbeleevable/gallery/doesntknowwhoheis.png"
+previous: "for-sof/skystarjammers"
+previous_text: "Sky_&_The_Starjammers"
+next: "for-sof/russianpoem"
+next_text: "дорогая моя любовь"
 ---
 # Nex Gen leak "UNBELEEVABLE".doc
 

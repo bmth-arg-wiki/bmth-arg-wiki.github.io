@@ -5,11 +5,11 @@ categories: ["walkthrough"]
 tags: ["walkthrough", "arg", "bring me the horizon", "bmth", "password", "game", "qr code", 
 "dig it", "sof", "for-sof", "serial number", "secrets", "multidimensional", "navigator"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/walkthrough.png"
+next: "walkthrough/walkthrough2"
+next_text: "Part 2. FOR SOF"
 ---
 
 # Walkthrough: The Website
-
-**[next →]({{ site.baseurl }}/pages/walkthrough/walkthrough2)**
 
 ![Nex Gen Walkthrough ASCII art](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/walkthrough.png)
 

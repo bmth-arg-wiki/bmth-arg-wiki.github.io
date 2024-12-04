@@ -1,5 +1,5 @@
 ---
-title: "GRUMBLR.Rebecca_Rebecca_Sinclair_01142027"
+title: "GRUMBLR.Rebecca_Sinclair_01142027"
 description: "A Grumblr post from Rebecca Sinclair describing the events around her 
 diagnosis of CERS. She also speaks about Iara and the developments Dallus Lauren is making 
 at ARC/HIVE, that could potentially save humanity."
@@ -8,6 +8,10 @@ tags: ["grumblr", "rebecca sinclair", "iara", "arc/hive", "synths", "cers", "liv
        "blood porridge", "chronic environmental respiratory syndrome", "dr. turner", "terminal", 
        "cat lady", "coding", "new-Seoul", "cyberia"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/grumblr/gallery/a_GRUMBLR.png"
+previous: "for-sof/kingslayercodec"
+previous_text: "Kngsl@yer_EncrypMsg"
+next: "for-sof/lbr_sites"
+next_text: "LBR_sites.Confidential"
 ---
 
 # GRUMBLR.Rebecca_Sinclair_01142027

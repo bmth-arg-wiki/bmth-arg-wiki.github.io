@@ -6,6 +6,10 @@ categories: ["lore", "for-sof"]
 tags: ["insights", "vision", "youtopia", "for sof", "uriel", "golden raspberry", 
        "vegan"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/vision/gallery/img.png"
+previous: "lore/insight3-purpose"
+previous_text: "INSIGHT3.DOC"
+next: "for-sof/capslock_doc"
+next_text: "CAPSLOCK.DOC"
 ---
 
 # Insight 4: Vision

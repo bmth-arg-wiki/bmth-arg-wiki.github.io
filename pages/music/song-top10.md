@@ -3,8 +3,12 @@ title: "04. Top 10 staTues tHat CriEd bloOd"
 categories: ["music"]
 description: "The song Top 10 staTues tHat CriEd bloOd from the album POST HUMAN: NEx Gen."
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover_300.png"
+previous: "music/song-koolaid"
+previous_text: "03. Kool-Aid"
+next: "music/song-limousine"
+next_text: "05. liMOusIne"
 ---
-# Top 10 staTues tHat CriEd bloOd (song)
+# Top 10 staTues tHat CriEd bloOd
 
 Song on the NexGen album. 
 
@@ -79,6 +83,12 @@ Song on the NexGen album.
 [spectrograms](spectrograms)
 - A segment in one of the channels (mono instead of stereo) had a hidden message that lead to 
 the password for the [R8 file](../for-sof/r8) being discovered.
+
+The following hidden message can be heard at the end of the song, when putting the audio on mono-channel. 
+
+> I learnt the dream becomes clouded when we seek happiness outside ourselves. 
+> When i look for love, for validation, for fulfilment from the external. 
+> True Happiness. True Love. True Fulfilment can only be found [WITHIN](../for-sof/r8).
 
 ***
 
