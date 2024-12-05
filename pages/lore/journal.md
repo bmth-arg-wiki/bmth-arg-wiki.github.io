@@ -116,7 +116,7 @@ Coming soon!
 >
 >I’ll create separate entries for the key players, locations/Incidents, and assets that don’t have clear timestamps yet.
 
->  ## Pages 9 & 10
+> ## Pages 9 & 10
 >
 >Contents
 >
@@ -198,7 +198,7 @@ Coming soon!
 >
 >[Drawing of Scott with his dog Oskar]
 
->  ## Pages 15 & 16
+> ## Pages 15 & 16
 >
 >-	Who It Is: The 8-Line AI created by Ren Lauren, and also the bane of my existence. 
 >M8 handles data decryption but tests my patience with her terrible jokes and glitchy personality.
@@ -466,6 +466,449 @@ Coming soon!
 >-	Where: worldwide presence, with key operations in the DTC.
 >-	Status: Thriving, controlling much of the world’s technology and influencing global politics.
 >-	Significance: Central to nearly every discovery I’ve made, from the creation of EVE to the viral outbreak.
+
+> ## Pages 57 & 58
+>
+>Incidents
+>
+>KINGSLAYER
+>
+>-	What It Is: An early name for a project involving the Cult of MANTRA’s research into pain, transcendence, 
+>and accessing hidden worlds. Seems like a precursor to DUST.
+>-	Where From: NEX GEN, though likely starting within MANTRA.
+>-	Status: Completed but likely buried due to the catastrophic outcomes.
+>-	Significance: KINGSLAYER paved the way for future NEX GEN experiments. It shows just how far they were willing to go, 
+>and how much they were willing to sacrifice, to achieve their goals.
+
+> ## Pages 59 & 60
+>
+>Project D.U.S.T
+>
+>-	What It Is: A secret NEX GEN project that pushed the limits of human consciousness and manipulated pain 
+>as a means to access higher dimensions.
+>-	Where From: NEX GEN facilities, initiated after the extraction of the Cult of MANTRA.
+>-	Status: Not sure, likely died with its lead scientist, Dr. Elias Mortem.
+>-	Significance: Project DUST produced psychological weapons like Mares and linked NEX GEN to disturbing experiments 
+>on human subjects, leading to tragedies like the Chapel Incident. More to come on this, I’m sure.
+
+> ## Pages 61 & 62
+>
+>VSPR-37
+>
+>-	What It Is: A devastating virus that turns its victims into voidlings-mindless, psychotic creatures.
+>-	Where From: The first cases appear to of originated near the NEX GEN facility. Pretty suss.
+>-	Status: Active. A good percentage of the world fell for it.
+>-	Significance: VSPR-37 is at the core of much of what I’ve uncovered. It infected my mother’s best friend Scott, 
+>and though my mother was bitten, she somehow became immune.
+
+> ## Pages 63 & 64
+>
+>[Calendar of December 2004 with the 19th circled]
+>
+>Skys & the Starjammers – Secret Concert at October Palace
+>
+>[Folder drawing with “(Open file)” written underneath]
+>
+>This is the earliest fragment of data I’ve come across so far. 
+> Skys seems to be a major figure in thus story, with his involvement in the Cult of MANTRA setting the stage for GENXSIS, 
+> which ties back to Nex Gen. 
+> Apparently, Skys wasn’t always the neospiritual, occult-obsessed mindrot he turned into. 
+> He had a band, and they played a secret gig back in 2004 at the October Palace in Novosovia. Invite-only. 
+> The name “Starjammers” is kind of cool in a “so bad it makes you want to gouge your eyes out” kind of way. 
+> And if Dr. Lee M.D is to be believed, this concert happened around the same time Skys crossed paths with Dallus and Karl, 
+> before the whole cult of MANTRA mystery began. 
+> Who knows, maybe that’s where they all met, in the moshpit. 
+> Hopefully there’s a second unbeLEEvable and I’ll find out.
+
+> ## Pages 65 & 66
+>
+>[Calendar of December 2020 with the 25th circled]
+>
+>Operation Trinity
+>
+>[Folder drawing with “(Open file)” written underneath]
+>
+>Must’ve been some Christmas.
+>
+>I’ve figured out this much: Skys, Dallus, and Strassman weren’t just scientists, they started a cult. 
+> The why and how? Still not clear. But this document confirms one thing: when it all ended. 
+> On Christmas Day, when NEX GEN was still ARC/HIVE (seriously, Vic, why the rebrand?) 
+> Victor Carmine launched a covert extraction of the tiro. 
+> Yet another answer that only opens up a thousand more questions.
+
+> ## Pages 67 & 68
+>
+>[Calendar of January 2021 with the 15th circled]
+>
+>Project D.U.S.T
+>
+>[Folder drawing with “(Open file)” written underneath]
+>
+>This makes Victor’s motivations a lot clearer. 
+> He wasn’t just interested in saving Skys, Dallus, and Strassman – he wanted their research 
+> (apparently called project KINGSLAYER?), and with Arc/Hive’s state-of-the-art tech, he could push it even further. 
+> It seems like wasted no time getting his scientists pick up where MANTRA left off.
+>
+>And MANTRA’s work? Talk about bleak. 
+> Torture disguised as research, pain experiments to “access heaven” led by Dr. Elias Mortem. 
+> They were using tanks that kept them breathing while subjecting them to hell to unlock “higher dimensions.” 
+> Makes sense. Also the first mention of psychological weapons known as Mares. What. The. Hex.
+
+> ## Pages 69 & 70
+>
+>[Calendar of January 2021 with the 19th circled]
+>
+>Dallus starts a diary
+>
+>[Folder drawing with “(Open file)” written underneath]
+>
+>Dallus, like everyone else here at NEX GEN, finally catches the journaling bug. 
+> His first entry makes it pretty clear he was neck-deep in the whole Cult of MANTRA business (which he calls the Neosages?). 
+> It’s hard to wrap my head around how someone who later invented life-saving tech could’ve been mixed up with a brainrot like Skys, 
+> especially considering the sadistic experiments he was apparently involved in. 
+> But there he was, right alongside Strassman.
+>
+>What’s becoming apparent is that Dallus seemed to really struggle with it all. 
+> His wife, Elena, literally gave birth to their daughter, Lyra, during the helicopter escape out of Novosovia. 
+> When it rains, it pours, I guess. He also mentions Strassman, reeling from the loss of his wife and only child. 
+> That voids. It feels like they were both dragging so much emotional baggage around 
+> that it’s a wonder they managed to push forward and make any breakthroughs at all.
+
+> ## Pages 71 & 72
+>
+>[Dallus starts a diary cont’d:]
+>
+>As for Skys? This says he ended up in a coma after the collapse of MANTRA. 
+> Some details on how that happened would of been helpful, but doesn’t sound like they were too cosy by the end. 
+> What happened?
+>
+>Even though Dallus helped create tech that saved lives, it feels like there’s this shadow over everything he did. 
+> It’s like he couldn’t shake the feeling that something was terribly wrong, even if he didn’t say it outright.
+
+> ## Pages 73 & 74
+>
+>[Calendar of January 2027 with the 14th circled]
+>
+>Rebecca finds out she’s going to die
+>
+>[Folder drawing with “(Open file)” written underneath]
+>
+>Meet Rebecca. A scientist at Arc/Hive who just found out she has months to live. 
+> She’s got CERS – Chronic Environmental Respiratory Syndrome. Terminal. What is she going to do?
+
+> ## Pages 75 & 76
+>
+>[Calendar of June 2028 with the 28th circled]
+>
+>Rebecca becomes a robot
+>
+>[Folder drawing with “(Open file)” written underneath]
+>
+>Remember the SYNTH project I mentioned, the one Dallus and Strassman were working on? 
+> Synthetic humans immune to disease and pollution? Well, looks like Rebecca was patient zero. 
+> And honestly, If I knew I was going to die, I’d of probably signed up for the same thing too. Can’t blame her.
+>
+>And wow, she was stunning. 
+> No wonder Nex Gen (or Arc/Hive,  whatever they were calling it back then) pushed her so hard. 
+> That Tekka Magazine feature reeks of forced PR. The smoking bit? So out of sync.
+
+> ## Pages 77 & 78
+>
+>[Calendar of August 2037 with the 23rd circled]
+>
+>The pink hair plight
+>
+>[Folder drawing with “(Open file)” written underneath]
+>
+>Here’s an article that hits home, quite literally. 
+> It explains the genetic mystery that gave me and my mother our pink hair, 
+> which apparently stems from something called Radiogenic Leukotrichia. 
+> In short, after the nuclear fallout, radiation messed with the genes responsible for hair pigment, 
+> turning a lot of people’s hair white. 
+> But pink? That’s a rarer twist – 1 in 5 million, to be exact.
+>
+>But not everywhere is so rosy (pun intended, damn you, M8). 
+> Over in Novosovia, having pink hair gets you labelled as a witch. 
+> Ridiculous, right? But considering what I’ve learned about this place, it kind of checks out.
+>
+>Here’s the thing – Dr. Lee MD basically said the same thing about Skys in unbeLEEvable. 
+> Same rare genetic mutation. Same pink hair. This article even says it can be hereditary. 
+> What does that mean for me? Could we be… related? Oblivion, no. 
+
+> ## Pages 79 & 80
+>
+>[Calendar of October 2037 with the 24th circled]
+>
+>Ren Brings E.V.E to Life
+>
+>[Folder drawing with “(Open file)” written underneath]
+>
+>Ren’s first log entry is a bit of a grind (we don’t need constant vital logs, D8), but it is revealing. 
+> After the death of their father, Dallus, Ikaro Lauren is clearly carrying the enormous weight of this legacy.
+>
+>But Ren isn’t just grieving. 
+> They’ve completed EVE, an advanced research engine created by Dallus that incorporate subatomic learning capabilities, 
+> designed to function beyond traditional computation boundaries, 
+> tapping into dimensions of knowledge far deeper than the visible realm. 
+> Upon activation, EVE immediately detects Ren’s emotional state, 
+> reading their grief over Dallus’s death like an open book. 
+> Ren is shaken, but also seems reinvigorated, 
+> determined to get the newly rebranded NEX GEN’s board to back EVE as the future of everything.
+
+> ## Pages 81 & 82
+>
+>[Ren Brings E.V.E to Life cont’d:]
+>
+>One thing keeps vexing me though: the gender ambiguity. 
+> Dallus referred to Ren as “she” in his journal, but in this log, Ren’s called “he.” 
+> Is this just a glitch in D8’s documentation, or is there more to Ren’s identity than meets the eye? 
+> Wonder if they had the same genetic oddities as me.
+>
+>I wish Ren explained how Dallus departed. Was it just another tragic event, or something more sinister? 
+
+> ## Pages 83 & 84
+>
+>[Calendar of October 2037 with the 28th circled, an arrow passing through the 29th and 30th that points at the 31st, 
+> and the 31st circled]
+>
+>Scott becomes a Voidling
+>
+>[Folder drawing with “(Open file)” written underneath]
+>
+>Scott was my mother’s best friend, maybe more. 
+> Unfortunately, I don’t have much else besides these diary entries, and I doubt that’s going to change: 
+> he was infected with VSPR-37 and executed soon after. 
+> What I do know: he was an addict high on NEX GEN meds, and he ate his dog’s face, Yummy. 
+> My mother was friends with him? Why? Maybe that was their connection, drugs. 
+> But the real question is the virus. This was the year the infection first appeared. 
+> Could Scott have been one of its first victims?
+>
+>It ends with someone knocking on his door. And I’m pretty sure it was my mother. Not good.
+
+> ## Pages 85 & 86
+>
+>[Calendar of October 2037 with the 30th circled]
+>
+>Mother’s Weird Day
+>
+>[Folder drawing with “(Open file)” written underneath]
+>
+>2037? Raw year. 
+> VSPR-37, EVE was activated, and Arc/Hive rebranded itself to NEX GEN, maybe after a devastating incident. 
+> Are all these things connected? I’m now quite certain about one thing, Scott was one of the virus’ early victims.
+>
+>And that ending? I was practically yelling at the screen like it was a bad MINDFLIX horror story.
+> How the hex did she survive?
+
+> ## Pages 87 & 88
+>
+>[Calendar of October 2037 with the 31st circled]
+>
+>Scott is Killed, and Mother is Abducted
+>
+>[Folder drawing with “(Open file)” written underneath]
+>
+>This codek is a journey. 
+> An exchange between NEX GEN’s FANTOM unit and NEX GEN, and now it’s clear – Nyx-1 is my mother, and Nyx-2 was Scott. 
+> The part where he’s eating his dog’s face? Yeah, that nails the coffin. 
+> They were being monitored, even before the virus outbreak.
+>
+>Seems like New Elysium wasn’t your default suburbia. to live. 
+> Bugged to the last brick, probably one of Victor’s experiments disguised as a community. 
+> That checks out, seeing as it’s only a few miles from here. 
+> If I ever find a working MOXY, I need to pay a visit to mother’s hometown.
+>
+>Speaking of my mother… Scott bit her. How did she not turn into a voidling?
+>
+>What made them so special to NEX GEN? 
+> Why was my she abducted, and what exactly did they do to her?
+
+> ## Pages 89 & 90
+>
+>[Calendar of unknown month in 2038]
+>
+>LBR Centres
+>
+>[Folder drawing with “(Open file)” written underneath]
+>
+>A document to Victor Carmine from Strassman. 
+> Looks like they were going international with their bleak operations. 
+> New bases in Neo-Tokyo – or as he refers to them – Lesser Banishing Ritual Centres. 
+> Yeah… doesn’t sound satanic at all. 
+> Strassman talks about tapping into eldritch conduits: whatever that is, it doesn’t sound natural. 
+> Sound like they were harnessing something way beyond human comprehension.
+>
+>Strassman mentions Dallus. Were thy running experiments on him? 
+> Was Strassman Involved in his death? Sweet oblivion.
+>
+>And Dimension Y-93 Is that Youtopia? Could it seriously be a tangible world? 
+> The runes… could they be the Insights? 
+> Or is everyone just high on lupamine by this point?
+
+> ## Pages 91 & 92
+>
+>[Calendar of June 2039 with the 10th circled]
+>
+>Strassman’s Full Disclosure to E.V.E
+>
+>[Folder drawing with “(Open file)” written underneath]
+>
+>I have very little data on EVE since her activation, but it sounds like she’s been in overdrive. 
+> She has Strassman whipping up some drug designed to get people to Youtopia – which, 
+> at this point, I’m starting to believe is a real place. 
+> Except most people who tried to get there? Brain fried to oblivion.
+>
+>They mention my mother. 
+> Her “unique alkaloid structure”? What the hex does that mean? 
+> Is it linked to how she survived the virus? 
+> And if so, how is Youtopia connected to all of this viral chaos? 
+> How does it fit together?
+>
+>Finally, Strassman makes one hex of an accusation. 
+> He claims that EVE – this “saviour” of mankind – has been using humans as her personal power source. 
+> Now, I don’t know if that’s true or if Strassman’s just a paranoid mindrot at this point. 
+> I placed this guy on red alert ages ago, and he seems to be babbling nonsense by the end.
+
+> ## Pages 93 & 94
+>
+>[Calendar of unknown month in 2039]
+>
+>First Episode of UNBELEEVABLE
+>
+>[Folder drawing with “(Open file)” written underneath]
+>
+>Dr. Lee M.D. – what a character. 
+> He’s lire a walking conspiracy theory, 
+> wrapped in an accent that’s definitely not from the DTC (thank hex for the subtitles). 
+> I do love him though, he’s the only one that has brought a smile to my face so far. 
+> Sure, he might sound like a total westhead, but there’s something to his madness. 
+> Why else would NEX GEN be freaking out?
+>
+>And he’s actually the one who pulled a lot of this mess together for me.
+>
+>What’s evident now… Skys wasn’t just some random occutistt.  
+> His obsession with pain stems from his own trauma that might’ve given him his supposed “powers.” 
+> How Dallus and Strassman got roped into his world is starting to make sense. 
+> They were diving deep into Neospiritualism, and Skys was a living proof of their theories. 
+> Maybe this “cult” was never supposed to be a cult. 
+> It feels more like desperate attempt to study something beyond science that got out of hand.
+
+> ## Pages 95 & 96
+>
+>[First Episode of UNBELEEVABLE cont’d:]
+>
+>Arc/Hive? They must have been watching from the sidelines, 
+> just waiting for the perfect moment to swoop in, right when things went west. 
+> Novosovia’s known for being hyper-religious, and these mindrots questioning their beliefs? 
+> Yeah it was never going to have a pretty ending. 
+> Cue Victor. Now that’s what I call a “White saviour”.
+>
+>A small detail that really vexed me up : EVE. 
+> Lee hints that she’s running NEX GEN now, pulling all the strings. 
+> Where’s Victor? Did EVE take over? Is he dead? Or worse? Do not ask me. 
+> But that part is seriously messing with me. 
+> Maybe I’m believing to much for a man that uses the term “madder than a bag of forskins.”
+>
+>What’s forskin?
+>
+>But I can’t deny, Lee’s show gave me the most significant intel so far. 
+> The connections he made between NEX GEN, Skys, and the cult are too wild to ignore. 
+> But now, I’m wondering if that’s exactly why he’s vanished. 
+> If NEX GEN really silenced him, then it only solidifies everything he was claiming was true.
+>
+>I need that second episode, badly.
+
+> ## Pages 97 & 98
+>
+>[Calendar of February 2040]
+>
+>The Chapel Incident
+>
+>[Folder drawing with “(Open file)” written underneath]
+>
+>The deepmark dates this file to February, 8 years ago, 
+> right around the time my mother bailed on me. 
+>
+>The attached memo? Bleak. Elias and his team were found slaughtered. 
+> Cant deny the poetic tragedy of it all, but still. 
+> Is this the aftermath of Project DUST? The dark side of Youtopia?
+>
+>They were definitely hiding something bleak down there. 
+> The basement’s calling to me, but considering what happened to the others, 
+> maybe poking around isn’t the optimal move. 
+> Those Mares weren’t just twisted dream, they were real. 
+> Tangible. But how the hex is that even possible?
+
+> ## Pages 99 & 100
+>
+>[Calendar of February 2040 with the 25th circled]
+>
+>Message from mother
+>
+>[Folder drawing with “(Open file)” written underneath]
+>
+>The first document I unlocked after decrypting M8’s Core was an audio log. 
+> The only thing I didn’t need a password for.
+>
+>It’s my mother’s voice. Selene’s voice.
+> The day I was born. The day she left me.
+>
+>She didn’t explain why, just rambled about everything being “too much.”
+> What was too much? Me? Her life? 
+> I’ve pieced together so much, but still… 
+> I feel no closer to understanding.
+
+> ## Pages 101 & 102
+>
+>[Calendar of March 2052 with the 26th circled]
+>
+>VSPR-37
+>
+>[Folder drawing with “(Open file)” written underneath]
+>
+>This whole Dreadit post? Definitely about my mother. 
+> The girl immune to VSPR-37, the one with the freaky pineal gland? Yeah, that’s her. 
+> And apparently, these NEX GEN mindrots were using her immunity to create some insane cure: 
+> or worse, a drug, one that ending up voiding nearly all that took it.
+>
+>The DREAMSEEKER thing? Some hexed device to access a perfect dream world, using my mother as the key. 
+> Why didn’t she tell me?
+>
+>That’s everything I have right now. 
+> I will update once I’ve found enough new files to make new theories.
+
+> ## Pages 103 & 104
+>
+>To summarise:
+>
+>Skys, a broken, novosovian child with pink hair like me, suffered trauma that somehow gave him powers. 
+> His pain obsession attracted Dallus and Strassman, 
+> who were working on spiritual science that aligned with Skys’ abilities. 
+> They formed MANTRA, a cult probably formed with pure intentions before going to oblivion.
+>
+>Skys fell into a coma and the surviving embers were forced to flee to Novosovia and joined Victor Carmine at Arc/Hive, 
+> continuing their research, leading to Dallus inventing groundbreaking tech like MOXY Packs and SYNTHS, 
+> though his guilt and involvement with Skys lingered. 
+> Rebecca signed up as a SYNTH when diagnosed with a terminal illness.
+>
+>Years later, something big happened. 
+> Arc/Hive rebranded to NEX GEN, and Dallus is died, with evidence suggesting grim-play. 
+> EVE, an advanced research engine was activated, and VSPR-37, 
+> a virus that turned people into voidlings (zombie-like creatures), 
+> began spreading, all within a few days.
+>
+>Scott, my mother’s best friend, was infected. 
+> My mother was also bitten, but she’s supposedly immune, 
+> possibly because of her ‘unique alkaloid structure’ (your guess is as good as mine). 
+> NEX GEN likely experimented on her, assuming she may hold a cure to the virus. 
+> Together with Strassman, they discovered a different dimension (W.I.O!) Youtopia, 
+> and then she abandoned me around the time everything went haywire, 
+> what with the blood-thirsty Mares becoming real and NEX GEN going to hex is a hand-basket.
+>
+>Everything’s connected: my mother, the virus, Youtopia, and whatever bleak dimension they’ve been tampering with. 
+> But theres still so much more to this story.
+>
+>Its really is true, the deeper you dig, the darker it gets.
 
 ***
 
