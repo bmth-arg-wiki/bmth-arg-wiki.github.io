@@ -1,10 +1,9 @@
 ---
 title: "Capslock Doc"
 description: "The capslock doc is a document that was found earlier than expected. Its password uses the 
-capital letters from the album itself. The email is currently unavailable and it is unknown 
-what will happen to this file."
+capital letters from the album itself. It led to an email that can no longer be reached and the file has been removed in an update."
 categories: ["for-sof"]
-tags: ["selene", "capslock doc", "anagram", "dekode", "matrix", "concealed origins"]
+tags: ["bmth", "arg", "selene", "capslock doc", "anagram", "dekode", "matrix", "concealed origins", "capitals", "capitalized"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/capslock_doc/gallery/crate_selene.png"
 previous: "lore/insight4-vision"
 previous_text: "INSIGHT4.DOC"
@@ -14,9 +13,16 @@ next_text: "StrassmanCONFIDENTIALPRT007"
 
 # CAPSLOCK.DOC
 
+{% include content/info.html
+title="Oh no! This file has gone missing"
+icon="fa-solid fa-info"
+content="This file disappeared when M8 finished updating, after the update on the 4th of December 2024. It is currently 
+unknown if it will be restored."
+%}
+
 > "This behaviour is both naughty and counterproductive!" - M8
 
-The capslock doc can be found in the `FOR SOF` folder on the computer.
+The capslock doc could be found in the `FOR SOF` folder on the computer before the December 2024 update.
 
 ***
 
