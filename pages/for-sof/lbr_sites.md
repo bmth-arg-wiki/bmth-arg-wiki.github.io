@@ -16,21 +16,19 @@ next_text: "GOXMOG_SIGHTINGS"
 
 > These sites are crucial due to their positioning over exceptionally potent metaphysical energy sources, specifically designated as Arcane Verterations. 
 
-The `LBR_sites.Confidential.doc` file was originally introduced on the 7th of August 2024, 
-before becoming unlockable on the 8th of August.
-The document speaks about an incident at [ARC/HIVE](../lore/archive) and measures taken 
+This document speaks about an incident at [ARC/HIVE](../lore/archive) and measures taken 
 by [Nex Gen](../lore/nex-gen-corporation) to prevent more incidents.
 The letter is written by [Strassman](../characters/strassman) and another name seems to 
 be redacted.
-It is addressed to [Victor Carmine](../characters#victor-carmine) and another
+It is addressed to [Victor Carmine](../characters/victor-carmine) and another
 redaction follows.
 
 ***
 
 ## About
 
-This document was first released on August 7th 2024 and requires a compass puzzle
-to open.
+The `LBR_sites.Confidential.doc` file was originally introduced on the 7th of August 2024,
+before becoming unlockable on the 8th of August. It requires a [compass puzzle](#password-context) to open.
 The puzzle became solvable in an update on the 8th of August, revealing a document
 about so-called [LBR sites](lbr_sites).
 

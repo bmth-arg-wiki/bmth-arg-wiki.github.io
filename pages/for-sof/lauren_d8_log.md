@@ -17,8 +17,8 @@ next_text: "Scott_Personal_Journal"
 
 > "Be mindful Ikaro, lest you be consumed by the very brilliance you seek to harness."
 
-Document in the [FOR SOF](../for-sof) folder. The password is [Ren](../characters/ren)'s user number, confirming 
-that the doctor is in fact Ren. The document itself also supports this.
+Document in the [FOR SOF](../for-sof) folder, detailing the genesis of [EVE](../characters/eve). It's also the first 
+day of operation for D8, an AI assistant [Dallus' diary](dallus-diary) tells us is made by Ren as part of the RO8OT line.
 
 ***
 

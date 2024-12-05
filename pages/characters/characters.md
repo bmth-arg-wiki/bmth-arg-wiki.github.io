@@ -29,44 +29,48 @@ mentioned in documents.
 
 These are:
 
-| Character                            | Source                                                     |
-|--------------------------------------|------------------------------------------------------------|
-| [Sof](sof)                           | Mentioned on Horizon supply website, girl on the cover     |
-| [Angeldust](angeldust)               | Mentioned in live shows                                    |
-| [Dr. Elias Mortem](#dr-elias-mortem) | Mentioned in [Project D.U.S.T.](../for-sof/project_dust)   |
-| [Emily](#emily)                      | Mentioned in the BMTH Discord                              |
-| [Rebecca](#rebecca)                  | Mentioned in [Tekka interview](../for-sof/tekka_interview) |
-| [Victor Carmine](#victor-carmine)    | Mentioned in [Tekka interview](../for-sof/tekka_interview) |
+| Character                            | Source                                                                          |
+|--------------------------------------|---------------------------------------------------------------------------------|
+| [Sof](sof)                           | Many                                                                            |
+| [Angeldust](angeldust)               | Mentioned in live shows                                                         |
+| [Dr. Elias Mortem](#dr-elias-mortem) | Mentioned in [Project D.U.S.T.](../for-sof/project_dust)                        |
+| [Emily](#emily)                      | Mentioned in the BMTH Discord                                                   |
+| [Rebecca](rebecca)                   | [Sof's journal](../lore/journal), [Tekka interview](../for-sof/tekka_interview) |
+| [Victor Carmine](victor-carmine)     | [Sof's journal](../lore/journal), [Tekka interview](../for-sof/tekka_interview) |
 
 ### Sof
 
-Sof is the girl from the album and has her own [page](sof).
-
-### Angeldust
-
-Angeldust is shown on stage during [Kool-Aid](../music/song-koolaid).
-
-### Dr. Elias Mortem
-
-Dr. Elias Mortem was the lead scientist at Arc/Hive Research Division at the time of 
-declassification of the [Project D.U.S.T. research proposal](../for-sof/project_dust).
-
-### Emily
-
-The name "Emily" is rank 9 out of 10 ranks to appear for a Discord event centered around the 
-[church of Genxsis](../lore/church). E.V.E is ranked 8th, implying that Emily is somehow above her in the ranks of Genxsis.
+[Sof](sof) is one of our protagonists, discovering their origins from the files her mother [Selene](selene) left when they 
+abandoned them. We see Sof in many sources and get to read their [journal](../lore/journal), which explains their take on the files.
 
 ### Victor Carmine
 
 Victor Carmine is a mysterious man mentioned in the [Tekka Interview](../for-sof/tekka_interview). Jax Jackson,
 the interviewer from Tekka mentions that he is a "big player" and that some call him a visionary, others call
-him a psycho.
+him a psycho. Sof's journal explains that he is the big boss at Nex Gen and was also the boss when the company was still
+called ARC/HIVE.
+
+### Dr. Elias Mortem
+
+Dr. Elias Mortem was the lead scientist at Arc/Hive Research Division at the time of
+declassification of the [Project D.U.S.T. research proposal](../for-sof/project_dust). He was later slaughtered
+along with his team at the [Chapel incident](../for-sof/chapel).
 
 ### Rebecca
 
 Rebecca was a terminally ill lab assistant at Arc/Hive, before becoming the first
 synth. She is [interviewed](../for-sof/tekka_interview) about the ambitious project from Nex Gen
 by a magazine called Tekka.
+
+### Angeldust
+
+Angeldust is shown on stage during [Kool-Aid](../music/song-koolaid).
+
+### Emily
+
+The name "Emily" is rank 9 out of 10 ranks to appear for a Discord event centered around the 
+[church of Genxsis](../lore/church). E.V.E is ranked 8th, implying that Emily is somehow above her in the ranks of Genxsis.
+
 
 ***
 
@@ -89,7 +93,7 @@ Angels can also be found in the [spectrograms](../music/spectrograms) in
 
 ***
 
-## Omens
+### Omens
 
 The following characters are omens of the [insights](../lore/insights):
 
@@ -104,7 +108,7 @@ play a role in [Night of Pan](../lore/night-of-pan) ritual. The Babylon does not
 
 ***
 
-## Band Members
+### Band Members
 
 The following characters correspond to the members:
 
@@ -122,11 +126,10 @@ A promotional image of the band on cards also links them to the [four insights](
 
 ***
 
-## The Trinity
+### The Trinity
 
-### Trinity
-
-The members of the Trinity are three people of interest, mentioned first in the [trinity document](../for-sof/trinity_document).
+The members of the Trinity are three people of interest, mentioned first in the [trinity document](../for-sof/trinity_document). 
+[Victor Carmine](victor-carmine) ordered their extraction from Novosovia.
 
 {% assign page_links = '/pages/characters/strassman, /pages/characters/skys, /pages/characters/dallus-lauren' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
@@ -149,8 +152,6 @@ tank we see in the project D.U.S.T. file.
 
 ## Read More
 
-### Files
-
 Nex Gen, ARC/HIVE and Trinity:
 
 - [Nex Gen Corporation](../lore/nex-gen-corporation)
@@ -165,3 +166,6 @@ Character Journals:
 - [Ren](../for-sof/lauren_d8_log)
 - [Scott/Syko](../for-sof/scott_personal_journal)
 - [Selene](../for-sof/selene_personal_journal)
+- [Skys](../for-sof/skys-diary)
+- [Dallus Lauren](../for-sof/dallus-diary)
+- [Sof](../lore/journal)
