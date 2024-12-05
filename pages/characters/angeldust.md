@@ -2,7 +2,7 @@
 title: "Angeldust"
 description: "Angeldust is a character that appears in the live shows, sometimes being referred to as a 
 rotten angel. She attacks the Church of Genxsis on stage during Kool-Aid."
-categories: ["characters", "live"]
+categories: ["characters"]
 tags: ["angeldust", "kool-aid", "bring me the horizon", "live", "angel", "rotten angel", "project dust", "church of genxsis", 
 "eve", "nex gen"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/angeldust/Snapinsta.app_420366895_392572589824770_3198707577784132863_n_1024.jpg"
