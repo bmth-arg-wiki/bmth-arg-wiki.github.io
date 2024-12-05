@@ -3,6 +3,8 @@ title: "Book Of Eclipse"
 description: "This page is about the Book of Eclipse."
 categories: ["for-sof"]
 tags: ["bmth", "arg", "nex gen", "book of eclipse", "skys"]
+next: "for-sof/grumblr2"
+next_text: "Grumblr 2"
 ---
 
 # Book Of Eclipse

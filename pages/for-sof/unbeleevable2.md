@@ -3,6 +3,8 @@ title: "Unbeleevable Ep.2"
 description: "This page is about the second installment of the UNBELEEVABLE docu-series, created by Dr. Lee M.D."
 categories: ["for-sof"]
 tags: ["unbeleevable", "lee", "nex gen"]
+previous: "for-sof/skys-diary"
+previous_text: "Skys' Diary"
 ---
 
 # Unbeleevable Episode 2
@@ -167,6 +169,7 @@ It's the sliders puzzle at the bottom right cornner of the inventory.
 More from the Inventory!
 
 Other puzzle files:
+
 - [Book of Eclipse](book-of-eclipse)
 - [Grumblr second entry](grumblr2)
 - [Skys' diary](skys-diary)
