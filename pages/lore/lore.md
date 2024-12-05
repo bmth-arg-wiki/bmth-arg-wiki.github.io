@@ -11,9 +11,13 @@ image: "Resources/lore/mantra/mantra-not-for-consumption.png"
 {% assign page_links = '/pages/lore/youtopia, /pages/lore/booklet, /pages/lore/pusse, /pages/m8, /pages/lore/night-of-pan' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
-## ARG Website
+## ARG Website - Main Page
 
 {% assign page_links = '/pages/webpage, /pages/lore/wifi, /pages/lore/webbrowser, /pages/music/website-songs, /pages/lore/journal' | split: ", " %}
+{% include page-card-gallery.html links=page_links %}
+
+## ARG Website - INVENTORY Folder
+{% assign page_links = '/pages/lore/skys-diary, /pages/lore/grumblr2, /pages/lore/book-of-eclipse, /pages/lore/enbeleevable2' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ## Organisations
