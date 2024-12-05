@@ -26,7 +26,7 @@ It contains an entry from [Rebecca Sinclair](../characters/rebecca) who has alre
 ## About
 
 Originally introduced as `Grumblr.HTML`. The file seemed to be cracked by coincidence or brute-forcing
-at first, showing a background of a diary with green text displaying "test".
+at first, showing a background that is later used for [Dallus' diary](dallus-diary) with green text displaying "test".
 This was replaced by another update on August the 7th, when the filename changed to the current
 one and the file now showed us [Rebecca](../characters/rebecca)'s Grumblr page.
 

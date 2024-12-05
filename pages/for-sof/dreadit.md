@@ -1,6 +1,6 @@
 ---
 title: "Dreadit Post"
-description: "The dreadit post was written by a user taking a cynical look at Nex Gen 
+description: "The Dreadit post was written by a user taking a cynical look at Nex Gen 
 and the projects they are developing using the immune child."
 categories: ["for-sof"]
 tags: ["dreadit", "nex gen", "youtopia", "for sof", "karl strassman", "pusse", 
@@ -17,7 +17,10 @@ next_text: "YOUTOPIA_selenes_map.vis"
 > "everyones favourite AI run megalordz Nex Gen is back on the scene." - Renn_nstimpy72
 
 This file seems to be a forum post and first appeared in a website update on 28/05/2024. 
-The password was discovered in the URL that appeared in [the Spyder web browser](../lore/webbrowser.md).
+The password was discovered in the URL that appeared in [the Spyder web browser](../lore/webbrowser).
+
+Even though the filename seemingly contains a different year (or even whole date), the file is marked 
+on Sof's calendar on the 26th of March 2052, the date that also appears as the capture date in the post itself.
 
 The immune child in the Dreadit post was later confirmed to be [Selene](../characters/selene) 
 in a message from EVE on the official Bring Me The Horizon Discord.
@@ -204,6 +207,7 @@ Related articles:
 
 - [Nex Gen](../lore/nex-gen-corporation)
 - [ARC/HIVE](../lore/archive)
+- [Sof's journal](../lore/journal)
 
 Related characters:
 
@@ -211,3 +215,4 @@ Related characters:
 - [Ikaro Lauren](../characters/ren)
 - [Karl Strassman](../characters/strassman)
 - [Selene](../characters/selene)
+- [Sof](../characters/sof)

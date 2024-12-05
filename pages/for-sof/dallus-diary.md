@@ -11,10 +11,6 @@ previous_text: "GOXMOG_SIGHTING.zip"
 
 > More content coming soon!
 
-[Dallus](../characters/dallus-lauren)' diary is a file found after the December 2024 update, although its background briefly appeared when 
-the [Grumblr](grumblr) file first opened, at the time displaying the text `test` in green. According to [Sof](../characters/sof)'s 
-journal, the diary is from the 19th of January 2021.
-
 The diary tells us more about how Dallus ended up working with [Skys](../characters/skys), [Strassman](../characters/strassman) 
 and [Victor Carmine](../characters/victor-carmine). Apparently Skys did something to Dallus Lauren at the Skys & the Starjammers 
 concert at October Palace, convincing him to get involved with the [Cult of MANTRA](../lore/mantra) and the company that 
@@ -27,12 +23,29 @@ mentions this happened a few years before and Dallus is still only half there. S
 activate [EVE](../characters/eve) in 2037 according to the [D8 log](lauren_d8_log), the child who died had to have been 
 Lyra.
 
+According to [Sof](../characters/sof)'s journal, the diary is from the 19th of January 2021.
+
+***
+
+## About
+
+[Dallus](../characters/dallus-lauren)' diary is a file found after the December 2024 update, although its background briefly appeared when
+the [Grumblr](grumblr) file first opened, at the time displaying the text `test` in green. 
+
+The file is not available in the [FOR SOF](../for-sof/for-sof#for-sof) folder, but can be opened through Sof's journal. 
+It was released without a password on the 4th of December 2024.
+
+***
+
+
 ## Sof's Journal
 
 Sof writes about this file in their journal.
 
 ![First pages of Sof's journal entry on Dallus' diary](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/dallus-diary/dallus_sof_journal.png)
 ![Final page of the journal](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/dallus-diary/dallus_sof_journal_2.png)
+
+***
 
 # Read More
 

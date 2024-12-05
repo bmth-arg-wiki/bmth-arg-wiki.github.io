@@ -33,8 +33,8 @@ The capslock doc could be found in the `FOR SOF` folder on the computer before t
 {% include info.html
 title="Beware spoilers!"
 icon="fa-solid fa-lock-open"
-content="This article contains heavy spoilers and was discovered earlier than it was supposed to be. It is unsure when 
-we will receive an update on the situation."
+content="This article contains heavy spoilers and was discovered earlier than it was supposed to be. It is unsure when and 
+if we will receive an update on the situation."
 %}
 
 ![Buff m8](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/m8/mad_m8.png)
