@@ -1,7 +1,7 @@
 ---
 title: "Unbeleevable Ep.2"
 description: "This page is about the second installment of the UNBELEEVABLE docu-series, created by Dr. Lee M.D."
-categories: ["lore"]
+categories: ["for-sof"]
 tags: ["unbeleevable", "lee", "nex gen"]
 ---
 
@@ -166,15 +166,20 @@ It's the sliders puzzle at the bottom right cornner of the inventory.
 
 More from the Inventory!
 
+Other puzzle files:
+- [Book of Eclipse](book-of-eclipse)
+- [Grumblr second entry](grumblr2)
+- [Skys' diary](skys-diary)
+
 Related articles:
 
-- Cult of MANTRA
-- Church of GENXSIS
-- ARC/HIVE Corp.
-- NEX GEN Corp.
+- [Cult of MANTRA](../lore/mantra)
+- [Church of GENXSIS](../lore/church)
+- [ARC/HIVE Corp.](../lore/archive)
+- [NEX GEN Corp.](../lore/nex-gen-corporation)
 
 Related characters:
 
-- Skys
-- Karl Strassman
-- Dallus Lauren
+- [Skys](../characters/skys)
+- [Karl Strassman](../characters/strassman)
+- [Dallus Lauren](../characters/dallus-lauren)
