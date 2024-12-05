@@ -11,6 +11,18 @@ next_text: "Grumblr 2"
 
 > Coming soon!
 
+***
+
+## Password context
+
+<details class="password">
+  <summary>Password</summary>
+
+3632650773148
+</details>
+
+***
+
 ## Read More
 
 Other puzzle files:
