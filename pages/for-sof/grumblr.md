@@ -21,6 +21,8 @@ next_text: "LBR_sites.Confidential"
 This file's name seems to be a play on Tumblr, just like [Dreaddit](dreadit) was a nod to Reddit.
 It contains an entry from [Rebecca Sinclair](../characters/rebecca) who has already been seen in [Tekka Magazine](tekka_interview). 
 
+The update in December 2024 also gave us a [second Grumblr post](grumblr2).
+
 ***
 
 ## About
@@ -144,7 +146,7 @@ It’s official. I’ve got the big C. CERS. Chronic Environmental Respiratory S
 14012
 </details>
 
-This password seems to be part of the filename itself, `GRUMBLR.Rebecca_Rebecca_Sinclair_01142027`.
+This password seems to be a rearranged date in the filename itself, `GRUMBLR.Rebecca_Rebecca_Sinclair_01142027`.
 
 ***
 
@@ -158,14 +160,15 @@ Related files:
 - [Lauren's D8 log](lauren_d8_log)
 - [Tekka Interview](tekka_interview)
 - [LBR sites letter](lbr_sites)
-
-Related articles:
-
-- [ARC/HIVE](../lore/archive)
-- [Nex Gen](../lore/nex-gen-corporation)
+- [Second Grumblr post](grumblr2)
 
 Related characters:
 
 - [Rebecca](../characters/rebecca)
 - [Iara](../characters/iara)
 - [Dallus Lauren](../characters/dallus-lauren)
+
+Related articles:
+
+- [ARC/HIVE](../lore/archive)
+- [Nex Gen](../lore/nex-gen-corporation)
