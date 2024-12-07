@@ -26,14 +26,7 @@ Madman, referred to as the "six string shredder" in the [POST HUMAN: NeX GEn boo
 embodies resilience, resourcefulness, dedication, and is said to be fervently loyal. 
 He is thoroughly dedicated to his family, and brings stability to the community.
 
-***
-
-## Madman & UNBELEEVABLE
-
-In the [Unbeleevable](../for-sof/unbeleevable) video, 
-the doctor (played by Lee Malia) calls himself "Dr. Lee".
-At this stage, we do not know if this is yet another character, 
-or if Madman is also Dr. Lee. 
+He might also be linked to [Dr. Lee MD](lee-md), who is also played by Malia.
 
 ***
 
