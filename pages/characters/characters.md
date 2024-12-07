@@ -27,17 +27,6 @@ important names and how the characters relate to each other.
 Additionally, there are characters not listed on M8. For example because they were 
 mentioned in documents.
 
-These are:
-
-| Character                            | Source                                                                          |
-|--------------------------------------|---------------------------------------------------------------------------------|
-| [Sof](sof)                           | Many                                                                            |
-| [Angeldust](angeldust)               | Mentioned in live shows                                                         |
-| [Dr. Elias Mortem](#dr-elias-mortem) | Mentioned in [Project D.U.S.T.](../for-sof/project_dust)                        |
-| [Emily](#emily)                      | Mentioned in the BMTH Discord                                                   |
-| [Rebecca](rebecca)                   | [Sof's journal](../lore/journal), [Tekka interview](../for-sof/tekka_interview) |
-| [Victor Carmine](victor-carmine)     | [Sof's journal](../lore/journal), [Tekka interview](../for-sof/tekka_interview) |
-
 ### Sof
 
 [Sof](sof) is one of our protagonists, discovering their origins from the files her mother [Selene](selene) left when they 
@@ -52,15 +41,32 @@ called ARC/HIVE.
 
 ### Dr. Elias Mortem
 
-Dr. Elias Mortem was the lead scientist at Arc/Hive Research Division at the time of
+[Dr. Elias Mortem](elias-mortem) was the lead scientist at Arc/Hive Research Division at the time of
 declassification of the [Project D.U.S.T. research proposal](../for-sof/project_dust). He was later slaughtered
 along with his team at the [Chapel incident](../for-sof/chapel).
 
 ### Rebecca
 
-Rebecca was a terminally ill lab assistant at Arc/Hive, before becoming the first
+Rebecca was a terminally ill lab assistant at ARC/HIVE, before becoming the first
 synth. She is [interviewed](../for-sof/tekka_interview) about the ambitious project from Nex Gen
-by a magazine called Tekka.
+by a magazine called Tekka. She later worked with [Strassman](strassman) and [Dallus Lauren](dallus-lauren) on 
+the SYNTH project.
+
+### Medea
+
+Medea is the woman in red from the [Mantra MV](../music/amo-mantra) and an infiltrator in the [cult of Mantra](../lore/mantra), 
+as we learn in [Unbeleevable episode 2](../for-sof/unbeleevable2).
+
+### Ava & Angel Strassman
+
+Ava is another character we learn about in [Unbeleevable episode 2](../for-sof/unbeleevable2). She meets 
+[Karl Strassman](strassman) at October Palace in 2004, at the [Skys & the Starjammers](../for-sof/skystarjammers) 
+concert. Strassman is interested in the ideas of Skys, a man with no formal scientific training whose ideas match his 
+own cutting-edge research. However, Ava quickly catches his eye and he quickly becomes enamoured with her. 
+
+Strassman and Ava have a child together named Angel. Tragedy strikes the family around the time of [Operation Trinity](../for-sof/trinity_document), 
+as we learn in [Dallus' Diary](../for-sof/dallus-diary) from early January 2021 that Ava is dead and their child 
+has gone missing, presumed dead.
 
 ### Angeldust
 
@@ -70,7 +76,6 @@ Angeldust is shown on stage during [Kool-Aid](../music/song-koolaid).
 
 The name "Emily" is rank 9 out of 10 ranks to appear for a Discord event centered around the 
 [church of Genxsis](../lore/church). E.V.E is ranked 8th, implying that Emily is somehow above her in the ranks of Genxsis.
-
 
 ***
 
