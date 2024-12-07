@@ -33,8 +33,15 @@ information as much as possible and indicate whenever something is not confirmed
 
 ## Getting started
 
+{% include content/info.html
+title="Update in progress..."
+icon="fa-solid fa-info"
+content="The website underwent many changes on December 2024. Please be patient while we upd8 the wiki <3"
+%}
+
 There is a lot going on in this ARG! We get it if you are overwhelmed. 
 This section will attempt to explain the most important sources.
+
 We also offer a walkthrough:
 
 {% assign page_links = '/pages/walkthrough/walkthrough, /pages/walkthrough/walkthrough2' | split: ", " %}
