@@ -1,9 +1,19 @@
+---
+title: "Scott"
+description: "Scott is Selene's high school best friend and test subject NYX-02 from Nex Gen. He turns into a 
+voidling after being infected with VSPR-37 and is executed by the FANTOM team."
+categories: ["characters"]
+tags: ["syko", "oliver sykes", "bring me the horizon", "bmth", "scott", "oskar", "dear diary"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/scott/scott-300x300.png"
+---
 # Scott
 
 Scott is [Selene](selene)'s friend. They're in the same school and are the same age. 
 He is also referred to as NYX-02 in the [Kingslayer codec](../for-sof/kingslayercodec), where he also 
 seems to meet his end. [Sof's journal](../lore/journal) refers to him as deceased, after he is executed after a 
 VSPR-37 infection, turning him into a voidling.
+
+![Scott character art from the access card](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/scott/scott-access-card.png)
 
 ***
 
