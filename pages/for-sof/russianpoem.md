@@ -24,7 +24,7 @@ Sof estimates the date of the letter to be between 2004 and 2020, specifically r
 and the fall of the [MANTRA cult](../lore/mantra).
 
 In Unbeleevable 2 we learn about a woman [Strassman](../characters/strassman) fell in love with named Ava, 
-but [Dallus' diary](dallus-diary), written at ARC/HIVE after Operation Trinity, tells us that she died. 
+but [Dallus' diary](dallus-diary), written at ARC/HIVE after Operation Trinity on the 19th of January 2021, tells us that she died. 
 They met at October Palace at the Skys & the Starjammers concert. This makes Ava a likely candidate to be 
 the receiver of this letter, but this has not been confirmed.
 
