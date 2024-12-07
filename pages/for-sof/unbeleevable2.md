@@ -9,11 +9,15 @@ previous_text: "Skys' Diary"
 
 # Unbeleevable Episode 2
 
->Coming soon!
+This episode features Dr. Lee M.D. going even deeper into Skys' and MANTRA's story from [Unbeleevable Episode 1](unbeleevable).
 
-This episode features Dr. Lee M.D. going even deeper into Skys' and MANTRA's story. 
+The video was first made available on the access card before being uploaded onto the ARG website and later [YouTube](https://www.youtube.com/watch?v=L71hskFwDmU).
 
-The video was first made available on the access card before being uploaded onto the ARG website.
+***
+
+## Document Contents
+
+{% include content/buttons/button-danger.html text="View on YouTube" link="https://www.youtube.com/watch?v=L71hskFwDmU" icon="fa-brands fa-youtube" %}
 
 ***
 
@@ -158,7 +162,8 @@ The video was first made available on the access card before being uploaded onto
 
 <details class="password">
 <summary>Password</summary>
-It's the sliders puzzle at the bottom right cornner of the inventory.
+It's the sliders puzzle in the bottom right corner of the inventory. It shuffles, 
+so sadly there is no one solution, but you can view the video on YouTube.
 
 </details>
 
@@ -166,7 +171,11 @@ It's the sliders puzzle at the bottom right cornner of the inventory.
 
 ## Read more
 
-More from the Inventory!
+Related characters:
+
+- [Skys](../characters/skys)
+- [Karl Strassman](../characters/strassman)
+- [Dallus Lauren](../characters/dallus-lauren)
 
 Other puzzle files:
 
@@ -174,15 +183,16 @@ Other puzzle files:
 - [Grumblr second entry](grumblr2)
 - [Skys' diary](skys-diary)
 
-Related articles:
+Related files:
+
+- [Operation Trinity](trinity_document)
+- [Unbeleevable Episode 1](unbeleevable)
+- [Book of Eclipse](book-of-eclipse)
+- [Skys' Diary](skys-diary)
+
+Related lore:
 
 - [Cult of MANTRA](../lore/mantra)
 - [Church of GENXSIS](../lore/church)
 - [ARC/HIVE Corp.](../lore/archive)
 - [NEX GEN Corp.](../lore/nex-gen-corporation)
-
-Related characters:
-
-- [Skys](../characters/skys)
-- [Karl Strassman](../characters/strassman)
-- [Dallus Lauren](../characters/dallus-lauren)

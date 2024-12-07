@@ -15,10 +15,13 @@ next_text: "дорогая моя любовь"
 ---
 # Nex Gen leak "UNBELEEVABLE".doc
 
-> "I'm telling you; this lot are madder than a bag of foreskins. Tonight, we’ll be investigating the deranged tales of the cult of Genxsis, a cult so secret even they have secrets, the secrets have seschrets(?)."
+> "I'm telling you; this lot are madder than a bag of foreskins. Tonight, we’ll be investigating the deranged tales of 
+> the cult of Genxsis, a cult so secret even they have secrets, the secrets have seschrets(?)."
 
 This file contains an email from Nex Gen's internal network and the video attached to said email. 
 It is currently unknown whether the Dr. Lee MD from the video is also [Madman](../characters/madman) in the ARG.
+
+The story from this file continues in [Episode 2](unbeleevable2).
 
 ***
 
@@ -30,10 +33,10 @@ It is currently unknown whether the Dr. Lee MD from the video is also [Madman](.
 
 ### Video
 
-The video the email is referring to is a video of Lee speaking about the Mantra
-cult. You can watch the [Unbeleevable video on YouTube](https://youtu.be/fQG3O6avUrw?si=zOYCqH0iVpDiaB2V)
+{% include content/buttons/button-danger.html text="View on YouTube" link="https://www.youtube.com/watch?v=fQG3O6avUrw" icon="fa-brands fa-youtube" %}
 
-Within the ARG, this is broadcasted by Community Resource Analog Program (CRAP).
+The video the email is referring to is a video of Lee speaking about the Mantra
+cult. Within the ARG, this is broadcasted by Community Resource Analog Program (CRAP).
 
 {% include gallery.html folder="files/unbeleevable/gallery" %}
 
@@ -144,12 +147,20 @@ name of the actor playing in [In The Dark](../music/amo-in-the-dark) is Forest W
 
 ## Read More
 
-More from [📁 FOR SOF](../for-sof)
+Related characters:
 
-Related Articles:
+- [Lee MD](../characters/lee-md)
 
-- [Mantra cult](../lore/mantra)
-- [MANTRA (song)](../music/amo-mantra)
+Related files:
+
 - [Operation Trinity](trinity_document)
 - [The Science Study](thesciencestudy)
 - [Sky_&_The_Starjammers.png](skystarjammers)
+- [Unbeleevable Episode 2](unbeleevable2)
+
+Related lore:
+
+- [Mantra cult](../lore/mantra)
+- [MANTRA (song)](../music/amo-mantra)
+- [Church of Genxsis](../lore/church)
+

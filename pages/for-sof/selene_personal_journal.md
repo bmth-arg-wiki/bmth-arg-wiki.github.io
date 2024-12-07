@@ -17,20 +17,13 @@ next_text: "Lauren_D8_Log"
 
 > I dont get why they're so freaked out. It's just a bug, right?
 
-Document in the [FOR SOF](../for-sof) folder. Selene talks about school and [Scott](scott_personal_journal), only 
-being 16 years old at the time of writing.
+Document in the [FOR SOF](../for-sof) folder. Selene talks about school and [Scott](scott_personal_journal), writing that she is 
+only 16 years old. The [Selene Youtopia doc](../for-sof/selene_youtopia_doc) has a conflicting age, indicating that she 
+might be 18 at the time of the pandemic since she is 19 in 2038.
 
 ***
 
 ## Document contents
-
-<details class="password">
-  <summary>Password</summary>
-
-0003
-</details>
-
-### Gallery
 
 {% include gallery.html folder="files/selene_diary/gallery" %}
 
@@ -44,10 +37,9 @@ The latter is a term that is also often applied to situation in which AI takes c
 on a large scale.
 
 Her friend Jenna remarks that she has been sick and from [Scott's diary](scott_personal_journal) we 
-know that he is sick as well.
-Both are likely suffering from the VSPR-37 pandemic, something that Selene is later revealed to be immune from. 
-The [Dreadit post](dreadit) refers to an immune child,
-which was later revealed to be Selene by [EVE](../characters/eve)'s messages in the official Bring Me The Horizon 
+know that he is sick as well. We know that Scott contracted VSPR-37 from [Sof's journal](../lore/journal). 
+He bit Selene, but she turns out to be immune. The [Dreadit post](dreadit) refers to an immune child,
+which was first revealed to be Selene by [EVE](../characters/eve)'s messages in the official Bring Me The Horizon 
 Discord.
 
 ***
@@ -110,7 +102,10 @@ The password is Selene's user number in the [M8](../m8) system.
 
 ## Read More
 
-More from [📁 FOR SOF](../for-sof)
+Related characters:
+
+- [Selene](../characters/selene)
+- [Scott](../characters/syko)
 
 Related files:
 
@@ -120,8 +115,4 @@ Related files:
 - [Selene Youtopia map](selenes_map)
 - [Dreadit post](dreadit)
 - [Scott's diary](scott_personal_journal)
-
-Related characters:
-
-- [Selene](../characters/selene)
-- [Scott](../characters/syko)
+- [Selene Youtopia doc](../for-sof/selene_youtopia_doc)

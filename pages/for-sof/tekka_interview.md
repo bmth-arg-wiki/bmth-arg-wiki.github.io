@@ -24,7 +24,7 @@ She does not seem to want to talk about this, telling the interviewer she can't 
 
 ## About
 
-This file was added on the 25th of June.
+This file was added on the 25th of June, with the password being found just a few minutes after release.
 
 ***
 
@@ -137,7 +137,7 @@ the interviewer start to ask about [Operation Trinity](trinity_document) and the
 
 ## Password context
 
-![tekka-pass-screen.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/tekka/tekka-pass-screen.png)
+![Tekka password screen](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/tekka/tekka-pass-screen.png)
 
 <details class="password">
   <summary>Password</summary>
@@ -146,23 +146,11 @@ arc/hive
 </details>
 
 This password was found through a connection with [In the Dark](../music/amo-in-the-dark),
-where the logo on the password screen stems from.
+where the logo on the password screen stems from. The password is no longer needed since the December 2024 update.
 
 ***
 
 ## Read More
-
-More from [📁 FOR SOF](../for-sof)
-
-Related files:
-
-- [Rebecca's Grumblr post](grumblr)
-- [LBR sites](lbr_sites)
-
-Related articles:
-
-- [ARC/HIVE](../lore/archive)
-- [Nex Gen Corporation](../lore/nex-gen-corporation)
 
 Related characters:
 
@@ -171,3 +159,15 @@ Related characters:
 - [Dallus Lauren](../characters/dallus-lauren)
 - [Karl Strassman](../characters/strassman)
 - [Victor Carmine](../characters)
+
+Related files:
+
+- [Rebecca's Grumblr post](grumblr)
+- [Second Grumblr post](grumblr2)
+- [LBR sites](lbr_sites)
+
+Related articles:
+
+- [ARC/HIVE](../lore/archive)
+- [Nex Gen Corporation](../lore/nex-gen-corporation)
+

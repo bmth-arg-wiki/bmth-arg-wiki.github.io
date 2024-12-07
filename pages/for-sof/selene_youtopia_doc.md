@@ -24,8 +24,6 @@ subject. She travels to the Y-93 dimension, also known as [Youtopia](../lore/you
 
 ## Document Contents
 
-### Gallery
-
 {% include content/info.html
 title="Official order unknown"
 content="This material was distributed in a physical folder. This included separate pages, which may have 
@@ -148,15 +146,21 @@ It’s primary purpose has been spiritual protection and purification, and our s
 
 ## Read More
 
-Files:
+Related characters:
+
+- [Selene](../characters/selene)
+- [Sof](../characters/sof)
+- [Scott](../characters/syko)
+
+Related files:
 
 - [Selene's map of Youtopia (document)](selenes_map)
 - [Selene's map interactive edition!](../map)
 - [Selene's diary](selene_personal_journal)
 - [Scott's diary](scott_personal_journal)
+- [Message for Sof](msgforsof)
 
-Characters:
+Related lore:
 
-- [Selene](../characters/selene)
-- [Sof](../characters/sof)
-- [Scott](../characters/syko)
+- [Sof's journal](../lore/journal)
+- [Nex Gen Corp.](../lore/nex-gen-corporation)

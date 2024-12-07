@@ -31,14 +31,6 @@ in on different portions of it.
 
 ## Document contents
 
-<details class="password">
-  <summary>Password</summary>
-
-grave
-</details>
-
-### Gallery
-
 {% include gallery.html folder="files/science_study/gallery" %}
 
 ***
@@ -211,17 +203,18 @@ Wrist has an anagram for the password in the song information.
 
 ## Read More
 
-More from [📁 FOR SOF](../for-sof)
-
-Related files:
-
-- [Unbeleevable video and leak](unbeleevable)
-
-Related articles:
-
-- [Mantra cult](../lore/mantra)
-
 Related characters:
 
 - [Skys](../characters/skys)
 - [Strassman](../characters/strassman) (through spiritual research)
+
+Related files:
+
+- [Unbeleevable Episode 1 & e-mail](unbeleevable)
+- [Unbeleevable Episode 2](unbeleevable2)
+
+Related articles:
+
+- [Mantra cult](../lore/mantra)
+- [ARC/HIVE Corp.](../lore/archive)
+- [Nex Gen Corp.](../lore/nex-gen-corporation)

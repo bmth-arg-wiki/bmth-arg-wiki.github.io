@@ -34,12 +34,6 @@ Artifacts mentioned in the insight documents, being "the Guardian Tears", "Abram
 
 ## Document contents
 
-<details class="password">
-  <summary>Password</summary>
-
-clive
-</details>
-
 ![Selene's map of Youtopia](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/selenes_map/map1.jpg)
 
 The regions, symbols and text on this map all refer to [the insights](../lore/insights), which seem
@@ -110,11 +104,17 @@ clive
 </details>
 
 The password refers to [M8](../m8)'s middle name, which is referenced in some lines she says
-in the sticky notes.
+in the sticky notes. Since the December 2024 update, the password is no longer needed to open the file.
 
 ## Read More
 
-More from [📁 FOR SOF](../for-sof)
+Related characters:
+
+- [Selene](../characters/selene)
+- [Sof](../characters/sof)
+- [Pan](../characters/pan)
+- [Miseria](../characters/miseria)
+- [Vanth](../characters/vanth)
 
 Related files:
 
@@ -128,11 +128,3 @@ Related files:
 Related articles:
 
 - [Insights](../lore/insights)
-
-Related characters:
-
-- [Selene](../characters/selene)
-- [Sof](../characters/sof)
-- [Pan](../characters/pan)
-- [Miseria](../characters/miseria)
-- [Vanth](../characters/vanth)

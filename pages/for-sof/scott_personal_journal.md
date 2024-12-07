@@ -19,19 +19,12 @@ next_text: "Operation_Trinity_Analysis"
 Document in the [FOR SOF](../for-sof) folder. The document discusses the outbreak of the VSPR-37 
 pandemic, which occurred in 2037. It has strong ties to the song [Dear Diary](../music/song-dear-diary). 
 
-We learn more about what happened after this journal in the [Kingslayer](kingslayercodec) file.
+The diary spans several days, from the 28th October where Scott gets infected with VSPR-37 until the day the virus overpowers 
+him on the 31st. We learn more about what happened to [Scott](../characters/scott) that day in the [Kingslayer codec](kingslayercodec).
 
 ***
 
 ## Document contents
-
-<details class="password">
-  <summary>Password</summary>
-
-0005
-</details>
-
-### Gallery
 
 {% include gallery.html folder="files/scott_diary/gallery" %}
 
@@ -108,19 +101,26 @@ virus…eatin away my humanity. Can feel it.
 0005
 </details>
 
-The password for this file is [Syko](../characters/syko)'s user number.
+The password for this file is [Syko](../characters/syko)'s user number. However, both the Kingslayer codec and 
+Sof's journal state that Scott is sadly dead. The relation to Syko, a character we see in Youtopia and the 
+[booklet](../lore/booklet), is currently unknown. As of December 2024, this file does not need a password anymore.
 
 ***
 
 ## Read More
 
-More from [📁 FOR SOF](../for-sof)
-
-Related articles:
-
-- [Selene's personal journal](selene_personal_journal)
-
 Related characters:
 
-- [Syko (Oliver Scott Sykes)](../characters/syko)
+- [Scott](../characters/scott)
+- [Syko](../characters/syko)
 - [Selene](../characters/selene)
+
+Related files:
+
+- [Selene's personal journal](selene_personal_journal)
+- [Kingslayer Codec](../for-sof/kingslayercodec)
+
+Related lore:
+
+- [Sof's journal](../lore/journal)
+- [Nex Gen Corp.](../lore/nex-gen-corporation)
