@@ -17,7 +17,9 @@ next_text: "Operation_Trinity_Analysis"
 > That face... that tasty face.. Tasty... itchy...
 
 Document in the [FOR SOF](../for-sof) folder. The document discusses the outbreak of the VSPR-37 
-pandemic, which occurred in 2037. It has strong ties to the song [Dear Diary](../music/song-dear-diary)
+pandemic, which occurred in 2037. It has strong ties to the song [Dear Diary](../music/song-dear-diary). 
+
+We learn more about what happened after this journal in the [Kingslayer](kingslayercodec) file.
 
 ***
 

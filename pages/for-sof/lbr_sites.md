@@ -4,7 +4,7 @@ description: "File from Strassman and someone redacted to Victor Carmine and yet
 The file described the LBR sites."
 categories: ["for-sof"]
 tags: ["arc/hive", "victor carmine", "karl strassman", "nex gen", "lesser banishing ritual", 
-       "for sof", "pentagram", "energy overload", "incident"]
+       "for sof", "pentagram", "energy overload", "incident", "dallus lauren", "runes"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/lbr_sites/lbr_site.png"
 previous: "for-sof/grumblr"
 previous_text: "GRUMBLR.Rebecca_Sinclair"
@@ -19,18 +19,20 @@ next_text: "GOXMOG_SIGHTINGS"
 This document speaks about an incident at [ARC/HIVE](../lore/archive) and measures taken 
 by [Nex Gen](../lore/nex-gen-corporation) to prevent more incidents.
 The letter is written by [Strassman](../characters/strassman) and another name seems to 
-be redacted.
-It is addressed to [Victor Carmine](../characters/victor-carmine) and another
-redaction follows.
+be redacted. [Sof's journal](../lore/journal) dates it to 2040.
+
+It is addressed to [Victor Carmine](../characters/victor-carmine), the head at Nex Gen and previously ARC/HIVE, and another
+redacted figure.
 
 ***
 
 ## About
 
 The `LBR_sites.Confidential.doc` file was originally introduced on the 7th of August 2024,
-before becoming unlockable on the 8th of August. It requires a [compass puzzle](#password-context) to open.
+before becoming unlockable on the 8th of August. It required a [compass puzzle](#password-context) to open.
 The puzzle became solvable in an update on the 8th of August, revealing a document
-about so-called [LBR sites](lbr_sites).
+about so-called [LBR sites](lbr_sites). Since the December 2024 update, the document has been accessible without 
+a password or puzzle.
 
 ***
 
@@ -107,8 +109,8 @@ This puzzle corresponds to the Insights on [Selene's map](selenes_map).
 
 Related articles:
 
-- [Nex Gen Corporation](../lore/nex-gen-corporation)
-- [ARC/HIVE](../lore/archive)
+- [Nex Gen Corp.](../lore/nex-gen-corporation)
+- [ARC/HIVE Corp.](../lore/archive)
 
 Related characters:
 
@@ -116,4 +118,4 @@ Related characters:
 - [Rebecca Sinclair](../characters/rebecca)
 - [Karl Strassman](../characters/strassman)
 - [Dallus Lauren](../characters/dallus-lauren)
-- [Victor Carmine](../characters#victor-carmine)
+- [Victor Carmine](../characters/victor-carmine)

@@ -13,7 +13,7 @@ next_text: "THEINSIGHTS.DOC"
 > I never believed in destiny, but now I see...
 > your destiny. You will be the one leads us out of this darkness.
 
-In this audio log Selene says goodbye to [SOF](../characters/sof) after just giving birth to her less 
+In this audio log [Selene](../characters/selene) says goodbye to [SOF](../characters/sof) after just giving birth to her less 
 than 20 minutes ago. A baby is softly crying/making noises in the background and water is running. 
 She tells SOF that she has to leave and that M8 has saved Selene's life a few times. 
 M8 might even have saved SOF's life one or multiple times by the time she hears this recording. 
@@ -21,9 +21,12 @@ She speaks on how M8's character is 'a little bit crazy', but that she will prot
 Selene says that M8 is hiding the past, but for good reason. 
 
 You can also hear thunder partway through the audio, which upsets the baby, causing Selene to soothe 
-her.
-She says that there is something she still needs to do. Near the end of the recording an alarm goes off, which prompts Selene to say that's her cue, 
-say a few more words goodbye and then end the recording.
+her. She says that there is something she still needs to do. Near the end of the recording an alarm goes off, 
+which prompts Selene to say that's her cue, say a few more words goodbye and then end the recording.
+
+From the [lore booklet](../lore/booklet) and [Sof's journal](../lore/journal) we learn more about what happened to Sof 
+after she was born in 2040. They are a demi-god who was raised by M8 and is now discovering their true origins 
+through the documents left by Selene, who they resent for it.
 
 ***
 
@@ -34,6 +37,8 @@ This file is not password protected. This file is very lore-heavy and will intro
 the premise of the ARG: we are exploring the files Selene left for her daughter.
 
 ![Audio player in the FOR SOF folder](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/msgforsof/msgforsof-player.png)
+
+Please note that the message has been moved and now looks different on the website since December 2024.
 
 ***
 
@@ -98,8 +103,11 @@ Related files:
 Related articles:
 
 - [Nex Gen Corporation](../lore/nex-gen-corporation)
+- [Sof's journal](../lore/journal)
+- [Lore booklet](../lore/booklet)
 
 Related characters:
 
 - [Selene](../characters/selene)
 - [Sof](../characters/sof)
+- [M8](../m8)

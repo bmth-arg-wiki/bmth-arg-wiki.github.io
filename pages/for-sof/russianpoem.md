@@ -16,8 +16,7 @@ next_text: "Kngsl@yer_EncrypMsg"
 > "In the silence of the palace, a moonbeam shines through the windows"
 
 This file was unlocked on the 30th of June 2024, after being released 
-on the 7th of June. 
-"дорогая моя любовь" roughly translates to "my dear love".
+on the 7th of June. "дорогая моя любовь" roughly translates to "my dear love".
 
 Sof estimates the date of the letter to be between 2004 and 2020, specifically referring to the years
 [Skys & the Starjammers](skystarjammers) played at October Palace and the year of [Operation Trinity](trinity_document) 
@@ -107,8 +106,6 @@ The password was found by taking multiple pieces of a letter from an
 [Instagram post](https://www.instagram.com/p/C-DhcBaC4NP/) and combining them to form the code.
 
 ![Re-constructed password letter](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/russian_poem/clue.png)
-
-The shadows behind the numbers seem different, but nothing has resulted from this at the time of writing.
 
 ***
 

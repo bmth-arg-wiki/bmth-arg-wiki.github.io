@@ -19,7 +19,11 @@ next_text: "SCISTUDYSCAN1999wrist"
 
 This file contains a research proposal from [ARC/HIVE](../music/amo-in-the-dark) 
 for several projects. The initial proposal was finished or sent on the 15th of January 2021, 
-then the document was declassified by Nex Gen exactly 10 years later.
+then the document was declassified by the company re-branded Nex Gen exactly 10 years later in 2031.
+
+The lead scientist on this project was Dr. Elias Mortem, a scientist who was slaughtered in the [Chapel Incident](chapel) 
+in 2040, along with their team. Sof even remarks in [their journal](../lore/journal) that this may have been a consequence 
+of their research on Project D.U.S.T.
 
 ***
 
@@ -28,7 +32,7 @@ then the document was declassified by Nex Gen exactly 10 years later.
 This file was added along the previous issue 51 of Tekka magazine on the 25th of June 2024.
 The file contains a research proposal for [several projects](project_dust). The password
 was found in an instagram post, where the characters appeared. The last two characters were
-switched.
+switched. Since December 2024, it does not require a password anymore.
 
 ***
 

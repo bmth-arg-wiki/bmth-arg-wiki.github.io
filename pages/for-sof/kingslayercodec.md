@@ -16,27 +16,24 @@ next_text: "GRUMBLR.Rebecca_Sinclair"
 
 > Biohazard protocols are in effect.
 
-The Kingslayer file opens to a puzzle you have to solve in 7:55 minutes, which then opens a password screen with a 30 seconds timer. 
-
-The video is a brief radio call between "Spectre" and "Overwatch". They are following NYX 01 [(Selene)](../characters/selene) and NYX 02 [(Scott)](../characters/syko) closely before Spectre gets the FANTOM team to engage.
+The video is a brief radio call between "Spectre" and "Overwatch". They are following NYX 01 [(Selene)](../characters/selene) 
+and NYX 02 [(Scott)](../characters/syko) closely before Spectre gets the FANTOM team to engage. It takes place after the events 
+of [Scott](../for-sof/scott_personal_journal) and [Selene's journals](../for-sof/selene_personal_journal), when Selene 
+goes to visit a sick Scott at his house.
 
 ***
 
 ## About
 
 This file was originally between `Posthuman_Prototype_Alpha.mp3` and `YOUTOPIA_Archangels_Secrets.docx`.
-It was updated on August 2nd, getting its current position in the list and a puzzle to unlock.
-
-This file with a puzzle and a password.
-Also see the [walkthrough](../walkthrough/walkthrough2)
-for help cracking this file.
+It was updated on August 2nd, getting its current position in the list and a puzzle to unlock. The file is 
+freely accessible since the December 2024th update.
 
 ***
 
 ## Document contents
 
 {% include content/video.html link="https://drive.google.com/file/d/1iXxAKzvsej_wO7Vs5CnXIyh5hC6wSt1J/preview" %}
-
 
 ***
 
@@ -125,6 +122,8 @@ title="The Kingslayer Puzzle"
 content="The puzzle is very time-consuming, and the password screen only allows very little time to enter the password after you click check. So keep the password ready!"
 %}
 
+The Kingslayer file used to open to a puzzle you have to solve in 7:55 minutes, which then opens a password screen with a 30 seconds timer.
+
 <details class="password">
 <summary>Password</summary>
 23.2907 (sum of the numbers on the pieces)
@@ -164,6 +163,7 @@ Related file:
 Related articles:
 
 - [Nex Gen](../lore/nex-gen-corporation)
+- [Sof's journal](../lore/journal)
 
 Related characters:
 
