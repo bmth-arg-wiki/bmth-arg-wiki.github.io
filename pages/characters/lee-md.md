@@ -4,7 +4,7 @@ description: "Dr Lee MD is the eccentric presentator of the show Unbeleevable an
 Nex Gen."
 categories: ["characters"]
 tags: ["lee md", "madman", "lee malia", "bring me the horizon", "unbeleevable", "bmth"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/refs/heads/main/characters/lee-md/lee-300x300.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/lee-md/lee-300x300.png"
 ---
 
 # Dr. Lee MD
