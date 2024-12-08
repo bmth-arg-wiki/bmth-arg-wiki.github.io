@@ -3,13 +3,12 @@ title: "Dallus' Diary"
 description: "This page is about Dallus's diary"
 categories: ["for-sof"]
 tags: ["dallus", "nex gen", "file", "lore", "diary", "arg", "bmth"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/dallus-diary/diary-300x300.png"
 previous: "for-sof/goxmog"
 previous_text: "GOXMOG_SIGHTING.zip"
 ---
 
 # Dallus' Diary
-
-> More content coming soon!
 
 The diary tells us more about how Dallus ended up working with [Skys](../characters/skys), [Strassman](../characters/strassman) 
 and [Victor Carmine](../characters/victor-carmine). Apparently Skys did something to Dallus Lauren at the Skys & the Starjammers 
@@ -37,6 +36,11 @@ It was released without a password on the 4th of December 2024.
 
 ***
 
+## Document contents
+
+{% include gallery.html folder="files/dallus-diary/gallery" %}
+
+***
 
 ## Sof's Journal
 

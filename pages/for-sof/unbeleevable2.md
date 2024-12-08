@@ -3,6 +3,7 @@ title: "Unbeleevable Ep.2"
 description: "This page is about the second installment of the UNBELEEVABLE docu-series, created by Dr. Lee M.D."
 categories: ["for-sof"]
 tags: ["unbeleevable", "lee", "nex gen"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/lee-md/lee-300x300.png"
 previous: "for-sof/skys-diary"
 previous_text: "Skys' Diary"
 ---

@@ -3,6 +3,7 @@ title: "Grumblr 2"
 description: "This page is about another Grumblr entry from Rebecca."
 categories: ["for-sof"]
 tags: ["nex gen", "rebecca", "grumblr", "mindflix", "skys", "synth", "lauren", "strassman"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/grumblr2/grumblr-300x300.png"
 previous: "for-sof/book-of-eclipse"
 previous_text: "Book of Eclipse"
 next: "for-sof/skys-diary"
@@ -24,6 +25,12 @@ This file was hidden behind a music notes puzzle, released on the 4th of Decembe
 and lots of new content. The file is the second [Grumblr](grumblr) post from [Rebecca Sinclair](../characters/rebecca) and 
 details her work with [Strassman](../characters/strassman) and [Dallus Lauren](../characters/dallus-lauren), as well as 
 an unpleasant encounter with [Skys](../characters/skys).
+
+***
+
+## Document contents
+
+{% include gallery.html folder="files/grumblr2/gallery" %}
 
 ***
 

@@ -7,7 +7,7 @@ previous: "for-sof/grumblr2"
 previous_text: "Grumblr 2"
 next: "for-sof/unbeleevable2"
 next_text: "Unbeleevable episode 2"
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/unknown.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/skys-diary/diary-300x300.png"
 ---
 
 # Skys' Diary
@@ -15,6 +15,13 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 In [Skys](../characters/skys)' diary we learn more about his earlier life. From the Unbeleevable episodes we already 
 know that Skys was kicked out at a young age and that a man named Alby and his community took him in. The diary 
 details what Skys went through during this period and how he came to be known as Skys.
+
+***
+
+## Document contents
+
+![Skys diary (original)](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/skys-diary/skysdiary1.png)
+![Skys diary (English translation)](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/skys-diary/skysdiary2.png)
 
 ***
 
