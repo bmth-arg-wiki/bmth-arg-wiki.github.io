@@ -156,5 +156,5 @@ full capabilities of the wi-fi.
 ## Read More
 
 - [FOR SOF file folder](for-sof)
-- [Web browser (Spyder)](lore/webbrowser.md)
+- [Web browser (Spyder)](lore/webbrowser)
 - [Other webpages](other-webpages)
