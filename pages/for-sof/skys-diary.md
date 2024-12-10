@@ -1,24 +1,30 @@
 ---
 title: "Skys's Diary"
-description: "This page is about Skys' diary"
+description: "This page is about Skys' diary, which he writes early in his time in Inglaterra."
 categories: ["for-sof"]
 tags: ["nex gen", "skys", "mantra"]
-previous: "for-sof/grumblr2"
-previous_text: "Grumblr 2"
-next: "for-sof/unbeleevable2"
-next_text: "Unbeleevable episode 2"
+next: "for-sof/grumblr2"
+next_text: "Grumblr 2"
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/skys-diary/diary-300x300.png"
 ---
 
 # Skys' Diary
 
-In [Skys](../characters/skys)' diary we learn more about his earlier life. From the Unbeleevable episodes we already 
-know that Skys was kicked out at a young age and that a man named Alby and his community took him in. The diary 
+> All I remember was the skys above me, watching me, like it was the only thing that didn’t look away.
+
+In [Skys](../characters/skys)' scrapbook entry, we learn more about his early life. From the Unbeleevable episodes we already 
+knew that Skys was kicked out at a young age and that a man named Alby and his community took him in. The diary 
 details what Skys went through during this period and how he came to be known as Skys.
 
 ***
 
-## Document contents
+## About
+
+This file dropped on December 4th 2024 in the inventory folder, and is behind the inventory's tricky locks puzzle.
+
+***
+
+## Gallery
 
 ![Skys diary (original)](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/skys-diary/skysdiary1.png)
 ![Skys diary (English translation)](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/skys-diary/skysdiary2.png)
@@ -30,9 +36,9 @@ details what Skys went through during this period and how he came to be known as
 ### Translation
 
 > ### Skys’ 1st Scrapbook Entry
+>
 > 
-> 
-> [Left page:]
+> ### Left page
 >
 > 
 > Found this book in a broken place. Thought I’d maybe write stuff down. Like anyone gonna care what I seen or what 
@@ -60,16 +66,15 @@ details what Skys went through during this period and how he came to be known as
 >
 > 
 > [Piece of paper taped at the bottom of the page that reads: “Heaven of Hell?”]
->
->
-> [Right page:]
+
+> ### Right page
 >
 >
 > Then one day, there was nowhere else to go. I got to the sea, just watching the water, thinkin’ maybe it should walk 
 > into it. Hid on a big ship there, in a crate with boxes. Lived off crumbs, sometimes rats. Sometimes rats lived off me. 
 > Sometimes rats lived off me. Only thing I could see for weeks was the skys through a crack in the box. All I remember 
-> was the skys above me,-
-> -watching me, like it was the only thing that didn’t look away. So when I got to the new world, I told them my name was Skys.
+> was the skys above me,watching me, like it was the only thing that didn’t look away. 
+> So when I got to the new world, I told them my name was Skys.
 >
 > 
 > I ended up in a place called Ingleterra. They was in war with Novosovia and a place real far called Colombia. 
@@ -91,25 +96,36 @@ details what Skys went through during this period and how he came to be known as
 >
 > Don’t know if I’ll stay. I’m scared they’ll turn on me, like all the rest. But for now… maybe I got somewhere to be.
 >
-> >
+> 
 > [Piece of paper taped at the bottom of the page that reads: 02 22 3 8]
 
 Transcription by Alec
 
 ***
 
+## Password context
+
+<details class="password">
+  <summary>Password</summary>
+
+1. Push the first four locks one by one until they spin with the first tool (medium-sized one)
+
+2. Push the big lock until it spins with the second tool (big one)
+
+3. Push the four smallest locks one by one until they spin on the right with the third tool (smallest one)
+
+Tip: you have to be VERY gentle.
+</details>
+
+***
+
 ## Read More
+
+More [files](for-sof)!
 
 Related characters:
 
 - [Skys](../characters/skys)
-
-Other puzzle files:
-
-- [Book of Eclipse](book-of-eclipse)
-- [Grumblr second entry](grumblr2)
-- [Skys' diary](skys-diary)
-- [Unbeleevable episode 2](unbeleevable2)
 
 Related files:
 
@@ -121,9 +137,15 @@ Related files:
 - [Book of Eclipse](book-of-eclipse)
 - [Rebecca's second Grumblr post](grumblr2)
 
+Other puzzle files:
+
+- [Grumblr second entry](grumblr2)
+- [Book of Eclipse](book-of-eclipse)
+- [Unbeleevable episode 2](unbeleevable2)
+
 Related lore:
 
-- [Cult of Mantra](../lore/mantra)
+- [Cult of MANTRA](../lore/mantra)
 - [ARC/HIVE Corp.](../lore/archive)
 - [Nex Gen Corp.](../lore/nex-gen-corporation)
 - [Church of Genxsis](../lore/church)

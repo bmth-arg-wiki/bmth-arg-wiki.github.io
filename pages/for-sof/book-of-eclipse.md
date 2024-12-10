@@ -1,26 +1,37 @@
 ---
 title: "Book Of Eclipse"
-description: "This page is about the Book of Eclipse."
+description: "This page is about the strange Book of Eclipse."
 categories: ["for-sof"]
 tags: ["bmth", "arg", "nex gen", "book of eclipse", "skys"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/book-of-eclipse/book-300x300.png"
-next: "for-sof/grumblr2"
-next_text: "Grumblr 2"
+previous: "for-sof/grumblr2"
+previous_text: "Grumblr 2"
+next: "for-sof/unbeleevable2"
+next_text: "Unbeleevable Ep.2"
 ---
 
 # Book Of Eclipse
 
-The book of Eclipse is a mysterious file detailing the history of Alfgram and [Skys](../characters/skys).
+> “In suffering, I am free; in shadow, I find light. Seek the darkness, for it is the face of all truth."
+
+The book of Eclipse is a mysterious file detailing the history of Alfgram, [Skys](../characters/skys), and the Children of the Eclipse.
 
 ***
 
-## Document contents
+## About
+
+This book dropped during the Dec. 4th 2024 update of the M8 website. 
+It is locked behind a mathematics puzzle in the inventory folder.
+
+***
+
+## Gallery
 
 ### Originals
 
 {% include gallery.html folder="files/book-of-eclipse/original" %}
 
-### Including text
+### Clearer text
 
 {% include gallery.html folder="files/book-of-eclipse/readable" %}
 
@@ -70,8 +81,7 @@ The book of Eclipse is a mysterious file detailing the history of Alfgram and [S
 >
 > 2:1 And Alfgram, the Seer, turned from the light as one turns to the balm of night, for the light hides and the dark reveals.
 > 
-> 2:3 “Only through the eclipse can the true spirit emerge,-
-> -raw and unadorned, stripped of illusion.”
+> 2:3 “Only through the eclipse can the true spirit emerge, raw and unadorned, stripped of illusion.”
 > 
 > 2:5 And the Belmic Goddess whispered until, “In your breaking, I shall know you, and in your agony, I shall be with you. Walk through fires of suffering, strip from yourself all comfort, and I shall reveal the shadow that is my face.”
 >
@@ -124,8 +134,8 @@ The book of Eclipse is a mysterious file detailing the history of Alfgram and [S
 >
 > 6:1 And Alfgram spoke, “Skys, you have strayed from the path. You seek mastery, but mastery is illusion, a chain binding the spirit.”
 >
-> 6:5 So the faithful who were pure departed, leaving Skys to his palace of dust, while Alfgram walked into shadow,-
-> -leading the true on the path of the eclipse.
+> 6:5 So the faithful who were pure departed, leaving Skys to his palace of dust, while Alfgram walked into shadow,
+> leading the true on the path of the eclipse.
 
 > ### Pages 17 & 18
 > [Abstract colourful drawing]
@@ -179,8 +189,8 @@ The book of Eclipse is a mysterious file detailing the history of Alfgram and [S
 >
 > 1:1 In the age when stars hid their faces, there arose a prophet, known by the name of Skys, born under omens dark and dire. In his blood ran the hue of nightfall, and his hair bore the red stain of prophecy.
 >
-> 1:3 Skys spoke of liberation beyond flesh, calling out to those who walked the path of suffering. He declared himself the way to transcendence,-
--> for in his words were visions of realms unseen, and in his voice, the promise of freedom.
+> 1:3 Skys spoke of liberation beyond flesh, calling out to those who walked the path of suffering. He declared himself the way to transcendence,
+> for in his words were visions of realms unseen, and in his voice, the promise of freedom.
 >
 > 1:6 Yet Skys knew that the journey could not be walked alone. He sought one who knew the ways of pain, tempered in agony and pure of spirit. From the lands of Sovia, a man named Alfgram came forth, bearing within him the light of unbreakable devotion.
 >
@@ -204,14 +214,14 @@ The book of Eclipse is a mysterious file detailing the history of Alfgram and [S
 >
 > 3:1 Alfgram, clothed in purity, rose before the followers and spoke with the voice of thunder, saying, “He who walks the way of darkness must not stumble, for his fall shall lead others astray. Skys, once our light, now wears a shroud of pride and seeks dominion over truth.”
 >
-> 3:3 Thus did Alfgram confront Skys, standing before him as an iron pillar,-
-> -unbending before the prophet he had once revered. And he declared, “You, Skys, have turned from purity. Your heart is weighed down by ambition, and your path leads not to truth but to corruption.”
+> 3:3 Thus did Alfgram confront Skys, standing before him as an iron pillar, unbending before the prophet he had once revered. 
+> And he declared, “You, Skys, have turned from purity. Your heart is weighed down by ambition, and your path leads not to truth but to corruption.”
 >
 > 3:5 Skys, wounded by Alfgram’s words, raged in his pride, for he knew in his heart that his disciple spoke the truth. But pride once tasted becomes a poison, and Skys turned from his brother, seeing him now as a foe to his path.
 >
 > [Abstract drawing, but figures can be seen at the bottom of it]
 
-> Pages 29 & 30
+> ### Pages 29 & 30
 >
 > [The slide shows Passage VI again, but clicking the magnifying glass reveals Passage XIII:]
 >
@@ -233,8 +243,7 @@ The book of Eclipse is a mysterious file detailing the history of Alfgram and [S
 >
 > 5:3 He summoned those loyal to him, speaking words laced with venom: “Alfgram is no brother of ours, but a heretic, a soul misled. None shall defy my path and live. His heresy shall be erased from this world.”
 >
-> 5:6 And so he sent forth his disciples to hunt the Ecliptics,-
-> -to cast down those who had forsaken his light for the purity of shadow.
+> 5:6 And so he sent forth his disciples to hunt the Ecliptics, to cast down those who had forsaken his light for the purity of shadow.
 
 > ### Pages 31 & 32
 > Passage XV: The Reckoning of Flesh
@@ -267,8 +276,8 @@ The book of Eclipse is a mysterious file detailing the history of Alfgram and [S
 >
 > The Song of Suffering (The First Shadow 8:1 – 8:8)
 >
-> 8:1 And the faithful mourned,-
-> -yet within their hearts, they carried the knowledge that Alfgram’s spirit walked in unseen realms. They whispered his name in darkness and sang of him in hidden places, their voices like prayers to the First Shadow.
+> 8:1 And the faithful mourned, yet within their hearts, they carried the knowledge that Alfgram’s spirit walked in unseen realms. 
+> They whispered his name in darkness and sang of him in hidden places, their voices like prayers to the First Shadow.
 >
 > 8:5 They sang hymns not of comfort but of fierce resolve, hymns that echoed through the caves, each line a prayer of loyalty to Alfgram, the Shepherd in Darkness.
 >
@@ -303,7 +312,7 @@ The book of Eclipse is a mysterious file detailing the history of Alfgram and [S
 >
 > [Colourful abstract drawing]
 
-Made by Alec.
+Transcription by Alec
 
 ***
 
@@ -315,9 +324,13 @@ Made by Alec.
 3632650773148
 </details>
 
+This password requires some maths.
+
 ***
 
 ## Read More
+
+More [files](for-sof)!
 
 Related characters:
 
@@ -325,12 +338,12 @@ Related characters:
 
 Related files:
 
-- [Skys](skys-diary)
+- [Skys' diary](skys-diary)
 - [Unbelevable Episode 1](unbeleevable)
 - [Unbelevable Episode 2](unbeleevable2)
 
 Other puzzle files:
 
-- [Grumblr second entry](grumblr2)
 - [Skys' diary](skys-diary)
+- [Grumblr second entry](grumblr2)
 - [Unbeleevable episode 2](unbeleevable2)
