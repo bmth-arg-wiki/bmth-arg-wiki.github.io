@@ -53,6 +53,12 @@ project D.U.S.T. file, repeatedly being exposed to them.
 
 ## Read More
 
+Related characters:
+
+- [Ikaro Lauren (Ren)](ren)
+- [Lyra Lauren](lyra-lauren)
+- [Elena Lauren](elena-lauren)
+
 More on the Trinity:
 
 - [The Trinity (characters)](../characters#trinity)

@@ -19,19 +19,20 @@ next_text: "DREADITScreenshot"
 > continues. We are making the mother of all omelettes here, Karl. 
 > We can’t fret over a few broken eggs
 
-A document in the [FOR SOF](../for-sof) folder. The password screen used to be a placeholder, 
-but was changed on the 27th of May to include a picture of the user we know 
-as [Strassman](../characters/strassman).
-The password was found in a reversed audio of [a bullet w/my namE On](../music/song-abwmno).
+This is one of the very first files from the ARG, appearing in the first week. It sets the 
+tone for the ARG, with scientist [Strassman](../characters/strassman) reporting on dangerous conditions 
+resulting from their experiments, with [EVE](../characters/eve) responding in a cold manner.
+
+From [Sof's journal](../lore/journal) we learn that this conversation took place in 2039, after their mother [Selene](../characters/selene) 
+[first entered Youtopia](selene_youtopia_doc). It is likely that this conversation took place before 
+[P.U.S.S-E](../lore/pusse) entered mass production.
 
 ***
 
 ## About
 
-This file is a conversation between EVE and Strassman. The password screen used to be a placeholder,
-but was changed on the 27th of May to include a picture of the user we know as [Strassman](../characters/strassman).
-
-![Password screen](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/strassman-pass-screen.png)
+This file is a conversation between EVE and Strassman, released on the 27th of May 2024. The password was also 
+discovered on this day.
 
 ***
 
@@ -100,13 +101,20 @@ This transcription was compiled by users from the BMTH ARG Discord server.
 
 ## Password context
 
+![Password screen](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/strassman-pass-screen.png)
+
 <details class="password">
   <summary>Password</summary>
 
 karl strassman
 </details>
 
-This password was found in audio from [Top 10 staTues tHat CriEd bloOd (song)](../music/song-top10).
+A document in the [FOR SOF](../for-sof) folder. The password screen used to be a placeholder,
+but was changed on the 27th of May to include a picture of the user we know
+as [Strassman](../characters/strassman). In December 2024 the website was overhauled and
+the password requirement disappeared entirely.
+
+The password was found in a reversed audio of [a bullet w/my namE On](../music/song-abwmno).
 
 ***
 

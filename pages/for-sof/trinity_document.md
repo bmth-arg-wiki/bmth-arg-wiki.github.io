@@ -18,15 +18,19 @@ next_text: "ISSUE-51-fromhelltoshell"
 > "It is said that Trinity is intact."
 
 This file was introduced in an update on 19-06-2024. It confirms that there is lore for the 
-ARG hidden in BMTH's music since [Amo](../music/amo).
-It was the first reveal that the [MANTRA cult](../lore/mantra) was a part of the story.
+ARG hidden in BMTH's music since [Amo](../music/amo). It was the first reveal that the [MANTRA cult](../lore/mantra) 
+was a part of the story.
+
+The Trinity refers to [Dallus Lauren](../characters/dallus-lauren), [Karl Strassman](../characters/strassman) and 
+Mantra cult leader [Skys](../characters/skys). The operation was ordered by [Victor Carmine](../characters/victor-carmine), 
+the boss at [ARC/HIVE](../lore/archive) and the re-branded company as [Nex Gen Corporation](../lore/nex-gen-corporation).
 
 ***
 
 ## About
 
 This file was added in an update on 19/06/2024 and the password was found on the same day. This document 
-confirmed that one of the system users was involved in the so-called [trinity](../characters/characters#trinity).
+confirmed that one of the system users was involved in the so-called Trinity.
 
 ***
 
@@ -67,14 +71,15 @@ confirmed that one of the system users was involved in the so-called [trinity](.
 
 (Translation by @siensto and @beelzs_son on Discord)
 
-The article explains the importance of the [three key figures](../characters#trinity) 
-and their research, which we learn more about in other files.
+The article explains the importance of the three key figures  and their research, which we learn more about in other files.
 [Rebecca Sinclair](../characters/rebecca) is also asked about [Operation Trinity](trinity_document), 
 but is not eager to answer questions asked by interviewer Jax Jackson in the [Tekka interview](tekka_interview).
 
 Note that we learn from the [Project D.U.S.T research proposal](project_dust) 
 that six children with special psychic powers were also recovered during Operation Trinity, 
-information that was unknown to the writer of this document.
+information that was unknown to the writer of this document. [Dallus' diary](dallus-diary), which takes place 
+shortly after the operation, also tells us [Elena Lauren](../characters/elena-lauren) went into labour with 
+their daughter [Lyra](../characters/lyra-lauren) while fleeing, with her eventually being born safely at ARC/HIVE.
 
 ***
 
@@ -95,13 +100,20 @@ there is no submit button.
 " | markdownify }}
 </details>
 
-![trinity password](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/trinity/trinity_password.png)
+![Trinity password](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/trinity/trinity_password.png)
+
+The password is no longer required since an update in December 2024.
 
 ***
 
 ## Read More
 
-More from [📁 FOR SOF](../for-sof)
+Related characters:
+
+- [Karl Strassman](../characters/strassman)
+- [Dallus Lauren](../characters/dallus-lauren)
+- [Elena Lauren](../characters/elena-lauren)
+- [Skys](../characters/skys)
 
 Related files:
 
@@ -109,17 +121,15 @@ Related files:
 - [Ikaro Lauren log](lauren_d8_log)
 - [Tekka Interview](tekka_interview)
 - [Project D.U.S.T.](project_dust)
-- [Unbeleevable](unbeleevable)
+- [Unbeleevable Episode 1](unbeleevable)
+- [Unbeleevable Episode 2](unbeleevable2)
 - [LBR sites letter](lbr_sites)
+- [Dallus' Diary](dallus-diary)
+- [Skys' Diary](skys-diary)
+- [Second Grumblr entry](grumblr2)
 
 Related articles:
 
 - [In the Dark & ARC/HIVE](../music/amo-in-the-dark)
 - [Mantra cult & joinmantra.org](../lore/mantra)
 - [MANTRA (song)](../music/amo-mantra)
-
-Related characters:
-
-- [Karl Strassman](../characters/strassman)
-- [Dallus Lauren](../characters/dallus-lauren)
-- [Skys](../characters/skys)

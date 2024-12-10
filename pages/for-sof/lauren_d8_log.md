@@ -17,8 +17,10 @@ next_text: "Scott_Personal_Journal"
 
 > "Be mindful Ikaro, lest you be consumed by the very brilliance you seek to harness."
 
-Document in the [FOR SOF](../for-sof) folder. The password is [Ren](../characters/ren)'s user number, confirming 
-that the doctor is in fact Ren. The document itself also supports this.
+Document in the [FOR SOF](../for-sof) folder, detailing the genesis of [EVE](../characters/eve). It's also the first 
+day of operation for D8, an AI assistant [Dallus' diary](dallus-diary) tells us is the first made by Ren as part 
+of the RO8OT line. The first day of operation for D8 is the same day as the log, the 24th of October 2037, shortly 
+before the outbreak of VSPR-37.
 
 ***
 
@@ -169,6 +171,7 @@ Related files:
 - [Dreadit post](dreadit)
 - [R8 document](r8)
 - [LBR sites letter](lbr_sites)
+- [Dallus Diary](dallus-diary)
 
 Related articles:
 
@@ -180,3 +183,4 @@ Related Characters:
 - [Ikaro Lauren](../characters/ren)
 - [Dallus Lauren](../characters/dallus-lauren)
 - [EVE](../characters/eve)
+- [M8](../m8)

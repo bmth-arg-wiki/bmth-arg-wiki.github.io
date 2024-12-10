@@ -21,11 +21,23 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/f
 {% include info.html
 title="Beware spoilers!"
 icon="fa-solid fa-lock-open"
-content="This article contains heavy spoilers, unlike our [walkthrough](../walkthrough/walkthrough)!"
+content="This article contains heavy spoilers. A new walkthrough will be added later, since the December 2024 made the 
+previous walkthrough redundant. Of course we will preserve this walkthrough in case you want to visit the old website 
+on the wayback machine."
 %}
 
 This page provides an overview of all files related to the ARG. Most of them were obtained 
-from the [website](../webpage), but others were distributed physically only (although that might still change).
+from the [website](../webpage) in the FOR SOF folder, but there are a few exceptions we will discuss.
+
+***
+
+## Inventory documents
+
+Since the December 2024 update, there is now an inventory on the [webpage](../webpage). This inventory contains 
+four puzzles, which have all been unlocked. This update also included the release of [Dallus' diary](dallus-diary).
+
+{% assign page_links = '/pages/for-sof/book-of-eclipse, /pages/for-sof/grumblr2, /pages/for-sof/skys-diary, /pages/for-sof/unbeleevable2' | split: ", " %}
+{% include page-card-gallery.html links=page_links %}
 
 ***
 
@@ -37,7 +49,8 @@ from the [website](../webpage), but others were distributed physically only (alt
 The following documents were obtained at the Nex Gen pop-up shops, where the [wi-fi](../lore/wifi) password 
 was also found. The USB distributed in the pop-up shops contained the `Chapel.mp4` video, while the physical 
 document folders that were handed out and hidden around the shops contained a document about [Selene](../characters/selene)'s 
-first visits to [Youtopia](../lore/youtopia).
+first visits to [Youtopia](../lore/youtopia). While the Chapel video has been released on the website, the document about 
+Selene entering Youtopia still seems to be missing.
 
 ***
 
@@ -46,20 +59,22 @@ first visits to [Youtopia](../lore/youtopia).
 `FOR SOF` is a folder in the ARG that can be accessed on the computer. It is password 
 protected and was found on 26-05-2024. It requires a password.
 
-M8 says "You have 132 documents and one audio log" when you open the folder. This doesn't 
-match the contents of what we see (at least not yet).
+<details class="password">
+<summary>Password</summary>
+
+past
+</details>
 
 ### Unlocked files
 
-{% assign page_links = '/pages/for-sof/msgforsof, /pages/lore/insights, /pages/lore/insight1-connection, /pages/lore/insight2-empathy, /pages/lore/insight3-purpose, /pages/lore/insight4-vision, /pages/for-sof/capslock_doc, /pages/for-sof/dallus-diary, /pages/for-sof/strassmancodec, /pages/for-sof/dreadit, /pages/for-sof/selenes_map, /pages/for-sof/r8, /pages/for-sof/selene_personal_journal, /pages/for-sof/lauren_d8_log, /pages/for-sof/scott_personal_journal, /pages/for-sof/trinity_document, /pages/for-sof/tekka_interview, /pages/for-sof/project_dust, /pages/for-sof/thesciencestudy, /pages/for-sof/skystarjammers, /pages/for-sof/unbeleevable, /pages/for-sof/russianpoem, /pages/for-sof/kingslayercodec, /pages/for-sof/grumblr, /pages/for-sof/lbr_sites, /pages/for-sof/goxmog' | split: ", " %}
+These are the files in release order in the folder.
+
+{% assign page_links = '/pages/for-sof/msgforsof, /pages/lore/insights, /pages/lore/insight1-connection, /pages/lore/insight2-empathy, /pages/lore/insight3-purpose, /pages/lore/insight4-vision, /pages/for-sof/capslock_doc, /pages/for-sof/dallus-diary, /pages/for-sof/strassmancodec, /pages/for-sof/dreadit, /pages/for-sof/selenes_map, /pages/for-sof/r8, /pages/for-sof/selene_personal_journal, /pages/for-sof/lauren_d8_log, /pages/for-sof/scott_personal_journal, /pages/for-sof/trinity_document, /pages/for-sof/tekka_interview, /pages/for-sof/project_dust, /pages/for-sof/thesciencestudy, /pages/for-sof/skystarjammers, /pages/for-sof/unbeleevable, /pages/for-sof/russianpoem, /pages/for-sof/kingslayercodec, /pages/for-sof/grumblr, /pages/for-sof/lbr_sites, /pages/for-sof/goxmog, /pages/for-sof/dallus-diary' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ### Locked files
 
-`Recovered_Chapel.MP4` was added on 26/09, the password is still unknown. Due to 
-developments around the pop up shops and the wi-fi password we are currently waiting.
-
-These files currently all use [placeholder](#placeholders) screens.
+These files have all appeared at some point in the ARG and have not been opened.
 
 - Selene_Journey_Log_01/midname?.memo
 - Posthuman_Prototype_Alpha.mp3
@@ -97,12 +112,11 @@ These files currently all use [placeholder](#placeholders) screens.
 
 ![Password screen for most files](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/old_placeholder.png)
 
-When the website updates, new password screens are introduced for files, indicating that 
-they can now be unlocked. The specific screens will show the number of characters to input, 
-as well as any spaces. Evidence strongly suggests that files can not be unlocked before new 
-updates have occurred, although this has not been confirmed by the devs.
+Files used to be hidden behind password screens in the `FOR SOF` folder, but the newest version of the 
+website has the user solve the puzzles from the inventory. The placeholder screeen displayed above 
+is an older screenshot of the website, where each file got a custom password screen in the folder itself.
 
-As of 29/05/2024, the prompt at the top has been changed to "password_?" instead of 
+On the 29th of May 2024, the prompt at the top was changed to "password_?" instead of 
 "insight_?".
 
 ### Corrupt files
@@ -121,9 +135,10 @@ If you click on any of these, M8 will tell you one of the following phrases:
 
 ![Corrupted files screen](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/corrupted_files.png)
 
-After the update on 26/05/2024, corrupted files showed the following screen. In the next version 
-corrupted files could still be scrolled to using the arrow keys, before the corrupted files 
-seemingly disappeared from the folder.
+After the update on 26th May 2024, corrupted files showed the following screen for a few months. In the next version 
+corrupted files could still be scrolled to using the arrow keys, before the corrupted files seemingly disappeared from 
+the folder. After the overhaul in December 2024, corrupt files now don't display a screen and only trigger a voiceline from 
+[M8](../m8).
 
 After the update on 30/05/2024, the corrupted files became visible again, this time 
 with arrows buttons and page numbers 1-5.
@@ -135,5 +150,3 @@ with arrows buttons and page numbers 1-5.
 - [Character overview](../characters/characters)
 - [Lore overview](../lore/lore)
 - [Music overview](../music/music)
-- [Walkthrough: Website](../walkthrough/walkthrough)
-- [Walkthrough: FOR SOF](../walkthrough/walkthrough2)

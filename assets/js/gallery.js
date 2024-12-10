@@ -1,15 +1,15 @@
 document.addEventListener('DOMContentLoaded', () => {
     const modal1 = document.querySelector('#image-modal');
     const modalImage1 = document.querySelector('#modal-image');
+    const baseUrl = 'https://api.github.com/repos/bmth-arg-wiki/wiki-assets/contents/';
 
-    async function loadGallery(folder) {
-        const baseUrl = 'https://api.github.com/repos/bmth-arg-wiki/wiki-assets/contents/';
+    async function loadGallery(gallery, folder) {
+
         const galleryUrl = `${baseUrl}${folder}`;
 
         try {
             const response = await fetch(galleryUrl);
             const files = await response.json();
-            const gallery = document.getElementById('image-gallery');
             gallery.innerHTML = ''; // Clear previous gallery content
 
             files.forEach(file => {
@@ -51,8 +51,8 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-     const gallery = document.getElementById('image-gallery');
-     if (gallery) {
-        loadGallery(gallery.dataset.folder);
-     }
+    const galleries = document.querySelectorAll('.image-gallery');
+    galleries.forEach(gallery => {
+        loadGallery(gallery, gallery.dataset.folder);
+    });
 });
