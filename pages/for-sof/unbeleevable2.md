@@ -5,12 +5,12 @@ categories: ["for-sof"]
 tags: ["unbeleevable", "lee", "nex gen"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/lee-md/lee-300x300.png"
 previous: "for-sof/book-of-eclipse"
-previous_text: "Book Of Elcipse"
+previous_text: "Book Of Eclipse"
 ---
 
 # Unbeleevable Episode 2
 
-> blah
+> Under a pale moon, Strassburg, Dallus, and their assistant Ro meet up with Skys. 
 
 This episode features Dr. Lee M.D. going even deeper into Skys' and the Cult of MANTRA's story from [Unbeleevable Episode 1](unbeleevable).
 We also learn more about [Dr. Karl Strassman](../characters/strassman) and [Dr. Dallus Lauren](../characters/dallus-lauren).
