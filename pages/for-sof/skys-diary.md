@@ -12,7 +12,7 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/s
 
 > All I remember was the skys above me, watching me, like it was the only thing that didn’t look away.
 
-In [Skys](../characters/skys)' scrapbook entry, we learn more about his early life. From the Unbeleevable episodes we already 
+In [Skys](../characters/skys)' scrapbook entry, we learn more about his early life. From the Unbeleevable episodes, we already 
 knew that Skys was kicked out at a young age and that a man named Alby and his community took him in. The diary 
 details what Skys went through during this period and how he came to be known as Skys.
 

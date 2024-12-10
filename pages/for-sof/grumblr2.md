@@ -17,8 +17,8 @@ next_text: "Book Of Eclipse"
 The second [Grumblr](grumblr) post from [Rebecca Sinclair](../characters/rebecca). In this post, she speaks about 
 working with [Strassman](../characters/strassman) and [Dallus Lauren](../characters/dallus-lauren) for the first time 
 on the 5th of November 2036. She also has a quite unpleasant encounter with Skys, 
-who is transferred into a synth body 16 years after going into a coma 
-in the final hours of the [October massacre](../lore/mantra).
+who is transferred into a synth body 16 years after falling into a coma 
+during the final hours of the [October massacre](../lore/mantra).
 
 ***
 
@@ -51,7 +51,7 @@ and lots of new content.
 >
 > New post!            January 14th 2027
 >
-> ### Rebecca ENTRY
+> ### REBECCA ENTRY
 >
 > November 5, 2036
 >

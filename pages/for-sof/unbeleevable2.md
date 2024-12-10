@@ -111,7 +111,7 @@ It's behind the sliders puzzle on the website.
 >"Now here where things get proper mental. These nutbars shattered the boundaries of human understanding. 
 >Together they tore through the veil of reality itself, 
 >fusing science and spirit into a single Earth-shaking revelation. 
->However, once the god bothering government of Novosovia heard this, they sayn none thing: nyet nyet." 
+>However, once the god bothering government of Novosovia heard this, they say one thing: nyet nyet." 
 >
 >[Cut to a woman on TV speaking Russian:]
 >

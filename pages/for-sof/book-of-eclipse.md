@@ -271,7 +271,7 @@ It is locked behind a mathematics puzzle in the inventory folder.
 >
 > [Colourful abstract drawing]
 
-> Pages 35 & 36
+> ### Pages 35 & 36
 > Passage XVII: The Hymn of Alfgram
 >
 > The Song of Suffering (The First Shadow 8:1 – 8:8)
