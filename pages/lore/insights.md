@@ -26,7 +26,6 @@ they must master these insights.
 
 ***
 
-
 ## Insights spectrograms
 
 The first hint about the four insights was found in a spectrogram of the song [YOUtopia](../music/song-youtopia).
@@ -145,3 +144,11 @@ The [archangels](../characters#archangels):
 - [Gabriel](../characters/gabriel)
 - [Michael](../characters/michael)
 - [Uriel](../characters/uriel)
+
+Related music:
+
+- [Spectrograms](../music/spectrograms)
+- [Top 10 staTues tHat CriEd bloOd](../music/song-top10) (Connection)
+- [n/A](../music/song-na) (Empathy)
+- [[ost] puss-e](../music/song-pusse) (Purpose)
+- [DIg It](../music/song-digit) (Vision)

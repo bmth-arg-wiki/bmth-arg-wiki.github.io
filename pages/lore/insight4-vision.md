@@ -24,13 +24,7 @@ for the last insight (vision) has been named "creativity".
 
 ## About
 
-This was one of the first documents, seemingly available to unlock right from release.
-
-***
-
-## Spectrogram
-
-![Spectrogram of the Vision symbol](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/vision/vision_spectogram.png)
+This was one of the first documents, seemingly available to unlock right from release without a password.
 
 ***
 
@@ -53,14 +47,6 @@ Insight 4 is also associated with [Vegan](../characters/vegan).
 ***
 
 ## Document contents
-
-<details class="password">
-  <summary>Password</summary>
-
-vision
-</details>
-
-### Gallery
 
 {% include gallery.html folder="lore/insights/vision/gallery" %}
 
@@ -102,6 +88,19 @@ vision
 
 ***
 
+## Password Context
+
+<details class="password">
+  <summary>Password</summary>
+
+vision
+</details>
+
+Before the update in December 2024, this file used to be locked with a password.
+This password was obtained through a spectrogram in [DIg It](../music/song-digit).
+
+***
+
 ## Read More
 
 More from [📁 FOR SOF](../for-sof)
@@ -118,3 +117,8 @@ Other insights:
 - [Insight 1: Connection](insight1-connection)
 - [Insight 2: Empathy](insight2-empathy)
 - [Insight 3: Purpose](insight3-purpose)
+
+Related music:
+
+- [Spectrograms](../music/spectrograms)
+- [DIg It](../music/song-digit) (Vision)

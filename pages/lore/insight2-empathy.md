@@ -49,21 +49,13 @@ Insight 2 is also associated with [Madman](../characters/madman).
 
 ## Document contents
 
-<details class="password">
-  <summary>Password</summary>
-
-empathy
-</details>
-
-### Gallery
-
 {% include gallery.html folder="lore/insights/empathy/gallery" %}
 
 ***
 
 ## Transcription
 
-## EMPATHY: SERAPHIC EXPRESSION 
+> ### EMPATHY: SERAPHIC EXPRESSION 
 >
 > **ELEMENT**: WATER
 >
@@ -95,6 +87,19 @@ empathy
 
 ***
 
+## Password Context
+
+<details class="password">
+  <summary>Password</summary>
+
+empathy
+</details>
+
+Before the update in December 2024, this file used to be locked with a password.
+This password was obtained through a spectrogram in [n/A](../music/song-na).
+
+***
+
 ## Read More
 
 More from [📁 FOR SOF](../for-sof)
@@ -111,3 +116,8 @@ Other insights:
 - [Insight 1: Connection](insight1-connection)
 - [Insight 3: Purpose](insight3-purpose)
 - [Insight 4: Vision](insight4-vision)
+
+Related music:
+
+- [Spectrograms](../music/spectrograms)
+- [n/A](../music/song-na)
