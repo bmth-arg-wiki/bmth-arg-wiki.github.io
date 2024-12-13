@@ -12,7 +12,7 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 
 ![Eve's Avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/eve/0eve.png)
 
-E.V.E. (Evolutionary Virtual Experiment) is user 0000 in the Multidimensional Navigator 8.
+E.V.E. (Evolutionary Virtual Experiment) is user 0000 in the Multidimensional Navigator 8. 
 
 She is also known as E.V.E/L, which stands for Extremely Violent Ersatz Lifeform. M8 refers to her as the "big boss" in her WHO ARE YOU? speech.
 She also implies that E.V.E. is on earth at the moment while we are not.
