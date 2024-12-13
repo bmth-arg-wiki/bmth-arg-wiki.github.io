@@ -11,6 +11,12 @@ next_text: "Part 2. FOR SOF"
 
 # Walkthrough: The Website
 
+{% include content/info.html
+title="Update in progress..."
+icon="fa-solid fa-info"
+content="The website underwent many changes on December 2024. Please be patient while we upd8 the wiki <3"
+%}
+
 ![Nex Gen Walkthrough ASCII art](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/walkthrough.png)
 
 Welcome to the ARG walkthrough! This ARG is ongoing, so this page will update 
