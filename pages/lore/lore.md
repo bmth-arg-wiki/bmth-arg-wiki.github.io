@@ -8,7 +8,7 @@ image: "Resources/lore/mantra/mantra-not-for-consumption.png"
 
 # Lore 
 
-{% assign page_links = '/pages/lore/youtopia, /pages/lore/booklet, /pages/lore/pusse, /pages/m8, /pages/lore/night-of-pan' | split: ", " %}
+{% assign page_links = '/pages/lore/youtopia, /pages/lore/booklet, /pages/lore/pusse, /pages/m8, /pages/lore/night-of-pan, /pages/lore/downloadfest' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ## ARG Website - Main Page
@@ -17,7 +17,8 @@ image: "Resources/lore/mantra/mantra-not-for-consumption.png"
 {% include page-card-gallery.html links=page_links %}
 
 ## ARG Website - INVENTORY Folder
-{% assign page_links = '/pages/lore/skys-diary, /pages/lore/grumblr2, /pages/lore/book-of-eclipse, /pages/lore/unbeleevable2' | split: ", " %}
+
+{% assign page_links = '/pages/for-sof/skys-diary, /pages/for-sof/grumblr2, /pages/for-sof/book-of-eclipse, /pages/for-sof/unbeleevable2' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ## Organisations
