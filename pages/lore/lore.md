@@ -8,7 +8,7 @@ image: "Resources/lore/mantra/mantra-not-for-consumption.png"
 
 # Lore 
 
-{% assign page_links = '/pages/lore/youtopia, /pages/lore/booklet, /pages/lore/pusse, /pages/m8, /pages/lore/night-of-pan, /pages/lore/downloadfest' | split: ", " %}
+{% assign page_links = '/pages/lore/youtopia, /pages/lore/booklet, /pages/lore/pusse, /pages/m8, /pages/lore/vspr37, /pages/lore/night-of-pan, /pages/lore/downloadfest' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ## ARG Website - Main Page
