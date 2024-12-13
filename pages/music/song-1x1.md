@@ -91,3 +91,15 @@ his own history.
 
 {% include content/buttons/button-primary.html text="NME interview" icon="fa-solid fa-microphone"
 link="https://www.nme.com/big-reads/bring-me-the-horizon-cover-interview-2020-post-human-survival-horror-2804768" %}
+
+***
+
+## Read More
+
+- [Dear Diary,](song-dear-diary)
+- [Parasite Eve](song-parasite-eve)
+- [Teardrops](song-teardrops)
+- [Obey](song-obey)
+- [Itch for the Cure & Kingslayer](song-kingslayer-itch)
+- [Ludens](song-ludens)
+- [One Day The Only Butterflies Left Will Be In Your Chest As You March Towards Your Death ft. Amy Lee](song-butterflies)

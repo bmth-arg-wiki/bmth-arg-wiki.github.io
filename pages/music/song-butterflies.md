@@ -90,4 +90,12 @@ ends in a hopeful way. We hope that it will make people want to do something.”
 
 ## Read More
 
-- [POST HUMAN: SURVIVAL HORROR](ph-survival-horror)
+[POST HUMAN: SURVIVAL HORROR](ph-survival-horror):
+
+- [Dear Diary,](song-dear-diary)
+- [Parasite Eve](song-parasite-eve)
+- [Teardrops](song-teardrops)
+- [Obey](song-obey)
+- [Itch for the Cure & Kingslayer](song-kingslayer-itch)
+- [1x1](song-1x1)
+- [Ludens](song-ludens)

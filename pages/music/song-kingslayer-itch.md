@@ -171,3 +171,14 @@ this record being cyber-punk-y. It sounds like an anime TV trailer.”
 Related files:
 
 - [Project D.U.S.T.](../for-sof/project_dust)
+- [Kingslayer Codec](../for-sof/kingslayercodec)
+
+Related songs:
+
+- [Dear Diary,](song-dear-diary)
+- [Parasite Eve](song-parasite-eve)
+- [Teardrops](song-teardrops)
+- [Obey](song-obey)
+- [1x1](song-1x1)
+- [Ludens](song-ludens)
+- [One Day The Only Butterflies Left Will Be In Your Chest As You March Towards Your Death ft. Amy Lee](song-butterflies)

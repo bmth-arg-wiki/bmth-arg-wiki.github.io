@@ -13,7 +13,9 @@ next_text: "04. Obey"
 
 > "The emptiness is heavier than you think."
 
-"Teardrops" is the third song on the album [POST HUMAN: SURVIVAL HORROR](ph-survival-horror).
+"Teardrops" is the third song on the album [POST HUMAN: SURVIVAL HORROR](ph-survival-horror). 
+Several shots from the official music video can be seen in [Unbeleevable Episode 2](../for-sof/unbeleevable2), 
+confirming it to be about the character [Skys](../characters/skys) in the ARG interpretation of the songs.
 
 ***
 
@@ -81,3 +83,19 @@ there’s some real bad shit going on that we’ve just been sleepwalking throug
 > (Source: [NME](https://www.nme.com/big-reads/bring-me-the-horizon-cover-interview-2020-post-human-survival-horror-2804768))
 
 ***
+
+## Read More
+
+Related characters:
+
+- [Skys](../characters/skys)
+
+[POST HUMAN: SURVIVAL HORROR](ph-survival-horror):
+
+- [Dear Diary,](song-dear-diary)
+- [Parasite Eve](song-parasite-eve)
+- [Obey](song-obey)
+- [Itch for the Cure & Kingslayer](song-kingslayer-itch)
+- [1x1](song-1x1)
+- [Ludens](song-ludens)
+- [One Day The Only Butterflies Left Will Be In Your Chest As You March Towards Your Death ft. Amy Lee](song-butterflies)
