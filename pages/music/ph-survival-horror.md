@@ -11,7 +11,8 @@ next_text: "01. Dear Diary,"
 Post Human: Survival Horror (PH:SH) was the first Post Human album. PH:SH was supposed to be the first of four albums 
 ([source: Kerrang](https://www.kerrang.com/oli-sykes-on-bring-me-the-horizons-post-human-ep-series-theres-gonna-be-a-record-for-everyone)), 
 explicitly citing they were all part of a bigger project. We also find references to the song `Dear Diary,` in 
-[Scott's journal](../for-sof/scott_personal_journal).
+[Scott's journal](../for-sof/scott_personal_journal). The song [Teardrops](song-teardrops) is also about the character 
+of [Skys](../characters/skys) in the ARG.
 
 ***
 
@@ -72,7 +73,4 @@ from NEx Gen. The theory is supported by the fact that both characters have a th
 
 - [Spectrograms](spectrograms)
 - [POST HUMAN: NeX GEn](ph-nex-gen)
-- [amo]
-
-{% assign page_links = '/pages/music/amo, /pages/music/ph-nex-gen, /pages/music/spectrograms' | split: ", " %}
-{% include page-card-gallery.html links=page_links %}
+- [amo](amo)
