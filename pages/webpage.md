@@ -11,7 +11,7 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage
 # Multidimensional Navigator 8 Webpage
 
 Most of the ARG takes place in the Multidimensional Navigator, a fictional piece of technology that 
-is also our character [M8](m8). You can access it with the following link:
+is also our character [M8](m8). You can access it with the following link: 
 
 [https://www.multidimensionalnavigator8.help/index-desktop.html](https://www.multidimensionalnavigator8.help/index-desktop.html)
 

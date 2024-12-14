@@ -11,7 +11,7 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/we
 
 Spyder is the web browser of the Multidimensional Navigator 8, which was unusable until September 30th.
 
-It's accessed through this spider-web icon at the top left of the screen.
+It's accessed through this spider-web icon at the top left of the screen. 
 
 ![spyder icon](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/spyder-icon.png)
 

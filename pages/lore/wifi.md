@@ -8,7 +8,7 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/wi
 
 # Wifi
 
-The Multidimensional Navigator 8 has a wifi feature, which was unusable until September 30th.
+The Multidimensional Navigator 8 has a wifi feature, which was unusable until September 30th. 
 
 It is found in this little tab on the left:
 
