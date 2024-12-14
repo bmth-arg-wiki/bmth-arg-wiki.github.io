@@ -2,7 +2,7 @@
 title: "Journal"
 description: "This page is about Sof's Journal, found on the main page of the M8 Website."
 categories: ["lore"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/dallus-diary/journal-300x300.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/journal-300x300.png"
 tags: ["sof", "arg", "journal", "selene", "scott", "M8", "eve", "karl", "strassman", "lee", "elias", "mortem", 
 "dallus", "dallas", "lauren", "lyra", "wife", "kids", "elena", "ikaro", "ren", "rebecca", "sinclair", "victor", 
 "carmine", "skys", "fantom", "october", "palace", "novosovia", "new", "elysium", "dtc", "youtopia", "y93", "mantra", 
