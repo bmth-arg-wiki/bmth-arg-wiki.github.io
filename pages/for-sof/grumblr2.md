@@ -201,6 +201,7 @@ Other puzzle files:
 - [Skys' diary](skys-diary)
 - [Book of Eclipse](book-of-eclipse)
 - [Unbeleevable episode 2](unbeleevable2)
+- [Cities coordinates](cities-coordinates)
 
 Related lore:
 
