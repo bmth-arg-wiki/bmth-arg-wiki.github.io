@@ -8,7 +8,7 @@ tags: ["lore", "nex gen", "booklet", "post human", "album", "youtopia", "ost dre
 "archangels", "raphael", "uriel", "gabriel", "michael", "n/a", "eve", "omens", "miseria", "the babylon", "vanth", "pan", 
 "rip duskcore", "strangers", "genxsis", "relics", "pan's flute", "golden raspberry", "guardian tears", "candle of eternal light", 
 "amen", "pusse", "die4u", "dig it"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/booklet/gallery/b-booklet.jpg"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/booklet/booklet-300x300.jpg"
 ---
 
 # POST HUMAN: NeX GEn Game Booklet
