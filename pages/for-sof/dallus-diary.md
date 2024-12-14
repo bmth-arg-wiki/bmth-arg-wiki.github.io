@@ -4,8 +4,10 @@ description: "This page is about Dallus's diary"
 categories: ["for-sof"]
 tags: ["dallus", "nex gen", "file", "lore", "diary", "arg", "bmth"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/dallus-diary/diary-300x300.png"
-previous: "for-sof/goxmog"
-previous_text: "GOXMOG_SIGHTING.zip"
+previous: "for-sof/capslock_doc"
+previous_text: "CAPSLOCK.DOC"
+next: "for-sof/strassmancodec"
+next_text: "StrassmanCONFIDENTIALPRT007.CODEC"
 ---
 
 # Dallus' Diary

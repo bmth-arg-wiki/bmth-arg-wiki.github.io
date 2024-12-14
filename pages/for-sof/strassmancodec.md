@@ -7,8 +7,8 @@ categories: ["for-sof"]
 tags: ["strassman", "eve", "youtopia", "for sof", "karl", "pusse", 
        "codec", "indole alkaloid structure", "neurological disturbances"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/strassman-pass-screen.png"
-previous: "for-sof/capslock_doc"
-previous_text: "CAPSLOCK.DOC"
+previous: "for-sof/dallus-diary"
+previous_text: "DALLUS_DIARY.DOC"
 next: "for-sof/dreadit"
 next_text: "DREADITScreenshot"
 ---
