@@ -45,7 +45,22 @@ of P.U.S.S-E a day for this patient.
 
 ## Read more
 
-- [P.U.S.S-E (song)](../music/song-pusse)
+Related characters:
+
+- [Selene](../characters/selene)
+- [Strassman](../characters/strassman)
+- [E.V.E.](../characters/eve)
+
+Related files:
+
+- [Strassman Codec](../for-sof/strassmancodec)
+- [Dreadit Post](../for-sof/dreadit)
+
+Related lore:
+
 - [Nex Gen Corporation](nex-gen-corporation)
 - [Youtopia](youtopia)
-- [Dreadit file](../for-sof/dreadit)
+
+Related music:
+
+- [P.U.S.S-E (song)](../music/song-pusse)
