@@ -4,7 +4,7 @@ description: "Miseria is the omen of empathy. She wears the empathy relic, the G
 categories: ["characters"]
 tags: ["miseria", "omen", "pan", "vanth", "guardian tears", "gabriel", "archangel", 
 "insights", "empathy"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/miseria/9miseria.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/miseria/miseria-300x300.png"
 ---
 # Miseria
 

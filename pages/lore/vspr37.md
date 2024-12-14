@@ -4,7 +4,7 @@ description: "VSPR-37 is the virus from 2037 that started near Nex Gen's facilit
 Scott, as well as many others around the world."
 categories: ["lore"]
 tags: ["pusse", "dmt", "strassman", "youtopia", "nex gen", "vspr-37", "pineal gland", "immune", "selene", "scott", "syko"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/scott_diary/gallery/a.jpg"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/scott_diary/diary-300x300.jpg"
 ---
 # VSPR-37
 

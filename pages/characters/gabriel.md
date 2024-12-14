@@ -4,7 +4,7 @@ description: "Gabriel is the archangel of empathy. Selene's map places him to th
 categories: ["characters"]
 tags: ["empathy", "gabriel", "raphael", "uriel", "michael", "archangel", "selene's map", 
 "miseria", "guardian tears", "youtopia"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/gabriel/16gabriel.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/gabriel/gabriel-300x300.png"
 ---
 
 # Gabriel

@@ -5,7 +5,7 @@ interest in her exceptional pineal gland and immunity to the VSPR-37 virus."
 categories: ["characters"]
 tags: ["selene", "sof", "youtopia", "m8", "clive", "pusse", "strassman", "eve", "indole alkaloid structure", "pineal gland", 
 "mother", "protagonist"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/selene/3selene.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/selene/selene-300x300.png"
 ---
 # Selene
 

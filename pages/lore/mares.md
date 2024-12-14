@@ -5,7 +5,7 @@ description: "Mares are shared psychological visions that seem to be linked to s
 tags: ["arc/hive", "technology", "skys", "dallus", "lauren", "in the dark", "mares",
 "science", "company", "project dust", "elias mortem", "dr. elias mortem", "syko", "nex gen", 
 "altilium chordata", "operation", "trinity"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/project_dust/gallery/a_projectdust.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/mares/mares-300x300.png"
 ---
 
 # Mares

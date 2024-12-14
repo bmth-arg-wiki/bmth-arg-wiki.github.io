@@ -5,7 +5,7 @@ the ARG, in order to ascend to Youtopia."
 categories: ["lore", "for-sof"]
 tags: ["insights", "connection", "youtopia", "for sof", "pan", 
        "raphael", "pan's flute", "yellow", "east", "syko", "oliver sykes"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/connection/gallery/connection1.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/connection/connection-300x300.png"
 previous: "lore/insights"
 previous_text: "THEINSIGHTS.DOC"
 next: "lore/insight2-empathy"

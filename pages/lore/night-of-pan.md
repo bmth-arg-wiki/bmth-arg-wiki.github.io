@@ -4,7 +4,7 @@ description: "The night of Pan is something hinted at in social posts, linking b
 categories: ["lore"]
 tags: ["bmth", "arg", "bring me the horizon", "night of pan", "pan", "connection", 
        "ego death", "thelema"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/pan/8pan.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/pan/pan-300x300.png"
 ---
 # Night of Pan
 

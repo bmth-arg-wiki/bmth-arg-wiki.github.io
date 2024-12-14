@@ -4,7 +4,7 @@ description: "Pickles is Mat Nicholls' character in the ARG universe, the drumme
 categories: ["characters"]
 tags: ["mat nichols", "pickles", "bmth", "bring me the horizon", "band member", "purpose", 
 "michael", "vanth"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/pickles/11pickles.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/pickles/pickles-300x300.png"
 ---
 
 # Pickles

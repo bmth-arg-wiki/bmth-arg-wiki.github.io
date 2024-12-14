@@ -6,7 +6,7 @@ worked for ARC/HIVE and his son Ikaro Lauren later continues his work at Nex Gen
 categories: ["characters"]
 tags: ["dallus", "dallas", "lauren", "ikaro", "ren", "eve", "unbeleevable", "mantra", "arc/hive", 
 "nex gen", "skys", "strassman", "d8 log", "mares", "daughters", "moxypak", "environmental research"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/unbeleevable/gallery/dallus_lauren_unbeleevable.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/dallus/dallus-300x300.png"
 ---
 
 # Dallas Lauren
