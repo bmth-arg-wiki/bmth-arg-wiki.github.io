@@ -5,7 +5,7 @@ Access to the internet has not been gained yet."
 categories: ["lore"]
 tags: ["web browser", "spyder", "wi-fi", "password", "arg", "bring me the horizon", "bmth", 
 "offline mode", "surfr", "dreadit", "error_tp10a2uhd7amnSTCB", "surfr.news/2d85da7-f5cc-45a4-ad44"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/spyder-300x300.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/spyder300x300.png"
 ---
 # Web Browser - Spyder
 

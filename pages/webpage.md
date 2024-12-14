@@ -83,7 +83,7 @@ Spyder is the in-universe [web browser](lore/webbrowser) on the page.
 
 ## Journal
 
-![journal](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/journal)
+![journal](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/journal.png)
 
 The Dec, 4th 2024 update brought us [Sof's journal](lore/journal).
 
@@ -102,7 +102,7 @@ The website users are all [characters](characters) with their own dedicated page
 The new buttons are virtually the same as the old ones, their main difference being their design and placement.
 They are now in the top right corner of the website.
 
-![emulator](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/emulator)
+![emulator](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/emulator.png)
 
 There is also an `Emulator` button that looks like a controller in the middle of the page.
 It leads to [ScreamStar](https://www.scream-star.com/).
