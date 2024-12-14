@@ -4,7 +4,7 @@ description: "Skys is a cunning man with pink hair. He was abandoned by his pare
 after. He is the founder of the Mantra cult and a survivor of the incident at October Palace."
 categories: ["characters"]
 tags: ["skys", "mantra", "cult", "nex gen", "arc/hive", "operation", "trinity", "dallas", "dallus", "lauren", "strassman"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/science_study/gallery/a_scistudy.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/skys/skys-300x300.png"
 ---
 # Skys
 

@@ -3,7 +3,7 @@ title: "Madman"
 description: "Madman is the stand-in for Lee Malia. He is the lead guitarist of Bring Me The Horizon."
 categories: ["characters"]
 tags: ["madman", "lee malia", "bring me the horizon", "unbeleevable", "bmth"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/madman/12madman.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/madman/madman-300x300.png"
 ---
 
 # Madman

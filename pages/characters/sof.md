@@ -4,7 +4,7 @@ description: "Sof is the non-binary child of Selene and one of the main protagon
 the multidimensional indexer 8, also called M8, she learns about her true origins."
 categories: ["characters"]
 tags: ["sof", "m8", "selene", "nex gen", "post human", "demi-god", "non-binary", "vex", "album cover"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/sof/sof-300x300.jpg"
 ---
 # Sof
 

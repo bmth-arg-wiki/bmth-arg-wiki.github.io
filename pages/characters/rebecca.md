@@ -3,8 +3,8 @@ title: "Rebecca Sinclair"
 description: "Rebecca Sinclair was the first synth and suffered from a terminal respiratory 
 disease before. Nex Gen gave her a synth body and her smoking habit."
 categories: ["characters"]
-tags: ["rebecca sinclair", "grumblr", "synth", "nex gen", "arc/hive", "cers"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/tekka/tekka_cover.png"
+tags: ["rebecca sinclair", "grumblr", "synth", "nex gen", "arc/hive", "cers", "cats"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/rebecca/rebecca-300x300.png"
 ---
 
 # Rebecca Sinclair

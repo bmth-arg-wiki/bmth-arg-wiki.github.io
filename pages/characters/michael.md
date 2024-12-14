@@ -4,7 +4,7 @@ description: "Michael is the archangel of Purpose. He shows up in the South of Y
 categories: ["characters"]
 tags: ["purpose", "gabriel", "raphael", "uriel", "michael", "archangel", "selene's map", 
 "pan", "youtopia", "pan's flute", "south"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/michael/10michael.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/michael/michael-300x300.png"
 ---
 # Michael
 

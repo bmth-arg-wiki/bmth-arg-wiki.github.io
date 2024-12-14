@@ -4,7 +4,7 @@ description: "Syko is one of seemingly several stand-ins for Oliver Sykes in-uni
 is the lead vocalist of Bring Me The Horizon."
 categories: ["characters"]
 tags: ["syko", "oliver sykes", "bring me the horizon", "bmth", "scott", "oskar", "dear diary"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/syko/5syko.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/syko/syko-300x300.png"
 ---
 # Syko
 

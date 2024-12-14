@@ -3,7 +3,7 @@ title: "Vanth"
 description: "Vanth, the prince(ss) of Darkness is the mysterious omen of purpose. They carry the candle of Abremalin."
 categories: ["characters"]
 tags: ["vanth", "purpose", "omen", "candle of abremalin"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/vanth/17vanth.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/vanth/vanth-300x300.png"
 ---
 # Vanth
 

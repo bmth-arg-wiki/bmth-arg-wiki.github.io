@@ -4,12 +4,14 @@ description: "Victor Carmine is the mysterious head of Nex Gen, previously ARC/H
 categories: ["characters"]
 tags: ["bring me the horizon", "project dust", "church of genxsis", "eve", "nex gen", "kingslayer", "trinity", "victor", "carmine", 
 "skys", "dallus", "dallas", "lauren", "karl", "strassman"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/angeldust/Snapinsta.app_420366895_392572589824770_3198707577784132863_n_1024.jpg"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/carmine/carmine-300x300.png"
 ---
 
 # Victor Carmine
 
 > Coming soon
+
+***
 
 ## Read More
 

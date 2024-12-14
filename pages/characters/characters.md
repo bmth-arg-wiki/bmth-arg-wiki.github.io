@@ -24,38 +24,11 @@ important names and how the characters relate to each other.
 
 ## Other Characters
 
-Additionally, there are characters not listed on M8. For example because they were 
-mentioned in documents.
+Additionally, there are characters not listed on [M8](../m8). For example because they were 
+mentioned in documents, or revealed in [Sof](sof)'s [journal](../lore/journal).
 
-### Sof
-
-[Sof](sof) is one of our protagonists, discovering their origins from the files her mother [Selene](selene) left when they 
-abandoned them. We see Sof in many sources and get to read their [journal](../lore/journal), which explains their take on the files.
-
-### Victor Carmine
-
-Victor Carmine is a mysterious man mentioned in the [Tekka Interview](../for-sof/tekka_interview). Jax Jackson,
-the interviewer from Tekka mentions that he is a "big player" and that some call him a visionary, others call
-him a psycho. Sof's journal explains that he is the big boss at Nex Gen and was also the boss when the company was still
-called ARC/HIVE.
-
-### Dr. Elias Mortem
-
-[Dr. Elias Mortem](elias-mortem) was the lead scientist at Arc/Hive Research Division at the time of
-declassification of the [Project D.U.S.T. research proposal](../for-sof/project_dust). He was later slaughtered
-along with his team at the [Chapel incident](../for-sof/chapel).
-
-### Rebecca
-
-Rebecca was a terminally ill lab assistant at ARC/HIVE, before becoming the first
-synth. She is [interviewed](../for-sof/tekka_interview) about the ambitious project from Nex Gen
-by a magazine called Tekka. She later worked with [Strassman](strassman) and [Dallus Lauren](dallus-lauren) on 
-the SYNTH project.
-
-### Medea
-
-Medea is the woman in red from the [Mantra MV](../music/amo-mantra) and an infiltrator in the [cult of Mantra](../lore/mantra), 
-as we learn in [Unbeleevable episode 2](../for-sof/unbeleevable2).
+{% assign page_links = '/pages/characters/sof, /pages/characters/victor-carmine, /pages/characters/elias-mortem, /pages/characters/skys, /pages/characters/dallus-lauren, /pages/characters/rebecca, /pages/characters/medea, /pages/characters/angeldust, /pages/characters/lee-md' | split: ", " %}
+{% include page-card-gallery.html links=page_links %}
 
 ### Ava & Angel Strassman
 
@@ -67,10 +40,6 @@ own cutting-edge research. However, Ava quickly catches his eye and he quickly b
 Strassman and Ava have a child together named Angel. Tragedy strikes the family around the time of [Operation Trinity](../for-sof/trinity_document), 
 as we learn in [Dallus' Diary](../for-sof/dallus-diary) from early January 2021 that Ava is dead and their child 
 has gone missing, presumed dead.
-
-### Angeldust
-
-Angeldust is shown on stage during [Kool-Aid](../music/song-koolaid).
 
 ### Emily
 
@@ -90,8 +59,6 @@ The archangels are guardians of [Youtopia](../lore/youtopia) and all have their 
 
 {% assign page_links = '/pages/characters/raphael, /pages/characters/gabriel, /pages/characters/michael, /pages/characters/uriel' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
-
-![Spectrogram showing four angel-like figures](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/spectrograms/spectrogram-archangels.png)
 
 Angels can also be found in the [spectrograms](../music/spectrograms) in
 [(spi)ritual](../music/song-spiritual). We learn more about these angels in the [deluxe album game booklet](../lore/booklet).

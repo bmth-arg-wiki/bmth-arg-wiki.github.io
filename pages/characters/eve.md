@@ -5,7 +5,7 @@ Nex Gen corporation and works together closely with Dr. Karl Strassman."
 categories: ["characters"]
 tags: ["eve", "ai", "ia", "evolutionary virtual experiment", "extremely violent ersatz lifeform", 
 "selene", "pusse", "youtopia", "strassman", "nex gen", "dreaddit"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/eve/0eve.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/eve/eve-300x300.png"
 ---
 
 # E.V.E 
@@ -61,7 +61,7 @@ As mentioned above, E.V.E. is at the head of [Nex Gen Corporation](../lore/nex-g
 the [Church of Genxsis](../lore/church).
 
 Her goal is to get hers and [Strassman](./strassman)'s subjects into [Youtopia](../lore/youtopia) using a revolutionary drug named [P.U.S.S-E](../lore/pusse). 
-While Strassman is concerned about the effects of the [study](../lore/nex-gen-corporation#nex-gen-study)on its subjects, 
+While Strassman is concerned about the effects of the [study](../lore/nex-gen-corporation)on its subjects, 
 E.V.E brushes them off as necessary sacrifices needed for a better future. 
 
 Both of them are researching on [Selene](selene), the immune child mentioned in the [Dreaddit post](../for-sof/dreadit),

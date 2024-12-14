@@ -3,7 +3,7 @@ title: "Vegan"
 description: "Vegan is the character for band member Matt Kean, the bassist of Bring Me The Horizon."
 categories: ["characters"]
 tags: ["vegan", "matt kean", "band", "bmth", "vision", "uriel", "the babylon"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/vegan/1vegan.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/vegan/vegan-300x300.png"
 ---
 
 # Vegan

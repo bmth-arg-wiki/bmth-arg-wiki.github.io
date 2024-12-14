@@ -4,7 +4,7 @@ description: "Pan is the omen of connection. He is described on Selene's map as 
 which is the relic of connection."
 categories: ["characters"]
 tags: ["pan", "pan's flute", "night of pan", "beautiful mistake", "raphael", "youtopia"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/pan/8pan.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/pan/pan-300x300.png"
 ---
 # Pan
 
