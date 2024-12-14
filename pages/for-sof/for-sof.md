@@ -37,7 +37,7 @@ Since the December 4th 2024 update, there is now an `inventory` on the [webpage]
 four puzzles, which have all been unlocked. This update also included the release of [Dallus' diary](dallus-diary) that
 is in the FOR SOF folder.
 
-{% assign page_links = '/pages/for-sof/skys-diary, /pages/for-sof/grumblr2, /pages/for-sof/book-of-eclipse, /pages/for-sof/unbeleevable2' | split: ", " %}
+{% assign page_links = '/pages/for-sof/skys-diary, /pages/for-sof/grumblr2, /pages/for-sof/book-of-eclipse, /pages/for-sof/unbeleevable2, /pages/for-sof/cities-coordinates' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ***
@@ -73,7 +73,7 @@ past
 These are the files in release order in the folder. Each of them used to need a password to be unlocked, but that feature
 was removed with the Dec. 4th 2024 update, making them easily available.
 
-{% assign page_links = '/pages/for-sof/msgforsof, /pages/lore/insights, /pages/lore/insight1-connection, /pages/lore/insight2-empathy, /pages/lore/insight3-purpose, /pages/lore/insight4-vision, /pages/for-sof/capslock_doc, /pages/for-sof/dallus-diary, /pages/for-sof/strassmancodec, /pages/for-sof/dreadit, /pages/for-sof/selenes_map, /pages/for-sof/r8, /pages/for-sof/selene_personal_journal, /pages/for-sof/lauren_d8_log, /pages/for-sof/scott_personal_journal, /pages/for-sof/trinity_document, /pages/for-sof/tekka_interview, /pages/for-sof/project_dust, /pages/for-sof/thesciencestudy, /pages/for-sof/skystarjammers, /pages/for-sof/unbeleevable, /pages/for-sof/russianpoem, /pages/for-sof/kingslayercodec, /pages/for-sof/grumblr, /pages/for-sof/lbr_sites, /pages/for-sof/goxmog, /pages/for-sof/dallus-diary' | split: ", " %}
+{% assign page_links = '/pages/for-sof/msgforsof, /pages/lore/insights, /pages/lore/insight1-connection, /pages/lore/insight2-empathy, /pages/lore/insight3-purpose, /pages/lore/insight4-vision, /pages/for-sof/capslock_doc, /pages/for-sof/dallus-diary, /pages/for-sof/strassmancodec, /pages/for-sof/dreadit, /pages/for-sof/selenes_map, /pages/for-sof/r8, /pages/for-sof/selene_personal_journal, /pages/for-sof/lauren_d8_log, /pages/for-sof/scott_personal_journal, /pages/for-sof/trinity_document, /pages/for-sof/tekka_interview, /pages/for-sof/project_dust, /pages/for-sof/thesciencestudy, /pages/for-sof/skystarjammers, /pages/for-sof/unbeleevable, /pages/for-sof/russianpoem, /pages/for-sof/kingslayercodec, /pages/for-sof/grumblr, /pages/for-sof/lbr_sites, /pages/for-sof/goxmog' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ### Locked files

@@ -6,6 +6,8 @@ tags: ["unbeleevable", "lee", "nex gen"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/lee-md/lee-300x300.png"
 previous: "for-sof/book-of-eclipse"
 previous_text: "Book Of Eclipse"
+next: "for-sof/cities-coordinates"
+next_text: "Cities Coordinates"
 ---
 
 # Unbeleevable Episode 2
@@ -95,7 +97,7 @@ It's behind the sliders puzzle on the website.
 >Everyone was sniffed off their box, swinging off fxcking chandeliers, shagging about, and the rest. 
 >It’s here Strassmn meets one of Skys lady friends, Ava."
 > 
->**Someone of camera [in an american accent]:** "Ava." 
+>**Someone off camera [in an american accent]:** "Ava." 
 > 
 > **Lee [mimicking the american accent]:** "Ava."
 >
@@ -192,6 +194,7 @@ Other puzzle files:
 - [Skys' diary](skys-diary)
 - [Grumblr second entry](grumblr2)
 - [Book of Eclipse](book-of-eclipse)
+- [Cites coordinates](cities-coordinates)
 
 Related files:
 

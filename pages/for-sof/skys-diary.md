@@ -142,6 +142,7 @@ Other puzzle files:
 - [Grumblr second entry](grumblr2)
 - [Book of Eclipse](book-of-eclipse)
 - [Unbeleevable episode 2](unbeleevable2)
+- [Cities coordinates](cities-coordinates)
 
 Related lore:
 
