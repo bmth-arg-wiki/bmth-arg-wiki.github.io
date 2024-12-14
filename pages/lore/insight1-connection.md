@@ -53,21 +53,13 @@ possibly indicating another code (might lead to [capslock doc](../for-sof/capslo
 
 ## Document contents
 
-<details class="password">
-  <summary>Password</summary>
-
-connection
-</details>
-
-### Gallery
-
 {% include gallery.html folder="lore/insights/connection/gallery" %}
 
 ***
 
 ## Transcription
 
-> ## CONNECTION: MANIFEST, DIVINE, HARMONY 
+> ### CONNECTION: MANIFEST, DIVINE, HARMONY 
 >
 > **ELEMENT**: AIR
 > 
@@ -97,7 +89,20 @@ connection
 
 ***
 
-## Notable mentions
+## Password Context
+
+<details class="password">
+  <summary>Password</summary>
+
+connection
+</details>
+
+Before the update in December 2024, this file used to be locked with a password. 
+This password was obtained through a spectrogram in [Top 10 staTues tHat CriEd bloOd](../music/song-top10).
+
+***
+
+## Notable Mentions
 
 ![Horizon Merch post containing the word connection](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/connection/horizon-merch-connection1.png)
 
@@ -126,3 +131,8 @@ Other insights:
 - [Insight 2: Empathy](insight2-empathy)
 - [Insight 3: Purpose](insight3-purpose)
 - [Insight 4: Vision](insight4-vision)
+
+Related music:
+
+- [Spectrograms](../music/spectrograms)
+- [Top 10 staTues tHat CriEd bloOd](../music/song-top10)

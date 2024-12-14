@@ -11,9 +11,18 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials
 
 # Genesis Storyline — Narrative Development
 
+{% include info.html
+title="This info might not be canon"
+icon="fa-solid fa-warning"
+content="This article contains info from an old Instagram post from Oli. It has not been confirmed canon."
+%}
+
 ![Genesis Storyline Image.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/genesis-storyline.png)
 
 Source: [Oli's instagram](https://www.instagram.com/p/CtUpM05MsXl/?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D&img_index=7)
+
+The information presented in this story does conflict with what [Sof](../characters/sof) writes in her [journal](journal), 
+since she states that Genxsis started as an offshoot from the [Mantra cult](mantra).
 
 ***
 
@@ -54,6 +63,11 @@ Source: [Oli's instagram](https://www.instagram.com/p/CtUpM05MsXl/?utm_source=ig
 
 ## Read More
 
-- [E.V.E.](../characters/eve)
+Related lore: 
+
 - [Church of Genxsis](church)
 - [Nex Gen Corporation](nex-gen-corporation)
+
+Related characters:
+
+- [E.V.E.](../characters/eve)

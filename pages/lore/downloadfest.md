@@ -6,21 +6,19 @@ categories: ["lore"]
 tags: ["downloadfest", "bring me the horizon", "bmth", "arg", "nex gen", "post human", 
        "genxsis", "genxsis.faith", "cult", "church", "emily", "tarot", "cypher", 
        "mutated dancers"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/other-webpages/bmth_cypher.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/church/cypher-300x300.png"
 ---
 # Downloadfest
 
-The Downloadfest event introduced [the Church of Genxsis](church) and  seems to hold lore significance.
-
-![Website screenshot](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/genxsis.faith/genxsis_faith.png)
+The Downloadfest event introduced [the Church of Genxsis](church) and seems to hold lore significance.
 
 ---
 
 ## genxsis.faith
 
-The [website for downloadfest](https://www.genxsis.faith/) is still up and  contains a cypher.
+The [website for downloadfest](https://www.genxsis.faith/) is still up and contains a cypher.
 
-![Cypher wheel](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/genxsis.faith/cypher.png)
+![Cypher wheel](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/church/cypher-300x300.png)
 
 The cypher can be obtained by clicking the symbol in the upper right corner.
 
@@ -32,24 +30,20 @@ It is sometimes used to spell out "BRING ME THE HORIZON" (pictured above) or "NE
 
 ## Downloadfest on Social Media
 
-![](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/downloadfest/downloadfest_noserialno.jpg)
+{% include gallery.html folder="lore/downloadfest/gallery" %}
 
-Early art of Sof, with no serial number on M8's head present.
+A post on Downloadfest from Oli depicts early art of Sof, notably with no serial number on M8's head present.
 
-![](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/downloadfest/insta_downloadfest1.jpg) ![](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/downloadfest/insta_downloadfest2.jpg) ![](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/downloadfest/insta_downloadfest3.jpg) ![](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/downloadfest/insta_downloadfest_4.jpg) ![](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/downloadfest/insta_downloadfest5.jpg) ![](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/downloadfest/insta_downloadfest6.jpg) ![](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/downloadfest/insta_downloadfest7.jpg)
-
-![](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/downloadfest/insta_downloadfest_dancers.jpg) ![](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/downloadfest/insta_downloadfest_dancer_picture.jpg) ![](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/downloadfest/eve_art_downloadfest.jpg)
-
-![](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/downloadfest/insta_downloadfest_genesisstoryline.jpg)
-
-This post also provided a lot of lore insights, which are documented on the  [Genesis Storyline page](genesis-storyline).
+This post also provided what seems to be an initial draft for the lore about the church, 
+which is documented on the [Genesis Storyline page](genesis-storyline). This information does seem to conflict 
+with information later presented officially through Sof's [journal](journal).
 
 ---
 
 ## Read More
 
+Related lore:
+
 * [Genesis storyline](genesis-storyline)
 * [Nex Gen Corporation](./nex-gen-corporation)
 * [Church of Genxsis](church)
-
-&nbsp;

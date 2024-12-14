@@ -86,4 +86,14 @@ Related files:
 
 Related characters:
 
-- [Scott](../characters/syko)
+- [Scott](../characters/scott)
+
+Related songs:
+
+- [Parasite Eve](song-parasite-eve)
+- [Teardrops](song-teardrops)
+- [Obey](song-obey)
+- [Itch for the Cure & Kingslayer](song-kingslayer-itch)
+- [1x1](song-1x1)
+- [Ludens](song-ludens)
+- [One Day The Only Butterflies Left Will Be In Your Chest As You March Towards Your Death ft. Amy Lee](song-butterflies)

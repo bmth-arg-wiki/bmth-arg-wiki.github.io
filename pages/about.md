@@ -8,7 +8,7 @@ tags: ["tinfoil society", "ARG", "bring me the horizon", "nex gen", "tinfoiling"
 
 # About 👽
 
-The Tinfoil Society is a community of Bring Me The Horizon fans who are working on the ARG together.  Together we theorise and work on cool projects!
+The Tinfoil Society is a community of Bring Me The Horizon fans who are working on the ARG together. Together we theorise and work on cool projects!
 
 Also check out our [page for theories](https://the-secret-tinfoil-society.notion.site/BRING-ME-THE-HORIZON-ARG-6c86ee58ee3b41a6b0c594cf59201d4b), 
 where you can check out our latest findings and theories.
@@ -43,3 +43,10 @@ This wiki exists because of your support, watchful eyes and hours of tinfoiling.
 
 Special thanks to the BMTH community and all Youtopians, for your enthusiasm 
 and kindness.
+
+***
+
+## Contact
+
+For content suggestions please email us at [bmthargwiki@gmail.com](mailto:bmthargwiki@gmail.com). You can also join 
+our ARC/HIVE Discord by clicking the icon on the bottom of the page.

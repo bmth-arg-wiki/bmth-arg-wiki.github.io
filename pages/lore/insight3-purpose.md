@@ -43,13 +43,6 @@ Insight 3 is also associated with [Pickles](../characters/pickles).
 
 ## Document contents
 
-<details class="password">
-  <summary>Password</summary>
-
-`purpose`
-</details>
-
-### Gallery
 
 {% include gallery.html folder="lore/insights/purpose/gallery" %}
 
@@ -87,6 +80,20 @@ Insight 3 is also associated with [Pickles](../characters/pickles).
 
 ***
 
+## Password Context
+
+<details class="password">
+  <summary>Password</summary>
+
+`purpose`
+</details>
+## Read More
+
+Before the update in December 2024, this file used to be locked with a password.
+This password was obtained through a spectrogram in [[ost] puss-e](../music/song-pusse).
+
+***
+
 ## Read More
 
 More from [📁 FOR SOF](../for-sof)
@@ -103,3 +110,8 @@ Other insights:
 - [Insight 1: Connection](insight1-connection)
 - [Insight 2: Empathy](insight2-empathy)
 - [Insight 4: Vision](insight4-vision)
+
+Related music:
+
+- [Spectrograms](../music/spectrograms)
+- [[ost] puss-e](../music/song-pusse)

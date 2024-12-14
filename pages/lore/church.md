@@ -7,32 +7,33 @@ tags: ["bmth", "bring me the horizon", "church of genxsis", "eve", "church of ge
        "mantra", "cult"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/genxsis.faith/genxsis_faith.png"
 ---
-# Church of Genesis/Genxsis
+# Church of Genxsis
 
 The Church of Genxsis is a religious organization that likely has 
-involvement with [Nex Gen](../lore/nex-gen-corporation).
+involvement with [Nex Gen](nex-gen-corporation), formerly named [ARC/HIVE](archive). 
+It started with the birth of a pink-haired boy named [Skys](../characters/skys), who 
+ended up leading the cult of [Mantra](mantra).
+
+There have been at least two Church of Genxsis events hosted:
+[Downloadfest](downloadfest) and Church of Genxsis Jakarta. There was also a
+Church of Genxsis booth at NexFest Tokyo.
 
 ***
 
 ## Backstory
 
-From the [Genesis storyline post](../lore/genesis-storyline):
+![Website screenshot](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/church/church_sof_journal.png)
 
->
-> Church of Genesis
-> Founder: Alfred Ingram Winter
-> Leader: E.V.E
-> Founding date: 1956
->
-> Genesis is a religon official founded on planet earth in the 50's but which
-> gained worldwide attenton and popularity in the midst of a viral pandemic & a
-> mysterious experiment called NEX GEN.
+According to [Sof](../characters/sof)'s [journal](journal), Genxsis is a secretive, corporate-backed offshoot from the Neosages, also known 
+as the Mantra cult. Most of what we learn about the cult comes from [Unbeleevable episodes 1](../for-sof/unbeleevable) and 
+[2](../for-sof/unbeleevable2).
 
-Additionally, there have been at least two Church of Genxsis events hosted: 
-[Downloadfest](downloadfest) and Church of Genxsis Jakarta. There was also a 
-Church of Genxsis booth at NexFest Tokyo.
+From flyers and posts we know that the Church focuses on unity and does not care much for 
+independent thought. They want to achieve a next step for humanity through mutation, aligning nicely with 
+Nex Gen's reputation of experimenting on people. From the documents left for Sof it becomes clear that the 
+history of these experiments goes a lot further back.
 
-The [unbeleevable video](../for-sof/unbeleevable) also tells us a little more about 
+[Unbeleevable Episode 1](../for-sof/unbeleevable) also tells us a little more about 
 the church of Genxsis and their involvement with the [Mantra cult](../music/amo-mantra).
 
 ***
@@ -41,8 +42,8 @@ the church of Genxsis and their involvement with the [Mantra cult](../music/amo-
 
 ![Website screenshot](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/genxsis.faith/genxsis_faith.png)
 
-The website also contains a personality test and contained a hidden section behind
-a password field as well. Sadly, the password protected content could not be 
+The website for the church, [genxsis.faith](https://genxsis.faith), also contains a personality test and contained a 
+hidden section behind a password field as well. Sadly, the password protected content could not be 
 retrieved from the website.
 
 ***

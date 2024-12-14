@@ -27,19 +27,29 @@ The cult was started by a man named Skys, who was born with pink hair. His paren
 him at 8 years old. After this point he fell in with a group of 'nutters'
 (as stated by Dr. Lee MD in [Unbeleevable](../for-sof/unbeleevable)) 
 and traveled the world. In the second [Unbeleevable episode](../for-sof/unbeleevable2) we learn 
-that Skys was involved with a man named Alby, who was like a mentor to him that he ended up leaving after a fight.
+that Skys was involved with a man named Alby, who was like a mentor to him that he ended up leaving after a fight. 
+We also learn more about what young Skys went through in his own [diary](../for-sof/skys-diary) and 
+[the Book of Eclipse](../for-sof/book-of-eclipse).
 
 At some point he then picked up a guitar and his band got somewhat successful.
 
+![Sof on Project Kingslayer in her journal](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/mantra/kingslayer_sof_journal.png)
+
+The cult of Mantra was also responsible for Project Kingslayer, which caused people psychological and physical harm
+in order to access hidden dimensions and manipulate dark matter, according to [Project D.U.S.T.](../for-sof/project_dust).
+It is stated that the Mantra cult was able to fend off hundreds of troops, seemingly using a psychological weapon like
+the [mares](mares) to paralyze the troops with fear.
+
 In the music video for [Mantra](../music/amo-mantra) we see the fall of the cult in an event that is later named 
-the October Massacre, at the October Palace.
-We see Skys in his office (seemingly) taking Mantra. He is found by a woman in red, who we learn is called Medea 
+the October Massacre, at the October Palace, the same place where the [collaboration between the trinity started in 2004](../for-sof/skystarjammers).
+We see Skys in his office (seemingly) taking Mantra and dying. He is found by a woman in red, who we learn is called Medea 
 at the end of the second Unbeleevable episode, and a funeral is planned. From the same episode, we also learn that 
 Medea was trying to take down the cult from the inside.
+
 The music video also shows us the funeral, where the cult members all take Mantra and start 
 convulsing violently. A mysterious electricity-like power knocks out or kills all the cult members. Medea seems to be 
 targeted specifically after the other cult members fall down, with her head eventually exploding.
-We then see Skys smirk in his coffin, indicating that he is not dead.
+We then see Skys smirk in his coffin, showing that he is not dead.
 
 The [Trinity document](../for-sof/trinity_document) also reveals that Skys' death was indeed faked and that he 
 was extracted from Novosovia in Operation Trinity.
@@ -47,9 +57,13 @@ was extracted from Novosovia in Operation Trinity.
 > It is believed that ARC/HIV recognizes the potential of their research
 > and seeks to attract them to their ranks to advance their technological and neuronal learning initiatives.
 
-[ARC/HIVE](archive) was in the practices of the Neosages/Mantra cult and the research from Project Kingslayer, extracting Skys along 
-with [Dallus Lauren](../characters/dallus-lauren) and [Karl Strassman](../characters/strassman). However, Dallus later 
-notes in [his diary](../for-sof/dallus-diary) that Skys is in a coma and his body is "useless". In Rebecca's 
+[ARC/HIVE](archive) was after the practices of the Neosages/Mantra cult and the research from Project Kingslayer, 
+extracting Skys along with [Dallus Lauren](../characters/dallus-lauren) and [Karl Strassman](../characters/strassman). 
+The operation took place around the 25th December 2020 and was ordered by [Victor Carmine](../characters/victor-carmine). 
+It formed the foundation for [Project D.U.S.T.](../for-sof/project_dust), which would expand on the research from 
+project Kingslayer, as well as the application of mares as weapons.
+
+However, Dallus later notes in [his diary](../for-sof/dallus-diary) that Skys is in a coma and his body is "useless". In Rebecca's 
 [second Grumblr entry](../for-sof/grumblr2) Skys gets another shot at life as a synth(etic human). He starts laughing 
 before begging for death. Strassman and Dallus argue over how Skys got into this state and Rebecca states “I’ll do it.”.
 

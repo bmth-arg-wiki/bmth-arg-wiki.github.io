@@ -12,7 +12,8 @@ next_text: "09. One Day The Only Butterflies"
 
 Eight song on the tracklist of [POST HUMAN: SURVIVAL HORROR](ph-survival-horror). 
 Written for the game Death Stranding. This game was written by Hideo Kojima, who seems to be on 
-friendly terms with Oli.
+friendly terms with Oli. Oli explains in the behind the scenes video that the music video shows 
+imagery of a protest.
 
 ***
 
@@ -20,6 +21,7 @@ friendly terms with Oli.
 
 {% include content/buttons/button-danger.html text="Official MV" link="https://www.youtube.com/watch?v=B9wvTuDC-H0" %}
 {% include content/buttons/button-danger.html text="Official LV" link="https://www.youtube.com/watch?v=jWR2pkfwfuA" %}
+{% include content/buttons/button-danger.html text="Behind the Scenes" link="https://www.youtube.com/embed/Z4rqyLzfc7k" %}
 
 <details class="lyrics">
 <summary>Lyrics</summary>
@@ -107,4 +109,12 @@ friendly terms with Oli.
 
 ## Read More
 
-- [POST HUMAN: SURVIVAL HORROR](ph-survival-horror)
+[POST HUMAN: SURVIVAL HORROR](ph-survival-horror):
+
+- [Dear Diary,](song-dear-diary)
+- [Parasite Eve](song-parasite-eve)
+- [Teardrops](song-teardrops)
+- [Obey](song-obey)
+- [Itch for the Cure & Kingslayer](song-kingslayer-itch)
+- [1x1](song-1x1)
+- [One Day The Only Butterflies Left Will Be In Your Chest As You March Towards Your Death ft. Amy Lee](song-butterflies)

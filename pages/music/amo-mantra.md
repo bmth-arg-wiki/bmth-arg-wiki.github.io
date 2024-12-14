@@ -22,7 +22,8 @@ It is related to the [Mantra cult](../lore/mantra), which
 we can learn more about in a few different files:
 
 - [Trinity document](../for-sof/trinity_document)
-- [Unbeleevable video](../for-sof/unbeleevable)
+- [Unbeleevable Episode 1](../for-sof/unbeleevable)
+- [Unbeleevable Episode 2](../for-sof/unbeleevable2)
 - [Skys & the Starjammers poster](../for-sof/skystarjammers)
 
 There was also a website with a teaser called `joinmantra.org`. It is no longer 
@@ -99,8 +100,8 @@ The extended intro of Mantra offers us a little glimpse into the cult of Mantra.
 > **Guy on a radio:** "Alpha Team, this is Anchor Team. Level One’s clear."
 >
 > **Woman:** "Welcome to your worst nightmares. Welcome to suffering. Welcome to true misery. Welcome to your pain. Welcome to the end of your life. Welcome to mantra,"
-> 
-> https://www.youtube.com/watch?v=vcI9-ZesGf4
+
+{% include content/buttons/button-danger.html text="Mantra (Extended Intro)" link="https://www.youtube.com/watch?v=vcI9-ZesGf4" icon="fa-brands fa-youtube" %}
 
 ***
 
@@ -109,14 +110,19 @@ The extended intro of Mantra offers us a little glimpse into the cult of Mantra.
 Related files:
 
 - [Trinity document](../for-sof/trinity_document)
-- [Unbeleevable video](../for-sof/unbeleevable)
+- [Unbeleevable Episode 1](../for-sof/unbeleevable)
+- [Unbeleevable Episode 2](../for-sof/unbeleevable2)
 - [Skys & the Starjammers poster](../for-sof/skystarjammers)
 
 Related Articles:
 
 - [Mantra cult](../lore/mantra)
+- [ARC/HIVE](../lore/archive)
 - [joinmantra.org](../lore/mantra#joinmantraorg)
 
 Related Characters:
 
 - [Skys](../characters/skys)
+- [Medea](../characters/medea)
+- [Strassman](../characters/strassman)
+- [Dallus Lauren](../characters/dallus-lauren)

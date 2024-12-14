@@ -20,8 +20,18 @@ previous_text: "Part 1. The Website"
 
 **[← previous](walkthrough)**
 
-> ℹ The passwords, hints, links and other spoilers in this article are all hidden. Click the arrows to expand any area
-to learn more and enjoy it your way!
+{% include content/info.html
+title="Update in progress..."
+icon="fa-solid fa-info"
+content="The website underwent many changes on December 2024. Please be patient while we upd8 the wiki <3"
+%}
+
+{% include content/info.html
+title="Click the arrows to learn more"
+icon="fa-solid fa-info"
+content="The passwords, hints, links and other spoilers in this article are all hidden. Click the arrows to expand any area
+to learn more and enjoy it your way!"
+%}
 
 After exploring the ARG website for the first time, we can start to learn more by unlocking files. 
 `FOR SOF` is the folder of files where most of the ARG takes place.

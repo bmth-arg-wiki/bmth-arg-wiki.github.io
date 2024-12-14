@@ -102,3 +102,17 @@ It’s nicer when you can’t see the chains.
 
 {% include content/buttons/button-primary.html text="NME interview" icon="fa-solid fa-microphone"
 link="https://www.nme.com/big-reads/bring-me-the-horizon-cover-interview-2020-post-human-survival-horror-2804768" %}
+
+***
+
+## Read More
+
+[POST HUMAN: SURVIVAL HORROR](ph-survival-horror):
+
+- [Dear Diary,](song-dear-diary)
+- [Parasite Eve](song-parasite-eve)
+- [Teardrops](song-teardrops)
+- [Itch for the Cure & Kingslayer](song-kingslayer-itch)
+- [1x1](song-1x1)
+- [Ludens](song-ludens)
+- [One Day The Only Butterflies Left Will Be In Your Chest As You March Towards Your Death ft. Amy Lee](song-butterflies)
