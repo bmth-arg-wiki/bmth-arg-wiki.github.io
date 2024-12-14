@@ -1,5 +1,5 @@
 ---
-title: "Cities coordinates"
+title: "Cities Coordinates"
 description: "This page is about the fifth inventory file that contains coordinates of cities."
 categories: ["for-sof"]
 tags: ["bmth", "nex gen", "m8", "berlin", "mexico", "sheffield"]
@@ -25,7 +25,7 @@ This file is guarded by the rubik's cube puzzle.
 
 ## Gallery
 
-![coordinates](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/cities_coordinates/cities-coordinates.png)
+![coordinates](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/cities_coordinates/rubikscoordinates.png)
 
 ***
 
