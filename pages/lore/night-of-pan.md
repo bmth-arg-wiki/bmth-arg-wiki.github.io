@@ -12,7 +12,8 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 state that represents the stage of ego-death in the process of spiritual attainment." - Wikipedia
 
 The night of Pan links back to the word `NOX` in the [capslock doc](../for-sof/capslock_doc), as well as 
-character [Pan](../characters/pan). Pagan/witchcraft symbolism is used many times throughout the ARG.
+character [Pan](../characters/pan). Pagan/witchcraft symbolism is used many times throughout the ARG. The 
+group [Skys](../characters/skys) traveled with practiced a form of Velama, a play on Thelema.
 
 ***
 
@@ -30,5 +31,15 @@ of the [Connection insight](../lore/insight1-connection).
 
 ## Read More
 
+Related characters:
+
 - [Pan](../characters/pan)
+- [Vanth](../characters/vanth)
+- [Miseria](../characters/miseria)
+- [The Babylon](../characters/babylon)
+- [Syko](../characters/syko)
+
+Related lore:
+
+- [The Insights](insights)
 - [Connection](insight1-connection)
