@@ -5,7 +5,7 @@ It is associated with band member Madman, Miseria and angel Gabriel."
 categories: ["lore", "for-sof"]
 tags: ["insights", "empathy", "youtopia", "for sof", "gabriel", "miseria", 
        "madman", "blue", "west"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/empathy/gallery/empathy1.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/empathy/empathy-300x300.png"
 previous: "lore/insight1-connection"
 previous_text: "INSIGHT1.DOC"
 next: "lore/insight3-purpose"

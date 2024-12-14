@@ -5,7 +5,7 @@ with Uriel, Vegan and the golden raspberry."
 categories: ["lore", "for-sof"]
 tags: ["insights", "vision", "youtopia", "for sof", "uriel", "golden raspberry", 
        "vegan"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/vision/gallery/img.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/vision/vision-300x300.png"
 previous: "lore/insight3-purpose"
 previous_text: "INSIGHT3.DOC"
 next: "for-sof/capslock_doc"

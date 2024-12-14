@@ -5,7 +5,7 @@ and pink hair."
 categories: ["lore"]
 tags: ["mantra", "experimentation", "cult", "drug", "bring me the horizon", "bmth", 
        "arg", "lore", "invitation to salvation", "joinmantra.org", "starjammers", "skys"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/unbeleevable/gallery/cult-of-mantra.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/mantra/mantra-300x300.png"
 ---
 # Mantra Cult
 

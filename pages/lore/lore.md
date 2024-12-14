@@ -3,22 +3,17 @@ title: "Lore"
 description: "This page provides an overview of general lore concepts in the ARG."
 categories: ["for-sof"]
 tags: ["bmth", "arg", "nex gen", "church of genxis", "archive", "arc/hive", "mantra", "cult", "youtopia"]
-image: "Resources/lore/mantra/mantra-not-for-consumption.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/lore-300x300.png"
 ---
 
 # Lore 
 
-{% assign page_links = '/pages/lore/youtopia, /pages/lore/booklet, /pages/lore/pusse, /pages/m8, /pages/lore/vspr37, /pages/lore/night-of-pan, /pages/lore/downloadfest' | split: ", " %}
+{% assign page_links = '/pages/lore/youtopia, /pages/lore/booklet, /pages/lore/pusse, /pages/m8, /pages/lore/vspr37, /pages/lore/mares, /pages/lore/night-of-pan, /pages/lore/downloadfest' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ## ARG Website - Main Page
 
 {% assign page_links = '/pages/webpage, /pages/lore/wifi, /pages/lore/webbrowser, /pages/music/website-songs, /pages/lore/journal' | split: ", " %}
-{% include page-card-gallery.html links=page_links %}
-
-## ARG Website - INVENTORY Folder
-
-{% assign page_links = '/pages/for-sof/skys-diary, /pages/for-sof/grumblr2, /pages/for-sof/book-of-eclipse, /pages/for-sof/unbeleevable2' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ## Organisations
