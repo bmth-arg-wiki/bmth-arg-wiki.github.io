@@ -13,7 +13,7 @@ tags: ["sof", "arg", "journal", "selene", "scott", "M8", "eve", "karl", "strassm
 
 # Journal
 
-> I despise my mother.
+> I despise my mother.  
 
 The Journal is found on the main page of the ARG Website. 
 It belongs to Sof, who tries their best to chronicle what they've learnt about the world they are in.

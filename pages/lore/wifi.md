@@ -3,12 +3,12 @@ title: "Wifi"
 description: "This page is about the Wifi section of the ARG website."
 categories: ["lore"]
 tags: ["wifi", "arg", "website", "lore", "m8"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/wifi/wifi-servers.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/wifi/wifi-300x300.png"
 ---
 
 # Wifi
 
-The Multidimensional Navigator 8 has a wifi feature, which was unusable until September 30th.
+The Multidimensional Navigator 8 has a wifi feature, which was unusable until September 30th. 
 
 It is found in this little tab on the left:
 
