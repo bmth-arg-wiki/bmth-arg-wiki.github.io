@@ -4,23 +4,35 @@ description: "P.U.S.S-E is DMT, used to reach Youtopia within the ARG universe."
 categories: ["lore"]
 tags: ["pusse", "dmt", "strassman", "youtopia", "nex gen", "arg", "pineal", "upregulation", 
        "gland", "pharma", "spirit molecule", "mares"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/promotional_image_pusse_youtopia.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/pusse/pusse-300x300.png"
 ---
 # P.U.S.S-E
 
-> *This page refers to the concept within the ARG, not the [song](../music/song-pusse).*
-
-P.U.S.S-E is short for Pineal Upregulation Synthetic Substrance Enhanced, 
-as seen in promotional posts.
-It is based on DMT, as confirmed in the [song](../music/song-pusse).
+{% include content/info.html
+title="P.U.S.S-E: the drug"
+icon="fa-solid fa-info"
+content="This page refers to the concept within the ARG, not the [song](../music/song-pusse)."
+%}
 
 > *"What would you do for P.U.S.S-E?"*
 
-P.U.S.S-E seems to be a drug, implied by instagram posts, a pill bottle at the end of the spectrogram in 
+P.U.S.S-E is short for Pineal Upregulation Synthetic Substance Enhanced, 
+as seen in promotional posts. It is based on DMT, as confirmed in the [song](../music/song-pusse).
+
+***
+
+## Background
+
+P.U.S.S-E is a drug, as seen in Instagram posts and implied by a pill bottle at the end of the spectrogram in 
 [the song](../music/song-pusse) and additional promotional information. The stylization of puss-e (like P.u.s.s-e) is 
 different between the tracklist and the instagram.
 
-![P.U.S.S-E product banner](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/promotional_image_pusse_youtopia.png)
+In the [Strassman Codec](../for-sof/strassmancodec) from June 2039 we learn that the pineal upregulation synthetic substance
+(enhanced) is synthesized using [Selene](../characters/selene)'s exceptional pineal gland. Her unique indole alkaloid structure 
+is what the substance is based on. By pairing this drug with [Nex Gen](nex-gen-corporation)'s Dreamseeker tanks, subjects 
+are given a chance at reaching Youtopia, however the consequences of that pursuit can be severe, likely even deadly.
+
+![P.U.S.S-E product banner](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/pusse/promotional_image_pusse_youtopia.png)
 
 Promotional post from the BMTH instagram, see page on [social posts](../socials)
 
