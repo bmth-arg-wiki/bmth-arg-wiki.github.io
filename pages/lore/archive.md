@@ -85,6 +85,11 @@ by [Unbeleevable Episode 2](../for-sof/unbeleevable2).
 The research proposal subject line also refers to Project S.Y.K.O, likely referring to the character 
 [Syko](../characters/syko). More information about this project might be behind some of the redacted lines.
 
+{% include content/info.html
+title="Continue the story with Nex Gen corporation"
+content="The rest of the companies shady business is documented in the [Nex Gen Corporation](nex-gen-corporation) article."
+%}
+
 ***
 
 ## Other experiments
