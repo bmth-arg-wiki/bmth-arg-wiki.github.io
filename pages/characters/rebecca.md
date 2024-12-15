@@ -11,16 +11,37 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 
 Rebecca was a former terminally ill lab assistant at Arc/Hive, before becoming the first
 synth. She is [interviewed](../for-sof/tekka_interview) about the ambitious project from Nex Gen
-by a magazine called Tekka.
+by a magazine called Tekka. Sadly, she later falls victim to [Lupamine](../lore/lupamine) addiction.
 
 ![Tekka Magazine cover](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/tekka/tekka_cover.png)
 
-We learn more about Rebecca and her diagnosis in the [Grumblr file](../for-sof/grumblr). 
-She suffers from CERS, or Chronic Environmental Respiratory Syndrome.
-This disease has already caused her so much damage she likely won't be able to be saved by 
-[Dallus Lauren](dallus-lauren)'s research.
-Nex Gen then saves her life by turning her into the first synth.
-She smokes as a marketing ploy.
+***
+
+## Backstory
+
+Rebecca's story starts tragically with a terminal diagnosis in her [2027 Grumblr post](../for-sof/grumblr). 
+She suffers from CERS, or Chronic Environmental Respiratory Syndrome. She remarks that she is 27 years old, 
+still a virgin and mostly spends time at her own house around her cats. She speaks about her bond with her 
+quirky coworker [Iara](iara) and how her diagnosis affects her. We learn that [Dallus](dallus-lauren) is working on 
+something that could save her, but she is already experiencing neurological symptoms and struggling to put on lipstick.
+
+At the time of her illness, she works at [ARC/HIVE](../lore/archive) as a lab assistant. In the [2028 Tekka interview](../for-sof/tekka_interview) 
+we learn that things seem to have improved for Rebecca. She had become the first [synth](../lore/synths) in a successful project that 
+the company credited to [Nex Gen](../lore/nex-gen-corporation), ARC/HIVE's new name. Nex Gen is so confident in the 
+resilience of their Synthetic Neurological Transference Human (synth), they have her smoke as a marketing ploy.
+Rebecca also made a promotion to head of R&D (Research & Development). Interviewer Jax Jackson asks her about working with 
+Dallus, [Strassman](strassman) and [Victor Carmine](victor-carmine), but she shuts the interviewer down.
+
+On November 5th 2036 we hear from Rebecca on [Grumblr](../for-sof/grumblr2) again. She writes about her day, working with 
+Strassman and Dallus on the SYNTH project she was a part of years earlier. Unexpectedly, she learns that [Skys](skys) 
+is not only still alive, but Strassman and Dallus plan to transfer his consciousness into a synth. Skys, not so happy 
+to awake as a synth, starts begging the three scientists for death. While Strassman and Dallus argue about the state of him, 
+Rebecca states that she will "do it". It is currently unknown what happens to Skys after.
+
+From unlocking the credentials for the [Spyder](../lore/webbrowser), we get access to several Gat3keeper articles. 
+One of the articles details that sadly, Rebecca had fallen victim to a [lupamine](../lore/lupamine) addiction, becoming 
+violent and psychotic. It was thought that synths were immune to addiction, but the drugs effects were even amplified 
+by her synthetic body. She became the most infamous case of Lupamine addiction.
 
 ***
 
@@ -29,14 +50,19 @@ She smokes as a marketing ploy.
 Related files:
 
 - [Tekka interview](../for-sof/tekka_interview)
-- [Grumblr post](../for-sof/grumblr)
+- [2027 Grumblr post](../for-sof/grumblr)
+- [2036 Grumblr post](../for-sof/grumblr2)
 
 Related articles:
 
 - [ARC/HIVE](../lore/archive)
 - [Nex Gen Corporation](../lore/nex-gen-corporation)
+- [Synths](../lore/synths)
+- [Lupamine](../lore/lupamine)
+- [Webbrowser](../lore/webbrowser)
 
 Related characters:
 
-- [Characters](../characters)
 - [Dallus Lauren](dallus-lauren)
+- [Iara](iara)
+- [Strassman](strassman)
