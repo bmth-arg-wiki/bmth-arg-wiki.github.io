@@ -22,7 +22,9 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/lo
 
 ## ARG Website - Spyder Web Browser
 
-On Monday 15th December 2024, the access codes for the web browser were found.
+### The Daily Whisper
+
+On Monday 15th December 2024, the access codes for the [web browser](webbrowser) were found.
 Spyder opens on newspaper called "The Daily Whisper". Here are the articles found there:
 
 {% assign page_links = '/pages/lore/tdw-loophole, /pages/lore/tdw-gatekeeper, /pages/lore/tdw-vanished, /pages/lore/tdw-riseofsynth, /pages/lore/tdw-valexlastwords, /pages/lore/tdw-riseoflupamine, /pages/lore/tdw-mindxscape, /pages/lore/tdw-faithedge, /pages/lore/tdw-clonechaos, /pages/lore/tdw-redwhiteblood, /pages/lore/tdw-futureentertainment, /pages/lore/tdw-bloodredspectacles, /pages/lore/tdw-roguesentinels' | split: ", " %}

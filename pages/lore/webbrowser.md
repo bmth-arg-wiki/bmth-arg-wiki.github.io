@@ -9,17 +9,22 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/we
 ---
 # Web Browser - Spyder
 
-Spyder is the web browser of the Multidimensional Navigator 8, which was unusable until September 30th.
+Spyder is the web browser of the [Multidimensional Navigator 8](../webpage) , which was unusable until September 30th, 
+as we did not have the [wifi](wifi) passwords.
 
-It's accessed through this spider-web icon at the top left of the screen. 
+It's accessed through this intricate looking icon at the top left of the screen. 
 
-![spyder icon](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/spyder-icon.png)
+![spyder icon](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/spyder300x300.png)
 
 It has had multiple iterations since the ARG started.
 
 ## Version 1
 
-The first version of the Spyder homepage was pretty simple and had a url that lead nowhere.
+Spyder's icon used to be this simple blue spiderweb:
+
+![spyder icon](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/spyder-icon.png)
+
+The homepage was also pretty simple and had a url that lead nowhere.
 
 ![spyder version 1](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/spyder-v1.png)
 
@@ -35,7 +40,7 @@ The first version of the Spyder homepage was pretty simple and had a url that le
 >
 >[Drawing of M8 sleeping]
 
-The error code seems to be related to [Top 10 statues that cried blood](../music/song-top10).
+The error code seemed to be related to [Top 10 statues that cried blood](../music/song-top10).
 
 ***
 
@@ -55,10 +60,11 @@ That new address proved useful for the [Dreaddit file](../for-sof/dreadit).
 
 ***
 
-## Version 3
+## Version 3.1
 
 The third (and current) iteration of the browser was revealed on September 30th when the first [wifi password](wifi#nxEcoSubLevel) was found.
-The entire page got a redesign and M8 talks about it.
+The entire page got a redesign and M8 talks about it. 
+We now need access codes to use the internet, which we do not have yet.
 
 ![spyder version 3](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/spyder-v3.png)
 
@@ -116,7 +122,7 @@ This action prompts more dialog from M8.
 
 ### Transcription
 
->[Screen:]
+> ### Screen:
 >
 >**THIS WEBSITE HAS BEEN BLOCKED**
 >
@@ -128,7 +134,7 @@ This action prompts more dialog from M8.
 >
 >[M8 systems logo]
 
->[M8 voicelines:]
+> ### M8 voicelines:
 >
 >“Firewall block?! Oh come on! Hm… What we need is a private internet stealth switch. Cuts through security like butter. 
 I used to use it to watch Brasilian fart por- Brasilian farming documentaries, ahahahah… 
@@ -136,19 +142,99 @@ Anyhoo! If you can get your hands on a PISS, we should be able to bypass this no
 
 ***
 
+## Version 3.2
+
+On December 15th 2024, thanks to the [Coordinates file](../for-sof/cities-coordinates) from the [Inventory](../for-sof/for-sof),
+the Spyder access codes were found on cards across three cities: Berlin, Sheffield, and Mexico City.
+
+{% include gallery.html folder="lore/webbrowser/accesscodes" %}
+
+![clear access codes](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/login.png)
+
+Upon entering these numbers, the browser loads a page from a newspaper called 'The Daily Whisper', 
+whose name is a play on the real life publication 'The Daily Mail'.
+
+![daily whisper unlock](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/tdw-unlock.png)
+
+### Transcription
+
+> HOME ← →    SPYDER.WEB_BROWSER    https://www.198?./encrypted//91sj01-394/|I-0d193a-0918-4662--qu_5551102927377192018  [magnifying glass search button] [reload + close buttons]
+>
+> ⚠️ INCOMING ADS
+>
+> [PRIVACY POLICY]    MONDAY, OCT 7TH 2024 12PM    16°C 3PM 15°C 5-DAY FORECAST
+>
+> C991-0
+> C991-1
+> C991-2
+> C991-3
+> C991-4
+> C991-5
+> C991-6
+> …DL
+>
+> **The Daily Whisper**
+>
+> AA1-981_103E7-019_110    LAST UPDATED 11:43    [CONTACT]
+>
+> PTU-IJNSJQ1L23IA2_999    Encrypted Operating Number: 02-077-129-3AAF
+>
+> [Full GAT3KEEPER transcription [here](tdw-gatekeeper).]
+
+When the back arrow in the top left corner of the screen is clicked, 
+we are lead to a table of content for all the articles on this website.
+
+![tdw menu](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/tdw-menu.png)
+
+### Transcription
+
+> - [What Is a Loophole?](tdw-loophole) - And Other Questions About Lupamine Use in the DTC
+> - [GAT3KEEPER](tdw-gatekeeper) - The DTC's Most Advanced Theme Park and It's Tragic History
+> - [Vanished Beyond the Veil](tdw-vanished) - The Disturbing Fate of the Picardo Expedition
+> - [The Rise of Synthetic Humans](tdw-riseofsynth) - What We Know So Far
+> - [Star Jayven Valex's Last Words](tdw-valexlastwords) - "Shoot me up with a big fat slug"
+> - [The Dark Rise of Lupamine](tdw-riseoflupamine) - From Military Tranquilizer to Killer Street Drug
+> - [MindXscape](tdw-mindxscape) - A Fatal Glitch in Memory Vacations?
+> - [Faith on the Edge](tdw-faithedge) - DTC's Death Row Convict Prepares for a Public Redemption
+> - [Clone Chaos](tdw-clonechaos) - Celeb's Synth Swap Scandals Go Public!
+> - ["Red, White, and Blood"](tdw-redwhiteblood) - Movie Review
+> - [The Future of Entertainment](tdw-futureentertainment) - A Look at Midstream's Cerebral Cinema Revolution
+> - [Inside the Blood-Red Spectacles](tdw-bloodredspectacles) - The Elite's Underground Parties
+> - [NEX GEN's Rogue Sentinels](tdw-roguesentinels) - A Dispatch
+
+***
+
 ## Read More
 
 More [lore](lore)!
 
-Related file
+Related files:
 
 - [Dreaddit](../for-sof/dreadit)
 
-Related articles
+Related lore:
 
 - [Nex Gen Corporation](nex-gen-corporation)
+- [M8 webpage](../webpage)
 - [Wifi](wifi)
+- [What Is a Loophole](tdw-loophole)
+- [GAT3KEEPER](tdw-gatekeeper)
+- [Vanished Beyond the Veil](tdw-vanished)
+- [The Rise of Synthetic Humans](tdw-riseofsynth)
+- [Star Jayven Valex's Last Words](tdw-valexlastwords)
+- [The Dark Rise of Lupamine](tdw-riseoflupamine)
+- [MindXscape](tdw-mindxscape)
+- [Faith on the Edge](tdw-faithedge)
+- [Clone Chaos](tdw-clonechaos)
+- ["Red, White, and Blood"](tdw-redwhiteblood)
+- [The Future of Entertainment](tdw-futureentertainment)
+- [Inside the Blood-Red Spectacles](tdw-bloodredspectacles)
+- [NEX GEN's Rogue Sentinels](tdw-roguesentinels)
 
-Related song
+Related character:
+
+- [M8](../m8)
+
+Related song:
 
 - [Top 10 statues that cried blood](../music/song-top10)
