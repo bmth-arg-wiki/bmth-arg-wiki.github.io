@@ -158,7 +158,9 @@ whose name is a play on the real life publication 'The Daily Mail'.
 
 ### Transcription
 
-> HOME ← →    SPYDER.WEB_BROWSER    https://www.198?./encrypted//91sj01-394/|I-0d193a-0918-4662--qu_5551102927377192018  [magnifying glass search button] [reload + close buttons]
+> HOME ← →    SPYDER.WEB_BROWSER    
+> https://www.198?./encrypted//91sj01-394/|I-0d193a-0918-4662--qu_5551102927377192018  
+> [magnifying glass search button] [reload + close buttons]
 >
 > ⚠️ INCOMING ADS
 >
