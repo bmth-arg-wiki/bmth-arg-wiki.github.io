@@ -9,7 +9,28 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 
 # The Babylon
 
-> Coming soon!
+The babylon is the omen of [Vision](../lore/insight4-vision) and resides in the North of [Youtopia](../lore/youtopia).
+
+[Image from the booklet](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/babylon/babylon.png)
+
+Thanks to sw33t_viol3nt_urg3 on Discord for enhancing the image scan from the booklet.
+
+***
+
+## Backstory
+
+> A beast as old as the land itself, it is fueled by Dark Matter, an evil & dangerous venom 
+> that infects all that are bitten by it.
+
+The [booklet](../lore/booklet) gives us most of the information we have about the Babylon, although 
+it was mentioned by name only in the very early [Vision document](../lore/insight4-vision). The booklet 
+paints it as a very dangerous three-headed snake, that can only be defeated through true vision. 
+The reward for defeating the babylon is the golden raspberry.
+
+[Image from the booklet](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/babylon/golden_raspberry.jpg)
+
+The Golden Raspberry exists in real life as a parody award show for honoring cinematic failures and is described in the 
+booklet as a reminder that one shouldn't take themselves too seriously. It symbolizes self-awareness.
 
 ***
 
@@ -18,6 +39,11 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 Back to [characters](characters). 
 
 Related characters:
+
+- [Vegan](vegan)
+- [Selene](selene)
+
+Related omens:
 
 - [Pan](pan)
 - [Miseria](miseria)

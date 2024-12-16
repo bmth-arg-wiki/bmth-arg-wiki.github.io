@@ -1,23 +1,31 @@
 ---
 title: "Mantra Cult"
 description: "The Neosages, also known as the Mantra cult were lead by Skys, a mysterious leader with a charming aura 
-and pink hair."
+and pink hair. They explored the boundaries of human suffering to reach enlightenment."
 categories: ["lore"]
 tags: ["mantra", "experimentation", "cult", "drug", "bring me the horizon", "bmth", 
        "arg", "lore", "invitation to salvation", "joinmantra.org", "starjammers", "skys"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/mantra/mantra-300x300.png"
 ---
-# Mantra Cult
+# Mantra Cult/Neosages
+
+{% include content/info.html
+title="Neosages Mantra (Cult)"
+content="This article is about the cult of Mantra MANTRA, not about [the song](../music/amo-mantra)."
+%}
 
 ![The Cult of Mantra](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/unbeleevable/gallery/cult-of-mantra.png)
 
 The Neosages, better known as the Mantra, are a cult with their leader being
 [Skys](../characters/skys). Skys is also in a band called 'Skys & the Starjammers',
 we learn from the first [Unbeleevable episode](../for-sof/unbeleevable).
-One of the files in the [FOR SOF](../for-sof) folder contains a [poster](../for-sof/skystarjammers) 
-for the band, inviting people to their show at October Palace in 2004.
 
-This is the same location where the October Massacre would later take place, an event we see in the [music video for Mantra](../music/amo-mantra).
+One of the files in the [FOR SOF](../for-sof) folder contains a [poster](../for-sof/skystarjammers) 
+for the band, inviting people to their show at October Palace on the 19th of December 2004, where the Trinity would end 
+up meeting and working together for the first time.
+
+This is the same location where the October Massacre would later take place, an event we see in the [music video for Mantra](../music/amo-mantra), 
+which signified the end of the cult.
 
 ***
 
