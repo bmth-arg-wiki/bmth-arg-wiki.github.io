@@ -3,6 +3,7 @@ title: "Faith on The Edge"
 description: "DTC' Death Row Convict Prepares for a Public Redemption"
 categories: ["lore"]
 tags: ["bmth", "arg", "nex gen", "spyder", "daily whisper", "faith", "edge"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/dailywhisper/faith-300x300.png"
 previous: "lore/tdw-mindxscape"
 previous_text: "MindXscape"
 next: "lore/tdw-clonechaos"

@@ -3,6 +3,7 @@ title: "Vanished Beyond the Veil"
 description: "The Disturbing Fate of the Picardo Expedition"
 categories: ["lore"]
 tags: ["bmth", "arg", "nex gen", "spyder", "daily whisper", "vanished", "beyond", "veil"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/dailywhisper/vanished-300x300.png"
 previous: "lore/tdw-gatekeeper"
 previous_text: "GAT3KEEPER"
 next: "lore/tdw-riseofsynth"

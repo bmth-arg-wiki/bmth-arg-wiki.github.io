@@ -3,6 +3,7 @@ title: "MindXscape"
 description: "A Fatal Glitch in Memory Vacations?"
 categories: ["lore"]
 tags: ["bmth", "arg", "nex gen", "spyder", "daily whisper", "mindxscape"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/dailywhisper/mindxscape-300x300.png"
 previous: "lore/tdw-riseoflupamine"
 previous_text: "The Dark Rise of Lupamine"
 next: "lore/tdw-faithedge"

@@ -3,6 +3,7 @@ title: "The Dark Rise of Lupamine"
 description: "From Military Tranquilizer to Killer Street Drug"
 categories: ["lore"]
 tags: ["bmth", "arg", "nex gen", "spyder", "daily whisper", "dark rise", "lupamine"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/dailywhisper/viruses-300x300.png"
 previous: "lore/tdw-valexlastwords"
 previous_text: "Star Jayven Valex's Last Words"
 next: "lore/tdw-mindxscape"

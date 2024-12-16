@@ -3,6 +3,7 @@ title: "The Rise of Synthetic Humans"
 description: "What We Know So Far"
 categories: ["lore"]
 tags: ["bmth", "arg", "nex gen", "spyder", "daily whisper", "synth", "synths"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/dailywhisper/synth-300x300.png"
 previous: "lore/tdw-vanished"
 previous_text: "Vanished Beyond the Veil"
 next: "lore/tdw-valexlastwords"

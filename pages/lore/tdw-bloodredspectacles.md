@@ -3,6 +3,7 @@ title: "Inside the Blood-Red Spectacles"
 description: "The Elite's Underground Parties"
 categories: ["lore"]
 tags: ["bmth", "arg", "nex gen", "spyder", "daily whisper", "blood red", "spectacles"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/dailywhisper/simps-300x300.png"
 previous: "lore/tdw-futureentertainment"
 previous_text: "The Future of Entertainment"
 next: "lore/tdw-roguesentinels"

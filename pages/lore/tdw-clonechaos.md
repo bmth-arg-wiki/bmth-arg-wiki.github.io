@@ -3,6 +3,7 @@ title: "Clone Chaos"
 description: "Celeb's Synth Swap Scandals Go Public!"
 categories: ["lore"]
 tags: ["bmth", "arg", "nex gen", "spyder", "daily whisper", "clone", "chaos"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/dailywhisper/scandal-300x300.png"
 previous: "lore/tdw-faithedge"
 previous_text: "Faith on the Edge"
 next: "lore/tdw-redwhiteblood"

@@ -3,6 +3,7 @@ title: "What Is a Loophole?"
 description: "And Other Questions About Lupamine Use in the DTC"
 categories: ["lore"]
 tags: ["bmth", "arg", "nex gen", "spyder", "daily whisper", "loophole"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/dailywhisper/loophole-300x300.png"
 next: "lore/tdw-gatekeeper"
 next_text: "GAT3KEEPER"
 ---

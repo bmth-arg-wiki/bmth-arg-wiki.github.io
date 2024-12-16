@@ -3,6 +3,7 @@ title: "Star Jayven Valex's Last Words"
 description: "'Shoot me up with a big fat slug'"
 categories: ["lore"]
 tags: ["bmth", "arg", "nex gen", "spyder", "daily whisper", "jayven", "valex", "last words"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/dailywhisper/valex-300x300.png"
 previous: "lore/tdw-riseofsynth"
 previous_text: "The Rise of Synthetic Humans"
 next: "lore/tdw-riseoflupamine"

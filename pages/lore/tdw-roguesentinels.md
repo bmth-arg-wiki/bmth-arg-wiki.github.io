@@ -3,6 +3,7 @@ title: "NEX GEN's Rogue Sentinels"
 description: "A Dispatch"
 categories: ["lore"]
 tags: ["bmth", "arg", "nex gen", "spyder", "daily whisper", "rogue", "sentinels"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/dailywhisper/lasto-300x300.png"
 previous: "lore/tdw-bloodredspectacles"
 previous_text: "Inside the Blood-Red Spectacles"
 ---

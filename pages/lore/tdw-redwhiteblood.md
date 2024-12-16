@@ -3,6 +3,7 @@ title: "'Red, White, and Blood'"
 description: "Movie Review"
 categories: ["lore"]
 tags: ["bmth", "arg", "nex gen", "spyder", "daily whisper", "red", "white", "blood"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/dailywhisper/red-300x300.png"
 previous: "lore/tdw-clonechaos"
 previous_text: "Clone Chaos"
 next: "lore/tdw-futureentertainment"

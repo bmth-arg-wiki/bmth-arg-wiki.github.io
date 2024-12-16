@@ -3,6 +3,7 @@ title: "The Future of Entertainment"
 description: "A Look at Midstream's Cerebral Cinema Revolution"
 categories: ["lore"]
 tags: ["bmth", "arg", "nex gen", "spyder", "daily whisper", "future", "entertainment"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/dailywhisper/entertainment-300x300.png"
 previous: "lore/tdw-redwhiteblood"
 previous_text: "'Red, White, and Blood'"
 next: "lore/tdw-bloodredspectacles"
