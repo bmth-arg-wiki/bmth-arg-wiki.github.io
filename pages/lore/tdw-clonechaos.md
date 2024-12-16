@@ -1,6 +1,6 @@
 ---
 title: "Clone Chaos"
-description: "This page is about a Daily Whisper article."
+description: "Celeb's Synth Swap Scandals Go Public!"
 categories: ["lore"]
 tags: ["bmth", "arg", "nex gen", "spyder", "daily whisper", "clone", "chaos"]
 previous: "lore/tdw-faithedge"
@@ -30,3 +30,7 @@ Other Daily Whisper articles:
 - [The Future of Entertainment](tdw-futureentertainment)
 - [Inside the Blood-Red Spectacles](tdw-bloodredspectacles)
 - [NEX GEN's Rogue Sentinels](tdw-roguesentinels)
+
+Related Lore:
+
+- [Spyder Web Browser](webbrowser)

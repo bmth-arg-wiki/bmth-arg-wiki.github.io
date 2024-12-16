@@ -1,6 +1,6 @@
 ---
 title: "The Dark Rise of Lupamine"
-description: "This page is about a Daily Whisper article."
+description: "From Military Tranquilizer to Killer Street Drug"
 categories: ["lore"]
 tags: ["bmth", "arg", "nex gen", "spyder", "daily whisper", "dark rise", "lupamine"]
 previous: "lore/tdw-valexlastwords"
@@ -30,3 +30,7 @@ Other Daily Whisper articles:
 - [The Future of Entertainment](tdw-futureentertainment)
 - [Inside the Blood-Red Spectacles](tdw-bloodredspectacles)
 - [NEX GEN's Rogue Sentinels](tdw-roguesentinels)
+
+Related Lore:
+
+- [Spyder Web Browser](webbrowser)

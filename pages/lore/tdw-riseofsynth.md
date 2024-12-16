@@ -1,6 +1,6 @@
 ---
 title: "The Rise of Synthetic Humans"
-description: "This page is about a Daily Whisper article."
+description: "What We Know So Far"
 categories: ["lore"]
 tags: ["bmth", "arg", "nex gen", "spyder", "daily whisper", "synth", "synths"]
 previous: "lore/tdw-vanished"
@@ -30,3 +30,7 @@ Other Daily Whisper articles:
 - [The Future of Entertainment](tdw-futureentertainment)
 - [Inside the Blood-Red Spectacles](tdw-bloodredspectacles)
 - [NEX GEN's Rogue Sentinels](tdw-roguesentinels)
+
+Related Lore:
+
+- [Spyder Web Browser](webbrowser)

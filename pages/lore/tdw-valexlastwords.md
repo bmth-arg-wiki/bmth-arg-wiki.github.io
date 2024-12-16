@@ -1,6 +1,6 @@
 ---
 title: "Star Jayven Valex's Last Words"
-description: "This page is about a Daily Whisper article."
+description: "'Shoot me up with a big fat slug'"
 categories: ["lore"]
 tags: ["bmth", "arg", "nex gen", "spyder", "daily whisper", "jayven", "valex", "last words"]
 previous: "lore/tdw-riseofsynth"
@@ -30,3 +30,7 @@ Other Daily Whisper articles:
 - [The Future of Entertainment](tdw-futureentertainment)
 - [Inside the Blood-Red Spectacles](tdw-bloodredspectacles)
 - [NEX GEN's Rogue Sentinels](tdw-roguesentinels)
+
+Related Lore:
+
+- [Spyder Web Browser](webbrowser)

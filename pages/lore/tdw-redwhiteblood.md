@@ -1,6 +1,6 @@
 ---
 title: "'Red, White, and Blood'"
-description: "This page is about a Daily Whisper article."
+description: "Movie Review"
 categories: ["lore"]
 tags: ["bmth", "arg", "nex gen", "spyder", "daily whisper", "red", "white", "blood"]
 previous: "lore/tdw-clonechaos"
@@ -30,3 +30,7 @@ Other Daily Whisper articles:
 - [The Future of Entertainment](tdw-futureentertainment)
 - [Inside the Blood-Red Spectacles](tdw-bloodredspectacles)
 - [NEX GEN's Rogue Sentinels](tdw-roguesentinels)
+
+Related Lore:
+
+- [Spyder Web Browser](webbrowser)

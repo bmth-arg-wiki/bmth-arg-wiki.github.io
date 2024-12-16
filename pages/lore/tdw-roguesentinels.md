@@ -1,6 +1,6 @@
 ---
 title: "NEX GEN's Rogue Sentinels"
-description: "This page is about a Daily Whisper article."
+description: "A Dispatch"
 categories: ["lore"]
 tags: ["bmth", "arg", "nex gen", "spyder", "daily whisper", "rogue", "sentinels"]
 previous: "lore/tdw-bloodredspectacles"
@@ -28,3 +28,7 @@ Other Daily Whisper articles:
 - ["Red, White, and Blood"](tdw-redwhiteblood)
 - [The Future of Entertainment](tdw-futureentertainment)
 - [Inside the Blood-Red Spectacles](tdw-bloodredspectacles)
+
+Related Lore:
+
+- [Spyder Web Browser](webbrowser)

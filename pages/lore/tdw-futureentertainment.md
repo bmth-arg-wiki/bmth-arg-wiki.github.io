@@ -1,6 +1,6 @@
 ---
 title: "The Future of Entertainment"
-description: "This page is about a Daily Whisper article."
+description: "A Look at Midstream's Cerebral Cinema Revolution"
 categories: ["lore"]
 tags: ["bmth", "arg", "nex gen", "spyder", "daily whisper", "future", "entertainment"]
 previous: "lore/tdw-redwhiteblood"
@@ -30,3 +30,7 @@ Other Daily Whisper articles:
 - ["Red, White, and Blood"](tdw-redwhiteblood)
 - [Inside the Blood-Red Spectacles](tdw-bloodredspectacles)
 - [NEX GEN's Rogue Sentinels](tdw-roguesentinels)
+
+Related Lore:
+
+- [Spyder Web Browser](webbrowser)

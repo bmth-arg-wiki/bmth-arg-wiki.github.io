@@ -1,6 +1,6 @@
 ---
 title: "What Is a Loophole?"
-description: "This page is about a Daily Whisper article."
+description: "And Other Questions About Lupamine Use in the DTC"
 categories: ["lore"]
 tags: ["bmth", "arg", "nex gen", "spyder", "daily whisper", "loophole"]
 next: "lore/tdw-gatekeeper"
@@ -28,3 +28,7 @@ Other Daily Whisper articles:
 - [The Future of Entertainment](tdw-futureentertainment)
 - [Inside the Blood-Red Spectacles](tdw-bloodredspectacles)
 - [NEX GEN's Rogue Sentinels](tdw-roguesentinels)
+
+Related Lore:
+
+- [Spyder Web Browser](webbrowser)

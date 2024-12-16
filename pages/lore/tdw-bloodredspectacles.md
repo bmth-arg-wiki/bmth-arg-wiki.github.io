@@ -1,6 +1,6 @@
 ---
 title: "Inside the Blood-Red Spectacles"
-description: "This page is about a Daily Whisper article."
+description: "The Elite's Underground Parties"
 categories: ["lore"]
 tags: ["bmth", "arg", "nex gen", "spyder", "daily whisper", "blood red", "spectacles"]
 previous: "lore/tdw-futureentertainment"
@@ -30,3 +30,7 @@ Other Daily Whisper articles:
 - ["Red, White, and Blood"](tdw-redwhiteblood)
 - [The Future of Entertainment](tdw-futureentertainment)
 - [NEX GEN's Rogue Sentinels](tdw-roguesentinels)
+
+Related Lore:
+
+- [Spyder Web Browser](webbrowser)
