@@ -11,11 +11,31 @@ next_text: "The Dark Rise of Lupamine"
 ---
 # Star Jayven Valex's Last Words
 
-Coming soon!
+> Coming soon!
 
 ***
 
-Read More
+## About
+
+
+
+***
+
+## Gallery
+
+![valex article](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/dailywhisper/valex.png)
+
+***
+
+## Transcription
+
+
+
+***
+
+## Read More
+
+More [lore](lore)!
 
 Other Daily Whisper articles:
 

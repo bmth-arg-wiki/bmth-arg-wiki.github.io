@@ -11,11 +11,31 @@ next_text: "NEX GEN's Rogue Sentinels"
 ---
 # Inside the Blood-Red Spectacles
 
-Coming soon!
+> Coming soon!
 
 ***
 
-Read More
+## About
+
+
+
+***
+
+## Gallery
+
+![blood red article](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/dailywhisper/simps.png)
+
+***
+
+## Transcription
+
+
+
+***
+
+## Read More
+
+More [lore](lore)!
 
 Other Daily Whisper articles:
 

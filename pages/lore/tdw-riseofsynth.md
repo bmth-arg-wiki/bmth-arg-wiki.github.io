@@ -11,11 +11,31 @@ next_text: "Star Jayven Valex's Last Words"
 ---
 # The Rise of Synthetic Humans
 
-Coming soon!
+> Coming soon!
 
 ***
 
-Read More
+## About
+
+
+
+***
+
+## Gallery
+
+![synth rise article](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/dailywhisper/synth.png)
+
+***
+
+## Transcription
+
+
+
+***
+
+## Read More
+
+More [lore](lore)!
 
 Other Daily Whisper articles:
 

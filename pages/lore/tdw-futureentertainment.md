@@ -11,11 +11,31 @@ next_text: "Inside the Blood-Red Spectacles"
 ---
 # The Future of Entertainment
 
-Coming soon!
+> Coming soon!
 
 ***
 
-Read More
+## About
+
+
+
+***
+
+## Gallery
+
+![entertainment article](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/dailywhisper/entertainment.png)
+
+***
+
+## Transcription
+
+
+
+***
+
+## Read More
+
+More [lore](lore)!
 
 Other Daily Whisper articles:
 

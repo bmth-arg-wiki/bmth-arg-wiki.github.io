@@ -11,11 +11,31 @@ next_text: "MindXscape"
 ---
 # The Dark Rise of Lupamine
 
-Coming soon!
+> Coming soon!
 
 ***
 
-Read More
+## About
+
+
+
+***
+
+## Gallery
+
+![lupamine article](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/dailywhisper/viruses.png)
+
+***
+
+## Transcription
+
+
+
+***
+
+## Read More
+
+More [lore](lore)!
 
 Other Daily Whisper articles:
 
