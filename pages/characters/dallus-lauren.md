@@ -27,6 +27,8 @@ My father envisioned a future where these would mitigate the environmental colla
 > 
 > - Ren in the [D8 log](../for-sof/lauren_d8_log)
 
+### Dallus & Mantra
+
 On the fateful day of [19th of December 2004](../for-sof/skystarjammers) Dallus first gets involved with unethical human 
 experimentation at October Palace. From [Unbeleevable Episode 2](../for-sof/unbeleevable2) we learn that on this day, he had come along 
 with [Strassman](strassman), who was deeply intrigued by the ramblings of [Mantra](../lore/mantra) cult leader [Skys](skys). Although Dallus was 
@@ -44,11 +46,23 @@ From the research proposal we learn that Dallus is undergoing desensitization pr
 which he likely got as a result of Skys and his cult. More concerning is the fact that his daughter Lyra, born at ARC/HIVE 
 and not exposed to the cult, is also seeing and drawing mares. This suggests that the mares may have been transferred genetically.
 
+### The Car Crash
+
+On November 5th 2024, Dallus visits the [Gat3keeper](../lore/tdw-gatekeeper) theme park, a park known for its technological innovations. 
+While he is driving home with his children Ren and Lyra in routine traffic, he gets into an accident that his daughter 
+Lyra does not survive. Officials ruled that Dallus had made an error while driving, but rumors persisted that something 
+in the park had caused the incident. It is also unclear where Dallus' wife Elena is at the time of the accident, as she 
+seems to vanish from records after their escape from Novosovia.
+
+### Working with Rebecca
+
 In November 2036 he starts working with [Rebecca](rebecca) on the SYNTH ("Synthetic Neurological Transference Human Project") 
 project. From her [Grumblr post](../for-sof/grumblr2) we also learn that his youngest, Lyra, tragically passed away in a 
 car crash. Dallus himself seems hollow, according to her, like he is only half there. Rebecca was the first successful 
 synth after suffering from a terminal illness, thanks to Dallus' invention. From his son's log we also learn that he worked 
 on the MOXYPAK, "a personal air purification device that transforms CO2 into breathable oxygen using BioCores".
+
+### Death & Ikaro's Legacy
 
 Dallus Lauren's son was named [Ikaro Lauren](ren), a trans man who is referred to as Dallus' daughter in his father's diary, 
 but prefers to call himself Ren. Like his father, he works with ARC/HIVE, now known as [Nex Gen](../lore/nex-gen-corporation). 

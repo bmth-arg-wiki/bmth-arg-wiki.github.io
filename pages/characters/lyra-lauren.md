@@ -24,9 +24,17 @@ Dallus' children in [Project D.U.S.T.](../for-sof/project_dust) and (likely) the
 which centers around Dallus and his trauma. These drawings are likely [Ren](ren)'s, since Lyra is not even a month old 
 at the time of the proposal in January 2021.
 
-This video also contains flashes of a car, reminiscent of the car crash mentions in [Rebecca's 2036 Grumblr post](../for-sof/grumblr2). 
-She mentions that Dallus' daughter died. Since Ren is still alive in 2037 to activate E.V.E., the child who died in the 
-crash has to be Lyra, putting an end to her short story.
+On the 5th of November Lyra Lauren mysteriously dies in a car crash, as we learn from the [webbrowser article on Gat3keeper](../lore/tdw-gatekeeper). 
+Gat3keeper was a technologically advanced theme park, where many ended up losing their lives. Much of this was to thank 
+to an AI named Celesta, who's first reported malfunctioning was in 2036. 
+On the night of the car crash, Dallus Lauren was driving his children Ren and Lyra home in routine traffic after 
+visiting the park. Although the circumstances seemed normal, an accident occurred, which the officials ruled as a driver error. 
+Rumors still circulated that the park had somehow influenced Dallus while driving that day, speculating about AI malfunctions 
+and experimental features at the park.
+
+The [in the dark](../music/amo-in-the-dark) video also contains flashes of a car and Rebecca mentions the crash in her  
+[2036 Grumblr post](../for-sof/grumblr2). This post was also made on the 25th of November, meaning Rebecca first worked 
+with him on the 12-year anniversary of his daughter's death.
 
 ***
 

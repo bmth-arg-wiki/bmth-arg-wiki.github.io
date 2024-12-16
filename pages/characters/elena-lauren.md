@@ -27,6 +27,9 @@ The picture Rebecca paints for the Laurens in [her 2036 Grumblr post](../for-sof
 Lyra has passed away in a car crash and that Dallus is not in a good mental state. We sadly do not known what happened to Elena, 
 with [Sof](sof) even stating in her [journal](../lore/journal) that Elena seems to fade from records after the escape.
 
+In the [Gat3keeper article](../lore/tdw-gatekeeper), we learn that Dallus was alone with the children on the day of the car crash 
+in 2024, with no mention of Elena.
+
 ***
 
 ## Read More
