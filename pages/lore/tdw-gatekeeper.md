@@ -19,7 +19,6 @@ Read More
 Other Daily Whisper articles:
 
 - [What Is a Loophole?](tdw-loophole)
-- [GAT3KEEPER](tdw-gatekeeper)
 - [Vanished Beyond the Veil](tdw-vanished)
 - [The Rise of Synthetic Humans](tdw-riseofsynth)
 - [Star Jayven Valex's Last Words](tdw-valexlastwords)

@@ -28,4 +28,3 @@ Other Daily Whisper articles:
 - ["Red, White, and Blood"](tdw-redwhiteblood)
 - [The Future of Entertainment](tdw-futureentertainment)
 - [Inside the Blood-Red Spectacles](tdw-bloodredspectacles)
-- [NEX GEN's Rogue Sentinels](tdw-roguesentinels)

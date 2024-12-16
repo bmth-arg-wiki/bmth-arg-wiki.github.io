@@ -26,7 +26,6 @@ Other Daily Whisper articles:
 - [The Dark Rise of Lupamine](tdw-riseoflupamine)
 - [MindXscape](tdw-mindxscape)
 - [Faith on the Edge](tdw-faithedge)
-- [Clone Chaos](tdw-clonechaos)
 - ["Red, White, and Blood"](tdw-redwhiteblood)
 - [The Future of Entertainment](tdw-futureentertainment)
 - [Inside the Blood-Red Spectacles](tdw-bloodredspectacles)

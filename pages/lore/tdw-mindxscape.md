@@ -24,7 +24,6 @@ Other Daily Whisper articles:
 - [The Rise of Synthetic Humans](tdw-riseofsynth)
 - [Star Jayven Valex's Last Words](tdw-valexlastwords)
 - [The Dark Rise of Lupamine](tdw-riseoflupamine)
-- [MindXscape](tdw-mindxscape)
 - [Faith on the Edge](tdw-faithedge)
 - [Clone Chaos](tdw-clonechaos)
 - ["Red, White, and Blood"](tdw-redwhiteblood)
