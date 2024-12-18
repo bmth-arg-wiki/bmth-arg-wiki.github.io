@@ -49,6 +49,7 @@ drug a try himself. We do not learn how this ends.
 Related characters:
 
 - [Rebecca Sinclair](../characters/rebecca) 
+- [Dr. Lee MD](../characters/lee-md)
 
 Related lore:
 
