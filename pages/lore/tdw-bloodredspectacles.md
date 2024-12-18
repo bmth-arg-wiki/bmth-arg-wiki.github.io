@@ -17,8 +17,6 @@ icon="fa-solid fa-triangle-exclamation"
 content="This article deals with sexual assault." 
 %}
 
-> Coming soon!
-
 This Daily Whisper article talks about the elite's 'Red Parties', and is written by [Dr. Lee M.D.](../characters/lee-md).
 He delves into the world of opulent parties thrown by problematic celebrities involving SIMPs,
 who are essentially sex slaves.
