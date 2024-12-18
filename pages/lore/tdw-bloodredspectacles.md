@@ -13,7 +13,6 @@ next_text: "NEX GEN's Rogue Sentinels"
 
 {% include content/warning.html 
 title="Trigger Warning" 
-icon="fa-solid fa-triangle-exclamation"
 content="This article deals with triggering topics, like SA." 
 %}
 
