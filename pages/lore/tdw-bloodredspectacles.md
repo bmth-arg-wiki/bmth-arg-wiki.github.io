@@ -11,13 +11,23 @@ next_text: "NEX GEN's Rogue Sentinels"
 ---
 # Inside the Blood-Red Spectacles
 
+{% include content/info.html 
+title="Trigger Warning" 
+icon="fa-solid fa-triangle-exclamation"
+content="This article deals with sexual assault." 
+%}
+
 > Coming soon!
+
+This Daily Whisper article talks about the elite's 'Red Parties', and is written by [Dr. Lee M.D.](../characters/lee-md).
+He delves into the world of opulent parties thrown by problematic celebrities involving SIMPs,
+who are essentially sex slaves.
 
 ***
 
 ## About
 
-
+This column was unlocked on Dec. 15th 2024 in the [Spyder browser](webbrowser).
 
 ***
 
@@ -29,7 +39,7 @@ next_text: "NEX GEN's Rogue Sentinels"
 
 ## Transcription
 
-
+Coming soon!
 
 ***
 
