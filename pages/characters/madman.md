@@ -38,8 +38,6 @@ He might also be linked to [Dr. Lee MD](lee-md), who is also played by Malia.
 
 ## Read More
 
-More [Characters](characters)!
-
 Related file:
 
 - [Unbeleevable](../for-sof/unbeleevable)
