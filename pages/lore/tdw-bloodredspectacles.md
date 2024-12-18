@@ -11,7 +11,7 @@ next_text: "NEX GEN's Rogue Sentinels"
 ---
 # Inside the Blood-Red Spectacles
 
-{% include content/warning.html 
+{% include content/danger.html 
 title="Trigger Warning" 
 content="This article deals with triggering topics, like SA." 
 %}
