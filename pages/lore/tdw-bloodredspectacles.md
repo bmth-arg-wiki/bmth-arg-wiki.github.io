@@ -1,6 +1,6 @@
 ---
 title: "Inside the Blood-Red Spectacles"
-description: "The Elite's Underground Parties"
+description: "The Elite's Underground Parties, where the most depraved enact their fantasies."
 categories: ["lore"]
 tags: ["bmth", "arg", "nex gen", "spyder", "daily whisper", "blood red", "spectacles"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/dailywhisper/simps-300x300.png"
@@ -11,15 +11,15 @@ next_text: "NEX GEN's Rogue Sentinels"
 ---
 # Inside the Blood-Red Spectacles
 
-{% include content/info.html 
+{% include content/warning.html 
 title="Trigger Warning" 
 icon="fa-solid fa-triangle-exclamation"
-content="This article deals with sexual assault." 
+content="This article deals with triggering topics, like SA." 
 %}
 
 This Daily Whisper article talks about the elite's 'Red Parties', and is written by [Dr. Lee M.D.](../characters/lee-md).
 He delves into the world of opulent parties thrown by problematic celebrities involving SIMPs,
-who are essentially sex slaves.
+synths with a dark purpose.
 
 ***
 
