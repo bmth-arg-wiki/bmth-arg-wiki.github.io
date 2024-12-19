@@ -39,7 +39,7 @@ More [lore](lore)!
 
 Other Daily Whisper articles:
 
-- [What Is a Loophole?](tdw-loophole)
+- [What is a Loop-Hole?](tdw-loophole)
 - [GAT3KEEPER](tdw-gatekeeper)
 - [Vanished Beyond the Veil](tdw-vanished)
 - [Star Jayven Valex's Last Words](tdw-valexlastwords)

@@ -1,5 +1,5 @@
 ---
-title: "What Is a Loophole?"
+title: "What is a Loop-Hole?"
 description: "And Other Questions About Lupamine Use in the DTC"
 categories: ["lore"]
 tags: ["bmth", "arg", "nex gen", "spyder", "daily whisper", "loophole"]
@@ -7,7 +7,7 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/we
 next: "lore/tdw-gatekeeper"
 next_text: "GAT3KEEPER"
 ---
-# What Is a Loophole?
+# What is a Loop-Hole?
 
 > Coming soon!
 

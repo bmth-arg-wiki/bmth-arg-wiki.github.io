@@ -5,7 +5,7 @@ categories: ["lore"]
 tags: ["bmth", "arg", "nex gen", "spyder", "daily whisper", "gatekeeper", "gat3keeper"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/dailywhisper/gat3keeper-300x300.png"
 previous: "lore/tdw-loophole"
-previous_text: "What Is a Loophole?"
+previous_text: "What is a Loop-Hole?"
 next: "lore/tdw-vanished"
 next_text: "Vanished Beyond the Veil"
 ---
@@ -120,7 +120,7 @@ More [lore](lore)!
 
 Other Daily Whisper articles:
 
-- [What Is a Loophole?](tdw-loophole)
+- [What Is a Loop-Hole?](tdw-loophole)
 - [Vanished Beyond the Veil](tdw-vanished)
 - [The Rise of Synthetic Humans](tdw-riseofsynth)
 - [Star Jayven Valex's Last Words](tdw-valexlastwords)

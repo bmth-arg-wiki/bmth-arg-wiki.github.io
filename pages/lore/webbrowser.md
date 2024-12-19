@@ -190,7 +190,7 @@ we are lead to a table of content for all the articles on this website.
 
 ### Transcription
 
-> - [What Is a Loophole?](tdw-loophole) - And Other Questions About Lupamine Use in the DTC
+> - [What is a Loop-Hole?](tdw-loophole) - And Other Questions About Lupamine Use in the DTC
 > - [GAT3KEEPER](tdw-gatekeeper) - The DTC's Most Advanced Theme Park and It's Tragic History
 > - [Vanished Beyond the Veil](tdw-vanished) - The Disturbing Fate of the Picardo Expedition
 > - [The Rise of Synthetic Humans](tdw-riseofsynth) - What We Know So Far
@@ -219,7 +219,7 @@ Related lore:
 - [Nex Gen Corporation](nex-gen-corporation)
 - [M8 webpage](../webpage)
 - [Wifi](wifi)
-- [What Is a Loophole](tdw-loophole)
+- [What is a Loop-Hole](tdw-loophole)
 - [GAT3KEEPER](tdw-gatekeeper)
 - [Vanished Beyond the Veil](tdw-vanished)
 - [The Rise of Synthetic Humans](tdw-riseofsynth)
