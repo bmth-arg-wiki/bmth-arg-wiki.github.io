@@ -8,8 +8,7 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/lo
 
 # Lore 
 
-{% assign page_links = '/pages/lore/youtopia, /pages/lore/booklet, /pages/lore/pusse, /pages/m8, /pages/lore/vspr37, /pages/lore/mares, /pages/lore/night-of-pan, /pages/lore/downloadfest' | split: ", " %}
-{% include page-card-gallery.html links=page_links %}
+This overview contains links for different lore pages, including sources posted in the [Spyder](webbrowser) webbrowser.
 
 ***
 
@@ -42,4 +41,18 @@ Spyder opens on newspaper called "The Daily Whisper". Here are the articles foun
 ## Insights
 
 {% assign page_links = '/pages/lore/insights, /pages/lore/insight1-connection, /pages/lore/insight2-empathy, /pages/lore/insight3-purpose, /pages/lore/insight4-vision' | split: ", " %}
+{% include page-card-gallery.html links=page_links %}
+
+***
+
+## World-building
+
+{% assign page_links = '/pages/lore/youtopia, /pages/lore/dtc, /pages/lore/new-elysium, /pages/lore/pusse, /pages/m8, /pages/lore/vspr37, /pages/lore/mares, /pages/lore/night-of-pan' | split: ", " %}
+{% include page-card-gallery.html links=page_links %}
+
+***
+
+## Physical Sources & Events
+
+{% assign page_links = '/pages/lore/booklet, /pages/lore/downloadfest' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
