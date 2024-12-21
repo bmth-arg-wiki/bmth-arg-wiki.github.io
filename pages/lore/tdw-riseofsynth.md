@@ -1,6 +1,7 @@
 ---
 title: "The Rise of Synthetic Humans"
-description: "What We Know So Far"
+description: "The rise of synthetic humans is an in-universe article discussing synth technology, as well as the ethical 
+challenges around the project."
 categories: ["lore"]
 tags: ["bmth", "arg", "nex gen", "spyder", "daily whisper", "synth", "synths"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/dailywhisper/synth-300x300.png"
@@ -12,6 +13,11 @@ next_text: "Star Jayven Valex's Last Words"
 # The Rise of Synthetic Humans
 
 > Coming soon!
+
+"The Rise of Synthetic Humans" is an in-universe article discussing [Dallus Lauren](../characters/dallus-lauren)'s [synth](synths) 
+project. It tells us more about how the synthetic humans are made, what they can do and the ethical dilemma's that come 
+with them. The article also hints at a darker fate for [Rebecca](../characters/rebecca), which we learn more about 
+in the [article about Lupamine](tdw-riseoflupamine).
 
 ***
 
@@ -52,6 +58,15 @@ Other Daily Whisper articles:
 - [Inside the Blood-Red Spectacles](tdw-bloodredspectacles)
 - [NEX GEN's Rogue Sentinels](tdw-roguesentinels)
 
+
+Related characters:
+
+- [Rebecca Sinclair](../characters/rebecca)
+- [Dallus Lauren](../characters/dallus-lauren)
+- [Ikaro Lauren](../characters/ren)
+
 Related Lore:
 
+- [Synths](synths)
+- [Lupamine](lupamine)
 - [Spyder Web Browser](webbrowser)

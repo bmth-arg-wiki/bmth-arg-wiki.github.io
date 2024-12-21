@@ -1,6 +1,7 @@
 ---
 title: "Star Jayven Valex's Last Words"
-description: "'Shoot me up with a big fat slug'"
+description: "Jayven Valex was found dead after a lupamine overdose, a shady tranquilizer developed by Nex Gen. His tragic 
+addiction was enabled by those around him, causing a criminal investigation."
 categories: ["lore"]
 tags: ["bmth", "arg", "nex gen", "spyder", "daily whisper", "jayven", "valex", "last words"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/dailywhisper/valex-300x300.png"
@@ -11,7 +12,15 @@ next_text: "The Dark Rise of Lupamine"
 ---
 # Star Jayven Valex's Last Words
 
+{% include content/danger.html
+title="Trigger Warning"
+content="This article deals with triggering topics, including drugs and addiction."
+%}
+
 > Coming soon!
+
+This article discusses Jayven Valex, the rising star of something called DRIVD IT, tragically being found 
+dead after a [lupamine](lupamine) overdose in his home. Due to the circumstances, this also leads to a criminal investigation.
 
 ***
 
@@ -52,6 +61,11 @@ Other Daily Whisper articles:
 - [Inside the Blood-Red Spectacles](tdw-bloodredspectacles)
 - [NEX GEN's Rogue Sentinels](tdw-roguesentinels)
 
-Related Lore:
+Related characters:
 
+- [Rebecca](../characters/rebecca)
+
+Related lore:
+
+- [Lupamine](lupamine)
 - [Spyder Web Browser](webbrowser)
