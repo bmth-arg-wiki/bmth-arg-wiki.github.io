@@ -1,7 +1,7 @@
 ---
 title: "Welcome to Youtopia"
 description: "Welcome to this fan-made wiki about BMTH's Nex Gen ARG. We catalogue 
-all the for-sof, write about the lore and provide a spoiler-free walkthrough with hints."
+all the files, write about the lore and provide a spoiler-free walkthrough with hints."
 tags: ["lore", "for sof", "sof", "selene", "documents", "passwords", "rain", "birth",
        "nex gen", "post human", "walkthrough", "arg", "bring me the horizon", "bmth", "password game", "qr code",
        "dig it", "for-sof", "serial number", "secrets", "past", "msgforsof", "insights",
