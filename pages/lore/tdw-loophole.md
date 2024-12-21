@@ -2,7 +2,7 @@
 title: "What is a Loop-Hole?"
 description: "And Other Questions About Lupamine Use in the DTC"
 categories: ["lore"]
-tags: ["bmth", "arg", "nex gen", "spyder", "daily whisper", "loophole"]
+tags: ["bmth", "arg", "nex gen", "spyder", "daily whisper", "loophole", "lupamine"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/dailywhisper/loophole-300x300.png"
 next: "lore/tdw-gatekeeper"
 next_text: "GAT3KEEPER"
@@ -35,8 +35,8 @@ This article was accessible once [Spyder](webbrowser) was unlocked on Dec. 15th 
 
 ## Transcription
 
-### What is a Loop-Hole? And Other Questions About Lupamine
-
+> ### What is a Loop-Hole? And Other Questions About Lupamine
+>
 > Lupamine, the controversial tranquilizer created by NEX GEN to control their genetically resurrected Lycans, 
 > has become a street menace. Its most dangerous side effect? The loop-hole—a dissociative, 
 > feral state where users lose all grip on reality, trapped in terrifying hallucinations and primal behavior. 
