@@ -30,7 +30,7 @@ they are part of a predatory nightmare.
 ### Lupamine Article
 
 Rebecca Sinclair, the world's first synthetic human, was notably the first to fall victim to this. 
-The [article on Lupamine](tdw-riseoflupamine) provides us with an insight into the addictive substance known 
+The [article on Lupamine](tdw-loophole) provides us with an insight into the addictive substance known 
 as Lupamine.
 
 While she was supposed to be a symbol for humanity's future, previously suffering from a deadly 
@@ -63,6 +63,11 @@ Dr. Marion Vale, Erik Cruz and Jasmine Lorran. The latter is also referred to as
 Dr. Vale has pled guilty to conspiracy and is awaiting a prison sentence of up to 10 years.
 The article also mentions allegations of a man named Dr. Sal Marquez and Lorran exploiting 
 Valex for profit.
+
+### The Dark Rise of Lupamine
+
+[One of the articles](tdw-riseoflupamine) on the Daily Whisper about Lupamine can not be accessed due to several viruses, 
+something that does not seem to be an issue on any other page.
 
 ### Unbeleevable 2: Lee Tries Lupamine
 
