@@ -7,6 +7,11 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/lu
 ---
 # Lupamine
 
+{% include content/danger.html
+title="Trigger Warning"
+content="This article deals with triggering topics, including drugs and addiction."
+%}
+
 > Instead, Sinclair's synthetic form amplified Lupamine's effects, prolonging her loop-hole phases 
 > and heightening the ferocity of her behaviour.
 
@@ -18,10 +23,16 @@ famously became addicted to despite being a [synth](synths).
 ## Backstory
 
 Lupamine is a controversial tranquilizer created by Nex Gen to genetically resurrect their 
-Lycans. The dangerous drug brings users into a feral dissociative state, where they feel like 
+Lycans for the military. The article on [Jayven Valex](tdw-valexlastwords) describes it as "Nex Gen's military 
+dyrewolf tranquilizer". The dangerous drug brings users into a feral dissociative state, where they feel like 
 they are part of a predatory nightmare.
 
+### Lupamine Article
+
 Rebecca Sinclair, the world's first synthetic human, was notably the first to fall victim to this. 
+The [article on Lupamine](tdw-riseoflupamine) provides us with an insight into the addictive substance known 
+as Lupamine.
+
 While she was supposed to be a symbol for humanity's future, previously suffering from a deadly 
 disease named CERS, she became the most infamous case of Lupamine addiction. This also seems to be 
 a direct consequence of her synth body amplifying its effects, despite synths previously 
@@ -37,6 +48,23 @@ called a semi-loop-hole state: their minds become trapped in a circle of fear an
 The DTC, or Disunited Territories of Columbia, had an epidemic of Lupamine addiction and banned it 
 for public use, as a class A controlled substance. Due to the black market trade and despite warnings, 
 Lupamine use was skyrocketing at the time of writing the article in the [browser](webbrowser). 
+
+### Jayven Valex's Last Words
+
+{% include content/info.html
+title="Little info available"
+content="Currently, there is little information available about these characters."
+%}
+
+Another [article](tdw-valexlastwords) details the death by overdose of Jayven Valex, the rising star of 
+DRIVD IT. The actor was found unresponsive in his home, having used his last words to ask his assistant, 
+Clara Hynes, to administer the drug to him. Authorities responded by arresting five suspects, including 
+Dr. Marion Vale, Erik Cruz and Jasmine Lorran. The latter is also referred to as "Lupamine Queen". 
+Dr. Vale has pled guilty to conspiracy and is awaiting a prison sentence of up to 10 years.
+The article also mentions allegations of a man named Dr. Sal Marquez and Lorran exploiting 
+Valex for profit.
+
+### Unbeleevable 2: Lee Tries Lupamine
 
 [Dr. Lee MD](../characters/lee-md) is the first one to mention Lupamine in the real timeline, 
 in his show [Unbeleevable (Episode 2)](../for-sof/unbeleevable2), he even gives the 
