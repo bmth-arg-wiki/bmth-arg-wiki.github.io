@@ -32,6 +32,42 @@ but can be opened through Sof's journal on the [webpage](../webpage).
 
 ***
 
+## Transcription
+
+> ### chapel.mp4
+> [Static on the screen + static sound]
+> 
+> [Two men talking over radio:]
+>
+> Man 1: No sign of the [?]. Proceed to check it out.
+>
+> Man 2: Copy that.
+>
+> [Video appears: bloody handprints on a checkered flooring]
+>
+> Man 1: [Unintelligible], looks fresh. Scanning for pathogens, [unintelligible].
+>
+> [Cut to: a man in a Genxsis branded hasmat suit]
+>
+> Man 2: 10-32-C-10-11 swat HQ.
+>
+> [Pan to: more of the chapel. It looks exactly like BMTH’s stage design]
+>
+> Man 2 CONT’D: Hostiles heading to south. 10-71- What the fuck?!
+>
+> [Cut to: a black creature with red eyes]
+>
+> [Cut to: static on the screen with the two men screaming]
+>
+> [Cut to: the creature eating one of the man’s faces before lunging at the other one]
+>
+> [Cut to: static-y images on the screen (most of them being variations of the BMTH logo) with a creepy voice whispering 
+> in an unknown language over electronic noises]
+
+Transcription by Alec
+
+***
+
 ## Read More
 
 - [Interactive map of Youtopia](../map)
