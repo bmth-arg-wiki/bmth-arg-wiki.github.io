@@ -9,6 +9,11 @@ next_text: "GAT3KEEPER"
 ---
 # What is a Loop-Hole?
 
+{% include content/danger.html
+title="Trigger Warning"
+content="This article deals with triggering topics, including drugs and addiction."
+%}
+
 > Coming soon!
 
 ***

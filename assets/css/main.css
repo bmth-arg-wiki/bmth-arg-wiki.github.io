@@ -21573,6 +21573,10 @@ has-background-danger.is-hoverable:active {
   color: #1f2525;
 }
 
+.content p strong {
+  color: #1f2525;
+}
+
 /*
  * Titles
  */

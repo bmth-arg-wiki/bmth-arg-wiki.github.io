@@ -8,13 +8,16 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/pu
 ---
 # P.U.S.S-E
 
+{% include content/danger.html
+title="Trigger Warning"
+content="This article deals with triggering topics, including drugs and addiction."
+%}
+
 {% include content/info.html
 title="P.U.S.S-E: the drug"
 icon="fa-solid fa-info"
 content="This page refers to the concept within the ARG, not the [song](../music/song-pusse)."
 %}
-
-> *"What would you do for P.U.S.S-E?"*
 
 P.U.S.S-E is short for Pineal Upregulation Synthetic Substance Enhanced, 
 as seen in promotional posts. It is based on DMT, as confirmed in the [song](../music/song-pusse).
@@ -22,6 +25,8 @@ as seen in promotional posts. It is based on DMT, as confirmed in the [song](../
 ***
 
 ## Background
+
+> *"What would you do for P.U.S.S-E?"*
 
 P.U.S.S-E is a drug, as seen in Instagram posts and implied by a pill bottle at the end of the spectrogram in 
 [the song](../music/song-pusse) and additional promotional information. The stylization of puss-e (like P.u.s.s-e) is 

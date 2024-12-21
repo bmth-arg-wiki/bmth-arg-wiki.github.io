@@ -45,7 +45,8 @@ is in the FOR SOF folder.
 ## Event-related Documents
 
 The following documents were obtained at the Nex Gen pop-up shops, where the [wi-fi](../lore/wifi) password 
-was also found. The USB distributed in the pop-up shops contained the `Chapel.mp4` video, while the physical 
+was also found. The event took place on the 27th and 28th of September 2024 and the documents were obtained on the 27th. 
+The USB distributed in the pop-up shops contained the `Chapel.mp4` video, while the physical 
 document folders that were handed out and hidden around the shops contained a document about [Selene](../characters/selene)'s 
 first visits to [Youtopia](../lore/youtopia).
 
