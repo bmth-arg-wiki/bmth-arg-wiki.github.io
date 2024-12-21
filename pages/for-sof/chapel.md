@@ -47,7 +47,7 @@ but can be opened through Sof's journal on the [webpage](../webpage).
 >
 > Man 1: [Unintelligible], looks fresh. Scanning for pathogens, [unintelligible].
 >
-> [Cut to: a man in a Genxsis branded hasmat suit]
+> [Cut to: a man in a Genxsis branded hazmat suit]
 >
 > Man 2: 10-32-C-10-11 swat HQ.
 >
