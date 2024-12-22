@@ -25,7 +25,7 @@ in the [article about Lupamine](tdw-riseoflupamine).
 
 This Daily Whisper articles was opened on Dec. 15th 2024, when the [Spyder web browser](webbrowser) was unlocked.
 
-***
+*** 
 
 ## Gallery
 

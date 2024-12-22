@@ -25,7 +25,7 @@ dead after a [lupamine](lupamine) overdose in his home. Due to the circumstances
 ***
 
 ## About
-
+ 
 This column was found on the Daily Whisper website when the [web browser](webbrowser) was unlocked on December 15th 2024.
 
 ***
