@@ -12,7 +12,7 @@ next_text: "Star Jayven Valex's Last Words"
 ---
 # The Rise of Synthetic Humans
 
-> Coming soon!
+> She quickly became a sensation, a walking testament to the future of transhumanism, but the price of this immortality soon became evident.
 
 "The Rise of Synthetic Humans" is an in-universe article discussing [Dallus Lauren](../characters/dallus-lauren)'s [synth](synths) 
 project. It tells us more about how the synthetic humans are made, what they can do and the ethical dilemma's that come 
