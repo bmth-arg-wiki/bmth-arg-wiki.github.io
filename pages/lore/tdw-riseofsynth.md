@@ -35,8 +35,8 @@ This Daily Whisper articles was opened on Dec. 15th 2024, when the [Spyder web b
 
 ## Transcription
 
-### Synthetic Humans
-
+> ### Synthetic Humans
+>
 > The Rise of Synthetic Humans: Redefining Humanity 
 > 
 > In 2028, NEX GEN unveiled the world's first fully functioning synthetic human—a groundbreaking fusion of artificial 
