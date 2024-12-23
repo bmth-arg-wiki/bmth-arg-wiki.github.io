@@ -21608,14 +21608,6 @@ a .button .is-primary {
   color: #d84848;
 }
 
-/**
- * Pagination
- */
-.pagination-button a,
-.pagination-button a:visited {
-  color: #872d2d;
-}
-
 /*
  * Blockquote styling
  */
