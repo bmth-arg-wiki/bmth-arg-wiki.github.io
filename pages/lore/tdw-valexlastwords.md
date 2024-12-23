@@ -21,6 +21,7 @@ content="This article deals with triggering topics, including drugs and addictio
 
 This article discusses Jayven Valex, the rising star of something called DRIVD IT, tragically being found 
 dead after a [lupamine](lupamine) overdose in his home. Due to the circumstances, this also leads to a criminal investigation.
+Valex joins the long list of people whose lives were ruined by this drug, alongside [Rebecca Sinclair](../characters/rebecca).
 
 ***
 
@@ -95,7 +96,7 @@ Other Daily Whisper articles:
 
 Related characters:
 
-- [Rebecca](../characters/rebecca)
+- [Rebecca Sinclair](../characters/rebecca)
 
 Related lore:
 

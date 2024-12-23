@@ -17,7 +17,8 @@ content="This article deals with triggering topics, including drugs and addictio
 > The drug warps brain chemistry, leaving people desperate for more to maintain their high while slipping further from reality.
 
 This Daily Whisper entry tells us about [Lupamine](lupamine), a drug created by [NEX GEN](nex-gen-corporation) for 
-military purposes. Sadly, it has made it onto the streets and is causing severe damages to partakers.
+military purposes. Sadly, it has made it onto the streets and is causing severe damages to partakers. 
+It also gives us more information about [Rebecca Sinclair](../characters/rebecca), the world's first SYNTH. 
 
 ***
 
@@ -116,6 +117,10 @@ Other Daily Whisper articles:
 - [The Future of Entertainment](tdw-futureentertainment)
 - [Inside the Blood-Red Spectacles](tdw-bloodredspectacles)
 - [NEX GEN's Rogue Sentinels](tdw-roguesentinels)
+
+Related character:
+
+- [Rebecca Sinclair](../characters/rebecca)
 
 Related Lore:
 

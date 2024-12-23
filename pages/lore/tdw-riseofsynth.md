@@ -17,7 +17,7 @@ next_text: "Star Jayven Valex's Last Words"
 "The Rise of Synthetic Humans" is an in-universe article discussing [Dallus Lauren](../characters/dallus-lauren)'s [synth](synths) 
 project. It tells us more about how the synthetic humans are made, what they can do and the ethical dilemma's that come 
 with them. The article also hints at a darker fate for [Rebecca](../characters/rebecca), which we learn more about 
-in the [article about Lupamine](tdw-riseoflupamine).
+in the [loop-hole article](tdw-loophole).
 
 ***
 
@@ -99,7 +99,6 @@ Other Daily Whisper articles:
 - [The Future of Entertainment](tdw-futureentertainment)
 - [Inside the Blood-Red Spectacles](tdw-bloodredspectacles)
 - [NEX GEN's Rogue Sentinels](tdw-roguesentinels)
-
 
 Related characters:
 

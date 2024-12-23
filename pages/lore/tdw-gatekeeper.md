@@ -133,12 +133,12 @@ Other Daily Whisper articles:
 - [Inside the Blood-Red Spectacles](tdw-bloodredspectacles)
 - [NEX GEN's Rogue Sentinels](tdw-roguesentinels)
 
-Related Lore:
-
-- [Spyder Web Browser](webbrowser)
-
 Related characters:
 
 - [Dallus Lauren](../characters/dallus-lauren)
 - [Ikaro 'Ren' Lauren](../characters/ren)
 - [Lyra Lauren](../characters/lyra-lauren)
+
+Related Lore:
+
+- [Spyder Web Browser](webbrowser)
