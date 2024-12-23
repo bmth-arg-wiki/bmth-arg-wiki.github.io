@@ -36,7 +36,7 @@ This article was opened on Dec. 15th 2024 when the [Spyder web browser](webbrows
 
 {% include content/editors-note.html
 title="Editor's note"
-content="This article is occasionally missing 'ff', 'fl', 'ffi', 'ffl' or 'fi'. The transcript below has these indicated in italics."
+content="This article is occasionally missing 'ff', 'fl', 'ffi', 'ffl' or 'fi'. The transcript below has these indicated in dark red."
 %}
 
 > ### The Future of Entertainment in Your Mind:

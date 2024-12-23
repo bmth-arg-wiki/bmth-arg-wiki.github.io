@@ -11,6 +11,12 @@
   color: $txt;
 }
 
+/* Anything emphasized in a blockquote is an editor's note */
+.content blockquote p em,
+.content blockquote p strong em {
+  color: $danger;
+}
+
 /*
  * Titles
  */
@@ -28,8 +34,26 @@
   font-size: medium;
 }
 
+/* Button link colors */
+a .button .is-primary {
+  color: $danger;
+}
+
+/* Various link colors */
+.content a {
+  color: $link;
+}
+
+.content a:hover {
+  color: lighten($link, 30%);
+}
+
 .content a:visited {
   color: $danger;
+}
+
+.content a:visited:hover {
+  color: $warning;
 }
 
 .content blockquote {

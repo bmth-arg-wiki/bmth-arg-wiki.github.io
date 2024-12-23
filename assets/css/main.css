@@ -21577,6 +21577,12 @@ has-background-danger.is-hoverable:active {
   color: #1f2525;
 }
 
+/* Anything emphasized in a blockquote is an editor's note */
+.content blockquote p em,
+.content blockquote p strong em {
+  color: #872d2d;
+}
+
 /*
  * Titles
  */
@@ -21592,8 +21598,26 @@ has-background-danger.is-hoverable:active {
   font-size: medium;
 }
 
+/* Button link colors */
+a .button .is-primary {
+  color: #872d2d;
+}
+
+/* Various link colors */
+.content a {
+  color: #0552aa;
+}
+
+.content a:hover {
+  color: #4e9efa;
+}
+
 .content a:visited {
   color: #872d2d;
+}
+
+.content a:visited:hover {
+  color: #d84848;
 }
 
 .content blockquote {

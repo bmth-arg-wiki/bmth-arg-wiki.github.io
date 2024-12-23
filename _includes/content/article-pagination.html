@@ -1,16 +1,18 @@
 <div class="is-flex is-justify-content-space-between is-fullwidth pt-1 pb-2">
     {% if page.previous %}
+        <!-- Custom buttons to indicate left and right -->
         <div class="">
             <a href="{{ site.baseurl }}/pages/{{ page.previous }}" class="button is-primary">
-                <span class="icon is-small"><i class="fas fa-chevron-left"></i></span>
-                <span>{{ page.previous_text | default: 'Previous' }}</span>
+                <span class="icon is-small has-text-danger"><i class="fas fa-chevron-left"></i></span>
+                <span class="has-text-danger">{{ page.previous_text | default: 'Previous' }}</span>
             </a>
         </div>
     {% endif %}
     {% if page.next %}
     <div class="">
         <a href="{{ site.baseurl }}/pages/{{ page.next }}" class="button is-primary">
-          <span class="icon is-small"><i class="fas fa-chevron-right"></i></span><span>{{ page.next_text | default: 'Next' }}</span>
+          <span class="icon is-small has-text-danger"><i class="fas fa-chevron-right"></i></span>
+          <span class="has-text-danger">{{ page.next_text | default: 'Next' }}</span>
         </a>
     </div>
     {% endif %}
