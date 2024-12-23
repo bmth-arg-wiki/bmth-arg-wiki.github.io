@@ -11,15 +11,16 @@ next_text: "MindXscape"
 ---
 # The Dark Rise of Lupamine
 
-> Coming soon!
+> Sof needs to invest in an ad-blocker for M8 asap.
 
-This article about [lupamine](lupamine) is inaccessible due to viruses.
+This article about [lupamine](lupamine) is inaccessible due to fraudulent pop-up ads.
 
 ***
 
 ## About
 
-
+The link to this column was found in the Daily Whisper table of content when the [web browser](webbrowser) was unlocked
+on Dec. 15th 2024.
 
 ***
 
@@ -31,7 +32,105 @@ This article about [lupamine](lupamine) is inaccessible due to viruses.
 
 ## Transcription
 
+> [Fraudulent pop-up ads that show up when the hyperlink is clicked:]
+>
+> ### Ad 1:
+>
+> WARNING
+>
+> 5 Viruses detected 
+>
+> 9000191-1
+>
+> (CLICK HERE)
+>
+> download in progress
+> 
+> [Warning sign with a skull]
 
+> ### Ad 2:
+>
+> REVOLUTIONARY OPTICAL IMPLANT AVAILABLE NOW
+>
+> (REGISTER NOW)
+>
+> X (Close ad)
+
+> ### Ad 3:
+>
+> Cybonic laser skin treatment
+>
+> (Sign up here)
+>
+> X (Close ad)
+
+> ### Ad 4:
+>
+> Do you have hidden powers?
+>
+> (Click here to find out)
+>
+> X (Close ad)
+
+> ### Ad 5:
+>
+> SYNTHETIC SKIN AVAILABLE NOW
+>
+> (Order now)
+>
+> (Order now)
+>
+> X (Close ad)
+
+> ### Ad 6:
+>
+> Do you want to look younger?
+> 
+> (YES) NO
+
+> ### Ad 7:
+> 
+> WARNING
+>
+> [Skull]
+>
+> VIRUS DETECTED
+>
+> (CLICK HERE)
+>
+> download in progress
+>
+> 0910292839191-012
+>
+> X (Close ad)
+
+> ### Ad 8:
+>
+> M99 implant could save your life
+>
+> (ORDER NOW)
+>
+> X (Close ad)
+
+> ### Ad 9:
+ >
+> LOOK YOUNGER 
+>
+> (REGISTER NOW)
+>
+> X (Close ad)
+
+> ### Ad 10:
+>
+> FEELING TIRED? (YES) NO
+>
+> (ORDER NOW)
+>
+> PA-1102-A9
+>
+> X (Close ad)
+
+Transcription by Alec
 
 ***
 
