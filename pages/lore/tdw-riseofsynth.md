@@ -12,7 +12,7 @@ next_text: "Star Jayven Valex's Last Words"
 ---
 # The Rise of Synthetic Humans
 
-> Coming soon!
+> She quickly became a sensation, a walking testament to the future of transhumanism, but the price of this immortality soon became evident.
 
 "The Rise of Synthetic Humans" is an in-universe article discussing [Dallus Lauren](../characters/dallus-lauren)'s [synth](synths) 
 project. It tells us more about how the synthetic humans are made, what they can do and the ethical dilemma's that come 
@@ -23,9 +23,9 @@ in the [article about Lupamine](tdw-riseoflupamine).
 
 ## About
 
+This Daily Whisper articles was opened on Dec. 15th 2024, when the [Spyder web browser](webbrowser) was unlocked.
 
-
-***
+*** 
 
 ## Gallery
 
@@ -35,7 +35,49 @@ in the [article about Lupamine](tdw-riseoflupamine).
 
 ## Transcription
 
+> ### Synthetic Humans
+>
+> The Rise of Synthetic Humans: Redefining Humanity 
+> 
+> In 2028, NEX GEN unveiled the world's first fully functioning synthetic human—a groundbreaking fusion of artificial 
+> intelligence and human consciousness. The synthetic project was spearheaded by renowned scientist Dr. Dallus Lauren, 
+> whose innovations in neural transfers and biotechnology allowed humans to transcend the limits of biology.
+>
+> Rebecca Sinclair became the first public synthetic, her consciousness uploaded to a perfected synthetic body after she 
+> was diagnosed with a terminal illness. She quickly became a sensation, a walking testament to the future of transhumanism, 
+> but the price of this immortality soon became evident.
+>
+> Promises of Immortality—and the Dark Side
+> 
+> The SYNTH project was heralded as the future of human evolution. These synthetic bodies, immune to disease, aging, 
+> and the environmental damage plaguing the world, offered humanity a chance at indefinite survival. 
+> The ability to transfer one's consciousness into a synthetic shell promised eternal life, heightened intelligence, 
+> and physical perfection. But as with any breakthrough, the dark side quickly emerged.
+>
+> The Ethical Dilemmas of Synthetic Life
+>
+> The rise of synthetics also brought with it ethical dilemmas. Could humanity maintain its essence when housed in artificial shells? 
+> Questions of identity, autonomy, and the potential exploitation of synthetic bodies haunted the project. Additionally, 
+> NEX GEN's secretive practices, including the forced uploads of dying individuals without consent, 
+> sparked worldwide protests and moral outrage.
+>
+> As synthetic humans became more common, these issues continued to fester. While many applauded the possibilities of 
+> transcending human limitations, others feared the loss of individuality and the creeping corporatization of human life itself.
+>
+> What's Next for Synthetic Humanity?
+>
+> The SYNTH revolution is far from over. NEX GEN's technological breakthroughs continue to reshape society, 
+> with more and more individuals opting for synthetic bodies to escape death and disease. However, 
+> with figures like Rebecca Sinclair serving as a cautionary tale, the true cost of synthetic life remains unclear. 
+> Will humanity evolve into something greater, or will the price of immortality be too high for even the strongest minds to bear?
+>
+> Explore More:
+> 
+> [One hyperlink to another article on the website:]
+> 
+> -    Inside NEX GEN's Secret Labs: What Really Happens in SYNTH Trials
 
+Transcription by Alec
 
 ***
 
