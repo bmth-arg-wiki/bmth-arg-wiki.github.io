@@ -44,8 +44,8 @@ a .button .is-primary {
 /**
  * Pagination
  */
-.pagination-button a span,
-.pagination-button a span:visited {
+.pagination-button a,
+.pagination-button a:visited {
   color: $danger;
 }
 
