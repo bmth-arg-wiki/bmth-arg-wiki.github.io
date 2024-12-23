@@ -31,8 +31,9 @@ next_text: "Inside the Blood-Red Spectacles"
 
 {% include content/editors-note.html
 title="Editor's note"
-content="This article is occasionally missing 'ff', 'fl' or 'fi'. The transcript below has these indicated in italics."
+content="This article is occasionally missing 'ff', 'fl', 'ffi', 'ffl' or 'fi'. The transcript below has these indicated in italics."
 %}
+
 
 ***
 
