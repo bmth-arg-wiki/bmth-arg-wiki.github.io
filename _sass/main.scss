@@ -64,6 +64,7 @@ body {
 // Hovering over links turns them from blue to red
 a:hover {
   color: variables.$warning;
+  text-decoration: none;
 }
 
 // Helper class to create the ARG font on the website
