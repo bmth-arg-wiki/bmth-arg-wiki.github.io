@@ -1,6 +1,10 @@
-<a class="button is-primary has-text-white" href="{{ include.link }}" target="_blank">
-    <span class="icon">
+<!--
+Note: the pagination uses a very similar structure, but doesn't use this class due to the button directions.
+Yes I don't feel like making this class compatible with images right and left right now.
+-->
+<a class="button is-primary" href="{{ include.link }}" target="_blank">
+    <span class="icon has-text-danger">
       <i class="{{ include.icon | default: 'fa-solid fa-info' }}"></i>
     </span>
-  <span>{{ include.text }}</span>
+  <span class="has-text-danger">{{ include.text }}</span>
 </a>
