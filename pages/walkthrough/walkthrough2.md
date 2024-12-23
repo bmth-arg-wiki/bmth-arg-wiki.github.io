@@ -1,6 +1,6 @@
 ---
-title: "Walkthrough Part 2"
-description: "The second part of the walkthrough focuses on opening the files in the FOR SOF folder."
+title: "Website V1.0 Walkthrough 2"
+description: "The second part of the walkthrough of the old website focuses on opening the files in the FOR SOF folder."
 categories: ["walkthrough"]
 tags: ["walkthrough", "arg", "bring me the horizon", "bmth", "password", "game", "qr code",
        "multdimensional", "navigator", "sof", "for-sof", "serial number", "secrets", "past", "msgforsof", "insights", 
