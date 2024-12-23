@@ -1,0 +1,9 @@
+<article class="message is-link">
+    <div class="message-header">
+        <p class="mb-0">{{ include.title | default: "Editor's note" }}</p>
+        <span><i class="{{ include.icon | default: 'fa-solid fa-pen-nib' }}"></i></span>
+    </div>
+    <div class="message-body">
+        {{ include.content | markdownify }}
+    </div>
+</article>
