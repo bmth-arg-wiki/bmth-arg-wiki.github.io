@@ -7,7 +7,7 @@ tags: ["nex gen", "bmth", "arg", "post human", "innovation", "technology",
        "m8", "reverber8", "project dust", "experiments", "synths", "cyborgs", 
        "pusse", "youtopia", "d8", "ikaro lauren", "iara", "selene", "syko", 
        "scott", "overwatch", "spectre", "fantom", "susan white", "fletcher", 
-       "strassman", "karl", "dmt", "dreamseeker", "arc/hive"]
+       "strassman", "karl", "dmt", "dreamseeker", "arc/hive", "mindstream"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/nex-gen/nexgen-300x300.png"
 ---
 
@@ -54,7 +54,8 @@ and likely many more experiments. They also hold information about mysterious [G
 Project D.U.S.T. was a continuation of Project Kingslayer from the cult of Mantra around 2021, when the company was still 
 called ARC/HIVE. It continues with the research of the trinity, who were extracted by them around Christmas 2020 in Operation Trinity. 
 This project proposal also focuses on the development of a tank to keep subjects in stasis, something that seems very similar 
-to the Dreamseeker tanks we see Nex Gen develop later.
+to the Dreamseeker tanks we see Nex Gen develop later. Nex Gen was also involved in the creation of [SYNTHs](synths) and 
+[Mindstream](mindstream), both of which are technologies receiving a lot of criticism.
 
 ### Rebecca & Synths
 
@@ -139,8 +140,8 @@ According to Sof's journal, this may have been a direct consequence of what they
 
 It also seems like Selene has turned against the company [when she gives birth to Sof in 2040](../for-sof/msgforsof). 
 Sof is born inside Nex Gen's lab and the [booklet](booklet) mentions that they are actually a demi-god.
-Just 20 minutes after her birth, Selene leaves Sof in the care of AI assistant M8. She leaves after hearing an alarm, remarking that this is her cue and 
-she must leave. Sof then writes her journal 8 years after the chapel incident in 2048.
+Just 20 minutes after her birth, Selene leaves Sof in the care of AI assistant M8. She leaves after hearing an alarm, 
+remarking that this is her cue and she must leave. Sof then writes her journal 8 years after the chapel incident in 2048.
 
 ### Dreadit & Spiritual Research
 
@@ -168,6 +169,7 @@ Related lore:
 - [P.U.S.S.-E](pusse)
 - [Lupamine](lupamine)
 - [Mares](mares)
+- [Mindstream](mindstream)
 
 Related employees:
 
