@@ -11,6 +11,11 @@ next_text: "Clone Chaos"
 ---
 # Faith on the Edge
 
+{% include content/danger.html
+title="Trigger Warning"
+content="This article deals with triggering topics, including SH."
+%}
+
 > Coming soon!
 
 ***
