@@ -17,7 +17,7 @@ next_text: "Inside the Blood-Red Spectacles"
 
 ## About
 
-
+ 
 
 ***
 
