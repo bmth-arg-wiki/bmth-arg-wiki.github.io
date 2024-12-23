@@ -29,7 +29,10 @@ next_text: "Inside the Blood-Red Spectacles"
 
 ## Transcription
 
-
+{% include content/editors-note.html
+title="Editor's note"
+content="This article is occasionally missing 'ff', 'fl' or 'fi'. The transcript below has these indicated in italics."
+%}
 
 ***
 
