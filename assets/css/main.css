@@ -21569,23 +21569,11 @@ has-background-danger.is-hoverable:active {
 /*
  * Global content styling
  */
-.content {
-  color: #1f2525;
-}
-
+.content,
 .content p strong {
   color: #1f2525;
 }
 
-/* Anything emphasized in a blockquote is an editor's note */
-.content blockquote p em,
-.content blockquote p strong em {
-  color: #872d2d;
-}
-
-/*
- * Titles
- */
 .content h1 {
   font-size: large;
 }
@@ -21620,9 +21608,25 @@ a .button .is-primary {
   color: #d84848;
 }
 
+/**
+ * Pagination
+ */
+.pagination-button a span,
+.pagination-button a span:visited {
+  color: #872d2d;
+}
+
+/*
+ * Blockquote styling
+ */
 .content blockquote {
   background-color: #fff9f9;
   color: #1f2525;
+}
+
+.content blockquote p em,
+.content blockquote p strong em {
+  color: #872d2d;
 }
 
 /*
@@ -21801,6 +21805,7 @@ body {
 
 a:hover {
   color: #d84848;
+  text-decoration: none;
 }
 
 .arg-font {

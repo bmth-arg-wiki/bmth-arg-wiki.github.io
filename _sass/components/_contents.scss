@@ -3,33 +3,18 @@
 /*
  * Global content styling
  */
-.content {
-  color: $txt;
-}
-
+.content,
 .content p strong {
   color: $txt;
 }
-
-/* Anything emphasized in a blockquote is an editor's note */
-.content blockquote p em,
-.content blockquote p strong em {
-  color: $danger;
-}
-
-/*
- * Titles
- */
 
 // Make the titles an itty bitty smaller
 .content h1 {
   font-size: large;
 }
-
 .content h2 {
   font-size: larger;
 }
-
 .content h3 {
   font-size: medium;
 }
@@ -56,9 +41,27 @@ a .button .is-primary {
   color: $warning;
 }
 
+/**
+ * Pagination
+ */
+.pagination-button a span,
+.pagination-button a span:visited {
+  color: $danger;
+}
+
+/*
+ * Blockquote styling
+ */
+
 .content blockquote {
   background-color: $base;
   color: $txt;
+}
+
+// Allow editor's notes in a different color by emphasizing
+.content blockquote p em,
+.content blockquote p strong em {
+  color: $danger;
 }
 
 /*
