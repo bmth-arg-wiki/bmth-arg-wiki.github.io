@@ -157,7 +157,10 @@ An analysis in simpler English can be found [here](analysis/lauren_d8_log_analys
 0014
 </details>
 
-The password for this file is [Ren](../characters/ren)'s user number.
+As of December 2024, this file does not require a password anymore. On the first version 
+of the website, a password was required which used [Ren](../characters/ren)'s user number at the time. 
+Ren is the researcher in this document and the inventor of D8, the AI reporting his findings and commenting 
+on his emotional state.
 
 ***
 
@@ -182,5 +185,7 @@ Related Characters:
 
 - [Ikaro Lauren](../characters/ren)
 - [Dallus Lauren](../characters/dallus-lauren)
+- [Elena Lauren](../characters/elena-lauren)
+- [Lyra Lauren](../characters/lyra-lauren)
 - [EVE](../characters/eve)
 - [M8](../m8)

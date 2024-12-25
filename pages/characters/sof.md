@@ -52,12 +52,32 @@ discussion around the timeline.
 
 ![Survival Horror Album Cover](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/sof/img.png)
 
+The [Book of Eclipse](../for-sof/book-of-eclipse) also gives indications that Skys was part of 
+a prophecy, perhaps referring to the same image, even if Skys did not end up fulfilling it.
+
 ## Read More
 
 - [Character Overview](../characters)
+
+Related files:
+
+- [msgforsof.aiff](../for-sof/msgforsof)
+
+Related characters:
+
 - [M8](../m8)
 - [Selene](selene)
 - [E.V.E](eve)
+- [Skys](skys)
+
+Related lore:
+
+- [DTC](../lore/dtc)
+- [Lore booklet](../lore/booklet)
+- [Sof's journal](../lore/journal)
+- [New Elysium](../lore/new-elysium)
+- [Nex Gen Corporation](../lore/nex-gen-corporation)
+- [Youtopia](../lore/youtopia)
 
 ***
 

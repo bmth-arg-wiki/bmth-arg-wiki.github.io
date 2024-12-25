@@ -96,7 +96,8 @@ That kinda stuck with me…I was thinking about trying my synth joke on him, but
 0003
 </details>
 
-The password is Selene's user number in the [M8](../m8) system.
+The password is Selene's old user number in the [M8](../m8) system, but no longer needed since 
+the December 2024 update. In the first version of the website, this was [Selene](../characters/selene)'s user number.
 
 ***
 

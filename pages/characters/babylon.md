@@ -13,7 +13,8 @@ The babylon is the omen of [Vision](../lore/insight4-vision) and resides in the 
 
 [Image from the booklet](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/babylon/babylon.png)
 
-Thanks to sw33t_viol3nt_urg3 on Discord for enhancing the image scan from the booklet.
+Thanks to sw33t_viol3nt_urg3 on Discord for enhancing the image scan from the booklet. This is currently the only 
+available imagery, because The Babylon is notably missing from the user system on [M8](../m8).
 
 ***
 

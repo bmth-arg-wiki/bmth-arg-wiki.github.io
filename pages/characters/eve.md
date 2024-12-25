@@ -1,7 +1,7 @@
 ---
 title: "E.V.E"
 description: "E.V.E. is an AI designed to save humankind. She is an important figure at 
-Nex Gen corporation and works together closely with Dr. Karl Strassman."
+Nex Gen corporation and works closely with Dr. Karl Strassman to invoke Youtopia."
 categories: ["characters"]
 tags: ["eve", "ai", "ia", "evolutionary virtual experiment", "extremely violent ersatz lifeform", 
 "selene", "pusse", "youtopia", "strassman", "nex gen", "dreaddit"]
@@ -12,8 +12,7 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 
 ![Eve's Avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/eve/0eve.png)
 
-E.V.E. (Evolutionary Virtual Experiment) is user 0000 in the Multidimensional Navigator 8. 
-
+E.V.E. (Evolutionary Virtual Experiment) is user 001 in the system on the newest version of the website.
 She is also known as E.V.E/L, which stands for Extremely Violent Ersatz Lifeform. M8 refers to her as the "big boss" in 
 her WHO ARE YOU? speech on the [webpage](../webpage). She also implies that E.V.E. is on earth at the moment while we are not.
 
@@ -43,6 +42,12 @@ to control humanity in material on social media.
 
 Within the ARG [website](../webpage), [M8](../m8) informs us that E.V.E. is the big boss at Nex Gen Corporation, a role 
 also attributed to [Victor Carmine](victor-carmine).
+
+***
+
+## Website History
+
+E.V.E. was always user 0000 on the first version of the Multidimensional Navigator 8.
 
 ***
 

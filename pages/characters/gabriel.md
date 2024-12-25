@@ -11,14 +11,11 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 
 ![Gabriel's avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/gabriel/16gabriel.png)
 
-Gabriel is user 0016 in the Multidimensional Navigator 8.
-
+Gabriel is currently missing from the user system on the newest version of the [webpage](../webpage).
 He is related to the Second Insight: [Empathy](../lore/insight2-empathy), 
 alongside Omen [Miseria](miseria) and band member [Madman](madman).
 
 The symbol for 'Empathy' is visible on his shield in the [tour poster](#gallery).
-
-Before the June 4th 2024 update, Gabriel used to be user 0017.
 
 ***
 
@@ -27,6 +24,13 @@ Before the June 4th 2024 update, Gabriel used to be user 0017.
 As told in the [POST HUMAN: NeX GEn booklet](../lore/booklet), 
 the Archangels are there to assist [Selene](selene) in [YOUtopia](../lore/youtopia).
 They guide her through different realms, ensuring her journey stays balanced.
+
+***
+
+## Website History
+
+Gabriel was user 0016 towards the end of the first version of Multidimensional Navigator 8.
+Before the June 4th 2024 update, Gabriel used to be user 0017.
 
 ***
 
@@ -56,3 +60,8 @@ Other [Archangels](characters#The-Archangels):
 - [Raphael](raphael)
 - [Michael](michael)
 - [Uriel](uriel)
+
+Related music:
+
+- [[ost] (spi)ritual](../music/song-spiritual)
+- [Spectrograms](../music/spectrograms)

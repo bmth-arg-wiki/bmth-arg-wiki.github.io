@@ -10,8 +10,7 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 
 ![Uriel's Avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/uriel/2uriel.png)
 
-Uriel is user 0002 in the Multidimensional Navigator 8.
-
+Uriel is user 009 in the current version of the [Multidimensional Navigator 8](../webpage).
 He is related to the Fourth Insight: [Vision](../lore/insight4-vision), alongside Omen [The Babylon](babylon) and band member [Vegan](vegan).
 
 The symbol for 'Vision' is visible on his skirt in the [tour poster](#gallery).
@@ -23,6 +22,12 @@ The symbol for 'Vision' is visible on his skirt in the [tour poster](#gallery).
 As told in the [POST HUMAN: NeX GEn booklet](../lore/booklet), 
 the Archangels are there to assist [Selene](selene) in [YOUtopia](../lore/youtopia).
 They guide her through different realms, ensuring her journey stays balanced.
+
+***
+
+## Website History
+
+Uriel used to be user 0002 in the Multidimensional Navigator 8.
 
 ***
 
@@ -52,3 +57,8 @@ Other [Archangels](characters#The-Archangels):
 - [Raphael](raphael)
 - [Gabriel](gabriel)
 - [Michael](michael)
+
+Related music:
+
+- [[ost] (spi)ritual](../music/song-spiritual)
+- [Spectrograms](../music/spectrograms)

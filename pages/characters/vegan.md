@@ -2,15 +2,13 @@
 title: "Vegan"
 description: "Vegan is the character for band member Matt Kean, the bassist of Bring Me The Horizon."
 categories: ["characters"]
-tags: ["vegan", "matt kean", "band", "bmth", "vision", "uriel", "the babylon"]
+tags: ["vegan", "matt kean", "band", "bmth", "vision", "uriel", "the babylon", "riddim ryder"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/vegan/vegan-300x300.png"
 ---
 
 # Vegan
 
 ![Avatar for Vegan](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/vegan/1vegan.png)
-
-Vegan is user 0001 in the Multidimensional Navigator 8.
 
 He is the stand-in character for Matt Kean, BMTH's bassist. 
 Vegan is related to the Fourth Insight: [Vision](../lore/insight4-vision), 
@@ -29,6 +27,12 @@ He is a figure of light, harmony, and compassion beloved by the entire community
 ## Gallery
 
 {% include gallery.html folder="characters/vegan/gallery" %}
+
+***
+
+## Website History
+
+Vegan was user 0001 in the first version of the [Multidimensional Navigator 8](../webpage).
 
 ***
 

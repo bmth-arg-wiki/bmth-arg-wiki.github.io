@@ -101,9 +101,12 @@ virus…eatin away my humanity. Can feel it.
 0005
 </details>
 
-The password for this file is [Syko](../characters/syko)'s user number. However, both the Kingslayer codec and 
-Sof's journal state that Scott is sadly dead. The relation to Syko, a character we see in Youtopia and the 
-[booklet](../lore/booklet), is currently unknown. As of December 2024, this file does not need a password anymore.
+As of December 2024, this file does not need a password anymore.
+It used to have one on the older version of the [webpage](../webpage). On this older version, [Syko](../characters/syko)'s
+(then-current, now old) user number was the number used for this password.
+
+Both the Kingslayer codec and Sof's journal state that Scott is sadly dead. The relation to Syko, a character we see 
+in Youtopia and the [booklet](../lore/booklet), is currently unknown. 
 
 ***
 

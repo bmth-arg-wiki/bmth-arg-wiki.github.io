@@ -9,11 +9,14 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 
 ![Ren's avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/ren/14ren.png)
 
-Ren is user number 0014 in the [M8](../webpage) system.
+Ikaro Lauren, who is mostly known as Ren, is user 013 on the [webpage](../webpage). 
 
-Ren used to be user 0015 in the system. He is user 0014 since the 4th of June 2024.
-His skin tone drastically changed in an update in June, at the same time as [Pan](pan)'s
-skin colour changing to a pinkish hue.
+He works for [Nex Gen](../lore/nex-gen-corporation), inspired by his father [Dallus](dallus-lauren)' innovations 
+for the good of humanity. He is also the one responsible for the 8-line of AI robots, which includes [M8](../m8).
+
+His name seems to be a reference to the Greek [Icarus](https://en.wikipedia.org/wiki/Icarus),
+son of Daedalus, who famously flew too close to the sun. This likely refers to his completion of 
+[E.V.E.](eve), a revolutionary AI with malicious intentions.
 
 ***
 
@@ -42,6 +45,17 @@ could activate E.V.E. Him and his father are likely named after the Greek mythol
 In the [website song](../music/website-songs) "nmez!" we also see Ren listed as a producer.
 
 *** 
+
+## Website History
+
+Ren was user number 0014 in the [M8](../webpage) system's first version. This 
+user number was also used as a password for his [log](../for-sof/lauren_d8_log).
+
+Ren used to be user 0015 in the system, becoming user 0014 on 4th of June 2024.
+His skin tone drastically changed in an update in June, at the same time as [Pan](pan)'s
+skin colour changing to a pinkish hue.
+
+***
 
 ## Gallery
 
