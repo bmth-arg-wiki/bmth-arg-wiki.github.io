@@ -44,13 +44,20 @@ accidentally gone out of order. Oops :("
 >
 > Executive Summary
 >
-> Recent advancements in metaphysical science have demonstrated that the Lesser Banishing Ritual of the Pentagram (LBRP), a ceremonial practice originating from Western occult traditions, plays a crucial role in preparing individuals for inter-dimensional travel. This ritual, while not opening the doorway to Dimension Y-93 [Y-93 is circled] (now colloquially referred to as YOUTOPIA) itself, profoundly cleanses the spiritual field, or what is referred to as the “Astral Matrix.” Confirmed through the case study of a subject named Selene, this practice is essential to prevent irreparable harm caused by dark entities known as Mares.
+> Recent advancements in metaphysical science have demonstrated that the Lesser Banishing Ritual of the Pentagram (LBRP), 
+> a ceremonial practice originating from Western occult traditions, plays a crucial role in preparing individuals for 
+> inter-dimensional travel. This ritual, while not opening the doorway to Dimension Y-93 [Y-93 is circled] 
+> (now colloquially referred to as YOUTOPIA) itself, profoundly cleanses the spiritual field, or what is referred 
+> to as the “Astral Matrix.” Confirmed through the case study of a subject named Selene, this practice is essential 
+> to prevent irreparable harm caused by dark entities known as Mares.
 >
 > #### Introduction
 >
-> The LBRP [LBRP is circled] is a foundational ritual in many ancient magical systems, assigned to cleanse and protect the practitioner’s Astral Matrix.
-Traditionally, it involves the visualisation of pentagrams, the invocation of archangels, and specific gestures to create a protective energy field.
-It’s primary purpose has been spiritual protection and purification, and our studies suggest it can serve as a critical preparatory step for accessing other dimensions, [other dimensions is circled] specifically Dimension Y-93.
+> The LBRP [LBRP is circled] is a foundational ritual in many ancient magical systems, assigned to cleanse and 
+> protect the practitioner’s Astral Matrix. Traditionally, it involves the visualisation of pentagrams, the invocation 
+> of archangels, and specific gestures to create a protective energy field. It’s primary purpose has been spiritual 
+> protection and purification, and our studies suggest it can serve as a critical preparatory step for accessing other 
+> dimensions, [other dimensions is circled] specifically Dimension Y-93.
 >
 > [Redacted line] -> 13.47 . 811
 >
@@ -99,19 +106,25 @@ It’s primary purpose has been spiritual protection and purification, and our s
 >
 > #### Subject Selection
 >
-> Selene, a 19-year-old female, was selected for this study due to her exceptionally high-functioning pineal gland and unique immunity to the current global virus. Her physiological and neurological characteristics made her an ideal candidate for exploring the LBRP’s potential to access alternate dimensions.
+> Selene, a 19-year-old female, was selected for this study due to her exceptionally high-functioning pineal gland 
+> and unique immunity to the current global virus. Her physiological and neurological characteristics made her an 
+> ideal candidate for exploring the LBRP’s potential to access alternate dimensions.
 >
 > #### Budget
 >
-> The NEX GEN Metaphysical Sciences Division allocated substantial resources to this project, ensuring the availability of advanced monitoring equipment and securing a controlled environment for the experiments. This included funding for EEG and fMRI scans,  ambient temperature sensors, and electromagnetic field detectors.
+> The NEX GEN Metaphysical Sciences Division allocated substantial resources to this project, ensuring the 
+> availability of advanced monitoring equipment and securing a controlled environment for the experiments. 
+> This included funding for EEG and fMRI scans,  ambient temperature sensors, and electromagnetic field detectors.
 >
 > [Right side of the page: “7, T U, R E” in three rows]
 >
 > #### Experiments
 >
-> Procedure: Selene performed the LBRP under controlled conditions over several months. Each session was meticulously recorded, and her neurological and physiological responses were continuously monitored.
+> Procedure: Selene performed the LBRP under controlled conditions over several months. Each session was meticulously 
+> recorded, and her neurological and physiological responses were continuously monitored.
 >
-> Preparation and Ritual Practice: The LBRP was practiced daily, focusing on banishing negative energies and cleansing Selene’s Astral Matrix.
+> Preparation and Ritual Practice: The LBRP was practiced daily, focusing on banishing negative energies and 
+> cleansing Selene’s Astral Matrix.
 >
 > [Multiple numbers pointing to spaces in between letters. They occur in the following order:
 >
@@ -129,13 +142,23 @@ It’s primary purpose has been spiritual protection and purification, and our s
 >
 > #### Findings
 >
-> Neurological Activation: Upon performing the LBRP, Selene’s Brain exhibited heightened activity in regions associated with spatial awareness, imagination, and sensory integration. EEG and fMRI scans confirmed these findings, revealing patterns indicative of altered states of consciousness.
+> Neurological Activation: Upon performing the LBRP, Selene’s Brain exhibited heightened activity in regions 
+> associated with spatial awareness, imagination, and sensory integration. EEG and fMRI scans confirmed these 
+> findings, revealing patterns indicative of altered states of consciousness.
 >
-> Spiritual Cleansing: To be clear, The LBRP cannot open the doorway to Dimension Y-93 in itself. Instead, it cleansed Selene’s Astral Matrix, removing 16 Mare attachments. These entities are understood to feed on fear and disrupt spiritual progress, making it unsafe to access other dimensions without proper preparation.
+> Spiritual Cleansing: To be clear, The LBRP cannot open the doorway to Dimension Y-93 in itself. Instead, it 
+> cleansed Selene’s Astral Matrix, removing 16 Mare attachments. These entities are understood to feed on fear 
+> and disrupt spiritual progress, making it unsafe to access other dimensions without proper preparation.
 >
-> Manifestation of Dimension Y-93: During a session on April 23, 2038, after repeated LBRP practice, Selene reported a profound shift in her perception, describing visualing an entrance into a vividly detailed alternate realm she named Dimension Y-93. She reported an overwhelming sense of sentient beings, and a distinct shift in time dilation. Independent observers noted a measurable drop in ambient temperature and unexplainable electromagnetic fluctuations during the session.
+> Manifestation of Dimension Y-93: During a session on April 23, 2038, after repeated LBRP practice, Selene 
+> reported a profound shift in her perception, describing visualing an entrance into a vividly detailed alternate 
+> realm she named Dimension Y-93. She reported an overwhelming sense of sentient beings, and a distinct shift in 
+> time dilation. Independent observers noted a measurable drop in ambient temperature and unexplainable 
+> electromagnetic fluctuations during the session.
 >
-> Psychological Impact: Post-experience, Selene displayed signs of enhanced cognitive function, including improved memory recall, increased problem-solving abilities, and a heightened sense of well-being. These effects were sustained for several weeks, suggesting a lasting impact on her mental state.
+> Psychological Impact: Post-experience, Selene displayed signs of enhanced cognitive function, including 
+> improved memory recall, increased problem-solving abilities, and a heightened sense of well-being. These 
+> effects were sustained for several weeks, suggesting a lasting impact on her mental state.
 >
 > [Rest of the page is redacted and torn off]
 >
