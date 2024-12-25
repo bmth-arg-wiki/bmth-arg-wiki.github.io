@@ -10,13 +10,14 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 
 > *Do you wanna start a cult with me?*
 
-The mysterious pink-haired man from the [Mantra](../music/amo-mantra) music video. 
-Dr. Lee MD (possibly [Madman](madman)) also states that he is the baby with pink 
-hair in the photo we also see on [The Science Study](../for-sof/thesciencestudy).
+The mysterious pink-haired man from the [Mantra](../music/amo-mantra) music video and the leader of the 
+[Neosages](../lore/mantra), better known as the Mantra cult. Dr. Lee MD (possibly [Madman](madman)) also states 
+that he is the baby with pink hair in the photo we also see on [The Science Study](../for-sof/thesciencestudy).
 
 ![Comparison of photos to Operation Trinity document shot](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/dallus/dallus_mantraleader.png)
 
-Comparing the [Trinity document]()
+Skys was first identified from the [Operation Trinity document](../for-sof/trinity_document), which 
+showed a shot of Skys in the official music video for Mantra.
 
 ***
 
