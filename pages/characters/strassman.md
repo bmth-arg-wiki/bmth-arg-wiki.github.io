@@ -26,9 +26,15 @@ Early in the ARG, we learn that he helped [E.V.E](../characters/eve) gain contro
 
 ## Backstory
 
-Karl Strassman is a doctor that works with [E.V.E](eve), as seen in a [video](../for-sof/strassmancodec) unlocked 
-on the 26th of May in the [FOR SOF](../for-sof) folder. This was one of the earliest files, introducing us to this 
-key player in the story.
+> Karl rose to prominence as the founder of neurospiritual research. A former scholar turned scientific leader, 
+> Karl’s unwavering commitment to the welfare of the people drives him to oppose E.V.E.’s oppressive plans at 
+> every turn.
+
+Karl Strassman is a doctor from the Union of [Novosovia](../lore/novosovia), from the small town of Zelenopol.
+
+We first see him working with [E.V.E](eve) in a [video](../for-sof/strassmancodec) unlocked on the 26th of May 
+in the [FOR SOF](../for-sof) folder. This was one of the earliest files after the release on the 24th, introducing 
+us to this key player in the story.
 
 ### Neospiritualism (<2004)
 
