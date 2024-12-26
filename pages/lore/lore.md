@@ -33,7 +33,7 @@ Spyder opens on newspaper called "The Daily Whisper". Here are the articles foun
 
 ## Organisations
 
-{% assign page_links = '/pages/lore/mantra, /pages/lore/church, /pages/lore/nex-gen-corporation, /pages/lore/archive, /pages/lore/genesis-storyline' | split: ", " %}
+{% assign page_links = '/pages/lore/mantra, /pages/lore/church, /pages/lore/nex-gen-corporation, /pages/lore/archive, /pages/lore/ecliptism, /pages/lore/genesis-storyline' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ***
@@ -47,7 +47,7 @@ Spyder opens on newspaper called "The Daily Whisper". Here are the articles foun
 
 ## World-building
 
-{% assign page_links = '/pages/lore/youtopia, /pages/lore/dtc, /pages/lore/new-elysium, /pages/lore/pusse, /pages/m8, /pages/lore/vspr37, /pages/lore/mares, /pages/lore/night-of-pan' | split: ", " %}
+{% assign page_links = '/pages/lore/youtopia, /pages/lore/dtc, /pages/lore/new-elysium, /pages/lore/novosovia, /pages/lore/pusse, /pages/m8, /pages/lore/vspr37, /pages/lore/mares, /pages/lore/night-of-pan' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ***

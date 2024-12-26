@@ -5,7 +5,7 @@ at least part of the story."
 categories: ["for-sof"]
 tags: ["bmth", "arg", "nex gen", "church of genxsis", "archive", "arc/hive", "mantra", "cult", "novosovia", "october palace",
        "skys", "starjammers", "youtopia", "dtc", "divided", "territories", "columbia", "new elysium"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/unknown.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/novosovia/novosovia-300x300.png"
 ---
 
 # Novosovia

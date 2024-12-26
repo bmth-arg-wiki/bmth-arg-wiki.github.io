@@ -5,7 +5,7 @@ a hidden dimension can be access through pain under specific conditions."
 categories: ["lore"]
 tags: ["mantra", "experimentation", "cult", "drug", "bring me the horizon", "bmth", 
        "arg", "lore", "invitation to salvation", "joinmantra.org", "starjammers", "skys"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/mantra/mantra-300x300.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/book-of-eclipse/book-300x300.png"
 ---
 
 # Ecliptism
