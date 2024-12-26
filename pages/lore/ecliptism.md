@@ -95,6 +95,16 @@ sour, with synths succumbing to [lupamine addiction](lupamine). The first synth 
 placing the modern Ecliptism somewhere after this year, since the Daily Whisper articles seem to be released 
 around the same time and link to each other.
 
+In [Faith Over Flesh](tdw-faithedge), described in an article on [The Daily Whisper](webbrowser), a death-row inmate 
+named Jonah will be crucified in an immersive artificial experience. The man had recently found new faith and 
+is rumoured to be involved with Ecliptism, something the author links back to the [Mantra cult](mantra). Since 
+the technology communicates directly with the brain, this show has the potential for modern Ecliptists to 
+use it for their own beliefs. Believing that brain manipulation and suffering purify the soul, they may have 
+been using the show to reach their own Eclipse. 
+[Victor Carmine](../characters/victor-carmine) promotes both [Mindstream](mindstream) and the show itself, stating that 
+the technology has many beneficial applications, despite critics pointing out many concerning possibilities and test 
+anomalies.
+
 ***
 
 ## Read More
