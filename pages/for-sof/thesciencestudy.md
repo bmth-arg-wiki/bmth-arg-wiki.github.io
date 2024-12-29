@@ -103,7 +103,10 @@ for the parents mutated gene to manifest in their offspring.
 >
 > ##### Tickled Pink
 >
-> Now, a new phenomenon is now being reported: babies born with pink hair. Though extremely rare, (believed to affect approximately 1 in 5 million newborns) this phenomenon occurs due to a specific genetic mutation that not only reduces eumelanin but also increases the production of pheomelanin, combined with the effects of radiation. The excess pheomelanin gives the hair its distinctive pink hue.
+> Now, a new phenomenon is now being reported: babies born with pink hair. Though extremely rare, (believed to affect 
+> approximately 1 in 5 million newborns) this phenomenon occurs due to a specific genetic mutation that not only reduces 
+> eumelanin but also increases the production of pheomelanin, combined with the effects of radiation. The excess 
+> pheomelanin gives the hair its distinctive pink hue.
 >
 > ##### Blessed with a Curse?
 >

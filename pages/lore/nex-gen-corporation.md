@@ -141,7 +141,9 @@ According to Sof's journal, this may have been a direct consequence of what they
 It also seems like Selene has turned against the company [when she gives birth to Sof in 2040](../for-sof/msgforsof). 
 Sof is born inside Nex Gen's lab and the [booklet](booklet) mentions that they are actually a demi-god.
 Just 20 minutes after her birth, Selene leaves Sof in the care of AI assistant M8. She leaves after hearing an alarm, 
-remarking that this is her cue and she must leave. Sof then writes her journal 8 years after the chapel incident in 2048.
+remarking that this is her cue and she must leave. Sof then writes (part of) their [journal](../lore/journal) 8 years 
+after the chapel incident in 2048. At the time Sof writes the intro to their journal, they are living at the Nex Gen 
+lab that is now abandoned.
 
 ### Dreadit & Spiritual Research
 
