@@ -5,7 +5,7 @@ Palace in 2004"
 categories: ["for-sof"]
 tags: ["skys", "starjammers", "mantra", "october palace", "bring me the horizon", "neosages", "cult of mantra", "strassman", 
 "dallus lauren", "ava"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/skys_starjammers/sky.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/skys_starjammers/starjammers-300x300.png"
 previous: "for-sof/thesciencestudy"
 previous_text: "SCISTUDYSCAN1999wrist"
 next: "for-sof/unbeleevable"

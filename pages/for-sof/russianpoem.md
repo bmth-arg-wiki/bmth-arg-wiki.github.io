@@ -4,7 +4,7 @@ description: "The Russian poem is a mysterious poem, seemingly about love to an 
  A from an unknown S."
 categories: ["for-sof"]
 tags: ["russian", "poem", "skys", "mantra", "cult", "for sof"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/russian_poem/russian_poem.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/russian_poem/poem-300x300.png"
 previous: "for-sof/unbeleevable"
 previous_text: "Nex Gen leak 'UNBELEEVABLE'"
 next: "for-sof/kingslayercodec"

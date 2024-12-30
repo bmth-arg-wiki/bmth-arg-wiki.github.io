@@ -6,7 +6,7 @@ however, stating they must continue for the greater good of mankind."
 categories: ["for-sof"]
 tags: ["strassman", "eve", "youtopia", "for sof", "karl", "pusse", 
        "codec", "indole alkaloid structure", "neurological disturbances"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/strassman-pass-screen.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/strassman_codec/strassman-300x300.png"
 previous: "for-sof/dallus-diary"
 previous_text: "DALLUS_DIARY.DOC"
 next: "for-sof/dreadit"

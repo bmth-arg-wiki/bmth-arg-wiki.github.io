@@ -6,7 +6,7 @@ categories: ["for-sof"]
 tags: ["skys", "mantra", "trinity", "victor carmine", "arc/hive", "dust", "psy", "syko", 
        "scott", "dallus lauren", "mares", "daughter", "special six", "altilium chordata", 
        "dreamseeker", "lead scientist", "elias mortem"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/project_dust/gallery/a_projectdust.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/project_dust/dust-300x300.png"
 previous: "for-sof/tekka_interview"
 previous_text: "ISSUE-51-fromhelltoshell"
 next: "for-sof/thesciencestudy"

@@ -6,7 +6,7 @@ likely already being infected."
 categories: ["for-sof"]
 tags: ["selene", "vspr", "scott", "youtopia", "synths", "diary", "syko", "soms", "for sof", 
        "vspr-37", "pandemic", "synth", "jenna", "carter", "lawson", "eli", "pharma"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/selene_diary/gallery/selene_diary1.jpg"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/selene_diary/selene-300x300.jpg"
 previous: "for-sof/r8"
 previous_text: "R8/fulfilment_source[m0n0].doc"
 next: "for-sof/lauren_d8_log"

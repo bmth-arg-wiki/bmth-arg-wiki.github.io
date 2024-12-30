@@ -6,7 +6,7 @@ about spiritual science, the third eye and a picture we are told is young Skys i
 categories: ["for-sof"]
 tags: ["science study", "skys", "pink", "mantra", "Radiogenic Leukotrichia", "for sof", "unbeleevable", 
        "new elysium", "2037", "vspr-37", "novosovia"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/science_study/gallery/a_scistudy.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/science_study/scistudy-300x300.png"
 previous: "for-sof/project_dust"
 previous_text: "Jan15_2031_declassified_PROJECT"
 next: "for-sof/skystarjammers"

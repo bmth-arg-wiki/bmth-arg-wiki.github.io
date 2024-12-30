@@ -6,7 +6,7 @@ categories: ["for-sof"]
 tags: ["dreadit", "nex gen", "youtopia", "for sof", "karl strassman", "pusse", 
        "immune child", "indole alkaloid structure", "pineal gland", "experiments", 
        "vspr-37"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/dreadit/dreadit.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/dreadit/dreadit-300x300.png"
 previous: "for-sof/strassmancodec"
 previous_text: "StrassmanCONFIDENTIALPRT.CODEC"
 next: "for-sof/selenes_map"
