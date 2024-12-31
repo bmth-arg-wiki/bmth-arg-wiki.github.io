@@ -36,8 +36,16 @@ Here is the new look:
 
 ### The Daily Whisper
 
-On Sunday 15th December 2024, the access codes for the [web browser](../website/webbrowser) were found.
-Spyder opens on newspaper called "The Daily Whisper". Here are the articles found there:
+On Sunday 15th December 2024, the access codes for the [web browser](../website/webbrowser) were found, 
+prompting the discovery of this newspaper; its name being a play on the real life publication 'The Daily Mail'.
+As of this date, there are 12 readable articles and 1 inaccessible article as it overrun by pop-up ads.
+
+There are two credited writers: [Lee M.D.](../characters/lee-md), and Gideon Mourningstone.
+The columns talk about serious topics in the classic gossip way. 
+
+A common typo is the omission of the letters 'ff', 'fl', 'ffi', 'ffl' or 'fi' in certain words.
+Both articles written by Lee and Gideon have this quirk, 
+which leads us to believe 'Gideon Mourningstone' might be a pseudonym for Lee M.D.
 
 {% assign page_links = '/pages/website/tdw-loophole, /pages/website/tdw-gatekeeper, /pages/website/tdw-vanished, /pages/website/tdw-riseofsynth, /pages/website/tdw-valexlastwords, /pages/website/tdw-riseoflupamine, /pages/website/tdw-mindxscape, /pages/website/tdw-faithedge, /pages/website/tdw-clonechaos, /pages/website/tdw-redwhiteblood, /pages/website/tdw-futureentertainment, /pages/website/tdw-bloodredspectacles, /pages/website/tdw-roguesentinels' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
