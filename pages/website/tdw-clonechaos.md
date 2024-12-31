@@ -24,7 +24,7 @@ and even Mindstream's ever-growing pile of lawsuits for wrongful deaths by glitc
 
 ## About
 
-This column was made available on Dec. 15th once the [Spyder web browser](webbrowser) was unlocked.
+This Daily Whisper column was made available on Dec. 15th once the [Spyder web browser](webbrowser) was unlocked.
 
 ***
 
