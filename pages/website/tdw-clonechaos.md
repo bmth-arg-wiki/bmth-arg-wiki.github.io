@@ -18,7 +18,7 @@ redirect_from:
 
 From Julio's violent double, to Zeeva's clone malfunctioning while she's away, passing by Trey's copy having an affair, 
 and even Mindstream's ever-growing pile of lawsuits for wrongful deaths by glitchy clones, 
-Lee M.D. does not hold his tongue about celebrities and their synth clones controversies. 
+[Lee M.D.](../characters/lee-md) does not hold his tongue about celebrities and their synth clones controversies. 
 
 ***
 

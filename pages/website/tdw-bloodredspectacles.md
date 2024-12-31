@@ -39,11 +39,12 @@ This column was unlocked on Dec. 15th 2024 in the [Spyder browser](webbrowser).
 
 ## Transcription
 
-Coming soon!
+{% include content/editors-note.html
+title="Editor's note"
+content="This article is occasionally missing 'ff', 'fl', 'ffi', 'ffl' or 'fi'. The transcript below has these indicated in italics."
+%}
 
 ***
-
-## Read More
 
 ## Read More
 
@@ -71,6 +72,6 @@ Other Daily Whisper articles:
 - [The Future of Entertainment](tdw-futureentertainment)
 - [NEX GEN's Rogue Sentinels](tdw-roguesentinels)
 
-Related Lore:
+Related Character:
 
-- [Spyder Web Browser](webbrowser)
+- [Lee M.D.](../characters/lee-md)

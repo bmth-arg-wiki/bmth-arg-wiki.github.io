@@ -30,7 +30,10 @@ redirect_from:
 
 ## Transcription
 
-
+{% include content/editors-note.html
+title="Editor's note"
+content="This article is occasionally missing 'ff', 'fl', 'ffi', 'ffl' or 'fi'. The transcript below has these indicated in italics."
+%}
 
 ***
 
@@ -59,7 +62,3 @@ Other Daily Whisper articles:
 - ["Red, White, and Blood"](tdw-redwhiteblood)
 - [The Future of Entertainment](tdw-futureentertainment)
 - [Inside the Blood-Red Spectacles](tdw-bloodredspectacles)
-
-Related Lore:
-
-- [Spyder Web Browser](webbrowser)
