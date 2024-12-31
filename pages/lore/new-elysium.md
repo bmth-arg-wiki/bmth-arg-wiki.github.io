@@ -11,7 +11,7 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 # New Elysium
 
 New Elysium is a suburb in an unknown city or town in the [DTC](dtc). The name New Elysium is also shown on the 
-ARG [webpage](../webpage).
+ARG [webpage](../website/website).
 
 ***
 
@@ -22,7 +22,7 @@ ARG [webpage](../webpage).
 > - Sof's journal
 
 We learn most of what we know about New Elysium from [Sof](../characters/sof) in their 
-[journal](journal). New Elysium is located in the [DTC](dtc), a few miles away from where 
+[journal](../website/journal.md). New Elysium is located in the [DTC](dtc), a few miles away from where 
 Sof lives at the time of her journal entry. They indicate that the suburb is now abandoned, 
 likely having been constructed by Nex Gen to monitor their test subjects. According to Sof, 
 her mother [Selene](../characters/selene) lived here. In the [Kingslayer codec](../for-sof/kingslayercodec) 
@@ -43,4 +43,4 @@ Related lore:
 - [Disunited Territories of Columbia](dtc)
 - [ARC/HIVE](archive)
 - [Nex Gen Corporation](nex-gen-corporation)
-- [Journal](journal)
+- [Journal](../website/journal.md)

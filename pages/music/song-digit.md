@@ -12,7 +12,7 @@ previous_text: "15. DiE4u"
 
 DIg It is the final song on the album. It contains dialogue and hints from M8 after a 
 period of silence (93 seconds). [Insight 4: Vision](../lore/insight4-vision) can be found 
-in the [spectrogram](spectrograms), as well as the [QR code](../webpage#qr-code) that lead 
+in the [spectrogram](spectrograms), as well as the [QR code](../website/website#qr-code) that lead 
 users to the webpage, starting the ARG.
 
 ***
@@ -120,4 +120,4 @@ The number 93 often appears, like in these 93 seconds of silence.
 
 - [POST HUMAN: NeX GEn](ph-nex-gen)
 - [Insight 4: Vision](../lore/insight4-vision)
-- [Webpage](../webpage)
+- [Webpage](../website/website)

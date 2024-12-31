@@ -12,7 +12,7 @@
     "url": {{ site.url | append: subPost.url | jsonify }},
     "date": {{ subPost.last_modified_at | date_to_xmlschema | jsonify }},
     "category": {{ subPost.categories[0] | jsonify }},
-    "content": {{ subPost.content | strip_newlines | jsonify }}
+    "content": {{ subPost.content | jsonify }}
   }
   {%- unless forloop.last -%},{%- endunless -%}
   {%- endfor -%}

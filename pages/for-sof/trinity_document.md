@@ -6,7 +6,7 @@ the 'special six' were also retrieved during the operation."
 categories: ["for-sof"]
 tags: ["karl", "strassman", "dallus", "lauren", "skys", "mantra", "arc/hive", "novosovia", 
        "for sof", "cult", "DTC", "skais"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/trinity/operation_trinity.jpg"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/trinity/trinity-300x300.jpg"
 previous: "for-sof/scott_personal_journal"
 previous_text: "Scott_Personal_Journal"
 next: "for-sof/tekka_interview"

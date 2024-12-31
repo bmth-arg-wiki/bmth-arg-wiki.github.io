@@ -5,7 +5,7 @@ in the middle of the starting VSPR-37 pandemic."
 categories: ["for-sof"]
 tags: ["scott", "selene", "vspr", "diary", "youtopia", "syko", "oliver scott sykes", 
        "for sof", "vspr-37", "pandemic", "dear diary", "nexies", "oskar", "nyx 02", "terminated"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/scott_diary/gallery/a.jpg"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/scott_diary/diary-300x300.jpg"
 previous: "for-sof/lauren_d8_log"
 previous_text: "Lauren_D8_Log"
 next: "for-sof/trinity_document"
@@ -101,9 +101,12 @@ virus…eatin away my humanity. Can feel it.
 0005
 </details>
 
-The password for this file is [Syko](../characters/syko)'s user number. However, both the Kingslayer codec and 
-Sof's journal state that Scott is sadly dead. The relation to Syko, a character we see in Youtopia and the 
-[booklet](../lore/booklet), is currently unknown. As of December 2024, this file does not need a password anymore.
+As of December 2024, this file does not need a password anymore.
+It used to have one on the older version of the [webpage](../website/website). On this older version, [Syko](../characters/syko)'s
+(then-current, now old) user number was the number used for this password.
+
+Both the Kingslayer codec and Sof's journal state that Scott is sadly dead. The relation to Syko, a character we see 
+in Youtopia and the [booklet](../lore/booklet), is currently unknown. 
 
 ***
 
@@ -122,5 +125,5 @@ Related files:
 
 Related lore:
 
-- [Sof's journal](../lore/journal)
+- [Sof's journal](../website/journal.md)
 - [Nex Gen Corp.](../lore/nex-gen-corporation)

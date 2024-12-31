@@ -9,11 +9,14 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 
 ![Ren's avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/ren/14ren.png)
 
-Ren is user number 0014 in the [M8](../webpage) system.
+Ikaro Lauren, who is mostly known as Ren, is user 013 on the [webpage](../website/website). 
 
-Ren used to be user 0015 in the system. He is user 0014 since the 4th of June 2024.
-His skin tone drastically changed in an update in June, at the same time as [Pan](pan)'s
-skin colour changing to a pinkish hue.
+He works for [Nex Gen](../lore/nex-gen-corporation), inspired by his father [Dallus](dallus-lauren)' innovations 
+for the good of humanity. He is also the one responsible for the 8-line of AI robots, which includes [M8](../m8).
+
+His name seems to be a reference to the Greek [Icarus](https://en.wikipedia.org/wiki/Icarus),
+son of Daedalus, who famously flew too close to the sun. This likely refers to his completion of 
+[E.V.E.](eve), a revolutionary AI with malicious intentions.
 
 ***
 
@@ -27,7 +30,7 @@ In January 2021, Dallus writes in his diary that the whole family is at the ARC/
 Ren is envisioning a whole line of RO8OTs: a line of AI assistants.
 
 Tragedy strikes the family on the 5th of November 2024, when Dallus is driving Ren and Lyra home from the [Gat3keeper 
-theme park](../lore/tdw-gatekeeper). A car crash occurs and Ren loses his sister Lyra a few months before her 4th birthday. 
+theme park](../website/tdw-gatekeeper). A car crash occurs and Ren loses his sister Lyra a few months before her 4th birthday. 
 According to official sources, the crash was a result of driver error. Rumors from the public blame the park, reasoning that 
 it somehow influenced the event of that day.
 
@@ -39,9 +42,20 @@ his robot D8 is at work, just like he envisioned in early january 2021.
 In the log he also reminisces about his father [Dallus Lauren](dallus-lauren), who passed away before he 
 could activate E.V.E. Him and his father are likely named after the Greek mythological duo Daedalus and Icarus.
 
-In the [website song](../music/website-songs) "nmez!" we also see Ren listed as a producer.
+In the [website song](../website/website-songs) "nmez!" we also see Ren listed as a producer.
 
 *** 
+
+## Website History
+
+Ren was user number 0014 in the [M8](../website/website) system's first version. This 
+user number was also used as a password for his [log](../for-sof/lauren_d8_log).
+
+Ren used to be user 0015 in the system, becoming user 0014 on 4th of June 2024.
+His skin tone drastically changed in an update in June, at the same time as [Pan](pan)'s
+skin colour changing to a pinkish hue.
+
+***
 
 ## Gallery
 

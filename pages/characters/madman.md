@@ -10,13 +10,9 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 
 ![Madman's avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/madman/12madman.png)
 
-Madman is user 0012 in the Multidimensional Navigator 8.
-
-He is the stand-in character for Lee Malia, BMTH's guitarist.
+Madman is user 006 on the webpage and is the stand-in character for Lee Malia, BMTH's guitarist.
 Madman is related to the Second Insight: [Empathy](../lore/insight2-empathy), 
 alongside Archangel [Gabriel](gabriel) and Omen [Miseria](miseria).
-
-Before the June 4th 2024 update, Madman used to be user 0013.
 
 ***
 
@@ -27,6 +23,13 @@ embodies resilience, resourcefulness, dedication, and is said to be fervently lo
 He is thoroughly dedicated to his family, and brings stability to the community.
 
 He might also be linked to [Dr. Lee MD](lee-md), who is also played by Malia.
+
+***
+
+## Website History
+
+Madman was user 0012 in the first version of the [Multidimensional Navigator 8](../website/website).
+Before the June 4th 2024 update, Madman used to be user 0013.
 
 ***
 

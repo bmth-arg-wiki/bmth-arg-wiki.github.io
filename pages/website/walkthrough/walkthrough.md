@@ -1,12 +1,15 @@
 ---
 title: "Website V1.0 Walkthrough 1"
 description: "The first part of the walkthrough of the old website focuses on getting to the website and getting to know the website."
-categories: ["walkthrough"]
+categories: ["website"]
 tags: ["walkthrough", "arg", "bring me the horizon", "bmth", "password", "game", "qr code", 
 "dig it", "sof", "for-sof", "serial number", "secrets", "multidimensional", "navigator"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/walkthrough.png"
 next: "walkthrough/walkthrough2"
 next_text: "Part 2. FOR SOF"
+redirect_from:
+  - /pages/walkthrough/walkthrough.html
+  - /pages/walkthrough/walkthrough
 ---
 
 # Walkthrough: The Website
@@ -32,7 +35,7 @@ are hidden until clicked.
 You can find hints and passwords on this page to help you through the ARG.
 </details>
 
-Want to see an overview of all the files found so far? Check out the [FOR SOF article](../for-sof). 
+Want to see an overview of all the files found so far? Check out the [FOR SOF article](../../for-sof). 
 This wiki also contains many transcriptions for the files, so check out the files' related articles 
 if you are having trouble reading the files.
 
@@ -124,8 +127,8 @@ Continue to the next objective: [unlocking the files in the FOR SOF folder](walk
 
 You can read more about the contents of the web page here:
 
-- [The main webpage](../webpage)
-- [The webbrowser](../lore/webbrowser.md)
-- [The website songs](../music/website-songs)
+- [The main webpage](../website)
+- [The webbrowser](../webbrowser)
+- [The website songs](../website-songs)
 
 **[Next walkthrough page](walkthrough2)**

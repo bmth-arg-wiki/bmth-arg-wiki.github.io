@@ -8,16 +8,15 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 ---
 # Michael
 
+> *"Seraphic Expression"*
+
 ![Avatar for Michael](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/michael/10michael.png)
 
-Michael is user 0010 in the Multidimensional Navigator 8.
-
-He is related to the Third Insight: [Empathy](../lore/insight2-empathy), 
-alongside Omen [Vanth: Prince(ss) Of Death](vanth) and band member [Pickles](pickles).
+Michael is user 010 on the [webpage](../website/website). He is related to the Third Insight: 
+[Empathy](../lore/insight2-empathy), alongside Omen [Vanth: Prince(ss) Of Death](vanth) 
+and band member [Pickles](pickles).
 
 The symbol for 'Purpose' is visible on his skirt in the [tour poster](#gallery).
-
-Before the June 4th 2024 update, Michael used to be user 0011.
 
 ***
 
@@ -26,6 +25,13 @@ Before the June 4th 2024 update, Michael used to be user 0011.
 As told in the [POST HUMAN: NeX GEn booklet](../lore/booklet), 
 the Archangels are there to assist [Selene](selene) in [YOUtopia](../lore/youtopia).
 They guide her through different realms, ensuring her journey stays balanced.
+
+***
+
+## Website History
+
+Michael was user 0010 in the first version of the [Multidimensional Navigator 8](../website/website).
+Before the June 4th 2024 update, Michael used to be user 0011.
 
 ***
 
@@ -55,3 +61,8 @@ Other [archangels](characters#the-archangels):
 - [Raphael](raphael)
 - [Gabriel](gabriel)
 - [Uriel](uriel)
+
+Related music:
+
+- [[ost] (spi)ritual](../music/song-spiritual)
+- [Spectrograms](../music/spectrograms)

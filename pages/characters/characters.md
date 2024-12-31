@@ -6,6 +6,7 @@ tags: ["karl strassman", "dallus lauren", "skys", "madman", "syko", "lee malia",
 "oliver sykes", "eve", "sof", "selene", "rebecca sinclair", "matt kean", "uriel", "archangels", "omens", "gabriel", 
 "raphael", "michael", "purpose", "connection", "empathy", "vision", "insights", "nex gen", "m8", "ikaro lauren", "ren", 
 "iara", "vanth", "emily", "victor carmine", "angeldust", "trinity", "nex gen employees", "arc/hive"]
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/characters-300x300.jpg"
 ---
 
 # Characters
@@ -25,7 +26,7 @@ important names and how the characters relate to each other.
 ## Other Characters
 
 Additionally, there are characters not listed on [M8](../m8). For example because they were 
-mentioned in documents, or revealed in [Sof](sof)'s [journal](../lore/journal).
+mentioned in documents, or revealed in [Sof](sof)'s [journal](../website/journal.md).
 
 {% assign page_links = '/pages/characters/sof, /pages/characters/victor-carmine, /pages/characters/elias-mortem, /pages/characters/skys, /pages/characters/dallus-lauren, /pages/characters/rebecca, /pages/characters/medea, /pages/characters/angeldust, /pages/characters/lee-md' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
@@ -107,7 +108,7 @@ The members of the Trinity are three people of interest, mentioned first in the 
 {% include page-card-gallery.html links=page_links %}
 
 The first member is [Dr. Karl Strassman](strassman), a doctor that works with [Eve](eve), as 
-evidenced by the [strassman codec](../for-sof/strassmancodec). He is user 0014 on the [webpage](../webpage).
+evidenced by the [strassman codec](../for-sof/strassmancodec). He is user 0014 on the [webpage](../website/website).
 
 The second member is cult leader [Skys](skys), who we see in the music video for [Mantra](../music/amo-mantra). Some 
 imagery related to Mantra also appears in the music video for [Sugar, Honey, Ice and Tea](../music/amo-shit).
@@ -140,4 +141,4 @@ Character Journals:
 - [Selene](../for-sof/selene_personal_journal)
 - [Skys](../for-sof/skys-diary)
 - [Dallus Lauren](../for-sof/dallus-diary)
-- [Sof](../lore/journal)
+- [Sof](../website/journal.md)

@@ -4,7 +4,7 @@ description: "The Russian poem is a mysterious poem, seemingly about love to an 
  A from an unknown S."
 categories: ["for-sof"]
 tags: ["russian", "poem", "skys", "mantra", "cult", "for sof"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/russian_poem/russian_poem.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/russian_poem/poem-300x300.png"
 previous: "for-sof/unbeleevable"
 previous_text: "Nex Gen leak 'UNBELEEVABLE'"
 next: "for-sof/kingslayercodec"
@@ -36,7 +36,7 @@ the [Skys & The Starjammers poster](skystarjammers). The password
 for this was found in an [Instagram post](https://www.instagram.com/p/C-DhcBaC4NP/).
 
 More context was provided in December 2024, when a website
-update dropped [Sof](../characters/sof)'s thoughts on the matter in their [journal](../lore/journal).
+update dropped [Sof](../characters/sof)'s thoughts on the matter in their [journal](../website/journal.md).
 
 ***
 

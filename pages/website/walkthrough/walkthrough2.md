@@ -1,7 +1,7 @@
 ---
 title: "Website V1.0 Walkthrough 2"
 description: "The second part of the walkthrough of the old website focuses on opening the files in the FOR SOF folder."
-categories: ["walkthrough"]
+categories: ["website"]
 tags: ["walkthrough", "arg", "bring me the horizon", "bmth", "password", "game", "qr code",
        "multdimensional", "navigator", "sof", "for-sof", "serial number", "secrets", "past", "msgforsof", "insights", 
        "empathy", "connection", "purpose", "vision", "creativity", "capslock", "selene's storage crate", 
@@ -15,6 +15,9 @@ tags: ["walkthrough", "arg", "bring me the horizon", "bmth", "password", "game",
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/walkthrough.png"
 previous: "walkthrough/walkthrough"
 previous_text: "Part 1. The Website"
+redirect_from:
+  - /pages/walkthrough/walkthrough2.html
+  - /pages/walkthrough/walkthrough2
 ---
 # Walkthrough: FOR SOF
 
@@ -65,9 +68,9 @@ You can find more explanations about the webpage by reading some related article
 <summary>About the webpage</summary>
 {{ "
 
-- [Webpage](../webpage)
-- [Website songs](../music/website-songs)
-- [Website browser](../lore/webbrowser.md)
+- [Webpage](../website)
+- [Website songs](../website-songs)
+- [Website browser](../webbrowser)
 
 " | markdownify }}
 </details>
@@ -76,7 +79,7 @@ You can find more explanations about the webpage by reading some related article
 
 ## msgforsof.aiff
 
-The first file is an [audio log](../for-sof/msgforsof) that does not need a password.
+The first file is an [audio log](../../for-sof/msgforsof) that does not need a password.
 
 <details>
 <summary>Related lore</summary>
@@ -84,13 +87,13 @@ The first file is an [audio log](../for-sof/msgforsof) that does not need a pass
 
 Related files:
 
-- [msgforsof.aiff](../for-sof/msgforsof)
+- [msgforsof.aiff](../../for-sof/msgforsof)
 
 Related characters:
 
-- [Sof](../characters/sof)
-- [Selene](../characters/selene)
-- [M8](../m8)
+- [Sof](../../characters/sof)
+- [Selene](../../characters/selene)
+- [M8](../../m8)
 
 " | markdownify }}
 </details>
@@ -108,7 +111,7 @@ Before doing some more research, we recommend opening the next set of files firs
 
 Related files:
 
-- [THEINSIGHTS.doc](../lore/insights)
+- [THEINSIGHTS.doc](../../lore/insights)
 
 " | markdownify }}
 </details>
@@ -166,28 +169,28 @@ These files will tell us more about the lore, but we are only just at the start.
 
 Related files:
 
-- [The Insights](../lore/insights)
-- [1. Connection](../lore/insight1-connection)
-- [2. Empathy](../lore/insight2-empathy)
-- [3. Purpose](../lore/insight3-purpose)
-- [4. Vision](../lore/insight4-vision)
+- [The Insights](../../lore/insights)
+- [1. Connection](../../lore/insight1-connection)
+- [2. Empathy](../../lore/insight2-empathy)
+- [3. Purpose](../../lore/insight3-purpose)
+- [4. Vision](../../lore/insight4-vision)
 
 Related characters:
 
-- [Raphael](../characters/raphael)
-- [Pan](../characters/pan)
-- [Gabriel](../characters/gabriel)
-- [Miseria](../characters/miseria)
-- [Michael](../characters/michael)
-- [Vanth](../characters/vanth)
-- [Uriel](../characters/uriel)
+- [Raphael](../../characters/raphael)
+- [Pan](../../characters/pan)
+- [Gabriel](../../characters/gabriel)
+- [Miseria](../../characters/miseria)
+- [Michael](../../characters/michael)
+- [Vanth](../../characters/vanth)
+- [Uriel](../../characters/uriel)
 
 Related music:
 
-- [Top 10 staTues tHat CriEd bloOd](../music/song-top10)
-- [n/A](../music/song-na)
-- [[ost] puss-e](../music/song-pusse)
-- [DIg It](../music/song-digit)
+- [Top 10 staTues tHat CriEd bloOd](../../music/song-top10)
+- [n/A](../../music/song-na)
+- [[ost] puss-e](../../music/song-pusse)
+- [DIg It](../../music/song-digit)
 
 " | markdownify }}
 </details>
@@ -197,7 +200,7 @@ Related music:
 ## CAPSLOCK.DOC
 
 This file is a special case, as it was uncovered before it was supposed to be.
-Also see the [article on this file](../for-sof/capslock_doc).
+Also see the [article on this file](../../for-sof/capslock_doc).
 We recommend reading this file at the end of your walkthrough and not following the instructions
 in it.
 
@@ -227,11 +230,11 @@ Let's move on with the file actually intended to be next.
 
 Related files:
 
-- [CAPSLOCK.DOC](../for-sof/capslock_doc)
+- [CAPSLOCK.DOC](../../for-sof/capslock_doc)
 
 Related characters:
 
-- [Selene](../characters/selene)
+- [Selene](../../characters/selene)
 
 " | markdownify }}
 </details>
@@ -269,20 +272,20 @@ in later files.
 
 Related files:
 
-- [StrassmanCONFIDENTIALPRT007.CODEC](../for-sof/strassmancodec)
+- [StrassmanCONFIDENTIALPRT007.CODEC](../../for-sof/strassmancodec)
 
 Related characters:
 
-- [Karl Strassman](../characters/strassman)
-- [E.V.E](../characters/eve)
+- [Karl Strassman](../../characters/strassman)
+- [E.V.E](../../characters/eve)
 
 Related lore:
 
-- [Nex Gen Corporation](../lore/nex-gen-corporation)
+- [Nex Gen Corporation](../../lore/nex-gen-corporation)
 
 Related music:
 
-- [a bulleT w/my namE On](../music/song-abwmno)
+- [a bulleT w/my namE On](../../music/song-abwmno)
 
 " | markdownify }}
 </details>
@@ -315,16 +318,16 @@ This unlocks a Dreadit post with some comments on it.
 
 Related files:
 
-- [DREADITScreenshot 2051.1.5.59.43.vis](../for-sof/dreadit)
+- [DREADITScreenshot 2051.1.5.59.43.vis](../../for-sof/dreadit)
 
 Related characters:
 
-- [Selene](../characters)
+- [Selene](../../characters)
 
 Related lore:
 
-- [Nex Gen Corporation](../lore/nex-gen-corporation)
-- [Neosages](../lore/mantra) (Spoiler-heavy for upcoming files)
+- [Nex Gen Corporation](../../lore/nex-gen-corporation)
+- [Neosages](../../lore/mantra) (Spoiler-heavy for upcoming files)
 
 " | markdownify }}
 </details>
@@ -353,7 +356,7 @@ the sticky note on the webpage itself.
 </details>
 
 We've now got the map, which will tell us a little more about Youtopia. This mysterious location plays a huge role 
-in the ARG overall and will introduce us to many new characters on [Selene](../characters/selene)'s journey.
+in the ARG overall and will introduce us to many new characters on [Selene](../../characters/selene)'s journey.
 
 <details>
 <summary>Related lore</summary>
@@ -361,23 +364,23 @@ in the ARG overall and will introduce us to many new characters on [Selene](../c
 
 Related files:
 
-- [YOUTOPIA_selenes_map.vis](../for-sof/selenes_map)
+- [YOUTOPIA_selenes_map.vis](../../for-sof/selenes_map)
 
 Related characters:
 
-- [Selene](../characters/selene)
-- [Raphael](../characters/raphael)
-- [Pan](../characters/pan)
-- [Gabriel](../characters/gabriel)
-- [Miseria](../characters/miseria)
-- [Michael](../characters/michael)
-- [Vanth](../characters/vanth)
-- [Uriel](../characters/uriel)
+- [Selene](../../characters/selene)
+- [Raphael](../../characters/raphael)
+- [Pan](../../characters/pan)
+- [Gabriel](../../characters/gabriel)
+- [Miseria](../../characters/miseria)
+- [Michael](../../characters/michael)
+- [Vanth](../../characters/vanth)
+- [Uriel](../../characters/uriel)
 
 Related lore:
 
-- [Youtopia](../lore/youtopia)
-- [The Insights](../lore/insights)
+- [Youtopia](../../lore/youtopia)
+- [The Insights](../../lore/insights)
 
 " | markdownify }}
 </details>
@@ -400,7 +403,7 @@ Listen to Top 10 staTues tHat CriEd bloOd.
 <summary>Solution</summary>
 {{ "
 
-True fulfillment comes from 'within', as we learn in the mono audio of [Top 10 staTues tHat CriEd bloOd](../music/song-top10).
+True fulfillment comes from 'within', as we learn in the mono audio of [Top 10 staTues tHat CriEd bloOd](../../music/song-top10).
 
 " | markdownify }}
 </details>
@@ -412,9 +415,9 @@ This gives us a spec sheet for some technology.
 <summary>Related articles</summary>
 {{ "
 
-- [R8](../for-sof/r8)
-- [M8](../m8)
-- [D8](../for-sof/lauren_d8_log)
+- [R8](../../for-sof/r8)
+- [M8](../../m8)
+- [D8](../../for-sof/lauren_d8_log)
 
 " | markdownify }}
 </details>
@@ -448,11 +451,11 @@ first to hear another side of the story.
 
 Related files:
 
-- [Selene_Personal_Journal_2037.02.doc](../for-sof/selene_personal_journal)
+- [Selene_Personal_Journal_2037.02.doc](../../for-sof/selene_personal_journal)
 
 Related characters:
 
-- [Selene](../characters/selene)
+- [Selene](../../characters/selene)
 
 " | markdownify }}
 </details>
@@ -490,13 +493,13 @@ will give us much more insight into the Lauren family.
 
 Related files:
  
-- [Lauren_D8_Log_203701.docx](../for-sof/lauren_d8_log)
+- [Lauren_D8_Log_203701.docx](../../for-sof/lauren_d8_log)
 
 Related characters:
 
-- [Ren](../characters/ren)
-- [E.V.E](../characters/eve)
-- [Dallas Lauren](../characters/dallus-lauren)
+- [Ren](../../characters/ren)
+- [E.V.E](../../characters/eve)
+- [Dallas Lauren](../../characters/dallus-lauren)
 
 " | markdownify }}
 </details>
@@ -520,7 +523,7 @@ You are looking for a 4-digit number.
 <details>
 <summary>Solution</summary>
 
-The password is Syko's user number in the [M8 system](../webpage), 0005.
+The password is Syko's user number in the [M8 system](../../website/website), 0005.
 In this log we find out that Syko was still called Scott at 16 years old.
 </details>
 
@@ -534,17 +537,17 @@ the journal.
 
 Related files:
 
-- [Selene_Personal_Journal_2037.02.doc](../for-sof/selene_personal_journal)
-- [Scott_Personal_Journal_VSPR-37.doc](../for-sof/scott_personal_journal)
+- [Selene_Personal_Journal_2037.02.doc](../../for-sof/selene_personal_journal)
+- [Scott_Personal_Journal_VSPR-37.doc](../../for-sof/scott_personal_journal)
 
 Related characters:
 
-- [Selene](../characters/selene)
-- [Syko](../characters/syko)
+- [Selene](../../characters/selene)
+- [Syko](../../characters/syko)
 
 Related music:
 
-- [Dear Diary,](../music/song-dear-diary)
+- [Dear Diary,](../../music/song-dear-diary)
 
 " | markdownify }}
 </details>
@@ -580,7 +583,7 @@ A tightening grip remains unseen, death will be, where life had been. => Noose
 </details>
 
 
-This file is not in English, but its article provides a [translation](../for-sof/trinity_document#transcription). 
+This file is not in English, but its article provides a [translation](../../for-sof/trinity_document#transcription). 
 We will learn a lot more about the characters involved in the next files!
 
 <details>
@@ -588,13 +591,13 @@ We will learn a lot more about the characters involved in the next files!
 {{ "
 
 Related files:
-- [Operation_Trinity_Analysis.xslx](../for-sof/trinity_document) (includes translation)
+- [Operation_Trinity_Analysis.xslx](../../for-sof/trinity_document) (includes translation)
 
 Related characters:
 
-- [Karl Strassman](../characters/strassman)
-- [Skys](../characters/skys)
-- [Dallas Lauren](../characters/dallus-lauren)
+- [Karl Strassman](../../characters/strassman)
+- [Skys](../../characters/skys)
+- [Dallas Lauren](../../characters/dallus-lauren)
 
 " | markdownify }}
 </details>
@@ -620,7 +623,7 @@ a company with this name.
 {{ "
 
 The password is 'arc/hive'.
-The password screen refers to the logo we see in [In the Dark](../music/amo-in-the-dark), 
+The password screen refers to the logo we see in [In the Dark](../../music/amo-in-the-dark), 
 which takes place at a mysterious organization called ARC/HIVE.
 
 " | markdownify }}
@@ -634,18 +637,18 @@ about later.
 {{ "
 
 Related files:
-- [ISSUE-51-fromhelltoshell.pdf 1](../for-sof/tekka_interview)
+- [ISSUE-51-fromhelltoshell.pdf 1](../../for-sof/tekka_interview)
 
 Related characters:
 
-- [Rebecca](../characters/rebecca)
-- [Karl Strassman](../characters/strassman)
-- [Dallas Lauren](../characters/dallus-lauren)
+- [Rebecca](../../characters/rebecca)
+- [Karl Strassman](../../characters/strassman)
+- [Dallas Lauren](../../characters/dallus-lauren)
 
 Related lore:
 
-- [Nex Gen Corporation](../lore/nex-gen-corporation)
-- [ARC/HIVE](../lore/archive)
+- [Nex Gen Corporation](../../lore/nex-gen-corporation)
+- [ARC/HIVE](../../lore/archive)
 
 " | markdownify }}
 </details>
@@ -685,26 +688,26 @@ and their past.
 {{ "
 
 Related files:
-- [Jan15_2031_declassified_PROJECT D.U.S.T. 2](../for-sof/project_dust)
+- [Jan15_2031_declassified_PROJECT D.U.S.T. 2](../../for-sof/project_dust)
 
 Related characters:
 
-- [Dr. Elias Mortem](../characters#dr-elias-mortem)
-- [Karl Strassman](../characters/strassman)
-- [Skys](../characters/skys)
-- [Dallus Lauren](../characters/dallus-lauren)
-- [Ikaro Lauren](../characters/ren)
-- [Syko](../characters/syko)
+- [Dr. Elias Mortem](../../characters#dr-elias-mortem)
+- [Karl Strassman](../../characters/strassman)
+- [Skys](../../characters/skys)
+- [Dallus Lauren](../../characters/dallus-lauren)
+- [Ikaro Lauren](../../characters/ren)
+- [Syko](../../characters/syko)
 
 Related lore:
 
-- [Nex Gen Corporation](../lore/nex-gen-corporation)
-- [ARC/HIVE](../lore/archive)
+- [Nex Gen Corporation](../../lore/nex-gen-corporation)
+- [ARC/HIVE](../../lore/archive)
 
 Related music:
 
-- [Kool-Aid](../music/song-koolaid) (Music video)
-- [In the Dark](../music/amo-in-the-dark)
+- [Kool-Aid](../../music/song-koolaid) (Music video)
+- [In the Dark](../../music/amo-in-the-dark)
 
 
 " | markdownify }}
@@ -740,16 +743,16 @@ This will unlock a newspaper with several areas you can zoom into.
 
 Related files:
  
-- [SCISTUDYSCAN1999wrist.SCN](../for-sof/thesciencestudy)
+- [SCISTUDYSCAN1999wrist.SCN](../../for-sof/thesciencestudy)
 
 Related characters:
 
-- [Skys](../characters/skys)
-- [Strassman](../characters/strassman) (through field of study)
+- [Skys](../../characters/skys)
+- [Strassman](../../characters/strassman) (through field of study)
 
 Related music:
 
-- [Website songs](../music/website-songs)
+- [Website songs](../../website/website-songs)
 
 
 " | markdownify }}
@@ -789,10 +792,10 @@ This will give us a poster.
 <summary>Related lore</summary>
 {{ "
 
-- [Sky_&_The_Starjammers.png](../for-sof/skystarjammers)
-- [Skys](../characters/skys)
-- [Mantra cult](../lore/mantra)
-- [Mantra (song)](../music/amo-mantra)
+- [Sky_&_The_Starjammers.png](../../for-sof/skystarjammers)
+- [Skys](../../characters/skys)
+- [Mantra cult](../../lore/mantra)
+- [Mantra (song)](../../music/amo-mantra)
 
 " | markdownify }}
 </details>
@@ -838,28 +841,28 @@ This file gives us access to an email and a video featuring one of the band memb
 
 Related files:
 
-- [Nex Gen leak ‘UNBELEEVABLE’.doc](../for-sof/unbeleevable)
-- [Skys & the Starjammers poster](../for-sof/skystarjammers)
-- [The Science Study newspaper](../for-sof/thesciencestudy)
-- [Operation Trinity](../for-sof/trinity_document)
+- [Nex Gen leak ‘UNBELEEVABLE’.doc](../../for-sof/unbeleevable)
+- [Skys & the Starjammers poster](../../for-sof/skystarjammers)
+- [The Science Study newspaper](../../for-sof/thesciencestudy)
+- [Operation Trinity](../../for-sof/trinity_document)
 
 Related lore:
 
-- [Mantra](../lore/mantra)
-- [Church of Genxsis](../lore/church)
-- [Church of Genxsis at Downloadfest](../lore/downloadfest)
+- [Mantra](../../lore/mantra)
+- [Church of Genxsis](../../lore/church)
+- [Church of Genxsis at Downloadfest](../../lore/downloadfest)
 
 Related characters:
 
-- [Skys](../characters/skys)
-- [Dallus Lauren](../characters/dallus-lauren)
-- [Karl Strassman](../characters/strassman)
-- [Madman](../characters/madman) (maybe?)
+- [Skys](../../characters/skys)
+- [Dallus Lauren](../../characters/dallus-lauren)
+- [Karl Strassman](../../characters/strassman)
+- [Madman](../../characters/madman) (maybe?)
 
 Related music:
 
-- [MANTRA](../music/amo-mantra)
-- [In The Dark](../music/amo-in-the-dark) (Dallas Lauren at ARC/HIVE after Operation Trinity)
+- [MANTRA](../../music/amo-mantra)
+- [In The Dark](../../music/amo-in-the-dark) (Dallas Lauren at ARC/HIVE after Operation Trinity)
 
 
 " | markdownify }}
@@ -892,15 +895,15 @@ the pieces from the post, rotating and assembling them, we get the code '7795397
 </details>
 
 This file gives us a new document, although you might want to read the 
-[translation](../for-sof/russianpoem#translated).
+[translation](../../for-sof/russianpoem#translated).
 
 <details>
 <summary>Related lore</summary>
 {{ "
 
-We currently know very little about this letter, but it is theorized to be from [Skys](../characters/skys).
+We currently know very little about this letter, but it is theorized to be from [Skys](../../characters/skys).
 
-- [Russian Poem](../for-sof/russianpoem)
+- [Russian Poem](../../for-sof/russianpoem)
 
 " | markdownify }}
 </details>
@@ -956,22 +959,22 @@ You're going to need some numbers from the puzzle.
 The password is 23.2907, the sum of all the numbers we used for the puzzle pieces.
 </details>
 
-This gives us access to a [new video](../for-sof/kingslayercodec).
+This gives us access to a [new video](../../for-sof/kingslayercodec).
 
 <details>
 <summary>Related lore</summary>
 {{ "
 
 Relevant characters:
-- [Syko](../characters/syko)
-- [Selene](../characters/selene)
+- [Syko](../../characters/syko)
+- [Selene](../../characters/selene)
 
 Relevant files:
-- [Scott's Diary](../for-sof/scott_personal_journal)
-- [Selene's Diary](../for-sof/selene_personal_journal)
+- [Scott's Diary](../../for-sof/scott_personal_journal)
+- [Selene's Diary](../../for-sof/selene_personal_journal)
 
 Other relevant articles:
-- [Nex Gen Corporation](../lore/nex-gen-corporation)
+- [Nex Gen Corporation](../../lore/nex-gen-corporation)
   " | markdownify }}
 </details>
 
@@ -997,21 +1000,21 @@ The filename is the hint.
 The password for the file is "14012".
 </details>
 
-This will unlock the [Grumblr file](../for-sof/grumblr).
+This will unlock the [Grumblr file](../../for-sof/grumblr).
 
 <details>
 <summary>Related lore</summary>
 {{ "
 
 Relevant characters:
-- [Rebecca](../characters/rebecca)
-- [Iara](../characters/iara)
-- [Dallus](../characters/dallus-lauren)
+- [Rebecca](../../characters/rebecca)
+- [Iara](../../characters/iara)
+- [Dallus](../../characters/dallus-lauren)
 
 Other relevant articles:
-- [ARC/HIVE](../lore/archive)
-- [Tekka Interview](../for-sof/tekka_interview)
-- [In the Dark](../music/amo-in-the-dark) (speculated appearance)
+- [ARC/HIVE](../../lore/archive)
+- [Tekka Interview](../../for-sof/tekka_interview)
+- [In the Dark](../../music/amo-in-the-dark) (speculated appearance)
   " | markdownify }}
 </details>
 
@@ -1041,7 +1044,7 @@ This puzzle corresponds to the Insights on Selene's map.
 
 </details>
 
-This will unlock a [mysterious new file](../for-sof/lbr_sites).
+This will unlock a [mysterious new file](../../for-sof/lbr_sites).
 
 <details>
 <summary>Related lore</summary>
@@ -1049,16 +1052,16 @@ This will unlock a [mysterious new file](../for-sof/lbr_sites).
 
 Relevant characters:
 
-- [EVE](../characters/eve)
-- [Karl Strassman](../characters/strassman)
-- [Dallas Lauren](../characters/dallus-lauren)
-- [Victor Carmine](../characters#victor-carmine)
+- [EVE](../../characters/eve)
+- [Karl Strassman](../../characters/strassman)
+- [Dallas Lauren](../../characters/dallus-lauren)
+- [Victor Carmine](../../characters#victor-carmine)
 
 Relevant articles:
 
-- [Nex Gen Corporation](../lore/nex-gen-corporation)
-- [ARC/HIVE](../lore/archive)
-- [In the Dark](../music/amo-in-the-dark)
+- [Nex Gen Corporation](../../lore/nex-gen-corporation)
+- [ARC/HIVE](../../lore/archive)
+- [In the Dark](../../music/amo-in-the-dark)
   " | markdownify }}
 </details>
 
@@ -1088,14 +1091,14 @@ cegfbdfagfdc
 " | markdownify }}
 </details>
 
-This file is about the majestic [Goxmog](../for-sof/goxmog) and will provide more insight into its unique anatomy.
+This file is about the majestic [Goxmog](../../for-sof/goxmog) and will provide more insight into its unique anatomy.
 
 <details>
 <summary>Related lore</summary>
 {{ "
 
-- [Goxmog](../for-sof/goxmog)
-- [Nex Gen Corporation](../lore/nex-gen-corporation)
+- [Goxmog](../../for-sof/goxmog)
+- [Nex Gen Corporation](../../lore/nex-gen-corporation)
 
 " | markdownify }}
 </details>
@@ -1110,7 +1113,7 @@ The password for this file is currently unknown.
 
 ## Wi-fi 
 
-At this point we recommend you check out the [wi-fi](../lore/wifi). The password 
+At this point we recommend you check out the [wi-fi](../../website/wifi). The password 
 for the wi-fi was puzzled together in a special event during the pop-up shops hosted 
 across several cities across the world. Each location had a phone with one of the 
 characters for the password and a message telling the community to work together. 
@@ -1125,7 +1128,7 @@ This one's a freebie!
 
 ## Read More
 
-[FOR SOF: file overview](../for-sof)
+[FOR SOF: file overview](../../for-sof)
 
 Sadly, the other passwords are unknown at the time of writing. You can now enjoy the contents 
 of the wiki and see what lore you missed!

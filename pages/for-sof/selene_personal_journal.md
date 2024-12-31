@@ -6,7 +6,7 @@ likely already being infected."
 categories: ["for-sof"]
 tags: ["selene", "vspr", "scott", "youtopia", "synths", "diary", "syko", "soms", "for sof", 
        "vspr-37", "pandemic", "synth", "jenna", "carter", "lawson", "eli", "pharma"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/selene_diary/gallery/selene_diary1.jpg"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/selene_diary/selene-300x300.jpg"
 previous: "for-sof/r8"
 previous_text: "R8/fulfilment_source[m0n0].doc"
 next: "for-sof/lauren_d8_log"
@@ -37,7 +37,7 @@ The latter is a term that is also often applied to situation in which AI takes c
 on a large scale.
 
 Her friend Jenna remarks that she has been sick and from [Scott's diary](scott_personal_journal) we 
-know that he is sick as well. We know that Scott contracted VSPR-37 from [Sof's journal](../lore/journal). 
+know that he is sick as well. We know that Scott contracted VSPR-37 from [Sof's journal](../website/journal.md). 
 He bit Selene, but she turns out to be immune. The [Dreadit post](dreadit) refers to an immune child,
 which was first revealed to be Selene by [EVE](../characters/eve)'s messages in the official Bring Me The Horizon 
 Discord.
@@ -96,7 +96,8 @@ That kinda stuck with me…I was thinking about trying my synth joke on him, but
 0003
 </details>
 
-The password is Selene's user number in the [M8](../m8) system.
+The password is Selene's old user number in the [M8](../m8) system, but no longer needed since 
+the December 2024 update. In the first version of the website, this was [Selene](../characters/selene)'s user number.
 
 ***
 

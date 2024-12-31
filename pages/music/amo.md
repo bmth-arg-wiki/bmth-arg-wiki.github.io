@@ -60,7 +60,7 @@ This relates back to the mysterious leader of the [MANTRA/Neosages](../lore/mant
 The cult resides in a location called October Palace, which we can also see in [Sky_&_the_Starjammers.png](../for-sof/skystarjammers).
 We learn more about the Mantra cult from Dr Lee in the [Nex Gen leak 'UNBELEEVABLE'](../for-sof/unbeleevable).
 
-Skys and Dallus are members of the [Trinity](../characters/characters#trinity), as we learn in
+Skys and Dallus are members of the [Trinity](../characters/characters), as we learn in
 [Trinity Analysis Document](../for-sof/trinity_document).
 
 ***

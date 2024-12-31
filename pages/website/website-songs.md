@@ -1,10 +1,13 @@
 ---
 title: "Website Songs"
 description: "The songs embedded in the Multidimensional Navigator 8 website."
-categories: ["music", "lore"]
+categories: ["website", "music"]
 tags: ["bring me the horizon", "multidimensional navigator", "m8", "bmth", "unreleased", "global", "destruction", 
 "ay00000", "ayooooo", "kool-aid", "8-bit", "d.w.t.", "dwt", "devil", "wrist", "grave", "nmez", "molko"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/websitesongs/website_songs_300.png"
+redirect_from:
+  - /pages/music/website-songs.html
+  - /pages/music/website-songs
 ---
 # Website Songs
 
@@ -33,7 +36,7 @@ being logged in.
 
 {% include content/buttons/button-danger.html text="Listen on YouTube (v1)" link="https://www.youtube.com/watch?v=Uw9ntJukzPA" %}
 
-There was a second version of this that sounded more like [Kool-Aid](song-koolaid), but this has not been made 
+There was a second version of this that sounded more like [Kool-Aid](../music/song-koolaid), but this has not been made 
 publicly available.
 
 ![dwt Devil](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/websitesongs/06.png)
@@ -72,4 +75,16 @@ Has been removed before 25-05-2024, sadly we have no resources for this! Have an
 
 ## Read More
 
-- [POST HUMAN: NeX GEn](ph-nex-gen)
+About the ARG website:
+
+- [Website](website)
+- [Old website](website-v1)
+- [Webbrowser Spyder](webbrowser)
+- [Noctune Music Player](website-songs)
+- [Wi-Fi](wifi)
+- [Journal](journal)
+
+Related music:
+
+- [POST HUMAN: NeX GEn](../music/ph-nex-gen)
+- [Kool-Aid](../music/song-koolaid)

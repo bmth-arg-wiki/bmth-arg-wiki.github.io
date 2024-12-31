@@ -7,7 +7,7 @@ categories: ["for-sof"]
 tags: ["grumblr", "rebecca sinclair", "iara", "arc/hive", "synths", "cers", "live journal", 
        "blood porridge", "chronic environmental respiratory syndrome", "dr. turner", "terminal", 
        "cat lady", "coding", "new-Seoul", "cyberia"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/grumblr/gallery/a_GRUMBLR.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/grumblr/grumblr-300x300.png"
 previous: "for-sof/kingslayercodec"
 previous_text: "Kngsl@yer_EncrypMsg"
 next: "for-sof/lbr_sites"

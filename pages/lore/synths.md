@@ -31,8 +31,8 @@ about the synths and how they are perceived.
 
 ### Synths in the news
 
-In the [webbrowser](webbrowser), there are some articles that tell us more about the synths. 
-[Synthetic Humans](tdw-riseofsynth) is an in-universe article about how the synths work. They call the 
+In the [webbrowser](../website/webbrowser), there are some articles that tell us more about the synths. 
+[Synthetic Humans](../website/tdw-riseofsynth) is an in-universe article about how the synths work. They call the 
 SYNTH project a fusion of artificial intelligence and human consciousness. The article reveals that head 
 researcher Dallus was uniquely suited for the project due to his expertise in neural (brain-related) transfers and biotechnology. 
 The article mentions that Rebecca quickly became a sensation due to the project.
@@ -46,7 +46,7 @@ to Rebecca Sinclair as a "cautionary tale".
 
 #### Synths & Lupamine
 
-The [article about Lupamine](tdw-riseoflupamine) tells us more about the consequences of the project. While synths are thought to be immune to addiction, 
+The [article about Lupamine](../website/tdw-riseoflupamine) tells us more about the consequences of the project. While synths are thought to be immune to addiction, 
 Rebecca's shining hope for humanity turns into [Lupamine](lupamine) addiction instead. It even turns out that her synth 
 body amplified the effects of the drug, making her even more violent and prone to addiction. Other synths, called SIMPs (or Subservient 
 Intimate Machine Partners), are used to satisfy the depravity of others. Nex Gen also develops synths as a national security 
@@ -55,7 +55,7 @@ weapon, creating a type of combat synth.
 #### Celebrity Synth Shenanigans
 
 [Dr. Lee MD](../characters/lee-md), the self-proclaimed "Man on the Inside", details several scandals happening around 
-synthetic versions of celebrities in another [article](tdw-clonechaos). He mentions that a man named Julio The Mangler Stokes, a bald USC 
+synthetic versions of celebrities in another [article](../website/tdw-clonechaos). He mentions that a man named Julio The Mangler Stokes, a bald USC 
 (Ultimate Smackdown Collective) fighter who became a synth so he could copy himself. Julio then let his synth clone fight on 
 his behalf. The fight ended badly for his opponent Bonegrinder, who now has "permanent brain rot", according to Lee MD.
 
@@ -71,7 +71,7 @@ CEO is taking heat for insufficient safety measures.
 ### Combat Synths
 
 Gideon Mourningstone, the author of multiple articles on the Daily Whisper, writes about Nex Gen's combat synths in 
-[Ascension or Abyss?](tdw-roguesentinels). He refers to the combat synths developed by Nex Gen, which are unofficially 
+[Ascension or Abyss?](../website/tdw-roguesentinels). He refers to the combat synths developed by Nex Gen, which are unofficially 
 referred to as Sentinels. The machines use AI to prevent human hesitation, making them the equivalent of real world 
 Lethal Autonomous Weapons (LAWS), a very controversial topic in the field of Artificial Intelligence. 
 
@@ -84,7 +84,7 @@ slipped through the classified channels: They know us now."
 
 Gideon is referring to the Sentinels. He claims that they have learned to see humans as parasites, remarking that 
 Elias disappeared right after they were able to access his last known transmission. Mortem was the lead scientist on 
-[Project D.U.S.T.](../for-sof/project_dust). From [Sof's journal](journal) we learn that Dr. Mortem, along with his team, 
+[Project D.U.S.T.](../for-sof/project_dust). From [Sof's journal](../website/journal.md) we learn that Dr. Mortem, along with his team, 
 had been slaughtered in the [Chapel incident](../for-sof/chapel). 
 [Sof](../characters/sof) also questions whether D.U.S.T. or the dark side of [Youtopia](youtopia) became Mortem's downfall eventually.
 

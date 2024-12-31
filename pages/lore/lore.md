@@ -8,7 +8,7 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/lo
 
 # Lore 
 
-This overview contains links for different lore pages, including sources posted in the [Spyder](webbrowser) webbrowser.
+This overview contains links for different lore pages, including sources posted in the [Spyder](../website/webbrowser) webbrowser.
 
 ***
 
@@ -19,21 +19,9 @@ This overview contains links for different lore pages, including sources posted 
 
 ***
 
-## ARG Website - Spyder Web Browser
-
-### The Daily Whisper
-
-On Monday 15th December 2024, the access codes for the [web browser](webbrowser) were found.
-Spyder opens on newspaper called "The Daily Whisper". Here are the articles found there:
-
-{% assign page_links = '/pages/lore/tdw-loophole, /pages/lore/tdw-gatekeeper, /pages/lore/tdw-vanished, /pages/lore/tdw-riseofsynth, /pages/lore/tdw-valexlastwords, /pages/lore/tdw-riseoflupamine, /pages/lore/tdw-mindxscape, /pages/lore/tdw-faithedge, /pages/lore/tdw-clonechaos, /pages/lore/tdw-redwhiteblood, /pages/lore/tdw-futureentertainment, /pages/lore/tdw-bloodredspectacles, /pages/lore/tdw-roguesentinels' | split: ", " %}
-{% include page-card-gallery.html links=page_links %}
-
-***
-
 ## Organisations
 
-{% assign page_links = '/pages/lore/mantra, /pages/lore/church, /pages/lore/nex-gen-corporation, /pages/lore/archive, /pages/lore/genesis-storyline' | split: ", " %}
+{% assign page_links = '/pages/lore/mantra, /pages/lore/church, /pages/lore/nex-gen-corporation, /pages/lore/archive, /pages/lore/ecliptism, /pages/lore/genesis-storyline' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ***
@@ -47,7 +35,7 @@ Spyder opens on newspaper called "The Daily Whisper". Here are the articles foun
 
 ## World-building
 
-{% assign page_links = '/pages/lore/youtopia, /pages/lore/dtc, /pages/lore/new-elysium, /pages/lore/pusse, /pages/m8, /pages/lore/vspr37, /pages/lore/mares, /pages/lore/night-of-pan' | split: ", " %}
+{% assign page_links = '/pages/lore/youtopia, /pages/lore/dtc, /pages/lore/new-elysium, /pages/lore/novosovia, /pages/lore/pusse, /pages/m8, /pages/lore/vspr37, /pages/lore/mares, /pages/lore/night-of-pan' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ***

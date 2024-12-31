@@ -41,12 +41,16 @@ We also learn more about what young Skys went through in his own [diary](../for-
 
 At some point he then picked up a guitar and his band got somewhat successful.
 
+### Project Kingslayer
+
 ![Sof on Project Kingslayer in her journal](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/mantra/kingslayer_sof_journal.png)
 
 The cult of Mantra was also responsible for Project Kingslayer, which caused people psychological and physical harm
 in order to access hidden dimensions and manipulate dark matter, according to [Project D.U.S.T.](../for-sof/project_dust).
 It is stated that the Mantra cult was able to fend off hundreds of troops, seemingly using a psychological weapon like
 the [mares](mares) to paralyze the troops with fear.
+
+### Fall of the Cult
 
 In the music video for [Mantra](../music/amo-mantra) we see the fall of the cult in an event that is later named 
 the October Massacre, at the October Palace, the same place where the [collaboration between the trinity started in 2004](../for-sof/skystarjammers).
@@ -64,6 +68,8 @@ was extracted from Novosovia in Operation Trinity.
 
 > It is believed that ARC/HIV recognizes the potential of their research
 > and seeks to attract them to their ranks to advance their technological and neuronal learning initiatives.
+
+### Arc/Hive Gets Involved
 
 [ARC/HIVE](archive) was after the practices of the Neosages/Mantra cult and the research from Project Kingslayer, 
 extracting Skys along with [Dallus Lauren](../characters/dallus-lauren) and [Karl Strassman](../characters/strassman). 

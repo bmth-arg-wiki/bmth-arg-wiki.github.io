@@ -9,7 +9,7 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/we
 # Mindstream
 
 Mindstream is a technology pushing the boundaries of immersive entertainment, developed by [Nex Gen](nex-gen-corporation). 
-An article on [the Daily Whisper](webbrowser) compares it to a Virtual Reality experience, 
+An article on [the Daily Whisper](../website/webbrowser) compares it to a Virtual Reality experience, 
 emphasizing that this experience is even more immersive through direct communication with 
 the brain.
 
@@ -27,7 +27,7 @@ talkative about other Nex Gen experiments.
 > By all accounts, Mindstream is nothing short of a revolution. [Victor Carmine](../characters/victor-carmine), 
 > head of NEX GEN, calls it a masterpiece in personalised entertainment, a shift that redefines storytelling itself.
 
-The article [The Future of Entertainment in Your Mind](tdw-futureentertainment) is written around the service's release, 
+The article [The Future of Entertainment in Your Mind](../website/tdw-futureentertainment) is written around the service's release, 
 by an unknown author. It describes how the technology works and also addresses some of the criticism Nex Gen has received for it.
 
 Mindstream's technology uses neural interfacing, a method of communicating with the
@@ -62,7 +62,7 @@ brain. The author then questions whether it will result in further psychological
 
 ### DTC's Death Row Convict on Mindstream
 
-Gideon Mourningstone writes [Faith on the Edge](tdw-faithedge) about a Mindstream experience named "Faith Over Flesh", 
+Gideon Mourningstone writes [Faith on the Edge](../website/tdw-faithedge) about a Mindstream experience named "Faith Over Flesh", 
 in which Jonah, a death row inmate, will be crucified.
 
 > Jonah's crucifixion promises sacrificial salvation, broadcast to your soul, letting viewers tune into his
@@ -85,7 +85,7 @@ result in a lot of neural data, crucial to for Ecliptism's search for salvation.
 
 ### Skyscraper Incident
 
-In an [article](tdw-clonechaos) written by [Dr. Lee MD](../characters/lee-md), he criticizes a recent incident where 
+In an [article](../website/tdw-clonechaos) written by [Dr. Lee MD](../characters/lee-md), he criticizes a recent incident where 
 a SYNTH caused chaos. A SYNTH actor was sent off a skyscraper, resulting in six people being taken out, according to Lee MD. 
 SYNTH actors were recalled at the time of the article, with this incident likely being a contributing factor. The 
 author then claims that the CEO is taking heat for "cutting corners".
@@ -96,9 +96,9 @@ author then claims that the CEO is taking heat for "cutting corners".
 
 Related Daily Whisper articles:
 
-- [TDW: The Future of Entertainment](tdw-futureentertainment)
-- [TDW: Faith on the Edge](tdw-faithedge)
-- [TDW: Clone Chaos](tdw-clonechaos)
+- [TDW: The Future of Entertainment](../website/tdw-futureentertainment)
+- [TDW: Faith on the Edge](../website/tdw-faithedge)
+- [TDW: Clone Chaos](../website/tdw-clonechaos)
 
 Related files:
 

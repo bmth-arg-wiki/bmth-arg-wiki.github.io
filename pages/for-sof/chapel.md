@@ -22,7 +22,7 @@ getting slaughtered.
 This video was first found on the USBs from the pop-up shops on the 27th of September 2024, the release date of the album. 
 It also appeared as a file in the [FOR SOF](for-sof#for-sof) folder, 
 but the community never managed to open it. It is no longer available in that folder after an update in December 2024, 
-but can be opened through Sof's journal on the [webpage](../webpage).
+but can be opened through Sof's journal on the [webpage](../website/website).
 
 ***
 

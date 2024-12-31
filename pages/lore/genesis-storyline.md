@@ -21,7 +21,7 @@ content="This article contains info from an old Instagram post from Oli. It has 
 
 Source: [Oli's instagram](https://www.instagram.com/p/CtUpM05MsXl/?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D&img_index=7)
 
-The information presented in this story does conflict with what [Sof](../characters/sof) writes in her [journal](journal), 
+The information presented in this story does conflict with what [Sof](../characters/sof) writes in her [journal](../website/journal.md), 
 since she states that Genxsis started as an offshoot from the [Mantra cult](mantra).
 
 ***

@@ -2,19 +2,22 @@
 title: "The Rise of Synthetic Humans"
 description: "The rise of synthetic humans is an in-universe article discussing synth technology, as well as the ethical 
 challenges around the project."
-categories: ["lore"]
+categories: ["website", "lore"]
 tags: ["bmth", "arg", "nex gen", "spyder", "daily whisper", "synth", "synths"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/dailywhisper/synth-300x300.png"
 previous: "lore/tdw-vanished"
 previous_text: "Vanished Beyond the Veil"
 next: "lore/tdw-valexlastwords"
 next_text: "Star Jayven Valex's Last Words"
+redirect_from:
+  - /pages/lore/tdw-riseofsynth.html
+  - /pages/lore/tdw-riseofsynth
 ---
 # The Rise of Synthetic Humans
 
 > She quickly became a sensation, a walking testament to the future of transhumanism, but the price of this immortality soon became evident.
 
-"The Rise of Synthetic Humans" is an in-universe article discussing [Dallus Lauren](../characters/dallus-lauren)'s [synth](synths) 
+"The Rise of Synthetic Humans" is an in-universe article discussing [Dallus Lauren](../characters/dallus-lauren)'s [synth](../lore/synths) 
 project. It tells us more about how the synthetic humans are made, what they can do and the ethical dilemma's that come 
 with them. The article also hints at a darker fate for [Rebecca](../characters/rebecca), which we learn more about 
 in the [loop-hole article](tdw-loophole).
@@ -83,7 +86,14 @@ Transcription by Alec
 
 ## Read More
 
-More [lore](lore)!
+About the ARG website:
+
+- [Website](website)
+- [Old website](website-v1)
+- [Webbrowser Spyder](webbrowser)
+- [Noctune Music Player](website-songs)
+- [Wi-Fi](wifi)
+- [Journal](journal)
 
 Other Daily Whisper articles:
 
@@ -108,6 +118,5 @@ Related characters:
 
 Related Lore:
 
-- [Synths](synths)
-- [Lupamine](lupamine)
-- [Spyder Web Browser](webbrowser)
+- [Synths](../lore/synths)
+- [Lupamine](../lore/lupamine)

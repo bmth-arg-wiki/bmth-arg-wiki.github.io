@@ -2,13 +2,16 @@
 title: "Star Jayven Valex's Last Words"
 description: "Jayven Valex was found dead after a lupamine overdose, a shady tranquilizer developed by Nex Gen. His tragic 
 addiction was enabled by those around him, causing a criminal investigation."
-categories: ["lore"]
+categories: ["website", "lore"]
 tags: ["bmth", "arg", "nex gen", "spyder", "daily whisper", "jayven", "valex", "last words"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/dailywhisper/valex-300x300.png"
 previous: "lore/tdw-riseofsynth"
 previous_text: "The Rise of Synthetic Humans"
 next: "lore/tdw-riseoflupamine"
 next_text: "The Dark Rise of Lupamine"
+redirect_from:
+  - /pages/lore/tdw-valexlastwords.html
+  - /pages/lore/tdw-valexlastwords
 ---
 # Star Jayven Valex's Last Words
 
@@ -20,7 +23,7 @@ content="This article deals with triggering topics, including drugs and addictio
 > "Shoot me up with a big fat slug"
 
 This article discusses Jayven Valex, the rising star of something called DRIVD IT, tragically being found 
-dead after a [lupamine](lupamine) overdose in his home. Due to the circumstances, this also leads to a criminal investigation.
+dead after a [lupamine](../lore/lupamine) overdose in his home. Due to the circumstances, this also leads to a criminal investigation.
 Valex joins the long list of people whose lives were ruined by this drug, alongside [Rebecca Sinclair](../characters/rebecca).
 
 ***
@@ -77,7 +80,14 @@ Transcription by Alec
 
 ## Read More
 
-More [lore](lore)!
+About the ARG website:
+
+- [Website](website)
+- [Old website](website-v1)
+- [Webbrowser Spyder](webbrowser)
+- [Noctune Music Player](website-songs)
+- [Wi-Fi](wifi)
+- [Journal](journal)
 
 Other Daily Whisper articles:
 
@@ -100,5 +110,5 @@ Related characters:
 
 Related lore:
 
-- [Lupamine](lupamine)
+- [Lupamine](../lore/lupamine)
 - [Spyder Web Browser](webbrowser)

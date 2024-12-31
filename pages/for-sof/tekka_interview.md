@@ -3,7 +3,7 @@ title: "Rebecca's Synth Interview"
 categories: ["for-sof"]
 tags: ["rebecca sinclair", "arc/hive", "tekka", "interview", "youtopia", "nex gen", "synths", "for sof", 
 "rebecca", "lab assistant", "victor carmine", "dallus lauren", "karl strassman", "jax jackson"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/tekka/tekka_cover.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/tekka/tekka-300x300.png"
 previous: "for-sof/trinity_document"
 previous_text: "Operation_Trinity_Analysis"
 next: "for-sof/project_dust"

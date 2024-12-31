@@ -4,7 +4,7 @@ description: "The capslock doc is a document that was found earlier than expecte
 capital letters from the album itself. It led to an email that can no longer be reached and the file has been removed in an update."
 categories: ["for-sof"]
 tags: ["bmth", "arg", "selene", "capslock doc", "anagram", "dekode", "matrix", "concealed origins", "capitals", "capitalized"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/capslock_doc/gallery/crate_selene.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/capslock_doc/capslock-300x300.png"
 previous: "lore/insight4-vision"
 previous_text: "INSIGHT4.DOC"
 next: "for-sof/dallus-diary"

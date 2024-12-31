@@ -6,7 +6,7 @@ categories: ["for-sof"]
 tags: ["selene", "youtopia", "sof", "clive", "m8", "pan", "omen", "miseria", "vanth", 
 "archangels", "raphael", "michael", "uriel", "gabriel", "pusse", "lesser banishing ritual", "pentagram", 
 "insights", "connection", "empathy", "vision", "purpose"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/selenes_map/map1.jpg"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/selenes_map/map-300x300.jpg"
 previous: "for-sof/dreadit"
 previous_text: "DREADITscreenshot"
 next: "for-sof/r8"

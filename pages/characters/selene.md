@@ -11,9 +11,8 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 
 ![Selene's Avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/selene/3selene.png)
 
-Selene is user 0003 in the Multidimensional Navigator 8.
-
-She is the protagonist of the story.
+Selene is user 002 in the newest version of the website. She is one of the protagonist of the story, having giving 
+birth to the other in [Nex Gen](../lore/nex-gen-corporation)'s labs: demi-god [Sof](sof).
 
 ***
 
@@ -23,7 +22,8 @@ She is the protagonist of the story.
 
 Selene is the immune girl from the [Dreaddit post](../for-sof/dreadit) [E.V.E](eve) and [Dr. Karl Strassman](strassman) are studying.
 Her high amounts of naturally produced DMT is what gave her the immunity to VSPR-37.
-Because of [Nex Gen](../lore/nex-gen-corporation) experimentations, she is now on an epic journey through [YOUtopia](../lore/youtopia).
+Because of [Nex Gen](../lore/nex-gen-corporation) experiments, she is now on an epic journey through 
+[YOUtopia](../lore/youtopia).
 
 The top right corner of the ARG website log-in page displays "SUBJECT SELENE".
 
@@ -33,7 +33,7 @@ The top right corner of the ARG website log-in page displays "SUBJECT SELENE".
 
 When the outbreak first started in late October 2037, Selene was only 16, making her birth year 2020 or 2021.
 
-In [her diary](../for-sof/selene_personal_journal.md), she talks about "this flu [...] it's appeared pretty much overnight" 
+In [her diary](../for-sof/selene_personal_journal), she talks about "this flu [...] it's appeared pretty much overnight" 
 and hearing her parents talking about "stocking up on supplies".
 She also mentions how she's worried about her friend (and crush) [Scott](syko), who she hasn't seen in three days. 
 Selene then plans on visiting him the next day if he still doesn't show up to school.
@@ -63,6 +63,13 @@ She now has to journey through this mystical land to discover the ancient myster
 
 Selene is connected to the [CAPSLOCK DOC](../for-sof/capslock_doc), which was opened earlier in the timeline than expected by the devs. 
 For this reason, spoilers for this document are contained to its article.
+
+***
+
+## Website History
+
+Selene was user 0003 in the first version of the [Multidimensional Navigator 8](../website/website). Her user number 
+was also used as the password for her [diary](../for-sof/selene_personal_journal).
 
 ***
 

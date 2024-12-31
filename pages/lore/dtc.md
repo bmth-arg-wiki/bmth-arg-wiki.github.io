@@ -30,8 +30,8 @@ They remark that the DTC is home to Nex Gen and "the remnants of its influence s
 
 ### The Public Execution (>2020)
 
-The execution of a man on a show named "Faith Over Flesh" was the topic of the article [Faith on the Edge](tdw-faithedge), 
-by Gideon Mourningstone. The article was published on [the Daily Whisper](webbrowser). Gideon is critical of the state of the DTC 
+The execution of a man on a show named "Faith Over Flesh" was the topic of the article [Faith on the Edge](../website/tdw-faithedge), 
+by Gideon Mourningstone. The article was published on [the Daily Whisper](../website/webbrowser). Gideon is critical of the state of the DTC 
 of this article, but does remark that the DTC's ethics boards raised concerns with the show. The death row inmate named 
 Jonah expresses intent to be crucified publicly, promising spiritual highs and cathartic release. 
 Gideon is critical about the practice, pointing out that Jonah has connections to Ecliptism, a shady sect that was formed 
@@ -53,7 +53,7 @@ tried Lupamine at least once.
 
 ### Gat3keeper Theme Park (2023-2051)
 
-The DTC was home to the [Gat3keeper](tdw-gatekeeper) theme park, with an article in the Daily Whisper 
+The DTC was home to the [Gat3keeper](../website/tdw-gatekeeper) theme park, with an article in the Daily Whisper 
 describing the park's tragic history from 2023-2051. This was the DTC's most advanced theme park and an AI named Celesta 
 controlled several of their rides. During this time, several system incidents caused 
 horrific accidents in the park, with most of them rumored or confirmed to be malfunctions of Celesta AI. 
@@ -84,6 +84,6 @@ Related lore:
 - [ARC/HIVE Corporation](archive)
 - [Nex Gen Corporation](nex-gen-corporation)
 - [VSPR-37](vspr37)
-- [Sof's Journal](journal)
-- [The Daily Whisper](webbrowser)
-- [TDW: Faith on the Edge](webbrowser)
+- [Sof's Journal](../website/journal.md)
+- [The Daily Whisper](../website/webbrowser)
+- [TDW: Faith on the Edge](../website/webbrowser)

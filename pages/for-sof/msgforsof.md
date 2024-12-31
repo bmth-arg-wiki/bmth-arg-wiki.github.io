@@ -4,7 +4,7 @@ description: "The first file in the folder is an audio message from Selene to he
 who she says has been born not even 20 minutes ago. She has to leave Sof after an alarm goes off."
 categories: ["for-sof"]
 tags: ["sof", "selene", "mother", "m8", "birth", "destiny"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/msgforsof/msgforsof-player.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/sof/sof-300x300.jpg"
 next: "lore/insights"
 next_text: "THEINSIGHTS.DOC"
 ---
@@ -24,7 +24,7 @@ You can also hear thunder partway through the audio, which upsets the baby, caus
 her. She says that there is something she still needs to do. Near the end of the recording an alarm goes off, 
 which prompts Selene to say that's her cue, say a few more words goodbye and then end the recording.
 
-From the [lore booklet](../lore/booklet) and [Sof's journal](../lore/journal) we learn more about what happened to Sof 
+From the [lore booklet](../lore/booklet) and [Sof's journal](../website/journal.md) we learn more about what happened to Sof 
 after she was born in 2040. They are a demi-god who was raised by M8 and is now discovering their true origins 
 through the documents left by Selene, who they resent for it.
 
@@ -103,7 +103,7 @@ Related files:
 Related articles:
 
 - [Nex Gen Corporation](../lore/nex-gen-corporation)
-- [Sof's journal](../lore/journal)
+- [Sof's journal](../website/journal.md)
 - [Lore booklet](../lore/booklet)
 
 Related characters:

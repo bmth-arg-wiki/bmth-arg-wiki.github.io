@@ -36,7 +36,7 @@ A post on Downloadfest from Oli depicts early art of Sof, notably with no serial
 
 This post also provided what seems to be an initial draft for the lore about the church, 
 which is documented on the [Genesis Storyline page](genesis-storyline). This information does seem to conflict 
-with information later presented officially through Sof's [journal](journal).
+with information later presented officially through Sof's [journal](../website/journal.md).
 
 ---
 

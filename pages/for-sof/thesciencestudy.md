@@ -6,7 +6,7 @@ about spiritual science, the third eye and a picture we are told is young Skys i
 categories: ["for-sof"]
 tags: ["science study", "skys", "pink", "mantra", "Radiogenic Leukotrichia", "for sof", "unbeleevable", 
        "new elysium", "2037", "vspr-37", "novosovia"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/science_study/gallery/a_scistudy.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/science_study/scistudy-300x300.png"
 previous: "for-sof/project_dust"
 previous_text: "Jan15_2031_declassified_PROJECT"
 next: "for-sof/skystarjammers"
@@ -103,7 +103,10 @@ for the parents mutated gene to manifest in their offspring.
 >
 > ##### Tickled Pink
 >
-> Now, a new phenomenon is now being reported: babies born with pink hair. Though extremely rare, (believed to affect approximately 1 in 5 million newborns) this phenomenon occurs due to a specific genetic mutation that not only reduces eumelanin but also increases the production of pheomelanin, combined with the effects of radiation. The excess pheomelanin gives the hair its distinctive pink hue.
+> Now, a new phenomenon is now being reported: babies born with pink hair. Though extremely rare, (believed to affect 
+> approximately 1 in 5 million newborns) this phenomenon occurs due to a specific genetic mutation that not only reduces 
+> eumelanin but also increases the production of pheomelanin, combined with the effects of radiation. The excess 
+> pheomelanin gives the hair its distinctive pink hue.
 >
 > ##### Blessed with a Curse?
 >
@@ -196,7 +199,7 @@ it? □
 grave
 </details>
 
-This password was found in the [music player](../webpage#website-songs). The song
+This password was found in the [music player](../website/website#website-songs). The song
 Wrist has an anagram for the password in the song information.
 
 ***

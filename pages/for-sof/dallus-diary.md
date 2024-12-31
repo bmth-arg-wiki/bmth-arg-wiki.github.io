@@ -147,7 +147,7 @@ Related lore:
 
 - [Cult of MANTRA](../lore/mantra)
 - [ARC/HIVE](../lore/archive)
-- [Sof's journal](../lore/journal)
+- [Sof's journal](../website/journal.md)
 
 Related characters:
 

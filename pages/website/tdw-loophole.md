@@ -1,11 +1,14 @@
 ---
 title: "What is a Loop-Hole?"
 description: "And Other Questions About Lupamine Use in the DTC"
-categories: ["lore"]
+categories: ["website", "lore"]
 tags: ["bmth", "arg", "nex gen", "spyder", "daily whisper", "loophole", "lupamine"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/dailywhisper/loophole-300x300.png"
 next: "lore/tdw-gatekeeper"
 next_text: "GAT3KEEPER"
+redirect_from:
+  - /pages/lore/tdw-loophole.html
+  - /pages/lore/tdw-loophole
 ---
 # What is a Loop-Hole?
 
@@ -16,7 +19,7 @@ content="This article deals with triggering topics, including drugs and addictio
 
 > The drug warps brain chemistry, leaving people desperate for more to maintain their high while slipping further from reality.
 
-This Daily Whisper entry tells us about [Lupamine](lupamine), a drug created by [NEX GEN](nex-gen-corporation) for 
+This Daily Whisper entry tells us about [Lupamine](../lore/lupamine), a drug created by [NEX GEN](../lore/nex-gen-corporation) for 
 military purposes. Sadly, it has made it onto the streets and is causing severe damages to partakers. 
 It also gives us more information about [Rebecca Sinclair](../characters/rebecca), the world's first SYNTH. 
 
@@ -101,7 +104,14 @@ Transcription by Alec
 
 ## Read More
 
-More [lore](lore)!
+About the ARG website:
+
+- [Website](website)
+- [Old website](website-v1)
+- [Webbrowser Spyder](webbrowser)
+- [Noctune Music Player](website-songs)
+- [Wi-Fi](wifi)
+- [Journal](journal)
 
 Other Daily Whisper articles:
 
@@ -125,5 +135,5 @@ Related character:
 Related Lore:
 
 - [Spyder Web Browser](webbrowser)
-- [Lupamine](lupamine)
-- [NEX GEN Corp.](nex-gen-corporation)
+- [Lupamine](../lore/lupamine)
+- [NEX GEN Corp.](../lore/nex-gen-corporation)

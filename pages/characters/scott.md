@@ -8,9 +8,11 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 ---
 # Scott
 
+> "What’s even crazier-earlier, somebody bit me, BIT ME."
+
 Scott is [Selene](selene)'s friend. They're in the same school and are the same age. 
 He is also referred to as NYX-02 in the [Kingslayer codec](../for-sof/kingslayercodec), where he also 
-seems to meet his end. [Sof's journal](../lore/journal) refers to him as deceased, after he is executed after a 
+seems to meet his end. [Sof's journal](../website/journal.md) refers to him as deceased, after he is executed after a 
 VSPR-37 infection, turning him into a voidling.
 
 ![Scott character art from the access card](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/scott/scott-access-card.png)
@@ -60,7 +62,7 @@ Related files:
 Related lore:
 
 - [Nex Gen Corporation](../lore/nex-gen-corporation)
-- [Sof's journal](../lore/journal)
+- [Sof's journal](../website/journal.md)
 
 Related characters:
 

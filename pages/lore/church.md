@@ -24,7 +24,7 @@ Church of Genxsis booth at NexFest Tokyo.
 
 ![Website screenshot](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/church/church_sof_journal.png)
 
-According to [Sof](../characters/sof)'s [journal](journal), Genxsis is a secretive, corporate-backed offshoot from the Neosages, also known 
+According to [Sof](../characters/sof)'s [journal](../website/journal.md), Genxsis is a secretive, corporate-backed offshoot from the Neosages, also known 
 as the Mantra cult. Most of what we learn about the cult comes from [Unbeleevable episodes 1](../for-sof/unbeleevable) and 
 [2](../for-sof/unbeleevable2).
 

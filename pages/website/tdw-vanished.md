@@ -1,13 +1,16 @@
 ---
 title: "Vanished Beyond the Veil"
 description: "The Disturbing Fate of the Picardo Expedition"
-categories: ["lore"]
+categories: ["website", "lore"]
 tags: ["bmth", "arg", "nex gen", "spyder", "daily whisper", "vanished", "beyond", "veil"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/dailywhisper/vanished-300x300.png"
 previous: "lore/tdw-gatekeeper"
 previous_text: "GAT3KEEPER"
 next: "lore/tdw-riseofsynth"
 next_text: "The Rise of Synthetic Humans"
+redirect_from:
+  - /pages/lore/tdw-vanished.html
+  - /pages/lore/tdw-vanished
 ---
 # Vanished Beyond the Veil
 
@@ -97,7 +100,14 @@ Transcription by Alec
 
 ## Read More
 
-More [lore](lore)!
+About the ARG website:
+
+- [Website](website)
+- [Old website](website-v1)
+- [Webbrowser Spyder](webbrowser)
+- [Noctune Music Player](website-songs)
+- [Wi-Fi](wifi)
+- [Journal](journal)
 
 Other Daily Whisper articles:
 
@@ -113,7 +123,3 @@ Other Daily Whisper articles:
 - [The Future of Entertainment](tdw-futureentertainment)
 - [Inside the Blood-Red Spectacles](tdw-bloodredspectacles)
 - [NEX GEN's Rogue Sentinels](tdw-roguesentinels)
-
-Related Lore:
-
-- [Spyder Web Browser](webbrowser)

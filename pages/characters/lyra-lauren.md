@@ -24,7 +24,7 @@ Dallus' children in [Project D.U.S.T.](../for-sof/project_dust) and (likely) the
 which centers around Dallus and his trauma. These drawings are likely [Ren](ren)'s, since Lyra is not even a month old 
 at the time of the proposal in January 2021.
 
-On the 5th of November Lyra Lauren mysteriously dies in a car crash, as we learn from the [webbrowser article on Gat3keeper](../lore/tdw-gatekeeper). 
+On the 5th of November Lyra Lauren mysteriously dies in a car crash, as we learn from the [webbrowser article on Gat3keeper](../website/tdw-gatekeeper). 
 Gat3keeper was a technologically advanced theme park, where many ended up losing their lives. Much of this was to thank 
 to an AI named Celesta, who's first reported malfunctioning was in 2036. 
 On the night of the car crash, Dallus Lauren was driving his children Ren and Lyra home in routine traffic after 

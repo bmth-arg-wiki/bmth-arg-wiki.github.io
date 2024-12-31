@@ -21,7 +21,7 @@ public to create content, creating a mix of "harmless content and wild conspirac
 in [leak email about Unbeleevable](../for-sof/unbeleevable). Usually this network is not seen as a threat, but Dr. Lee MD has 
 made several accurate claims that suggest access to insider information.
 
-He created the first episode around 2039, according to [Sof](sof)'s [journal](../lore/journal). According to Sof, he is an eccentric figure and 
+He created the first episode around 2039, according to [Sof](sof)'s [journal](../website/journal.md). According to Sof, he is an eccentric figure and 
 his accent is not from the [DTC](../lore/dtc). She also remarks his current status is unknown and that Nex Gen may have silenced 
 him. The first episode is not received well by Nex Gen. Susan's email suggests 
 that they monitor the show, prepare a PR strategy and inform the FANTOM team. The FANTOM team is an internal operations 

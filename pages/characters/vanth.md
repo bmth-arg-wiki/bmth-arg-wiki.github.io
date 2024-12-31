@@ -9,7 +9,7 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 
 ![Vanth's Avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/vanth/17vanth.png)
 
-Vanth was user 0018 in the system and is user 0017 as of the 4th of June 2024. 
+Vanth is the last user, or 016, on the current version of the [Multidimensional Navigator 8](../website/website).
 They are the Omen of [Insight 3: Purpose](../lore/insight3-purpose). In the documents, Vanth is referred to as a princess 
 in the [Purpose](../lore/insight3-purpose) document. Both the map and the [deluxe album booklet](../lore/booklet) refer 
 to Vanth as 'prince' instead.
@@ -30,6 +30,19 @@ Boss fight: **Prince** Of Death. This is also how Vanth is referred to in the [d
 
 ***
 
+## Website History
+
+Vanth was user 0018 in the very first version of the user system and was user 0017 as of the 4th of June 2024, 
+before the website changed entirely in December 2024.
+
+***
+
+## Gallery
+
+{% include gallery.html folder="characters/vanth/gallery" %}
+
+***
+
 ## Read More
 
 - [Characters](../characters)
@@ -45,9 +58,3 @@ Other [omens](../characters#omens):
 
 - [Miseria](miseria)
 - [Pan](pan)
-
-***
-
-## Gallery
-
-{% include gallery.html folder="characters/vanth/gallery" %}

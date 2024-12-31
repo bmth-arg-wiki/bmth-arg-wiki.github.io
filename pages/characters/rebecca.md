@@ -39,7 +39,7 @@ is not only still alive, but Strassman and Dallus plan to transfer his conscious
 to awake as a synth, starts begging the three scientists for death. While Strassman and Dallus argue about the state of him, 
 Rebecca states that she will "do it". It is currently unknown what happens to Skys after.
 
-From unlocking the credentials for the [Spyder](../lore/webbrowser), we get access to several articles from the Daily Whisper. 
+From unlocking the credentials for the [Spyder](../website/webbrowser), we get access to several articles from the Daily Whisper. 
 One of the articles details that sadly, Rebecca had fallen victim to a [lupamine](../lore/lupamine) addiction, becoming 
 violent and psychotic. It was thought that synths were immune to addiction, but the drugs effects were even amplified 
 by her synthetic body. She became the most infamous case of Lupamine addiction. The addictive nature of Lupamine stems from the 
@@ -61,8 +61,8 @@ Related articles:
 - [Nex Gen Corporation](../lore/nex-gen-corporation)
 - [Synths](../lore/synths)
 - [Lupamine](../lore/lupamine)
-- [Webbrowser](../lore/webbrowser)
-- [TDW: What is a loophole?](../lore/tdw-loophole)
+- [Webbrowser](../website/webbrowser)
+- [TDW: What is a loophole?](../website/tdw-loophole)
 
 Related characters:
 

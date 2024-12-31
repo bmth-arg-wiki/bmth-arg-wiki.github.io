@@ -1,13 +1,16 @@
 ---
 title: "'Red, White, and Blood'"
 description: "Red, White, and Blood is a movie review by Dr. Lee MD and seems to be a parody on the US elections."
-categories: ["lore"]
+categories: ["website", "lore"]
 tags: ["bmth", "arg", "nex gen", "spyder", "daily whisper", "red", "white", "blood"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/dailywhisper/red-300x300.png"
 previous: "lore/tdw-clonechaos"
 previous_text: "Clone Chaos"
 next: "lore/tdw-futureentertainment"
 next_text: "The Future of Entertainment"
+redirect_from:
+  - /pages/lore/tdw-redwhiteblood.html
+  - /pages/lore/tdw-redwhiteblood
 ---
 # "Red, White, and Blood"
 
@@ -41,7 +44,14 @@ The article also mentions DreamReel, which is likely to be the in-universe equiv
 
 ## Read More
 
-More [lore](lore)!
+About the ARG website:
+
+- [Website](website)
+- [Old website](website-v1)
+- [Webbrowser Spyder](webbrowser)
+- [Noctune Music Player](website-songs)
+- [Wi-Fi](wifi)
+- [Journal](journal)
 
 Other Daily Whisper articles:
 
@@ -64,5 +74,5 @@ Related characters:
 
 Related lore:
 
-- [DTC](dtc)
+- [DTC](../lore/dtc)
 - [Spyder Web Browser](webbrowser)
