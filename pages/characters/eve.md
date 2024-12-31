@@ -14,7 +14,7 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 
 E.V.E. (Evolutionary Virtual Experiment) is user 001 in the system on the newest version of the website.
 She is also known as E.V.E/L, which stands for Extremely Violent Ersatz Lifeform. M8 refers to her as the "big boss" in 
-her WHO ARE YOU? speech on the [webpage](../webpage). She also implies that E.V.E. is on earth at the moment while we are not.
+her WHO ARE YOU? speech on the [webpage](../website/website). She also implies that E.V.E. is on earth at the moment while we are not.
 
 ***
 
@@ -40,7 +40,7 @@ E.V.E. has her own ambitions for survival and doesn't hesitate to use science as
 She is cold-hearted and manipulative. Although trying to appear kind on the outside, she often slips up and mentions wanting 
 to control humanity in material on social media.
 
-Within the ARG [website](../webpage), [M8](../m8) informs us that E.V.E. is the big boss at Nex Gen Corporation, a role 
+Within the ARG [website](../website/website), [M8](../m8) informs us that E.V.E. is the big boss at Nex Gen Corporation, a role 
 also attributed to [Victor Carmine](victor-carmine).
 
 ***

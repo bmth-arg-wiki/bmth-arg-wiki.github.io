@@ -1,15 +1,18 @@
 ---
 title: "Spyder"
 description: "The fictional browser in this universe, embedded as an application within the system. 
-Access to the internet has not been gained yet."
-categories: ["lore"]
+Currently we have access to the Daily Whisper on this app."
+categories: ["website", "lore"]
 tags: ["web browser", "spyder", "wi-fi", "password", "arg", "bring me the horizon", "bmth", 
 "offline mode", "surfr", "dreadit", "error_tp10a2uhd7amnSTCB", "surfr.news/2d85da7-f5cc-45a4-ad44"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/spyder300x300.png"
+redirect_from:
+  - /pages/lore/webbrowser.html
+  - /pages/lore/webbrowser
 ---
 # Web Browser - Spyder
 
-Spyder is the web browser of the [Multidimensional Navigator 8](../webpage) , which was unusable until September 30th, 
+Spyder is the web browser of the [Multidimensional Navigator 8](../website/website) , which was unusable until September 30th, 
 as we did not have the [wifi](wifi) passwords.
 
 It's accessed through this intricate looking icon at the top left of the screen. 
@@ -49,7 +52,7 @@ The error code seemed to be related to [Top 10 statues that cried blood](../musi
 {% include info.html 
 title="Spoiler Warning!" 
 icon="fa-solid fa-triangle-exclamation"
-content="Version 2 contains slight spoilers for the Dreaddit file. If you want to avoid them, we suggest jumping directly to [Version 3](#Version-3)." 
+content="Version 2 contains slight spoilers for the Dreaddit file. If you want to avoid them, we suggest jumping directly to [Version 3](#Version-31)." 
 %}
 
 Spyder's second iteration looked the same as the first with the only exception being the new url in the search bar.
@@ -208,7 +211,13 @@ we are lead to a table of content for all the articles on this website.
 
 ## Read More
 
-More [lore](lore)!
+About the ARG website:
+
+- [Website](website)
+- [Old website](website-v1)
+- [Noctune Music Player](website-songs)
+- [Wi-Fi](wifi)
+- [Journal](journal)
 
 Related files:
 
@@ -216,8 +225,8 @@ Related files:
 
 Related lore:
 
-- [Nex Gen Corporation](nex-gen-corporation)
-- [M8 webpage](../webpage)
+- [Nex Gen Corporation](../lore/nex-gen-corporation)
+- [M8 webpage](../website/website)
 - [Wifi](wifi)
 - [What is a Loop-Hole](tdw-loophole)
 - [GAT3KEEPER](tdw-gatekeeper)

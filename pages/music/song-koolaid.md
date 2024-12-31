@@ -45,7 +45,7 @@ Before 26-05 update.
 
 After 26-05 update.
 
-An 8-bit version of Kool-Aid is included on the [webpage](../webpage).
+An 8-bit version of Kool-Aid is included on the [webpage](../website/website).
 
 ***
 
@@ -139,7 +139,7 @@ despair, addiction, existential struggle
 ## Read More
 
 - [POST HUMAN: NeX GEn](ph-nex-gen)
-- [Website songs](website-songs)
+- [Website songs](../website/website-songs)
 - [Angeldust](../characters/angeldust)
 
 Other singles:

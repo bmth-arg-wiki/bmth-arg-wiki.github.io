@@ -199,7 +199,7 @@ it? □
 grave
 </details>
 
-This password was found in the [music player](../webpage#website-songs). The song
+This password was found in the [music player](../website/website#website-songs). The song
 Wrist has an anagram for the password in the song information.
 
 ***

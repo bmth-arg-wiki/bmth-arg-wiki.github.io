@@ -31,30 +31,33 @@ information as much as possible and indicate whenever something is not confirmed
 
 ***
 
+## Overviews
+
+The wiki contains many pages documenting the website (including older versions), files distributed digitally and 
+in-person, characters and the ARG universe and the interesting concepts within. You can find all of our articles 
+linked in these overview pages.
+
+{% assign page_links = '/pages/website/website, /pages/for-sof/for-sof, /pages/characters/characters, /pages/lore/lore, /pages/music/music' | split: ", " %}
+{% include page-card-gallery.html links=page_links %}
+
+***
+
 ## Getting started
 
 {% include content/info.html
-title="Update in progress..."
+title="Still updating..."
 icon="fa-solid fa-info"
-content="The website underwent many changes on December 2024. Please be patient while we upd8 the wiki <3"
+content="We are currently working on a new 'website' category, finishing up our character articles, and 
+we've added lots of [lore](pages/lore/lore) to explore!"
 %}
 
 There is a lot going on in this ARG! We get it if you are overwhelmed. 
 This section will attempt to explain the most important sources.
 
-We also offer a walkthrough:
-
-{% assign page_links = '/pages/walkthrough/walkthrough, /pages/walkthrough/walkthrough2' | split: ", " %}
-{% include page-card-gallery.html links=page_links %}
-
-Since this ARG is still ongoing, updates will be reflected in the walkthrough as soon as possible. <i class="fa-solid fa-heart"></i>
-
 ### The Album
 
 The album itself contains many tracks, with some of them hiding secrets! Nearly all tracks 
 have a lyric video and there are many [official videos](https://www.bmthofficial.com/videos/) too.
-
-![Screenshot of website Multi-dimensional Navigator 8](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/webpage-overview.png)
 
 There is also lore from [POST HUMAN: SURVIVAL HORROR](pages/music/ph-survival-horror) and [amo](pages/music/amo), 
 but it's best to start with the new material first!
@@ -62,21 +65,15 @@ but it's best to start with the new material first!
 ### The Webpage
 
 The webpage for the ARG can be found [here](https://www.multidimensionalnavigator8.help/index-desktop.html) 
-and provides the bulk of what we know about the Nex Gen lore. The wiki also covers [the webpage](pages/webpage) 
+and provides the bulk of what we know about the Nex Gen lore. The wiki also covers [the webpage](pages/website/website) 
 itself and the different software on it. The serial number on the side of M8's head on the album cover 
 is the code you will need to get into the website.
-
-Currently, many functionalities are disabled. While the [wi-fi](pages/lore/wifi) password was found spread out in Bring 
-Me The Horizon pop-up shops all over the world, we still seem to be missing some credentials to actually use the wi-fi.  
-Updates have mostly opened up files in a folder called [FOR SOF](pages/for-sof). The recommended order is to read about 
-the webpage first, then read more about the files in this folder. All passwords are spoiler-tagged, but articles about 
-characters, songs or the lore will obviously contain many spoilers.
 
 ![Image of band cards included with certain physical releases.](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/band-cards.png)
 
 ### Socials & other sources
 
-Currently the ARG is in active development and many exciting things 
+Currently, the ARG is in active development and many exciting things 
 are happening. BMTH also post ARG- and Nex Gen-related posts on their [Instagram](https://www.instagram.com/bringmethehorizon), 
 [Twitter](https://x.com/bmthofficial), [YouTube](https://www.youtube.com/@BMTHOfficialVEVO), [Facebook](https://www.facebook.com/bmthofficial/) 
 and [Discord](https://discord.com/invite/bmthofficial). We include some of these posts in the various articles where relevant.
@@ -84,7 +81,7 @@ and [Discord](https://discord.com/invite/bmthofficial). We include some of these
 Some [other webpages](pages/other-webpages) have also been linked or are theorized to link to this ARG, 
 they are discussed in their own article. This includes the secret [genxsis.faith](https://genxsis.faith) cult website, 
 the [Mantra](https://joinmantra.org) website and [dungeoncrawl33r](https://dungeoncrawl33r.com), which some of the barcodes 
-on the poster point to.
+on the posters point to.
 
 ***
 

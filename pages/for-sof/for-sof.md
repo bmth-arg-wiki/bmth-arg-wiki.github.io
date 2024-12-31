@@ -1,5 +1,5 @@
 ---
-title: "Files"
+title: "File Overview"
 description: "This page contains all files related to the ARG, including physical document distributed 
 during events. Most of the files are from the FOR SOF folder, which Selene left for her child Sof."
 categories: []
@@ -13,7 +13,7 @@ tags: ["lore", "for sof", "sof", "selene", "documents", "passwords", "rain", "bi
        "cers", "project dust", "angeldust", "psy", "mares", "radiogenic leukotrichia", "pink hair", "unbeleevable",
        "starjammers", "skys", "october palace", "mantra", "cult", "genxsis", "russian poem", "my dear love",
        "kingslayer", "nyx 01", "nyx 02", "grumblr", "rebecca sinclair", "lbr", "lbrp", "lesser banishing ritual", "goxmog"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/for_sof_password_prompt.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/files-300x300.png"
 ---
 
 # Files
@@ -27,13 +27,13 @@ website on the wayback machine."
 %}
 
 This page provides an overview of all files related to the ARG. Most of them were obtained 
-from the [website](../webpage) in the FOR SOF folder, but there are a few exceptions we will discuss.
+from the [website](../website/website) in the FOR SOF folder, but there are a few exceptions we will discuss.
 
 ***
 
 ## Inventory documents
 
-Since the December 4th 2024 update, there is now an `inventory` on the [webpage](../webpage). This inventory contains 
+Since the December 4th 2024 update, there is now an `inventory` on the [webpage](../website/website). This inventory contains 
 four puzzles, which have all been unlocked. This update also included the release of [Dallus' diary](dallus-diary) that
 is in the FOR SOF folder.
 
@@ -44,7 +44,7 @@ is in the FOR SOF folder.
 
 ## Event-related Documents
 
-The following documents were obtained at the Nex Gen pop-up shops, where the [wi-fi](../lore/wifi) password 
+The following documents were obtained at the Nex Gen pop-up shops, where the [wi-fi](../website/wifi) password 
 was also found. The event took place on the 27th and 28th of September 2024 and the documents were obtained on the 27th. 
 The USB distributed in the pop-up shops contained the `Chapel.mp4` video, while the physical 
 document folders that were handed out and hidden around the shops contained a document about [Selene](../characters/selene)'s 

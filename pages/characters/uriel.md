@@ -10,7 +10,7 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 
 ![Uriel's Avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/uriel/2uriel.png)
 
-Uriel is user 009 in the current version of the [Multidimensional Navigator 8](../webpage).
+Uriel is user 009 in the current version of the [Multidimensional Navigator 8](../website/website).
 He is related to the Fourth Insight: [Vision](../lore/insight4-vision), alongside Omen [The Babylon](babylon) and band member [Vegan](vegan).
 
 The symbol for 'Vision' is visible on his skirt in the [tour poster](#gallery).

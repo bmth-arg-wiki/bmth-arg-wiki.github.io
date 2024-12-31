@@ -138,7 +138,7 @@ when this occurs.
 
 ## Website History
 
-Dr. Karl Strassman was user 0013 on the first version of the [webpage](../webpage).
+Dr. Karl Strassman was user 0013 on the first version of the [webpage](../website/website).
 
 ***
 

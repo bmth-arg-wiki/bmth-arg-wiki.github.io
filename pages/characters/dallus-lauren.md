@@ -48,7 +48,7 @@ and not exposed to the cult, is also seeing and drawing mares. This suggests tha
 
 ### The Car Crash
 
-On November 5th 2024, Dallus visits the [Gat3keeper](../lore/tdw-gatekeeper) theme park, a park known for its technological innovations. 
+On November 5th 2024, Dallus visits the [Gat3keeper](../website/tdw-gatekeeper) theme park, a park known for its technological innovations. 
 While he is driving home with his children Ren and Lyra in routine traffic, he gets into an accident that his daughter 
 Lyra does not survive. Officials ruled that Dallus had made an error while driving, but rumors persisted that something 
 in the park had caused the incident. It is also unclear where Dallus' wife Elena is at the time of the accident, as she 

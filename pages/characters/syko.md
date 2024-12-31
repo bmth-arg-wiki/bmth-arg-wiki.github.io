@@ -10,7 +10,7 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 
 ![Syko Avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/syko/5syko.png)
 
-Syko is user 004 on the newest version of the [webpage](../webpage).
+Syko is user 004 on the newest version of the [webpage](../website/website).
 He is the stand-in character for Oliver Sykes, BMTH's lead singer.
 Syko is related to the First Insight: [connection](../lore/insight1-connection), 
 alongside Archangel [Raphael](raphael) and Omen [Pan](pan).
@@ -27,7 +27,7 @@ which he approaches head-on with a keen intellect and resilience.
 
 ## Website History
 
-Syko was user 0005 in the first version of the [Multidimensional Navigator 8](../webpage). 
+Syko was user 0005 in the first version of the [Multidimensional Navigator 8](../website/website). 
 His user number was also used to open [Scott](scott)'s [diary](../for-sof/scott_personal_journal), 
 in which the young man succumbs to a [VSPR-37](../lore/vspr37) infection.
 

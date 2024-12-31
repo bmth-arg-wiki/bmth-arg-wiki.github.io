@@ -23,14 +23,14 @@ famously became addicted to despite being a [synth](synths).
 ## Backstory
 
 Lupamine is a controversial tranquilizer created by Nex Gen to genetically resurrect their 
-Lycans for the military. The article on [Jayven Valex](tdw-valexlastwords) describes it as "Nex Gen's military 
+Lycans for the military. The article on [Jayven Valex](../website/tdw-valexlastwords) describes it as "Nex Gen's military 
 dyrewolf tranquilizer". The dangerous drug brings users into a feral dissociative state, where they feel like 
 they are part of a predatory nightmare.
 
 ### Lupamine Article
 
 Rebecca Sinclair, the world's first synthetic human, was notably the first to fall victim to this. 
-The [article on Lupamine](tdw-loophole) provides us with an insight into the addictive substance known 
+The [article on Lupamine](../website/tdw-loophole) provides us with an insight into the addictive substance known 
 as Lupamine.
 
 While she was supposed to be a symbol for humanity's future, previously suffering from a deadly 
@@ -47,7 +47,7 @@ called a semi-loop-hole state: their minds become trapped in a circle of fear an
 
 The DTC, or Disunited Territories of Columbia, had an epidemic of Lupamine addiction and banned it 
 for public use, as a class A controlled substance. Due to the black market trade and despite warnings, 
-Lupamine use was skyrocketing at the time of writing the article in the [browser](webbrowser). 
+Lupamine use was skyrocketing at the time of writing the article in the [browser](../website/webbrowser). 
 
 ### Jayven Valex's Last Words
 
@@ -56,7 +56,7 @@ title="Little info available"
 content="Currently, there is little information available about these characters."
 %}
 
-Another [article](tdw-valexlastwords) details the death by overdose of Jayven Valex, the rising star of 
+Another [article](../website/tdw-valexlastwords) details the death by overdose of Jayven Valex, the rising star of 
 DRIVD IT. The actor was found unresponsive in his home, having used his last words to ask his assistant, 
 Clara Hynes, to administer the drug to him. Authorities responded by arresting five suspects, including 
 Dr. Marion Vale, Erik Cruz and Jasmine Lorran. The latter is also referred to as "Lupamine Queen". 
@@ -66,7 +66,7 @@ Valex for profit.
 
 ### The Dark Rise of Lupamine
 
-[One of the articles](tdw-riseoflupamine) on the Daily Whisper about Lupamine can not be accessed due to several viruses, 
+[One of the articles](../website/tdw-riseoflupamine) on the Daily Whisper about Lupamine can not be accessed due to several viruses, 
 something that does not seem to be an issue on any other page.
 
 ### Unbeleevable 2: Lee Tries Lupamine
@@ -86,7 +86,7 @@ Related characters:
 
 Related lore:
 
-- [Spyder browser](webbrowser)
+- [Spyder browser](../website/webbrowser)
 - [Synths](synths)
 - [Nex Gen Corporation](nex-gen-corporation)
 - [P.U.S.S.-E](pusse)

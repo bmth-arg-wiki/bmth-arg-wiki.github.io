@@ -12,7 +12,7 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 
 He is the stand-in character for Matt Kean, BMTH's bassist. 
 Vegan is related to the Fourth Insight: [Vision](../lore/insight4-vision), 
-alongside Archangel [Uriel](uriel) and Omen [The Babylon](babylon.md).
+alongside Archangel [Uriel](uriel) and Omen [The Babylon](babylon).
 
 ***
 
@@ -32,7 +32,7 @@ He is a figure of light, harmony, and compassion beloved by the entire community
 
 ## Website History
 
-Vegan was user 0001 in the first version of the [Multidimensional Navigator 8](../webpage).
+Vegan was user 0001 in the first version of the [Multidimensional Navigator 8](../website/website).
 
 ***
 

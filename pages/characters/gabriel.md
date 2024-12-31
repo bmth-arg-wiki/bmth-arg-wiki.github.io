@@ -11,7 +11,7 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 
 ![Gabriel's avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/gabriel/16gabriel.png)
 
-Gabriel is currently missing from the user system on the newest version of the [webpage](../webpage).
+Gabriel is currently missing from the user system on the newest version of the [webpage](../website/website).
 He is related to the Second Insight: [Empathy](../lore/insight2-empathy), 
 alongside Omen [Miseria](miseria) and band member [Madman](madman).
 

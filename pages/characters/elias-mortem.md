@@ -33,7 +33,7 @@ The proposal also mentions a substance named Psychoactive Structured Yttrium (P.
 subjects. The Special Six children are able to fight off their captors using their exceptional abilities, which seem either 
 natural to them or brought on by (a substance similar to) P.S.Y.
 
-[Sof](sof) tells us more about what happened to the man in their [journal](../lore/journal), where they speculate that 
+[Sof](sof) tells us more about what happened to the man in their [journal](../website/journal.md), where they speculate that 
 Project D.U.S.T. may have resulted in the Chapel incident, where Mortem and his entire team ended up slaughtered.
 
 ***

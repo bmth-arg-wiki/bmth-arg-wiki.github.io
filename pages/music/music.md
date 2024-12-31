@@ -25,10 +25,10 @@ BMTH has hinted through social media posts that some older songs might also be r
 
 ## Other Music
 
-{% assign page_links = '/pages/music/website-songs, /pages/music/spectrograms' | split: ", " %}
+{% assign page_links = '/pages/website/website-songs, /pages/music/spectrograms' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
-Additionally, the website includes [exclusive songs](website-songs), being exclusively released there. 
+Additionally, the website includes [exclusive songs](../website/website-songs), being exclusively released there. 
 Some uploads can be found on YouTube.
 
 The website itself and some of the passwords were found through [spectrograms](spectrograms), 

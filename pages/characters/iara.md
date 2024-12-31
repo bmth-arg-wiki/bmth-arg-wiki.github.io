@@ -15,7 +15,7 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 ![Iara's avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/iara/15iara.png)
 
 Iara is a [Nex Gen](../lore/nex-gen-corporation) employee, interested in aliens and a close friend of 
-[Rebecca](rebecca). She is user 012 on the current version of the [webpage](../webpage).
+[Rebecca](rebecca). She is user 012 on the current version of the [webpage](../website/website).
 
 ***
 
@@ -60,7 +60,7 @@ Billy, a man who is also briefly mentioned during the live shows, in the line "T
 
 ## Website History
 
-Iara used to be user 0015 on the first version of the [Multidimensional Navigator 8](../webpage).
+Iara used to be user 0015 on the first version of the [Multidimensional Navigator 8](../website/website).
 
 ***
 

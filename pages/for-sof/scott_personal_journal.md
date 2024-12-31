@@ -102,7 +102,7 @@ virus…eatin away my humanity. Can feel it.
 </details>
 
 As of December 2024, this file does not need a password anymore.
-It used to have one on the older version of the [webpage](../webpage). On this older version, [Syko](../characters/syko)'s
+It used to have one on the older version of the [webpage](../website/website). On this older version, [Syko](../characters/syko)'s
 (then-current, now old) user number was the number used for this password.
 
 Both the Kingslayer codec and Sof's journal state that Scott is sadly dead. The relation to Syko, a character we see 
@@ -125,5 +125,5 @@ Related files:
 
 Related lore:
 
-- [Sof's journal](../lore/journal)
+- [Sof's journal](../website/journal.md)
 - [Nex Gen Corp.](../lore/nex-gen-corporation)

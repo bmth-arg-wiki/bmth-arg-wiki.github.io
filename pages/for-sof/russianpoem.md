@@ -36,7 +36,7 @@ the [Skys & The Starjammers poster](skystarjammers). The password
 for this was found in an [Instagram post](https://www.instagram.com/p/C-DhcBaC4NP/).
 
 More context was provided in December 2024, when a website
-update dropped [Sof](../characters/sof)'s thoughts on the matter in their [journal](../lore/journal).
+update dropped [Sof](../characters/sof)'s thoughts on the matter in their [journal](../website/journal.md).
 
 ***
 

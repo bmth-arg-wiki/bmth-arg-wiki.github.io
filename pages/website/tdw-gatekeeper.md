@@ -1,13 +1,16 @@
 ---
 title: "GAT3KEEPER"
 description: "The DTC's Most Advanced Theme Park and It's Tragic History"
-categories: ["lore"]
+categories: ["website", "lore"]
 tags: ["bmth", "arg", "nex gen", "spyder", "daily whisper", "gatekeeper", "gat3keeper"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/dailywhisper/gat3keeper-300x300.png"
 previous: "lore/tdw-loophole"
 previous_text: "What is a Loop-Hole?"
 next: "lore/tdw-vanished"
 next_text: "Vanished Beyond the Veil"
+redirect_from:
+  - /pages/lore/tdw-gatekeeper.html
+  - /pages/lore/tdw-gatekeeper
 ---
 # GAT3KEEPER
 
@@ -116,7 +119,14 @@ Transcription by Alec
 
 ## Read More
 
-More [lore](lore)!
+About the ARG website:
+
+- [Website](website)
+- [Old website](website-v1)
+- [Webbrowser Spyder](webbrowser)
+- [Noctune Music Player](website-songs)
+- [Wi-Fi](wifi)
+- [Journal](journal)
 
 Other Daily Whisper articles:
 

@@ -19,7 +19,7 @@ All tracks for Nex Gen have their own articles.
 {% assign page_links = '/pages/music/song-youtopia, /pages/music/song-koolaid, /pages/music/song-top10, /pages/music/song-limousine, /pages/music/song-darkside, /pages/music/song-abwmno, /pages/music/song-spiritual, /pages/music/song-na, /pages/music/song-lost, /pages/music/song-strangers, /pages/music/song-rip, /pages/music/song-amen, /pages/music/song-pusse, /pages/music/song-die4u, /pages/music/song-digit'  | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
-Additionally, there are some [songs](website-songs) on the music player on the [webpage](../webpage), 
+Additionally, there are some [songs](../website/website-songs) on the music player on the [webpage](../website/website), 
 including two versions of Kool-Aid (8-bit version).
 
 ***

@@ -45,5 +45,5 @@ same way the six-pointed star is in the ARG.
 
 ## Read More
 
-- [Webpage](webpage)
+- [Webpage](website/website)
 - [Social posts](socials)

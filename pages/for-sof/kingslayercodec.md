@@ -163,7 +163,7 @@ Related file:
 Related articles:
 
 - [Nex Gen](../lore/nex-gen-corporation)
-- [Sof's journal](../lore/journal)
+- [Sof's journal](../website/journal.md)
 
 Related characters:
 

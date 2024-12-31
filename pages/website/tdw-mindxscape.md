@@ -1,13 +1,16 @@
 ---
 title: "MindXscape"
 description: "A Fatal Glitch in Memory Vacations?"
-categories: ["lore"]
+categories: ["website", "lore"]
 tags: ["bmth", "arg", "nex gen", "spyder", "daily whisper", "mindxscape"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/dailywhisper/mindxscape-300x300.png"
 previous: "lore/tdw-riseoflupamine"
 previous_text: "The Dark Rise of Lupamine"
 next: "lore/tdw-faithedge"
 next_text: "Faith on the Edge"
+redirect_from:
+  - /pages/lore/tdw-mindxscape.html
+  - /pages/lore/tdw-mindxscape
 ---
 # MindXscape
 
@@ -110,7 +113,14 @@ Transcription by Alec
 
 ## Read More
 
-More [lore](lore)!
+About the ARG website:
+
+- [Website](website)
+- [Old website](website-v1)
+- [Webbrowser Spyder](webbrowser)
+- [Noctune Music Player](website-songs)
+- [Wi-Fi](wifi)
+- [Journal](journal)
 
 Other Daily Whisper articles:
 

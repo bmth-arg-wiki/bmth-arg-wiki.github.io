@@ -1,7 +1,7 @@
 ---
-title: "Journal"
+title: "Sof's Journal"
 description: "This page is about Sof's Journal, found on the main page of the M8 Website."
-categories: ["lore"]
+categories: ["website", "lore"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/journal/journal-300x300.png"
 tags: ["sof", "arg", "journal", "selene", "scott", "M8", "eve", "karl", "strassman", "lee", "elias", "mortem", 
 "dallus", "dallas", "lauren", "lyra", "wife", "kids", "elena", "ikaro", "ren", "rebecca", "sinclair", "victor", 
@@ -9,6 +9,9 @@ tags: ["sof", "arg", "journal", "selene", "scott", "M8", "eve", "karl", "strassm
 "cult", "genxsis", "archive", "nex gen", "kingslayer", "project", "dust", "vspr", "vspr37", "starjammers", 
 "russian poem", "trinity", "synth", "tekka", "pink hair", "radiogenic leukotrichia", "d8", "msgforsof", "codek", 
 "lbr", "lbr centres", "unbeleevable", "chapel"]
+redirect_from:
+  - /pages/webpage.html
+  - /pages/webpage
 ---
 
 # Journal
@@ -920,8 +923,9 @@ Coming soon!
 
 ## Read more
 
-More [Lore](lore)!
+About the ARG website:
 
-More [Characters](../characters/characters)!
-
-Check out the [FOR SOF folder 📁](../for-sof/for-sof)!
+- [Old website](website-v1)
+- [Webbrowser Spyder](webbrowser)
+- [Noctune Music Player](website-songs)
+- [Wi-Fi](wifi)

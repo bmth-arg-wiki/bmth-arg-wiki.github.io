@@ -37,7 +37,7 @@ the start of the [Mantra cult](mantra). With Skys now leading his own cult and A
 Ecliptism disappears for a while.
 
 It seemingly re-surfaces in the [DTC](dtc), where modern Ecliptists use technology including 
-[Mindstream](mindstream). In the article on Mindstream's [Faith Over Flesh](tdw-faithedge), 
+[Mindstream](mindstream). In the article on Mindstream's [Faith Over Flesh](../website/tdw-faithedge), 
 modern Ecliptists still use suffering and mind manipulation to attempt to access the hidden dimension.
 
 ### Core Beliefs
@@ -95,7 +95,7 @@ sour, with synths succumbing to [lupamine addiction](lupamine). The first synth 
 placing the modern Ecliptism somewhere after this year, since the Daily Whisper articles seem to be released 
 around the same time and link to each other.
 
-In [Faith Over Flesh](tdw-faithedge), described in an article on [The Daily Whisper](webbrowser), a death-row inmate 
+In [Faith Over Flesh](../website/tdw-faithedge), described in an article on [The Daily Whisper](../website/webbrowser), a death-row inmate 
 named Jonah will be crucified in an immersive artificial experience. The man had recently found new faith and 
 is rumoured to be involved with Ecliptism, something the author links back to the [Mantra cult](mantra). Since 
 the technology communicates directly with the brain, this show has the potential for modern Ecliptists to 
@@ -115,8 +115,8 @@ Related files:
 
 Related Daily Whisper articles:
 
-- [TDW: The Future of Entertainment](tdw-futureentertainment)
-- [TDW: Faith on the Edge](tdw-faithedge)
+- [TDW: The Future of Entertainment](../website/tdw-futureentertainment)
+- [TDW: Faith on the Edge](../website/tdw-faithedge)
 
 Related characters:
 

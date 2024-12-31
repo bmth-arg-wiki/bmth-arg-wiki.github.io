@@ -28,7 +28,7 @@ He might also be linked to [Dr. Lee MD](lee-md), who is also played by Malia.
 
 ## Website History
 
-Madman was user 0012 in the first version of the [Multidimensional Navigator 8](../webpage).
+Madman was user 0012 in the first version of the [Multidimensional Navigator 8](../website/website).
 Before the June 4th 2024 update, Madman used to be user 0013.
 
 ***

@@ -22,7 +22,7 @@ for several projects. The initial proposal was finished or sent on the 15th of J
 then the document was declassified by the company re-branded Nex Gen exactly 10 years later in 2031.
 
 The lead scientist on this project was Dr. Elias Mortem, a scientist who was slaughtered in the [Chapel Incident](chapel) 
-in 2040, along with their team. Sof even remarks in [their journal](../lore/journal) that this may have been a consequence 
+in 2040, along with their team. Sof even remarks in [their journal](../website/journal.md) that this may have been a consequence 
 of their research on Project D.U.S.T.
 
 ***

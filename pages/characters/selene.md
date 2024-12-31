@@ -33,7 +33,7 @@ The top right corner of the ARG website log-in page displays "SUBJECT SELENE".
 
 When the outbreak first started in late October 2037, Selene was only 16, making her birth year 2020 or 2021.
 
-In [her diary](../for-sof/selene_personal_journal.md), she talks about "this flu [...] it's appeared pretty much overnight" 
+In [her diary](../for-sof/selene_personal_journal), she talks about "this flu [...] it's appeared pretty much overnight" 
 and hearing her parents talking about "stocking up on supplies".
 She also mentions how she's worried about her friend (and crush) [Scott](syko), who she hasn't seen in three days. 
 Selene then plans on visiting him the next day if he still doesn't show up to school.
@@ -68,7 +68,7 @@ For this reason, spoilers for this document are contained to its article.
 
 ## Website History
 
-Selene was user 0003 in the first version of the [Multidimensional Navigator 8](../webpage). Her user number 
+Selene was user 0003 in the first version of the [Multidimensional Navigator 8](../website/website). Her user number 
 was also used as the password for her [diary](../for-sof/selene_personal_journal).
 
 ***

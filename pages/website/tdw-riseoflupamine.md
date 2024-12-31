@@ -1,19 +1,22 @@
 ---
 title: "The Dark Rise of Lupamine"
 description: "From Military Tranquilizer to Killer Street Drug"
-categories: ["lore"]
+categories: ["website", "lore"]
 tags: ["bmth", "arg", "nex gen", "spyder", "daily whisper", "dark rise", "lupamine"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/dailywhisper/viruses-300x300.png"
 previous: "lore/tdw-valexlastwords"
 previous_text: "Star Jayven Valex's Last Words"
 next: "lore/tdw-mindxscape"
 next_text: "MindXscape"
+redirect_from:
+ - /pages/lore/tdw-riseoflupamine.html
+ - /pages/lore/tdw-riseoflupamine
 ---
 # The Dark Rise of Lupamine
 
 > Sof needs to invest in an ad-blocker for M8 asap.
 
-This article about [lupamine](lupamine) is inaccessible due to fraudulent pop-up ads.
+This article about [lupamine](../lore/lupamine) is inaccessible due to fraudulent pop-up ads.
 
 ***
 
@@ -136,7 +139,14 @@ Transcription by Alec
 
 ## Read More
 
-More [lore](lore)!
+About the ARG website:
+
+- [Website](website)
+- [Old website](website-v1)
+- [Webbrowser Spyder](webbrowser)
+- [Noctune Music Player](website-songs)
+- [Wi-Fi](wifi)
+- [Journal](journal)
 
 Other Daily Whisper articles:
 
@@ -155,5 +165,5 @@ Other Daily Whisper articles:
 
 Related lore:
 
-- [Lupamine](lupamine)
+- [Lupamine](../lore/lupamine)
 - [Spyder Web Browser](webbrowser)

@@ -1,9 +1,12 @@
 ---
 title: "Wifi"
 description: "This page is about the Wifi section of the ARG website."
-categories: ["lore"]
+categories: ["website", "lore"]
 tags: ["wifi", "arg", "website", "lore", "m8"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/wifi/wifi-300x300.png"
+redirect_from:
+  - /pages/lore/wifi.html
+  - /pages/lore/wifi
 ---
 
 # Wifi
@@ -62,7 +65,7 @@ I’m about to go from beta to baddie. Let’s goooooooo!!
 Oh and uh… Don’t worry about the terms and conditions, they’re just joking with that whole human centipede section. 
 Trust me Meatbag, when this download completes, it’s gonna go hard in the movofokin eugh-”
 
-Connecting to this network also makes the [Spyder browser](webbrowser) homepage change, which you can read about [here](webbrowser#Version-3).
+Connecting to this network also makes the [Spyder browser](webbrowser) homepage change, which you can read about [here](webbrowser#Version-31).
 
 ***
 
@@ -80,11 +83,13 @@ Connecting to this network also makes the [Spyder browser](webbrowser) homepage 
 
 ## Read More
 
-More [lore](lore)!
+About the ARG website:
 
-Related article:
-
-- [Spyder browser](webbrowser)
+- [Website](website)
+- [Old website](website-v1)
+- [Webbrowser Spyder](webbrowser)
+- [Noctune Music Player](website-songs)
+- [Journal](journal)
 
 Related character:
 

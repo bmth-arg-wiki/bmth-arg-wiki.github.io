@@ -23,7 +23,7 @@ This is one of the very first files from the ARG, appearing in the first week. I
 tone for the ARG, with scientist [Strassman](../characters/strassman) reporting on dangerous conditions 
 resulting from their experiments, with [EVE](../characters/eve) responding in a cold manner.
 
-From [Sof's journal](../lore/journal) we learn that this conversation took place in 2039, after their mother [Selene](../characters/selene) 
+From [Sof's journal](../website/journal.md) we learn that this conversation took place in 2039, after their mother [Selene](../characters/selene) 
 [first entered Youtopia](selene_youtopia_doc). It is likely that this conversation took place before 
 [P.U.S.S-E](../lore/pusse) entered mass production.
 

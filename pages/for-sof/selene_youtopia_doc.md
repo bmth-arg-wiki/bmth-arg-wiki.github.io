@@ -185,5 +185,5 @@ Related files:
 
 Related lore:
 
-- [Sof's journal](../lore/journal)
+- [Sof's journal](../website/journal.md)
 - [Nex Gen Corp.](../lore/nex-gen-corporation)

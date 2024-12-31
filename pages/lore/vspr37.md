@@ -9,7 +9,7 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/s
 # VSPR-37
 
 VSPR-37 is the fictional virus that notably turns [Scott](../characters/scott) into a voidling. It starts near 
-[Nex Gen](nex-gen-corporation)'s laboratories, according to [Sof](../characters/sof) in their [journal](journal).
+[Nex Gen](nex-gen-corporation)'s laboratories, according to [Sof](../characters/sof) in their [journal](../website/journal.md).
 
 ***
 
@@ -17,7 +17,7 @@ VSPR-37 is the fictional virus that notably turns [Scott](../characters/scott) i
 
 ![Sof on VSPR-37](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/vspr37/vspr_sof_journal.png)
 
-It is unknown where the virus originated from, although [Sof](../characters/sof) remarks in her [journal](journal) that 
+It is unknown where the virus originated from, although [Sof](../characters/sof) remarks in her [journal](../website/journal.md) that 
 it did happen suspiciously close to the Nex Gen facility.
 
 ### Scott's Diary
@@ -68,7 +68,7 @@ same fate they were trying to prevent from the virus itself. Sof themselves is b
 Related lore:
 
 - [Nex Gen Corporation](nex-gen-corporation)
-- [Sof's Journal](journal)
+- [Sof's Journal](../website/journal.md)
 
 Related characters:
 

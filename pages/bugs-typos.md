@@ -41,5 +41,5 @@ of patient.
 ## Read More
 
 - [Other webpages](other-webpages)
-- [Webpage](webpage)
-- [Web browser](lore/webbrowser.md)
+- [Webpage](website/website)
+- [Web browser](website/webbrowser)

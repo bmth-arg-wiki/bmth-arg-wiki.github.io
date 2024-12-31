@@ -1,11 +1,14 @@
 ---
 title: "NEX GEN's Rogue Sentinels"
 description: "A Dispatch"
-categories: ["lore"]
+categories: ["website", "lore"]
 tags: ["bmth", "arg", "nex gen", "spyder", "daily whisper", "rogue", "sentinels"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/dailywhisper/lasto-300x300.png"
 previous: "lore/tdw-bloodredspectacles"
 previous_text: "Inside the Blood-Red Spectacles"
+redirect_from:
+  - /pages/lore/tdw-roguesentinels.html
+  - /pages/lore/tdw-roguesentinels
 ---
 # NEX GEN's Rogue Sentinels
 
@@ -33,7 +36,14 @@ previous_text: "Inside the Blood-Red Spectacles"
 
 ## Read More
 
-More [lore](lore)!
+About the ARG website:
+
+- [Website](website)
+- [Old website](website-v1)
+- [Webbrowser Spyder](webbrowser)
+- [Noctune Music Player](website-songs)
+- [Wi-Fi](wifi)
+- [Journal](journal)
 
 Other Daily Whisper articles:
 

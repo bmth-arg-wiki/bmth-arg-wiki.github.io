@@ -17,7 +17,7 @@ next_text: "YOUTOPIA_selenes_map.vis"
 > "everyones favourite AI run megalordz Nex Gen is back on the scene." - Renn_nstimpy72
 
 This file seems to be a forum post and first appeared in a website update on 28/05/2024. 
-The password was discovered in the URL that appeared in [the Spyder web browser](../lore/webbrowser).
+The password was discovered in the URL that appeared in [the Spyder web browser](../website/webbrowser).
 
 Even though the filename seemingly contains a different year (or even whole date), the file is marked 
 on Sof's calendar on the 26th of March 2052, the date that also appears as the capture date in the post itself.
@@ -180,7 +180,7 @@ transmission from EVE on Discord on 08-07-2024:
 1d1b2c2a
 </details>
 
-The password to this file changed when the [Spyder Browser](../lore/webbrowser.md) updated
+The password to this file changed when the [Spyder Browser](../website/webbrowser) updated
 to contain a Dreaddit link in the URL bar.
 
 ***
@@ -207,7 +207,7 @@ Related articles:
 
 - [Nex Gen](../lore/nex-gen-corporation)
 - [ARC/HIVE](../lore/archive)
-- [Sof's journal](../lore/journal)
+- [Sof's journal](../website/journal.md)
 
 Related characters:
 

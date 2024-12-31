@@ -1,13 +1,16 @@
 ---
 title: "Faith on The Edge"
 description: "DTC' Death Row Convict Prepares for a Public Redemption"
-categories: ["lore"]
+categories: ["website", "lore"]
 tags: ["bmth", "arg", "nex gen", "spyder", "daily whisper", "faith", "edge"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/dailywhisper/faith-300x300.png"
 previous: "lore/tdw-mindxscape"
 previous_text: "MindXscape"
 next: "lore/tdw-clonechaos"
 next_text: "Clone Chaos"
+redirect_from:
+  - /pages/lore/tdw-faithedge.html
+  - /pages/lore/tdw-faithedge
 ---
 # Faith on the Edge
 
@@ -107,7 +110,14 @@ Transcription by Alec
 
 ## Read More
 
-More [lore](lore)!
+About the ARG website:
+
+- [Website](website)
+- [Old website](website-v1)
+- [Webbrowser Spyder](webbrowser)
+- [Noctune Music Player](website-songs)
+- [Wi-Fi](wifi)
+- [Journal](journal)
 
 Other Daily Whisper articles:
 
@@ -126,7 +136,7 @@ Other Daily Whisper articles:
 
 Related Lore:
 
-- [NEX GEN Corp.](nex-gen-corporation)
+- [NEX GEN Corp.](../lore/nex-gen-corporation)
 - [Spyder Web Browser](webbrowser)
 
 Related file:

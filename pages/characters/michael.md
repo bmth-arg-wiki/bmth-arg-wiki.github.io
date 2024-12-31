@@ -12,7 +12,7 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 
 ![Avatar for Michael](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/michael/10michael.png)
 
-Michael is user 010 on the [webpage](../webpage). He is related to the Third Insight: 
+Michael is user 010 on the [webpage](../website/website). He is related to the Third Insight: 
 [Empathy](../lore/insight2-empathy), alongside Omen [Vanth: Prince(ss) Of Death](vanth) 
 and band member [Pickles](pickles).
 
@@ -30,7 +30,7 @@ They guide her through different realms, ensuring her journey stays balanced.
 
 ## Website History
 
-Michael was user 0010 in the first version of the [Multidimensional Navigator 8](../webpage).
+Michael was user 0010 in the first version of the [Multidimensional Navigator 8](../website/website).
 Before the June 4th 2024 update, Michael used to be user 0011.
 
 ***

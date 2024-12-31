@@ -36,7 +36,7 @@ Victor Carmine was the head of Nex Gen at the time of ordering [Operation Trinit
 for the extraction of the three men from Novosovia. Strassman had a family at the time, but it is unknown what happens 
 to them during the event. Skys was in a coma after the fall of Mantra, but successfully extracted to Arc/Hive. 
 Dallus Lauren managed to flee Novosovia with his family, with his wife [Elena](elena-lauren) 
-even giving birth to [Lyra](lyra-lauren) on the helicopter rescuing them (according to Sof's [journal](../lore/journal). 
+even giving birth to [Lyra](lyra-lauren) on the helicopter rescuing them (according to Sof's [journal](../website/journal.md). 
 [Dallus' diary](../for-sof/dallus-diary). In the same diary from 2021, we learn that he was already preparing for 
 the [SYNTH](../lore/synths) project, remarking that Carmine was "practically salivating".
 
@@ -64,10 +64,10 @@ time, they are even believed to be immune to addiction. Rebecca is asked about V
 interview by interviewer Jax Jackson, but refuses to talk about both the Trinity and Carmine.
 
 The synth project continues and more people transfer themselves into synthetic bodies, 
-[including celebrities](../lore/tdw-clonechaos). Nex Gen also develops [combat synths](../lore/tdw-roguesentinels), 
+[including celebrities](../website/tdw-clonechaos). Nex Gen also develops [combat synths](../website/tdw-roguesentinels), 
 referred to by the public as Sentinels. From the article on Sentinels we also learn that they seem to 
 be defying their programming. [Dr. Lee MD](lee-md) writes in the Daily Whisper about synths used 
-for [very sinister purposes](../lore/tdw-bloodredspectacles).
+for [very sinister purposes](../website/tdw-bloodredspectacles).
 
 ### Mindstream
 
@@ -77,13 +77,13 @@ brain to deliver entertainment to the visual and fear-processing centres of the 
 citing the difficulty in distinguishing between reality and artificial experience. Some even experience lasting 
 symptoms, indicating that Mindstream might affect brain chemistry.
 
-In an especially controversial decision from Nex Gen, they decide to air [Faith Over Flesh](../lore/tdw-faithedge) 
+In an especially controversial decision from Nex Gen, they decide to air [Faith Over Flesh](../website/tdw-faithedge) 
 on the company's network. In this show, a man named Jonah has recently found new faith. He is rumoured to be 
 involved with [Ecliptism](../lore/ecliptism), a mysterious religion that uses pain to achieve salvation.
 
 ### LBR Sites
 
-The [LBR sites letter](../for-sof/lbr_sites) is written from Strassman to Carmine. [Sof's journal](../lore/journal) 
+The [LBR sites letter](../for-sof/lbr_sites) is written from Strassman to Carmine. [Sof's journal](../website/journal.md) 
 dates it back to 2038, indicating that Victor was around for at least some time after the creation of [E.V.E.](eve). 
 Sof remarks in her journal that at some point, E.V.E. became the leader of Nex Gen and wonders what happened to 
 Carmine. 
@@ -101,7 +101,7 @@ Related lore:
 
 - [ARC/HIVE Corp.](../lore/archive)
 - [Nex Gen Corp.](../lore/nex-gen-corporation)
-- [Sof's journal](../lore/journal)
+- [Sof's journal](../website/journal.md)
 
 Related characters:
 

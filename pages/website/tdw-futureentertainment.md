@@ -1,20 +1,23 @@
 ---
 title: "The Future of Entertainment"
 description: "A Look at Mindstream's Cerebral Cinema Revolution"
-categories: ["lore"]
+categories: ["website", "lore"]
 tags: ["bmth", "arg", "nex gen", "spyder", "daily whisper", "future", "entertainment"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/dailywhisper/entertainment-300x300.png"
 previous: "lore/tdw-redwhiteblood"
 previous_text: "'Red, White, and Blood'"
 next: "lore/tdw-bloodredspectacles"
 next_text: "Inside the Blood-Red Spectacles"
+redirect_from:
+  - /pages/lore/tdw-futureentertainment.html
+  - /pages/lore/tdw-futureentertainment
 ---
 # The Future of Entertainment
 
 > While Mindstream promises unparalleled immersion, early testing reports suggest the potential for unnerving consequences.
 
 This Daily Whisper article tells us about a new concept of immersive entertainment called Mindstream, 
-championed by [Victor Carmine](../characters/victor-carmine) and [NEX GEN](nex-gen-corporation).
+championed by [Victor Carmine](../characters/victor-carmine) and [NEX GEN](../lore/nex-gen-corporation).
 While this technology promises hyper-realistic experiences with no to minimal short-term consequences, 
 scientists have been raising concerns about the true cost of these experiences. 
 
@@ -125,7 +128,14 @@ Transcription by Alec
 
 ## Read More
 
-More [lore](lore)!
+About the ARG website:
+
+- [Website](website)
+- [Old website](website-v1)
+- [Webbrowser Spyder](webbrowser)
+- [Noctune Music Player](website-songs)
+- [Wi-Fi](wifi)
+- [Journal](journal)
 
 Other Daily Whisper articles:
 
@@ -144,7 +154,7 @@ Other Daily Whisper articles:
 
 Related Lore:
 
-- [NEX GEN Corp.](nex-gen-corporation)
+- [NEX GEN Corp.](../lore/nex-gen-corporation)
 - [Spyder Web Browser](webbrowser)
 
 Related Characters:

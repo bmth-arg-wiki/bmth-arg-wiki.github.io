@@ -72,7 +72,7 @@ in any natural way, so they upload his consciousness into a synth body. He immed
 Dallus and Strassman end up arguing about what put him into this state. Rebecca ends her recount of the events with the words 
 "I'll do it", likely referring to the disposal of Skys, leaving his final fate unknown at the moment.
 While Rebecca is meant to be a beacon of hope for humanity, she later falls victim to one of Nex Gen's drugs, [Lupamine](lupamine), 
-which her synth body has made her more susceptible to. From the [webbrowser](webbrowser) we also learn more about the 
+which her synth body has made her more susceptible to. From the [webbrowser](../website/webbrowser) we also learn more about the 
 truth behind the SYNTH project.
 
 ### Ren & E.V.E.
@@ -141,7 +141,7 @@ According to Sof's journal, this may have been a direct consequence of what they
 It also seems like Selene has turned against the company [when she gives birth to Sof in 2040](../for-sof/msgforsof). 
 Sof is born inside Nex Gen's lab and the [booklet](booklet) mentions that they are actually a demi-god.
 Just 20 minutes after her birth, Selene leaves Sof in the care of AI assistant M8. She leaves after hearing an alarm, 
-remarking that this is her cue and she must leave. Sof then writes (part of) their [journal](../lore/journal) 8 years 
+remarking that this is her cue and she must leave. Sof then writes (part of) their [journal](../website/journal.md) 8 years 
 after the chapel incident in 2048. At the time Sof writes the intro to their journal, they are living at the Nex Gen 
 lab that is now abandoned.
 

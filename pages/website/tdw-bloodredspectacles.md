@@ -1,13 +1,16 @@
 ---
 title: "Inside the Blood-Red Spectacles"
 description: "The Elite's Underground Parties, where the most depraved enact their fantasies."
-categories: ["lore"]
+categories: ["website", "lore"]
 tags: ["bmth", "arg", "nex gen", "spyder", "daily whisper", "blood red", "spectacles"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/dailywhisper/simps-300x300.png"
 previous: "lore/tdw-futureentertainment"
 previous_text: "The Future of Entertainment"
 next: "lore/tdw-roguesentinels"
 next_text: "NEX GEN's Rogue Sentinels"
+redirect_from:
+  - /pages/lore/tdw-bloodredspectacles.html
+  - /pages/lore/tdw-bloodredspectacles
 ---
 # Inside the Blood-Red Spectacles
 
@@ -42,7 +45,16 @@ Coming soon!
 
 ## Read More
 
-More [lore](lore)!
+## Read More
+
+About the ARG website:
+
+- [Website](website)
+- [Old website](website-v1)
+- [Webbrowser Spyder](webbrowser)
+- [Noctune Music Player](website-songs)
+- [Wi-Fi](wifi)
+- [Journal](journal)
 
 Other Daily Whisper articles:
 

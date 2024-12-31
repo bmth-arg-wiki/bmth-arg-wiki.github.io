@@ -37,7 +37,7 @@ The latter is a term that is also often applied to situation in which AI takes c
 on a large scale.
 
 Her friend Jenna remarks that she has been sick and from [Scott's diary](scott_personal_journal) we 
-know that he is sick as well. We know that Scott contracted VSPR-37 from [Sof's journal](../lore/journal). 
+know that he is sick as well. We know that Scott contracted VSPR-37 from [Sof's journal](../website/journal.md). 
 He bit Selene, but she turns out to be immune. The [Dreadit post](dreadit) refers to an immune child,
 which was first revealed to be Selene by [EVE](../characters/eve)'s messages in the official Bring Me The Horizon 
 Discord.
