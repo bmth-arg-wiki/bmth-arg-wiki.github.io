@@ -14,11 +14,11 @@ redirect_from:
 ---
 # "Red, White, and Blood"
 
-> Coming soon!
+> The only pulse I felt was checking to see if mine had flatlined from sheer boredom.
 
 "Red, White, and Blood" is the title of a movie review posted on the Daily Whisper, which was accessed 
 through the [webbrowser](webbrowser). It seems to be a parody of real world US politics, written by 
-[Dr. Lee MD](../characters/lee-md). Lee MD criticizes the movie, which was released by Mindstream.
+[Dr. Lee MD](../characters/lee-md), who criticizes the movie released by Mindstream.
 
 The article also mentions DreamReel, which is likely to be the in-universe equivalent of TikTok.
 

@@ -152,11 +152,11 @@ Other Daily Whisper articles:
 - [Inside the Blood-Red Spectacles](tdw-bloodredspectacles)
 - [NEX GEN's Rogue Sentinels](tdw-roguesentinels)
 
+Related Characters:
+
+- [Victor Carmine](../characters/victor-carmine)
+
 Related Lore:
 
 - [NEX GEN Corp.](../lore/nex-gen-corporation)
 - [Spyder Web Browser](webbrowser)
-
-Related Characters:
-
-- [Victor Carmine](../characters/victor-carmine)
