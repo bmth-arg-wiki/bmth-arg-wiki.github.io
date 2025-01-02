@@ -7,8 +7,7 @@
 
   // Base palette
   $white: variables.$base,
-  $grey: variables.$gray,
-  $background: variables.$base,
+  $black: variables.$txt,
 
   // Brand palette
   $primary: variables.$primary,
@@ -25,8 +24,8 @@
   $title-color: variables.$primary,
 
   // Base content
-  $content-heading-color: variables.$blue-link,
-  $content-blockquote-border-left: 5px solid variables.$pink-darker,
+  $content-heading-color: variables.$link,
+  $content-blockquote-border-left: 5px solid variables.$primary,
 
   // Misc.
   $control-border-width: 2px,
