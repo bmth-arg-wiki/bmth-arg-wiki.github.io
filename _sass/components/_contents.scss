@@ -3,10 +3,6 @@
 /*
  * Global content styling
  */
-.content,
-.content p strong {
-  color: $txt;
-}
 
 // Make the titles an itty bitty smaller
 .content h1 {
@@ -45,11 +41,6 @@ a .button .is-primary {
  * Blockquote styling
  */
 
-.content blockquote {
-  background-color: $base;
-  color: $txt;
-}
-
 // Allow editor's notes in a different color by emphasizing
 .content blockquote p em,
 .content blockquote p strong em {
@@ -62,7 +53,6 @@ a .button .is-primary {
 .content details {
   padding: 10px;
   margin: 10px;
-  background-color: $primary-lightest;
   border-radius: 5px;
 }
 
