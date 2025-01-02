@@ -148,7 +148,3 @@ Related characters:
 - [Dallus Lauren](../characters/dallus-lauren)
 - [Ikaro 'Ren' Lauren](../characters/ren)
 - [Lyra Lauren](../characters/lyra-lauren)
-
-Related Lore:
-
-- [Spyder Web Browser](webbrowser)

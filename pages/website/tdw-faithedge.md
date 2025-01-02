@@ -137,7 +137,6 @@ Other Daily Whisper articles:
 Related Lore:
 
 - [NEX GEN Corp.](../lore/nex-gen-corporation)
-- [Spyder Web Browser](webbrowser)
 
 Related file:
 

@@ -166,4 +166,3 @@ Other Daily Whisper articles:
 Related lore:
 
 - [Lupamine](../lore/lupamine)
-- [Spyder Web Browser](webbrowser)

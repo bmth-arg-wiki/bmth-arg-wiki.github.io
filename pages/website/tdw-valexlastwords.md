@@ -111,4 +111,3 @@ Related characters:
 Related lore:
 
 - [Lupamine](../lore/lupamine)
-- [Spyder Web Browser](webbrowser)

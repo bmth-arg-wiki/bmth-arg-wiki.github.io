@@ -134,6 +134,5 @@ Related character:
 
 Related Lore:
 
-- [Spyder Web Browser](webbrowser)
 - [Lupamine](../lore/lupamine)
 - [NEX GEN Corp.](../lore/nex-gen-corporation)
