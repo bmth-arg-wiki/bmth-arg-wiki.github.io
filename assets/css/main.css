@@ -1,19 +1,4 @@
 @charset "UTF-8";
-/*
-// Define CSS variables for light and dark modes
-:root {
-  --primary-light: variables.$primary;
-  --info-light: variables.$info;
-  --primary-dark: variables.$cyan;
-  --info-dark: variables.$cyan-darker;
-
-  --background-light: variables.$base;
-  --background-dark: variables.$gray-darker;
-
-  --text-light: variables.$gray-darker;
-  --text-dark: variables.$very-pale-cyan;
-}
-*/
 @font-face {
   font-family: "arg-font";
   src: url("/assets/fonts/argfont.ttf");
@@ -98,13 +83,13 @@
   --bulma-burger-item-width: 20px;
   --bulma-white: hsla(var(--bulma-white-h), var(--bulma-white-s), var(--bulma-white-l), 1);
   --bulma-white-base: hsla(var(--bulma-white-h), var(--bulma-white-s), var(--bulma-white-l), 1);
-  --bulma-white-rgb: 203, 216, 218;
-  --bulma-white-h: 188deg;
-  --bulma-white-s: 17%;
-  --bulma-white-l: 83%;
+  --bulma-white-rgb: 245, 249, 249;
+  --bulma-white-h: 180deg;
+  --bulma-white-s: 25%;
+  --bulma-white-l: 97%;
   --bulma-white-invert-l: 21.3725490196%;
   --bulma-white-invert: #2F2C41;
-  --bulma-white-on-scheme-l: 32.5490196078%;
+  --bulma-white-on-scheme-l: 26.862745098%;
   --bulma-white-on-scheme: hsla(var(--bulma-white-h), var(--bulma-white-s), var(--bulma-white-on-scheme-l), 1);
   --bulma-black: hsla(var(--bulma-black-h), var(--bulma-black-s), var(--bulma-black-l), 1);
   --bulma-black-base: hsla(var(--bulma-black-h), var(--bulma-black-s), var(--bulma-black-l), 1);
@@ -112,8 +97,8 @@
   --bulma-black-h: 249deg;
   --bulma-black-s: 19%;
   --bulma-black-l: 21%;
-  --bulma-black-invert-l: 82.5490196078%;
-  --bulma-black-invert: #CBD8DA;
+  --bulma-black-invert-l: 96.862745098%;
+  --bulma-black-invert: #f5f9f9;
   --bulma-black-on-scheme-l: 21.3725490196%;
   --bulma-black-on-scheme: hsla(var(--bulma-black-h), var(--bulma-black-s), var(--bulma-black-on-scheme-l), 1);
   --bulma-light: hsla(var(--bulma-light-h), var(--bulma-light-s), var(--bulma-light-l), 1);
@@ -999,13 +984,13 @@
     --bulma-burger-item-width: 20px;
     --bulma-white: hsla(var(--bulma-white-h), var(--bulma-white-s), var(--bulma-white-l), 1);
     --bulma-white-base: hsla(var(--bulma-white-h), var(--bulma-white-s), var(--bulma-white-l), 1);
-    --bulma-white-rgb: 203, 216, 218;
-    --bulma-white-h: 188deg;
-    --bulma-white-s: 17%;
-    --bulma-white-l: 83%;
+    --bulma-white-rgb: 245, 249, 249;
+    --bulma-white-h: 180deg;
+    --bulma-white-s: 25%;
+    --bulma-white-l: 97%;
     --bulma-white-invert-l: 21.3725490196%;
     --bulma-white-invert: #2F2C41;
-    --bulma-white-on-scheme-l: 32.5490196078%;
+    --bulma-white-on-scheme-l: 26.862745098%;
     --bulma-white-on-scheme: hsla(var(--bulma-white-h), var(--bulma-white-s), var(--bulma-white-on-scheme-l), 1);
     --bulma-black: hsla(var(--bulma-black-h), var(--bulma-black-s), var(--bulma-black-l), 1);
     --bulma-black-base: hsla(var(--bulma-black-h), var(--bulma-black-s), var(--bulma-black-l), 1);
@@ -1013,8 +998,8 @@
     --bulma-black-h: 249deg;
     --bulma-black-s: 19%;
     --bulma-black-l: 21%;
-    --bulma-black-invert-l: 82.5490196078%;
-    --bulma-black-invert: #CBD8DA;
+    --bulma-black-invert-l: 96.862745098%;
+    --bulma-black-invert: #f5f9f9;
     --bulma-black-on-scheme-l: 21.3725490196%;
     --bulma-black-on-scheme: hsla(var(--bulma-black-h), var(--bulma-black-s), var(--bulma-black-on-scheme-l), 1);
     --bulma-light: hsla(var(--bulma-light-h), var(--bulma-light-s), var(--bulma-light-l), 1);
@@ -1802,7 +1787,7 @@
 }
 @media (prefers-color-scheme: dark) {
   :root {
-    --bulma-white-on-scheme-l: 82.5490196078%;
+    --bulma-white-on-scheme-l: 96.862745098%;
     --bulma-white-on-scheme: hsla(var(--bulma-white-h), var(--bulma-white-s), var(--bulma-white-on-scheme-l), 1);
     --bulma-black-on-scheme-l: 61.3725490196%;
     --bulma-black-on-scheme: hsla(var(--bulma-black-h), var(--bulma-black-s), var(--bulma-black-on-scheme-l), 1);
@@ -1917,13 +1902,13 @@
   --bulma-burger-item-width: 20px;
   --bulma-white: hsla(var(--bulma-white-h), var(--bulma-white-s), var(--bulma-white-l), 1);
   --bulma-white-base: hsla(var(--bulma-white-h), var(--bulma-white-s), var(--bulma-white-l), 1);
-  --bulma-white-rgb: 203, 216, 218;
-  --bulma-white-h: 188deg;
-  --bulma-white-s: 17%;
-  --bulma-white-l: 83%;
+  --bulma-white-rgb: 245, 249, 249;
+  --bulma-white-h: 180deg;
+  --bulma-white-s: 25%;
+  --bulma-white-l: 97%;
   --bulma-white-invert-l: 21.3725490196%;
   --bulma-white-invert: #2F2C41;
-  --bulma-white-on-scheme-l: 32.5490196078%;
+  --bulma-white-on-scheme-l: 26.862745098%;
   --bulma-white-on-scheme: hsla(var(--bulma-white-h), var(--bulma-white-s), var(--bulma-white-on-scheme-l), 1);
   --bulma-black: hsla(var(--bulma-black-h), var(--bulma-black-s), var(--bulma-black-l), 1);
   --bulma-black-base: hsla(var(--bulma-black-h), var(--bulma-black-s), var(--bulma-black-l), 1);
@@ -1931,8 +1916,8 @@
   --bulma-black-h: 249deg;
   --bulma-black-s: 19%;
   --bulma-black-l: 21%;
-  --bulma-black-invert-l: 82.5490196078%;
-  --bulma-black-invert: #CBD8DA;
+  --bulma-black-invert-l: 96.862745098%;
+  --bulma-black-invert: #f5f9f9;
   --bulma-black-on-scheme-l: 21.3725490196%;
   --bulma-black-on-scheme: hsla(var(--bulma-black-h), var(--bulma-black-s), var(--bulma-black-on-scheme-l), 1);
   --bulma-light: hsla(var(--bulma-light-h), var(--bulma-light-s), var(--bulma-light-l), 1);
@@ -2753,7 +2738,7 @@
 
 [data-theme=dark],
 .theme-dark {
-  --bulma-white-on-scheme-l: 82.5490196078%;
+  --bulma-white-on-scheme-l: 96.862745098%;
   --bulma-white-on-scheme: hsla(var(--bulma-white-h), var(--bulma-white-s), var(--bulma-white-on-scheme-l), 1);
   --bulma-black-on-scheme-l: 61.3725490196%;
   --bulma-black-on-scheme: hsla(var(--bulma-black-h), var(--bulma-black-s), var(--bulma-black-on-scheme-l), 1);
@@ -21667,7 +21652,7 @@ a .button .is-primary {
  * Full header styling
  */
 .header-background {
-  background: #2F2C41;
+  background: #0e0d13;
 }
 
 a.heading-anchor:hover,
@@ -21685,12 +21670,12 @@ a.heading-anchor:hover {
  * Dark tabs (bottom hero) (replaces side bar)
  */
 .tabs.is-boxed li a {
-  color: #CBD8DA;
+  color: #f5f9f9;
 }
 
 .tabs.is-boxed li.is-active a {
   background: #d5fbf6;
-  color: #2F2C41;
+  color: #0e0d13;
 }
 
 .tabs.is-boxed li a:hover {
@@ -21736,6 +21721,42 @@ a.heading-anchor:hover {
 /*
  * Global footer styling
  */
+body.adaptive,
+.content.adaptive,
+footer.adaptive {
+  background-color: #f5f9f9;
+}
+
+.footer-link,
+.footer-link:visited {
+  color: #75AAB0;
+}
+
+@media (prefers-color-scheme: dark) {
+  /* Main elements that require full re-colour */
+  body.adaptive,
+  .content.adaptive,
+  footer.adaptive {
+    background-color: #0e0d13;
+    color: #f5f9f9;
+  }
+  /* Elements that only require text re-colour */
+  .menu-list a.text-adaptive {
+    color: #f5f9f9;
+  }
+  /* Footer */
+  .footer-link,
+  .footer-link:visited {
+    color: #A8C5C8;
+  }
+  /* Content */
+  .content a:visited {
+    color: #d84848;
+  }
+  .content a:visited:hover {
+    color: #872d2d;
+  }
+}
 /*
  * Mobile
  */

@@ -16,6 +16,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
         const anchor = document.createElement('a');
         anchor.href = `#${id}`;
+        anchor.classList.add("text-adaptive");
         anchor.textContent = heading.textContent.trim().slice(0, -2);
 
         span.appendChild(anchor);

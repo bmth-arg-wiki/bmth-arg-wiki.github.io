@@ -43,6 +43,10 @@
 @use "components/_toc";
 @use "components/_footer";
 
+// Themes
+@use "themes/light";
+@use "themes/_dark";
+
 /*
  * Mobile
  */

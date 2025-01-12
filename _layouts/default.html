@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 {% include head.html %}
-<body class="has-background-primary-95">
+<body class="adaptive">
     <!-- Header -->
     <header class="header">
         {% include header/header.html %}
@@ -18,7 +18,7 @@
     <!-- Page-specific content -->
     <div class="container is-flex" id="page-body">
         <div class="container" id="content-container">
-            <main class="content has-background-primary-95 has-text-black pb-5 pr-6">
+            <main class="content adaptive pr-6 pl-6 pb-6">
                 <!-- Links to previous and next articles -->
                 {% include content/article-pagination.html %}
                 <!-- Navigation links above title -->
@@ -39,7 +39,7 @@
         {% endif %}
     </div>
     <!-- Footer -->
-    <footer class="footer">
+    <footer class="footer adaptive">
         {% include footer/footer.html %}
     </footer>
     <script src="/assets/js/hamburger.js"></script>
