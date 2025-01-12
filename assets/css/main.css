@@ -21735,6 +21735,7 @@ footer.adaptive {
 @media (prefers-color-scheme: dark) {
   /* Main elements that require full re-colour */
   body.adaptive,
+  .container.adaptive,
   .content.adaptive,
   footer.adaptive {
     background-color: #0e0d13;
@@ -21743,6 +21744,15 @@ footer.adaptive {
   /* Elements that only require text re-colour */
   .menu-list a.text-adaptive {
     color: #f5f9f9;
+  }
+  /* Header */
+  .tabs.is-boxed li.is-active a {
+    background: #75AAB0;
+    color: #0e0d13;
+  }
+  .tabs.is-boxed li.is-active a:active:hover,
+  .tabs.is-boxed li.is-active a:hover {
+    background: #A8C5C8;
   }
   /* Footer */
   .footer-link,

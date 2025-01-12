@@ -2,14 +2,11 @@
 <!DOCTYPE html>
 <html lang="en">
 {% include head.html %}
-<body>
-
+<body class="adaptive">
 <!-- Header -->
-<header class="header">
-    {% include header/header.html %}
-</header>
+{% include header/header.html %}
 
-<div class="container" id="map-content-container">
+<div class="container adaptive" id="map-content-container">
     <!-- Search -->
     <div class="search-bar">
         {% include searchbar.html %}
@@ -21,9 +18,7 @@
     </div>
 </div>
 <!-- Footer -->
-<footer class="footer">
-    {% include footer/footer.html %}
-</footer>
+{% include footer/footer.html %}
 <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
 <script src="/assets/js/map.js"></script>
 <script src="/assets/js/hamburger.js"></script>
