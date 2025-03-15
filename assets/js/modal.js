@@ -16,14 +16,15 @@ if (modal) {
     document.querySelectorAll('img').forEach(img => {
         img.addEventListener('click', (e) => {
             modalImage.src = e.target.src;
-            modalImage.alt = e.target.alt;
 
-            modalCaption.textContent = e.target.alt;
+            // Use a fallback for images without alt text
+            modalImage.alt = e.target.alt || '';
+            modalCaption.textContent = e.target.alt || '';
 
             // Activate the modal
             modal.classList.add('is-active');
-        })
-    })
+        });
+    });
 
     // Add event listeners
     modalBackground.addEventListener('click', closeModal);

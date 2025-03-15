@@ -4,7 +4,8 @@
  * Full header styling
  */
 
-.header-background {
+.header-background,
+#navbarMenuHeroA {
   background: $gray-darkest;
 }
 
@@ -14,38 +15,6 @@ a.heading-anchor:visited:hover,
 a.heading-anchor:hover {
   color: $danger;
 }
-
-/*
- * Dark navbar (top hero)
- */
-a.navbar-item {
-  color: $base;
-}
-
-a.navbar-item:focus,
-a.navbar-item:focus-within,
-a.navbar-item:hover,
-.navbar-link:focus,
-.navbar-link:focus-within,
-.navbar-link:hover
-{
-  background: $primary-lighter;
-  color: $txt;
-}
-
-a.heading-anchor,
-a.heading-anchor:visited,
-.navbar-burger {
-  color: $primary-lighter;
-}
-
-// Mobile styling
-@media screen and (max-width: $mobile-width){
-  .navbar-menu.is-active {
-    background: $txt;
-  }
-}
-
 
 /*
  * Dark tabs (bottom hero) (replaces side bar)

@@ -2,11 +2,9 @@
 <!DOCTYPE html>
 <html lang="en">
 {% include head.html %}
-<body>
+<body class="adaptive">
     <!-- Header -->
-    <header class="header">
-        {% include header/header.html %}
-    </header>
+    {% include header/header.html %}
 
     <!-- Page modal -->
     {% include modal.html %}
@@ -18,14 +16,14 @@
     <!-- Page-specific content -->
     <div class="container is-flex" id="page-body">
         <div class="container" id="content-container">
-            <main class="content pb-5 pr-6">
+            <main class="content adaptive pr-6 pl-6 pb-6">
                 <!-- Links to previous and next articles -->
                 {% include content/article-pagination.html %}
                 <!-- Navigation links above title -->
                 {% include breadcrumbs.html %}
                 <div class="p-2">
                     <!-- Page content wrapped in funny business for anchoring -->
-                    {% include anchor_headings.html html=content anchorBody="#" anchorClass="heading-anchor"%}
+                    {% include anchor_headings.html html=content anchorBody="#" anchorClass="heading-anchor has-text-primary"%}
                 </div>
             </main>
         </div>
@@ -39,14 +37,7 @@
         {% endif %}
     </div>
     <!-- Footer -->
-    <footer class="footer">
-        {% include footer/footer.html %}
-    </footer>
-    <script src="/assets/js/hamburger.js"></script>
-    <script src="/assets/js/tabs.js"></script>
-    <script src="/assets/js/toc.js"></script>
-    <script src="/assets/js/gallery.js"></script>
-    <script src="/assets/js/search.js"></script>
-    <script src="/assets/js/modal.js"></script>
+    {% include footer/footer.html %}
+    <script src="/assets/min/app.min.js"></script>
 </body>
 </html>

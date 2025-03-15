@@ -6,7 +6,7 @@
     <div class="card-image">
         <a href="{{ linked_page.url }}">
             <figure class="image">
-                <img src="{{ linked_page.image }}" alt="Image for {{ linked_page.title }}">
+                <img class="img-contain" src="{{ linked_page.image }}" alt="Image for {{ linked_page.title }}">
             </figure>
         </a>
     </div>
@@ -22,7 +22,7 @@
         <div class="tags">
             {% if page.categories %}
             {% for category in linked_page.categories %}
-            <span class="tag has-background-primary-80"><a href="{{ site.baseurl }}/pages/{{ category }}/{{ category }}">
+            <span class="tag adaptive"><a href="{{ site.baseurl }}/pages/{{ category }}/{{ category }}">
                 {{ category | replace: "for-sof", "files" | replace: "-", " " | upcase }}
             </a></span>
             {% endfor %}
