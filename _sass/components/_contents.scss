@@ -15,6 +15,11 @@
   font-size: medium;
 }
 
+// We have some long URLs, make sure they don't break any narrower screens.
+.content code {
+  overflow-wrap: break-word;
+}
+
 /* Button link colors */
 a .button .is-primary {
   color: $danger;
