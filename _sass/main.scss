@@ -38,14 +38,14 @@
 @use "components/_toc";
 @use "components/_footer";
 
-// Themes
-@use "themes/light";
-@use "themes/_dark";
-
 // Content (components)
 @use "components/_contents";
 @use "components/_page_card";
 @use "components/_map";
+
+// Themes
+@use "themes/_light";
+@use "themes/_dark";
 
 /*
  * Mobile

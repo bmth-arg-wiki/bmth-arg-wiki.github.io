@@ -21624,56 +21624,6 @@ a.heading-anchor:hover {
   text-decoration: underline;
 }
 
-body.adaptive,
-.content.adaptive,
-footer.adaptive {
-  background-color: #f5f9f9;
-}
-
-.footer-link,
-.footer-link:visited {
-  color: #75AAB0;
-}
-
-@media (prefers-color-scheme: dark) {
-  /* Main elements that require full re-colour */
-  body.adaptive,
-  .container.adaptive,
-  .content.adaptive,
-  footer.adaptive {
-    background-color: #0e0d13;
-    color: #f5f9f9;
-  }
-  /* Elements that only require text re-colour */
-  .menu-list a.text-adaptive {
-    color: #f5f9f9;
-  }
-  /* Header */
-  .tabs.is-boxed li.is-active a {
-    background: #75AAB0;
-    color: #0e0d13;
-  }
-  .tabs.is-boxed li.is-active a:active:hover,
-  .tabs.is-boxed li.is-active a:hover {
-    background: #A8C5C8;
-  }
-  /* Footer */
-  .footer-link,
-  .footer-link:visited {
-    color: #A8C5C8;
-  }
-  /* Content */
-  .content a:visited {
-    color: #df523f;
-  }
-  .content a:visited:hover {
-    color: #c24454;
-  }
-  .content blockquote p em,
-  .content blockquote p strong em {
-    color: #df523f;
-  }
-}
 /*
  * Global content styling
  */
@@ -21785,6 +21735,65 @@ a .button .is-primary {
   color: #b120d9;
 }
 
+body.adaptive,
+.content.adaptive,
+footer.adaptive {
+  background-color: #f5f9f9;
+}
+
+.footer-link,
+.footer-link:visited {
+  color: #405f74;
+}
+
+@media (prefers-color-scheme: dark) {
+  /* Main elements that require full re-colour */
+  body.adaptive,
+  .container.adaptive,
+  .content.adaptive,
+  footer.adaptive {
+    background-color: #0e0d13;
+    color: #f5f9f9;
+  }
+  /* Elements that only require text re-colour */
+  .menu-list a.text-adaptive {
+    color: #f5f9f9;
+  }
+  /* Header */
+  .tabs.is-boxed li.is-active a {
+    background: #75AAB0;
+    color: #0e0d13;
+  }
+  .tabs.is-boxed li.is-active a:active:hover,
+  .tabs.is-boxed li.is-active a:hover {
+    background: #A8C5C8;
+  }
+  /* Footer */
+  .footer .footer-link,
+  .footer .footer-link:visited {
+    color: #A8C5C8;
+  }
+  /* Dark Mode Content */
+  .content h1, .content h2, .content h3 {
+    color: #A8C5C8;
+  }
+  .content a {
+    color: #75AAB0;
+  }
+  .content a:hover {
+    color: #A8C5C8;
+  }
+  .content a:visited {
+    color: #6f7cb8;
+  }
+  .content a:visited:hover {
+    color: #c24454;
+  }
+  .content .content blockquote p em,
+  .content .content blockquote p strong em {
+    color: #df523f;
+  }
+}
 /*
  * Mobile
  */
