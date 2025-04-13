@@ -14,7 +14,7 @@ This overview contains links for different lore pages, including sources posted 
 
 ## ARG Website - Main Page
 
-{% assign page_links = '/pages/website/website, /pages/website/wifi, /pages/website/webbrowser, /pages/website/website-songs, /pages/website/journal, /pages/website/website-v1' | split: ", " %}
+{% assign page_links = '/pages/website/website, /pages/website/wifi, /pages/website/webbrowser, /pages/website/emulator, /pages/website/journal, /pages/website/website-songs, /pages/website/website-v1' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ***

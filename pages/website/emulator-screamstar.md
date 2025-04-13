@@ -16,6 +16,8 @@ emulator on the website since the 11th of April 2025. This update also introduce
 to the webpage, to the [emulator](emulator) category. The only character that is prominently featured in the 
 game is [Eve](../characters/eve).
 
+![Scream Star gameplay screenshot](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/other-webpages/screamstar/gameplay.png)
+
 ## Track list
 
 The following songs appear in the game uncensored:
@@ -42,6 +44,10 @@ The intro to the album, [Dreamseeker](../music/song-dreamseeker), [P.U.S.S-E](..
 {% include gallery.html folder="other-webpages/screamstar/gallery" %}
 
 ## Read More
+
+Related characters:
+
+- [Eve](../characters/eve)
 
 Related website articles:
 

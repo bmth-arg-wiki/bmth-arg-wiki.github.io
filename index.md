@@ -31,6 +31,16 @@ information as much as possible and indicate whenever something is not confirmed
 
 ***
 
+## Newest Pages
+
+The wiki has grown to over 100+ pages, growing regularly with updates from [our small team](pages/about). 
+As of April 2025, these are the newest pages you might want to check out!
+
+{% assign page_links = '/pages/website/emulator, /pages/website/emulator-escape, /pages/website/emulator-screamstar' | split: ", " %}
+{% include page-card-gallery.html links=page_links %}
+
+***
+
 ## Overviews
 
 The wiki contains many pages documenting the website (including older versions), files distributed digitally and 
