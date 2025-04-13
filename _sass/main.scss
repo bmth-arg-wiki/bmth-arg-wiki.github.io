@@ -53,9 +53,9 @@
 
 // If we are using mobile, the Table of Contents doesn't fit next to page content
 @media screen and (max-width: variables.$mobile-width) {
-  #page-body {
+  #page-box {
     flex-direction: column;
-    max-width: 70%;
+    max-width: 80%;
   }
 }
 

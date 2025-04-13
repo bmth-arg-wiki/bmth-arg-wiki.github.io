@@ -14,14 +14,14 @@
         {% include searchbar.html %}
     </div>
     <!-- Page-specific content -->
-    <div class="container is-flex" id="page-body">
-        <div class="container" id="content-container">
-            <main class="content adaptive pr-6 pl-6 pb-6">
+    <div class="container box is-flex pl-6" id="page-box">
+        <div class="container" id="page-content-container">
+            <main class="content adaptive" id="page-content">
                 <!-- Links to previous and next articles -->
                 {% include content/article-pagination.html %}
                 <!-- Navigation links above title -->
                 {% include breadcrumbs.html %}
-                <div class="p-2">
+                <div id="page-source">
                     <!-- Page content wrapped in funny business for anchoring -->
                     {% include anchor_headings.html html=content anchorBody="#" anchorClass="heading-anchor has-text-primary"%}
                 </div>
@@ -30,7 +30,7 @@
         <!-- Table of Contents: pages only (not on homepage) -->
         {% if page.url != "/" %}
             <div class="toc-container" id="toc-container">
-                <aside class="container p-2" id="toc-aside">
+                <aside class="container pt-2 pr-2 pb-2 pl-5" id="toc-aside">
                     {% include toc.html %}
                 </aside>
             </div>
