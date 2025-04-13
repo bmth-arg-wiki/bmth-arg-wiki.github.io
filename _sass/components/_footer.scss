@@ -3,3 +3,8 @@
 /*
  * Global footer styling
  */
+
+// Text underline for accessibility purposes
+.disclaimer a {
+  text-decoration: underline;
+}

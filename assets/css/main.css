@@ -335,10 +335,10 @@
   --bulma-primary-on-scheme: hsla(var(--bulma-primary-h), var(--bulma-primary-s), var(--bulma-primary-on-scheme-l), 1);
   --bulma-link: hsla(var(--bulma-link-h), var(--bulma-link-s), var(--bulma-link-l), 1);
   --bulma-link-base: hsla(var(--bulma-link-h), var(--bulma-link-s), var(--bulma-link-l), 1);
-  --bulma-link-rgb: 91, 136, 165;
+  --bulma-link-rgb: 64, 95, 116;
   --bulma-link-h: 204deg;
   --bulma-link-s: 29%;
-  --bulma-link-l: 50%;
+  --bulma-link-l: 35%;
   --bulma-link-00-l: 0%;
   --bulma-link-05-l: 5%;
   --bulma-link-10-l: 10%;
@@ -1236,10 +1236,10 @@
     --bulma-primary-on-scheme: hsla(var(--bulma-primary-h), var(--bulma-primary-s), var(--bulma-primary-on-scheme-l), 1);
     --bulma-link: hsla(var(--bulma-link-h), var(--bulma-link-s), var(--bulma-link-l), 1);
     --bulma-link-base: hsla(var(--bulma-link-h), var(--bulma-link-s), var(--bulma-link-l), 1);
-    --bulma-link-rgb: 91, 136, 165;
+    --bulma-link-rgb: 64, 95, 116;
     --bulma-link-h: 204deg;
     --bulma-link-s: 29%;
-    --bulma-link-l: 50%;
+    --bulma-link-l: 35%;
     --bulma-link-00-l: 0%;
     --bulma-link-05-l: 5%;
     --bulma-link-10-l: 10%;
@@ -2154,10 +2154,10 @@
   --bulma-primary-on-scheme: hsla(var(--bulma-primary-h), var(--bulma-primary-s), var(--bulma-primary-on-scheme-l), 1);
   --bulma-link: hsla(var(--bulma-link-h), var(--bulma-link-s), var(--bulma-link-l), 1);
   --bulma-link-base: hsla(var(--bulma-link-h), var(--bulma-link-s), var(--bulma-link-l), 1);
-  --bulma-link-rgb: 91, 136, 165;
+  --bulma-link-rgb: 64, 95, 116;
   --bulma-link-h: 204deg;
   --bulma-link-s: 29%;
-  --bulma-link-l: 50%;
+  --bulma-link-l: 35%;
   --bulma-link-00-l: 0%;
   --bulma-link-05-l: 5%;
   --bulma-link-10-l: 10%;
@@ -3946,7 +3946,7 @@ a.box:active {
   }
 }
 .content {
-  --bulma-content-heading-color: #5B88A5;
+  --bulma-content-heading-color: #405f74;
   --bulma-content-heading-weight: var(--bulma-weight-extrabold);
   --bulma-content-heading-line-height: 1.125;
   --bulma-content-block-margin-bottom: 1em;
@@ -21552,6 +21552,129 @@ has-background-danger.is-hoverable:active {
 }
 
 /*
+ * Full header styling
+ */
+.header-background,
+#navbarMenuHeroA {
+  background: #0e0d13;
+}
+
+a.heading-anchor:hover,
+a.heading-anchor:visited:hover,
+a.heading-anchor:hover {
+  color: #c24454;
+}
+
+/*
+ * Dark tabs (bottom hero) (replaces side bar)
+ */
+.tabs.is-boxed li a {
+  color: #f5f9f9;
+}
+
+.tabs.is-boxed li.is-active a {
+  background: #d5fbf6;
+  color: #0e0d13;
+}
+
+.tabs.is-boxed li a:hover {
+  background: #A8C5C8;
+  color: #2F2C41;
+}
+
+.search input,
+.search button {
+  height: 40px;
+}
+
+@media screen and (min-width: 1023px) {
+  #toc-aside {
+    position: sticky;
+    top: 0;
+  }
+}
+/**
+ * Headers
+ */
+.toc-level-2,
+.toc-level-3 {
+  overflow-wrap: break-word;
+}
+
+.toc-level-2 a::before {
+  content: "#";
+  color: #75AAB0;
+  display: inline-block;
+  padding: 0.25em;
+  font-size: small;
+}
+
+.toc-level-3 a::before {
+  content: "#";
+  color: #75AAB0;
+  display: inline-block;
+  padding: 0.5em;
+  font-size: small;
+}
+
+/*
+ * Global footer styling
+ */
+.disclaimer a {
+  text-decoration: underline;
+}
+
+body.adaptive,
+.content.adaptive,
+footer.adaptive {
+  background-color: #f5f9f9;
+}
+
+.footer-link,
+.footer-link:visited {
+  color: #75AAB0;
+}
+
+@media (prefers-color-scheme: dark) {
+  /* Main elements that require full re-colour */
+  body.adaptive,
+  .container.adaptive,
+  .content.adaptive,
+  footer.adaptive {
+    background-color: #0e0d13;
+    color: #f5f9f9;
+  }
+  /* Elements that only require text re-colour */
+  .menu-list a.text-adaptive {
+    color: #f5f9f9;
+  }
+  /* Header */
+  .tabs.is-boxed li.is-active a {
+    background: #75AAB0;
+    color: #0e0d13;
+  }
+  .tabs.is-boxed li.is-active a:active:hover,
+  .tabs.is-boxed li.is-active a:hover {
+    background: #A8C5C8;
+  }
+  /* Footer */
+  .footer-link,
+  .footer-link:visited {
+    color: #A8C5C8;
+  }
+  /* Content */
+  .content a:visited {
+    color: #df523f;
+  }
+  .content a:visited:hover {
+    color: #c24454;
+  }
+  .content blockquote p em,
+  .content blockquote p strong em {
+    color: #df523f;
+  }
+}
+/*
  * Global content styling
  */
 .content h1 {
@@ -21573,11 +21696,12 @@ a .button .is-primary {
 
 /* Various link colors */
 .content a {
-  color: #5B88A5;
+  color: #405f74;
+  text-decoration: underline;
 }
 
 .content a:hover {
-  color: #bed0db;
+  color: #6b94ae;
 }
 
 .content a:visited {
@@ -21585,7 +21709,11 @@ a .button .is-primary {
 }
 
 .content a:visited:hover {
-  color: #df523f;
+  color: #e36655;
+}
+
+.content .breadcrumb a {
+  text-decoration: none;
 }
 
 /**
@@ -21657,125 +21785,6 @@ a .button .is-primary {
   color: #b120d9;
 }
 
-/*
- * Full header styling
- */
-.header-background,
-#navbarMenuHeroA {
-  background: #0e0d13;
-}
-
-a.heading-anchor:hover,
-a.heading-anchor:visited:hover,
-a.heading-anchor:hover {
-  color: #c24454;
-}
-
-/*
- * Dark tabs (bottom hero) (replaces side bar)
- */
-.tabs.is-boxed li a {
-  color: #f5f9f9;
-}
-
-.tabs.is-boxed li.is-active a {
-  background: #d5fbf6;
-  color: #0e0d13;
-}
-
-.tabs.is-boxed li a:hover {
-  background: #A8C5C8;
-  color: #2F2C41;
-}
-
-.search input,
-.search button {
-  height: 40px;
-}
-
-@media screen and (min-width: 1023px) {
-  #toc-aside {
-    position: sticky;
-    top: 0;
-  }
-}
-/**
- * Headers
- */
-.toc-level-2,
-.toc-level-3 {
-  overflow-wrap: break-word;
-}
-
-.toc-level-2 a::before {
-  content: "#";
-  color: #75AAB0;
-  display: inline-block;
-  padding: 0.25em;
-  font-size: small;
-}
-
-.toc-level-3 a::before {
-  content: "#";
-  color: #75AAB0;
-  display: inline-block;
-  padding: 0.5em;
-  font-size: small;
-}
-
-/*
- * Global footer styling
- */
-body.adaptive,
-.content.adaptive,
-footer.adaptive {
-  background-color: #f5f9f9;
-}
-
-.footer-link,
-.footer-link:visited {
-  color: #75AAB0;
-}
-
-@media (prefers-color-scheme: dark) {
-  /* Main elements that require full re-colour */
-  body.adaptive,
-  .container.adaptive,
-  .content.adaptive,
-  footer.adaptive {
-    background-color: #0e0d13;
-    color: #f5f9f9;
-  }
-  /* Elements that only require text re-colour */
-  .menu-list a.text-adaptive {
-    color: #f5f9f9;
-  }
-  /* Header */
-  .tabs.is-boxed li.is-active a {
-    background: #75AAB0;
-    color: #0e0d13;
-  }
-  .tabs.is-boxed li.is-active a:active:hover,
-  .tabs.is-boxed li.is-active a:hover {
-    background: #A8C5C8;
-  }
-  /* Footer */
-  .footer-link,
-  .footer-link:visited {
-    color: #A8C5C8;
-  }
-  /* Content */
-  .content a:visited {
-    color: #df523f;
-  }
-  .content a:visited:hover {
-    color: #c24454;
-  }
-  .content blockquote p em,
-  .content blockquote p strong em {
-    color: #df523f;
-  }
-}
 /*
  * Mobile
  */

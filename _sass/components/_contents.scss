@@ -23,10 +23,11 @@ a .button .is-primary {
 /* Various link colors */
 .content a {
   color: $link;
+  text-decoration: underline;
 }
 
 .content a:hover {
-  color: lighten($link, 30%);
+  color: lighten($link, 20%);
 }
 
 .content a:visited {
@@ -34,7 +35,12 @@ a .button .is-primary {
 }
 
 .content a:visited:hover {
-  color: $warning;
+  color: lighten($warning, 5%);
+}
+
+// Do not underline the breadcrumbs
+.content .breadcrumb a {
+  text-decoration: none;
 }
 
 /**

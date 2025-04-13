@@ -32,11 +32,6 @@
   $input-shadow: none
 );
 
-// Content (components)
-@use "components/_contents";
-@use "components/_page_card";
-@use "components/_map";
-
 // Other components
 @use "components/_header";
 @use "components/_search_bar";
@@ -46,6 +41,11 @@
 // Themes
 @use "themes/light";
 @use "themes/_dark";
+
+// Content (components)
+@use "components/_contents";
+@use "components/_page_card";
+@use "components/_map";
 
 /*
  * Mobile
