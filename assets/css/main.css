@@ -21755,17 +21755,11 @@ footer.adaptive {
   footer.adaptive {
     background-color: #0e0d13;
   }
-  /*#toc-aside,
-  .container.adaptive,
-  .content.adaptive {
-    background-color: $gray-darkest;
-    color: $base;
-  }
-
   /* Elements that only require text re-colour */
-  /*.menu-list a.text-adaptive {
-    color: $base;
-  }*/
+  .menu-list a.text-adaptive,
+  .content.adaptive {
+    color: #cad2df;
+  }
   /* Header */
   .tabs.is-boxed li.is-active a {
     background: #75AAB0;
