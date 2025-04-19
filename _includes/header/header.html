@@ -10,13 +10,13 @@
         </div>
         <!-- Home page uses the image banner -->
         {% if page.url == "/" %}
-            <div class="hero-body p-0">
-                <figure class="image is-fullwidth">
-                    <img class="hero-banner" src="/assets/imgs/imagine-youtopia-cyan.jpg" alt="Imagine Youtopia Discord Contest Fanart">
+            <div class="hero-body p-0" id="image-banner">
+                <figure class="image is-3by1">
+                    <img class="hero-banner" loading="lazy" src="/assets/imgs/imagine-youtopia-cyan.jpg" alt="Imagine Youtopia Discord Contest Fanart">
                 </figure>
             </div>
         {% else %}
-            <div class="hero-body">
+            <div class="hero-body" id="short-banner">
                 <div class="container">
                     <p class="title arg-font p-1"><a class="has-text-primary" href="{{ site.baseurl }}/">BRING ME THE HORIZON</a></p>
                     <p class="subtitle p-1"><a class="has-text-primary-90" href="{{ site.baseurl }}/">ARG Wiki</a></p>
