@@ -5,7 +5,6 @@
   /* Elements that require (regular) text re-colour */
   .menu a.text-adaptive,
   .content.adaptive,
-  .footer.adaptive,
   .toc-sidebar.adaptive,
   .text-adaptive {
     color: lighten($blue-gray, 30%);
@@ -22,17 +21,13 @@
   }
 
   /* Body */
-  .body.adaptive {
+  #body {
     background-color: $gray-darkest;
   }
 
   /* Header */
   // Active tab colour
-  .header {
-    .header-adaptive {
-      color: $info;
-    }
-
+  header {
     .tabs.is-boxed {
       li.is-active a {
         background: $primary;
@@ -47,20 +42,18 @@
   }
 
   /* Footer */
-  .footer {
-    // Footer changes entirely to dark mode
-    .adaptive {
-      color: lighten($blue-gray, 30%);
-      background-color: $gray-darkest;
-    }
-
-    .footer-link,
-    .footer-link:visited {
-      color: $info;
-    }
+  // Footer changes entirely to dark mode
+  .footer.adaptive {
+    color: lighten($blue-gray, 30%);
+    background-color: $gray-darkest;
   }
 
-  /* Dark Mode Content */
+  .footer-link,
+  .footer-link:visited {
+    color: $info;
+  }
+
+  /* Page Content */
   .content {
     h1, h2, h3, h4, h5, h6 {
       color: $info;

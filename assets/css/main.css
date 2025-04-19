@@ -21746,8 +21746,8 @@ a .button .is-primary {
   color: #b120d9;
 }
 
-body.adaptive,
-footer.adaptive {
+body,
+footer {
   background-color: #f5f9f9;
 }
 
@@ -21755,7 +21755,6 @@ footer.adaptive {
   /* Elements that require (regular) text re-colour */
   .menu a.text-adaptive,
   .content.adaptive,
-  .footer.adaptive,
   .toc-sidebar.adaptive,
   .text-adaptive {
     color: #cad2df;
@@ -21769,31 +21768,28 @@ footer.adaptive {
     color: #75AAB0;
   }
   /* Body */
-  .body.adaptive {
+  #body {
     background-color: #0e0d13;
   }
   /* Header */
-  .header .header-adaptive {
-    color: #A8C5C8;
-  }
-  .header .tabs.is-boxed li.is-active a {
+  header .tabs.is-boxed li.is-active a {
     background: #75AAB0;
     color: #0e0d13;
   }
-  .header .tabs.is-boxed li.is-active a:active:hover,
-  .header .tabs.is-boxed li.is-active a:hover {
+  header .tabs.is-boxed li.is-active a:active:hover,
+  header .tabs.is-boxed li.is-active a:hover {
     background: #A8C5C8;
   }
   /* Footer */
-  .footer .adaptive {
+  .footer.adaptive {
     color: #cad2df;
     background-color: #0e0d13;
   }
-  .footer .footer-link,
-  .footer .footer-link:visited {
+  .footer-link,
+  .footer-link:visited {
     color: #A8C5C8;
   }
-  /* Dark Mode Content */
+  /* Page Content */
   .content h1, .content h2, .content h3, .content h4, .content h5, .content h6 {
     color: #A8C5C8;
   }
