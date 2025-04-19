@@ -29,6 +29,8 @@ a .button .is-primary {
 .content a {
   color: $link;
   text-decoration: underline;
+  // Some links are really long
+  overflow-wrap: anywhere;
 }
 
 .content a:hover {
