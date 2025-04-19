@@ -4,13 +4,17 @@
   {% if page.tags %}
   <meta name="keywords" content="{{ page.tags | join: ', ' }}">
   {% endif %}
+  {% if page.description %}
+  <meta name="description" content="{{ page.description }}">
+  {% endif %}
   <meta property="og:title" content="{{ page.title }}" />
   <meta property="og:type" content="article" />
   <meta property="og:url" content="{{ page.url | relative_url }}" />
   <meta property="og:image" content="{{ page.image | relative_url }}" />
   <meta property="og:description" content="{{ page.description | strip_html | xml_escape }}" />
   <meta property="og:site_name" content="{{ site.title }}" />
-  <title class="title">{{ page.title }}</title>
+  <meta property="og:locale" content="en_UK" />
+  <title>{{ page.title }}</title>
   <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" type="image/x-icon">
   <link rel="stylesheet" href="{{ '/assets/min/styles.min.css' | relative_url }}">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
