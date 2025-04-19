@@ -21555,7 +21555,8 @@ has-background-danger.is-hoverable:active {
  * Full header styling
  */
 .header-background,
-#navbarMenuHeroA {
+#navbarMenuHeroA,
+#image-banner {
   background: #0e0d13;
 }
 
@@ -21657,6 +21658,7 @@ a .button .is-primary {
 .content a {
   color: #405f74;
   text-decoration: underline;
+  overflow-wrap: anywhere;
 }
 
 .content a:hover {
@@ -21750,27 +21752,43 @@ footer.adaptive {
 }
 
 @media (prefers-color-scheme: dark) {
-  /* Main elements that require background re-colour */
-  body.adaptive,
-  footer.adaptive {
-    background-color: #0e0d13;
-  }
-  /* Elements that require text re-colour */
-  .menu-list a.text-adaptive,
+  /* Elements that require (regular) text re-colour */
+  .menu a.text-adaptive,
   .content.adaptive,
-  .footer.adaptive {
+  .footer.adaptive,
+  .toc-sidebar.adaptive,
+  .text-adaptive {
     color: #cad2df;
   }
+  /* Elements that require header re-colour */
+  .header-adaptive {
+    color: #A8C5C8;
+  }
+  /* Elements that require link re-colour */
+  .link-adaptive {
+    color: #75AAB0;
+  }
+  /* Body */
+  .body.adaptive {
+    background-color: #0e0d13;
+  }
   /* Header */
-  .tabs.is-boxed li.is-active a {
+  .header .header-adaptive {
+    color: #A8C5C8;
+  }
+  .header .tabs.is-boxed li.is-active a {
     background: #75AAB0;
     color: #0e0d13;
   }
-  .tabs.is-boxed li.is-active a:active:hover,
-  .tabs.is-boxed li.is-active a:hover {
+  .header .tabs.is-boxed li.is-active a:active:hover,
+  .header .tabs.is-boxed li.is-active a:hover {
     background: #A8C5C8;
   }
   /* Footer */
+  .footer .adaptive {
+    color: #cad2df;
+    background-color: #0e0d13;
+  }
   .footer .footer-link,
   .footer .footer-link:visited {
     color: #A8C5C8;
@@ -21802,7 +21820,10 @@ footer.adaptive {
 @media screen and (max-width: 1023px) {
   #page-box {
     flex-direction: column;
-    max-width: 80%;
+    max-width: 90%;
+  }
+  #toc-sidebar {
+    padding-top: 1.5rem;
   }
 }
 .arg-font {

@@ -1,35 +1,59 @@
 @use "../variables" as *;
 
 @media (prefers-color-scheme: dark) {
-  /* Main elements that require background re-colour */
-  body.adaptive,
-  footer.adaptive {
-    background-color: $gray-darkest;
+
+  /* Elements that require (regular) text re-colour */
+  .menu a.text-adaptive,
+  .content.adaptive,
+  .footer.adaptive,
+  .toc-sidebar.adaptive,
+  .text-adaptive {
+    color: lighten($blue-gray, 30%);
   }
 
-  /* Elements that require text re-colour */
-  .menu-list a.text-adaptive,
-  .content.adaptive,
-  .footer.adaptive {
-    color: lighten($blue-gray, 30%);
+  /* Elements that require header re-colour */
+  .header-adaptive {
+    color: $info;
+  }
+
+  /* Elements that require link re-colour */
+  .link-adaptive {
+    color: $primary;
+  }
+
+  /* Body */
+  .body.adaptive {
+    background-color: $gray-darkest;
   }
 
   /* Header */
   // Active tab colour
-  .tabs.is-boxed {
-    li.is-active a {
-      background: $primary;
-      color: $gray-darkest;
+  .header {
+    .header-adaptive {
+      color: $info;
     }
 
-    li.is-active a:active:hover,
-    li.is-active a:hover {
-      background: $info;
+    .tabs.is-boxed {
+      li.is-active a {
+        background: $primary;
+        color: $gray-darkest;
+      }
+
+      li.is-active a:active:hover,
+      li.is-active a:hover {
+        background: $info;
+      }
     }
   }
 
   /* Footer */
   .footer {
+    // Footer changes entirely to dark mode
+    .adaptive {
+      color: lighten($blue-gray, 30%);
+      background-color: $gray-darkest;
+    }
+
     .footer-link,
     .footer-link:visited {
       color: $info;

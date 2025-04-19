@@ -51,11 +51,15 @@
  * Mobile
  */
 
-// If we are using mobile, the Table of Contents doesn't fit next to page content
 @media screen and (max-width: variables.$mobile-width) {
+  // If we are using mobile, the Table of Contents doesn't fit next to page content
   #page-box {
     flex-direction: column;
-    max-width: 80%;
+    max-width: 90%;
+  }
+
+  #toc-sidebar {
+    padding-top: 1.5rem;
   }
 }
 
