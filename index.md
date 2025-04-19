@@ -25,7 +25,7 @@ content="Welcome to the Bring Me The Horizon ARG Wiki! We are here to help you g
 
 
 This wiki centers all around the mysteries around the album [POST HUMAN: NeX GEn](pages/music/ph-nex-gen). 
-The Alternate Reality Game, or ARG, is currently still developing and so are [we](pages/about). Our team will 
+The Alternate Reality Game, or ARG, is currently still developing and so is [the team](pages/about). Our team will 
 try to regularly update the website and improve the look and experience. This wiki will focus on objective 
 information as much as possible and indicate whenever something is not confirmed.
 
@@ -74,9 +74,11 @@ but it's best to start with the new material first!
 
 ### The Webpage
 
-The webpage for the ARG can be found [here](https://www.multidimensionalnavigator8.help/index-desktop.html) 
-and provides the bulk of what we know about the Nex Gen lore. The wiki also covers [the webpage](pages/website/website) 
-itself and the different software on it. The serial number on the side of M8's head on the album cover 
+The [webpage](https://www.multidimensionalnavigator8.help/index-desktop.html) for the ARG can be found 
+provides the bulk of what we know about the Nex Gen lore.
+The wiki also covers [the webpage](pages/website/website) 
+itself and the different software on it.
+The serial number on the side of M8's head on the album cover 
 is the code you will need to get into the website.
 
 ![Image of band cards included with certain physical releases.](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/band-cards.png)
@@ -90,7 +92,7 @@ and [Discord](https://discord.com/invite/bmthofficial). We include some of these
 
 Some [other webpages](pages/other-webpages) have also been linked or are theorized to link to this ARG, 
 they are discussed in their own article. This includes the secret [genxsis.faith](https://genxsis.faith) cult website, 
-the [Mantra](https://joinmantra.org) website and [dungeoncrawl33r](https://dungeoncrawl33r.com), which some of the barcodes 
+the [Mantra](https://joinmantra.org) website and [dungeoncrawl33r](https://dungeoncrawl33r.com), which some barcodes 
 on the posters point to.
 
 ***
