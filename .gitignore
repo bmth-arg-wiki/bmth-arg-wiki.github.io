@@ -1,6 +1,5 @@
 # Exclude locally hosted for-sof
 _site/*
-_sass/
 
 # Exclude IDE for-sof
 .idea/*

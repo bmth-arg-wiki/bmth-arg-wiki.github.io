@@ -1,0 +1,67 @@
+@use "../variables" as *;
+
+@media (prefers-color-scheme: dark) {
+  /* Main elements that require background re-colour */
+  body.adaptive,
+  footer.adaptive {
+    background-color: $gray-darkest;
+  }
+
+  /* Elements that require text re-colour */
+  .menu-list a.text-adaptive,
+  .content.adaptive,
+  .footer.adaptive {
+    color: lighten($blue-gray, 30%);
+  }
+
+  /* Header */
+  // Active tab colour
+  .tabs.is-boxed {
+    li.is-active a {
+      background: $primary;
+      color: $gray-darkest;
+    }
+
+    li.is-active a:active:hover,
+    li.is-active a:hover {
+      background: $info;
+    }
+  }
+
+  /* Footer */
+  .footer {
+    .footer-link,
+    .footer-link:visited {
+      color: $info;
+    }
+  }
+
+  /* Dark Mode Content */
+  .content {
+    h1, h2, h3, h4, h5, h6 {
+      color: $info;
+    }
+
+    a {
+      color: $primary;
+    }
+
+    a:hover {
+      color: $info;
+    }
+
+    a:visited {
+      color: lighten($success, 20%);
+    }
+
+    a:visited:hover {
+      color: $danger;
+    }
+
+    // give the corrections a lighter colour for readability
+    .content blockquote p em,
+    .content blockquote p strong em {
+      color: $warning;
+    }
+  }
+}

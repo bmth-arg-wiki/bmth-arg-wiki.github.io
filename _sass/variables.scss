@@ -1,0 +1,39 @@
+// Mobile settings
+$mobile-width: 1023px;
+
+// Brand colours: based on the ARG booklet colours
+$white: #FFFFFF;
+$very-pale-cyan: #f5f9f9;
+$cyan-lightest: #d5fbf6;
+$cyan-lighter: #A8C5C8;
+$cyan: #75AAB0;
+$cyan-darker: #01504d;
+$blue-accent: #46448F;
+$blue-success: #404B81;
+$blue: #5B88A5;
+$blue-darker: darken($blue, 15%);
+$blue-gray: #6B81A5FF;
+$dark-blue-gray: #2F2C41;
+$gray-darker: darken($dark-blue-gray, 9%);
+$gray-darkest: darken($dark-blue-gray, 15%);
+$red: #df523f;//#d84848;        // Nex Gen CD colour
+$red-dark: #c24454;//#872d2d;   // Purpose red
+
+// Light mode extra shades
+$base: $very-pale-cyan;
+$primary-lighter: $cyan-lighter;
+$primary-lightest: $cyan-lightest;
+$txt: $gray-darker;
+
+// Bulma mapping for utility colours
+$primary: $cyan;
+$info: $cyan-lighter;
+$warning: $red;
+$danger: $red-dark;
+$link: $blue-darker;
+$success: $blue-success;
+
+@font-face {
+  font-family: "arg-font";
+  src: url("/assets/fonts/argfont.ttf");
+}

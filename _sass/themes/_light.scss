@@ -1,0 +1,6 @@
+@use "../variables" as *;
+
+body.adaptive,
+footer.adaptive {
+  background-color: $base;
+}
