@@ -111,3 +111,4 @@ on the [Bring Me The Horizon official Discord](https://discord.com/invite/bmthof
 [bmthargwiki@gmail.com](mailto:bmthargwiki@gmail.com).
 
 You can also read a little more [about us 👀](pages/about).
+
