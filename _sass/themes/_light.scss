@@ -1,0 +1,6 @@
+@use "../variables" as *;
+
+body,
+footer {
+  background-color: $base;
+}

@@ -1,7 +1,7 @@
 ---
 title: "Lore"
 description: "This page provides an overview of general lore concepts in the ARG."
-categories: ["for-sof"]
+categories: ["lore"]
 tags: ["bmth", "arg", "nex gen", "church of genxis", "archive", "arc/hive", "mantra", "cult", "youtopia"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/lore-300x300.png"
 ---
@@ -14,7 +14,7 @@ This overview contains links for different lore pages, including sources posted 
 
 ## ARG Website - Main Page
 
-{% assign page_links = '/pages/website/website, /pages/website/wifi, /pages/website/webbrowser, /pages/website/website-songs, /pages/website/journal, /pages/website/website-v1' | split: ", " %}
+{% assign page_links = '/pages/website/website, /pages/website/wifi, /pages/website/webbrowser, /pages/website/emulator, /pages/website/journal, /pages/website/website-songs, /pages/website/website-v1' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ***

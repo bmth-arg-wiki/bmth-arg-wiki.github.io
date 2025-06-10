@@ -1,0 +1,38 @@
+// Insight colours
+$connection-yellow: #f4cb18;  // Actual colour
+$empathy-blue: #44d5da;       // Needed adaption for contrast
+$purpose-red: #d92031;        // Actual colour
+$vision-green: #42b64a;       // Actual colour
+$spirit-purple: #b120d9;      // We dunno
+$generic: #d97320;      // We dunno
+
+#map {
+  height: 700px;
+}
+
+/* Map marker defaults to pink */
+.map-marker {
+  color: $generic;
+  font-size: 24px;
+}
+
+/* Marker helper classes */
+.connection-yellow {
+  color: $connection-yellow;
+}
+
+.empathy-blue {
+  color: $empathy-blue;
+}
+
+.purpose-red {
+  color: $purpose-red;
+}
+
+.vision-green {
+  color: $vision-green;
+}
+
+.spirit-purple {
+  color: $spirit-purple;
+}

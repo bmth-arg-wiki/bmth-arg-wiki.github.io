@@ -3,16 +3,16 @@
     <!-- Custom buttons to indicate left and right -->
     <div class="pagination-button">
         <a href="{{ site.baseurl }}/pages/{{ page.previous }}" class="button is-primary is-normal">
-            <span class="has-text-danger icon is-small"><i class="fas fa-chevron-left"></i></span>
-            <span class="has-text-danger has-text-weight-semibold">{{ page.previous_text | truncate: 25 | default: 'Previous' }}</span>
+            <span class="has-text-primary-20 icon is-small"><i class="fas fa-chevron-left"></i></span>
+            <span class="has-text-primary-20 has-text-weight-semibold">{{ page.previous_text | truncate: 25 | default: 'Previous' }}</span>
         </a>
     </div>
     {% endif %}
     {% if page.next %}
     <div class="pagination-button">
         <a href="{{ site.baseurl }}/pages/{{ page.next }}" class="button is-primary is-normal">
-          <span class="has-text-danger icon is-small"><i class="fas fa-chevron-right"></i></span>
-          <span class="has-text-danger has-text-weight-semibold">{{ page.next_text | truncate: 25 | default: 'Next' }}</span>
+          <span class="has-text-primary-20 icon is-small"><i class="fas fa-chevron-right"></i></span>
+          <span class="has-text-primary-20 has-text-weight-semibold">{{ page.next_text | truncate: 25 | default: 'Next' }}</span>
         </a>
     </div>
     {% endif %}

@@ -1,6 +1,6 @@
 ---
 title: "Multidimensional Navigator 8 Webpage"
-description: "Discusses the most important parts we can view on the Multidimensional Navigator 8."
+description: "Describes the components and history of Multidimensional Navigator 8."
 categories: ["website"]
 tags: ["webpage", "m8", "multidimensional", "navigator", "8-line", "dashboard", "backgrounds", 
 "access card", "acid rain", "weather", "nocturne", "spyder", "codek", "codec", "nex gen", 
@@ -27,7 +27,7 @@ Here is the new look:
 
 ## ARG Website - Main Page
 
-{% assign page_links = '/pages/website/wifi, /pages/website/webbrowser, /pages/website/website-songs, /pages/website/journal, /pages/website/website-v1' | split: ", " %}
+{% assign page_links = '/pages/website/wifi, /pages/website/webbrowser, /pages/website/emulator, /pages/website/journal, /pages/website/website-songs, /pages/website/website-v1' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ***
@@ -52,30 +52,26 @@ which leads us to believe 'Gideon Mourningstone' might be a pseudonym for Lee M.
 
 ***
 
-## Password
+## Entering the website
+
+The login screen has been consistent, with [M8](../m8) asking to boot her up in safe mode using her serial number.
 
 ![New log in screen](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/new-password-screen.png)
 
 <details class="password">
-<summary>Password:</summary> 
-
+<summary>Click me to reveal the serial number.</summary> 
+{{"
 93934521
 
-</details>
-
-The password to boot M8 in safe mode is the serial number on the side of her head. 
+The password to boot M8 in safe mode is the serial number on the side of her head.
 It can be found on the album cover (although the serial number is very tiny).
 
 ![Album cover Nex Gen](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover.png)
-
-***
-
-## QR Code
+"| markdownify }}
+</details>
 
 The QR code for the website was found at the end of the [spectrogram](../music/spectrograms) 
 in the song DIg It.
-
-![QR code at the end of Dig It](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/spectrograms/spectrogram_qr.png)
 
 We do not recommend trying to scan this barcode, using the link above is much easier!
 
@@ -84,55 +80,26 @@ We do not recommend trying to scan this barcode, using the link above is much ea
 ## Website Contents
 
 The web page leads us to what looks like a personal computer. Here we can find some music, 
-some avatars corresponding to different characters and more. 
+some avatars corresponding to different characters and more. The website users are all [characters](../characters) 
+with their own dedicated pages.
+
 We have a folder on our computer [FOR SOF](../for-sof/for-sof), 
-which will be the next step to unlocking the mysteries of Youtopia.
+which contains previously unlocked files, that we can also access through the [journal](journal). This journal 
+was brought to us on the 4th of December 2024. It provides us with more insights into the files in this folder.
 
-***
+A brand-new [inventory](../for-sof/for-sof) feature was added during the December update. 
+Files in this folder are protected by puzzles.
 
-## Inventory
+The music player on the website is called Noctune. It currently contains three versions of the song Wrist, 
+but used to contain more. You can read more about it in the [article on website songs](website-songs).
 
-![inventory](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/inventory.png)
-
-A brand-new [Inventory](../for-sof/for-sof) feature was added during the December update. 
-Files in this folder are protected by puzzles. 
-
-***
-
-## Website Songs
-
-[See article on the songs on the website](website-songs). The player is called Noctune.
-
-***
-
-## Spyder
-
-Spyder is the in-universe [web browser](webbrowser) on the page. 
-
-***
-
-## Journal
-
-![journal](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/journal.png)
-
-The Dec, 4th 2024 update brought us [Sof's journal](journal.md).
-
-***
-
-## Website Users
-
-The website users are all [characters](../characters) with their own dedicated pages.
-
-***
-
-## Buttons
+Spyder is the in-universe [web browser](webbrowser) on the page and can be used to read several articles on 
+the web.
 
 {% include gallery.html folder="webpage/newbuttons" %}
 
-The new buttons are virtually the same as the old ones, their main difference being their design and placement.
-They are now in the top right corner of the website.
-
-![emulator](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/emulator.png)
+The buttons on the new dashboard are virtually the same as the old ones, their main difference being their design 
+and placement. They are now in the top right corner of the website.
 
 There is also an `Emulator` button that looks like a controller in the middle of the page.
 It leads to [ScreamStar](https://www.scream-star.com/).

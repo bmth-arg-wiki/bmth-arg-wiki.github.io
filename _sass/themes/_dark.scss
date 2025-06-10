@@ -1,0 +1,84 @@
+@use "../variables" as *;
+
+@media (prefers-color-scheme: dark) {
+
+  /* Elements that require (regular) text re-colour */
+  .menu a.text-adaptive,
+  .content.adaptive,
+  .toc-sidebar.adaptive,
+  .text-adaptive {
+    color: lighten($blue-gray, 30%);
+  }
+
+  /* Elements that require header re-colour */
+  .header-adaptive {
+    color: $info;
+  }
+
+  /* Elements that require link re-colour */
+  .link-adaptive {
+    color: $primary;
+  }
+
+  /* Body */
+  #body {
+    background-color: $gray-darkest;
+  }
+
+  /* Header */
+  // Active tab colour
+  header {
+    .tabs.is-boxed {
+      li.is-active a {
+        background: $primary;
+        color: $gray-darkest;
+      }
+
+      li.is-active a:active:hover,
+      li.is-active a:hover {
+        background: $info;
+      }
+    }
+  }
+
+  /* Footer */
+  // Footer changes entirely to dark mode
+  .footer.adaptive {
+    color: lighten($blue-gray, 30%);
+    background-color: $gray-darkest;
+  }
+
+  .footer-link,
+  .footer-link:visited {
+    color: $info;
+  }
+
+  /* Page Content */
+  .content {
+    h1, h2, h3, h4, h5, h6 {
+      color: $info;
+    }
+
+    a {
+      color: $primary;
+    }
+
+    a:hover {
+      color: $info;
+    }
+
+    a:visited {
+      color: lighten($success, 20%);
+    }
+
+    a:visited:hover {
+      color: $danger;
+    }
+
+    // give the corrections a lighter colour for readability
+    .content blockquote p em,
+    .content blockquote p strong em {
+      color: $warning;
+    }
+  }
+}

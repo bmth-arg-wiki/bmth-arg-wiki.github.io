@@ -39,9 +39,10 @@ document.addEventListener('DOMContentLoaded', () => {
     // Font Awesome icon mapping for categories (placeholders)
     const categoryIcons = {
         'music': '<i class="fa-solid fa-record-vinyl"></i>',
-        'for-sof': '<i class="fa-solid fa-file"></i>',
+        'for-sof': '<i class="fa-solid fa-file-lines"></i>',
         'lore': '<i class="fa-solid fa-book-open"></i>',
         'characters': '<i class="fa-solid fa-address-card"></i>',
+        'website': '<i class="fa-solid fa-desktop"></i>',
         default: '<i class="fas fa-newspaper"></i>'
     };
 
@@ -97,10 +98,15 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (i >= MAX_RESULTS) return;
                 const icon = getIconForCategory(post.category); // Get Font Awesome icon
                 searchResult.innerHTML += `
-                    <a class="result-item" href="${post.url}">
-                        <div class="h2">${icon} ${post.title}</div>
-                        <div class="description">${post.description || 'No description available.'}</div>
-                    </a>
+                    <div class="search-result box">
+                        <a class="result-item" href="${post.url}">
+                            <div class="has-text-link">
+                                ${icon} 
+                                <span class="has-text-weight-semibold pl-1">${post.title}</span>
+                            </div>
+                            <div class="description">${post.description || 'No description available.'}</div>
+                        </a>
+                    </div>
                 `;
             });
         }

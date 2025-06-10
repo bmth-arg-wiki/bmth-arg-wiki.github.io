@@ -31,7 +31,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
                     let imgTag = document.createElement("img");
                     imgTag.src = file.download_url;
-                    imgTag.classList.add('zoomable');
+                    imgTag.width = 1200;
+                    imgTag.height = 200;
+                    imgTag.classList.add('img-contain');
                     imgTag.alt = file.name;
                     imgTag.loading = "lazy";
                     figure.appendChild(imgTag);

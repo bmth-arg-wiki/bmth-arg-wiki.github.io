@@ -2,11 +2,9 @@
 <!DOCTYPE html>
 <html lang="en">
 {% include head.html %}
-<body>
+<body id="body">
     <!-- Header -->
-    <header class="header">
-        {% include header/header.html %}
-    </header>
+    {% include header/header.html %}
 
     <!-- Page modal -->
     {% include modal.html %}
@@ -16,37 +14,30 @@
         {% include searchbar.html %}
     </div>
     <!-- Page-specific content -->
-    <div class="container is-flex" id="page-body">
-        <div class="container" id="content-container">
-            <main class="content pb-5 pr-6">
+    <div class="container box is-flex pb-6" id="page-box">
+        <div class="container" id="page-content-container">
+            <main class="content adaptive" id="page-content">
                 <!-- Links to previous and next articles -->
                 {% include content/article-pagination.html %}
                 <!-- Navigation links above title -->
                 {% include breadcrumbs.html %}
-                <div class="p-2">
+                <div id="page-source">
                     <!-- Page content wrapped in funny business for anchoring -->
-                    {% include anchor_headings.html html=content anchorBody="#" anchorClass="heading-anchor"%}
+                    {% include anchor_headings.html html=content anchorBody="#" anchorClass="heading-anchor has-text-primary"%}
                 </div>
             </main>
         </div>
         <!-- Table of Contents: pages only (not on homepage) -->
         {% if page.url != "/" %}
             <div class="toc-container" id="toc-container">
-                <aside class="container p-2" id="toc-aside">
+                <aside class="container pt-2 pr-2 pb-2 pl-5" id="toc-aside">
                     {% include toc.html %}
                 </aside>
             </div>
         {% endif %}
     </div>
     <!-- Footer -->
-    <footer class="footer">
-        {% include footer/footer.html %}
-    </footer>
-    <script src="/assets/js/hamburger.js"></script>
-    <script src="/assets/js/tabs.js"></script>
-    <script src="/assets/js/toc.js"></script>
-    <script src="/assets/js/gallery.js"></script>
-    <script src="/assets/js/search.js"></script>
-    <script src="/assets/js/modal.js"></script>
+    {% include footer/footer.html %}
+    <script src="/assets/min/app.min.js"></script>
 </body>
 </html>

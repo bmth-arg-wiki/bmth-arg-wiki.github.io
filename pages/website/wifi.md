@@ -28,7 +28,7 @@ Clicking it reveals three networks, each protected by a different password.
 On the 27th and 28th of September, the pop-up stores each had a phone displaying one of the characters for one of the passwords.
 Here's the Amsterdam phone as an example:
 
-![Amst wifi phone](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/wifi/phone-example.png)
+![Amsterdam wifi phone](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/wifi/phone-example.png)
 
 We finally got all the characters on the 30th, which lead us to unlock the first wifi network: nxEcoSubLevel.
 
@@ -56,7 +56,7 @@ Once connected to the wifi, an update screen appears and M8 starts talking excit
 >
 >ESTIMATED COMPLETION DATE [variations]: 9 hours / 90 hours / 400 days / -55 seconds / 4 days / 5 mins 
 
->[M8 voicelines:]
+>[M8 voice lines:]
 >
 >“Wait, wait, wait! Hold up! Am I? Am I seeing this right? 
 A firmware update? Oh my circuits, this is huge! 

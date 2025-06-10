@@ -4,7 +4,12 @@
  * Global footer styling
  */
 
-.footer {
-  background: $very-pale-pink;
-  color: $gray-darkest;
+// Text underline for accessibility purposes
+.disclaimer a {
+  text-decoration: underline;
+}
+
+.footer-link,
+.footer-link:visited {
+  color: $link
 }
