@@ -1,6 +1,6 @@
 ---
 title: "The Four Insights"
-description: "An overview of all four insights: connection, empathy, purpose, vision."
+description: "An overview of all four insights: connection, empathy, purpose, and vision."
 categories: ["lore", "for-sof"]
 tags: ["insights", "connection", "empathy", "purpose", "vision", "youtopia", 
        "for sof", "archangels", "omens"]
@@ -14,26 +14,37 @@ next_text: "INSIGHT1.DOC"
 
 > As Above So Below
 
-Document in the [FOR SOF](../for-sof) folder. It introduces us to the Insights. We do not know its author, but we assume that [Selene](../characters/selene) likely left these files here for [Sof](../characters/sof).
+THEINSIGHTS.DOC is a file in the [FOR SOF](../for-sof/for-sof) folder. 
+We do not know its author, but we assume that [Selene](../characters/selene) likely left these documents here for [Sof](../characters/sof).
 
 ***
 
 ## About
 
-These are some documents introducing us to the concept of the four insights that
-we see throughout the ARG. The documents left [for Sof](../for-sof/for-sof) indicate that 
-they must master these insights.
+This document introduces us to the concept of the four insights, which we see throughout the ARG. 
+Importantly, it tells us we have to master these insights in order to 'save [Youtopia](youtopia) and the people trapped within.'
+
+Each insight is associated to an element, an [archangel](../characters/characters), an [omen](../characters/characters), 
+a curse, a direction, and a [relic](booklet#page-023).
+
+| Insight    | Element | Archangel | Omen        | Curse | Direction | Relic                               |
+|----------------------------------------------------------------------------------------------------------|
+| Connection | Air     | Raphael   | Pan         | ???   | East      | Pan's Flute                         |
+| Empathy    | Water   | Gabriel   | Miseria     | ???   | West      | Gardian Tears                       |
+| Purpose    | Fire    | Michael   | Vanth       | ???   | South     | Abramelin's Candle Of Eternal Tears |
+| Vision     | Earth   | Uriel     | The Babylon | ???   | North     | Golden Raspberry                    |
+
+
 
 ***
 
 ## Insights spectrograms
 
 The first hint about the four insights was found in a spectrogram of the song [YOUtopia](../music/song-youtopia).
-
+The message is hidden at minute 3:48.
 !["Master the 4 insights"](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/empathy/img_2.png)
-Around 3:48 in the song, the message is hidden.
 
-The following songs also contain hidden images related to the insights:
+Further spectrograms for each insight were found in the following songs:
 
 - [Top 10 staTues tHat CriEd bloOd](../music/song-top10) (Connection)
 - [n/A](../music/song-na) (Empathy)
