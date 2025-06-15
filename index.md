@@ -103,7 +103,7 @@ on the posters point to.
 title="Grab your tinfoil hats!"
 icon="fa-solid fa-hat-wizard"
 content="The [Notion page](https://the-secret-tinfoil-society.notion.site/BRING-ME-THE-HORIZON-ARG-6c86ee58ee3b41a6b0c594cf59201d4b)
-contains all of our theories. The wiki focuses documenting the confirmed world lore & sources and providing a walkthrough."
+contains all of our theories. The wiki focuses on documenting the confirmed world lore & sources and providing a walkthrough."
 %}
 
 Want to get in on the project and lore discussions with our (not very) Secret Tinfoil Society? Join the discussion 
@@ -111,4 +111,3 @@ on the [Bring Me The Horizon official Discord](https://discord.com/invite/bmthof
 [bmthargwiki@gmail.com](mailto:bmthargwiki@gmail.com).
 
 You can also read a little more [about us 👀](pages/about).
-
