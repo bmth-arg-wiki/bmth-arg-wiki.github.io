@@ -27,14 +27,12 @@ Importantly, it tells us we have to master these insights in order to 'save [You
 Each insight is associated to an element, an [archangel](../characters/characters), an [omen](../characters/characters), 
 a curse, a direction, and a [relic](booklet#page-023).
 
-| Insight    | Element | Archangel | Omen        | Curse | Direction | Relic                               |
-|----------------------------------------------------------------------------------------------------------|
-| Connection | Air     | Raphael   | Pan         | ???   | East      | Pan's Flute                         |
-| Empathy    | Water   | Gabriel   | Miseria     | ???   | West      | Gardian Tears                       |
-| Purpose    | Fire    | Michael   | Vanth       | ???   | South     | Abramelin's Candle Of Eternal Tears |
-| Vision     | Earth   | Uriel     | The Babylon | ???   | North     | Golden Raspberry                    |
-
-
+| Insight     | Element | Archangel | Omen        | Curse | Direction | Relic                               |
+|-------------|---------|-----------|-------------|-------|-----------|-------------------------------------|
+| Connection  | Air     | Raphael   | Pan         | ???   | East      | Pan's Flute                         |
+| Empathy     | Water   | Gabriel   | Miseria     | ???   | West      | Gardian Tears                       |
+| Purpose     | Fire    | Michael   | Vanth       | ???   | South     | Abramelin's Candle Of Eternal Tears |
+| Vision      | Earth   | Uriel     | The Babylon | ???   | North     | Golden Raspberry                    |
 
 ***
 
