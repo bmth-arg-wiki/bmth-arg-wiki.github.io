@@ -14,7 +14,7 @@ next_text: "INSIGHT1.DOC"
 
 > As Above So Below
 
-THEINSIGHTS.DOC is a file in the [FOR SOF](../for-sof/for-sof) folder. 
+THEINSIGHTS.DOC is a file in the [FOR SOF](../for-sof/for-sof#for-sof) folder. 
 We do not know its author, but we assume that [Selene](../characters/selene) likely left these documents here for [Sof](../characters/sof).
 
 ***
@@ -90,12 +90,17 @@ The triangle icons representing the insights are used as the cardinal points on 
 
 ![Compass from Selene's map](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/insight-directions.png)
 
-As mentioned earlier: North is [vision](insight4-vision), East is [connection](insight1-connection), South is [purpose](insight3-purpose), and West is [empathy](insight2-empathy). 
+As mentioned earlier: North is [Vision](insight4-vision), East is [Connection](insight1-connection), South is [Purpose](insight3-purpose), and West is [Empathy](insight2-empathy). 
 Each insight is linked to a specific region of [Youtopia](youtopia).
 
-The in-universe characters for the bands all have an insight attached to them as you can see from their trading cards:
+The in-universe characters for the band all have an insight attached to them as you can see from their trading cards:
 
 ![Characters from the band on cards for the physical release](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/band-cards.png)
+
+- [Syko](../characters/syko) (Oli) has [Connection](insight1-connection)
+- [Pickles](../characters/pickles) (Matt N.) has [Purpose](insight3-purpose)
+- [Madman](../characters/madman) (Lee) has [Empathy](insight2-empathy)
+- [Vegan](../characters/vegan) (Matt K.) has [Vision](insight4-vision)
 
 ***
 
@@ -121,7 +126,7 @@ including a pentagram with the four triangles and the symbol for spirit.
 
 ## Read More
 
-More from [📁 FOR SOF](../for-sof)
+More from [📁 FOR SOF](../for-sof/for-sof#for-sof)
 
 The Four Insights:
 
@@ -135,7 +140,7 @@ Related characters:
 - [Selene](../characters/selene)
 - [Sof](../characters/sof)
 
-The [Archangels](../characters#the-archangels):
+The [Archangels](../characters/characters#the-archangels):
 
 - [Raphael](../characters/raphael)
 - [Gabriel](../characters/gabriel)
