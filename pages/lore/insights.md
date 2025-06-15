@@ -25,16 +25,16 @@ This document introduces us to the concept of the four insights, which we see al
 Importantly, it tells us we have to master these insights in order to 'save [youtopia](youtopia) and the people trapped within.'
 
 Each insight is numbered and associated to an element, an [archangel](../characters/characters#the-archangels), 
-an [omen](../characters/characters#omens), a curse, a direction, and a [relic](booklet#page-023).
+an [omen](../characters/characters#omens), a curse, a direction, a [relic](booklet#page-023), and a symbol.
 
 They make the most sense when read in order.
 
-| Insight                              | Element | Archangel | Omen        | Curse | Direction | Relic                               |
-|--------------------------------------|---------|-----------|-------------|-------|-----------|-------------------------------------|
-| 1. [Connection](insight1-connection) | Air     | Raphael   | Pan         | ???   | East      | Pan's Flute                         |
-| 2. [Empathy](insight2-empathy)       | Water   | Gabriel   | Miseria     | ???   | West      | Gardian Tears                       |
-| 3. [Purpose](insight3-purpose)       | Fire    | Michael   | Vanth       | ???   | South     | Abramelin's Candle Of Eternal Tears |
-| 4. [Vision](insight4-vision)         | Earth   | Uriel     | The Babylon | ???   | North     | Golden Raspberry                    |
+| Insight                              | Element | Archangel | Omen        | Curse | Direction | Relic                               | Symbol                                                    |
+|--------------------------------------|---------|-----------|-------------|-------|-----------|-------------------------------------|-----------------------------------------------------------|
+| 1. [Connection](insight1-connection) | Air     | Raphael   | Pan         | ???   | East      | Pan's Flute                         | Triangle with a horizontal line in the middle             |
+| 2. [Empathy](insight2-empathy)       | Water   | Gabriel   | Miseria     | ???   | West      | Guardian Tears                      | Upside down triangle                                      |
+| 3. [Purpose](insight3-purpose)       | Fire    | Michael   | Vanth       | ???   | South     | Abramelin's Candle Of Eternal Tears | Triangle                                                  |
+| 4. [Vision](insight4-vision)         | Earth   | Uriel     | The Babylon | ???   | North     | Golden Raspberry                    | Upside down triangle with a horizontal line in the middle |
 
 While the Omens are mentioned in the files, the curses they bring are not.
 
@@ -147,12 +147,27 @@ The [Archangels](../characters/characters#the-archangels):
 - [Michael](../characters/michael)
 - [Uriel](../characters/uriel)
 
-The [Omens](../characters/characters#omens)
+The [Omens](../characters/characters#omens):
 
 - [Pan](../characters/pan)
 - [Miseria](../characters/miseria)
 - [Vanth: Prince(ss) Of Death](../characters/vanth)
 - [The Babylon](../characters/babylon)
+
+The [Band](../characters/characters#band-members):
+
+- [Syko](../characters/syko)
+- [Pickles](../characters/pickles)
+- [Madman](../characters/madman)
+- [Vegan](../characters/vegan)
+
+Related file:
+
+- [Selene's map](../for-sof/selenes_map)
+
+Related lore:
+
+- [The Relics](booklet#page-023)
 
 Related music:
 
