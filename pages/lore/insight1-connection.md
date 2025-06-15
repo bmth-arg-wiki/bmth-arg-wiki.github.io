@@ -14,7 +14,7 @@ next_text: "INSIGHT2.DOC"
 
 # Insight 1: Connection (INSIGHT1.DOC)
 
-> Manifest Divine Harmony
+> *Manifest Divine Harmony*
 
 Connection is the first of the four insights that we will need to master according to the documents in 
 the [FOR SOF folder](../for-sof/for-sof#for-sof). It was among the very first unlockable files.
@@ -90,8 +90,8 @@ A spectrogram of the song [Top 10 staTues tHat CriEd bloOd](../music/song-top10)
 >
 > By challenging ingrained beliefs and conditioning, individuals can cultivate empathy, authenticity, 
 > and a willingness to embrace vulnerability, thus forging deeper connections with others.
->
-> (Transcription by @elliecoptaaa on Discord, formatting by Alec)
+
+(Transcription by @elliecoptaaa on Discord, formatting by Alec)
 
 ***
 

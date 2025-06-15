@@ -10,7 +10,7 @@ previous_text: "msgforsoff.aiff"
 next: "lore/insight1-connection"
 next_text: "INSIGHT1.DOC"
 ---
-# The Four Insights
+# *The Four Insights*
 
 > As Above So Below
 
