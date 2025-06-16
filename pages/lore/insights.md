@@ -3,7 +3,9 @@ title: "The Four Insights"
 description: "An overview of all four insights: connection, empathy, purpose, and vision."
 categories: ["lore", "for-sof"]
 tags: ["insights", "connection", "empathy", "purpose", "vision", "youtopia", 
-       "for sof", "archangels", "omens", "pan", "miseria", "vanth", "babylon", "raphael", "gabriel", "uriel", "michael", "selene"]
+       "for sof", "archangels", "omens", "pan", "miseria", "vanth", "babylon", "raphael", "gabriel", "uriel", "michael", 
+       "selene", "syko", "madman", "vegan", "pickles", "pan's flute", "guardian tears", "abramelin's candle of eternal light", 
+       "golden raspberry", "sof", "relics"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/insights-300x300.png"
 previous: "for-sof/msgforsof"
 previous_text: "msgforsoff.aiff"

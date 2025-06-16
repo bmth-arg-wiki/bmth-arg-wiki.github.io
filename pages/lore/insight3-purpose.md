@@ -1,9 +1,10 @@
 ---
-title: "Purpose"
-description: "Purpose is the third insight, linked to Michael, Vanth and Pickles."
+title: "Insight 3: Purpose"
+description: "Purpose is the third insight to reach Youtopia.
+It is linked to Michael, Vanth and Abramelin's Candle Of Eternal Light."
 categories: ["lore", "for-sof"]
 tags: ["insights", "purpose", "youtopia", "for sof", "michael", "vanth", "pickles", 
-       "south", "red"]
+       "south", "red", "abramelin's candle of eternal light"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/purpose/purpose-300x300.png"
 previous: "lore/insight2-empathy"
 previous_text: "INSIGHT2.DOC"

@@ -1,7 +1,7 @@
 ---
 title: "Insight 1: Connection"
-description: "Connection is one of the insights or revelations to master in 
-the ARG, in order to ascend to Youtopia."
+description: "Connection is the first Insight or revelation to master in order to ascend to Youtopia.
+It is linked to Raphael, Pan, and Pan's flute."
 categories: ["lore", "for-sof"]
 tags: ["insights", "connection", "youtopia", "for sof", "pan", 
        "raphael", "pan's flute", "yellow", "east", "syko", "oliver sykes"]

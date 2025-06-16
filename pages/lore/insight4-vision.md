@@ -1,10 +1,10 @@
 ---
 title: "Vision"
-description: "Vision is the last insight to reach Youtopia. This insight is associated 
-with Uriel, Vegan and the golden raspberry."
+description: "Vision is the last insight to learn to get to Youtopia. It is associated 
+with Uriel, The Babylon and the Golden Raspberry."
 categories: ["lore", "for-sof"]
 tags: ["insights", "vision", "youtopia", "for sof", "uriel", "golden raspberry", 
-       "vegan"]
+       "vegan", "babylon", "green", "north"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/vision/vision-300x300.png"
 previous: "lore/insight3-purpose"
 previous_text: "INSIGHT3.DOC"

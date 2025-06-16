@@ -1,10 +1,10 @@
 ---
-title: "Empathy"
+title: "Insight 2: Empathy"
 description: "Empathy is the second insight on the way to Youtopia. 
-It is associated with band member Madman, Miseria and angel Gabriel."
+It is associated with Gabriel, Miseria, and the Guardian Tears."
 categories: ["lore", "for-sof"]
 tags: ["insights", "empathy", "youtopia", "for sof", "gabriel", "miseria", 
-       "madman", "blue", "west"]
+       "madman", "blue", "west", "guardian tears"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/empathy/empathy-300x300.png"
 previous: "lore/insight1-connection"
 previous_text: "INSIGHT1.DOC"
