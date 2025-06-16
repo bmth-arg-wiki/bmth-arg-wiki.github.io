@@ -1,7 +1,7 @@
 # bmth-arg-wiki.github.io
 
 This wiki project uses Jekyll to build pages for its wiki and GitHub for its hosting, using a custom 
-theme.   
+theme.    
 
 - [Writing for the Wiki](#writing-for-the-wiki)
 - [Developing the Wiki](#developing-the-wiki)
