@@ -6,12 +6,13 @@ tags: ["insights", "connection", "empathy", "purpose", "vision", "youtopia",
        "for sof", "archangels", "omens", "pan", "miseria", "vanth", "babylon", "raphael", "gabriel", "uriel", "michael", 
        "selene", "syko", "madman", "vegan", "pickles", "pan's flute", "guardian tears", "abramelin's candle of eternal light", 
        "golden raspberry", "sof", "relics"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/insights-300x300.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/fourinsights300x300.png"
 previous: "for-sof/msgforsof"
 previous_text: "msgforsoff.aiff"
 next: "lore/insight1-connection"
 next_text: "INSIGHT1.DOC"
 ---
+
 # *The Four Insights*
 
 > *As Above So Below*

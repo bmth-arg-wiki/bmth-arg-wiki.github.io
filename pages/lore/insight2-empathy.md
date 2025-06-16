@@ -11,6 +11,7 @@ previous_text: "INSIGHT1.DOC"
 next: "lore/insight3-purpose"
 next_text: "INSIGHT3.DOC"
 ---
+
 # Insight 2: Empathy (INSIGHT2.DOC)
 
 > *"Seraphic Expression"*
