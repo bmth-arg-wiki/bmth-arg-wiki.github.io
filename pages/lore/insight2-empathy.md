@@ -122,7 +122,7 @@ This password was obtained through the spectrogram of [n/A](../music/song-na) sh
 
 ## Read More
 
-More from [📁 FOR SOF](../for-sof)
+More from [📁 FOR SOF](../for-sof/for-sof#for-sof)
 
 The other Insights:
 
