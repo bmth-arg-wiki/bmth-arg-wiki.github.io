@@ -12,10 +12,11 @@ next_text: "INSIGHT1.DOC"
 ---
 # *The Four Insights*
 
-> As Above So Below
+> *As Above So Below*
 
 THEINSIGHTS.DOC is a file in the [FOR SOF](../for-sof/for-sof#for-sof) folder. 
-We do not know its author, but we assume that [Selene](../characters/selene) likely left these documents here for [Sof](../characters/sof).
+We do not know its author, but we assume that [Selene](../characters/selene) left it along with the other 
+insights documents here for [Sof](../characters/sof).
 
 ***
 
@@ -47,7 +48,7 @@ The message is hidden at minute 3:48.
 
 !["Master the 4 insights"](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/empathy/img_2.png)
 
-More [spectrograms](../music/spectrograms) related each insight were found in the following songs:
+More [spectrograms](../music/spectrograms) related to each insight were found in the following songs:
 
 - [Top 10 staTues tHat CriEd bloOd](../music/song-top10) (Connection)
 - [n/A](../music/song-na) (Empathy)
@@ -117,10 +118,10 @@ A fifth element was also referenced on Bring Me The Horizon's Instagram story:
 The pentagram that often occurs in the ARG also shows five elements, being: 
 water, earth, fire, air, and **spirit**. 
 
-![Symbolism on Oli's jacket](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/oli_costume_spirit.png)
-
 The Dreamseeker Tour jacket Oli wore during the European leg contains several symbolic references, 
 including a pentagram with the four triangles and the symbol for spirit. 
+
+![Symbolism on Oli's jacket](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/oli_costume_spirit.png)
 
 ***
 
