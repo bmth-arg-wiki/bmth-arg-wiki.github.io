@@ -62,7 +62,7 @@ Please explore their articles for further details.
 
 ***
 
-## Document contents
+## Document Contents
 
 ### Gallery
 
