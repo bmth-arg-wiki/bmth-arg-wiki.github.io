@@ -14,7 +14,7 @@ next_text: "INSIGHT3.DOC"
 
 # Insight 2: Empathy (INSIGHT2.DOC)
 
-> *"Seraphic Expression"*
+> *Seraphic Expression*
 
 Empathy is the second insight we learn about in the [FOR SOF folder](../for-sof/for-sof#for-sof).
 
@@ -57,7 +57,7 @@ The hint for this insight was found in a spectrogram of the song [n/A](../music/
 
 ## Transcription
 
-> ### EMPATHY: Seraphic Expression 
+> ### EMPATHY | Seraphic Expression 
 >
 > Element: Water
 >
@@ -97,7 +97,7 @@ The hint for this insight was found in a spectrogram of the song [n/A](../music/
 
 ## Additional Information
 
-The West of [Youtopia](youtopia) according to [Selene's map](../for-sof/selenes_map).
+The West of [Youtopia](youtopia) according to [Selene's map](../for-sof/selenes_map):
 
 ![Empathy on Selene's map](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/empathy/empathy-selenes-map.png)
 

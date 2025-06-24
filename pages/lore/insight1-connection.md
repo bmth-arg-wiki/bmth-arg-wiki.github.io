@@ -58,7 +58,7 @@ A spectrogram of the song [Top 10 staTues tHat CriEd bloOd](../music/song-top10)
 
 ## Transcription
 
-> ### CONNECTION: Manifest Divine Harmony
+> ### CONNECTION | Manifest Divine Harmony
 >
 > Element: Air
 > 
@@ -99,11 +99,11 @@ A spectrogram of the song [Top 10 staTues tHat CriEd bloOd](../music/song-top10)
 
 The East region of [Youtopia](youtopia) according to [Selene's map](../for-sof/selenes_map):
 
-![A beautiful mistake, written on Selene's map](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/connection/raphael-selenes-map.png)
+![Connection on Selene's map](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/connection/raphael-selenes-map.png)
 
 Insight 1 is also associated with [Syko](../characters/syko).
 
-![Band card with Syko for connection](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/band-cards.png)
+![Band cards with Syko for connection](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/band-cards.png)
 
 ***
 
