@@ -14,39 +14,43 @@ next_text: "CAPSLOCK.DOC"
 
 # Insight 4: Vision
 
-> *"Symphony of Sight"*
+> *Symphony of Sight*
 
-The last insight in the numbered order is Vision. Its spectrogram was found in the song 'DIg It'. 
-While the official BMTH Discord server has channels for connection, empathy and purpose, the channel 
-for the last insight (vision) has been named "creativity".
+Vision is the fourth and last insight we need to understand to reach [Youtopia](youtopia) 
+in accordance to the files in the [FOR SOF](../for-sof/for-sof#for-sof) folder.
 
 ***
 
 ## About
 
-This was one of the first documents, seemingly available to unlock right from release without a password.
+The fourth insight urges us to be creative and think outside the box, 
+both of which requiring resilience and perseverance. 
+Progress stems from rejecting the norms, pushing boundaries, and not caring about the judgement from others. 
+It advises us to let go of fear and embarrassment in order to pursue our vision.
+
+Its associations are:
+
+- Element: Earth
+- Archangel: [Uriel](../characters/uriel)
+- Omen: [The Babylon](../characters/babylon)
+- Curse: ???
+- Direction: North
+- Relic: [Golden Raspberry](booklet#page-023)
+- Symbol: Upside down triangle with a horizontal line in the middle
 
 ***
 
-## Associations
+## Spectrogram
 
-- Song: **DIg It**
-- Archangel: [Uriel](../characters/uriel)
-- Omen: [The Babylon](../characters/babylon)
-- Direction: North
-- Relic: Golden Raspberry
+The path towards this last insight was found in a spectrogram of the song [DIg It](../music/song-digit).
 
-![Region on Selene's map](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/vision/vision-selenes-map.png)
-
-From Selene's map
-
-![Band card with Vegan and vision logo](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/band-cards.png)
-
-Insight 4 is also associated with [Vegan](../characters/vegan).
+![vision spectrogram dig it](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/vision/vision_spectrogram.png)
 
 ***
 
 ## Document contents
+
+### Gallery
 
 {% include gallery.html folder="lore/insights/vision/gallery" %}
 
@@ -54,37 +58,54 @@ Insight 4 is also associated with [Vegan](../characters/vegan).
 
 ## Transcription
 
-> ## VISION: SYMPHONY OF SIGHT 
+> ### VISION | Symphony Of Sight
 >
-> **ELEMENT**: EARTH
+> Element: Earth
 > 
-> **ARCHANGEL**: URIEL
+> Archangel: Uriel
 > 
-> **OMEN**: THE BABYLON
+> Omen: The Babylon
 > 
-> **DIRECTION**: NORTH
+> Direction: North
 > 
-> **RELIC**: GOLDEN RASPBERRY
-> 
-> **BAND MEMBER**: VEGAN
+> Relic: Golden Raspberry
 >
 > This insight is deeply connected to the ideal of creativity, particularly in the context of daring to think differently. 
 >
-> Having a vision often requires individuals to take risks, challenge norms, and explore new ideas-all of which can invite criticism or rejection from others. By not taking things personally, individuals can free themselves of judgment and embrace their unique perspectives and ideas.
+> Having a vision often requires individuals to take risks, challenge norms, and explore new ideas-all 
+> of which can invite criticism or rejection from others. By not taking things personally, 
+> individuals can free themselves of judgment and embrace their unique perspectives and ideas.
 >
-> History is replete with examples of groundbreaking innovations and discoveries that began with someone daring to think differently. From scientific advancements to artistic masterpieces, every great achievement for mankind started with an individual who was willing to challenge conventional thinking and explore new possibilities.
+> History is replete with examples of groundbreaking innovations and discoveries that began with someone daring to think differently. 
+> From scientific advancements to artistic masterpieces, every great achievement for mankind started with an individual 
+> who was willing to challenge conventional thinking and explore new possibilities.
 >
-> When individuals shed the fear of embarrassments and pursue their creative visions, they open up new realms of possibility and potential for innovation.
+> When individuals shed the fear of embarrassments and pursue their creative visions, 
+> they open up new realms of possibility and potential for innovation.
 >
-> Denying your inner creations is tantamount to denying God. By not taking criticism or rejection personally, they are able to maintain their creative momentum and continue pushing boundaries.
+> Denying your inner creations is tantamount to denying God. By not taking criticism or rejection personally, 
+> they are able to maintain their creative momentum and continue pushing boundaries.
 >
-> The principle of creativity can play a crucial rule in saving YOUtopia by inspiring innovative solutions to the challenges it faces. In this way, this insight serves as a reminder that creativity requires resilience and a willingness to persevere in the face of adversity.
+> The principle of creativity can play a crucial rule in saving YOUtopia by inspiring innovative solutions to the challenges it faces. 
+> In this way, this insight serves as a reminder that creativity requires resilience and a willingness to persevere in the face of adversity.
 >
-> Now you have learnt the insights, its time to put them into practice.
+> Now you have learnt the insights, it's time to put them into practice.
 >
 > Good luck.
->
-> (transcription by @elliecoptaaa on discord)
+
+(Transcription by @elliecoptaaa on Discord, formatting by Alec)
+
+***
+
+## Additional Information
+
+The North region of [Youtopia](youtopia) according to [Selene's Map](../for-sof/selenes_map):
+
+![Vision on Selene's map](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/vision/vision-selenes-map.png)
+
+Insight 4 is also associated with [Vegan](../characters/vegan).
+
+![Band cards with Vegan for vision](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/band-cards.png)
 
 ***
 
@@ -96,14 +117,21 @@ Insight 4 is also associated with [Vegan](../characters/vegan).
 vision
 </details>
 
-Before the update in December 2024, this file used to be locked with a password.
-This password was obtained through a spectrogram in [DIg It](../music/song-digit).
+Before the update on December 4th 2024, this file used to be locked with a password.
+This password was obtained through the spectrogram of [DIg It](../music/song-digit) shown above.
 
 ***
 
 ## Read More
 
-More from [📁 FOR SOF](../for-sof)
+More from [📁 FOR SOF](../for-sof/for-sof#for-sof)
+
+The other insights:
+
+- [The Insights](insights)
+- [Insight 1: Connection](insight1-connection)
+- [Insight 2: Empathy](insight2-empathy)
+- [Insight 3: Purpose](insight3-purpose)
 
 Related characters:
 
@@ -111,14 +139,16 @@ Related characters:
 - [The Babylon](../characters/babylon)
 - [Vegan](../characters/vegan)
 
-Other insights:
+Related file:
 
-- [The Insights](insights)
-- [Insight 1: Connection](insight1-connection)
-- [Insight 2: Empathy](insight2-empathy)
-- [Insight 3: Purpose](insight3-purpose)
+- [Selene's Map](../for-sof/selenes_map)
+
+Related lore:
+
+- [The Relics](booklet#page-023)
+- [Youtopia](youtopia)
 
 Related music:
 
 - [Spectrograms](../music/spectrograms)
-- [DIg It](../music/song-digit) (Vision)
+- [DIg It](../music/song-digit)

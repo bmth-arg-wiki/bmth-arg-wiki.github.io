@@ -42,7 +42,7 @@ Its associations are:
 
 A spectrogram of [[ost]p.u.s.s.-e](../music/song-pusse) gave us the first look at this insight.
 
-![Spectrogram of purpose](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/purpose/purpose_spectogram.png)
+![purpose spectrogram ost pusse](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/purpose/purpose_spectogram.png)
 
 ***
 

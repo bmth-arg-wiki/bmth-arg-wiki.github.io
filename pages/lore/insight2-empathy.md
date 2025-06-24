@@ -22,7 +22,7 @@ Empathy is the second insight we learn about in the [FOR SOF folder](../for-sof/
 
 ## About
 
-This second insight prompts us to examine how we treat ourselves and each-other.
+The second insight prompts us to examine how we treat ourselves and each-other.
 It states that if we understand our emotions and experiences through a lense of compassion and expand that kindness to others, 
 we can bridge the gaps separating us all.
 Loving ourselves will lead us to nurture the empathy needed to shatter the illusion of isolation.
