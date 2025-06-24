@@ -9,7 +9,7 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/in
 previous: "lore/insight2-empathy"
 previous_text: "INSIGHT2.DOC"
 next: "lore/insight4-vision"
-next_text: "INSIGHT4.0DOC"
+next_text: "INSIGHT4.DOC"
 ---
 
 # Insight 3: Purpose (INSIGHT3.DOC)
@@ -23,7 +23,7 @@ Purpose is the third insight we get told about in the [FOR SOF](../for-sof/for-s
 ## About
 
 The third insight guides us into finding true fulfilment by using our talents as best as we can. 
-It reminds us that, by following our true calling, we can make a positive impact around us. 
+It reminds us that, by following our true calling, we can make a positive impact on the world around us. 
 Engaging in your purpose with passion will shape a better destiny and future.
 
 Its associations are:
@@ -100,12 +100,6 @@ Insight 3 is also associated with [Pickles](../characters/pickles).
 
 ***
 
-## Notable Mentions
-
-Mentions
-
-***
-
 ## Password Context
 
 <details class="password">
@@ -115,15 +109,14 @@ Mentions
 </details>
 ## Read More
 
-Before the update in December 4th 2024, this file used to be locked with a password.
+Before the update on December 4th 2024, this file used to be locked with a password.
 This password was obtained through the spectrogram of [[ost] p.u.s.s.-e](../music/song-pusse) shown above.
 
 ***
 
 ## Read More
 
-
-More from [📁 FOR SOF](../for-sof/for-sof#forsof)
+More from [📁 FOR SOF](../for-sof/for-sof#for-sof)
 
 The other Insights:
 
