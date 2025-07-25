@@ -17,7 +17,7 @@ but is most similar to an escape room game.
 
 ![Password prompt screenshot](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/emulator/escape/odd-paintings.png)
 
-The image shown seems to contain several numbers and a prompt to "Submit Answer".
+The image shown seems to contain several glowing numbers and a prompt to "Submit Answer".
 
 ## Read More
 
