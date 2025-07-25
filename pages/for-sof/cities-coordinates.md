@@ -6,6 +6,8 @@ tags: ["bmth", "nex gen", "m8", "berlin", "mexico", "sheffield"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/cities_coordinates/coordinates-300x300.png"
 previous: "for-sof/unbeleevable2"
 previous_text: "Unbeleevable Ep.2"
+next: "for-sof/artifacts"
+next_text: "Youtopia Artifacts"
 ---
 
 # Cities Coordinates
