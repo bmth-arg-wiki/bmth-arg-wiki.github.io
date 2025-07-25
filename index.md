@@ -36,7 +36,7 @@ information as much as possible and indicate whenever something is not confirmed
 The wiki has grown to over 100+ pages, growing regularly with updates from [our small team](pages/about). 
 As of July 2025, these are the newest pages you might want to check out!
 
-{% assign page_links = '/pages/for-sof/artifacts, /pages/website/emulator, /pages/website/emulator-escape' | split: ", " %}
+{% assign page_links = '/pages/for-sof/artifacts, /pages/website/idle, /pages/website/emulator-escape' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ***

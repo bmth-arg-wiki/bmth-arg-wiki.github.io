@@ -18,16 +18,18 @@ is also our character [M8](../m8). You can access it with the following link:
 
 [https://www.multidimensionalnavigator8.help/index-desktop.html](https://www.multidimensionalnavigator8.help/index-desktop.html)
 
-As of December 4th 2024, it has under-went a complete makeover as M8 was able to update herself after being connected to the [Wi-Fi](wifi).
+As of December 4th 2024, it has undergone a complete makeover as M8 was able to update herself after being connected to the [Wi-Fi](wifi).
 Here is the new look:
 
 ![An overview of the new webpage](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/new-interface.png)
+
+Please note that an additional tab was added for the [idle game](idle) in July 2025.
 
 ***
 
 ## ARG Website - Main Page
 
-{% assign page_links = '/pages/website/wifi, /pages/website/webbrowser, /pages/website/emulator, /pages/website/journal, /pages/website/website-songs, /pages/website/website-v1' | split: ", " %}
+{% assign page_links = '/pages/website/wifi, /pages/website/webbrowser, /pages/website/emulator, /pages/website/journal, /pages/website/idle, /pages/website/website-songs, /pages/website/website-v1' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ***
