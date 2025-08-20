@@ -12,19 +12,27 @@ redirect_from:
   - /pages/lore/tdw-gatekeeper.html
   - /pages/lore/tdw-gatekeeper
 ---
-# GAT3KEEPER
+# Gat3keeper
 
 > What was once the most advanced theme park in the world has now become a cautionary tale of hubris
 
-In this Daily Whisper article, we learn about horrible accidents that took place at a park called GAT3kEEPER between 2023 and 2051.
+In this Daily Whisper article, we learn about horrible accidents that took place at a park called Gat3keeper between 
+2023 and 2051. This places the time of writing somewhere in or after 2051.
+
 Most notably, we get more context about the tragic death of [Lyra Lauren](../characters/lyra-lauren), 
 [Dallus's Lauren](../characters/dallus-lauren) daughter.
+
+One of the module puzzles also reveals a [trampled plushie](../for-sof/artifacts#gat3keeper-plushie) with a tag from the theme park on it. There seem 
+to be blood stains on it. The world "trampled" indicates that it could have been involved in the Gat3keeper stampede 
+in 2051, as mentioned in this article.
 
 ***
 
 ## About
 
-This article is the first webpage that pops up once [Spyder](webbrowser) is unlocked. It was obtained on December 15th 2024.
+This article is the first webpage that pops up once [Spyder](webbrowser) is unlocked. It was obtained on December 15th 2024. 
+The 3D model of the Gat3keeper plushie was added in a puzzle on the 20th of August, revealed after solving the puzzle the 
+same day.
 
 ***
 
