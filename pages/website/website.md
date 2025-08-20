@@ -29,7 +29,16 @@ Please note that an additional tab was added for the [idle game](idle) in July 2
 
 ## ARG Website - Main Page
 
-{% assign page_links = '/pages/website/wifi, /pages/website/webbrowser, /pages/website/emulator, /pages/website/journal, /pages/website/idle, /pages/website/website-songs, /pages/website/website-v1' | split: ", " %}
+{% assign page_links = '/pages/website/wifi, /pages/website/webbrowser, /pages/website/journal, /pages/website/idle, /pages/website/website-songs, /pages/website/website-v1' | split: ", " %}
+{% include page-card-gallery.html links=page_links %}
+
+***
+
+## Emulator
+
+The emulator contains several games from the world of Post Human!
+
+{% assign page_links = '/pages/website/emulator, /pages/website/emulator-screamstar, /pages/website/emulator-escape, /pages/website/m8mobile' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ***
@@ -103,8 +112,7 @@ the web.
 The buttons on the new dashboard are virtually the same as the old ones, their main difference being their design 
 and placement. They are now in the top right corner of the website.
 
-There is also an `Emulator` button that looks like a controller in the middle of the page.
-It leads to [ScreamStar](https://www.scream-star.com/).
+There is also an [emulator](emulator) section, which allows you to play different games.
 
 ***
 
