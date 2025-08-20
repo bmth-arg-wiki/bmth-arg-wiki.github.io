@@ -35,8 +35,6 @@ updated added some changes to the [painting puzzle](../website/emulator-escape),
 the community to solve this puzzle too. The new artifacts are a prosthetic finger, a trampled 
 plushie and sandpit turtle.
 
-{% include gallery.html folder="files/artifacts/empty" %}
-
 Our preferred strategy to solve the puzzles is to label each piece with a number. Start at piece 1, then
 keep track of which piece you are on while clicking. Click on the 'password' tabs to reveal the correct order.
 
