@@ -12,6 +12,11 @@ icon="fa-solid fa-heart"
 content="Welcome to the styling page! This is just for reference."
 %}
 
+{% include content/danger.html
+title="Trigger Warning"
+content="This article deals with triggering topics, like X."
+%}
+
 This page should contain all styling used in the Wiki, for testing and design purposes. :)
 
 ## Buttons
