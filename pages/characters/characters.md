@@ -28,7 +28,7 @@ important names and how the characters relate to each other.
 Additionally, there are characters not listed on [M8](../m8). For example because they were 
 mentioned in documents, or revealed in [Sof](sof)'s [journal](../website/journal.md).
 
-{% assign page_links = '/pages/characters/sof, /pages/characters/victor-carmine, /pages/characters/elias-mortem, /pages/characters/skys, /pages/characters/dallus-lauren, /pages/characters/rebecca, /pages/characters/medea, /pages/characters/angeldust, /pages/characters/lee-md' | split: ", " %}
+{% assign page_links = '/pages/characters/sof, /pages/characters/victor-carmine, /pages/characters/elias-mortem, /pages/characters/skys, /pages/characters/dallus-lauren, /pages/characters/rebecca, /pages/characters/medea, /pages/characters/ava, /pages/characters/angeldust, /pages/characters/lee-md' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ### Ava & Angel Strassman
