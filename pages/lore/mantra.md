@@ -45,10 +45,14 @@ At some point he then picked up a guitar and his band got somewhat successful.
 
 ![Sof on Project Kingslayer in her journal](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/mantra/kingslayer_sof_journal.png)
 
-The cult of Mantra was also responsible for Project Kingslayer, which caused people psychological and physical harm
-in order to access hidden dimensions and manipulate dark matter, according to [Project D.U.S.T.](../for-sof/project_dust).
+The cult of Mantra was also responsible for [Project Kingslayer](incident-kingslayer), which caused people psychological 
+and physical harm to access hidden dimensions and manipulate dark matter, according to the 
+[Project D.U.S.T. proposal](../for-sof/project_dust). [Unbeleevable 3](../for-sof/unbeleevable3) 
+reveals that Project Kingslayer started in 2015 with Skys' loyal follower [Alfgram](../characters/alfgram) as its 
+patient zero.
+
 It is stated that the Mantra cult was able to fend off hundreds of troops, seemingly using a psychological weapon like
-the [mares](mares) to paralyze the troops with fear.
+the [mares](mares) to paralyse the troops with fear. This project was the source of the cult's powers.
 
 ### Fall of the Cult
 

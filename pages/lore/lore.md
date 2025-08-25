@@ -19,6 +19,13 @@ This overview contains links for different lore pages, including sources posted 
 
 ***
 
+## Important Events
+
+{% assign page_links = '/pages/lore/incident-kingslayer, /pages/lore/operation-trinity, /pages/lore/incident-dust, /pages/lore/vspr37, /pages/lore/incident-chapel' | split: ", " %}
+{% include page-card-gallery.html links=page_links %}
+
+***
+
 ## Organisations
 
 {% assign page_links = '/pages/lore/mantra, /pages/lore/church, /pages/lore/nex-gen-corporation, /pages/lore/archive, /pages/lore/ecliptism, /pages/lore/genesis-storyline' | split: ", " %}

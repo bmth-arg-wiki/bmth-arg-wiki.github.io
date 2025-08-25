@@ -29,8 +29,8 @@ the boss at [ARC/HIVE](../lore/archive) and the re-branded company as [Nex Gen C
 
 ## About
 
-This file was added in an update on 19/06/2024 and the password was found on the same day. This document 
-confirmed that one of the system users was involved in the so-called Trinity.
+This file was added in an update on the 19th of June 2024, and the password was found on the same day. This document 
+confirmed that one of the system users, Strassman, was involved in the so-called Trinity.
 
 ***
 
@@ -123,10 +123,12 @@ Related files:
 - [Project D.U.S.T.](project_dust)
 - [Unbeleevable Episode 1](unbeleevable)
 - [Unbeleevable Episode 2](unbeleevable2)
+- [Unbeleevable Episode 3](unbeleevable3)
 - [LBR sites letter](lbr_sites)
 - [Dallus' Diary](dallus-diary)
 - [Skys' Diary](skys-diary)
 - [Second Grumblr entry](grumblr2)
+- [Victor Carmine Interview](carmine_interview)
 
 Related articles:
 

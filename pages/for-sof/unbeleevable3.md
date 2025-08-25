@@ -6,6 +6,8 @@ tags: ["unbeleevable", "lee", "nex gen"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/unbeleevable3/unbeleevable3-300x300.png"
 previous: "for-sof/artifacts"
 previous_text: "Artifacts (Module Puzzles)"
+next: "for-sof/victor_interview"
+next_text: "Victor's Interview"
 ---
 
 # Unbeleevable Episode 3
