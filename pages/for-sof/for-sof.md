@@ -53,7 +53,9 @@ first visits to [Youtopia](../lore/youtopia).
 The chapel document was released on the website for the September 26th pre-update, before disappearing with the Dec. 4th 2024 update; 
 while the Selene document was never even put there. They are both considered missing.
 
-{% assign page_links = '/pages/for-sof/selene_youtopia_doc, /pages/for-sof/chapel' | split: ", " %}
+[Unbeleevable 3](unbeleevable3) has not been unlocked on the ARG webpage, but the video is already available on YouTube.
+
+{% assign page_links = '/pages/for-sof/selene_youtopia_doc, /pages/for-sof/chapel, /pages/for-sof/unbeleevable3' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ***
