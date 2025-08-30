@@ -8,6 +8,8 @@ tags: ["bmth", "arg", "slider", "module", "puzzle", "youtopia", "artifacts", "re
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/refs/heads/main/files/artifacts/vex-bear-300x300.png"
 previous: "for-sof/cities-coordinates"
 previous_text: "Cities Coordinates"
+next: "for-sof/unbeleevable3"
+next_text: "Unbeleevable (Jigsaw Puzzle)"
 ---
 
 # Module Puzzle Artifacts
