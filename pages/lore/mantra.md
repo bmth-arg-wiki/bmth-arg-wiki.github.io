@@ -43,13 +43,17 @@ At some point he then picked up a guitar and his band got somewhat successful.
 
 ### Project Kingslayer
 
+[Project Kingslayer](incident-kingslayer) was a project to gain ancient power through ritualistic torture. 
+[Unbeleevable 3](../for-sof/unbeleevable3) reveals that Project Kingslayer started in 2015 with 
+[Skys](../characters/skys)' loyal follower [Alfgram](../characters/alfgram) as its patient zero.
+
+[Ecliptism](ecliptism) formed the core beliefs of the cult, and their [Book of Eclipse](../for-sof/book-of-eclipse) 
+describes some of the seven rituals the cult ended up practicing to achieve purity for enlightenment.
+
 ![Sof on Project Kingslayer in her journal](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/mantra/kingslayer_sof_journal.png)
 
-The cult of Mantra was also responsible for [Project Kingslayer](incident-kingslayer), which caused people psychological 
-and physical harm to access hidden dimensions and manipulate dark matter, according to the 
-[Project D.U.S.T. proposal](../for-sof/project_dust). [Unbeleevable 3](../for-sof/unbeleevable3) 
-reveals that Project Kingslayer started in 2015 with Skys' loyal follower [Alfgram](../characters/alfgram) as its 
-patient zero.
+[Project D.U.S.T. proposal](../for-sof/project_dust) is [Victor Carmine](../characters/victor-carmine)'s 
+continuation of the project, after gaining access to insider cult knowledge through [Operation Trinity](operation-trinity).
 
 It is stated that the Mantra cult was able to fend off hundreds of troops, seemingly using a psychological weapon like
 the [mares](mares) to paralyse the troops with fear. This project was the source of the cult's powers.
@@ -104,18 +108,17 @@ but it can be viewed on the [wayback machine](https://web.archive.org/web/201904
 
 ## Read More
 
-Related music:
-
-- [Mantra](../music/amo-mantra)
-- [Sugar Honey Ice and Tea](../music/amo-shit)
-- [In the Dark](../music/amo-in-the-dark) (Unconfirmed)
-
 Related characters:
 
 - [Skys](../characters/skys)
+- [Alfgram](../characters/alfgram)
 - [Karl Strassman](../characters/strassman)
 - [Dallus Lauren](../characters/dallus-lauren)
-- [Rebecca Sinclair](../characters/rebecca)
+- [Ikaro (Ren) Lauren](../characters/ren)
+- [Ava](../characters/ava)
+- [Medea](../characters/medea)
+- [Victor Carmine](../characters/victor-carmine)
+- [Dr. Elias Mortem](../characters/elias-mortem)
 
 Related files:
 
@@ -126,3 +129,20 @@ Related files:
 - [Unbeleevable Episode 2](../for-sof/unbeleevable2)
 - [The Science Study newspaper](../for-sof/thesciencestudy)
 - [Dreadit post](../for-sof/dreadit)
+
+Related lore:
+
+- [Project Kingslayer](incident-kingslayer)
+- [Ecliptism](ecliptism)
+- [Mares](mares)
+- [Novosovia](novosovia)
+- [Operation Trinity](operation-trinity)
+- [DTC](dtc)
+- [Project D.U.S.T.](incident-dust)
+- [New Elysium](new-elysium)
+
+Related music:
+
+- [Mantra](../music/amo-mantra)
+- [Sugar Honey Ice and Tea](../music/amo-shit)
+- [In the Dark](../music/amo-in-the-dark)
