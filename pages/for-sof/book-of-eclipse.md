@@ -14,7 +14,8 @@ next_text: "Unbeleevable Ep.2"
 
 > “In suffering, I am free; in shadow, I find light. Seek the darkness, for it is the face of all truth."
 
-The book of Eclipse is a mysterious file detailing the history of Alfgram, [Skys](../characters/skys), and the Children of the Eclipse.
+The book of Eclipse is a mysterious file detailing the history of [Alfgram](../characters/alfgram), [Skys](../characters/skys), 
+and the Children of the Eclipse.
 
 ***
 
@@ -250,11 +251,17 @@ It is locked behind a mathematics puzzle in the inventory folder.
 >
 > The Shadowed Grove (The Pure 6:1 – 6:7)
 >
-> 6:1 Alfgram and his followers found refuge in hidden groves and caves, where shadows wrapped around them like a cloak. Here, they prepared their souls, for Alfgram had seen in visions that Skys would not relent until all who followed him lay in dust.
+> 6:1 Alfgram and his followers found refuge in hidden groves and caves, where shadows wrapped around them 
+> like a cloak. Here, they prepared their souls, for Alfgram had seen in visions that Skys would not relent 
+> until all who followed him lay in dust.
 >
-> 6:4 When Skys and his loyalists arrived, they stood across from the Ecliptics, divided by the chasm of truth and pride. Alfgram net Skys’s gaze, and in the silence, they both knew what lay between them: a brotherhood, shattered by pride and ambition.
+> 6:4 When Skys and his loyalists arrived, they stood across from the Ecliptics, divided by the chasm of 
+> truth and pride. Alfgram net Skys’s gaze, and in the silence, they both knew what lay between them: 
+> a brotherhood, shattered by pride and ambition.
 >
-> 6:7 Skys spoke first, his voice lash, saying, “Bow to me, Alfgram, and mercy may yet be yours,” But Alfgram’s voice wad steady. “You are lost, Skys, a slave to the very illusions we sought to destroy. I bow to no false prophet. Death is but a door, and I shall walk unharmed.”
+> 6:7 Skys spoke first, his voice lash, saying, “Bow to me, Alfgram, and mercy may yet be yours,” 
+> But Alfgram’s voice wad steady. “You are lost, Skys, a slave to the very illusions we sought to destroy. I 
+> bow to no false prophet. Death is but a door, and I shall walk unharmed.”
 >
 > [Abstract faded drawing]
 
@@ -321,10 +328,16 @@ Transcription by Alec
 <details class="password">
   <summary>Password</summary>
 
-3632650773148
+Start at 63 (one end of the loop) and note all the numbers : 638411796291
+Start at 57 (another end of the loop) and note all the numbers : 5761023143
+The eye is looking at a - symbol : you have to do 638411796291 - 5761023143
+Password is 3632650773148
+
+Puzzle solution written by Astra
 </details>
 
-This password requires some maths.
+This password is hidden behind a puzzle with the scissors logo. It involves a spinning 
+3D object with numbers on it. This is a math puzzle.
 
 ***
 
@@ -335,16 +348,28 @@ More [files](for-sof)!
 Related characters:
 
 - [Skys](../characters/skys)
+- [Alfgram](../characters/alfgram)
+- [Karl Strassman](../characters/strassman)
+- [Dallus Lauren](../characters/dallus-lauren)
+- [Ava](../characters/ava)
 
 Related files:
 
+- [Skys & the Starjammers poster](skystarjammers)
 - [Skys' diary](skys-diary)
-- [Unbelevable Episode 1](unbeleevable)
-- [Unbelevable Episode 2](unbeleevable2)
+- [Unbeleevable Episode 1](unbeleevable)
+- [Unbeleevable Episode 2](unbeleevable2)
+- [Unbeleevable Episode 3](unbeleevable3)
 
-Other puzzle files:
+Other puzzle files released around this time:
 
 - [Skys' diary](skys-diary)
 - [Grumblr second entry](grumblr2)
 - [Unbeleevable episode 2](unbeleevable2)
 - [Cities coordinates](cities-coordinates)
+
+Related lore:
+
+- [Cult of Mantra](../lore/mantra)
+- [Novosovia](../lore/novosovia)
+- [Ecliptism](../lore/ecliptism)
