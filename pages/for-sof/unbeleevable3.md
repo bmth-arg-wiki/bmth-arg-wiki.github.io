@@ -77,21 +77,33 @@ Before the original video dropped, a premiere was uploaded to YouTube with a tra
 > 
 > [Community Resource Analog Programming intro screen]
 > 
-> Lee: “Every picture tells a story, but some stories are better off left undeveloped. You see, despite the negative press, things are really starting to click into place for Skys and his cult. But now, Medea is in the frame. Soon, the raw, unfiltered truth will be exposed. So, before it all becomes a blur, let’s focus on the bigger picture. But be warned, this one’s turning into something dark… Room.”
+> Lee: “Every picture tells a story, but some stories are better off left undeveloped. You see, despite the 
+> negative press, things are really starting to click into place for Skys and his cult. But now, Medea is in the 
+> frame. Soon, the raw, unfiltered truth will be exposed. So, before it all becomes a blur, let’s focus on the bigger 
+> picture. But be warned, this one’s turning into something dark… Room.”
 >
 > [Unbeleevable intro]
 >
-> Lee: “They say behind every great man is a woman cleaning up his mess! Now, while I find that viewpoint sexist, I can also tell you, it’s not entirely true. Cos some girls just want to start shit. And this little lady is about to come it and lay a hot stinking trout right on the rug.
+> Lee: “They say behind every great man is a woman cleaning up his mess! Now, while I find that viewpoint sexist, 
+> I can also tell you, it’s not entirely true. Cos some girls just want to start shit. And this little lady is about to 
+> come it and lay a hot stinking trout right on the rug.
 >
-> “Meet Medea, Skys’ first true love and future mother to two of his supposedly many offspring. Player… For Skys, it was love at first sight, but sometimes love is the knife that cuts the deepest, leaving eternal wounds that bleed into the shadows of your existence. [Sniffles] Belinda you b*tch…
+> “Meet Medea, Skys’ first true love and future mother to two of his supposedly many offspring. Player… For Skys, it 
+> was love at first sight, but sometimes love is the knife that cuts the deepest, leaving eternal wounds that bleed 
+> into the shadows of your existence. [Sniffles] Belinda you b*tch…
 >
-> “It’s 2015, and the cult of MANTRA is poppin off. Their influence is spreading like crabs around a rough bird’s pubes, and despite the scientist’s concerns over Skys’ batshit project KINGSLAYER, they were allegedly breaking new ground in the neo-spiritual world. Whatever that is. With some slap-head called Alfgram acting as patient zero. I just spat then. Leaked audio caught on tape reveals Alfgram boasting that he can wield dark energies and traverse into different realities. Honestly, where do they find them?
+> “It’s 2015, and the cult of MANTRA is poppin off. Their influence is spreading like crabs around a rough bird’s pubes, 
+> and despite the scientist’s concerns over Skys’ batshit project KINGSLAYER, they were allegedly breaking new ground 
+> in the neo-spiritual world. Whatever that is. With some slap-head called Alfgram acting as patient zero. 
+> I just spat then. Leaked audio caught on tape reveals Alfgram boasting that he can wield dark energies and traverse 
+> into different realities. Honestly, where do they find them?
 >
 > [Tape player clicks]
 >
 > [Leaked audio:]
 >
-> Alfgram: “I am a master of entering voids no other man could. Reality has a backdoor, you simply need to know how to slide in. It can be painful at first, blackholes may rupture in the process, but it’s all worth it for the eruption of ancient power that can bring even the most experiences men to their knees, begging for release.”
+> Alfgram: “I am a master of entering voids no other man could. Reality has a backdoor, you simply need to know 
+> how to slide in. It can be painful at first, blackholes may rupture in the process, but it’s all worth it for the eruption of ancient power that can bring even the most experiences men to their knees, begging for release.”
 >
 > [Leaked audio ends. Cut back to Lee]
 >
