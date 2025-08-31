@@ -51,11 +51,12 @@ document folders that were handed out and hidden around the shops contained a do
 first visits to [Youtopia](../lore/youtopia).
 
 The chapel document was released on the website for the September 26th pre-update, before disappearing with the Dec. 4th 2024 update; 
-while the Selene document was never even put there. They are both considered missing.
+while the Selene document was never even put there. They are both missing from the website currently.
 
-[Unbeleevable 3](unbeleevable3) has not been unlocked on the ARG webpage, but the video is already available on YouTube.
+[The city coordinates](cities-coordinates) and [Wi-Fi password](../website/wifi) were both found with the required community 
+effort and are still active on the website as of August 2025.
 
-{% assign page_links = '/pages/for-sof/selene_youtopia_doc, /pages/for-sof/chapel, /pages/for-sof/unbeleevable3' | split: ", " %}
+{% assign page_links = '/pages/for-sof/selene_youtopia_doc, /pages/for-sof/chapel' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ***
