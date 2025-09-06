@@ -110,7 +110,7 @@ An analysis in simpler English can be found [here](analysis/lauren_d8_log_analys
 >
 > Ikaro Lauren: *(stunned silence)*
 >
-> +You…that’s impossible…you are not equipped with the necessary nanas, not to mention…+
+> +You…that’s impossible…you are not equipped with the necessary nanos, not to mention…+
 >
 > EVE:
 >
