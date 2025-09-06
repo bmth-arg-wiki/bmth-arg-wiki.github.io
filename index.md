@@ -59,8 +59,8 @@ linked in these overview pages.
 {% include content/info.html
 title="Still updating..."
 icon="fa-solid fa-info"
-content="We are currently working on a new 'website' category, finishing up our character articles, and 
-we've added lots of [lore](pages/lore/lore) to explore!"
+content="Our characters page was recently edited and currently a good place to start reading! You can 
+join us on [Discord](https://discord.com/invite/6arw5eWg9x) for updates on the ARG and wiki."
 %}
 
 There is a lot going on in this ARG! We get it if you are overwhelmed. 
@@ -78,10 +78,9 @@ but it's best to start with the new material first!
 
 The [webpage](https://www.multidimensionalnavigator8.help/index-desktop.html) for the ARG can be found 
 provides the bulk of what we know about the Nex Gen lore.
-The wiki also covers [the webpage](pages/website/website) 
-itself and the different software on it.
-The serial number on the side of M8's head on the album cover 
-is the code you will need to get into the website.
+
+The wiki also covers [the webpage](pages/website/website) itself and the different software on it.
+The serial number on the side of M8's head on the album cover is the code you will need to get into the website: 93934521.
 
 ![Image of band cards included with certain physical releases.](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/band-cards.png)
 
@@ -92,7 +91,7 @@ are happening. BMTH also post ARG- and Nex Gen-related posts on their [Instagram
 [Twitter](https://x.com/bmthofficial), [YouTube](https://www.youtube.com/@BMTHOfficialVEVO), [Facebook](https://www.facebook.com/bmthofficial/) 
 and [Discord](https://discord.com/invite/bmthofficial). We include some of these posts in the various articles where relevant.
 
-Some [other webpages](pages/other-webpages) have also been linked or are theorized to link to this ARG, 
+Some [other webpages](pages/other-webpages) have also been linked or are theorised to link to this ARG, 
 they are discussed in their own article. This includes the secret [genxsis.faith](https://genxsis.faith) cult website, 
 the [Mantra](https://joinmantra.org) website and [dungeoncrawl33r](https://dungeoncrawl33r.com), which some barcodes 
 on the posters point to.
