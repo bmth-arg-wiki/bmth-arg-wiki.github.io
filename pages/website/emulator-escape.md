@@ -31,7 +31,7 @@ The numbers 3, 7, 1, 5, 4, 1, 5, 7, 9, 7, 3 are hidden in the puzzle.
 </details>
 
 <details class="hint">
-  <summary>Password</summary>
+  <summary>Hint 2</summary>
 
 The numbers are glowing in a certain order!
 </details>
