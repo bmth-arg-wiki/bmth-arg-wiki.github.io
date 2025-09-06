@@ -141,7 +141,7 @@ An analysis in simpler English can be found [here](analysis/lauren_d8_log_analys
 >
 > The genesis of EVE presents a remarkable confluence of advanced AI and human emotional complexity.
 >
-> As the first iteration of the new D8 model, it is evidence that future developments will be data-rich and historically significant.
+> As the first iteration of the new D8 model, it is evident that future developments will be data-rich and historically significant.
 >
 > **Prognosis:** High potential for critical incidents. In non-standard operational terminology, shit’s gonna hit the fan. And to deviate further from my primary parameters, I suggest Dr. Lauren could do with a pint of Ben & Jerry’s and a few episodes of “The Big Bang Theory”
 
