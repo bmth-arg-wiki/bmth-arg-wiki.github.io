@@ -37,15 +37,20 @@ booklet as a reminder that one shouldn't take themselves too seriously. It symbo
 
 ## Read More
 
-Back to [characters](characters). 
+Also check out our [interactive map of Youtopia](../map)
 
 Related characters:
 
 - [Vegan](vegan)
 - [Selene](selene)
 
-Related omens:
+Other omens:
 
 - [Pan](pan)
 - [Miseria](miseria)
 - [Vanth](vanth)
+
+Related lore:
+
+- [Insights](../lore/insights)
+- [Insight 4: Vision](../lore/insight4-vision)

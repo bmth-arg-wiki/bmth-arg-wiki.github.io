@@ -50,3 +50,4 @@ Related files:
 - [Unbeleevable Episode 2](../for-sof/unbeleevable2)
 - [Unbeleevable Episode 3](../for-sof/unbeleevable3)
 - [Russian Poem](../for-sof/russianpoem)
+- [Dallus' 2021 Diary](../for-sof/dallus-diary)
