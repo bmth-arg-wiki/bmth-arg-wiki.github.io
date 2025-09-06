@@ -46,6 +46,7 @@ More [characters](characters)!
 
 Related lore:
 
+- [The Insights](../lore/insights)
 - [Insight 2: Empathy](../lore/insight2-empathy)
 - [YOUtopia](../lore/youtopia)
 
