@@ -11,9 +11,10 @@ previous_text: "15. DiE4u"
 > i hate my fucking guts right now
 
 DIg It is the final song on the album. It contains dialogue and hints from M8 after a 
-period of silence (93 seconds). [Insight 4: Vision](../lore/insight4-vision) can be found 
-in the [spectrogram](spectrograms), as well as the [QR code](../website/website#qr-code) that lead 
-users to the webpage, starting the ARG.
+period of silence (93 seconds). Oliver also confirmed the song is about [Selene](../characters/selene) in an interview. 
+
+[Insight 4: Vision](../lore/insight4-vision) can be found in the [spectrogram](spectrograms), as well as the 
+QR code that lead users to the [webpage](../website/website), starting the ARG.
 
 ***
 
@@ -110,7 +111,7 @@ users to the webpage, starting the ARG.
 
 ## 93 second silence
 
-![img.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/spectrograms/silence93.png)
+![Spectrogram with 93 seconds of silence](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/spectrograms/silence93.png)
 
 The number 93 often appears, like in these 93 seconds of silence.
 
@@ -118,6 +119,23 @@ The number 93 often appears, like in these 93 seconds of silence.
 
 ## Read More
 
-- [POST HUMAN: NeX GEn](ph-nex-gen)
+This song also contains the QR code for the [website](../website/website).
+
+Related characters:
+
+- [Selene](../characters/selene)
+- [Sof](../characters/sof)
+- [M8](../m8)
+
+Related files:
+
+- [msgforsof](../for-sof/msgforsof)
+
+Related lore:
+
+- [The Insights](../lore/insights)
 - [Insight 4: Vision](../lore/insight4-vision)
-- [Webpage](../website/website)
+
+Related music:
+
+- [POST HUMAN: NeX GEn](ph-nex-gen)
