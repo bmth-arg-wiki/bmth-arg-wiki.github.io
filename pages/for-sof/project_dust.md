@@ -5,7 +5,7 @@ by Dr. Elias Mortem, Lead Scientist at ARC/HIVE."
 categories: ["for-sof"]
 tags: ["skys", "mantra", "trinity", "victor carmine", "arc/hive", "dust", "psy", "syko", 
        "scott", "dallus lauren", "mares", "daughter", "special six", "altilium chordata", 
-       "dreamseeker", "lead scientist", "elias mortem"]
+       "dreamseeker", "lead scientist", "elias mortem", "deaths unknown spiritual terrain", "cult"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/project_dust/dust-300x300.png"
 previous: "for-sof/tekka_interview"
 previous_text: "ISSUE-51-fromhelltoshell"
@@ -18,21 +18,29 @@ next_text: "SCISTUDYSCAN1999wrist"
 > Our primary objective centers on the development of a potent bioweapon.
 
 This file contains a research proposal from [ARC/HIVE](../music/amo-in-the-dark) 
-for several projects. The initial proposal was finished or sent on the 15th of January 2021, 
-then the document was declassified by the company re-branded Nex Gen exactly 10 years later in 2031.
+for several projects, including [D.U.S.T.](../lore/incident-dust): Deaths Unknown Spiritual Terrain. 
+
+The initial proposal for Arc/Hive was finished or sent on the 15th of January 2021, then the document was declassified by the 
+company re-branded Nex Gen exactly 10 years later in 2031.
 
 The lead scientist on this project was Dr. Elias Mortem, a scientist who was slaughtered in the [Chapel Incident](chapel) 
-in 2040, along with their team. Sof even remarks in [their journal](../website/journal.md) that this may have been a consequence 
+in 2040, along with their team. Sof even remarks in [their journal](../website/journal) that this may have been a consequence 
 of their research on Project D.U.S.T.
 
 ***
 
 ## About
 
+{% include content/info.html
+title="More lore"
+content="This article mostly covers the document as released on the website. There is also a [lore article](../lore/incident-dust) 
+that explains the story significance in more detail."
+%}
+
 This file was added along the previous issue 51 of Tekka magazine on the 25th of June 2024.
-The file contains a research proposal for [several projects](project_dust). The password
-was found in an instagram post, where the characters appeared. The last two characters were
-switched. Since December 2024, it does not require a password anymore.
+The file contains a research proposal for several projects, including [Project D.U.S.T.](../lore/incident-dust). The password
+was found in an instagram post, where the symbols for the password appeared. The last two symbols were
+switched. As of December 2024, it does not require a password anymore.
 
 ***
 
@@ -178,7 +186,7 @@ The last two sigils are switched around.
 ![Child's drawings](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/amo/inthedark/gallery/l_dallusdaughterdrawings.png)
 
 - The drawings seen from the girl in ["In The Dark"](../music/amo-in-the-dark) indicate we might see his daughter(s) there. Dallas' child is actually [Ren](../characters/ren), 
-a trans man.
+a trans man, his youngest sadly dies in a car crash in 2024.
 - The document speaks about "the special six", which may be the children we see in 
 the official [Kool-Aid](../music/song-koolaid) music video.
 
@@ -190,28 +198,45 @@ The altilium chordata tank appears in ["In The Dark"](../music/amo-in-the-dark).
 
 ## Read More
 
-More from [📁 FOR SOF](../for-sof)
+Related characters:
+
+- [Dr. Elias Mortem](../characters/elias-mortem)
+- [Skys](../characters/skys)
+- [Dallus Lauren](../characters/dallus-lauren)
+- [Elena Lauren](../characters/elena-lauren)
+- [Ikaro Lauren](../characters/ren)
+- [Lyra Lauren](../characters/lyra-lauren)
+- [Dr. Karl Strassman](../characters/strassman)
+- [Ava](../characters/ava)
+- [Victor Carmine](../characters/victor-carmine)
+- [Medea Carmine](../characters/medea)
+- [Alfgram](../characters/alfgram)
+- [Syko (acronym mentioned)](../characters/syko)
 
 Related files:
 
-- [Strassman codec](strassmancodec)
-- [Map of Youtopia](selenes_map)
-- [Lauren D8 log](lauren_d8_log)
-- [Operation Trinity](trinity_document)
-- [The Science Study](thesciencestudy)
+- [Operation Trinity Article](trinity_document)
+- [Dallus' diary](dallus-diary)
+- [The Science Study Newspaper](thesciencestudy)
 - [LBR sites letter](lbr_sites)
+- [Carmine's reconstructed interview](carmine_interview)
+- [Chapel video (speculated)](chapel)
 
-Related articles:
 
-- [Nex Gen Corporation](../lore/nex-gen-corporation)
+Related lore:
+
+- [Mantra Cult](../lore/mantra)
+- [Project Kingslayer](../lore/incident-kingslayer)
+- [Operation Trinity](../lore/operation-trinity)
 - [ARC/HIVE](../lore/archive)
-
-Related characters:
-
-- [Syko](../characters/syko)
-- [Dallus Lauren](../characters/dallus-lauren)
-- [Dr. Elias Mortem](../characters#dr-elias-mortem)
+- [Project D.U.S.T.](../lore/incident-dust)
+- [Nex Gen Corporation](../lore/nex-gen-corporation)
+- [Chapel incident (speculated)](../lore/incident-chapel)
+- [DTC](../lore/dtc)
+- [New Elysium](../lore/new-elysium)
+- [Mares](../lore/mares)
+- [Synths (speculated)](../lore/synths)
 
 Related song:
 
-- [In The Dark](../music/amo-in-the-dark)
+- [in the dark](../music/amo-in-the-dark)
