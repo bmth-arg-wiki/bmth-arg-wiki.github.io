@@ -3,7 +3,8 @@ title: "Dr. Lee MD"
 description: "Dr Lee MD is the eccentric presentator of the show Unbeleevable and a big pain in the ass for 
 Nex Gen."
 categories: ["characters"]
-tags: ["lee md", "madman", "lee malia", "bring me the horizon", "unbeleevable", "bmth"]
+tags: ["lee md", "madman", "lee malia", "bring me the horizon", "unbeleevable", "bmth", "crap", 
+       "community resource analog programming"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/lee-md/lee-300x300.png"
 ---
 
@@ -28,22 +29,27 @@ made several accurate claims that suggest access to insider information. However
 two more episodes of his show.
 
 Apart from the show, Dr. Lee MD wrote at least three articles for a news website called "The Daily Whisper". He 
-writes one [movie review](../website/tdw-redwhiteblood), as well as two articles about [synths](../lore/synths).
+writes one [movie review](../website/tdw-redwhiteblood), as well as two articles about [synths](../lore/synths). One 
+of the articles talks about synthetic [clones causing chaos](../website/tdw-clonechaos), while the other exposes the 
+[abuse of synths](../website/tdw-bloodredspectacles).
 
-He created the first episode around 2039, according to [Sof](sof)'s [journal](../website/journal). 
-According to Sof, he is an eccentric figure and his accent is not from the [DTC](../lore/dtc). She also remarks his current status is unknown and that Nex Gen may have silenced 
-him. The first episode is not received well by Nex Gen. Susan's email suggests 
-that they monitor the show, prepare a PR strategy and inform the FANTOM team. The FANTOM team is an internal operations 
-team at Nex Gen, which may need to perform a "slate wipe", according to the email.
+### Unbeleevable
+
+Lee created the first episode around 2039, according to [Sof](sof)'s [journal](../website/journal).
+According to Sof, he is an eccentric figure and his accent is not from the [DTC](../lore/dtc). They also remark that his 
+current status is unknown and that Nex Gen may have silenced him. The first episode is not received well by Nex Gen. 
+The PR departments email suggests that they monitor the show, prepare a PR strategy and inform the FANTOM team. The 
+FANTOM team is an internal operations team at Nex Gen, which may need to perform a "slate wipe", according to the email.
 
 A second episode of [Unbeleevable](../for-sof/unbeleevable2) has Dr. Lee MD going more into the backstory of [Skys](skys), 
 also mentioning a mysterious woman named [Medea](medea), who tried to take down the [Mantra cult](../lore/mantra) from the inside. 
 The episode ends with Lee MD's need for a bowel evacuation (also CRAP). The outro segment shows Lee MD trying street 
-drug [Lupamine](../lore/lupamine), a very dangerous drug that is causing an epidemic in the DTC and that is highly addictive.
+drug [Lupamine](../lore/lupamine), a hazardous drug that is causing an epidemic in the DTC and that is highly addictive.
 
-The third episode of Unbeleevable expands on Skys' and Medea's story, revealing that she was sent in by [Victor Carmine](victor-carmine), 
-who also happens to be her father. The episode ends with a man named Dr. Dee storming in, claiming that Lee is not 
-who he thinks he is.
+The third episode of Unbeleevable expands on Skys' and Medea's story, revealing that she was sent in by 
+[Victor Carmine](victor-carmine), who also happens to be her father as revealed in 
+[Carmine's reconstructed interview](../for-sof/carmine_interview). 
+The episode ends with a man named Dr. Dee storming in, claiming that Lee is not who he thinks he is.
 
 ***
 
@@ -52,7 +58,7 @@ who he thinks he is.
 Related characters:
 
 - [Skys](skys)
-- [Strassman](strassman)
+- [Dr. Karl Strassman](strassman)
 - [Dallus Lauren](dallus-lauren)
 - [Victor Carmine](victor-carmine)
 - [Medea](medea)
@@ -73,9 +79,11 @@ Daily Whisper articles:
 
 Related lore:
 
-- [Synths](../lore/synths)
-- [Novosovia](../lore/novosovia)
 - [Mantra](../lore/mantra)
-- [DTC](../lore/dtc)
+- [Project Kingslayer](../lore/incident-kingslayer)
+- [Novosovia](../lore/novosovia)
 - [Arc/Hive](../lore/mantra)
 - [Nex Gen](../lore/archive)
+- [Mares](../lore/mares)
+- [Synths](../lore/synths)
+- [DTC](../lore/dtc)
