@@ -40,13 +40,12 @@ remained user 0009 until the December 2024 update.
 
 {% include gallery.html folder="characters/miseria/gallery" %}
 
+***
+
 ## Read More
 
-- [Characters](../characters)
+Related characters:
 
-Insight 2: Empathy
-
-- [Insight 2: Empathy](../lore/insight2-empathy)
 - [Gabriel](gabriel)
 - [Madman](madman)
 
@@ -54,3 +53,9 @@ Other omens:
  
 - [Pan](pan)
 - [Vanth](vanth)
+
+Related lore:
+
+- [The Insights](../lore/insights)
+- [Insight 2: Empathy](../lore/insight2-empathy)
+- [Youtopia](../lore/youtopia)

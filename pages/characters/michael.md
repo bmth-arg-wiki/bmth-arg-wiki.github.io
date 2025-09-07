@@ -43,13 +43,6 @@ Before the June 4th 2024 update, Michael used to be user 0011.
 
 ## Read More
 
-More [Characters](characters)!
-
-Related lore:
-
-- [Insight 3: Purpose](../lore/insight3-purpose)
-- [YOUtopia](../lore/youtopia)
-
 Related characters:
 
 - [Vanth](vanth)
@@ -61,6 +54,12 @@ Other [archangels](characters#the-archangels):
 - [Raphael](raphael)
 - [Gabriel](gabriel)
 - [Uriel](uriel)
+
+Related lore:
+
+- [The Insights](../lore/insights)
+- [Insight 3: Purpose](../lore/insight3-purpose)
+- [YOUtopia](../lore/youtopia)
 
 Related music:
 
