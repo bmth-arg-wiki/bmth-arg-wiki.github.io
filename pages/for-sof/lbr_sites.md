@@ -20,7 +20,7 @@ next_text: "GOXMOG_SIGHTINGS"
 This document speaks about an incident at [ARC/HIVE](../lore/archive) and measures taken 
 by [Nex Gen](../lore/nex-gen-corporation) to prevent more incidents.
 The letter is written by [Strassman](../characters/strassman) and another name seems to 
-be redacted. [Sof's journal](../website/journal) dates it to 2040.
+be redacted. [Sof's journal](../website/journal) dates it to 2038.
 
 It is addressed to [Victor Carmine](../characters/victor-carmine), the head at Nex Gen and previously ARC/HIVE, 
 and another redacted figure.
