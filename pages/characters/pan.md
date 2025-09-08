@@ -68,14 +68,18 @@ Related characters:
 - [Syko](syko)
 - [Selene (speculated)](selene)
 - [Sof (speculated)](sof)
-
-Other [omens](../characters#omens):
-
 - [Miseria](miseria)
 - [Vanth](vanth)
+- [The Babylon](babylon)
+
+Related files:
+
+- [Selene's map](../for-sof/selenes_map)
+- [Youtopia Research](../for-sof/selene_youtopia_doc)
 
 Related lore:
 
+- [Lore booklet](../lore/booklet)
 - [The Insights](../lore/insights)
 - [Insight 1: Connection](../lore/insight1-connection)
 - [Youtopia](../lore/youtopia)

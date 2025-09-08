@@ -67,9 +67,12 @@ Other [band members](characters#band-members):
 Related files:
 
 - [Unbeleevable (speculated)](../for-sof/unbeleevable)
+- [Selene's map](../for-sof/selenes_map)
+- [Youtopia Research](../for-sof/selene_youtopia_doc)
 
 Related lore:
 
+- [Lore booklet](../lore/booklet)
 - [The Insights](../lore/insights)
 - [Insight 3: Purpose](../lore/insight3-purpose)
 - [Youtopia](../lore/youtopia)

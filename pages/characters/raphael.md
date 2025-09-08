@@ -52,8 +52,14 @@ Other [archangels](characters#the-archangels):
 - [Michael](michael)
 - [Uriel](uriel)
 
+Related files:
+
+- [Selene's map](../for-sof/selenes_map)
+- [Selene Youtopia Research](../for-sof/selene_youtopia_doc)
+
 Related lore:
 
+- [Lore booklet](../lore/booklet)
 - [The Insights](../lore/insights)
 - [Insight 1: Connection](../lore/insight1-connection)
 - [YOUtopia](../lore/youtopia)

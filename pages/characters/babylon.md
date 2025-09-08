@@ -41,16 +41,21 @@ Also check out our [interactive map of Youtopia](../map)
 
 Related characters:
 
+- [Uriel](uriel)
 - [Vegan](vegan)
 - [Selene](selene)
-
-Other omens:
-
 - [Pan](pan)
 - [Miseria](miseria)
 - [Vanth](vanth)
 
+Related files:
+
+- [Selene's Map](../for-sof/selenes_map)
+- [Youtopia Research](../for-sof/selene_youtopia_doc)
+
 Related lore:
 
+- [Lore Booklet](../lore/booklet)
 - [Insights](../lore/insights)
 - [Insight 4: Vision](../lore/insight4-vision)
+- [Youtopia](../lore/youtopia)

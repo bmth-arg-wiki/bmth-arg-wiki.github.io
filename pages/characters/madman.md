@@ -46,24 +46,24 @@ Before the June 4th 2024 update, he used to be user 0013.
 
 ## Read More
 
-Related file:
-
-- [Unbeleevable (speculated)](../for-sof/unbeleevable)
-
-Related lore:
-
-- [Album/vinyl booklet](../lore/booklet)
-- [Insights](../lore/insights)
-- [Insight 2: Empathy](../lore/insight2-empathy)
-- [Youtopia](../lore/youtopia)
-
 Related characters:
 
 - [Archangel Gabriel](gabriel)
 - [Miseria](miseria)
-
-Other [band members](characters#band-members):
-
 - [Vegan / Matt K.](vegan)
 - [Syko / Oli](syko)
 - [Pickles / Mat N.](pickles)
+
+Related files:
+
+- [Unbeleevable (speculated)](../for-sof/unbeleevable)
+- [Selene's Map](../for-sof/selenes_map)
+- [Youtopia Research](../for-sof/selene_youtopia_doc)
+
+Related lore:
+
+- [Lore booklet](../lore/booklet)
+- [Insights](../lore/insights)
+- [Insight 2: Empathy](../lore/insight2-empathy)
+- [Youtopia](../lore/youtopia)
+

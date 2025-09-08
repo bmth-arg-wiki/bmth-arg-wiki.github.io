@@ -48,14 +48,19 @@ Related characters:
 
 - [Gabriel](gabriel)
 - [Madman](madman)
-
-Other omens:
- 
+- [Selene](selene)
 - [Pan](pan)
 - [Vanth](vanth)
+- [The Babylon](babylon)
+
+Related files:
+
+- [Selene's Map](../for-sof/selenes_map)
+- [Youtopia Research](../for-sof/selene_youtopia_doc)
 
 Related lore:
 
+- [Lore booklet](../lore/booklet)
 - [The Insights](../lore/insights)
 - [Insight 2: Empathy](../lore/insight2-empathy)
 - [Youtopia](../lore/youtopia)

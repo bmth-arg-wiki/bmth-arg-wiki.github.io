@@ -48,15 +48,18 @@ Related characters:
 - [Vanth](vanth)
 - [Pickles](pickles)
 - [Selene](selene)
-
-Other [archangels](characters#the-archangels):
-
 - [Raphael](raphael)
 - [Gabriel](gabriel)
 - [Uriel](uriel)
 
+Related files:
+
+- [Selene's Map](../for-sof/selenes_map)
+- [Youtopia Research](../for-sof/selene_youtopia_doc)
+
 Related lore:
 
+- [Lore booklet](../lore/booklet)
 - [The Insights](../lore/insights)
 - [Insight 3: Purpose](../lore/insight3-purpose)
 - [YOUtopia](../lore/youtopia)
