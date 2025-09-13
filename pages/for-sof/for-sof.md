@@ -31,6 +31,16 @@ from the [website](../website/website) in the FOR SOF folder, but there are a fe
 
 ***
 
+## Transmission
+
+A mysterious transmission appeared on the website in August 2025. This contains a [reconstructed interview](carmine_interview) with 
+[Victor Carmine](../characters/victor-carmine).
+
+{% assign page_links = '/pages/for-sof/carmine_interview' | split: ", " %}
+{% include page-card-gallery.html links=page_links %}
+
+***
+
 ## Inventory documents
 
 Since the December 4th 2024 update, there is now an `inventory` on the [webpage](../website/website). This inventory contains 
