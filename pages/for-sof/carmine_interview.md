@@ -60,8 +60,13 @@ cipher. The third puzzle is not currently unlocked.
 
 
 > First Note - Prologue (yellow text)
-> Skys... This interview was conducted shortly after the public collapse of Arc/Hive.. what the net calls "The Cradle Crash." You were right. Arc/Hive was never dismantled. Victor simply rebranded. New logo, Same bones. They call it NEX GEN now (subtle, considering everything you said went down) This appears to be Carmine's attempt to "regain the narrative." This is the only known transcript of an unsanctioned interview with the (currently) unknown journalist. I found it in a wormed-out telemetry packet riding a dead network node in West Kraava. Rebuilding this has been... tricky. Nearly all of the
-conversation's been buried under multi-threaded sigdust. A few segments are corrupted beyond recovery. Still, I've stitched together what I could. Reconstruction was made possible using:
+> Skys... This interview was conducted shortly after the public collapse of Arc/Hive.. what the net calls 
+> 'The Cradle Crash.' You were right. Arc/Hive was never dismantled. Victor simply rebranded. New logo, Same bones. 
+> They call it NEX GEN now (subtle, considering everything you said went down) This appears to be Carmine's attempt to 
+> 'regain the narrative.' This is the only known transcript of an unsanctioned interview with the (currently) unknown 
+> journalist. I found it in a wormed-out telemetry packet riding a dead network node in West Kraava. Rebuilding this has 
+> been... tricky. Nearly all of the conversation's been buried under multi-threaded sigdust. A few segments are 
+> corrupted beyond recovery. Still, I've stitched together what I could. Reconstruction was made possible using:
 >
 > Glass Reflection Echo Capture (GREC-R1 array)
 >
@@ -118,21 +123,21 @@ conversation's been buried under multi-threaded sigdust. A few segments are corr
 >
 > Pulse Sync: Minor tachycardia spike, followed by down-regulation post- veggie juice
 >
-> [ASSISTANT:] "Sir, she's here. But the board... they're dead against this interview. Some of them are threatening to resign."
+> [ASSISTANT:] 'Sir, she's here. But the board... they're dead against this interview. Some of them are threatening to resign.'
 >
 > Photo frame interaction: biometric dabbing, blood fleck detected (not cleaned)
 >
 > Tone Analysis: Frustration veiled beneath nonchalance
 >
-> [CARMINE:] "Fuck 'em. Let 'em go. They'll be crawling back in no time."
+> [CARMINE:] 'Fuck 'em. Let 'em go. They'll be crawling back in no time.'
 >
-> [ASSISTANT:] "Sir, you do understand... she's not aligned. This journalist, she's off-network. We can't control her. The publication- "
+> [ASSISTANT:] 'Sir, you do understand... she's not aligned. This journalist, she's off-network. We can't control her. The publication- '
 >
 > [Snap Detected - Audio Spike 112.3 dB]
 >
 > Room Transformation Triggered: AR walls flush to NEX GEN chromeskin. Mafia antiques swallowed by smartglass and X-LED smoothing layers.
 >
-> [CARMINE:] "I have nothing to hide."
+> [CARMINE:] 'I have nothing to hide.'
 >
 > [ASSISTANT Wince Registered]
 >
@@ -144,74 +149,87 @@ conversation's been buried under multi-threaded sigdust. A few segments are corr
 >
 > Voice signature: Steel flatline. No modulation. Internalised intent.
 >
-> [CARMINE:] "Drink?"
+> [CARMINE:] 'Drink?'
 >
-> [JOURNALIST:] "I'm good, thank you."
+> [JOURNALIST:] 'I'm good, thank you.'
 >
-> [CARMINE:] "This thing can make anything. Wine, coffee... even water."
+> [CARMINE:] 'This thing can make anything. Wine, coffee... even water.'
 >
 > Finger Tap Cadence: Shifts from charm to subtle agitation
 >
-> [JOURNALIST:] "Let's cut to the chase, Victor. Your empire, your fortune: it's bathing in a legacy of blood."
->
+> [JOURNALIST:] 'Let's cut to the chase, Victor. Your empire, your fortune: it's bathing in a legacy of blood.' 
+> 
 > [LLM CONTEXT TAGGING: Hostile intro / legacy accusation]
 >
 > [CARMINE: Smile_Expression – Surface Only | Eye_tension]
 >
-> [V. CARMINE:] "Ah, my family. Always the start of the conversation."
+> [V. CARMINE:] 'Ah, my family. Always the start of the conversation.'
 >
-> [JOURNALIST:] “Your great-grandfather, Domenico 'The Butcher' Carmine, ran black-market food lines during the Resource Wars. Thousands starved while he hoarded supplies. Executions for resistance. Your father, Luca? Burned entire districts during the class riots. And you? Some say you killed your own brothers to take control after Luca's assassination."
+> [JOURNALIST:] 'Your great-grandfather, Domenico 'The Butcher' Carmine, ran black-market food lines during the 
+> Resource Wars. Thousands starved while he hoarded supplies. Executions for resistance. Your father, 
+> Luca? Burned entire districts during the class riots. And you? Some say you killed your own brothers to take 
+> control after Luca's assassination.'
 >
 > [ACTION: CARMINE - Brow Raise, Noted]
 >
 > Heart rate steady. Pupil dilation slightly elevated. Internal tension contained.
 >
-> [V. CARMINE:] "And I assume this is leading somewhere?"
+> [V. CARMINE:] 'And I assume this is leading somewhere?'
 >
-> [JOURNALIST:] "The massacre at Santuario. Enzo 'Iron Fist' Carmine. Entire settlement firebombed. Children charred in their beds. Why? Because they wouldn't pay your family's extortion tariffs."
+> [JOURNALIST:] 'The massacre at Santuario. Enzo 'Iron Fist' Carmine. Entire settlement firebombed. 
+> Children charred in their beds. Why? Because they wouldn't pay your family's extortion tariffs.'
 >
-> [CARMINE:] [Smile falters by 12%. Lip corners lower. Tension in jaw noted.] "What's your point?"
+> [CARMINE:] [Smile falters by 12%. Lip corners lower. Tension in jaw noted.] 'What's your point?'
 >
-> [JOURNALIST:] "You inherited this. The energy grid. The wealth. Built on death. Do you hear them, Victor? Do you hear the screams while you sip your synthetic juice and rebuild your empire?"
+> [JOURNALIST:] 'You inherited this. The energy grid. The wealth. Built on death. Do you hear them, Victor? 
+> Do you hear the screams while you sip your synthetic juice and rebuild your empire?'
 >
-> [V. CARMINE:] "We don't choose the families we're born into. You can at least sympathise with me on that, can't you?"
+> [V. CARMINE:] 'We don't choose the families we're born into. You can at least sympathise with me on that, can't you?'
 >
 > [EYE MOVEMENT DETECTED: DIRECT GAZE ON JOURNALIST | Micro- manipulative inflection loaded]
 >
-> [JOURNALIST:] "What's that supposed to mean?"
+> [JOURNALIST:] 'What's that supposed to mean?'
 >
-> [V. CARMINE:] "Oh, nothing."
+> [V. CARMINE:] 'Oh, nothing.'
 >
-> [JOURNALIST:] “Why me, Victor? Why not your usual media stooges? PPN? Vanguard? This redemption arc could've slotted in between 'BioChip Bloopers' and 'Why Gravity Is a Woke-Head Hoax.'"
+> [JOURNALIST:] 'Why me, Victor? Why not your usual media stooges? PPN? Vanguard? This redemption arc could've 
+> slotted in between 'BioChip Bloopers' and 'Why Gravity Is a Woke-Head Hoax.''
 >
 > [FINGER TAPPING ACCELERATES - 3x speed sudden cessation] Elbow placement: forward lean. Voice weight increases.
 >
-> [V. CARMINE:] "You're not wrong. And that's exactly why they can-
--swivel. I'm bored of arse- licking. You? You hate me. That's why you're here. If I can win you over, maybe the world buys it. Maybe they believe NEX GEN isn't Arc/Hive 2.0."
+> [V. CARMINE:] 'You're not wrong. And that's exactly why they can-
+-swivel. I'm bored of arse- licking. You? You hate me. That's why you're here. If I can win you over, maybe the world 
+> buys it. Maybe they believe NEX GEN isn't Arc/Hive 2.0.'
 >
 > [PUPIL TRACKING: Locked | Emotion Signal: Predatory Intent + Calculated Charm]
 >
-> [JOURNALIST:] "Don't flatter yourself. You're still the same monster. Arc/Hive was blood- tech. You had Colombia eating from your hand before the Cradle Crash, but I saw the red flags before the data surge. MOXYPAKs weren't humanitarian. They were leverage."
+> [JOURNALIST:] 'Don't flatter yourself. You're still the same monster. Arc/Hive was blood- tech. You had Colombia 
+> eating from your hand before the Cradle Crash, but I saw the red flags before the data surge. MOXYPAKs weren't 
+> humanitarian. They were leverage.'
 >
-> [JOURNALIST'S TABLET: Active - Pulls up regional drop pattern overlay] [Voice-to-map sync detected: Kraava, Naniwa-ky, 4W sectors matched to F.A.N.T.O.M. Deployment]
+> [JOURNALIST'S TABLET: Active - Pulls up regional drop pattern overlay] [Voice-to-map sync detected: Kraava, Naniwa-ky, 
+> 4W sectors matched to F.A.N.T.O.M. Deployment]
 >
-> [JOURNALIST:] "You got boots on the ground through biotech bribes. Humanitarian optics. But those zones weren't 'random.' You placed your pawns over urban legends. Eldritch Conduits. Energy didn't interest you. Myth did."
+> [JOURNALIST:] 'You got boots on the ground through biotech bribes. Humanitarian optics. But those zones weren't 
+> 'random.' You placed your pawns over urban legends. Eldritch Conduits. Energy didn't interest you. Myth did.'
 >
-> [V. CARMINE:] "Ancient forces? You're starting to sound like one of the locals."
+> [V. CARMINE:] 'Ancient forces? You're starting to sound like one of the locals.'
 >
-> [JOURNALIST:] "Let's talk Trinity. Medea. Her head detonated, remember? Some say you sent your own kid into that death cult, just to extract a few dangerous minds. Strassman. Dallus. Even Skys, if Dreadit's right."
+> [JOURNALIST:] 'Let's talk Trinity. Medea. Her head detonated, remember? Some say you sent your own kid into that 
+> death cult, just to extract a few dangerous minds. Strassman. Dallus. Even Skys, if Dreadit's right.'
 >
 > [SUBJECT: CARMINE - EMOTION REGISTER: Flinch suppressed. Hands tense.]
 >
-> [JOURNALIST:]"Paperclip was science. Trinity was madness. You didn't just recover minds: you resurrected monsters."
+> [JOURNALIST:] 'Paperclip was science. Trinity was madness. You didn't just recover minds: you resurrected monsters.'
 >
 > [SIGNAL ANOMALY: Echo feedback spike | Suggestive of memory-based interference loop]
 >
-> [JOURNALIST:] "You're not playing god, Victor. You hired angels of death to do your bidding."
+> [JOURNALIST:] 'You're not playing god, Victor. You hired angels of death to do your bidding.'
 >
 > [RECONSTRUCTION HALTED]
 >
-> [ECHO ANOMALY: AI INTERFERENCE DETECTED] [EVE-LIKE PATTERN FOUND IN END SEGMENT TEXTURE] [DREAM LOGIC LAYER BLEEDING INTO SCRIPT] [EMERGENCY DUMP REQUESTED]
+> [ECHO ANOMALY: AI INTERFERENCE DETECTED] [EVE-LIKE PATTERN FOUND IN END SEGMENT TEXTURE] 
+> [DREAM LOGIC LAYER BLEEDING INTO SCRIPT] [EMERGENCY DUMP REQUESTED]
 >
 > /// [RECONSTRUCTION HALTED]
 >
@@ -224,9 +242,18 @@ conversation's been buried under multi-threaded sigdust. A few segments are corr
 > ///// TRANSMISSION END /////
 
 > Second Note - Intro
-> That’s all I could pull for now. I'm working a deeper loop through the Siberian subnet. Found an old key embedded in a Gut Wrench B-side file, of all places, might be bait, might be a breach point. Either way, I'll be back. Keep eyes off the mirrors. If it flickers, blink slow.
+> That’s all I could pull for now. I'm working a deeper loop through the Siberian subnet. Found an old key embedded 
+> in a Gut Wrench B-side file, of all places, might be bait, might be a breach point. Either way, I'll be back. 
+> Keep eyes off the mirrors. If it flickers, blink slow.
 >
 > -L
+
+> Extra
+> [Clickable Nex Gen Logo at the Bottom (after clicking for text):]
+> 
+> APPLICATION NAME: PLACEHOLDER || STATUS: ACTIVE;
+> 
+> [Render of Nex Gen Logo]
 
 " | markdownify }}
 </details>
@@ -253,53 +280,61 @@ conversation's been buried under multi-threaded sigdust. A few segments are corr
 >
 > BIOMETRIC CONFIDENCE INDEX: 91.4%
 >
-> [CARMINE:] "I won't argue with you. Why would I deny it? The mission was, and always has been, rooted in the noblest of causes."
+> [CARMINE:] 'I won't argue with you. Why would I deny it? The mission was, and always has been, 
+> rooted in the noblest of causes.'
 >
 > Voice pitch stabilised. Heart rate steady.
 >
 > JAW TENSION: low-grade. Stress load contained.
 >
-> "It was a mess, sure. But what they were doing to the youth of Novosovia, the way they were carving them up like a roast dinner. It didn't sit right with me. Not one bit. And if not me, who would've stopped it? The Sovian dogs didn't care a lick, that's for sure."
+> 'It was a mess, sure. But what they were doing to the youth of Novosovia, the way they were carving them up like a
+> roast dinner. It didn't sit right with me. Not one bit. And if not me, who would've stopped it? The Sovian dogs 
+> didn't care a lick, that's for sure.'
 >
 > Thermal pulse: left temple glow. Regret signature (faint). Fingertips brush chromeskin desk edge
 Light tremor.
 >
-> [CARMINE:] "Medea,-
--that was her alias, bless her. When she went in there, well, let's just say, things weren't as black and white as you'd think."
+> [CARMINE:] 'Medea,-
+> -that was her alias, bless her. When she went in there, well, let's just say, 
+> things weren't as black and white as you'd think.'
 >
 > Micro-expression: brow soften.
 >
 > Eye focus drift: upper left quadrant. Recall loop pattern.
 >
-> [CARMINE:] "Dallus, Strassman, let me tell you, those men aren't the demons you make them out to be. They were guilty only of dreaming."
+> [CARMINE:] 'Dallus, Strassman, let me tell you, those men aren't the demons you make them out to be. They were 
+> guilty only of dreaming.'
 >
 > Emotion suppressor: stable. Pulse sync drop: -2.1 bpm
 >
-> [CARMINE:] "Skys. Yeah, he was a piece of work alright. A walking weapon."
+> [CARMINE:] 'Skys. Yeah, he was a piece of work alright. A walking weapon.'
 >
 > Jaw click registered.
 >
 > Auditory gain increase: threat modulation.
 >
-> [CARMINE:] "That's why we neutralised him. And yeah, we gave the victims, including the scientists, a second chance. Who doesn't deserve a second chance?"
+> [CARMINE:] 'That's why we neutralised him. And yeah, we gave the victims, including the scientists, a second chance. 
+> Who doesn't deserve a second chance?'
 >
 > Back lean detected. Spine shift. Defensive posture relaxed.
 >
-> [CARMINE:] "And can you really say I made the wrong choice?"
+> [CARMINE:] 'And can you really say I made the wrong choice?'
 >
 > Gesture: palm-out sweep.
 >
 > Smartglass reflection: warps around hand.
 >
-> [CARMINE:] “Look how much good those scientists have done for our planet. Strassman's breakthroughs in neural research, the advancements in medical technology... They've changed everything. And Dallus, God rest his soul, was a genius. His work saved countless lives.”
+> [CARMINE:] 'Look how much good those scientists have done for our planet. Strassman's breakthroughs in 
+> neural research, the advancements in medical technology... They've changed everything. And Dallus, God 
+> rest his soul, was a genius. His work saved countless lives.'
 >
 > Speech cadence: controlled. Vocal tremor index low. Biometric read: 87% sincerity (match drifted 2%).
 >
-> [JOURNALIST:] "That's a really beautiful story, Victor. You might even have convinced me."
+> [JOURNALIST:] 'That's a really beautiful story, Victor. You might even have convinced me.'
 >
 > Eyebrow raise: high cynicism load. Voice: sarcastic, drawn-out.
 >
-> [JOURNALIST:] "If it wasn't for D.U.5.T."
+> [JOURNALIST:] 'If it wasn't for D.U.S.T.'
 >
 > Keyword trigger: PROJECT_D.U.S.T.
 >
@@ -307,77 +342,107 @@ Light tremor.
 >
 > Echo feedback shimmer at base of chairframe.
 >
-> [JOURNALIST:] "Project D.U.S.T. Deaths Unknown Spiritual Terrain. I saw the leaks, Victor. I know it's real. You built this empire on death, and now you worship it. You feed off it. It's practically in the name. Nex: Latin for violent death?"
+> [JOURNALIST:] 'Project D.U.S.T. Deaths Unknown Spiritual Terrain. I saw the leaks, Victor. I know it's real. 
+> You built this empire on death, and now you worship it. You feed off it. It's practically in the name. Nex: Latin 
+> for violent death?'
 >
 > Emotion detection: CARMINE | 2-second silence | suppressed amusement Response latency: intentional
 >
-> [CARMINE:] [Laughs] "That'd be poetic, wouldn't it? NEX GEN - a generation bred to die."
+> [CARMINE:] [Laughs] 'That'd be poetic, wouldn't it? NEX GEN - a generation bred to die.'
 >
-> Tone: sardonic + performative "Sounds like a MindStream plot."
+> Tone: sardonic + performative 'Sounds like a MindStream plot.'
 >
 > Leaning in. Chin angle increases. Voice weight: measured
 >
-> [CARMINE:] "This is not about death. It's about life. About moving forward, creating something that lasts."
+> [CARMINE:] 'This is not about death. It's about life. About moving forward, creating something that lasts.'
 >
 > Pulse: elevated but stable. Facial tension: mask intact.
 >
-> [CARMINE:] "But of course, outlets like yours need a villain. That's the world we live in now, right? You can't accept that some of us are trying to build a future, so you spin it into something sinister.”
+> [CARMINE:] 'But of course, outlets like yours need a villain. That's the world we live in now, right? You can't 
+> accept that some of us are trying to build a future, so you spin it into something sinister.'
 >
 > Pupil dilation: microflare
 >
 > Gesture: rolling shrug (calculated casual)
 >
-> [CARMINE:] "NEX is about what comes next, about survival. But sure, you can keep believing it's some cult of death. That sells better, doesn't it?"
+> [CARMINE:] 'NEX is about what comes next, about survival. But sure, you can keep believing it's some cult of death. 
+> That sells better, doesn't it?'
 >
-> [JOURNALIST:] “You've built NEX GEN on the corpses of everyone who trusted you, and now you're gambling with their souls. Admit it. This wasn't a rebrand, it's an escalation. You and Elias, you discovered something in those sadistic rituals of yours, didn't you? And now that's all your company stands for. A chapel of suffering. A monument to death, hidden behind your shiny tech and false promises. You're not building a future, Victor. You're building an altar. So tell me, who are you sacrificing now?"
+> [JOURNALIST:] 'You've built NEX GEN on the corpses of everyone who trusted you, and now you're gambling with their souls. 
+> Admit it. This wasn't a rebrand, it's an escalation. You and Elias, you discovered something in those sadistic rituals 
+> of yours, didn't you? And now that's all your company stands for. A chapel of suffering. A monument to death, 
+> hidden behind your shiny tech and false promises. You're not building a future, Victor. You're building an altar. 
+> So tell me, who are you sacrificing now?'
 >
 > Signal interference spike: 1.3mV
 >
 > CARMINE emotional load breach. Defensive barrier failed momentarily.
 >
-> [CARMINE:] "Before I answer that, sweetheart, let me ask: what exactly are you doing to save the world? You cut out animals?"
+> [CARMINE:] 'Before I answer that, sweetheart, let me ask: what exactly are you doing to save the world? 
+> You cut out animals?'
 >
-> [JOURNALIST:] "I don't eat red meat anymore. I've switched to synthetics: no animal-
--cruelty involved."
+> [JOURNALIST:] 'I don't eat red meat anymore. I've switched to synthetics: no animal-
+-cruelty involved.'
 >
-> [CARMINE:] "Oh, right, sure. The same kind made by underpaid slaves in the Fringe. You really think lab-grown meat is cruelty-free? Those people live in conditions worse than animals ever have to these days. And the coffee you're sipping there, is that not from the same company that was just exposed for using genetically modified monkeys to harvest their beans? Sentient creatures that are locked in cages their whole lives, bred solely for labor?”
+> [CARMINE:] 'Oh, right, sure. The same kind made by underpaid slaves in the Fringe. You really think lab-grown meat is 
+> cruelty-free? Those people live in conditions worse than animals ever have to these days. And the coffee you're 
+> sipping there, is that not from the same company that was just exposed for using genetically modified monkeys to 
+> harvest their beans? Sentient creatures that are locked in cages their whole lives, bred solely for labor?'
 >
-> [JOURNALIST:] "That's not the same as-"
+> [JOURNALIST:] 'That's not the same as-'
 >
-> [CARMINE:] "What I'm trying to say is this: we're all parasites on this planet. Unless you're some off-grid, piss-recycling sandal-sniffer, you don't get to say shit. There's no morality, no virtue left when we're all scrambling for the last scraps: eating the last fish, choking the skies with ash, drowning the oceans in our filth. We can all write articles about how fucked up the planet is. We can all point fingers at the convenient scapegoats. But unless you're actually doing something to change it, who the fuck do you think you are to attack the ones that are?"
+> [CARMINE:] 'What I'm trying to say is this: we're all parasites on this planet. Unless you're some off-grid, 
+> piss-recycling sandal-sniffer, you don't get to say shit. There's no morality, no virtue left when we're all scrambling 
+> for the last scraps: eating the last fish, choking the skies with ash, drowning the oceans in our filth. We can all 
+> write articles about how fucked up the planet is. We can all point fingers at the convenient scapegoats. But unless 
+> you're actually doing something to change it, who the fuck do you think you are to attack the ones that are?'
 >
-> [JOURNALIST:] "You think you can just erase the past? You come from a family of killers, mobsters who left bodies in their wake. You grew up on blood money. Tell me. Just how many lives did your family take?"
+> [JOURNALIST:] 'You think you can just erase the past? You come from a family of killers, mobsters who left bodies 
+> in their wake. You grew up on blood money. Tell me. Just how many lives did your family take?'
 >
-> [CARMINE:] "Alright. Let's go there. How about your father? A little birdie told me he wasn't so squeaky clean, either. Stealing neural implant memories and dealing them on SpyderWeb. I heard he was moving some proper filth. I mean, parents changing their children's nappies and shit. What kind of person does that? Still, his moolah is what got you in one of the best Academy's in the DTC. It's the reason you're sat in that chair and not living in the Wastemire.”
+> [CARMINE:] 'Alright. Let's go there. How about your father? A little birdie told me he wasn't so squeaky clean, either. 
+> Stealing neural implant memories and dealing them on SpyderWeb. I heard he was moving some proper filth. I mean, 
+> parents changing their children's nappies and shit. What kind of person does that? Still, his moolah is what got you 
+> in one of the best Academy's in the DTC. It's the reason you're sat in that chair and not living in the Wastemire.'
 >
-> [JOURNALIST:] "You deep-dived me,"
+> [JOURNALIST:] 'You deep-dived me,'
 >
 > Voice tremble: +12.9% Emotion: breach point reached
 >
-> "That's why you picked me. You wanted leverage over me."
+> 'That's why you picked me. You wanted leverage over me.'
 >
-> [CARMINE:] "Oh, go fuck yourself! I picked you because I thought maybe, just maybe, you'd cut me a bit of fucking slack! You know as well as I do what it's like being the child of horrible human beings! I thought maybe we could skip the bullshit for once and talk about the real fucking issues, instead of rehashing the same shit over and over again! Am I not allowed to retry? I- [Line is cut-off]
+> [CARMINE:] 'Oh, go fuck yourself! I picked you because I thought maybe, just maybe, you'd cut me a bit 
+> of fucking slack! You know as well as I do what it's like being the child of horrible human beings! I thought maybe 
+> we could skip the bullshit for once and talk about the real fucking issues, instead of rehashing the same shit over 
+> and over again! Am I not allowed to retry? I- [Line is cut-off]'
 >
 > Chest heave: +15% oxygen spike
 >
 > Hands shake for 0.4s. Stabilised by desk pressure.
 >
-> [CARMINE:] "And for the record, I picked you because of your article on the dangers of Social Credit Initiative. Yeah, the one where you tore into the idea that giving people money for nothing was a cure-all. That article was fucking class. You called out the hypocrisy of the left for pretending it was some kind of revolution, when really it was just another leash. You knew it'd bring the wrath of every soy boy down on you, but you wrote it anyway."
+> [CARMINE:] 'And for the record, I picked you because of your article on the dangers of Social Credit Initiative. 
+> Yeah, the one where you tore into the idea that giving people money for nothing was a cure-all. That article was 
+> fucking class. You called out the hypocrisy of the left for pretending it was some kind of revolution, when really 
+> it was just another leash. You knew it'd bring the wrath of every soy boy down on you, but you wrote it anyway.'
 >
 > Bitterness level: elevated.
 >
 > Glottal impact: visible in throat waveform.
 >
-> [CARMINE:] "I'm not scared. Write whatever the fuck you want about me. I don't need to control the narrative. You could have a video of me nano-flaying a toddler while mainlining Synthrax into my eyeballs. The people who support me would cry ‘fake news’ before the blood dried.”
+> [CARMINE:] 'I'm not scared. Write whatever the fuck you want about me. I don't need to control the narrative. 
+> You could have a video of me nano-flaying a toddler while mainlining Synthrax into my eyeballs. The people who support 
+> me would cry ‘fake news’ before the blood dried.'
 >
 > Pacing detected.
 >
 > Foot pressure grid shows chaotic rhythm.
 >
-> [CARMINE:] "But the thing is, I never asked for this! I never wanted to be some fucking incel poster boy! I wanted to be the change I thought the world needed. But now here I am, a symbol for a bunch of people I never asked to represent."
+> [CARMINE:] 'But the thing is, I never asked for this! I never wanted to be some fucking incel poster boy! I wanted to 
+> be the change I thought the world needed. But now here I am, a symbol for a bunch of people I never asked to represent.'
 >
-> [CARMINE:] "The world is a ship tip. So tell me, who's worse? Me, trying to clean it up? Or you, perched on your high horse, pretending you don't smell-
--the shit on your shoes?"
+> [CARMINE:] 'The world is a ship tip. So tell me, who's worse? Me, trying to clean it up? Or you, perched on your high 
+> horse, pretending you don't smell-
+> -the shit on your shoes?'
 >
 > [JOURNALIST:]
 >
@@ -385,14 +450,15 @@ Light tremor.
 >
 > Eye flicker: concession gesture (silent)
 >
-> [CARMINE:] "World War 3. Do you know what it was about?"
+> [CARMINE:] 'World War 3. Do you know what it was about?'
 >
-> [JOURNALIST:] "Everyone knows. The Helix Shield Exerc-"
+> [JOURNALIST:] 'Everyone knows. The Helix Shield Exerc-'
 >
-> [CARMINE:] "That's just the tip of the dog's dick!"
+> [CARMINE:] 'That's just the tip of the dog's dick!'
 
 > Third Note - Dcd2Attmpt
-> Picking up post-Trinity segment. Journalist had just dropped the accusations. Dialogue unaltered. Body data embedded. Don't take too long.
+> Picking up post-Trinity segment. Journalist had just dropped the accusations. Dialogue unaltered. Body data embedded. 
+> Don't take too long.
 >
 > He bit back hard. Now we're deep in it.
 >
@@ -405,7 +471,7 @@ Light tremor.
 > Extra
 > [Top right pop-up tab, red button:]
 >
-> APPLICATION NAME: PLACEHOLDER || STATUS: ACTVE;
+> APPLICATION NAME: PLACEHOLDER || STATUS: ACTIVE;
 >
 > [Render of Victor Carmine]
 
@@ -440,7 +506,7 @@ Light tremor.
 >
 > RECOVERY ANGLE: Reflection bleed + pulse resonance BIOMETRIC CONFIDENCE INDEX: 93.2%
 >
-> [JOURNALIST:] “What has this got to do with anything?”
+> [JOURNALIST:] 'What has this got to do with anything?'
 >
 > Voice: defensive edge. Emotional fatigue spike: detected.
 >
@@ -448,88 +514,99 @@ Light tremor.
 >
 > [Finishes his drink. Eye contact maintained – unbroken. Microtremor: left lid, suppressed recall.]
 >
-> “You want to know about-
-> -me? This is a good place to start.”
+> 'You want to know about-
+> -me? This is a good place to start.'
 >
 > [Leans back in chair. Biometric sync drop: relaxed heartbeat.]
 >
-> [CARMINE:] "It wasn't just politics of energy shortages. There was something else. Something that most people don't know about. I was an Astrobiologist in training back then. Obsessed with the skies. With... them."
+> [CARMINE:] 'It wasn't just politics of energy shortages. There was something else. Something that most people don't 
+> know about. I was an Astrobiologist in training back then. Obsessed with the skies. With... them.'
 >
 > [Keyword trigger: 'them' - LLM anomaly trace active. Smartglass pulse shifts violet.]
 >
-> [JOURNALIST:] "Them?"
+> [JOURNALIST:] 'Them?'
 >
 > [Audio compression: breath held. Curiosity detected beneath apprehension.]
 >
-> [CARMINE:] "Aliens,"
+> [CARMINE:] 'Aliens,'
 >
 > Statement tagged as 97.4% neutral truth per vocal tremor pattern Eye drift: zero. Fixation on interviewer: 4.2 seconds
 >
-> [CARMINE:] "I used my father's connections to broker a treaty with Novosovia. It was Cold War 2.0 - everyone on edge, waiting for the first nuke to drop."
+> [CARMINE:] 'I used my father's connections to broker a treaty with Novosovia. It was Cold War 2.0 - everyone on edge, 
+> waiting for the first nuke to drop.'
 >
 > [Leans in. Tone Lowers by 8db - classified cadence drop.]
 >
-> "And then, together... we made contact."
+> 'And then, together... we made contact.'
 >
 > [JOURNALIST:]
 >
 > [Eyes widen. Gaze dilation: +5.3%. Audio tone rises. Realisation threshold hit.]
 >
-> "Contact? You mean... actual aliens?”
+> 'Contact? You mean... actual aliens?'
 >
 > [CARMINE:]
 >
 > [Nods slowly. Emotional register: level. Confidence profile consistent.]
 >
-> "It started way back in '62 at a Station known then as Evpatoria, a remote radar facility deep in the Novosovian tundra. We were the first to shoot signals into space. Morse code aimed straight at Venus. Simple words like 'Varka' and 'Zinaida.'"
+> 'It started way back in '62 at a Station known then as Evpatoria, a remote radar facility deep in the Novosovian tundra. 
+> We were the first to shoot signals into space. Morse code aimed straight at Venus. Simple words like 'Varka' and 'Zinaida.''
 >
 > [LLM linguistic flag: traditional feminine Slavic names - symbolic encoding suspected]
 >
-> [CARMINE:] "Decades went by, nothing but dead air. Then in 1983, it happened. Faint, nearly lost in the static, but I'd bet my bollocks it was real. And it wasn't from anywhere near our solar system. A Signal. It was strange, subtle. But it was some kind of communication."
+> [CARMINE:] 'Decades went by, nothing but dead air. Then in 1983, it happened. Faint, nearly lost in the static, 
+> but I'd bet my bollocks it was real. And it wasn't from anywhere near our solar system. A Signal. 
+> It was strange, subtle. But it was some kind of communication.'
 >
 > Heartbeat stability: unwavering. Pupil dilation suggests sincerity. No deception markers detected.
 >
-> [CARMINE:] "Novosovia thought it was a hoax. They believed it was a ploy to get them to disarm. They flipped."
+> [CARMINE:] 'Novosovia thought it was a hoax. They believed it was a ploy to get them to disarm. They flipped.'
 >
 > [JOURNALIST:]
 >
 > [Voice softens. Emotional field: empathy increased.]
 >
-> "What did they do?"
+> 'What did they do?'
 >
 > [CARMINE:]
 >
 > [Slight twitch in jaw. Vocal shadow increase: grief resonance detected.]
 >
-> "They went insane. When the keep found out, they were terrified religious zealots would use the alien communications as proof that God didn't exist. If people lost faith in God, maybe they'd lose faith in the government. And that would loosen their iron grip."
+> 'They went insane. When the keep found out, they were terrified religious zealots would use the alien communications 
+> as proof that God didn't exist. If people lost faith in God, maybe they'd lose faith in the government. And that would 
+> loosen their iron grip.'
 >
 > [Leans back again. Gaze unfocused - reaches memory fragmentation mode.]
 >
-> [CARMINE:] "I was thrown into the war. That's why I look like this... like a metal tin can. I fought for my country. I saw things. Unspeakable things. And after it all, I was the last one standing. My family, gone. My brothers, my father, all dead."
+> [CARMINE:] 'I was thrown into the war. That's why I look like this... like a metal tin can. I fought for my country. 
+> I saw things. Unspeakable things. And after it all, I was the last one standing. My family, gone. My brothers, 
+> my father, all dead.'
 >
 > [GREC scan: internal temperature drop. Regret flagged. Trauma pattern loop engaged.]
 >
-> [CARMINE:] "I inherited everything. An empire of Dirt."
+> [CARMINE:] 'I inherited everything. An empire of Dirt.'
 >
 > [JOURNALIST:]
 >
 > [Voice: nearly a whisper. Emotional register: quiet awe.]
 >
-> "I never knew you served."
+> 'I never knew you served.'
 >
 > [CARMINE:]
 >
 > [Nods.]
 >
-> "So I went to the DTC and offered them my resources. But I had one condition. If we wanted progress, we had to kill the woman in the sky."
+> 'So I went to the DTC and offered them my resources. But I had one condition. If we wanted progress, we had to kill 
+> the woman in the sky.'
 >
-> [Red flag: "woman in the sky" phrase tagged in 3 previous hallucination logs. LEXICON_CROSSMATCH: [EVE_BLEED: 0.411]
+> [Red flag: 'woman in the sky' phrase tagged in 3 previous hallucination logs. LEXICON_CROSSMATCH: [EVE_BLEED: 0.411]
 >
-> [CARMINE:] "A dumb move for the economy, sure. But I saw what those bastards were doing with it in Novosovia. I saw how they were using her. I wanted no part in it."
+> [CARMINE:] 'A dumb move for the economy, sure. But I saw what those bastards were doing with it in Novosovia. 
+> I saw how they were using her. I wanted no part in it.'
 >
 > [Hands grip desk. Vein bulge: left forearm. Adrenaline surge noted.]
 >
-> [CARMINE:] "So yeah, I made that call. Fuck your faith."
+> [CARMINE:] 'So yeah, I made that call. Fuck your faith.'
 >
 > [Silence.]
 >
@@ -539,28 +616,28 @@ Light tremor.
 >
 > [Fear response: respiratory rate increase. Posture recoiled.]
 >
-> "Why are you telling me this? This is classified information."
+> 'Why are you telling me this? This is classified information.'
 >
 > [CARMINE:]
 >
 > [Smile detected: 3% genuine / 97% menace. Microfluctuation in iris indicates controlled defiance.]
 >
-> "It's time they knew. And besides, you can believe-
--whatever you want. People do. That's why none of this matters in the end."
+> 'It's time they knew. And besides, you can believe-
+-whatever you want. People do. That's why none of this matters in the end.'
 >
 > [JOURNALIST:]
 >
 > [Regains composure. Voice steadying.]
 >
-> "And what about Project ADAM? Any word on that?
+> 'And what about Project ADAM? Any word on that?
 >
-> [JOURNALIST:] There are rumours that you received a response... and you're keeping it quiet."
+> [JOURNALIST:] There are rumours that you received a response... and you're keeping it quiet.'
 >
 > [CARMINE:]
 >
 > [Leans back again. Fingers laced behind head. Body language: fully unguarded. Biometric truth value: FALSE DETECTED.]
 >
-> "If only. If we had received a response, trust me, you'd be the first to know."
+> 'If only. If we had received a response, trust me, you'd be the first to know.'
 >
 > [Lie confidence score: 92.1% Voice flattening: fabricated sincerity layer present.]
 >
@@ -589,8 +666,8 @@ Light tremor.
 > And she blushed...and that's the most dangerous part.
 >
 > If it flickers, blink slow.
-
--L
+>
+> -L
 
 " | markdownify }}
 </details>
