@@ -157,17 +157,6 @@ Carmine.
 
 ## Read More
 
-Related files:
-
-- [Operation Trinity](../for-sof/trinity_document)
-- [LBR Sites](../for-sof/lbr_sites)
-
-Related lore:
-
-- [ARC/HIVE Corp.](../lore/archive)
-- [Nex Gen Corp.](../lore/nex-gen-corporation)
-- [Sof's journal](../website/journal)
-
 Related characters:
 
 - [Medea](medea)
@@ -181,5 +170,40 @@ Related characters:
 - [Lyra Lauren](lyra-lauren)
 - [Iara Copple](iara)
 - [Rebecca Sinclair](rebecca)
+- [E.V.E.](eve)
 - [Selene](selene)
+- [Scott](scott)
 - [Sof](sof)
+- [Dr. Lee MD](lee-md)
+
+Related files:
+
+- [Operation Trinity](../for-sof/trinity_document)
+- [Dallus' Diary](../for-sof/dallus-diary)
+- [Project D.U.S.T. Proposal](../for-sof/project_dust)
+- [Grumblr 2027 Post](../for-sof/grumblr)
+- [Grumblr 2036 Post](../for-sof/grumblr2)
+- [Tekka Interview](../for-sof/tekka_interview)
+- [Ren's D8 log of E.V.E.'s Genesis](../for-sof/lauren_d8_log)
+- [Kingslayer Codec](../for-sof/kingslayercodec)
+- [LBR Sites](../for-sof/lbr_sites)
+- [Carmine Interview](../for-sof/carmine_interview)
+- [Dreadit Post](../for-sof/dreadit)
+
+Related lore:
+
+- [Cult of Mantra](../lore/mantra)
+- [Ecliptism](../lore/ecliptism)
+- [Project Kingslayer](../lore/incident-kingslayer)
+- [Mares](../lore/mares)
+- [Operation Trinity](../lore/operation-trinity)
+- [ARC/HIVE Corporation](../lore/archive)
+- [Project D.U.S.T.](../lore/incident-dust)
+- [Nex Gen Corporation](../lore/nex-gen-corporation)
+- [Synths](../lore/synths)
+- [Lupamine](../lore/lupamine)
+- [Mindstream](../lore/mindstream)
+- [DTC](../lore/dtc)
+- [New Elysium](../lore/new-elysium)
+- [Novosovia](../lore/novosovia)
+- [Sof's journal](../website/journal)
