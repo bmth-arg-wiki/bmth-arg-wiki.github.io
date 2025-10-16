@@ -5,7 +5,7 @@ description: "ARC/HIVE is a company with ties to Nex Gen and the government. The
 project Trinity to retrieve Karl Strassman, Skys and Dallus Lauren."
 tags: ["arc/hive", "technology", "rebecca", "skys", "dallus", "lauren", "in the dark", "carmine", "victor", "aliens",
 "science", "company", "project dust", "elias mortem", "dr. elias mortem", "syko", "nex gen", 
-"altilium chordata", "operation", "trinity", "kingslayer", "moxypak"]
+"altilium chordata", "operation", "trinity", "kingslayer", "moxypak", "cradle crash"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/archive/archive-300x300.png"
 ---
 
@@ -129,6 +129,38 @@ potentially relates to Dallus' [synth](synths) research.
 
 ### Synth Research
 
+Dallus Lauren was the one who initially proposed the [synth](synths) project, something Carmine was all too interested in.
+[Rebecca Sinclair](../characters/rebecca) was a terminally ill lab-assistant at Arc/Hive. She writes her
+[Grumblr post](../for-sof/grumblr) in 2027, after learning she was going to die. She becomes the first 
+synth, being credited as a [Nex Gen](nex-gen-corporation) invention in an [interview with Tekka Magazine](../for-sof/tekka_interview) 
+in 2028. 
+
+{% include content/danger.html
+title="Trigger Warning"
+content="The Daily Whisper Articles contain some very triggering topics. We have added some extra warnings here."
+%}
+
+Initially, it seemed synths were more resistant to addiction and harmful substances. This all changed 
+when Rebecca became addicted to Nex Gen's wolf tranquiliser: [lupamine](lupamine). The daily whisper news articles
+[Rise of Lupamine](../website/tdw-riseoflupamine), [Clone Chaos](../website/tdw-clonechaos), 
+[Rise of Synth](../website/tdw-riseofsynth), [Blood Red Spectacles](../website/tdw-bloodredspectacles), and 
+[Rogue Sentinels](../website/tdw-roguesentinels) all detail various incidents, some of which are incredibly severe.
+
+### The Cradle Crash
+
+The Cradle Crash was the incident that marked the end of the Arc/Hive name for the company. 
+Victor Carmine's [interview](../for-sof/carmine_interview) reveals that Arc/Hive was re-branded 
+to Nex Gen fully just after the incident. The interview itself is also stated to take place 
+a few days after the Cradle Crash, which takes place on the 25th of October 2037.
+
+> "Arc/Hive rebranded to NEX GEN, and Dallus is *dead*, with evidence suggesting 
+grim-play. EVE, an advanced research engine was activated, and VSPR-37, a virus that turned people into voidlings 
+(zombie-like creatures), began spreading, all within a few days."
+> - [Sof's journal](../website/journal)
+
+The timing of this incident and the interview lines up very closely to several other events, which [Sof](../characters/sof) 
+notes in the epilogue of their [journal](../website/journal).
+
 {% include content/info.html
 title="Continue the story with Nex Gen corporation"
 content="The rest of the companies shady business is documented in the [Nex Gen Corporation](nex-gen-corporation) article."
@@ -139,13 +171,17 @@ content="The rest of the companies shady business is documented in the [Nex Gen 
 ## Other experiments
 
 Dr. Dallus Lauren developed the MOXYPAK at ARC/HIVE, something mentioned in both his own [diary](../for-sof/dallus-diary), 
-and his [son](../characters/ren)'s [log on Eve's genesis](../for-sof/lauren_d8_log). It is also mentioned to have saved 
-a lot of lives by [Rebecca](../characters/rebecca) in her [2036 Grumblr post](../for-sof/grumblr2). 
-This device also seems present with a little girl in the music video for [Top 10 Statues](../music/song-top10).
+and his [son](../characters/ren)'s [log on E.V.E's genesis](../for-sof/lauren_d8_log). E.V.E. was also initially 
+Dallus' project, being followed up by his son after his sudden death in October 2037. 
+
+The MOXYPAK is also mentioned to have saved a lot of lives by [Rebecca](../characters/rebecca) in her 
+[2036 Grumblr post](../for-sof/grumblr2). Interestingly, an unknown journalist accuses Victor Carmine of 
+using Arc/Hive's seemingly well-intended inventions with malice in [a reconstructed interview](../for-sof/carmine_interview).
+The device also seems present with a little girl in the music video for [Top 10 Statues](../music/song-top10).
 
 ![Printer at ARC/HIVE](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/amo/inthedark/gallery/n_printerface.png)
 
-We also see a mysterious printer at ARC/HIVE, printing some type of data.
+We also see a mysterious printer at ARC/HIVE, printing some type of data, as well as other human test subjects.
 
 ***
 
@@ -157,6 +193,7 @@ Related lore:
 - [Cult of MANTRA/Neosages](mantra)
 - [Operation Trinity](../for-sof/trinity_document)
 - [Synths](synths)
+- [Lupamine](lupamine)
 - [Mares](mares)
 - [DTC](dtc)
 - [Novosovia](novosovia)
@@ -173,6 +210,13 @@ Related files:
 - [Rebecca's first Grumblr post](../for-sof/grumblr)
 - [Rebecca's second Grumblr post](../for-sof/grumblr2)
 - [Reconstructed interview with Carmine](../for-sof/carmine_interview)
+
+Related Daily Whisper articles:
+- [Clone Chaos](../website/tdw-clonechaos)
+- [Rise of Synth](../website/tdw-riseofsynth)
+- [Rise of lupamine](../website/tdw-riseoflupamine)
+- [Rogue Sentinels: Combat Synths](../website/tdw-roguesentinels)
+- [Inside the Blood Red Spectacle](../website/tdw-bloodredspectacles)
 
 Related characters:
 
