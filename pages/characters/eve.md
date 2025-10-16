@@ -39,11 +39,13 @@ of the opposite. Carmine also lies in his interview that ADAM never successfully
 
 ### Genesis
 
-Eve was completed by [Ikaro (Ren) Lauren](ren) in 2037 as explained in the [Lauren D8 Log](../for-sof/lauren_d8_log). Before 
-that, she was Dallus' project. The log explains that Dallus has sadly passed away, something E.V.E. 
-immediately senses in Ren. She uses quantum technology to reach Artificial Intelligence like never seen before, showing 
-understanding of human emotion and motivation. Due to her unique technology, she is able to use empathy in her decisions. 
-Ren is quickly convinced by her abilities, vowing to convince the board that she will be able to make decisions that can 
+Eve was completed by [Ikaro (Ren) Lauren](ren) on the 24th of October 2037 as explained in the 
+[Lauren D8 Log](../for-sof/lauren_d8_log). Before that, she was Dallus' project. The log explains that Dallus has 
+sadly passed away, something E.V.E. immediately senses in Ren. She uses quantum technology to reach Artificial 
+Intelligence like never seen before, showing understanding of human emotion and motivation. Due to her unique 
+technology, she is able to use empathy in her decisions. 
+
+Ren is quickly convinced by her abilities, vowing to convince the board that E.V.E. will be able to make decisions that can 
 save humanity and the tarnished reputation of Arc/Hive.
 
 ### Youtopia Research
