@@ -36,7 +36,7 @@ information as much as possible and indicate whenever something is not confirmed
 The wiki has grown to over 100+ pages, growing regularly with updates from [our small team](pages/about). 
 As of the 25th of August 2025, these are the newest pages you might want to check out!
 
-{% assign page_links = '/pages/for-sof/carmine_interview, /pages/for-sof/unbeleevable3, /pages/characters/alfgram, /pages/characters/ava, /pages/characters/medea, /pages/for-sof/artifacts, /pages/website/emulator-m8mobile' | split: ", " %}
+{% assign page_links = '/pages/lore/dreamseeker, /pages/for-sof/carmine_interview, /pages/characters/alfgram, /pages/characters/ava, /pages/characters/medea, /pages/for-sof/artifacts, /pages/website/emulator-m8mobile' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 Please be patient with us as we catch up with all the new lore! :)

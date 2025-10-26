@@ -21,7 +21,7 @@ This overview contains links for different lore pages, including sources posted 
 
 ## Important Events
 
-{% assign page_links = '/pages/lore/incident-kingslayer, /pages/lore/operation-trinity, /pages/lore/incident-dust, /pages/lore/vspr37, /pages/lore/incident-chapel' | split: ", " %}
+{% assign page_links = '/pages/lore/incident-kingslayer, /pages/lore/operation-trinity, /pages/lore/incident-dust, /pages/lore/vspr37, /pages/lore/dreamseeker, /pages/lore/incident-chapel' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ***

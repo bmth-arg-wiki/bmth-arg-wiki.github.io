@@ -144,6 +144,7 @@ Related lore:
 - [Nex Gen Corporation](../lore/nex-gen-corporation)
 - [Youtopia (Dimension Y-93)](../lore/youtopia)
 - [P.U.S.S-E](../lore/pusse)
+- [Project Dreamseeker](../lore/dreamseeker)
 - [Lore booklet](../lore/booklet)
 - [Insights](../lore/insights)
 - [Insight: Connection](../lore/insight1-connection)

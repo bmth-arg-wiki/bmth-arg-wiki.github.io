@@ -57,6 +57,7 @@ Related lore:
 - [VSPR-37](../lore/vspr37)
 - [Nex Gen Corporation](../lore/nex-gen-corporation)
 - [Youtopia (concept)](../lore/youtopia)
+- [Project Dreamseeker](../lore/dreamseeker)
 - [P.U.S.S-E](../lore/pusse)
 - [Lore booklet](../lore/booklet)
 
