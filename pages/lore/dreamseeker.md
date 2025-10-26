@@ -11,7 +11,7 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/dr
 # Project Dreamseeker
 
 {% include content/info.html
-title="Neosages Mantra (Cult)"
+title="Project Dreamseeker"
 content="This article is about Project Dreamseeker, you can find the song [here](../music/song-dreamseeker)."
 %}
 
