@@ -152,6 +152,10 @@ been growing distant from the cult since the birth of [Ren](ren). Ava is begging
 she has fallen pregnant, and their affair will be revealed soon due to it. Medea is naturally also worried, since she 
 came into the cult on her father's orders to bring it down originally.
 
+[Rebecca](../characters/rebecca) refers to Skys in her [2036 Grumblr post](../for-sof/grumblr2) as "The Brain Butcher", 
+which seems to be a name the public gave him. Since he's been in a coma since the events of Mantra, this nickname 
+likely refers to his actions in the cult from 2015 to 2020.
+
 ### Skys & Alfgram Conflict
 
 Note: it is unknown where exactly between 2015 and 2020 this event takes place.

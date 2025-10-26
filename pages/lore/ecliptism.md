@@ -76,12 +76,13 @@ and his disciples having gone into hiding.
 
 ### Modern Ecliptism
 
-Modern Ecliptism seems to re-surface at the same time Nex Gen's [SYNTH](synths) project is going
-sour, with synths succumbing to [lupamine addiction](lupamine). The first synth was created in 2028,
-placing the modern Ecliptism somewhere after this year, since the Daily Whisper articles seem to be released
-around the same time and link to each other.
+[Rebecca](../characters/rebecca) refers to ecliptist rituals briefly in her [2036 Grumblr post](../for-sof/grumblr2), 
+indicating that the religion is now spreading in the DTC. Modern Ecliptism seems to make a comeback at the same time 
+Nex Gen's [SYNTH](synths) project is going sour, with synths succumbing to [lupamine addiction](lupamine). Many of 
+the articles in [The Daily Whisper](../website/webbrowser) speak about incidents occurring around technology, 
+with some relating directly to ecliptism.
 
-In [Faith Over Flesh](../website/tdw-faithedge), described in an article on [The Daily Whisper](../website/webbrowser), 
+In [Faith Over Flesh](../website/tdw-faithedge), described in an article in the fictional newspaper, 
 a death-row inmate named Jonah will be crucified in an immersive artificial experience. The man had recently found new 
 faith and is rumoured to be involved with Ecliptism, something the author mentions is related to the [Mantra cult](mantra). 
 Since the technology communicates directly with the brain, this show has the potential for modern Ecliptists to
