@@ -18,6 +18,9 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/bo
 This booklet came with deluxe editions of the Post Human NeX GEn cds and vinyls.
 It contains a lot of lore and information about different elements of the ARG, along with the lyrics for each song on the album.
 
+The booklet is styled like an older game manual, including instructions for a fictional console named DREAMSEEKER©. 
+This device can use [M8](../m8) as a controller, by plugging her into the M8 port.
+
 *** 
 
 # Gallery
@@ -76,11 +79,11 @@ Additionally, the heightened emotional sensitivity and altered sense of reality 
 > 
 >HOW TO PLAY [005-006]
 > 
-> SELENE’S MAP [007-008]
+>SELENE’S MAP [007-008]
 > 
->PROTAGONOSTS [009-012]
+>PROTAGONISTS [009-012]
 > 
->NSIGHTS & COLLECTABLES [013-014]
+>INSIGHTS & COLLECTABLES [013-014]
 > 
 >NEX GEN LAB TEAM [015-16]
 > 
