@@ -25,8 +25,11 @@ content="Welcome to the Bring Me The Horizon ARG Wiki! We are here to help you g
 
 
 This wiki centers all around the mysteries around the album [POST HUMAN: NeX GEn](pages/music/ph-nex-gen). 
-The Alternate Reality Game, or ARG, is currently still developing and so is [the team](pages/about). Our team will 
-try to regularly update the website and improve the look and experience. This wiki will focus on objective 
+The Alternate Reality Game, or ARG, is currently still developing and so is [the team](pages/about). 
+The ARG takes place on the [multidimensionalnavigator8 website](pages/website/website). Occasionally, hints and 
+videos will also be uploaded to various social media platforms. 
+
+Our team will try to regularly update the website and improve the look and experience. This wiki will focus on objective 
 information as much as possible and indicate whenever something is not confirmed.
 
 ***
@@ -38,8 +41,6 @@ As of the 25th of August 2025, these are the newest pages you might want to chec
 
 {% assign page_links = '/pages/lore/dreamseeker, /pages/for-sof/carmine_interview, /pages/characters/alfgram, /pages/characters/ava, /pages/characters/medea, /pages/for-sof/artifacts, /pages/website/emulator-m8mobile' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
-
-Please be patient with us as we catch up with all the new lore! :)
 
 ***
 
@@ -57,10 +58,9 @@ linked in these overview pages.
 ## Getting started
 
 {% include content/info.html
-title="Still updating..."
+title="Join us on Discord"
 icon="fa-solid fa-info"
-content="Our characters page was recently edited and currently a good place to start reading! You can 
-join us on [Discord](https://discord.com/invite/6arw5eWg9x) for updates on the ARG and wiki."
+content="You can join us on [Discord](https://discord.com/invite/6arw5eWg9x) for updates on the ARG and wiki."
 %}
 
 There is a lot going on in this ARG! We get it if you are overwhelmed. 
