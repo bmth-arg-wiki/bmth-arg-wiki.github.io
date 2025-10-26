@@ -116,7 +116,10 @@ Also check out our [interactive version](../map) of the map of Youtopia!
 
 Related characters:
 
+- [E.V.E.](../characters/eve)
 - [Selene](../characters/selene)
+- [M8](../m8)
+- [Strassman](../characters/strassman)
 - [Syko](../characters/syko)
 - [Madman](../characters/madman)
 - [Pickles](../characters/pickles)
@@ -132,12 +135,15 @@ Related characters:
 
 Related files:
 
+- [Dreadit](../for-sof/dreadit)
 - [Youtopia Map](../for-sof/selenes_map)
 - [Strassman & Selene's Youtopia Findings](../for-sof/selene_youtopia_doc)
 
 Related lore:
 
+- [Nex Gen Corporation](../lore/nex-gen-corporation)
 - [Youtopia (Dimension Y-93)](../lore/youtopia)
+- [P.U.S.S-E](../lore/pusse)
 - [Lore booklet](../lore/booklet)
 - [Insights](../lore/insights)
 - [Insight: Connection](../lore/insight1-connection)
