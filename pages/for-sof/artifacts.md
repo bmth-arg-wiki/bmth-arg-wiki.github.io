@@ -127,7 +127,77 @@ Order for the pieces: 3, 4, 9, 6, 10, 7, 11, 8, 1, 2, 5
 </details>
 
 The second green puzzle unlocks [Sandpit Turtle](#sandpit-turtle). This is a joke from the Bring Me The Horizon fandom 
-based on the song Shadow Moses. The line "This is sempiternal" is often jokingly replaced by "This is sandpit turtle".
+based on the song Shadow Moses. The line "This is sempiternal" is often jokingly replaced by "This is sandpit turtle". 
+Sandpit Turtle can also be seen on [Selene's Journal](selene_personal_journal) as a sticker.
+
+### Dark Purple Puzzle
+
+<details class="password">
+<summary>Password</summary>
+Order for the pieces: 11, 7, 6, 8, 1, 10, 5, 9, 2, 3, 4
+</details>
+
+The dark purple puzzle unlocks [an umbrella](#thats-the-spirit-umbrella), from the cover of the album "That's The Spirit". 
+This puzzle and the item itself were released around the anniversary of the album and no lore connection is known.
+
+### Pink Puzzle
+
+<details class="password">
+<summary>Password</summary>
+Order for the pieces: 3, 5, 9, 1, 7, 6, 11, 2, 4, 8, 10
+</details>
+
+The pink puzzle unveils a [3D model of the cap and the archangel patches](#cap--archangel-patches) that have been added to the shop on 
+the [website](../website/website). [M8](../m8) is inside the cap.
+
+### Silver/Purple Puzzle
+
+<details class="password">
+<summary>Password</summary>
+Order for the pieces: 11, 7, 6, 8, 1, 10, 5, 9, 2, 3, 4
+</details>
+4, 7, 9, 6, 10, 1, 11, 8, 2, 3, 5
+
+The silver-purple-y puzzle reveals [Leech Blood Hair Dye](#leech-blood-hair-dye). The dye ties back 
+to [Skys](../characters/skys), who dyed his hair with leech blood in Ingleterra when he was alone in 
+an abandoned asylum (Source: [Unbeleevable 2](../for-sof/unbeleevable2)).
+
+The label on the bottle has the text 'DCPHR-4', along with a sequence of characters: `6479bnmcxz`. 
+This is theorised to be a clue to [Victor's Journal](../for-sof/carmine_interview)'s final tab, which is still locked 
+behind a cipher at the time of writing.
+
+### Grey/Silver Puzzle
+
+<details class="password">
+<summary>Password</summary>
+Order for the pieces: 11, 7, 6, 8, 1, 10, 5, 9, 2, 3, 4
+</details>
+
+The darker silver/grey puzzle reveals a 3D model of a [mask](#fantom-mask) used by 
+[Nex Gen](../lore/nex-gen-corporation)'s FANTOM team. It is unknown who it belongs to, but 
+could be related to the events around [Unbeleevable 1 leak](../for-sof/unbeleevable) or the 
+[Kingslayer Codec](../for-sof/kingslayercodec).
+
+### Ligthblue Puzzle
+
+<details class="password">
+<summary>Password</summary>
+Order for the pieces: 4, 10, 3, 1, 7, 2, 6, 9, 11, 8, 5
+</details>
+
+The lightblue puzzle reveals a bag of biohazardous 'creature remnants'. It's likely that the remains are 
+related to the [Goxmog Sightings](goxmog).
+
+### Brown Puzzle
+
+<details class="password">
+<summary>Password</summary>
+Order for the pieces: 8, 5, 3, 9, 1, 7, 11, 6, 10, 2, 4
+</details>
+
+The brown puzzle reveals the [suit](#dr-lees-suit) belonging to eccentric TV presenter 
+[Dr. Lee MD](../characters/lee-md). Lee is an enemy of [Nex Gen](../lore/nex-gen-corporation), revealing 
+their secrets in Unbeleevable [1](unbeleevable), [2](unbeleevable2) and [3](unbeleevable3).
 
 ***
 
@@ -157,20 +227,65 @@ based on the song Shadow Moses. The line "This is sempiternal" is often jokingly
 
 {% include gallery.html folder="files/artifacts/sandpit-turtle" %}
 
+### That's The Spirit Umbrella
+
+{% include gallery.html folder="files/artifacts/umbrella" %}
+
+### Cap & Archangel patches
+
+{% include gallery.html folder="files/artifacts/merch" %}
+
+### Leech Blood Hair Dye
+
+{% include gallery.html folder="files/artifacts/dye" %}
+
+### FANTOM Mask
+
+{% include gallery.html folder="files/artifacts/gasmask" %}
+
+### Creature Remnant
+
+{% include gallery.html folder="files/artifacts/goxmog" %}
+
+### Dr. Lee's Suit
+
+{% include gallery.html folder="files/artifacts/lee-suit" %}
+
 ***
 
 ## Read More
 
 Related characters:
 
+- [M8](../m8)
 - [Sof](../characters/sof)
 - [Selene](../characters/selene)
 - [Strassman](../characters/strassman)
-- [M8](../m8)
+- [Skys](../characters/skys)
+- [Dr. Lee MD](../characters/lee-md)
+- [Victor Carmine](../characters/victor-carmine) (owner of similar prosthetic finger)
+
+Related files:
+
+- [Unbeleevable Leak Email + Episode 1](unbeleevable)
+- [Unbeleevable Episode 2](unbeleevable2)
+- [Unbeleevable Episode 3](unbeleevable3)
+- [Kingslayer Codec](kingslayercodec)
+- [Scott's Diary](scott_personal_journal)
+- [Selene's Diary](selene_personal_journal)
+- [Goxmog Sightings](goxmog)
+
+Related article in The Daily Whisper:
+
+- [Gat3keeper Tragedies](../website/tdw-gatekeeper)
 
 Related lore:
 
 - [Booklet (mentions artifacts)](../lore/booklet)
+- [Sof's Journal](../website/journal)
 - [Youtopia](../lore/youtopia)
 - [Arc/Hive](../lore/archive)
+- [Nex Gen](../lore/nex-gen-corporation)
+
+
 
