@@ -59,17 +59,16 @@ The intro to the album, [Dreamseeker](../music/song-dreamseeker), [P.U.S.S-E](..
 
 ## Read More
 
-Related characters:
-
-- [E.V.E.](../characters/eve)
-
-Related website articles:
+Other games:
 
 - [Emulator](emulator)
 - [Escape Game](emulator-escape)
 - [M8 Mobile](emulator-m8mobile)
 - [Worm](emulator-worm)
-- [ARG Webpage](website)
+
+Related characters:
+
+- [E.V.E.](../characters/eve)
 
 Related music:
 

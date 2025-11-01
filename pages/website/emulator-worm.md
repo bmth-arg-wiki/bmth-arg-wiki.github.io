@@ -27,10 +27,11 @@ or the wall.
 
 ## Read More
 
-More emulator games:
+Other games:
 
 - [M8 Mobile](emulator-m8mobile)
 - [Scream Star](emulator-screamstar)
+- [Idle Game](idle)
 - There is an M8 dress up game when you click the sticky note
 
 Related characters:

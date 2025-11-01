@@ -39,7 +39,7 @@ information as much as possible and indicate whenever something is not confirmed
 The wiki has grown to over 100+ pages, growing regularly with updates from [our small team](pages/about). 
 As of the 25th of August 2025, these are the newest pages you might want to check out!
 
-{% assign page_links = '/pages/website/emulator-worm, /pages/for-sof/survival-horror-anniversary, /pages/for-sof/artifacts, /pages/lore/dreamseeker, /pages/for-sof/carmine_interview, /pages/characters/alfgram, /pages/website/emulator-worm' | split: ", " %}
+{% assign page_links = '/pages/website/dressup_m8, /pages/website/emulator-worm, /pages/for-sof/survival-horror-anniversary, /pages/for-sof/artifacts, /pages/lore/dreamseeker, /pages/for-sof/carmine_interview, /pages/characters/alfgram' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ***

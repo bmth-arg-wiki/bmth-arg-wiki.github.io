@@ -50,12 +50,13 @@ Solving this puzzle unlocks the game [M8 mobile](emulator-m8mobile).
 
 ## Read More
 
-Related website articles:
+Other games:
 
 - [Emulator](emulator)
 - [Scream Star](emulator-screamstar)
 - [M8 mobile](emulator-m8mobile)
-- [ARG Webpage](website)
+- [Worm/Snake](emulator-worm)
+- [Idle Game](idle)
 
 Related characters:
 

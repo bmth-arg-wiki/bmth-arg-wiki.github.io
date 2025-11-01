@@ -1,5 +1,5 @@
 ---
-title: "M8 mobile"
+title: "M8 Mobile"
 description: "This page is about the rhythm game Scream Star, which is a game released to promote Nex Gen."
 categories: ["website", "for-sof"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/emulator/m8mobile-300x300.png"
@@ -58,12 +58,13 @@ being subtracted at least for taking damage.
 
 ## Read More
 
-Related website articles:
+Other games:
 
 - [Emulator](emulator)
 - [Scream Star](emulator-screamstar)
 - [Painting puzzle](emulator-escape)
-- [ARG Webpage](website)
+- [Worm](emulator-worm)
+- [Idle game](idle)
 
 Related characters:
 

@@ -38,7 +38,17 @@ Please note that an additional tab was added for the [idle game](idle) in July 2
 
 The emulator contains several games from the world of Post Human!
 
-{% assign page_links = '/pages/website/emulator, /pages/website/emulator-screamstar, /pages/website/emulator-escape, /pages/website/m8mobile' | split: ", " %}
+{% assign page_links = '/pages/website/emulator, /pages/website/emulator-screamstar, /pages/website/emulator-escape, /pages/website/emulator-m8mobile, /pages/website/emulator-worm' | split: ", " %}
+{% include page-card-gallery.html links=page_links %}
+
+***
+
+## M8 Dress-Up Game
+
+Dress up [M8](../m8) in a little game! Click the message next to M8 on the website to open the post-it note. 
+This has a logo of her face you can click to open the game.
+
+{% assign page_links = '/pages/website/dressup_m8' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ***

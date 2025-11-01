@@ -16,10 +16,23 @@ the [painting puzzle](emulator-escape) can be solved to access [M8 Mobile](emula
 
 ![Contents of the emulator menu (11th of April 2025)](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/emulator/menu.png)
 
+***
+
 ## Emulator Games
 
-{% assign page_links = '/pages/website/emulator-screamstar, /pages/website/emulator-escape, /pages/website/emulator-m8mobile' | split: ", " %}
+{% assign page_links = '/pages/website/emulator-screamstar, /pages/website/emulator-escape, /pages/website/emulator-m8mobile, /pages/emulator-worm' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
+
+***
+
+## Other games
+
+There are games on the website outside the emulator as well. Their pages will tell you how to access them.
+
+{% assign page_links = '/pages/website/idle, /pages/website/dressup_m8' | split: ", " %}
+{% include page-card-gallery.html links=page_links %}
+
+***
 
 ## Read More
 
