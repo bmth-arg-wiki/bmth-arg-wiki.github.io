@@ -4,9 +4,17 @@ description: "This page is about the rhythm game Scream Star, which is a game re
 categories: ["website", "music"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/emulator/screamstar-300x300.png"
 tags: ["arg", "bmth", "bring me the horizon", "scream star", "rhythm game"]
+next: "website/emulator-escape"
+next_text: "Escape Game/Paintings"
 ---
 
 # Scream Star
+
+{% include content/info.html
+title="Game Not Available"
+content="Currently Scream Star is not available and re-directs to the official BMTH website. It is unknown 
+if or when the game will return."
+%}
 
 [Scream Star](https://www.scream-star.com/) is a rhythm game that includes most of the songs from the 
 album [POST HUMAN: NeX GEn](../music/ph-nex-gen). The game can also be connected to your own Spotify.
@@ -17,6 +25,8 @@ to the webpage, to the [emulator](emulator) category. The only character that is
 game is [Eve](../characters/eve).
 
 ![Scream Star gameplay screenshot](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/other-webpages/screamstar/gameplay.png)
+
+***
 
 ## Track list
 
@@ -39,20 +49,26 @@ The following songs appear in the game uncensored:
 The intro to the album, [Dreamseeker](../music/song-dreamseeker), [P.U.S.S-E](../music/song-pusse) and 
 [DIg It](../music/song-digit) are not available in the game. 
 
+***
+
 ## Gallery
 
 {% include gallery.html folder="other-webpages/screamstar/gallery" %}
+
+***
 
 ## Read More
 
 Related characters:
 
-- [Eve](../characters/eve)
+- [E.V.E.](../characters/eve)
 
 Related website articles:
 
 - [Emulator](emulator)
 - [Escape Game](emulator-escape)
+- [M8 Mobile](emulator-m8mobile)
+- [Worm](emulator-worm)
 - [ARG Webpage](website)
 
 Related music:

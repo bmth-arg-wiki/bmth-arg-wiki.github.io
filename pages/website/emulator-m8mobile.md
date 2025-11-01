@@ -4,6 +4,10 @@ description: "This page is about the rhythm game Scream Star, which is a game re
 categories: ["website", "for-sof"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/emulator/m8mobile-300x300.png"
 tags: ["arg", "bmth", "bring me the horizon", "scream star", "rhythm game"]
+previous: "website/emulator-escape"
+previous_text: "Escape Game"
+next: "website/emulator-worm"
+next_text: "Worm (Snake)"
 ---
 
 # M8 Mobile
@@ -18,6 +22,8 @@ we have the password over there!"
 M8 Mobile is a retro game that can be accessed through the 
 [emulator](emulator). The protagonist, our very own [M8](../m8), is in a side-scroller 
 game where she can fly and shoot. It is hidden behind the [painting puzzle](emulator-escape).
+
+***
 
 ## About
 
@@ -42,9 +48,13 @@ by shooting at it.
 Finishing the game sadly does not unlock anything. The maximum score seems to be 2900, with points 
 being subtracted at least for taking damage.
 
+***
+
 ## Gallery
 
 {% include gallery.html folder="webpage/emulator/m8mobile/gallery" %}
+
+***
 
 ## Read More
 

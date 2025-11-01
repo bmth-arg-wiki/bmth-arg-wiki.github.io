@@ -4,6 +4,10 @@ description: "This page details the new escape game from the emulator category i
 categories: ["website", "files"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/emulator/escape-game-300x300.png"
 tags: ["arg", "bmth", "bring me the horizon", "escape game", "password game"]
+previous: "website/emulator-screamstar"
+previous_text: "Scream Star"
+next: "website/emulator-m8mobile"
+next_text: "M8 Mobile"
 ---
 
 # Escape Game
