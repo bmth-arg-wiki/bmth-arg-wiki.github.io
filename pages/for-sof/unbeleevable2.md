@@ -22,7 +22,8 @@ We also learn more about [Dr. Karl Strassman](../characters/strassman) and [Dr. 
 ## About
 
 The video was first made available on the access card before being uploaded onto the ARG website and later [YouTube](https://www.youtube.com/watch?v=L71hskFwDmU).
-It's behind the sliders puzzle on the website.
+It used to be behind a slider puzzle that shows the Genxsis logo, but has since been replaced with another 
+slider puzzle for the [Survival Horror Tribute](survival-horror-anniversary).
 
 ***
 
@@ -188,20 +189,21 @@ Related characters:
 - [Skys](../characters/skys)
 - [Karl Strassman](../characters/strassman)
 - [Dallus Lauren](../characters/dallus-lauren)
-
-Other puzzle files:
-
-- [Skys' diary](skys-diary)
-- [Grumblr second entry](grumblr2)
-- [Book of Eclipse](book-of-eclipse)
-- [Cites coordinates](cities-coordinates)
+- [Victor Carmine](../characters/victor-carmine)
+- [Ava](../characters/ava)
+- [Medea](../characters/medea)
+- [Alfgram](../characters/alfgram)
 
 Related files:
 
 - [Unbeleevable Episode 1](unbeleevable)
+- [Unbeleevable Episode 3](unbeleevable3)
 - [Operation Trinity](trinity_document)
 - [Book of Eclipse](book-of-eclipse)
 - [Skys' Diary](skys-diary)
+- [The Science Study Newspaper](thesciencestudy)
+- [Russian Poem](russianpoem)
+- [Book of Eclipse](book-of-eclipse)
 
 Related lore:
 
@@ -209,3 +211,10 @@ Related lore:
 - [Church of GENXSIS](../lore/church)
 - [ARC/HIVE Corp.](../lore/archive)
 - [NEX GEN Corp.](../lore/nex-gen-corporation)
+- [Mares](../lore/mares)
+- [Ecliptism](../lore/ecliptism)
+- [Operation Trinity](../lore/operation-trinity)
+- [Operation Kingslayer](../lore/incident-kingslayer)
+- [Project D.U.S.T.](../lore/incident-dust)
+- [DTC](../lore/dtc)
+- [Novosovia](../lore/novosovia)
