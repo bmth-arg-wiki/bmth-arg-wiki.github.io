@@ -7,6 +7,8 @@ tags: ["bmth", "arg", "victor", "carmine", "interview", "reconstructed", "journa
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/carmine_interview/victor-300x300.png"
 previous: "for-sof/unbeleevable3"
 previous_text: "Unbeleevable 3"
+next: "for-sof/survival-horror-anniversary"
+next_text: "Survival Horror Tribute"
 ---
 
 # Reconstructed Carmine Interview

@@ -9,7 +9,7 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/refs/heads/m
 previous: "for-sof/cities-coordinates"
 previous_text: "Cities Coordinates"
 next: "for-sof/unbeleevable3"
-next_text: "Unbeleevable (Jigsaw Puzzle)"
+next_text: "Unbeleevable 3 (Jigsaw Puzzle)"
 ---
 
 # Module Puzzle Artifacts
