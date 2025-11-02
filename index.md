@@ -50,7 +50,7 @@ The wiki contains many pages documenting the website (including older versions),
 in-person, characters and the ARG universe and the interesting concepts within. You can find all of our articles 
 linked in these overview pages.
 
-{% assign page_links = '/pages/website/website, /pages/for-sof/for-sof, /pages/characters/characters, /pages/lore/lore, /pages/music/music' | split: ", " %}
+{% assign page_links = '/pages/website/website, /pages/for-sof/for-sof, /pages/characters/characters, /pages/lore/lore, /pages/music/music, /pages/fanart/fanart' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ***
