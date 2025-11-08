@@ -1,0 +1,35 @@
+<!-- _layouts/minimal.html -->
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+<body id="body">
+<!-- Header -->
+{% include header/header.html %}
+
+<!-- Page modal -->
+{% include modal.html %}
+
+<!-- Search -->
+<div class="search-bar">
+    {% include searchbar.html %}
+</div>
+<!-- Page-specific content -->
+<div class="container box is-flex pb-6" id="page-box">
+    <div class="container" id="page-content-container">
+        <main class="content adaptive" id="page-content">
+            <!-- Links to previous and next articles -->
+            {% include content/article-pagination.html %}
+            <!-- Navigation links above title -->
+            {% include breadcrumbs.html %}
+            <div id="page-source">
+                <!-- Page content wrapped in funny business for anchoring -->
+                {% include anchor_headings.html html=content anchorBody="#" anchorClass="heading-anchor has-text-primary"%}
+            </div>
+        </main>
+    </div>
+</div>
+<!-- Footer -->
+{% include footer/footer.html %}
+<script src="/assets/min/app.min.js"></script>
+</body>
+</html>
