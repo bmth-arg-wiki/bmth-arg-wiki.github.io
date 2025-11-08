@@ -4,3 +4,11 @@ body,
 footer {
   background-color: $base;
 }
+
+#body:has(.fanart-content) {
+  background: none;
+}
+
+.fanart-content {
+  background-image: url("/assets/imgs/bg1.png");
+}

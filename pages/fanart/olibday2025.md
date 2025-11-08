@@ -1,5 +1,5 @@
 ---
-layout: "minimal"
+layout: "fanart"
 title: "Oli's Birthday 2025"
 description: "A birthday collaboration for Oli's 39th birthday in 2025."
 categories: ["fanart"]
@@ -16,14 +16,14 @@ For Oli's birthday in 2025, the Post Human fanart community collaborated on a bi
 
 ***
 
-## Yippee yay
-
 <div class="columns is-multiline">
 <div class="column is-half">
-    {% include gallery-nav.html folder="lore/booklet/gallery" %}
+    <h2>Cards</h2>
+    {% include gallery-art-cards.html folder="oli-bday-2025" %}
 </div>
 <div class="column is-half">
-   {% include content/message/message-danger.html
+    <h2>Messages</h2>
+    {% include content/message/message-danger.html
     content="Hi Oli! I am the world's biggest Strassman fan and I like to eat humiliation for breakfast. 
     Just like him I specialize in extra dumb choices, which is why I relate to him so much in the lore. Also, when 
     can he and Skys kiss please?"
