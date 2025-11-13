@@ -122,12 +122,19 @@ Related characters:
 
 Related files:
 
-- [Operation Trinity](../for-sof/trinity_document)
-- [Dallus Diary](../for-sof/dallus-diary)
+- [Skys' Diary](../for-sof/skys-diary)
 - [Skys & the Starjammers poster](../for-sof/skystarjammers)
+- [Book of Eclipse](../for-sof/book-of-eclipse)
+- [Russian Poem](../for-sof/russianpoem)
+- [Operation Trinity](../for-sof/trinity_document)
+- [Dallus' Diary](../for-sof/dallus-diary)
+- [Project D.U.S.T. Proposal](../for-sof/project_dust)
+- [Grumblr 2036 Post](../for-sof/grumblr2)
+- [The Science Study newspaper](../for-sof/thesciencestudy)
+- [Carmine Interview](../for-sof/carmine_interview)
 - [Unbeleevable Episode 1](../for-sof/unbeleevable)
 - [Unbeleevable Episode 2](../for-sof/unbeleevable2)
-- [The Science Study newspaper](../for-sof/thesciencestudy)
+- [Unbeleevable Episode 3](../for-sof/unbeleevable3)
 - [Dreadit post](../for-sof/dreadit)
 
 Related lore:
