@@ -31,7 +31,7 @@ they are part of a predatory nightmare.
 
 Rebecca Sinclair, the world's first synthetic human, was notably the first to fall victim to this. 
 The [article on Lupamine](../website/tdw-loophole) provides us with an insight into the addictive substance known 
-as Lupamine.
+as Lupamine. The drug is also discussed in [The Rise of Lupamine](../website/tdw-riseoflupamine).
 
 While she was supposed to be a symbol for humanity's future, previously suffering from a deadly 
 disease named CERS, she became the most infamous case of Lupamine addiction. This also seems to be 
@@ -83,11 +83,26 @@ Related characters:
 
 - [Rebecca Sinclair](../characters/rebecca) 
 - [Dr. Lee MD](../characters/lee-md)
+- [Victor Carmine](../characters/victor-carmine)
+
+Related files:
+
+- [Grumblr Post 2027](../for-sof/grumblr)
+- [Grumblr Post 2036](../for-sof/grumblr2)
+- [Tekka Interview](../for-sof/tekka_interview)
 
 Related lore:
 
-- [Spyder browser](../website/webbrowser)
-- [Synths](synths)
+- [Arc/Hive](archive)
 - [Nex Gen Corporation](nex-gen-corporation)
+- [Synths](synths)
 - [P.U.S.S.-E](pusse)
+- [DTC](dtc)
+- [New Elysium](new-elysium)
 
+Related website articles:
+
+- [Spyder browser](../website/webbrowser)
+- [TDW: The Rise of Lupamine](../website/tdw-riseoflupamine)
+- [TDW: Loophole](../website/tdw-loophole)
+- [TDW: Valex' Last Words](../website/tdw-valexlastwords)
