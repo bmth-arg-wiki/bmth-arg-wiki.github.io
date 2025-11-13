@@ -17,7 +17,7 @@ next_text: "INSIGHT1.DOC"
 
 > *As Above So Below*
 
-THEINSIGHTS.DOC is a file in the [FOR SOF](../for-sof/for-sof#for-sof) folder. 
+THEINSIGHTS.DOC is a file in the [FOR SOF](../for-sof/for-sof) folder. 
 We do not know its author, but we assume that [Selene](../characters/selene) left it along with the other 
 insights documents here for [Sof](../characters/sof).
 

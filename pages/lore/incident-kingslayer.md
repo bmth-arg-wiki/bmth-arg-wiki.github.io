@@ -102,10 +102,14 @@ Related articles on [the Daily Whisper](../website/website):
 
 Related lore:
 
+- [Sof's Journal](../website/journal)
+- [Mares](mares)
 - [Cult of Mantra](mantra)
 - [Project Kingslayer](incident-kingslayer)
+- [Operation Trinity](operation-trinity)
 - [Arc/Hive](archive)
-- [Operation Trinity](archive#background)
+- [Project D.U.S.T.](incident-dust)
+- [Nex Gen](nex-gen-corporation)
 - [Chapel Incident](incident-chapel)
 
 Related songs:

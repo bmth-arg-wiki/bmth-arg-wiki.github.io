@@ -17,7 +17,7 @@ next_text: "INSIGHT2.DOC"
 > *Manifest Divine Harmony*
 
 Connection is the first of the four insights that we will need to master according to the documents in 
-the [FOR SOF folder](../for-sof/for-sof#for-sof). It was among the very first unlockable files.
+the [FOR SOF folder](../for-sof/for-sof). It was among the very first unlockable files.
 
 ***
 
@@ -135,7 +135,7 @@ This password was obtained through the spectrogram of [Top 10 staTues tHat CriEd
 
 ## Read More
 
-More from [📁 FOR SOF](../for-sof/for-sof#for-sof)
+More from [📁 FOR SOF](../for-sof/for-sof)
 
 The other Insights:
 
@@ -156,7 +156,7 @@ Related file:
 
 Related lore:
 
-- [The Relics](booklet#page-023)
+- [Deluxe album booklet](booklet)
 - [Youtopia](youtopia)
 
 Related music:

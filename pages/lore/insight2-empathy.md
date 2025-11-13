@@ -16,7 +16,7 @@ next_text: "INSIGHT3.DOC"
 
 > *Seraphic Expression*
 
-Empathy is the second insight we learn about in the [FOR SOF folder](../for-sof/for-sof#for-sof).
+Empathy is the second insight we learn about in the [FOR SOF folder](../for-sof/for-sof).
 
 ***
 
@@ -43,7 +43,7 @@ Its associations are:
 
 The hint for this insight was found in a spectrogram of the song [n/A](../music/song-na).
 
-![empathy spectrogram n/a](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/empathy/img_5.png)
+![Empathy spectrogram in song n/A](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/insights/empathy/img_5.png)
 
 ***
 
@@ -122,7 +122,7 @@ This password was obtained through the spectrogram of [n/A](../music/song-na) sh
 
 ## Read More
 
-More from [📁 FOR SOF](../for-sof/for-sof#for-sof)
+More from [📁 FOR SOF](../for-sof/for-sof)
 
 The other Insights:
 
@@ -143,7 +143,7 @@ Related file:
 
 Related lore:
 
-- [The Relics](booklet#page-023)
+- [Deluxe album booklet](booklet)
 - [Youtopia](youtopia)
 
 Related music:
