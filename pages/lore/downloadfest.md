@@ -16,7 +16,8 @@ The Downloadfest event introduced [the Church of Genxsis](church) and seems to h
 
 ## genxsis.faith
 
-The [website for downloadfest](https://www.genxsis.faith/) is still up and contains a cypher.
+The [website for downloadfest](https://www.genxsis.faith/) is still up and contains a cypher. This alternative 
+alphabet is still used on different types of promotional material in 2025.
 
 ![Cypher wheel](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/church/cypher-300x300.png)
 
@@ -24,7 +25,7 @@ The cypher can be obtained by clicking the symbol in the upper right corner.
 
 ![Bring Me The Horizon in the cypher symbols](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/other-webpages/bmth_cypher.png)
 
-It is sometimes used to spell out "BRING ME THE HORIZON" (pictured above) or "NEX GEN" on  current [promotional material](../socials).
+It is sometimes used to spell out "BRING ME THE HORIZON" (pictured above) or "NEX GEN" on current [promotional material](../socials).
 
 ---
 
@@ -44,6 +45,7 @@ with information later presented officially through Sof's [journal](../website/j
 
 Related lore:
 
-* [Genesis storyline](genesis-storyline)
-* [Nex Gen Corporation](./nex-gen-corporation)
-* [Church of Genxsis](church)
+- [Mantra Cult](mantra)
+- [Genesis storyline](genesis-storyline)
+- [Nex Gen Corporation](nex-gen-corporation)
+- [Church of Genxsis](church)
