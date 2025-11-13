@@ -53,7 +53,7 @@ After decades, they received a strange faint signal in 1983. The Novosovians tho
 them into lowering their guard. The conflict escalated, with the Novosovians' government afraid of losing the 
 grip they had on their population through religion. Carmine was thrown into the Third World War. This caused 
 him to lose his father and brothers, according to Carmine himself. After being seriously injured in the war, 
-he also got his cybernetic parts, which he remakrs make him look "like a metal tin can". He inherited his whole 
+he also got his cybernetic parts, which he remarks make him look "like a metal tin can". He inherited his whole 
 family's empire after this. A prosthetic finger that matches Carmine's can be seen in the [artifacts](../for-sof/artifacts).
 
 With Carmine now as the head of an empire, he went to the DTC to offer them his resources. His condition was that they 
