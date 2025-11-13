@@ -103,6 +103,7 @@ Related characters:
 - [Skys](../characters/skys)
 - [Karl Strassman](../characters/strassman)
 - [Dallus Lauren](../characters/dallus-lauren)
+- [Ikaro Lauren](../characters/ren)
 - [Alfgram](../characters/alfgram)
 - [Angeldust (speculated)](../characters/angeldust)
 
