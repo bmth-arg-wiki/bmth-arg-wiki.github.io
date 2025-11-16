@@ -38,23 +38,29 @@ content="This article deals with triggering topics, like X."
 For the fan art page, we designed a new component where people can leave their own messages. 
 They have separate styling to indicate that they are separate from the block quotes we use for canon documents.
 
-{% include content/message/message-danger.html
+{% include content/message/message.html
 content="I am a very dangerous the danger message!"
+color="danger"
 %}
-{% include content/message/message-info.html
+{% include content/message/message.html
 content="I am the info message!."
+color="info"
 %}
-{% include content/message/message-link.html
+{% include content/message/message.html
 content="I am the message using the link colour yippee yay!."
+color="link"
 %}
-{% include content/message/message-warning.html
+{% include content/message/message.html
 content="Before the danger there is the warning blabla."
+color="warning"
 %}
-{% include content/message/message-primary.html
+{% include content/message/message.html
 content="THIS IS THE MAIN COLOUR! YEAH."
+color="primary"
 %}
-{% include content/message/message-success.html
+{% include content/message/message.html
 content="THIS IS A SUCCESS MESSAGE! very exciting but nothing actually needs this class usually."
+color="success"
 %}
 
 ## Buttons
