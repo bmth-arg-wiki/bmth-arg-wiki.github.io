@@ -1,0 +1,21 @@
+<div class="gallery-art-cards columns is-multiline" data-folder="{{ include.folder }}">
+    <!-- Images will be loaded here -->
+</div>
+
+<!-- Modal for image navigation -->
+<div id="art-card-modal" class="modal">
+    <div class="modal-background"></div>
+    <div class="modal-content has-text-centered is-flex is-align-items-center is-justify-content-space-between">
+        <button class="button nav-button prev-button is-primary is-small m-2">
+            <i class="fa-solid fa-chevron-left"></i>
+        </button>
+        <figure class="image is-large">
+            <img id="art-card-modal-image" src="" alt="">
+        </figure>
+        <button class="button nav-button next-button is-primary is-small m-2">
+            <i class="fa-solid fa-chevron-right"></i>
+        </button>
+    </div>
+    <button class="modal-close is-large" aria-label="close"></button>
+</div>
+

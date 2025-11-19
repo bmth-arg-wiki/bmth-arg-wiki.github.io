@@ -1,0 +1,14 @@
+<!-- Colour options and order -->
+{% assign colors = "danger,info,link,warning,primary,success" | split: "," %}
+
+<div>
+    <h2>{{ title | default: "Messages" }}</h2>
+
+    {% for msg in include.messages %}
+        <!-- Choose the colours using the current index  -->
+        {% assign idx = forloop.index0 | modulo: colors.size %}
+        {% assign color = colors[idx] %}
+        <!-- Instantiate the message --->
+        {% include content/message/message.html message=msg color=color %}
+    {% endfor %}
+</div>

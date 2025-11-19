@@ -25,7 +25,7 @@ This device can use [M8](../m8) as a controller, by plugging her into the M8 por
 
 # Gallery
 
-{% include gallery.html folder="lore/booklet/gallery" %}
+{% include gallery-nav.html folder="lore/booklet/gallery" %}
 
 ***
 

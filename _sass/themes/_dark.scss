@@ -1,5 +1,6 @@
 @use "../variables" as *;
 
+
 @media (prefers-color-scheme: dark) {
 
   /* Elements that require (regular) text re-colour */
@@ -21,8 +22,17 @@
   }
 
   /* Body */
+
   #body {
     background-color: $gray-darkest;
+  }
+
+  #body:has(.fanart-content) {
+    background: none;
+  }
+
+  .fanart-content {
+    background-image: url("/assets/imgs/fanart-background.png");
   }
 
   /* Header */
