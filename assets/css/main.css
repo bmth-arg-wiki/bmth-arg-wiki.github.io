@@ -21756,7 +21756,7 @@ footer {
 }
 
 .fanart-content {
-  background-image: url("/assets/imgs/bg1.png");
+  background-image: url("/assets/imgs/fanart-background.png");
 }
 
 @media (prefers-color-scheme: dark) {
@@ -21783,7 +21783,7 @@ footer {
     background: none;
   }
   .fanart-content {
-    background-image: url("/assets/imgs/bg1.png");
+    background-image: url("/assets/imgs/fanart-background.png");
   }
   /* Header */
   header .tabs.is-boxed li.is-active a {

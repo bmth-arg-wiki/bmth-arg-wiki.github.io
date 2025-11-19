@@ -10,16 +10,19 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/fanart/
 
 # Oli's Birthday 2025
 
-![Happy Birthday Oil Skys <3](lol.png)
+![Happy Birthday Oil Skys <3](https://raw.githubusercontent.com/bmth-arg-wiki/art-assets/main/oli-bday-2025/bday-banner.png)
 
-For Oli's birthday in 2025, the Post Human fanart community collaborated on a birthday zine. Oli, this one is for you!
+For Oli's birthday in 2025, the Post Human fans created some beautiful art to celebrate. The cards are all different 
+versions of Oli, drawn by many talented artists. You will also find some lovely birthday messages from the fans here. 
+
+Special thanks to the Artnam Community for working so hard on this project and always motivating our team and each other.
 
 ***
 
 <div class="columns is-multiline">
 <div class="column is-half">
     <h2>Cards</h2>
-    {% include gallery-art-cards.html folder="oli-bday-2025" %}
+    {% include gallery-art-cards.html folder="oli-bday-2025/cards/" %}
 </div>
 <div class="column is-half">
     {% include content/message/message-list.html 

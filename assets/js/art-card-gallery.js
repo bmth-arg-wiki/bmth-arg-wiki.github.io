@@ -13,7 +13,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
     async function loadGallery(gallery, folder) {
         const galleryUrl = `${baseUrl}${folder}`;
-        console.log(galleryUrl);
         try {
             const response = await fetch(galleryUrl);
             const files = await response.json();
