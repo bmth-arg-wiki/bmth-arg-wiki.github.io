@@ -34,6 +34,13 @@ Special thanks to the Artnam Community for working so hard on this project and a
 
 *** 
 
+{% include content/danger.html
+title="Copyright Notice"
+content="The artwork shown on this site is used with explicit permission from the original artists.
+You may not copy, scrape, download, redistribute, or use these images for AI training, datasets, or any other purpose without prior written permission.
+All rights remain with the artists."
+%}
+
 ## Read More
 
 - [Fanart](fanart)
