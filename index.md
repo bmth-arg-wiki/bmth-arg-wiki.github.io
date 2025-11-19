@@ -34,6 +34,18 @@ information as much as possible and indicate whenever something is not confirmed
 
 ***
 
+## HAPPY BIRTHDAY OLIVER
+
+For Oliver's birthday on the 20th of November we are launching a new section on the wiki. 
+We would like to show off some of the beautiful fan art as a thank you for everything.
+
+Please check out these collaborations from the Post Human fandom!
+
+{% assign page_links = '/pages/fanart/fanart, /pages/fanart/olibday2025, /pages/fanart/halloween2025' | split: ", " %}
+{% include page-card-gallery.html links=page_links %}
+
+***
+
 ## Newest Pages
 
 The wiki has grown to over 100+ pages, growing regularly with updates from [our small team](pages/about). 

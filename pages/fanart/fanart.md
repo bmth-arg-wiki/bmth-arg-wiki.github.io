@@ -1,4 +1,5 @@
 ---
+layout: "fanart"
 title: "Fanart"
 description: "Explore the Post Human fanart collaborations!"
 categories: ["fanart"]
@@ -18,12 +19,11 @@ artist community's talents.
 
 ***
 
-## Oli's Birthday 2025
+## Fan Art Collabs
 
-Oli was born on the 20th of November 1986, turning 39 in 2025. The fanart community organised to create a present 
-for Oli, under lead of owsel. 
+Please check out the collaborations from the Post Human fandom!
 
-{% assign page_links = '/pages/fanart/olibday2025' | split: ", " %}
+{% assign page_links = '/pages/fanart/olibday2025, /pages/fanart/halloween2025' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ***
