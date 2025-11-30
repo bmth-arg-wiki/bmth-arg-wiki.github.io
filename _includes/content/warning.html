@@ -1,0 +1,9 @@
+<article class="message is-warning">
+    <div class="message-header">
+        <p class="mb-0">{{ include.title }}</p>
+        <span><i class="{{ include.icon | default: 'fa-solid fa-triangle-exclamation' }}"></i></span>
+    </div>
+    <div class="message-body">
+        {{ include.content | markdownify }}
+    </div>
+</article>
