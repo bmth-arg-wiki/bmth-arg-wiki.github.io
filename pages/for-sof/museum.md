@@ -1,7 +1,7 @@
 ---
 title: "M8's VR Museum"
 description: "A virtual museum where M8 can find several items related to Skys and the Survival Horror album cover ritual."
-categories: ["website", "for-sof"]
+categories: ["for-sof"]
 tags: ["bmth", "arg", "museum", "m8", "multidimensional navigator 8", "starjammers", "skys", "kingslayer", "nex gen", "archive", 
 "sof", "ritual", "sao paulo", "cathedral", "dolphin", "golden tree", "statue"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/museum/locks-300x300.png"

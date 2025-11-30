@@ -1,7 +1,7 @@
 ---
 title: "PH:SH Tribute"
 description: "A tribute to the 5th birthday of POST HUMAN: SURVIVAL HORROR."
-categories: ["website", "for-sof"]
+categories: ["for-sof"]
 tags: ["bmth", "arg", "bring me the horizon", "post human", "survival horror", "dear diary", "kingslayer", "prophecy"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/ph-sh-anniversary/ph-3d-300x300.png"
 previous: "for-sof/carmine_interview"
