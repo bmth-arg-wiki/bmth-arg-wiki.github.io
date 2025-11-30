@@ -48,6 +48,15 @@
 @use "themes/_dark";
 
 /*
+/ DEBUG
+ */
+
+* {
+  outline: 2px red solid;
+  background-color: rgba(100,0,0,0.2);
+}
+
+/*
  * Mobile
  */
 

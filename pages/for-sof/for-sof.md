@@ -47,7 +47,7 @@ Since the December 4th 2024 update, there is now an `inventory` on the [webpage]
 four puzzles, which have all been unlocked. This update also included the release of [Dallus' diary](dallus-diary) that
 is in the FOR SOF folder.
 
-{% assign page_links = '/pages/for-sof/skys-diary, /pages/for-sof/grumblr2, /pages/for-sof/book-of-eclipse, /pages/for-sof/unbeleevable2, /pages/for-sof/unbeleevable3, /pages/for-sof/cities-coordinates, /pages/for-sof/artifacts, /pages/survival-horror-anniversary' | split: ", " %}
+{% assign page_links = '/pages/for-sof/skys-diary, /pages/for-sof/grumblr2, /pages/for-sof/book-of-eclipse, /pages/for-sof/unbeleevable2, /pages/for-sof/unbeleevable3, /pages/for-sof/cities-coordinates, /pages/for-sof/artifacts, /pages/for-sof/survival-horror-anniversary, /pages/for-sof/museum' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ***

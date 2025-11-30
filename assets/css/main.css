@@ -21825,6 +21825,14 @@ footer {
   }
 }
 /*
+/ DEBUG
+ */
+* {
+  outline: 2px red solid;
+  background-color: rgba(100, 0, 0, 0.2);
+}
+
+/*
  * Mobile
  */
 @media screen and (max-width: 1023px) {
