@@ -37,9 +37,9 @@ information as much as possible and indicate whenever something is not confirmed
 ## Newest Pages
 
 The wiki has grown to over 100+ pages, growing regularly with updates from [our small team](pages/about). 
-As of the 25th of August 2025, these are the newest pages you might want to check out!
+These are the newest (or most recently expanded) pages on our wiki!
 
-{% assign page_links = '/pages/for-sof/museum, /pages/website/dressup_m8, /pages/website/emulator-worm, /pages/for-sof/survival-horror-anniversary, /pages/for-sof/artifacts' | split: ", " %}
+{% assign page_links = '/pages/website/skys-diary, /pages/for-sof/museum, /pages/website/dressup_m8, /pages/website/emulator-worm, /pages/for-sof/survival-horror-anniversary, /pages/for-sof/artifacts' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ***
