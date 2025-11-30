@@ -43,6 +43,7 @@ document.addEventListener('DOMContentLoaded', () => {
         'lore': '<i class="fa-solid fa-book-open"></i>',
         'characters': '<i class="fa-solid fa-address-card"></i>',
         'website': '<i class="fa-solid fa-desktop"></i>',
+        'fanart': '<i class="fa-solid fa-palette"></i>',
         default: '<i class="fas fa-newspaper"></i>'
     };
 

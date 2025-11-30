@@ -16,7 +16,7 @@ next_text: "INSIGHT4.DOC"
 
 > *The Waltz Of Existence*
 
-Purpose is the third insight we get told about in the [FOR SOF](../for-sof/for-sof#for-sof) folder.
+Purpose is the third insight we get told about in the [FOR SOF](../for-sof/for-sof) folder.
 
 ***
 
@@ -116,7 +116,7 @@ This password was obtained through the spectrogram of [[ost] p.u.s.s.-e](../musi
 
 ## Read More
 
-More from [📁 FOR SOF](../for-sof/for-sof#for-sof)
+More from [📁 FOR SOF](../for-sof/for-sof)
 
 The other Insights:
 
@@ -137,7 +137,7 @@ Related file:
 
 Related lore:
 
-- [The Relics](booklet#page-023)
+- [Deluxe album booklet](booklet)
 - [Youtopia](youtopia)
 
 Related music:

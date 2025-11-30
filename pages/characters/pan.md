@@ -8,7 +8,9 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 ---
 # Pan
 
->In the shadowy mountains found in the east of YOUtopia, lies the impossibly labyrinthian ruins of Pan.
+> In the shadowy mountains found in the east of YOUtopia, lies the impossibly labyrinthian ruins of Pan.
+> 
+> - [Album/vinyl booklet](../lore/booklet)
 
 ![Pan's avatar after turning pink](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/pan/8pan.png)
 
@@ -60,15 +62,24 @@ that he might be her father or otherwise related.
 
 ## Read more
 
-- [Characters](../characters)
+Related characters:
 
-Insight 1: Connection
-
-- [Insight 1: Connection](../lore/insight1-connection)
 - [Raphael — Archangel of Connection](raphael)
 - [Syko](syko)
-
-Other [omens](../characters#omens):
-
+- [Selene (speculated)](selene)
+- [Sof (speculated)](sof)
 - [Miseria](miseria)
 - [Vanth](vanth)
+- [The Babylon](babylon)
+
+Related files:
+
+- [Selene's map](../for-sof/selenes_map)
+- [Youtopia Research](../for-sof/selene_youtopia_doc)
+
+Related lore:
+
+- [Lore booklet](../lore/booklet)
+- [The Insights](../lore/insights)
+- [Insight 1: Connection](../lore/insight1-connection)
+- [Youtopia](../lore/youtopia)

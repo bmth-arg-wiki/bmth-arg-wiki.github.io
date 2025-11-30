@@ -40,17 +40,27 @@ remained user 0009 until the December 2024 update.
 
 {% include gallery.html folder="characters/miseria/gallery" %}
 
+***
+
 ## Read More
 
-- [Characters](../characters)
+Related characters:
 
-Insight 2: Empathy
-
-- [Insight 2: Empathy](../lore/insight2-empathy)
 - [Gabriel](gabriel)
 - [Madman](madman)
-
-Other omens:
- 
+- [Selene](selene)
 - [Pan](pan)
 - [Vanth](vanth)
+- [The Babylon](babylon)
+
+Related files:
+
+- [Selene's Map](../for-sof/selenes_map)
+- [Youtopia Research](../for-sof/selene_youtopia_doc)
+
+Related lore:
+
+- [Lore booklet](../lore/booklet)
+- [The Insights](../lore/insights)
+- [Insight 2: Empathy](../lore/insight2-empathy)
+- [Youtopia](../lore/youtopia)

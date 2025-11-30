@@ -1,7 +1,7 @@
 ---
 title: "Russian Poem"
-description: "The Russian poem is a mysterious poem, seemingly about love to an unknown 
- A from an unknown S."
+description: "The Russian poem is a mysterious poem from Strassman to Ava. It contains details of their affair, 
+which is hidden from Skys at the time of sending."
 categories: ["for-sof"]
 tags: ["russian", "poem", "skys", "mantra", "cult", "for sof"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/russian_poem/poem-300x300.png"
@@ -20,12 +20,13 @@ on the 7th of June. "дорогая моя любовь" roughly translates to "
 
 Sof estimates the date of the letter to be between 2004 and 2020, specifically referring to the years
 [Skys & the Starjammers](skystarjammers) played at October Palace and the year of [Operation Trinity](trinity_document) 
-and the fall of the [MANTRA cult](../lore/mantra).
+and the fall of the [MANTRA cult](../lore/mantra). 
 
-In Unbeleevable 2 we learn about a woman [Strassman](../characters/strassman) fell in love with named Ava, 
-but [Dallus' diary](dallus-diary), written at ARC/HIVE after Operation Trinity on the 19th of January 2021, tells us that she died. 
-They met at October Palace at the Skys & the Starjammers concert. This makes Ava a likely candidate to be 
-the receiver of this letter, but this has not been confirmed.
+This lines up with the affair between [Strassman](../characters/strassman) and [Ava](../characters/ava) and 
+[Unbeleevable Episode 3](../for-sof/unbeleevable3) confirms this letter was sent by the scientist. The pair 
+met at October Palace at a concert from [Skys & the Starjammers](skystarjammers) in 2004.
+Sadly, [Dallus' diary](dallus-diary) reveals that Ava did not make it out of the [Mantra cult](../lore/mantra) 
+alive.
 
 ***
 
@@ -111,4 +112,20 @@ The password was found by taking multiple pieces of a letter from an
 
 ## Read more
 
-More from [📁 FOR SOF](../for-sof)
+Related characters:
+
+- [Ava](../characters/ava)
+- [Strassman](../characters/strassman)
+
+Related files:
+
+- [Skys & the Starjammers Poster](../for-sof/skystarjammers)
+- [Unbeleevable Episode 1](../for-sof/unbeleevable)
+- [Unbeleevable Episode 2](../for-sof/unbeleevable2)
+- [Unbeleevable Episode 3](../for-sof/unbeleevable3)
+- [Dallus' Diary](dallus-diary)
+
+Related lore:
+
+- [Cult of Mantra](../lore/mantra)
+- [Novosovia](../lore/novosovia)

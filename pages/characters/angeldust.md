@@ -38,5 +38,5 @@ When her arrival is communicated to [E.V.E](eve) during the live shows, it becom
 - [Nex Gen Corporation](../lore/nex-gen-corporation)
 - [Church of Genxsis](../lore/church)
 
-Angeldust might also be linked to [Project D.U.S.T.](../for-sof/project_dust).
+Angeldust might also be linked to [Project D.U.S.T.](../lore/incident-dust).
 

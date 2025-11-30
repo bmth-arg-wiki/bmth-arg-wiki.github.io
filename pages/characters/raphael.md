@@ -30,6 +30,8 @@ There is now a total of 18 profiles, fromm 0000 to 0017.
 
 Additionally, the picture for user 0007 used to be [Uriel](uriel)'s picture.
 
+***
+
 ## Gallery
 
 {% include gallery.html folder="characters/raphael/gallery" %}
@@ -37,13 +39,6 @@ Additionally, the picture for user 0007 used to be [Uriel](uriel)'s picture.
 ***
 
 ## Read More
-
-More [Characters](characters)!
-
-Related lore:
-
-- [Insight 1: Connection](../lore/insight1-connection)
-- [YOUtopia](../lore/youtopia)
 
 Related characters:
 
@@ -56,6 +51,18 @@ Other [archangels](characters#the-archangels):
 - [Gabriel](gabriel)
 - [Michael](michael)
 - [Uriel](uriel)
+
+Related files:
+
+- [Selene's map](../for-sof/selenes_map)
+- [Selene Youtopia Research](../for-sof/selene_youtopia_doc)
+
+Related lore:
+
+- [Lore booklet](../lore/booklet)
+- [The Insights](../lore/insights)
+- [Insight 1: Connection](../lore/insight1-connection)
+- [YOUtopia](../lore/youtopia)
 
 Related music:
 

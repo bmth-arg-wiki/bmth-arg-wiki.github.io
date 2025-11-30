@@ -25,19 +25,26 @@ She suffers from CERS, or Chronic Environmental Respiratory Syndrome. She remark
 still a virgin and mostly spends time at her own house around her cats. She speaks about her bond with her 
 quirky coworker [Iara](iara) and how her diagnosis affects her. We learn that [Dallus](dallus-lauren) is working on 
 something that could save her, but she is already experiencing neurological symptoms and struggling to put on lipstick.
+At the time of her illness, she works at [ARC/HIVE](../lore/archive) as a lab assistant. 
 
-At the time of her illness, she works at [ARC/HIVE](../lore/archive) as a lab assistant. In the [2028 Tekka interview](../for-sof/tekka_interview) 
+### Synth body
+
+In the [2028 Tekka interview](../for-sof/tekka_interview) 
 we learn that things seem to have improved for Rebecca. She had become the first [synth](../lore/synths) in a successful project that 
 the company credited to [Nex Gen](../lore/nex-gen-corporation), ARC/HIVE's new name. Nex Gen is so confident in the 
 resilience of their Synthetic Neurological Transference Human (synth), they have her smoke as a marketing ploy.
 Rebecca also made a promotion to head of R&D (Research & Development). Interviewer Jax Jackson asks her about working with 
 Dallus, [Strassman](strassman) and [Victor Carmine](victor-carmine), but she shuts the interviewer down.
 
+### Working on Synths
+
 On November 5th 2036 we hear from Rebecca on [Grumblr](../for-sof/grumblr2) again. She writes about her day, working with 
 Strassman and Dallus on the SYNTH project she was a part of years earlier. Unexpectedly, she learns that [Skys](skys) 
 is not only still alive, but Strassman and Dallus plan to transfer his consciousness into a synth. Skys, not so happy 
 to awake as a synth, starts begging the three scientists for death. While Strassman and Dallus argue about the state of him, 
 Rebecca states that she will "do it". It is currently unknown what happens to Skys after.
+
+### Lupamine
 
 From unlocking the credentials for the [Spyder](../website/webbrowser), we get access to several articles from the Daily Whisper. 
 One of the articles details that sadly, Rebecca had fallen victim to a [lupamine](../lore/lupamine) addiction, becoming 
@@ -66,6 +73,17 @@ Related articles:
 
 Related characters:
 
-- [Dallus Lauren](dallus-lauren)
-- [Iara](iara)
-- [Strassman](strassman)
+- [Iara Copple](iara)
+- [Dr. Dallus Lauren](dallus-lauren)
+- [Ikaro (Ren) Lauren](ren)
+- [Dr. Karl Strassman](strassman)
+- [Victor Carmine](victor-carmine)
+- [Dr. Elias Mortem](elias-mortem)
+
+Related lore:
+
+- [Arc/Hive](../lore/archive)
+- [Nex Gen](../lore/nex-gen-corporation)
+- [Lupamine](../lore/lupamine)
+- [Synths](../lore/synths)
+- [DTC](../lore/dtc)

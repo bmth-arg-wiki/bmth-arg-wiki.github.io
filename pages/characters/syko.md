@@ -3,7 +3,7 @@ title: "Syko"
 description: "Syko is one of seemingly several stand-ins for Oliver Sykes in-universe. Oli, as the fans refer to him, 
 is the lead vocalist of Bring Me The Horizon."
 categories: ["characters"]
-tags: ["syko", "oliver sykes", "bring me the horizon", "bmth", "scott", "oskar", "dear diary"]
+tags: ["syko", "oliver sykes", "bring me the horizon", "bmth", "scott", "oskar", "dear diary", "raphael", "connection"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/syko/syko-300x300.png"
 ---
 # Syko
@@ -41,10 +41,6 @@ in which the young man succumbs to a [VSPR-37](../lore/vspr37) infection.
 
 ## Read More
 
-Related lore:
-
-- [Insight 1: Connection](../lore/insight1-connection)
-
 Related characters:
 
 - [Archangel Raphael](raphael)
@@ -56,3 +52,16 @@ Other [band members](characters#band-members):
 - [Vegan / Matt K.](vegan)
 - [Madman / Lee](madman)
 - [Pickles / Mat N.](pickles)
+
+Related files:
+
+- [Scott's Diary (through password)](../for-sof/scott_personal_journal)
+- [Selene's Map](../for-sof/selenes_map)
+- [Youtopia Research](../for-sof/selene_youtopia_doc)
+
+Related lore:
+
+- [Lore booklet](../lore/booklet)
+- [The Insights](../lore/insights)
+- [Insight 1: Connection](../lore/insight1-connection)
+- [Youtopia](../lore/youtopia)

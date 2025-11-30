@@ -12,8 +12,11 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 # Dallus Lauren
 
 Dallus Lauren, also referred to as 'Dallas Lauren' in the [Unbeleevable](../for-sof/unbeleevable) 
-video, is one of [the Trinity](../characters#trinity).
-According to the [D8 log](../for-sof/lauren_d8_log), he died in or before 2037.
+video, is one of the Trinity, powerful men within the [Mantra cult](../lore/mantra), later 
+ending up as an employee at [Arc/Hive](../lore/archive).
+
+According to the [D8 log](../for-sof/lauren_d8_log), Dallus Lauren died in or before 2037. He is last mentioned 
+in [Rebecca's second Grumblr post](../for-sof/grumblr2), which is in November 2036.
 
 ![Dallus 'Dallas' Lauren in Unbeleevable episode 1](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/unbeleevable/gallery/dallus_lauren_unbeleevable.png)
 
@@ -27,24 +30,33 @@ My father envisioned a future where these would mitigate the environmental colla
 > 
 > - Ren in the [D8 log](../for-sof/lauren_d8_log)
 
+The [Trinity document](../for-sof/trinity_document) shows us that Dallus in the man we see
+in the music video for [In the Dark](../music/amo-in-the-dark), played by Forest Whitaker. It is unknown when exactly
+this event takes place, but we seem to see Skys as a [synth](../lore/synths) here, placing it after 2036 and before his death.
+
 ### Dallus & Mantra
 
 On the fateful day of [19th of December 2004](../for-sof/skystarjammers) Dallus first gets involved with unethical human 
 experimentation at October Palace. From [Unbeleevable Episode 2](../for-sof/unbeleevable2) we learn that on this day, he had come along 
-with [Strassman](strassman), who was deeply intrigued by the ramblings of [Mantra](../lore/mantra) cult leader [Skys](skys). Although Dallus was 
-hesitant at first, him and their assistant Ro came along to meet him at the Skys & the Starjammers soirée.
+with [Strassman](strassman), who was deeply intrigued by the ramblings of [Mantra](../lore/mantra) cult leader [Skys](skys). 
+Although Dallus was hesitant at first, him and their assistant Ro came along to meet him at the Skys & the Starjammers soirée.
 On this night, while much debauchery was going on, Dallus intended to leave when Skys did something to their assistant Ro. 
 Both Dallus and Lauren decided to stay and push the boundaries of neurospiritual science.
 
-However, the cult of Mantra (also known as the Neosages) eventually fell in an event also named the October Massacre, also 
-at October Palace in Novosovia. Dallus and [Elena](elena-lauren) fled from Novosovia with their son Ren, while Elena went 
+Skys' torture escalated with the start of [Project Kingslayer](../lore/incident-kingslayer) in 2015. A message from Skys 
+recruiting the youth of [Novosovia](../lore/novosovia) reached [Victor Carmine](victor-carmine) in the [DTC](../lore/dtc) instead. 
+According to [Unbeleevable episode 3](../for-sof/unbeleevable3), this eventually caused Dallus to snap.
+
+However, the cult of Mantra (also known as the Neosages) actually falls somewhat later in an event also named the October Massacre,  
+at October Palace in Novosovia. Dallus and [Elena](elena-lauren) flee from Novosovia with their son Ren, while Elena goes 
 into labour. [ARC/HIVE](../lore/archive) was very interested in the scientist and his companions, leading boss [Victor Carmine](victor-carmine) 
-to order their extraction in an operation nicknamed [Operation Trinity](../for-sof/trinity_document). 
+to order their extraction in an operation nicknamed [Operation Trinity](../for-sof/trinity_document).
+
 Dallus and his family were extracted in time for their youngest, [Lyra](lyra-lauren), to be born in the safety of ARC/HIVE's lab. 
 Shortly after, he writes his [diary](../for-sof/dallus-diary) and [Project D.U.S.T.](../for-sof/project_dust) is first proposed.
 From the research proposal we learn that Dallus is undergoing desensitization protocols for his [mares](../lore/mares), 
 which he likely got as a result of Skys and his cult. More concerning is the fact that his daughter Lyra, born at ARC/HIVE 
-and not exposed to the cult, is also seeing and drawing mares. This suggests that the mares may have been transferred genetically.
+and not exposed to the cult, is also seeing and drawing mares. This suggests that the occurrence of mares may have a genetic component.
 
 ### The Car Crash
 
@@ -71,40 +83,48 @@ has tragically passed away, in [E.V.E.'s genesis log](../for-sof/lauren_d8_log).
 
 ![Comparison of photos to Operation Trinity document shot](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/dallus/dallus_mantraleader.png)
 
-The [trinity document](../for-sof/trinity_document) shows us that Dallus in the man we see 
-in the music video for [In the Dark](../music/amo-in-the-dark), played by Forest Whitaker.
-
 ***
 
 ## Read More
 
-More on the Trinity:
-
-- [The Trinity (characters)](../characters#trinity)
-- [Skys](skys)
-- [Karl Strassman](strassman)
-
 Related characters:
 
-- [Ikaro Lauren (Ren)](ren)
+- [Skys](skys)
+- [Karl Strassman](strassman)
+- [Ikaro (Ren) Lauren](ren)
 - [Lyra Lauren](lyra-lauren)
 - [Elena Lauren](elena-lauren)
+- [Alfgram](alfgram)
+- [Victor Carmine](victor-carmine)
 
 Related lore:
 
+- [Mantra Cult](../lore/mantra)
+- [Ecliptism](../lore/ecliptism)
+- [Project Kingslayer](../lore/incident-kingslayer)
+- [Operation Trinity](../lore/operation-trinity)
 - [ARC/HIVE](../lore/archive)
+- [Project D.U.S.T.](../lore/incident-dust)
+- [Nex Gen Corporation](../lore/nex-gen-corporation)
+- [Mares](../lore/mares)
+- [Synths](../lore/synths)
+- [Novosovia](../lore/novosovia)
+- [DTC](../lore/dtc)
+- [New Elysium](../lore/new-elysium)
 
 Related files:
 
 - [Lauren's D8 log](../for-sof/lauren_d8_log)
-- [Operation Trinity](../for-sof/trinity_document)
-- [Project D.U.S.T.](../for-sof/project_dust)
+- [Operation Trinity article](../for-sof/trinity_document)
+- [Project D.U.S.T. proposal](../for-sof/project_dust)
 - [Dallus' Diary](../for-sof/dallus-diary)
 - [Grumblr post 2027](../for-sof/grumblr)
 - [Grumblr post 2036](../for-sof/grumblr2)
 - [Unbeleevable Episode 1](../for-sof/unbeleevable)
 - [Unbeleevable Episode 2](../for-sof/unbeleevable2)
+- [Unbeleevable Episode 3](../for-sof/unbeleevable3)
 
 Related music:
 
+- [MANTRA](../music/amo-mantra)
 - [In the Dark](../music/amo-in-the-dark)

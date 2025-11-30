@@ -4,25 +4,60 @@ description: "This page details the new escape game from the emulator category i
 categories: ["website", "files"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/emulator/escape-game-300x300.png"
 tags: ["arg", "bmth", "bring me the horizon", "escape game", "password game"]
+previous: "website/emulator-screamstar"
+previous_text: "Scream Star"
+next: "website/emulator-m8mobile"
+next_text: "M8 Mobile"
 ---
 
 # Escape Game
 
 > You have entered a small room with three oddly unsettling 
-> paintings infront of you. They almost look alive, the sooner you get 
+> paintings in front of you. They almost look alive, the sooner you get 
 > out of this room the better.
 
-This mysterious game dropped on April 11th and has not been cracked yet. It does not have an official name yet, 
-but is most similar to an escape room game.
+![Initial password prompt screenshot](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/emulator/escape/odd-paintings.png)
 
-![Password prompt screenshot](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/emulator/escape/odd-paintings.png)
+The image shown seems to contain several glowing numbers and a prompt to "Submit Answer".
 
-The image shown seems to contain several numbers and a prompt to "Submit Answer".
+## About
+
+This mysterious game dropped on April 11th, taking a while to solve. On the 20th of August the
+game was updated, with a little star placed next to it. This made the numbers on the puzzle easier to read, which resulted
+in the puzzle being solved the same day.
+
+## Password Context
+
+<details class="hint">
+  <summary>Hint 1</summary>
+
+The numbers 3, 7, 1, 5, 4, 1, 5, 7, 9, 7, 3 are hidden in the puzzle.
+</details>
+
+<details class="hint">
+  <summary>Hint 2</summary>
+
+The numbers are glowing in a certain order!
+</details>
+
+<details class="password">
+  <summary>Password</summary>
+
+13715547937 is the order of the glowing numbers and the password to access your reward!
+</details>
+
+Solving this puzzle unlocks the game [M8 mobile](emulator-m8mobile).
 
 ## Read More
 
-Related website articles:
+Other games:
 
 - [Emulator](emulator)
 - [Scream Star](emulator-screamstar)
-- [ARG Webpage](website)
+- [M8 mobile](emulator-m8mobile)
+- [Worm/Snake](emulator-worm)
+- [Idle Game](idle)
+
+Related characters:
+
+- [M8](../m8)

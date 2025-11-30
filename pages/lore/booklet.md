@@ -18,11 +18,14 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/bo
 This booklet came with deluxe editions of the Post Human NeX GEn cds and vinyls.
 It contains a lot of lore and information about different elements of the ARG, along with the lyrics for each song on the album.
 
+The booklet is styled like an older game manual, including instructions for a fictional console named DREAMSEEKER©. 
+This device can use [M8](../m8) as a controller, by plugging her into the M8 port.
+
 *** 
 
 # Gallery
 
-{% include gallery.html folder="lore/booklet/gallery" %}
+{% include gallery-nav.html folder="lore/booklet/gallery" %}
 
 ***
 
@@ -76,11 +79,11 @@ Additionally, the heightened emotional sensitivity and altered sense of reality 
 > 
 >HOW TO PLAY [005-006]
 > 
-> SELENE’S MAP [007-008]
+>SELENE’S MAP [007-008]
 > 
->PROTAGONOSTS [009-012]
+>PROTAGONISTS [009-012]
 > 
->NSIGHTS & COLLECTABLES [013-014]
+>INSIGHTS & COLLECTABLES [013-014]
 > 
 >NEX GEN LAB TEAM [015-16]
 > 
@@ -1016,6 +1019,66 @@ From ancient Omens awakened from slumber to malevolent entities imprisoned withi
 
 # Read More
 
-- [Lore](lore)
-- [Characters](../characters/characters)
-- [FOR SOF folder](../for-sof/for-sof)
+Related characters:
+
+- Protagonists
+  - [Selene](../characters/selene)
+  - [Sof](../characters/sof)
+  - [M8](../m8)
+  - [Syko](../characters/syko)
+  - [Madman](../characters/madman)
+  - [Pickles](../characters/pickles)
+  - [Vegan](../characters/vegan)
+- Lab team
+  - [Iara Copple](../characters/iara)
+  - [Karl Strassman](../characters/strassman)
+  - [Ikaro Lauren (Ren)](../characters/ren)
+- Archangels
+  - [Raphael](../characters/raphael)
+  - [Gabriel](../characters/gabriel)
+  - [Michael](../characters/michael)
+  - [Uriel](../characters/uriel)
+- Bosses
+  - [E.V.E.](../characters/eve)
+  - [Pan](../characters/pan)
+  - [Miseria](../characters/miseria)
+  - [Vanth](../characters/vanth)
+  - [The Babylon](../characters/babylon)
+
+Related files:
+
+- [The Insights](../lore/insights)
+- [Insight 1: Connection](../lore/insight1-connection)
+- [Insight 2: Empathy](../lore/insight2-empathy)
+- [Insight 3: Purpose](../lore/insight3-purpose)
+- [Insight 4: Vision](../lore/insight4-vision)
+- [Selene's map](../for-sof/selenes_map)
+- [Youtopia Research with Selene](../for-sof/selene_youtopia_doc)
+- [LBR Sites](../for-sof/lbr_sites)
+
+Related lore:
+
+- [Church of Genxsis](church)
+- [Nex Gen Corporation](nex-gen-corporation)
+- [P.U.S.S.-E](pusse)
+- [Youtopia](youtopia)
+
+Related music:
+
+- [Post Human: NeX GEn](../music/ph-nex-gen)
+- [[ost] dreamseeker](../music/song-dreamseeker)
+- [YOUtopia](../music/song-youtopia)
+- [Kool-Aid](../music/song-koolaid)
+- [Top 10 staTues tHat CriEd bloOd](../music/song-top10)
+- [liMOusIne](../music/song-limousine)
+- [DArkSide](../music/song-darkside)
+- [a bulleT w/my namE On](../music/song-abwmno)
+- [[ost] (spi)ritual](../music/song-spiritual)
+- [n/A](../music/song-na)
+- [LosT](../music/song-lost)
+- [sTraNgeRs](../music/song-strangers)
+- [R.i.p (duskCOre RemIx)](../music/song-rip)
+- [AmEN!](../music/song-amen)
+- [[ost] p.u.s.s-e](../music/song-pusse)
+- [DiE4u](../music/song-die4u)
+- [DIg It](../music/song-digit)

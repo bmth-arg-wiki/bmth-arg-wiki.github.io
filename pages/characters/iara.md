@@ -24,13 +24,18 @@ Iara is a [Nex Gen](../lore/nex-gen-corporation) employee, interested in aliens 
 ![Iara seen in the Codek messenger](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/message_screenshot.png)
 
 Most of what we learn about Iara comes from [Rebecca](rebecca) in her Grumblr post and the [lore booklet](../lore/booklet). 
-Rebecca mentions that Iara is likely neurodivergent. Iara made an AI chatbot for Arc/Hive in the mid to late nineties 
-to chat with aliens, when she was only 15 years old. 
+Rebecca mentions that Iara is likely neurodivergent. Iara made an AI chatbot for Arc/Hive in the early 2000s 
+to chat with aliens, when she was only 15 years old.
 
-At the time of the Grumblr post on 14-01-2027, Rebecca is 27, putting her birthdate in 2000 (if her birthday is before
-the 14th of January) or in 1999 (if she is yet to turn 28). She mentions that Iara is nearly 20 years older, giving us
-a range of about 16-19 years older, depending on how dramatic Rebecca is being. This means Iara was likely born in the
-range of 1980 to 1984. This puts the chatbot she made at 15 years old somewhere between 1995-1999.
+The first [Grumblr](../for-sof/grumblr) post has slightly different timing. At the time of the post on 14-01-2027, Rebecca is 27, 
+putting her birthdate in 2000 (if her birthday is before the 14th of January) or in 1999 (if she is yet to turn 28). 
+She mentions that Iara is nearly 20 years older. If Iara is 16 to 19 years older, this would put her year of birth in the range 
+of 1980 to 1984. This places the chatbot between 1995-1999. However, it is possible that Rebecca is exaggerating how 
+old Iara really is in this post.
+
+Before her chatbot, the [DTC](../lore/dtc) (where Arc/Hive is situated) and [Novosovia](../lore/novosovia)
+once attempted contact with aliens in 1962, only receiving a faint signal back in 1983. Novosovia and the DTC had long been
+in Cold War 2.0, before the signal in 1983 escalated the situation by convincing Novosovians the signal was a hoax.
 
 ### ADAM
 
@@ -38,8 +43,10 @@ range of 1980 to 1984. This puts the chatbot she made at 15 years old somewhere 
 > an AI chatbot that marked the dawn of a new era in artificial intelligence. Her work, deeply rooted in a belief 
 > in the transformative potential of AI, eventually led to humanity’s first contact with an advanced alien civilisation.
 
-Rebecca jokes that the aliens never got back to her, but the [booklet](../lore/booklet) tells us that the aliens
-did (eventually) get the message. Iara also tells Rebecca she is building a pseudo-spaceship.
+Rebecca jokes that the aliens never got back to Iara, but the [booklet](../lore/booklet) tells us that the aliens
+did (eventually) get the message. Iara also tells Rebecca she is building a pseudo-spaceship. In 2037, her boss 
+at the company now known as [Nex Gen](../lore/nex-gen-corporation), lies to an interviewer about making contact with aliens 
+too.
 
 > Despite her groundbreaking achievements, Iara’s legacy is a double-edged sword; her creations brought profound advancements 
 > but also unknowingly set the stage for existential threats. As her life’s work is co-opted by NEX GEN, the ethical 
@@ -75,10 +82,12 @@ Iara used to be user 0015 on the first version of the [Multidimensional Navigato
 Related files:
 
 - [2027 Grumblr post](../for-sof/grumblr)
+- [Victor Carmine reconstructed interview](../for-sof/carmine_interview)
 
 Related characters:
 
 - [Rebecca Sinclair](rebecca)
+- [Victor Carmine](victor-carmine)
 
 Related lore:
 

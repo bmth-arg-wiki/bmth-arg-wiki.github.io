@@ -9,18 +9,18 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/c
 previous: "for-sof/selene_youtopia_doc"
 previous_text: "Selene Youtopia Doc"
 ---
-# Chapel
+# Chapel Incident video
 
-We learn from Sof's journal that there was an incident in a chapel. They mention it might have something to do with 
-[Project D.U.S.T.](project_dust). The end result was Dr. Elias Mortem, involved with several of the files, and his team 
-getting slaughtered.
+[Sof's](../characters/sof) [journal](../website/journal) states that there was an incident in a chapel in 2040. They 
+mention it might have something to do with [Project D.U.S.T.](../lore/incident-dust). The end result was Dr. Elias Mortem, 
+, and his team getting slaughtered.
 
 ***
 
 ## About
 
 This video was first found on the USBs from the pop-up shops on the 27th of September 2024, the release date of the album. 
-It also appeared as a file in the [FOR SOF](for-sof#for-sof) folder, 
+It also appeared as a file in the [FOR SOF](for-sof#for-sof) folder,
 but the community never managed to open it. It is no longer available in that folder after an update in December 2024, 
 but can be opened through Sof's journal on the [webpage](../website/website).
 
@@ -70,6 +70,20 @@ Transcription by Alec
 
 ## Read More
 
-- [Interactive map of Youtopia](../map)
-- [Lore booklet](../lore/booklet)
-- [Selene's trips to Youtopia & the LBRP](selene_youtopia_doc)
+Related characters:
+
+- [Elias Mortem](../characters/elias-mortem)
+- [Victor Carmine](../characters/victor-carmine)
+
+Related files:
+
+- [Project D.U.S.T. proposal](../for-sof/project_dust)
+- [Nex Gen Youtopia Research](selene_youtopia_doc)
+- [Sof's journal](../website/journal)
+
+Related lore:
+
+- [DTC](../lore/dtc)
+- [New Elysium](../lore/new-elysium)
+- [Nex Gen](../lore/nex-gen-corporation)
+- [Chapel incident](../lore/incident-chapel)

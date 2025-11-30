@@ -17,7 +17,7 @@ next_text: "CAPSLOCK.DOC"
 > *Symphony of Sight*
 
 Vision is the fourth and last insight we need to understand to reach [Youtopia](youtopia) 
-in accordance to the files in the [FOR SOF](../for-sof/for-sof#for-sof) folder.
+in accordance to the files in the [FOR SOF](../for-sof/for-sof) folder.
 
 ***
 
@@ -124,7 +124,7 @@ This password was obtained through the spectrogram of [DIg It](../music/song-dig
 
 ## Read More
 
-More from [📁 FOR SOF](../for-sof/for-sof#for-sof)
+More from [📁 FOR SOF](../for-sof/for-sof)
 
 The other insights:
 
@@ -145,7 +145,7 @@ Related file:
 
 Related lore:
 
-- [The Relics](booklet#page-023)
+- [Deluxe album booklet](booklet)
 - [Youtopia](youtopia)
 
 Related music:

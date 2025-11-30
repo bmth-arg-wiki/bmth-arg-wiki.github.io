@@ -31,13 +31,23 @@ from the [website](../website/website) in the FOR SOF folder, but there are a fe
 
 ***
 
+## Transmission
+
+A mysterious transmission appeared on the website in August 2025. This contains a [reconstructed interview](carmine_interview) with 
+[Victor Carmine](../characters/victor-carmine).
+
+{% assign page_links = '/pages/for-sof/carmine_interview' | split: ", " %}
+{% include page-card-gallery.html links=page_links %}
+
+***
+
 ## Inventory documents
 
 Since the December 4th 2024 update, there is now an `inventory` on the [webpage](../website/website). This inventory contains 
 four puzzles, which have all been unlocked. This update also included the release of [Dallus' diary](dallus-diary) that
 is in the FOR SOF folder.
 
-{% assign page_links = '/pages/for-sof/skys-diary, /pages/for-sof/grumblr2, /pages/for-sof/book-of-eclipse, /pages/for-sof/unbeleevable2, /pages/for-sof/cities-coordinates' | split: ", " %}
+{% assign page_links = '/pages/for-sof/skys-diary, /pages/for-sof/grumblr2, /pages/for-sof/book-of-eclipse, /pages/for-sof/unbeleevable2, /pages/for-sof/unbeleevable3, /pages/for-sof/cities-coordinates, /pages/for-sof/artifacts, /pages/survival-horror-anniversary' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ***
@@ -51,7 +61,10 @@ document folders that were handed out and hidden around the shops contained a do
 first visits to [Youtopia](../lore/youtopia).
 
 The chapel document was released on the website for the September 26th pre-update, before disappearing with the Dec. 4th 2024 update; 
-while the Selene document was never even put there. They are both considered missing.
+while the Selene document was never even put there. They are both missing from the website currently.
+
+[The city coordinates](cities-coordinates) and [Wi-Fi password](../website/wifi) were both found with the required community 
+effort and are still active on the website as of August 2025.
 
 {% assign page_links = '/pages/for-sof/selene_youtopia_doc, /pages/for-sof/chapel' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}

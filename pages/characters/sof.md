@@ -9,7 +9,7 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 # Sof
 
 Sof is the child from the cover art of [Post Human: NeX GEn](../music/ph-nex-gen). Their name was initially confirmed 
-by mentions on the Horizon Supply website. These also confirmed that the teddy bear she has with her is named Vex.
+by mentions on the Horizon Supply website. These also confirmed that their teddy bear is named Vex.
 
 ![Nex Gen album cover](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover.png)
 
@@ -76,7 +76,7 @@ Skys in the journal.
 ## FOR SOF
 
 [`FOR SOF`](../for-sof) refers to the folder in the ARG that we got access to using the first password within the website, 
-after gaining access with the code 93934521 from M8's head on the album cover. The files 
+after gaining access with code 93934521 from M8's head on the album cover. The files 
 we are seeing in this folder have all been left for her, to discover what her mom 
 [Selene](selene) is trying to tell them. This is all about their `past`, the password for the folder itself.
 
@@ -105,14 +105,18 @@ a prophecy, perhaps referring to the same image, even if Skys did not end up ful
 Related files:
 
 - [msgforsof.aiff](../for-sof/msgforsof)
+- [Strassman Codec](../for-sof/strassmancodec)
+- [Dreadit Post](../for-sof/dreadit)
 - [The Science Study](../for-sof/thesciencestudy)
+- [Chapel Video (speculated)](../for-sof/chapel)
+- [Artifacts](../for-sof/artifacts)
 
 Related characters:
 
 - [M8](../m8)
 - [Selene](selene)
 - [Skys](skys)
-- [Strassman](strassman)
+- [Dr. Karl Strassman](strassman)
 - [Ikaro Lauren](ren)
 - [E.V.E](eve)
 
@@ -121,11 +125,12 @@ Related lore:
 - [DTC](../lore/dtc)
 - [New Elysium](../lore/new-elysium)
 - [Lore booklet](../lore/booklet)
-- [Sof's journal](../website/journal.md)
 - [Arc/Hive](../lore/archive)
+- [Project D.U.S.T.](../lore/incident-dust)
 - [Nex Gen Corporation](../lore/nex-gen-corporation)
 - [Youtopia](../lore/youtopia)
 - [VSPR-37](../lore/vspr37)
+- [Mares](../lore/mares)
 
 Related website pages:
 
@@ -133,4 +138,5 @@ Related website pages:
 - [Webbrowser](../website/webbrowser)
 - [Wi-fi](../website/wifi)
 - [Noctune](../website/website-songs)
+- [Sof's journal](../website/journal)
 - [Other useful websites](../other-webpages)

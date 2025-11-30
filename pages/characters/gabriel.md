@@ -42,24 +42,26 @@ Before the June 4th 2024 update, Gabriel used to be user 0017.
 
 ## Read More
 
-More [characters](characters)!
-
-Related lore:
-
-- [Insight 2: Empathy](../lore/insight2-empathy)
-- [YOUtopia](../lore/youtopia)
-
 Related characters:
 
 - [Miseria](miseria)
 - [Madman](madman)
 - [Selene](selene)
-
-Other [Archangels](characters#The-Archangels):
-
 - [Raphael](raphael)
 - [Michael](michael)
 - [Uriel](uriel)
+
+Related files:
+
+- [Selene's Map](../for-sof/selenes_map)
+- [Youtopia Research](../for-sof/selene_youtopia_doc)
+
+Related lore:
+
+- [Lore Booklet](../lore/booklet)
+- [The Insights](../lore/insights)
+- [Insight 2: Empathy](../lore/insight2-empathy)
+- [YOUtopia](../lore/youtopia)
 
 Related music:
 

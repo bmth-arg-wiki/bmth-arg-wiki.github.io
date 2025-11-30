@@ -16,7 +16,7 @@ and sexual crimes."
 
 > *Do you wanna start a cult with me?*
 
-The mysterious pink-haired man from the [Mantra](../music/amo-mantra) music video and the leader of the 
+Skys is the mysterious pink-haired man from the [Mantra](../music/amo-mantra) music video and the leader of the 
 [Neosages](../lore/mantra), better known as the Mantra cult. Dr. Lee MD (possibly [Madman](madman)) also states 
 that he is the baby with pink hair in the photo we also see on [The Science Study](../for-sof/thesciencestudy).
 
@@ -79,7 +79,7 @@ rats and him fed off each other.
 > All I remember was the skys above me,watching me, like it was the only thing that didn’t look away.
 > So when I got to the new world, I told them my name was Skys.
 
-We also learn that Skys is not his real name and he does not actually remember it. He chose the name Skys 
+We also learn that Skys is not his real name, and he does not remember it. He chose the name Skys 
 after only seeing the skies above him on the ship. This is how Skys eventually ends up in Ingleterra, the nation 
 that Novosovia was at war with.
 
@@ -91,9 +91,11 @@ that Novosovia was at war with.
 > 
 > - Lee MD in [Unbeleevable (Episode 2)](../for-sof/unbeleevable2)
 
-In Ingleterra, Skys fell in with a group led by a man named Alby. In Unbeleevable Episode 2, 
-Dr. Lee MD hints that Alby was doing horrific things to Skys, eventually leading him to snap, illustrated 
-by violent animations of Skys stabbing Alby in the face. Skys then hid out in an asylum, where he dyed his 
+In Ingleterra, Skys fell in with a group led by a man named Alby. He learned about a religion named Velama, based 
+on real-life Thelema.
+
+In Unbeleevable Episode 2, Dr. Lee MD hints that Alby was doing horrific things to Skys, eventually leading him to snap, 
+illustrated by violent animations of Skys stabbing Alby in the face. Skys then hid out in an asylum, where he dyed his 
 hair black with leech-blood, effectively hiding the condition he was born with. Skys ends up doing a lot of drugs, 
 which gives him his [mares](../lore/mares).
 
@@ -102,23 +104,67 @@ with his band in 2004 from the same episode.
 
 ### Skys & Early Ecliptism
 
-From the [Book of Eclipse](../for-sof/book-of-eclipse) we find out that Skys fell in with yet another religious group. 
-They are mostly referred to as "followers of the First Shadow", with the First Shadow referring to Alfgram. 
-
-> Skys spoke of liberation beyond flesh, calling out to those who walked the path of suffering. He declared 
-> himself the way to transcendence, for in his words were visions of realms unseen, and in his voice, 
-> the promise of freedom.
+From the [Book of Eclipse](../for-sof/book-of-eclipse) we find out that Skys soon joined another religion. 
+They are mostly referred to as "followers of the First Shadow", with the First Shadow referring to [Alfgram](alfgram).
 
 It is unclear whether they met in Ingleterra or [Novosovia](../lore/novosovia), but Skys, Alfgram and their followers 
 ended up in October Palace somewhere in 2004. Skys knew he could not fulfill his goals alone and aligned 
 himself with Alfgram, who also believed that suffering was the way to salvation. The men were close like brothers, 
 according to the Book of Eclipse.
 
+### Neosages/Cult of Mantra
+
+In the same year of 2004 that he came to Novosovia, Skys planned a show with his band. 
+[Skys & the Starjammers](../for-sof/skystarjammers) would perform at the palace on the 19th of December 2004. 
+The cult leader had also been attracting some attention, doing multiple interviews rambling about his 
+unique ideas on spirituality.
+
+His ideas caught the attention of [Dr. Karl Strassman](strassman), a researcher working on cutting-edge research
+and founder of neospiritualism. Strassman had a partner named [Dr. Dallus Lauren](dallus-lauren), a promising biotechnology
+researcher. Both attended the concert after Strassman convinced Lauren to go. While Strassman was enjoying himself,
+Lauren was about to leave when Skys performed a trick on their assistant Ro. [Unbeleevable Episode 2](../for-sof/unbeleevable2)
+does not conclusively what happened, but it convinces the men to do research with Skys. Eventually they are
+able to fuse science and spirit, coming to a revelation that convinces the three to start working together for the
+[Mantra cult](../lore/mantra).
+
+The cult used a drug named Mantra, popular in the club scene, especially with young people. Skys' band also helped
+him reach an audience, despite the [Novosovian](../lore/novosovia) government being critical of the cult.
+
+### Project Kingslayer
+
+[Unbeleevable 3](../for-sof/unbeleevable3) reveals that Skys started [Project Kingslayer](../lore/incident-kingslayer) 
+with his associate Alfgram as patient zero in 2015. This escalated the torture in the cult, but Alfgram claimed 
+to have strong abilities after the ritual, now even more certain that pain was a means to enlightenment.
+
+Skys also sent out a message to the disillusioned youth of Novosovia, attempting to recruit them into his cult. 
+This message fell into the hands of [Arc/Hive](../lore/archive) boss [Victor Carmine](victor-carmine), who decided 
+to send his daughter in under the alias [Medea](medea) to seduce Skys. Skys immediately fell in love with her and 
+Medea eventually came to return his feelings. After this, she ghosted her father. The two of them had at least two 
+children together, although it is hinted at that Skys may have had many more.
+
+After a while in the cult, [Strassman](strassman) writes the [Russian Poem](../for-sof/russianpoem) to [Ava](ava). 
+She was Skys' top disciple, but the two kept their affair a secret from Skys. 
+
+Thea, another one of Skys disciples, reveals that there is a Novosovian operative in the cult. Alfgram convinces Skys 
+to make an example out of the traitor and also use him as a test subject. 
+According to [Dr. Lee MD](lee-md), this is when Skys house of cards comes crashing down. [Dallus](dallus-lauren) has 
+been growing distant from the cult since the birth of [Ren](ren). Ava is begging Strassman to flee from the cult, as 
+she has fallen pregnant, and their affair will be revealed soon due to it. Medea is naturally also worried, since she 
+came into the cult on her father's orders to bring it down originally.
+
+[Rebecca](../characters/rebecca) refers to Skys in her [2036 Grumblr post](../for-sof/grumblr2) as "The Brain Butcher", 
+which seems to be a name the public gave him. Since he's been in a coma since the events of Mantra, this nickname 
+likely refers to his actions in the cult from 2015 to 2020.
+
+### Skys & Alfgram Conflict
+
+Note: it is unknown where exactly between 2015 and 2020 this event takes place.
+
 > Yet, as the rituals grew darker, Alfgram saw that Skys’s gaze began to waver. The prophet, once pure, 
 > took counsel in shadows with those whose eyes glinted with hidden ambition, and Alfgram’s heart grew heavy, 
 > for he saw the birth of pride within Skys.
 
-The followers of the First Shadow had seven rituals to purify the soul and reach the Eclipse, something 
+The followers of the First Shadow (Alfgram) had seven rituals to purify the soul and reach the Eclipse, something 
 akin to personal salvation. During the rituals, Alfgram noticed something he considered a sin in Skys: pride. 
 
 Alfgram would confront Skys about this later and speak his worries to his followers. This caused a divide 
@@ -128,32 +174,10 @@ his followers to hunt Alfgram's group down. Eventually this led to a confrontati
 chance to back down, but he does not. Skys kills Alfgram, seeing the man he considered as a brother as prey, as written 
 in the Book of Eclipse.
 
-### Neosages/Cult of Mantra
-
-Skys remained in October Palace, forming the Cult of Mantra, also known as the Neosages. In the same year of 2004 
-that he came to Novosovia, he planned a show with his band. [Skys & the Starjammers](../for-sof/skystarjammers) 
-would perform at the palace on the 19th of December 2004. Skys had been doing interviews, acting strange. 
-
-His ideas caught the attention of [Dr. Karl Strassman](strassman), a researcher working on cutting-edge research 
-into spiritualism. Strassman had a partner named [Dr. Dallus Lauren](dallus-lauren), a promising biotechnology 
-researcher. Both attended the concert after Strassman convinced Lauren to go. While Strassman was enjoying himself, 
-Lauren was about to leave when Skys performed a trick on their assistant Ro. [Unbeleevable Episode 2](../for-sof/unbeleevable2) 
-does not conclusively what happened, but it convinces the men to do research with Skys. Eventually they are 
-able to fuse science and spirit, coming to a revelation that convinces the three to start working together for the 
-[Mantra cult](../lore/mantra).
-
-The cult uses a drug named Mantra, popular in the club scene, especially with young people. Skys' band also helped 
-him reach an audience, despite the [Novosovia](../lore/novosovia) government being critical of the cult. 
-From several documents we learn that there were also children in the cult, including Dallus' child [Ikaro Lauren](ren), 
-and the Special Six described in Project D.U.S.T.
-
 ### The Fall of Mantra
 
-In 2020, an incident named The Fall of October Palace happens, which ends the era of the Mantra cult. The cult is 
-able to fend off several troops, seemingly using supernatural abilities, as we learn from [the Project D.U.S.T. 
-research proposal](../for-sof/project_dust). According to Project D.U.S.T. and Sof's journal, the Kingslayer 
-project was completed within the Mantra cult. Project D.U.S.T. also mentions P.S.Y. (Psychoactive Structured Yttrium), 
-as a substance capable of inducing powerful abilities like those seen in the cult.
+In 2020, an incident named The Fall of October Palace happens, which ends the era of the Mantra cult. The event is 
+also referred to as "The October Massacre".
 
 The fall of Mantra seems to be initiated by Skys overdosing on the drug Mantra. The bottle of black pills also states 
 that Mantra is not suitable for human consumption. [Medea](medea) finds Skys on the floor after the overdose. She seems 
@@ -165,12 +189,19 @@ Medea provides each follower with a Mantra pill. They take the pill at the same 
 convulsing, along with Medea. Bolts of electricity take out the cult members and even make Medea's head explode. 
 Skys smirks in his coffin, seemingly still being alive.
 
-### The Coma
+### Operation Trinity & Project D.U.S.T.
 
-From [Dallus](dallus-lauren)' [diary](../for-sof/dallus-diary) we learn what happened to Skys after 
-he was brought to [Arc/Hive](../lore/archive) after [Operation Trinity](../for-sof/trinity_document). 
-Skys is in a coma, although it is unclear when exactly this happened. His body seems to be useless for the 4
-time being, along with his unique knowledge of the inner workings of the Mantra cult.
+Victor Carmine [extracts the Trinity](../lore/operation-trinity) at the end of 2020: it consists of Skys, Dallus Lauren 
+and Karl Strassman.
+Even though Skys is in a coma after the events, his research continues in [Project D.U.S.T.](../lore/incident-dust).
+During the October Massacre, the Mantra cult is able to fend off several troops, seemingly using supernatural
+abilities, as we learn from [the Project D.U.S.T. research proposal](../for-sof/project_dust).
+A [reconstructed interview](../for-sof/carmine_interview) reveals that this continuation project of Kingslayer is short
+for Deaths Unknown Spiritual Terrain.
+
+Project D.U.S.T. also mentions P.S.Y. (Psychoactive Structured Yttrium),
+as a substance capable of inducing powerful abilities like those seen in the cult, as well as six special children 
+retrieved during Operation Trinity that are of interest to researcher [Elias Mortem](elias-mortem).
 
 ### Synth Body
 
@@ -205,37 +236,57 @@ the entry that she will be the one to kill Skys, although his death once again r
 
 ***
 
+## Gallery
+
+{% include gallery.html folder="characters/skys/gallery" %}
+
+***
+
 ## Read More
 
-More on the Trinity:
+Related characters:
 
-- [The Trinity (characters)](../characters#trinity)
 - [Dallus Lauren](dallus-lauren)
 - [Karl Strassman](strassman)
+- [Alfgram](alfgram)
+- [Medea](medea)
+- [Ava](ava)
+- [Victor Carmine](victor-carmine)
+- [Dr. Elias Mortem](elias-mortem)
+- [Rebecca Sinclair](rebecca)
 
 Related files:
 
 - [Skys & the Starjammers poster](../for-sof/skystarjammers)
 - [Operation Trinity](../for-sof/trinity_document)
+- [Dallus' Diary](../for-sof/dallus-diary)
+- [Project D.U.S.T. proposal](../for-sof/project_dust)
+- [Russian Poem](../for-sof/russianpoem)
 - [Newspaper The Science Study](../for-sof/thesciencestudy)
-- [Unbeleevable email & video](../for-sof/unbeleevable)
+- [Unbeleevable email & Episode 1](../for-sof/unbeleevable)
+- [Unbeleevable Episode 2](../for-sof/unbeleevable2)
+- [Unbeleevable Episode 3](../for-sof/unbeleevable3)
+- [Book of Eclipse](../for-sof/book-of-eclipse)
+- [Grumblr 2](../for-sof/grumblr2)
+- [Skys' Diary](../for-sof/skys-diary)
 
 Related lore:
 
 - [Mantra Cult](../lore/mantra)
+- [Project Kingslayer](../lore/incident-kingslayer)
+- [Ecliptism](../lore/ecliptism)
 - [Church of Genxsis](../lore/church)
+- [Operation Trinity](../lore/operation-trinity)
 - [Arc/Hive](../lore/archive)
+- [Project D.U.S.T.](../lore/incident-dust)
 - [Nex Gen Corporation](../lore/nex-gen-corporation)
 - [Mares](../lore/mares)
 - [Synths](../lore/synths)
+- [Novosovia](../lore/novosovia)
+- [DTC](../lore/dtc)
+- [New Elysium](../lore/new-elysium)
 
 Related music:
 
-- [Mantra](../music/amo-mantra)
+- [MANTRA](../music/amo-mantra)
 - [Teardrops](../music/song-teardrops)
-
-***
-
-## Gallery
-
-{% include gallery.html folder="characters/skys/gallery" %}

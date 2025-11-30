@@ -40,7 +40,11 @@ c4E9q62u
 
 Once connected to the wifi, an update screen appears and M8 starts talking excitedly.
 
-![update screen](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/wifi/update-progress.png)
+![Update progress screen of old dashboard](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/wifi/update-progress.png)
+
+On the 4th of December 2024, this update was completed and a new dashboard was revealed.
+
+![Update complete screen of new dashboard](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/wifi/update-progress.png)
 
 ### Transcription
 

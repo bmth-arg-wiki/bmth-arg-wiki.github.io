@@ -30,15 +30,10 @@ This event convinces the three to start working together, setting the events aro
 
 ***
 
-## Document content
+## About 
 
-<details class="password">
-  <summary>Password</summary>
-
-INTERCELLULAR
-</details>
-
-![Poster](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/skys_starjammers/sky.png)
+The file was released 2-3 weeks before it was unlocked. It was protected by a placeholder with 12 characters, 
+which caused confusion when the actual password (13 characters) was released on Instagram later.
 
 ***
 
@@ -59,14 +54,17 @@ Transcription by Alec
 
 ## Password context
 
+This document was password protected from launch until the end of 2024. It can still be 
+accessed under the [FOR SOF](../for-sof/for-sof#for-sof) folder.
+
 <details class="password">
     <summary>Password</summary>
 
 {{"![Nex Gen document from instagram](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/skys_starjammers/nexgendoc.jpg)" | markdownify}}
 {{"![Numbers assigned to letters](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/skys_starjammers/instagram_solve.jpg)" | markdownify}}
 
-It contains four words and 5 sets of numbers. 
-When you take each individual number to match up a letter, you get the letters needed for the word 
+It contains four words and five sets of numbers. 
+When you match each number to a letter in the word, you get the password 
 `INTERCELLULAR`.
 
 {{"![password_placeholder.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/skys_starjammers/password_placeholder.png)" | markdownify}}
@@ -87,7 +85,9 @@ Related characters:
 - [Skys](../characters/skys)
 - [Strassman](../characters/strassman)
 - [Dallus Lauren](../characters/dallus-lauren)
+- [Victor Carmine](../characters/victor-carmine)
 - [Medea](../characters/medea)
+- [Ava](../characters)
 
 Related files:
 

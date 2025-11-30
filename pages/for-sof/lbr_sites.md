@@ -1,10 +1,10 @@
 ---
 title: "LBR_sites.Confidential.doc"
 description: "File from Strassman and someone redacted to Victor Carmine and yet another redacted name. 
-The file described the LBR sites."
+The file describes two new LBR sites in Heian-kyō and Naniwa-kyō."
 categories: ["for-sof"]
 tags: ["arc/hive", "victor carmine", "karl strassman", "nex gen", "lesser banishing ritual", 
-       "for sof", "pentagram", "energy overload", "incident", "dallus lauren", "runes"]
+       "for sof", "pentagram", "energy overload", "incident", "dallus lauren", "runes", "eve"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/lbr_sites/lbr-300x300.png"
 previous: "for-sof/grumblr"
 previous_text: "GRUMBLR.Rebecca_Sinclair"
@@ -20,7 +20,7 @@ next_text: "GOXMOG_SIGHTINGS"
 This document speaks about an incident at [ARC/HIVE](../lore/archive) and measures taken 
 by [Nex Gen](../lore/nex-gen-corporation) to prevent more incidents.
 The letter is written by [Strassman](../characters/strassman) and another name seems to 
-be redacted. [Sof's journal](../website/journal.md) dates it to 2040.
+be redacted. [Sof's journal](../website/journal) dates it to 2038.
 
 It is addressed to [Victor Carmine](../characters/victor-carmine), the head at Nex Gen and previously ARC/HIVE, 
 and another redacted figure.
@@ -122,21 +122,38 @@ a password or puzzle.
 " | markdownify}}
 </details>
 
-This puzzle corresponds to the Insights on [Selene's map](selenes_map).
+This puzzle corresponded to the Insights on [Selene's map](selenes_map) and is no longer on the current version 
+of the website.
 
 ***
 
 ## Read More
 
-Related articles:
-
-- [Nex Gen Corp.](../lore/nex-gen-corporation)
-- [ARC/HIVE Corp.](../lore/archive)
-
 Related characters:
 
 - [EVE](../characters/eve)
+- [Selene](../characters/selene)
 - [Rebecca Sinclair](../characters/rebecca)
 - [Karl Strassman](../characters/strassman)
 - [Dallus Lauren](../characters/dallus-lauren)
 - [Victor Carmine](../characters/victor-carmine)
+
+Related files:
+
+- [Strassman Codec](../for-sof/strassmancodec)
+- [Selene's Map](../for-sof/selenes_map)
+- [Project D.U.S.T. Proposal](../for-sof/project_dust)
+- [Dreadit](../for-sof/dreadit)
+- [Chapel Video](../for-sof/chapel)
+
+Related lore:
+
+- [Project Kingslayer](../lore/incident-kingslayer)
+- [ARC/HIVE Corp.](../lore/archive)
+- [Project D.U.S.T.](../lore/incident-dust)
+- [Nex Gen Corp.](../lore/nex-gen-corporation)
+- [Church of Genxsis](../lore/church)
+- [Chapel Incident](../lore/incident-chapel)
+- [Mares](../lore/mares)
+- [P.U.S.S-E](../lore/pusse)
+- [Youtopia/Y-93](../lore/youtopia)

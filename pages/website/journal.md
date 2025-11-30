@@ -87,7 +87,7 @@ Pages 1-8 start with Sof venting about the trauma of losing their mother.
 >Am I supposed to shower you with gratitude for leaving me at an abandoned NEX GEN lab, 
 > with nothing but these digital dregs? Codex recordings of massacres, articles about some SYNTH-turned-fashion-model, 
 > random fragments of people’s lives-shattered, stitched together, and then torn apart again? 
-> I may as well be trying to decipher one of M*’s headache inducing jokes.
+> I may as well be trying to decipher one of M8’s headache inducing jokes.
 >
 >And that brings me to reason three:
 >
@@ -107,7 +107,7 @@ Pages 1-8 start with Sof venting about the trauma of losing their mother.
 >
 >I also have a desire to make something called hummus. 
 > They say it’s better to make the chickpeas from norganic LumaCubes, 
-> but I would have to settle for nNutrigen-printed beans, assuming the antique even has the foodprint in its databank. 
+> but I would have to settle for Nutrigen-printed beans, assuming the antique even has the foodprint in its databank. 
 >
 >No. Enough distractions. It’s time to focus. Time to organise. 
 > I’ve gathered enough fragments: data shards, encrypted memories, codex recordings. 

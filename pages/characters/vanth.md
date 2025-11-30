@@ -2,7 +2,7 @@
 title: "Vanth"
 description: "Vanth, the prince(ss) of Darkness is the mysterious omen of purpose. They carry the candle of Abremalin."
 categories: ["characters"]
-tags: ["vanth", "purpose", "omen", "candle of abremalin"]
+tags: ["bmth", "arg", "vanth", "purpose", "omen", "candle of abremalin", "pickles", "mat nicholls"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/vanth/vanth-300x300.png"
 ---
 # Vanth
@@ -45,16 +45,24 @@ before the website changed entirely in December 2024.
 
 ## Read More
 
-- [Characters](../characters)
-- [Selene's map](../for-sof/selenes_map)
+Related characters:
 
-Insight 3: Purpose
-
-- [Insight 3: Purpose](../lore/insight3-purpose)
 - [Michael](michael)
 - [Pickles](pickles)
-
-Other [omens](../characters#omens):
-
 - [Miseria](miseria)
 - [Pan](pan)
+- [The Babylon](babylon)
+
+Related files:
+
+- [Selene's map](../for-sof/selenes_map)
+- [Youtopia Research](../for-sof/selene_youtopia_doc)
+
+Related lore:
+
+- [Lore booklet](../lore/booklet)
+- [The Insights](../lore/insights)
+- [Insight 3: Purpose](../lore/insight3-purpose)
+- [Youtopia](../lore/youtopia)
+
+

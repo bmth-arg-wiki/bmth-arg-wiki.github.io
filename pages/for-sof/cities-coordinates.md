@@ -1,11 +1,13 @@
 ---
 title: "Cities Coordinates"
-description: "This page is about the fifth inventory file that contains coordinates of cities."
+description: "This page is about the fifth inventory file that contains coordinates of cities, hidden behind a Rubik's cube puzzle."
 categories: ["for-sof"]
 tags: ["bmth", "nex gen", "m8", "berlin", "mexico", "sheffield"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/cities_coordinates/coordinates-300x300.png"
 previous: "for-sof/unbeleevable2"
 previous_text: "Unbeleevable Ep.2"
+next: "for-sof/artifacts"
+next_text: "Youtopia Artifacts"
 ---
 
 # Cities Coordinates
@@ -19,7 +21,10 @@ while [M8](../m8) comments on them.
 
 ## About
 
-This file is guarded by the rubik's cube puzzle.
+This file is guarded by the Rubik's Cube puzzle. After completion, an image with three different sets of 
+coordinates appears. Dedicated fans travelled to the locations, receiving paper cards with parts of the 
+[Spyder browser](../website/webbrowser). While the password for the [Wi-Fi network](../website/wifi) was shared 
+through the pop-up store event, these credentials were needed in the browser to access the Daily Whisper files.
 
 ***
 
@@ -62,7 +67,8 @@ Transcription by Alec
 <details class="password">
   <summary>Password</summary>
 
-The coordinates are behind the rubik's cube puzzle, which doesn't have a straightforward solution.
+The coordinates are behind the Rubik's cube puzzle, which doesn't have a straightforward solution. It is possible 
+to record the shuffling of the cube to help you solve it.
 </details>
 
 ***

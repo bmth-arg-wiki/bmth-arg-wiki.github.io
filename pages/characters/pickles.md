@@ -10,6 +10,8 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 # Pickles
 
 > Pickles (Rotherham’s 4th best drummer) is a mischievous and spirited individual
+> 
+> - [Album/vinyl booklet](../lore/booklet)
 
 ![Pickles Avatar](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/pickles/11pickles.png)
 
@@ -51,16 +53,6 @@ Before the June 4th 2024 update, Pickles used to be user 0012 in this older vers
 
 ## Read More
 
-More [Characters](characters)!
-
-Related file:
-
-- [Unbeleevable](../for-sof/unbeleevable)
-
-Related lore:
-
-- [Insight 3: Purpose](../lore/insight3-purpose)
-
 Related characters:
 
 - [Archangel Michael](michael)
@@ -71,3 +63,17 @@ Other [band members](characters#band-members):
 - [Vegan / Matt K.](vegan)
 - [Syko / Oli](syko)
 - [Madman / Lee](madman)
+
+Related files:
+
+- [Unbeleevable (speculated)](../for-sof/unbeleevable)
+- [Selene's map](../for-sof/selenes_map)
+- [Youtopia Research](../for-sof/selene_youtopia_doc)
+
+Related lore:
+
+- [Lore booklet](../lore/booklet)
+- [The Insights](../lore/insights)
+- [Insight 3: Purpose](../lore/insight3-purpose)
+- [Youtopia](../lore/youtopia)
+

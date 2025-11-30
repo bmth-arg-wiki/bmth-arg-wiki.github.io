@@ -18,16 +18,37 @@ is also our character [M8](../m8). You can access it with the following link:
 
 [https://www.multidimensionalnavigator8.help/index-desktop.html](https://www.multidimensionalnavigator8.help/index-desktop.html)
 
-As of December 4th 2024, it has under-went a complete makeover as M8 was able to update herself after being connected to the [Wi-Fi](wifi).
+As of December 4th 2024, it has undergone a complete makeover as M8 was able to update herself after being connected to the [Wi-Fi](wifi).
 Here is the new look:
 
 ![An overview of the new webpage](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/new-interface.png)
+
+Please note that an additional tab was added for the [idle game](idle) in July 2025.
 
 ***
 
 ## ARG Website - Main Page
 
-{% assign page_links = '/pages/website/wifi, /pages/website/webbrowser, /pages/website/emulator, /pages/website/journal, /pages/website/website-songs, /pages/website/website-v1' | split: ", " %}
+{% assign page_links = '/pages/website/wifi, /pages/website/webbrowser, /pages/website/journal, /pages/website/idle, /pages/website/website-songs, /pages/website/website-v1' | split: ", " %}
+{% include page-card-gallery.html links=page_links %}
+
+***
+
+## Emulator
+
+The emulator contains several games from the world of Post Human!
+
+{% assign page_links = '/pages/website/emulator, /pages/website/emulator-screamstar, /pages/website/emulator-escape, /pages/website/emulator-m8mobile, /pages/website/emulator-worm' | split: ", " %}
+{% include page-card-gallery.html links=page_links %}
+
+***
+
+## M8 Dress-Up Game
+
+Dress up [M8](../m8) in a little game! Click the message next to M8 on the website to open the post-it note. 
+This has a logo of her face you can click to open the game.
+
+{% assign page_links = '/pages/website/dressup_m8' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ***
@@ -101,8 +122,7 @@ the web.
 The buttons on the new dashboard are virtually the same as the old ones, their main difference being their design 
 and placement. They are now in the top right corner of the website.
 
-There is also an `Emulator` button that looks like a controller in the middle of the page.
-It leads to [ScreamStar](https://www.scream-star.com/).
+There is also an [emulator](emulator) section, which allows you to play different games.
 
 ***
 

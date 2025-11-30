@@ -39,13 +39,6 @@ Uriel used to be user 0002 in the Multidimensional Navigator 8.
 
 ## Read More
 
-More [characters](characters)!
-
-Related lore:
-
-- [Insight 4: Vision](../lore/insight4-vision)
-- [YOUtopia](../lore/youtopia)
-
 Related characters:
 
 - [The Babylon](babylon)
@@ -57,6 +50,18 @@ Other [Archangels](characters#The-Archangels):
 - [Raphael](raphael)
 - [Gabriel](gabriel)
 - [Michael](michael)
+
+Related files:
+
+- [Selene's map](../for-sof/selenes_map)
+- [Youtopia Research](../for-sof/selene_youtopia_doc)
+
+Related lore:
+
+- [Lore booklet](../lore/booklet)
+- [The Insights](../lore/insights)
+- [Insight 4: Vision](../lore/insight4-vision)
+- [Youtopia](../lore/youtopia)
 
 Related music:
 
