@@ -56,7 +56,7 @@ that he might be her father or otherwise related.
 
 ## Gallery
 
-{% include gallery.html folder="characters/pan/gallery" %}
+{% include gallery-nav.html folder="characters/pan/gallery" %}
 
 ***
 

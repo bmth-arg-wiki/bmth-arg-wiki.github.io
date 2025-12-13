@@ -163,7 +163,7 @@ Dr. Karl Strassman was user 0013 on the first version of the [webpage](../websit
 
 ## Gallery
 
-{% include gallery.html folder="characters/strassman/gallery" %}
+{% include gallery-nav.html folder="characters/strassman/gallery" %}
 
 ***
 

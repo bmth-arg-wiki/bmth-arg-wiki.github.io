@@ -35,7 +35,7 @@ in which the young man succumbs to a [VSPR-37](../lore/vspr37) infection.
 
 ## Gallery
 
-{% include gallery.html folder="characters/syko/gallery" %}
+{% include gallery-nav.html folder="characters/syko/gallery" %}
 
 ***
 

@@ -37,7 +37,7 @@ Before the June 4th 2024 update, Michael used to be user 0011.
 
 ## Gallery
 
-{% include gallery.html folder="characters/michael/gallery" %}
+{% include gallery-nav.html folder="characters/michael/gallery" %}
 
 ***
 

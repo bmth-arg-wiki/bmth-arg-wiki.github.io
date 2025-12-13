@@ -96,7 +96,7 @@ a prophecy, perhaps referring to the same image, even if Skys did not end up ful
 
 ## Gallery
 
-{% include gallery.html folder="characters/sof/gallery" %}
+{% include gallery-nav.html folder="characters/sof/gallery" %}
 
 ***
 

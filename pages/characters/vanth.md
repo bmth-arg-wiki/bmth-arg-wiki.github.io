@@ -39,7 +39,7 @@ before the website changed entirely in December 2024.
 
 ## Gallery
 
-{% include gallery.html folder="characters/vanth/gallery" %}
+{% include gallery-nav.html folder="characters/vanth/gallery" %}
 
 ***
 

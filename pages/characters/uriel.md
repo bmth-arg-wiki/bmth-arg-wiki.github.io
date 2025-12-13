@@ -33,7 +33,7 @@ Uriel used to be user 0002 in the Multidimensional Navigator 8.
 
 ## Gallery
 
-{% include gallery.html folder="characters/uriel/gallery" %}
+{% include gallery-nav.html folder="characters/uriel/gallery" %}
 
 ***
 

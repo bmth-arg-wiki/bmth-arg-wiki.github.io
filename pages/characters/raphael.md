@@ -34,7 +34,7 @@ Additionally, the picture for user 0007 used to be [Uriel](uriel)'s picture.
 
 ## Gallery
 
-{% include gallery.html folder="characters/raphael/gallery" %}
+{% include gallery-nav.html folder="characters/raphael/gallery" %}
 
 ***
 

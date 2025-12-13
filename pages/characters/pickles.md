@@ -48,7 +48,7 @@ Before the June 4th 2024 update, Pickles used to be user 0012 in this older vers
 
 ## Gallery
 
-{% include gallery.html folder="characters/pickles/gallery" %}
+{% include gallery-nav.html folder="characters/pickles/gallery" %}
 ***
 
 ## Read More

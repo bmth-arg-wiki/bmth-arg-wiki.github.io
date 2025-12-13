@@ -36,7 +36,7 @@ Before the June 4th 2024 update, Gabriel used to be user 0017.
 
 ## Gallery
 
-{% include gallery.html folder="characters/gabriel/gallery" %}
+{% include gallery-nav.html folder="characters/gabriel/gallery" %}
 
 ***
 
