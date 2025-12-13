@@ -19,7 +19,7 @@ next_text: "Unbeleevable 3 (Jigsaw Puzzle)"
 > the true potential of YOUtopia and overcoming the challenges that lie ahead. Each Relic is held by the four 
 > Omen’s that walk the land of Youtopia which Selene will need to uncover.
 > 
-> - Nex Gen Album Booklet
+> - [Nex Gen Album Booklet](../lore/booklet)
 
 The module puzzles are connector-type puzzles that reveal six different 3D models, which seem to be 
 connected to the characters in our world.
