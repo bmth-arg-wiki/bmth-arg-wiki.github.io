@@ -154,9 +154,8 @@ the [website](../website/website). [M8](../m8) is inside the cap.
 
 <details class="password">
 <summary>Password</summary>
-Order for the pieces: 11, 7, 6, 8, 1, 10, 5, 9, 2, 3, 4
+Order for the pieces: 4, 7, 9, 6, 10, 1, 11, 8, 2, 3, 5
 </details>
-4, 7, 9, 6, 10, 1, 11, 8, 2, 3, 5
 
 The silver-purple-y puzzle reveals [Leech Blood Hair Dye](#leech-blood-hair-dye). The dye ties back 
 to [Skys](../characters/skys), who dyed his hair with leech blood in Ingleterra when he was alone in 
