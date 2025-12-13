@@ -10,7 +10,7 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 # Elena Lauren
 
 Elena Lauren is [Dallus Lauren](dallus-lauren)'s wife and a mother to [Ren](ren) and [Lyra](lyra-lauren). 
-We do not know what she looks like yet, although she is likely to share traits with her brother Ren.
+We do not know what she looks like yet, although she is likely to share traits with her son Ren.
 
 ***
 
