@@ -21704,6 +21704,15 @@ a .button .is-primary {
 }
 
 /*
+ * Table styling
+ */
+.content table {
+  display: block;
+  overflow-x: auto;
+  max-width: 100%;
+}
+
+/*
  * Misc.
  */
 .content hr {
