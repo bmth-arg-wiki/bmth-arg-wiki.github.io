@@ -722,7 +722,7 @@ The fifth tab contains the ciphered text `q996uqm6556373P`, which has not been s
 
 ## Gallery
 
-{% include gallery.html folder="files/museum/gallery" %}
+{% include gallery-nav.html folder="files/carmine_interview/gallery" %}
 
 ***
 
