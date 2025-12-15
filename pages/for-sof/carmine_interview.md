@@ -17,7 +17,7 @@ next_text: "Survival Horror Tribute"
 
 A mysterious butterfly appeared on the [website](../website/website) on the 21st of August 2025. Behind the 
 butterfly is a transmission. The contents of this transmission are a reconstruction of an interview with 
-[Victor Carmine](../characters/victor-carmine), head of [Arc/Hive](../lore/archive), eventually re-branding
+[Victor Carmine](../characters/victor-carmine), head of [Arc/Hive](../lore/archive), that eventually re-branded
 to [Nex Gen](../lore/nex-gen-corporation) after an incident called the "Cradle Crash".
 
 The interview was recovered by someone who also left notes, signing them only as "L".
@@ -26,11 +26,10 @@ The interview was recovered by someone who also left notes, signing them only as
 
 ## About
 
-The file was released on the 21st of August. At the moment, four tabs have been unlocked: prologue, intro and 
-two interview pages.
+The file was released on the 21st of August 2025. As of December 14th 2025, all five tabs have been unlocked.
 
-While the first two tabs are unlocked, the other three tabs require a password. All of these passwords are hidden behind a 
-cipher. The third puzzle is not currently unlocked.
+While the first two tabs are readily available, the other three tabs require a password.
+All of these passwords are hidden behind ciphers.
 
 ***
 
@@ -61,7 +60,8 @@ cipher. The third puzzle is not currently unlocked.
 > ///// TRANSMISSION START /////
 
 
-> First Note - Prologue (yellow text)
+> [First Note (yellow text):]
+> 
 > Skys... This interview was conducted shortly after the public collapse of Arc/Hive.. what the net calls 
 > 'The Cradle Crash.' You were right. Arc/Hive was never dismantled. Victor simply rebranded. New logo, Same bones. 
 > They call it NEX GEN now (subtle, considering everything you said went down) This appears to be Carmine's attempt to 
@@ -101,11 +101,11 @@ cipher. The third puzzle is not currently unlocked.
 >
 > INTERFERENCE WARNINGS:
 > 
-> ◦    LM drift spikes in transcript segment 6
+> - LM drift spikes in transcript segment 6
 > 
-> ◦    Red-eye anomalies in subject reflections (possible CV hallucination)
+> - Red-eye anomalies in subject reflections (possible CV hallucination)
 > 
-> ◦    Line 184: context loop instability (suggests ghost exec overwrite attempt)
+> - Line 184: context loop instability (suggests ghost exec overwrite attempt)
 >
 > TIMESTAMP: 2037.10.25 | 11:12:47:UTC-08
 >
@@ -199,8 +199,8 @@ cipher. The third puzzle is not currently unlocked.
 >
 > [FINGER TAPPING ACCELERATES - 3x speed sudden cessation] Elbow placement: forward lean. Voice weight increases.
 >
-> [V. CARMINE:] 'You're not wrong. And that's exactly why they can-
--swivel. I'm bored of arse- licking. You? You hate me. That's why you're here. If I can win you over, maybe the world 
+> [V. CARMINE:] 'You're not wrong. And that's exactly why they can swivel. I'm bored of arse-licking. You? You hate me. 
+> That's why you're here. If I can win you over, maybe the world 
 > buys it. Maybe they believe NEX GEN isn't Arc/Hive 2.0.'
 >
 > [PUPIL TRACKING: Locked | Emotion Signal: Predatory Intent + Calculated Charm]
@@ -243,14 +243,16 @@ cipher. The third puzzle is not currently unlocked.
 >
 > ///// TRANSMISSION END /////
 
-> Second Note - Intro
+> [Second Note (yellow text):]
+> 
 > That’s all I could pull for now. I'm working a deeper loop through the Siberian subnet. Found an old key embedded 
 > in a Gut Wrench B-side file, of all places, might be bait, might be a breach point. Either way, I'll be back. 
 > Keep eyes off the mirrors. If it flickers, blink slow.
 >
 > -L
 
-> Extra
+> [Extra:]
+> 
 > [Clickable Nex Gen Logo at the Bottom (after clicking for text):]
 > 
 > APPLICATION NAME: PLACEHOLDER || STATUS: ACTIVE;
@@ -458,7 +460,8 @@ Light tremor.
 >
 > [CARMINE:] 'That's just the tip of the dog's dick!'
 
-> Third Note - Dcd2Attmpt
+> [Third Note (yellow text):]
+> 
 > Picking up post-Trinity segment. Journalist had just dropped the accusations. Dialogue unaltered. Body data embedded. 
 > Don't take too long.
 >
@@ -470,7 +473,8 @@ Light tremor.
 >
 > -L
 
-> Extra
+> [Extra:]
+> 
 > [Top right pop-up tab, red button:]
 >
 > APPLICATION NAME: PLACEHOLDER || STATUS: ACTIVE;
@@ -649,21 +653,21 @@ Light tremor.
 >
 > [END TRANSMISSION]
 
-> Fourth Note - DR!PP3D;
-> [Yellow text:]
+> [Fourth Note (yellow text):]
 >
 > It's been a minute. I don't blame you for forgetting where we were. Let me orient you.
 >
-> Last time, she cracked him open. Accused him of building NEX GEN on blood-tech, reviving dead monsters from Trinity, hiding behind prophets and proxies. He bit back hard. Now we're deep in it.
+> Last time, she cracked him open. Accused him of building NEX GEN on blood-tech, reviving dead monsters from Trinity, 
+> hiding behind prophets and proxies. He bit back hard. Now we're deep in it.
 >
 > -L
 
-> Fourth Note - DR!PP3D;
-> [Green text:]
+> [Fourth Note (green text):]
 >
 > There it is. The first thread unraveled.
 >
-> She came looking for dirt, and instead, he handed her history carved in flame. Aliens. War. A dead family. A silenced god. But we know he lied about ADAM.
+> She came looking for dirt, and instead, he handed her history carved in flame. Aliens. War. A dead family. A silenced god. 
+> But we know he lied about ADAM.
 >
 > And she blushed...and that's the most dangerous part.
 >
@@ -676,7 +680,300 @@ Light tremor.
 
 ### Tab 5
 
-The fifth tab contains the ciphered text `q996uqm6556373P`, which has not been solved yet.
+<details class="transcript">
+<summary>Transcription tab 5 + notes</summary>
+{{ "
+
+> [Tab name:] FNLp4g.(string)
+>
+> TIMESTAMP: 2037.10.25 | 14:54:47:UTC-08
+>
+> LOCATION: NEX GEN Facility, Northern Sector, D.T.C.
+>
+> REBUILD STATUS: 71.3%
+>
+> SOURCE: GREC reflection lens + ChairSync Pulse Patterning + AI
+>
+> Hallucination Containment (drift rate: 4.2%)l
+>
+> [JOURNALIST:]
+>
+> [Tablet activated - soft glow. Finger flick reveals tab: "The Post Human Prophecy."]
+>
+> GREC alert: content match - Ancient Eschatology Thread (Tier 7 banned material)
+> 
+> CARMINE gaze lock: immediate. Retina glint: +3.4% - "threat-recognition joy" expression
+>
+> [CARMINE:] "Uh-oh. We got a Reality Paradoxer on our hands."
+>
+> [Reaches over. Grabs tablet. Grip: firm but playful. Pupil dilation: predator baseline.]
+>
+> [JOURNALIST:]
+> 
+> [Quick reflex. Swipes back.]
+>
+> "It's just background research."
+>
+> [CARMINE:]
+>
+> [Raises eyebrow. Skepticism algorithm match: 93%]
+>
+> "Background research, huh?"
+>
+> [Lets go. Leans back.]
+>
+> Chair sync pulse: calm. No fight. Just focus.
+>
+> [JOURNALIST:]
+>
+> [Clears throat. Vocal tremor: micro-shake, hidden resolve underneath.]
+>
+> "Well, the idea that reality isn't a straight line, that we're all caught in an endless cycle of rebirth and failure, 
+> a loop, trapped by our own lack of evolution. That there's no future for humanity, only repeat patterns. 
+> Let's just say, sometimes, I can relate."
+>
+> [Eye contact: held. Truth vector: 87.3% match.]
+>
+> [CARMINE:]
+>
+> [Raises opposite eyebrow. Casual symmetry - predatory interest.] "Relate, huh?"
+>
+> Pause. Head tilt: inquisitive. Smile: faint but active.
+>
+> "It's not that we're doomed to an endless cycle of failure because we lack evolution. 
+> It's because we're playing a game we don't even know we're in."
+>
+> [Voice shift: philosophical register. Vocal depth drops 12db - subdued reverence.]
+> 
+> [CARMINE:] "Maybe this world isn't the end. Maybe it's just a checkpoint."
+>
+> [JOURNALIST:]
+>
+> [Leans forward. Breathing irregular.]
+>
+> "You've seen it, haven't you?" 
+>
+> (Whispers)
+>
+> "The cave paintings in the Valkhan caves, the ones in the deserts of Dravada? They foretell everything. 
+> The fall of humanity. It's been written in the scriptures for millennia."
+>
+> [CARMINE:]
+>
+> [Eyes flare. Iris swirl detected - subconscious signal bloom.]
+>
+> "The seven nights of darkness. The time where the world will descend into chaos to pave the way for a saviour."
+>
+> [JOURNALIST:]
+>
+> [Nods. Voice accelerates.]
+>
+> 'It's in almost every ancient text, across multiple cultures. In Sanskrit, it speaks of a great purification.
+>
+> [JOURNALIST:] In Zoroastrianism, they talk about the Frashokereti."
+>
+> [CARMINE:]
+>
+> [Voice lowers. Monastic cadence.]
+>
+> "In our greed, we created our own hell. Our personal Gehenna. But there's another world. A world that remains pure. 
+> We lost touch with it long ago."
+>
+> [JOURNALIST:] "Seven nights of suffering to pave the way, and the Post Human - the one who will rise from the ashes, 
+> the prophesied lilac-skinned Demi-God, born to overcome the four trials of the earthly elements. Earth, water, fire, 
+> and air."
+>
+> [CARMINE:] "It's all symbolic, I'll give you that."
+>
+> [eyes unfocused - slow drift into interior world.]
+>
+> "The elements. The purification. They're about rebirth, destruction, and creation."
+>
+> [JOURNALIST:]
+>
+> [shifts. Intrigue level rising. Pulse spike: +9.4 bpm.]
+>
+> "Those paintings in Dravada... they show these trials. The earth split in two. Skies set ablaze. Floods swallowing cities. 
+> But there's something else. Something about a great plague that will cleanse the world."
+>
+> [CARMINE:]
+> 
+> [Expression hardens. Jaw locks. Voice: flat, final.]
+>
+> "It's not just a story."
+>
+> [JOURNALIST:]
+>
+> [Pushes forward.]
+> 
+> "These true gods, the ones the paintings depict - what do you know about them? You have to know something more. 
+> You're telling me all this for a reason."
+>
+> [CARMINE:]
+>
+> "You could say I've seen things."
+>
+> [Eye twitch. Thumb rubs palm subconsciously - suppressed memory pattern.]
+>
+> [CARMINE:]
+>
+> "Ancient texts. Patterns across history. The Post Human prophecy is just part of it. But the truth?"
+>
+> [Leans in. Voice drops to 43hz - untraceable beneath base ambient hum.]
+>
+> "The truth is... there is no planet B, but there might be a reality B. We're not just talking about rebirth in a spiritual sense. 
+> It's literal."
+>
+> [JOURNALIST:]
+>
+> [Heartbeat spike. Brow tightens. Vocal cord tension increases.]
+>
+> "Y-93."
+>
+> Whispers. Shivers.
+>
+> "The pure world."
+>
+> [CARMINE:]
+>
+> [Nods.]
+>
+> "Elysium. Hyperspace. Whatever you want to call it. Strassman and his team... 
+> they're not just exploring the mind - they're exploring another reality. It's all connected. The prophecies. The trials. 
+> The dimensions we can't perceive in our waking world. The Post Human isn't just a metaphor for evolution. It's real."
+>
+> [JOURNALIST:]
+>
+> [Clutches tablet. Skull-ache spike registered. Oxygen flow in brain: reduced.]
+>
+> "You seriously believe that?"
+>
+> [CARMINE:]
+>
+> [Smiles. No teeth. Quiet.]
+>
+> "Belief is irrelevant. We're on the brink of something humanity's been preparing for, for millennia. 
+> DMT is helping us uncover things we never knew... that's for sure.”
+>
+> [JOURNALIST:]
+>
+> [Swallows. Throat strain detected.]
+>
+> "Seriously, how can you let me walk out of here after dropping all this on me? You know how this plays out. 
+> You start talking about things like alternate realities, DMT doorways, and some Post Human saviour... 
+> Your stock's going to plummet even lower. Investors will panic. Shareholders will jump ship. I'm not naive. 
+> This kind of talk has real consequences. You can't expect to throw this out there without it coming back to bite you."
+>
+> [CARMINE:]
+>
+> [Expression softens. Father-simulacrum engaged.]
+>
+> "Like I said... I'm a changed man."
+>
+> [Smile. Mischief in eye flare. Caught off guard signal.]
+>
+> [JOURNALIST:]
+>
+> [Giggles. Attempts suppression. Fails.]
+>
+> Glance down. Bite lip. Emotional integrity fracture: detected. Looks up. Eye contact established.
+>
+> Shared gaze: held. Heat bloom: mutual.
+>
+> [DOOR BURSTS OPEN]
+>
+> [ASSISTANT:]
+>
+> [Face pale. Vocal tremor index: +34.7%]
+>
+> "S-sir... I'm sorry to interrupt, but something has happened. Something that requires your immediate attention."
+>
+> [CARMINE:]
+>
+> [Glare. Jaw flex.]
+>
+> "What is it?"
+>
+> [Growl tone: 46% measured, 54% venom.]
+>
+> [ASSISTANT:]
+>
+> "It would be better to discuss in private, sir."
+>
+> [CARMINE:]
+>
+> "What you can say to me, you can say to her."
+>
+> [JOURNALIST: turns. Alert. Fully present.]
+>
+> [ASSISTANT:] "S-sir, I honestly thi-"
+>
+> [CARMINE:] "Just tell me."
+>
+> [Winks - microgesture. Meant as cue.]
+>
+> [ASSISTANT:]
+>
+> [Fails to process. Overridden by fear loop.]
+>
+> "It's regarding planet HIP's response to the ADAM chatbot, the one Dr. Lauren was working on decoding before we 
+> scrambled his brain with that neural excavation. Well, Ren.. w-who you convinced to pick up where his father left 
+> off after he died, completely clueless that we're the reason his dad ended up catatonic… he's finalised the blueprints. 
+> It's some kind of Æ, light years beyond the grasp of our current understanding. She claims to be the salvation of mankind. 
+> She's in Ren's lab. And she... s-she wants to talk to you."
+>
+> [Room temp: drops. Silence logged. Smartglass goes matte.]
+>
+> [CARMINE:]
+>
+> [Sighs. Rubs temples.]
+>
+> [Retrieves Beretta 418 - drawer panel slide ID'd. Thermal bloom confirms. Gun match confirmed.]
+>
+> [SHOTS FIRED: 1]
+>
+> [ENTRY: frontal lobe | EXIT: none | DEATH: instantaneous]
+> 
+> [JOURNALIST'S BODY: Slumps forward. Impact pressure: +7kg desk load]
+>
+> [CARMINE:] "Shame. We were just starting to hit it off."
+>
+> [Sets gun down. Calm. Controlled detachment.]
+> 
+> [ASSISTANT: Pulse spike. Near syncope.]
+>
+> [CARMINE:]
+> 
+> [Jacket. Collar fix.]
+>
+> "Let's go meet her, shall we?"
+>
+> [Bright green text:] Æ has entered the chat.
+
+> [Fifth Note (yellow text):]
+> 
+> Skys...
+>
+> She caught a glimpse of the truth last time. Cold War cover-ups. Alien signals. 
+> A war that broke Carmine's body and buried his family. The "woman in the sky." 
+> What you're about to read wasn't meant for public record. 
+> I only reconstructed it because the smart glass reflection hit an echo loop from Carmine's own eyes. 
+> This is where it shifts.
+>
+> -L
+
+> [Fifth Note (green text):]
+>
+> The prophecy wasn't a warning.. It was a blueprint. And now she's waiting.
+>
+> You were right.
+>
+> If it flickers, blink slow.
+>
+> -L
+
+" | markdownify }}
+</details>
 
 ***
 
@@ -691,10 +988,8 @@ The characters can be replaced by dots and lines.
 </details>
 
 <details class="password">
-<summary>Password third tab</summary>
-08 discrecovery02
-
-The password is spelled using morse code.
+<summary>Password</summary>
+The password <b><em>08 discrecovery02</em></b> is spelled using morse code.
 
 </details>
 
@@ -707,16 +1002,28 @@ Draw a grid, using the numbers as coordinates.
 </details>
 
 <details class="password">
-<summary>Password third tab</summary>
-tempsyncopation
-
-The password is hidden behind a Polybius cipher.
+<summary>Password</summary>
+The password <b><em>tempsyncopation</em></b> is hidden behind a Polybius cipher.
 
 </details>
 
 ### Tab 5
 
-The fifth tab contains the ciphered text `q996uqm6556373P`, which has not been solved yet.
+<details class="hint">
+<summary>Hint</summary>
+Have a good look around the website.
+
+</details>
+
+<details class="password">
+<summary>Password</summary>
+The fifth tab contains the first ciphered text <b><em>q996uqm6556373P</em></b>, 
+the <a href="https://secrettinfoilsociety.com/pages/for-sof/museum.html">museum's second room</a> contains <b><em>qwertylkjsa</em></b>, 
+the wings category of the <a href="https://secrettinfoilsociety.com/pages/website/dressup_m8.html">Dress-up Game</a> contains <b><em>fd2piuv08o</em></b>, 
+the leech blood dye <a href="https://secrettinfoilsociety.com/pages/for-sof/artifacts.html">artifact</a> contains <b><em>6479bnmcxz</em></b>. 
+Assembled and decoded, this gives the password: <b><em>a441va71mm1n3nT</em></b>.
+
+</details>
 
 ***
 
