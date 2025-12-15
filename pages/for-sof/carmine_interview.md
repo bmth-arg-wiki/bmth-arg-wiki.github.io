@@ -697,8 +697,8 @@ Light tremor.
 > Hallucination Containment (drift rate: 4.2%)l
 >
 > [JOURNALIST:]
->
-> [Tablet activated - soft glow. Finger flick reveals tab: "The Post Human Prophecy."]
+> 
+> [Tablet activated - soft glow. Finger flick reveals tab: 'The Post Human Prophecy.']
 >
 > GREC alert: content match - Ancient Eschatology Thread (Tier 7 banned material)
 > 
