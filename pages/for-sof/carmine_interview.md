@@ -957,7 +957,7 @@ Light tremor.
 > Skys...
 >
 > She caught a glimpse of the truth last time. Cold War cover-ups. Alien signals. 
-> A war that broke Carmine's body and buried his family. The "woman in the sky." 
+> A war that broke Carmine's body and buried his family. The 'woman in the sky.' 
 > What you're about to read wasn't meant for public record. 
 > I only reconstructed it because the smart glass reflection hit an echo loop from Carmine's own eyes. 
 > This is where it shifts.
