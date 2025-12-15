@@ -31,23 +31,23 @@ from the [website](../website/website) in the FOR SOF folder, but there are a fe
 
 ***
 
-## Transmission
-
-A mysterious transmission appeared on the website in August 2025. This contains a [reconstructed interview](carmine_interview) with 
-[Victor Carmine](../characters/victor-carmine).
-
-{% assign page_links = '/pages/for-sof/carmine_interview' | split: ", " %}
-{% include page-card-gallery.html links=page_links %}
-
-***
-
 ## Inventory documents
 
 Since the December 4th 2024 update, there is now an `inventory` on the [webpage](../website/website). This inventory contains 
 four puzzles, which have all been unlocked. This update also included the release of [Dallus' diary](dallus-diary) that
 is in the FOR SOF folder.
 
-{% assign page_links = '/pages/for-sof/skys-diary, /pages/for-sof/grumblr2, /pages/for-sof/book-of-eclipse, /pages/for-sof/unbeleevable2, /pages/for-sof/unbeleevable3, /pages/for-sof/cities-coordinates, /pages/for-sof/artifacts, /pages/survival-horror-anniversary' | split: ", " %}
+{% assign page_links = '/pages/for-sof/skys-diary, /pages/for-sof/grumblr2, /pages/for-sof/book-of-eclipse, /pages/for-sof/unbeleevable2, /pages/for-sof/unbeleevable3, /pages/for-sof/cities-coordinates, /pages/for-sof/artifacts, /pages/for-sof/survival-horror-anniversary, /pages/for-sof/museum' | split: ", " %}
+{% include page-card-gallery.html links=page_links %}
+
+***
+
+## Lore-heavy Apps
+
+Several apps on the dashboard contain more lore documents, for example because they are organised in journals. 
+Other apps you might want to check out to understand the lore can be found in the overview below.
+
+{% assign page_links = '/pages/website/journal, /pages/for-sof/carmine_interview, /pages/website/skys-diary' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ***

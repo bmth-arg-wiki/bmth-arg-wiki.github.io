@@ -76,7 +76,7 @@ E.V.E. was always user 0000 on the first version of the Multidimensional Navigat
 
 ## Gallery
 
-{% include gallery.html folder="characters/eve/gallery" %}
+{% include gallery-nav.html folder="characters/eve/gallery" %}
 
 ***
 

@@ -18,6 +18,8 @@ Dr. Lee MD is, of course, played by Lee Malia. [Madman](madman) is also played b
 a connection here. In [Unbeleevable 3](../for-sof/unbeleevable3) we also meet a man who claims to be Dr. Dee, who tells 
 Lee that he is not who he thinks he is.
 
+![Lee Malia as Dr. Lee MD](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/lee-md/unbeleevable.png)
+
 ***
 
 ## Backstory

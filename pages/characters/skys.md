@@ -238,7 +238,7 @@ the entry that she will be the one to kill Skys, although his death once again r
 
 ## Gallery
 
-{% include gallery.html folder="characters/skys/gallery" %}
+{% include gallery-nav.html folder="characters/skys/gallery" %}
 
 ***
 

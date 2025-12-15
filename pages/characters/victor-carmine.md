@@ -17,11 +17,11 @@ While he mostly operates from the inside, we see Victor Carmine appear in articl
 Nex Gen's entertainment service that delivers entertainment directly to the brain. His current 
 status is unknown by both us and [Sof](sof).
 
+![Victor Carmine from Sof's journal](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/refs/heads/main/characters/carmine/carmine_sof_journal.png)
+
 ***
 
 ## Backstory
-
-![Victor Carmine from Sof's journal](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/refs/heads/main/characters/carmine/carmine_sof_journal.png)
 
 Victor Carmine is the boss of [Arc/Hive](../lore/archive) and later [Nex Gen](../lore/nex-gen-corporation), re-branding 
 after an incident the public calls the "Cradle Crash". He inherited his empire after the war, after his family with a 

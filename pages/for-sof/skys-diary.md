@@ -3,12 +3,21 @@ title: "Skys's Diary"
 description: "This page is about Skys' diary, which he writes early in his time in Inglaterra."
 categories: ["for-sof"]
 tags: ["nex gen", "skys", "mantra"]
+previous: "for-sof/goxmog"
+previous_text: "Goxmog Sightings"
 next: "for-sof/grumblr2"
 next_text: "Grumblr 2"
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/skys-diary/diary-300x300.png"
 ---
 
 # Skys' Diary
+
+{% include content/warning.html
+title="Skys' Scrapbook"
+content="This entry was first released in December 2024. After a change in the website, this original version of Skys' 
+first diary entry was made inaccessible. You can find the updated app with multiple entries in the 
+[Skys' Scrapbook app](../website/skys-diary) to continue his story."
+%}
 
 > All I remember was the skys above me, watching me, like it was the only thing that didn’t look away.
 

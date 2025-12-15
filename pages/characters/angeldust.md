@@ -28,7 +28,7 @@ When her arrival is communicated to [E.V.E](eve) during the live shows, it becom
 
 ## Gallery
 
-{% include gallery.html folder="characters/angeldust/gallery" %}
+{% include gallery-nav.html folder="characters/angeldust/gallery" %}
 
 ***
 

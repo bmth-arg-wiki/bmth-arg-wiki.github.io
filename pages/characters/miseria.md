@@ -38,7 +38,7 @@ remained user 0009 until the December 2024 update.
 
 ## Gallery
 
-{% include gallery.html folder="characters/miseria/gallery" %}
+{% include gallery-nav.html folder="characters/miseria/gallery" %}
 
 ***
 

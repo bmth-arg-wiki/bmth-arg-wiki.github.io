@@ -73,7 +73,7 @@ Iara used to be user 0015 on the first version of the [Multidimensional Navigato
 
 ## Gallery
 
-{% include gallery.html folder="characters/iara/gallery" %}
+{% include gallery-nav.html folder="characters/iara/gallery" %}
 
 ***
 

@@ -34,24 +34,12 @@ information as much as possible and indicate whenever something is not confirmed
 
 ***
 
-## HAPPY BIRTHDAY OLIVER
-
-For Oliver's birthday on the 20th of November we are launching a new section on the wiki. 
-We would like to show off some of the beautiful fan art as a thank you for everything.
-
-Please check out these collaborations from the Post Human fandom!
-
-{% assign page_links = '/pages/fanart/fanart, /pages/fanart/olibday2025, /pages/fanart/halloween2025' | split: ", " %}
-{% include page-card-gallery.html links=page_links %}
-
-***
-
 ## Newest Pages
 
 The wiki has grown to over 100+ pages, growing regularly with updates from [our small team](pages/about). 
-As of the 25th of August 2025, these are the newest pages you might want to check out!
+These are the newest (or most recently expanded) pages on our wiki!
 
-{% assign page_links = '/pages/website/dressup_m8, /pages/website/emulator-worm, /pages/for-sof/survival-horror-anniversary, /pages/for-sof/artifacts, /pages/lore/dreamseeker, /pages/for-sof/carmine_interview, /pages/characters/alfgram' | split: ", " %}
+{% assign page_links = '/pages/website/skys-diary, /pages/for-sof/museum, /pages/website/dressup_m8, /pages/website/emulator-worm, /pages/for-sof/survival-horror-anniversary, /pages/for-sof/artifacts' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ***
@@ -107,6 +95,18 @@ Some [other webpages](pages/other-webpages) have also been linked or are theoris
 they are discussed in their own article. This includes the secret [genxsis.faith](https://genxsis.faith) cult website, 
 the [Mantra](https://joinmantra.org) website and [dungeoncrawl33r](https://dungeoncrawl33r.com), which some barcodes 
 on the posters point to.
+
+***
+
+## Art from the fans!
+
+For Oliver's birthday on the 20th of November we are launching a new section on the wiki.
+We would like to show off some of the beautiful fan art as a thank you for everything.
+
+Please check out these collaborations from the Post Human fandom!
+
+{% assign page_links = '/pages/fanart/fanart, /pages/fanart/olibday2025, /pages/fanart/halloween2025' | split: ", " %}
+{% include page-card-gallery.html links=page_links %}
 
 ***
 

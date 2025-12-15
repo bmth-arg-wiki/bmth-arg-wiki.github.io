@@ -19,7 +19,7 @@ next_text: "Unbeleevable 3 (Jigsaw Puzzle)"
 > the true potential of YOUtopia and overcoming the challenges that lie ahead. Each Relic is held by the four 
 > Omen’s that walk the land of Youtopia which Selene will need to uncover.
 > 
-> - Nex Gen Album Booklet
+> - [Nex Gen Album Booklet](../lore/booklet)
 
 The module puzzles are connector-type puzzles that reveal six different 3D models, which seem to be 
 connected to the characters in our world.
@@ -154,9 +154,8 @@ the [website](../website/website). [M8](../m8) is inside the cap.
 
 <details class="password">
 <summary>Password</summary>
-Order for the pieces: 11, 7, 6, 8, 1, 10, 5, 9, 2, 3, 4
+Order for the pieces: 4, 7, 9, 6, 10, 1, 11, 8, 2, 3, 5
 </details>
-4, 7, 9, 6, 10, 1, 11, 8, 2, 3, 5
 
 The silver-purple-y puzzle reveals [Leech Blood Hair Dye](#leech-blood-hair-dye). The dye ties back 
 to [Skys](../characters/skys), who dyed his hair with leech blood in Ingleterra when he was alone in 

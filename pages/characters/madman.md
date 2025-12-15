@@ -40,7 +40,7 @@ Before the June 4th 2024 update, he used to be user 0013.
 
 ## Gallery
 
-{% include gallery.html folder="characters/madman/gallery" %}
+{% include gallery-nav.html folder="characters/madman/gallery" %}
 
 ***
 

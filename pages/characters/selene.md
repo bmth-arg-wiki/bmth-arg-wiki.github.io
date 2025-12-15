@@ -106,7 +106,7 @@ was also used as the password for her [diary](../for-sof/selene_personal_journal
 
 ## Gallery
 
-{% include gallery.html folder="characters/selene/gallery" %}
+{% include gallery-nav.html folder="characters/selene/gallery" %}
 
 ***
 

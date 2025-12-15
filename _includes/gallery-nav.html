@@ -1,4 +1,4 @@
-<div class="image-gallery-nav columns is-multiline" data-folder="{{ include.folder }}" data-repo="{{ include.repo }}">
+<div class="image-gallery-nav columns is-multiline" data-folder="{{ include.folder }}" data-repo="{{ include.repo | default: 'wiki-assets' }}">
     <!-- Images will be loaded here -->
 </div>
 

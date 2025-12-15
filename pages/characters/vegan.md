@@ -26,7 +26,7 @@ He is a figure of light, harmony, and compassion beloved by the entire community
 
 ## Gallery
 
-{% include gallery.html folder="characters/vegan/gallery" %}
+{% include gallery-nav.html folder="characters/vegan/gallery" %}
 
 ***
 

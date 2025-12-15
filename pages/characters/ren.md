@@ -84,7 +84,7 @@ skin colour changing to a pinkish hue.
 
 ## Gallery
 
-{% include gallery.html folder="characters/ren/gallery" %}
+{% include gallery-nav.html folder="characters/ren/gallery" %}
 
 ***
 

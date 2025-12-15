@@ -16,6 +16,8 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 Ava is one of [Skys](skys)' disciples in the [cult of Mantra](../lore/mantra). She fills an important 
 role in the cult, but ends up secretly falling for [Strassman](strassman).
 
+![Ava pregnant, talking to Strassman in Unbeleevable](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/ava/unbeleevable-pregnant.png)
+
 ***
 
 ## Background
