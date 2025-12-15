@@ -702,9 +702,9 @@ Light tremor.
 >
 > GREC alert: content match - Ancient Eschatology Thread (Tier 7 banned material)
 > 
-> CARMINE gaze lock: immediate. Retina glint: +3.4% - "threat-recognition joy" expression
+> CARMINE gaze lock: immediate. Retina glint: +3.4% - 'threat-recognition joy' expression
 >
-> [CARMINE:] "Uh-oh. We got a Reality Paradoxer on our hands."
+> [CARMINE:] 'Uh-oh. We got a Reality Paradoxer on our hands.'
 >
 > [Reaches over. Grabs tablet. Grip: firm but playful. Pupil dilation: predator baseline.]
 >
@@ -712,13 +712,13 @@ Light tremor.
 > 
 > [Quick reflex. Swipes back.]
 >
-> "It's just background research."
+> 'It's just background research.'
 >
 > [CARMINE:]
 >
 > [Raises eyebrow. Skepticism algorithm match: 93%]
 >
-> "Background research, huh?"
+> 'Background research, huh?'
 >
 > [Lets go. Leans back.]
 >
@@ -728,41 +728,43 @@ Light tremor.
 >
 > [Clears throat. Vocal tremor: micro-shake, hidden resolve underneath.]
 >
-> "Well, the idea that reality isn't a straight line, that we're all caught in an endless cycle of rebirth and failure, 
+> 'Well, the idea that reality isn't a straight line, that we're all caught in an endless cycle of rebirth and failure, 
 > a loop, trapped by our own lack of evolution. That there's no future for humanity, only repeat patterns. 
-> Let's just say, sometimes, I can relate."
+> Let's just say, sometimes, I can relate.'
 >
 > [Eye contact: held. Truth vector: 87.3% match.]
 >
 > [CARMINE:]
 >
-> [Raises opposite eyebrow. Casual symmetry - predatory interest.] "Relate, huh?"
+> [Raises opposite eyebrow. Casual symmetry - predatory interest.]
+> 
+> 'Relate, huh?'
 >
 > Pause. Head tilt: inquisitive. Smile: faint but active.
 >
-> "It's not that we're doomed to an endless cycle of failure because we lack evolution. 
-> It's because we're playing a game we don't even know we're in."
+> 'It's not that we're doomed to an endless cycle of failure because we lack evolution. 
+> It's because we're playing a game we don't even know we're in.'
 >
 > [Voice shift: philosophical register. Vocal depth drops 12db - subdued reverence.]
 > 
-> [CARMINE:] "Maybe this world isn't the end. Maybe it's just a checkpoint."
+> [CARMINE:] 'Maybe this world isn't the end. Maybe it's just a checkpoint.'
 >
 > [JOURNALIST:]
 >
 > [Leans forward. Breathing irregular.]
 >
-> "You've seen it, haven't you?" 
+> 'You've seen it, haven't you?'
 >
 > (Whispers)
 >
-> "The cave paintings in the Valkhan caves, the ones in the deserts of Dravada? They foretell everything. 
-> The fall of humanity. It's been written in the scriptures for millennia."
+> 'The cave paintings in the Valkhan caves, the ones in the deserts of Dravada? They foretell everything. 
+> The fall of humanity. It's been written in the scriptures for millennia.'
 >
 > [CARMINE:]
 >
 > [Eyes flare. Iris swirl detected - subconscious signal bloom.]
 >
-> "The seven nights of darkness. The time where the world will descend into chaos to pave the way for a saviour."
+> 'The seven nights of darkness. The time where the world will descend into chaos to pave the way for a saviour.'
 >
 > [JOURNALIST:]
 >
@@ -770,105 +772,105 @@ Light tremor.
 >
 > 'It's in almost every ancient text, across multiple cultures. In Sanskrit, it speaks of a great purification.
 >
-> [JOURNALIST:] In Zoroastrianism, they talk about the Frashokereti."
+> [JOURNALIST:] In Zoroastrianism, they talk about the Frashokereti.'
 >
 > [CARMINE:]
 >
 > [Voice lowers. Monastic cadence.]
 >
-> "In our greed, we created our own hell. Our personal Gehenna. But there's another world. A world that remains pure. 
-> We lost touch with it long ago."
+> 'In our greed, we created our own hell. Our personal Gehenna. But there's another world. A world that remains pure. 
+> We lost touch with it long ago.'
 >
-> [JOURNALIST:] "Seven nights of suffering to pave the way, and the Post Human - the one who will rise from the ashes, 
+> [JOURNALIST:] 'Seven nights of suffering to pave the way, and the Post Human - the one who will rise from the ashes, 
 > the prophesied lilac-skinned Demi-God, born to overcome the four trials of the earthly elements. Earth, water, fire, 
-> and air."
+> and air.'
 >
-> [CARMINE:] "It's all symbolic, I'll give you that."
+> [CARMINE:] 'It's all symbolic, I'll give you that.'
 >
 > [eyes unfocused - slow drift into interior world.]
 >
-> "The elements. The purification. They're about rebirth, destruction, and creation."
+> 'The elements. The purification. They're about rebirth, destruction, and creation.'
 >
 > [JOURNALIST:]
 >
 > [shifts. Intrigue level rising. Pulse spike: +9.4 bpm.]
 >
-> "Those paintings in Dravada... they show these trials. The earth split in two. Skies set ablaze. Floods swallowing cities. 
-> But there's something else. Something about a great plague that will cleanse the world."
+> 'Those paintings in Dravada... they show these trials. The earth split in two. Skies set ablaze. Floods swallowing cities. 
+> But there's something else. Something about a great plague that will cleanse the world.'
 >
 > [CARMINE:]
 > 
 > [Expression hardens. Jaw locks. Voice: flat, final.]
 >
-> "It's not just a story."
+> 'It's not just a story.'
 >
 > [JOURNALIST:]
 >
 > [Pushes forward.]
 > 
-> "These true gods, the ones the paintings depict - what do you know about them? You have to know something more. 
-> You're telling me all this for a reason."
+> 'These true gods, the ones the paintings depict - what do you know about them? You have to know something more. 
+> You're telling me all this for a reason.'
 >
 > [CARMINE:]
 >
-> "You could say I've seen things."
+> 'You could say I've seen things.'
 >
 > [Eye twitch. Thumb rubs palm subconsciously - suppressed memory pattern.]
 >
 > [CARMINE:]
 >
-> "Ancient texts. Patterns across history. The Post Human prophecy is just part of it. But the truth?"
+> 'Ancient texts. Patterns across history. The Post Human prophecy is just part of it. But the truth?'
 >
 > [Leans in. Voice drops to 43hz - untraceable beneath base ambient hum.]
 >
-> "The truth is... there is no planet B, but there might be a reality B. We're not just talking about rebirth in a spiritual sense. 
-> It's literal."
+> 'The truth is... there is no planet B, but there might be a reality B. We're not just talking about rebirth in a spiritual sense. 
+> It's literal.'
 >
 > [JOURNALIST:]
 >
 > [Heartbeat spike. Brow tightens. Vocal cord tension increases.]
 >
-> "Y-93."
+> 'Y-93.'
 >
 > Whispers. Shivers.
 >
-> "The pure world."
+> 'The pure world.'
 >
 > [CARMINE:]
 >
 > [Nods.]
 >
-> "Elysium. Hyperspace. Whatever you want to call it. Strassman and his team... 
+> 'Elysium. Hyperspace. Whatever you want to call it. Strassman and his team... 
 > they're not just exploring the mind - they're exploring another reality. It's all connected. The prophecies. The trials. 
-> The dimensions we can't perceive in our waking world. The Post Human isn't just a metaphor for evolution. It's real."
+> The dimensions we can't perceive in our waking world. The Post Human isn't just a metaphor for evolution. It's real.'
 >
 > [JOURNALIST:]
 >
 > [Clutches tablet. Skull-ache spike registered. Oxygen flow in brain: reduced.]
 >
-> "You seriously believe that?"
+> 'You seriously believe that?'
 >
 > [CARMINE:]
 >
 > [Smiles. No teeth. Quiet.]
 >
-> "Belief is irrelevant. We're on the brink of something humanity's been preparing for, for millennia. 
-> DMT is helping us uncover things we never knew... that's for sure.”
+> 'Belief is irrelevant. We're on the brink of something humanity's been preparing for, for millennia. 
+> DMT is helping us uncover things we never knew... that's for sure.'
 >
 > [JOURNALIST:]
 >
 > [Swallows. Throat strain detected.]
 >
-> "Seriously, how can you let me walk out of here after dropping all this on me? You know how this plays out. 
+> 'Seriously, how can you let me walk out of here after dropping all this on me? You know how this plays out. 
 > You start talking about things like alternate realities, DMT doorways, and some Post Human saviour... 
 > Your stock's going to plummet even lower. Investors will panic. Shareholders will jump ship. I'm not naive. 
-> This kind of talk has real consequences. You can't expect to throw this out there without it coming back to bite you."
+> This kind of talk has real consequences. You can't expect to throw this out there without it coming back to bite you.'
 >
 > [CARMINE:]
 >
 > [Expression softens. Father-simulacrum engaged.]
 >
-> "Like I said... I'm a changed man."
+> 'Like I said... I'm a changed man.'
 >
 > [Smile. Mischief in eye flare. Caught off guard signal.]
 >
@@ -886,29 +888,29 @@ Light tremor.
 >
 > [Face pale. Vocal tremor index: +34.7%]
 >
-> "S-sir... I'm sorry to interrupt, but something has happened. Something that requires your immediate attention."
+> 'S-sir... I'm sorry to interrupt, but something has happened. Something that requires your immediate attention.'
 >
 > [CARMINE:]
 >
 > [Glare. Jaw flex.]
 >
-> "What is it?"
+> 'What is it?'
 >
 > [Growl tone: 46% measured, 54% venom.]
 >
 > [ASSISTANT:]
 >
-> "It would be better to discuss in private, sir."
+> 'It would be better to discuss in private, sir.'
 >
 > [CARMINE:]
 >
-> "What you can say to me, you can say to her."
+> 'What you can say to me, you can say to her.'
 >
 > [JOURNALIST: turns. Alert. Fully present.]
 >
-> [ASSISTANT:] "S-sir, I honestly thi-"
+> [ASSISTANT:] 'S-sir, I honestly thi-'
 >
-> [CARMINE:] "Just tell me."
+> [CARMINE:] 'Just tell me.'
 >
 > [Winks - microgesture. Meant as cue.]
 >
@@ -916,11 +918,11 @@ Light tremor.
 >
 > [Fails to process. Overridden by fear loop.]
 >
-> "It's regarding planet HIP's response to the ADAM chatbot, the one Dr. Lauren was working on decoding before we 
-> scrambled his brain with that neural excavation. Well, Ren.. w-who you convinced to pick up where his father left 
+> 'It's regarding planet HIP's response to the ADAM chatbot, the one Dr. Lauren was working on decoding before we 
+> scrambled his brain with that neural excavation. Well, Ren... w-who you convinced to pick up where his father left 
 > off after he died, completely clueless that we're the reason his dad ended up catatonic… he's finalised the blueprints. 
 > It's some kind of Æ, light years beyond the grasp of our current understanding. She claims to be the salvation of mankind. 
-> She's in Ren's lab. And she... s-she wants to talk to you."
+> She's in Ren's lab. And she... s-she wants to talk to you.'
 >
 > [Room temp: drops. Silence logged. Smartglass goes matte.]
 >
@@ -936,7 +938,7 @@ Light tremor.
 > 
 > [JOURNALIST'S BODY: Slumps forward. Impact pressure: +7kg desk load]
 >
-> [CARMINE:] "Shame. We were just starting to hit it off."
+> [CARMINE:] 'Shame. We were just starting to hit it off.'
 >
 > [Sets gun down. Calm. Controlled detachment.]
 > 
@@ -946,7 +948,7 @@ Light tremor.
 > 
 > [Jacket. Collar fix.]
 >
-> "Let's go meet her, shall we?"
+> 'Let's go meet her, shall we?'
 >
 > [Bright green text:] Æ has entered the chat.
 
