@@ -21,7 +21,17 @@ the [website](../website/website).
 
 ## Password Context
 
-Clicking the lift activates a password pop-up.
+First we need to get into the museum. Open the locks puzzle from Sof's inventory. There is no password, 
+but a minigame to pass.
+
+1. Push the first four locks one by one until they spin with the first tool (medium-sized one)
+2. Push the big lock until it spins with the second tool (big one)
+3. Push the four smallest locks one by one until they spin on the right with the third tool (smallest one)
+
+Tip: you have to be VERY gentle.
+
+After completing the locks puzzle, you will have access to the museum. 
+Clicking the lift at the back left activates a password pop-up.
 
 <details class="password">
 <summary>Elevator password</summary>
