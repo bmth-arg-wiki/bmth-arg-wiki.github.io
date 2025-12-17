@@ -3,8 +3,10 @@ title: "POST HUMAN: NeX GEn"
 categories: ["music"]
 description: "The album POST HUMAN: NeX GEn."
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover_300.png"
-next: "music/song-dreamseeker"
-next_text: "01. [ost] dreamseeker"
+previous: "music/ph-survival-horror"
+previous_text: "POST HUMAN: SURVIVAL HORROR"
+next: "music/lofiles"
+next_text: "Lo-files"
 ---
 # POST HUMAN: NeX GEn
 
@@ -52,8 +54,12 @@ connecting over it with others.
 
 ## Read More
 
-{% assign page_links = '/pages/music/amo, /pages/music/ph-survival-horror, /pages/music/spectrograms' | split: ", " %}
-{% include page-card-gallery.html links=page_links %}
+Related music:
+
+- [NeX GEn spectrograms](spectrograms)
+- [amo](amo)
+- [POST HUMAN: SURVIVAL HORROR](ph-survival-horror)
+- [Lo-files](lofiles)
 
 ***
 

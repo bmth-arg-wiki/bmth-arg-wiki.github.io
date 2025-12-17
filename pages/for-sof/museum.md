@@ -21,11 +21,23 @@ the [website](../website/website).
 
 ## Password Context
 
-Clicking the lift activates a password pop-up. The password is not known at the time of writing.
+Clicking the lift activates a password pop-up.
+
+<details class="password">
+<summary>Elevator password</summary>
+{{ "
+
+The password is "selene". The items around the museum refer to the Post Human Prophecy (cover of 
+[Post Human: Survival Horror](../music/ph-survival-horror)), which seems to be associated with our pink-haired 
+characters (Skys, Selene & Sof), but the intended reasoning for this password is unknown.
+" | markdownify }}
+</details>
 
 ***
 
 ## Museum Contents
+
+### Main Area
 
 The following items are in the museum, from the back left corner of the room:
 
@@ -41,6 +53,16 @@ The 3D model is the same as the [Survival Horror Tribute](survival-horror-annive
 can also be found in the real world.
 - **Metropolitan Cathedral of Our Lady Assumption and Saint Paul**: a 3D model of a real-life cathedral from Saõ Paulo.
 - **Handroanthus albus (Ipê)**: a tree with golden leaves, also inspired by a real-life species.
+
+### Past the elevator
+
+Although it looks like we used an elevator, we actually step outside into a wooded area. There are some smaller golden trees, 
+many barren trees and a larger golden tree ahead. Past the golden tree we find a ghost- or hologram-like appearance of 
+[Selene](../characters/selene), with the lo-fi track canyoufeelmy<3.tmpx playing as we get closer. 
+Selene is made of (multiple layers of) ASCII art and the screen turns white when we get too close to her.
+
+A sequence briefly appears on the screen: `qwertylkjsa`. We will need this to unlock the final tab on 
+[Victor's interview](carmine_interview).
 
 ### Gallery
 
@@ -61,6 +83,7 @@ Related files:
 
 - [Skys & the Starjammers Poster](skystarjammers)
 - [The Science Study Newspaper](thesciencestudy)
+- [Carmine Interview](carmine_interview) (through clue)
 - [Unbeleevable Episode 1](unbeleevable)
 - [Unbeleevable Episode 2](unbeleevable2)
 - [Unbeleevable Episode 3](unbeleevable3)
@@ -76,3 +99,4 @@ Related music:
 
 - [POST HUMAN: SURVIVAL HORROR](../music/ph-survival-horror)
 - [POST HUMAN: NeX GEn](../music/ph-nex-gen)
+- [Lo-files](../music/lofiles)

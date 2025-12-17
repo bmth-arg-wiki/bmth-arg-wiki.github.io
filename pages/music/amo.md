@@ -3,8 +3,8 @@ title: "amo"
 categories: ["music"]
 description: "The album amo."
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/amo/album_cover_300.png"
-next: "music/amo-mantra"
-next_text: "02. MANTRA"
+next: "music/ph-survival-horror"
+next_text: "POST HUMAN: SURVIVAL HORROR"
 ---
 # amo
 
@@ -14,6 +14,8 @@ but has been linked back to the ARG for [Nex Gen](ph-nex-gen) too.
 ***
 
 ## Tracklist
+
+The following pages have some (speculated) lore relevance:
 
 {% assign page_links = '/pages/music/amo-mantra, /pages/music/amo-nihilist-blues, /pages/music/amo-in-the-dark, /pages/music/amo-shit' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
@@ -67,10 +69,35 @@ Skys and Dallus are members of the [Trinity](../characters/characters), as we le
 
 ## Read More
 
-### Music
+Related characters:
 
-{% assign page_links = '/pages/music/ph-survival-horror, /pages/music/ph-nex-gen, /pages/music/spectrograms' | split: ", " %}
-{% include page-card-gallery.html links=page_links %}
+- [Skys](../characters/skys)
+- [Dallus Lauren](../characters/dallus-lauren)
+- [Karl Strassman](../characters/strassman)
+
+Related lore:
+
+- [Church of Genxsis](../lore/church)
+- [MANTRA Cult](../lore/mantra)
+- [Ecliptism](../lore/ecliptism)
+- [Mares](../lore/mares)
+- [Operation Kingslayer](../lore/incident-kingslayer)
+- [Operation Trinity](../lore/operation-trinity)
+- [Arc/Hive](../lore/archive)
+- [Project D.U.S.T.](../lore/incident-dust)
+- [Synths](../lore/synths)
+- [Novosovia](../lore/novosovia)
+- [DTC](../lore/dtc)
+
+Related music:
+
+- [POST HUMAN: SURVIVAL HORROR](ph-survival-horror)
+- [POST HUMAN: NeX GEn](ph-nex-gen)
+- [Lo-files](lofiles)
+- [MANTRA](amo-mantra)
+- [nihilist blues](amo-nihilist-blues)
+- [in the dark](amo-in-the-dark)
+- [sugar honey ice & tea](amo-shit)
 
 ### Documents
 

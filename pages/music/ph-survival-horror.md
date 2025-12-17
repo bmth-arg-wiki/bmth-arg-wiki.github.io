@@ -3,8 +3,10 @@ title: "POST HUMAN: SURVIVAL HORROR"
 categories: ["music"]
 description: "The album POST HUMAN: SURVIVAL HORROR."
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph1/album_cover_300.jpg"
-next: "music/song-dear-diary"
-next_text: "01. Dear Diary,"
+previous: "music/amo"
+previous_text: "amo"
+next: "music/ph-nex-gen"
+next_text: "POST HUMAN: NeX GEn"
 ---
 # POST HUMAN: SURVIVAL HORROR
 
@@ -71,6 +73,8 @@ from NEx Gen. The theory is supported by the fact that both characters have a th
 
 ## Read More
 
-- [Spectrograms](spectrograms)
-- [POST HUMAN: NeX GEn](ph-nex-gen)
+Related music:
+
 - [amo](amo)
+- [POST HUMAN: NeX GEn](ph-nex-gen)
+- [Lo-files](lofiles)
