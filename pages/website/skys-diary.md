@@ -8,6 +8,12 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage
 
 # Skys' Scrapbook
 
+{% include content/danger.html
+title="Trigger Warning"
+content={{"This article has mentions of implied CSAM. Please take of yourself. [Skys](../characters/skys)' story 
+can be read in much less triggering terms on his character page."|markdownify}}
+%}
+
 {% include content/info.html
 title="First entry original"
 content="The first diary entry from Skys was released in December 2024 in the inventory on the website. The puzzle is 
@@ -121,6 +127,83 @@ I fink i kin fly now
 " | markdownify }}
 </details>
 
+### Entry 3
+
+Entry 3 is unlocked by playing a "Simon Says" puzzle where you remember the order buttons are clicked in. 
+You will need to remember 13 button presses step by step. 
+
+It is unsure on which day this dropped (within December 2025), as it already seems to have been available as early as 
+the 14th of December 2025. The puzzles went unnoticed and were first appeared solved in the community on the 17th 
+of December 2025.
+
+<details class="transcript">
+<summary>Transcription Entry 3</summary>
+
+{{ "
+
+> [Left page:]
+>
+> VOID? VOID? VOID? VOID? VOID? VOID?
+>
+> english not so hard. but ppl is. sum words nice. sum words bite. sum words scratch at nite. da air get fin. like d sky brefin slow. i hear d house talk. walls creak like old bones. wispers dat dont got mouths
+>
+> alby sit close. too close. hand like iron. Eyes like Fenrir. he watch me like a fire hes scared cud go out. sumtimes i fink i gone bruise.
+>
+> dont say nothin. mayb love feels like drowing slow. mayb thts d price 4 someone caring. how wood i know? i never been loved before.
+
+> [Right page:]
+>
+> WHO DO I BELONG TO?
+>
+> alby keep talking about dis power in me. a hole wating to be filled. he say d veil is fin now. like skin before a cut. he talk lo. not like a voice.
+>
+> like a prayer dat hates itself. say im close. clsoe to what, he dont say. but sometimes i feel it. not in d bones, not in d blood.
+>
+> in. d space between my ribs. like im growing teef where lungs be. i wana ask him what im becomin. but im scared of d anser.
+>
+> im not scared of d dark
+>
+> im scared of d light
+
+Transcript by Alec.
+" | markdownify }}
+</details>
+
+### Entry 4
+
+Entry 4 uses a "Simon Says" puzzle too.
+
+<details class="transcript">
+<summary>Transcription Entry 3</summary>
+
+{{ "
+
+> [Left page:]
+>
+> alby show me light. real light. not like sun. this one breathes. he calls it 'aether sphere'. say it listens. say it like a pet that bites back.
+>
+> D = the
+>
+> F is th
+>
+> i hold one. Humming in my hand. buzzin in my blood. felt like i was bein born again. or set on fire slow.
+>
+> he said i could throw it. shape it. twist it like smoke. 'you just gotta believe what aint real yet'. thats how magic works.
+
+> [Right page:]
+>
+> chosen or easy to bend?
+>
+> we done something new now. 'lesser cerebral bind.' not talkin with mouths. talkin with minds. his thoughts slip into mine. mine into his. feels like we made a room inside my head just for us.
+>
+> he change my face there. pulls it long. smooth. says 'you look beautiful this way'. I laugh but my teeth itch. he look at me like im a question already answered. sometimes hes inside too long, forgets to leave.
+>
+> my bones echo with him. I think maybe this is what a real connection feels like? Like bein carved into. i Think it just cause i dont have capacity for Love. I need to be hollowed out to make room. he say im close, say im changing. say im almost pure. i say nothin but inside i'm asking questions.
+>
+> if this is power, why do I feel like prey?
+" | markdownify }}
+</details>
+
 ***
 
 ## Read More
@@ -136,6 +219,10 @@ Related files:
 - [Unbeleevable Episode 1](../for-sof/unbeleevable)
 - [Unbeleevable Episode 2](../for-sof/unbeleevable2)
 - [Unbeleevable Episode 3](../for-sof/unbeleevable3)
+
+Related lore:
+
+- [Ecliptism](../lore/ecliptism)
 
 Related music:
 
