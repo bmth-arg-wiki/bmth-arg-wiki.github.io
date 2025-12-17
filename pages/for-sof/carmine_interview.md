@@ -1019,12 +1019,14 @@ Have a good look around the website.
 
 <details class="password">
 <summary>Password</summary>
-The fifth tab contains the first ciphered text <b><em>q996uqm6556373P</em></b>, 
-the <a href="https://secrettinfoilsociety.com/pages/for-sof/museum.html">museum's second room</a> contains <b><em>qwertylkjsa</em></b>, 
-the wings category of the <a href="https://secrettinfoilsociety.com/pages/website/dressup_m8.html">Dress-up Game</a> contains <b><em>fd2piuv08o</em></b>, 
-the leech blood dye <a href="https://secrettinfoilsociety.com/pages/for-sof/artifacts.html">artifact</a> contains <b><em>6479bnmcxz</em></b>. 
-Assembled and decoded, this gives the password: <b><em>a441va71mm1n3nT</em></b>.
+{{ "
 
+The fifth tab contains the first ciphered text **q996uqm6556373P**, 
+the [museum's second room](museum) contains **qwertylkjsa**, 
+the wings category of the [Dress-up Game](../website/dressup_m8) contains **fd2piuv08o**, 
+the leech blood dye [artifact](artifacts) contains **6479bnmcxz**. 
+Assembled and decoded, this gives the password: **a441va71mm1n3nT**.
+" | markdownify }}
 </details>
 
 ***
@@ -1048,10 +1050,22 @@ Related characters:
 - [Iara Copple](../characters/iara)
 - [Eve](../characters/eve)
 
+Related files:
+
+- [Artifacts](artifacts)
+- [M8 Museum](museum)
+- [Survival Horror Anniversary](survival-horror-anniversary)
+- [Trinity article](trinity_document)
+- [Dallus' diary](dallus-diary)
+- [Project D.U.S.T.](project_dust)
+- [Book of Eclipse](book-of-eclipse)
+- [Lauren D8 log](lauren_d8_log)
+
 Related lore:
 
 - [Novosovia](../lore/novosovia)
 - [Mantra Cult](../lore/mantra)
+- [Ecliptism](../lore/ecliptism)
 - [DTC](../lore/dtc)
 - [Arc/Hive](../lore/archive)
 - [Nex Gen](../lore/nex-gen-corporation)
