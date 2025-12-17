@@ -36,6 +36,12 @@ information as much as possible and indicate whenever something is not confirmed
 
 ## Newest Pages
 
+{% include content/info.html
+title="Latest updates"
+content="The latest updates have been made on 17-12-2025. The articles for Skys' diary (page 3 & 4), the museum (area 2) and 
+Carmine's interview (tab 5) have received updates!"
+%}
+
 The wiki has grown to over 100+ pages, growing regularly with updates from [our small team](pages/about). 
 These are the newest (or most recently expanded) pages on our wiki!
 
