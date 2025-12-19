@@ -37,7 +37,7 @@ Clicking the lift at the back left activates a password pop-up.
 <summary>Elevator password</summary>
 {{ "
 
-The password is "selene". The items around the museum refer to the Post Human Prophecy (cover of 
+The password is selene. The items around the museum refer to the Post Human Prophecy (cover of 
 [Post Human: Survival Horror](../music/ph-survival-horror)), which seems to be associated with our pink-haired 
 characters (Skys, Selene & Sof), but the intended reasoning for this password is unknown.
 " | markdownify }}
