@@ -10,8 +10,8 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage
 
 {% include content/danger.html
 title="Trigger Warning"
-content={{"This article has mentions of implied CSAM. Please take of yourself. [Skys](../characters/skys)' story 
-can be read in much less triggering terms on his character page."|markdownify}}
+content="This article has mentions of implied CSAM. Please take of yourself. [Skys](../characters/skys)' story 
+can be read in much less triggering terms on his character page."
 %}
 
 {% include content/info.html
@@ -129,12 +129,14 @@ I fink i kin fly now
 
 ### Entry 3
 
+![Skys' third diary entry](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/skys-scrapbook/01-skysdiary3.png)
+
 Entry 3 is unlocked by playing a "Simon Says" puzzle where you remember the order buttons are clicked in. 
 You will need to remember 13 button presses step by step. 
 
-It is unsure on which day this dropped (within December 2025), as it already seems to have been available as early as 
-the 14th of December 2025. The puzzles went unnoticed and were first appeared solved in the community on the 17th 
-of December 2025.
+These puzzles were dropped on the 14th of December, which was deduced from tabs left open with the ARG loaded on the 14th. 
+The puzzles went unnoticed and first caught the attention of the wider community on the 17th of December 2025, when it was 
+solved along with the similar puzzle for the fourth page.
 
 <details class="transcript">
 <summary>Transcription Entry 3</summary>
@@ -171,7 +173,9 @@ Transcript by Alec.
 
 ### Entry 4
 
-Entry 4 uses a "Simon Says" puzzle too.
+![Skys' fourth diary entry](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/skys-scrapbook/01-skysdiary4.png)
+
+Entry 4 uses a "Simon Says" puzzle too, being released and solved along with entry 3.
 
 <details class="transcript">
 <summary>Transcription Entry 3</summary>
@@ -203,6 +207,12 @@ Entry 4 uses a "Simon Says" puzzle too.
 > if this is power, why do I feel like prey?
 " | markdownify }}
 </details>
+
+***
+
+## Gallery
+
+{% include gallery-nav.html folder="webpage/skys-scrapbook/gallery" %}
 
 ***
 
