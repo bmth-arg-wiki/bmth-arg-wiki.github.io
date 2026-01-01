@@ -217,6 +217,7 @@ Related files:
 - [Dallus' diary](dallus-diary)
 - [First Grumblr post](grumblr)
 - [Tekka Interview with Rebecca](tekka_interview)
+- [D8 log](lauren_d8_log)
 
 Related TDW articles:
 
