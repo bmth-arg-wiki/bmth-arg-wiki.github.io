@@ -12,28 +12,33 @@ next_text: "StrassmanCONFIDENTIALPRT007.CODEC"
 
 # Dallus' Diary
 
+This file contains Dallus' diary from the 19th of January 2021, shortly after being extracted from [Novosovia](../lore/novosovia) 
+in [Operation Trinity](trinity_document).
+
 This entry tells us more about how Dallus ended up working with [Skys](../characters/skys), [Strassman](../characters/strassman) 
-and [Victor Carmine](../characters/victor-carmine). Apparently, Skys did something to Dallus Lauren at the Skys & the Starjammers 
-concert at the October Palace, convincing him to get involved with the [Cult of MANTRA](../lore/mantra) and [ARC/HIVE](../lore/archive), 
-the company that would later carry out [Operation Trinity](trinity_document).
+and [Victor Carmine](../characters/victor-carmine). Dallus was deeply involved with the [Cult of MANTRA](../lore/mantra), 
+which led to [ARC/HIVE](../lore/archive) eventually evacuating the men during an event called "The October Massacre". 
+Carmine, then-leader of ARC/HIVE, wanted access to their research around [ecliptism](../lore/ecliptism) and Skys' 
+powers specifically.
 
-We also learn more about his family: his wife Elena went into labour while they were fleeing with [Ren](../characters/ren) 
-from Novosovia, the location of the MANTRA cult. Their youngest daughter Lyra was born at [ARC/HIVE](../lore/archive) and ends 
-up dying in a car crash. Rebecca's [second Grumblr post](grumblr2) from November 2036 
-mentions this happened a few years before and Dallus is still only half there. Since Ren is alive to 
-activate [EVE](../characters/eve) in 2037 according to the [D8 log](lauren_d8_log), the child who died had to have been 
-Lyra.
+We also learn more about Dallus' family: his wife [Elena](../characters/elena-lauren) went into labour while they were 
+fleeing with [Ren](../characters/ren) from Novosovia, the location of the MANTRA cult. Their youngest daughter 
+[Lyra](../characters/lyra-lauren) was safely born at [ARC/HIVE](../lore/archive), 
+but sadly ends up dying in a car crash only three years later. Rebecca's [second Grumblr post](grumblr2) from November 2027 
+mentions this happened a few years before and Dallus is still only "half there". Ren goes on to work at Nex Gen on 
+their RO8OT line, as mentioned in the diary, and later continues his father's work.
 
-The diary is from the 19th of January 2021.
+Finally, his diary mentions his [SYNTH](../lore/synths) project, to turn dying people into synthetic humans. 
+[Victor Carmine](../characters/victor-carmine), then-leader of ARC/HIVE, is "practically salivating" at this idea.
 
 ***
 
 ## About
 
-[Dallus](../characters/dallus-lauren)' diary is a file found after the December 4th 2024 update, although its background briefly appeared when
-the [Grumblr](grumblr) file first opened, at the time displaying the text `test` in green. 
+[Dallus](../characters/dallus-lauren)' diary is a file found after the December 4th 2024 update, although its background 
+briefly appeared when the [Grumblr](grumblr) file first opened, at the time displaying the text `test` in green. 
 
-The file is available in the [FOR SOF](../for-sof/for-sof#for-sof) folder, and was released without a password.
+The file is available in the [FOR SOF](../for-sof/for-sof) folder, and was released without a password.
 
 ***
 
@@ -121,7 +126,7 @@ The file is available in the [FOR SOF](../for-sof/for-sof#for-sof) folder, and w
 >
 >Dallus Lauren
 
-Trancsription by Alec
+Transcription by Alec
 
 ***
 
@@ -138,21 +143,58 @@ Sof writes about this file in their journal.
 
 More from [📁 FOR SOF](for-sof)
 
-Related files:
-
-- [Grumblr 2](grumblr2)
-- [D8 Log](lauren_d8_log)
-
-Related lore:
-
-- [Cult of MANTRA](../lore/mantra)
-- [ARC/HIVE](../lore/archive)
-- [Sof's journal](../website/journal.md)
-
 Related characters:
 
 - [Dallus Lauren](../characters/dallus-lauren)
+- [Elena Lauren](../characters/elena-lauren)
+- [Ikaro 'Ren' Lauren](../characters/ren)
+- [Lyra Lauren](../characters/lyra-lauren)
 - [Strassman](../characters/strassman)
 - [Skys](../characters/skys)
-- [Ikaro 'Ren' Lauren](../characters/ren)
+- [Victor Carmine](../characters/victor-carmine)
+- [Medea Carmine](../characters/medea)
 - [Rebecca Sinclair](../characters/rebecca)
+
+Related files:
+
+- [Skys & the Starjammers poster](skystarjammers)
+- [Operation Trinity article](trinity_document)
+- [Grumblr](grumblr)
+- [Grumblr 2](grumblr2)
+- [Tekka interview](tekka_interview)
+- [Ren's research (D8 log)](lauren_d8_log)
+- [R8 specs](r8)
+- [Carmine interview](carmine_interview)
+- [Unbeleevable Episode 1](unbeleevable)
+- [Unbeleevable Episode 2](unbeleevable2)
+- [Unbeleevable Episode 3](unbeleevable3)
+
+Related TDW articles:
+
+- [Gat3keeper](../website/tdw-gatekeeper)
+- [Clone Chaos](../website/tdw-clonechaos)
+- [What is a Loop-Hole?](../website/tdw-loophole)
+- [The Dark Rise of Lupamine](../website/tdw-riseoflupamine)
+- [The Rise of Synthetic Humans](../website/tdw-riseofsynth)
+- [NEX GEN's Rogue Sentinels](../website/tdw-roguesentinels)
+
+Related lore:
+
+- [Sof's journal](../website/journal)
+- [Cult of MANTRA](../lore/mantra)
+- [Mares](../lore/mares)
+- [Ecliptism](../lore/ecliptism)
+- [Project Kingslayer](../lore/incident-kingslayer)
+- [Operation Trinity](../lore/operation-trinity)
+- [ARC/HIVE](../lore/archive)
+- [Project D.U.S.T.](../lore/incident-dust)
+- [Nex Gen](../lore/nex-gen-corporation)
+- [Synths](../lore/synths)
+- [Lupamine](../lore/lupamine)
+- [DTC](../lore/dtc)
+- [New Elysium](../lore/new-elysium)
+- [Novosovia](../lore/novosovia)
+
+Related music:
+
+- [in the dark](../music/amo-in-the-dark)
