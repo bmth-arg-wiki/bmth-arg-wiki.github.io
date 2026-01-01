@@ -187,24 +187,24 @@ Related characters:
 
 Related files:
 
-- [Strassman Codec](../for-sof/strassmancodec)
-- [Selene's Map](../for-sof/selenes_map)
-- [Dreadit](../for-sof/dreadit)
-- [Tekka Interview](../for-sof/tekka_interview)
-- [Project D.U.S.T. Proposal](../for-sof/project_dust)
-- [Operation Trinity Article](../for-sof/trinity_document)
-- [Russian Poem](../for-sof/russianpoem)
 - [Skys & the Starjammers Poster](../for-sof/skystarjammers)
+- [Russian Poem](../for-sof/russianpoem)
+- [Operation Trinity Article](../for-sof/trinity_document)
+- [Project D.U.S.T. Proposal](../for-sof/project_dust)
+- [Dallus' Diary](../for-sof/dallus-diary)
+- [Grumblr November 2027 post](../for-sof/grumblr2)
+- [Tekka Interview](../for-sof/tekka_interview)
 - [The Science Study Newspaper](../for-sof/thesciencestudy)
+- [Carmine Interview](../for-sof/carmine_interview)
+- [Selene Youtopia Research](../for-sof/selene_youtopia_doc)
+- [Selene's Map](../for-sof/selenes_map)
+- [LBR Sites](../for-sof/lbr_sites)
+- [Strassman Codec](../for-sof/strassmancodec)
 - [Unbeleevable Episode 1](../for-sof/unbeleevable)
 - [Unbeleevable Episode 2](../for-sof/unbeleevable2)
 - [Unbeleevable Episode 3](../for-sof/unbeleevable3)
-- [Dallus' Diary](../for-sof/dallus-diary)
-- [Grumblr 2036 post](../for-sof/grumblr2)
-- [LBR Sites](../for-sof/lbr_sites)
-- [Selene Youtopia Research](../for-sof/selene_youtopia_doc)
+- [Dreadit](../for-sof/dreadit)
 - [Artifacts](../for-sof/artifacts)
-- [Carmine Interview](../for-sof/carmine_interview)
 
 Related lore:
 
