@@ -1,5 +1,6 @@
 ---
 title: "Rebecca's Synth Interview"
+description: "Rebecca is interviewed by Jax Jackson, who asks her about being a synth and working at Nex Gen."
 categories: ["for-sof"]
 tags: ["rebecca sinclair", "arc/hive", "tekka", "interview", "youtopia", "nex gen", "synths", "for sof", 
 "rebecca", "lab assistant", "victor carmine", "dallus lauren", "karl strassman", "jax jackson"]
