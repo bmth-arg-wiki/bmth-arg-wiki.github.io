@@ -33,7 +33,7 @@ This Daily Whisper article was found in the [Spyder web browser](webbrowser) on 
 
 ## Gallery
 
-![faith edge article](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/dailywhisper/faith.png)
+![Faith on the edge article screenshot](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/dailywhisper/faith.png)
 
 ***
 
@@ -68,8 +68,8 @@ content="This article is occasionally missing 'ff', 'fl', 'ffi', 'ffl' or 'fi'. 
 > ### The Cult of Mantra: Redemption or Ritual?
 >
 > As the DTC plunges into a crisis of belief and technology-driven salvation, a newly revived force emerges on the scene: 
-> Eclipstim, a cult that blends ancient mysticism with cutting-edge neural data manipulation. 
-> Eclipstim's core doctrine hinges on the belief in a hidden reality accessible through pain and neural recalibration.
+> Ecliptism, a cult that blends ancient mysticism with cutting-edge neural data manipulation. 
+> Ecliptism's core doctrine hinges on the belief in a hidden reality accessible through pain and neural recalibration.
 >
 > Jonah's connection to the Ecliptism, a shadowy sect notorious for rituals and cybernetic pain worship, 
 > has only fanned the **_flames_**. This group, that was formed by the infamous Cult of Mantra's more extremist followers, 
@@ -87,8 +87,8 @@ content="This article is occasionally missing 'ff', 'fl', 'ffi', 'ffl' or 'fi'. 
 > his spectacle isn't just about justice or entertainment; it's an experiment. 
 > Rumours swirl that this broadcast isn't just meant to entertain or satiate a thirst for justice; 
 > it's a vast data-gathering operation. By monitoring the ritualistic **_suffering_**, 
-> Eclipstim seeks proof of what they claim is a gateway to another plane of existence, a reality beyond our own. 
-> Followers of Eclipstim believe that pain, when experienced under certain conditions, 
+> Ecliptism seeks proof of what they claim is a gateway to another plane of existence, a reality beyond our own. 
+> Followers of Ecliptism believe that pain, when experienced under certain conditions, 
 > generates neural data that aligns with patterns suggestive of otherworldly encounters.
 > 
 > In the DTC, where salvation and spectacle have intertwined, the line between digital transcendence and exploitation 
