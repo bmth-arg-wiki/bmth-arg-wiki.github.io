@@ -1,6 +1,6 @@
 ---
 title: "Grumblr 2"
-description: "This page is about another Grumblr entry from Rebecca dating from November 5th 2036."
+description: "This page is about another Grumblr entry from Rebecca dating from November 5th 2027."
 categories: ["for-sof"]
 tags: ["nex gen", "rebecca", "grumblr", "mindflix", "skys", "synth", "lauren", "strassman"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/grumblr2/grumblr-300x300.png"
@@ -12,11 +12,17 @@ next_text: "Book Of Eclipse"
 
 # Grumblr 2
 
+{% include content/warning.html
+title="Timeline confusion warning"
+content="The file was originally released with the year 2036, which was a mistake. The article has now been edited to 
+reflect the change in the file and explain the correct timeline placement."
+%}
+
 > What a horror show.
 
 The second [Grumblr](grumblr) post from [Rebecca Sinclair](../characters/rebecca). In this post, she speaks about 
 working with [Strassman](../characters/strassman) and [Dallus Lauren](../characters/dallus-lauren) for the first time 
-on the 5th of November 2036. She also has a quite unpleasant encounter with Skys, 
+on the 5th of November 2027. She also has a quite unpleasant encounter with [Skys](../characters/skys), 
 who is transferred into a synth body 16 years after falling into a coma 
 during the final hours of the [October massacre](../lore/mantra).
 
@@ -27,6 +33,15 @@ during the final hours of the [October massacre](../lore/mantra).
 This file was hidden behind a music notes puzzle, released on the 4th of December along with three other puzzles 
 and lots of new content.
 
+### Timeline correction
+
+When the file was initially released (and in our screenshots) the file was dated to 2036. However, this was an error 
+and was later corrected to state the year 2027 instead. This was shortly after the [first Grumblr post](grumblr), 
+after [Rebecca](../characters/rebecca) had been diagnosed with CERS and before the [Tekka interview](tekka_interview), where 
+she would be asked about the Trinity (Skys, Strassman & Dallus) and [Victor Carmine](carmine_interview).
+
+![Corrected screenshot with annotation](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/grumblr2/correction.png)
+
 ***
 
 ## Gallery
@@ -36,6 +51,9 @@ and lots of new content.
 ***
 
 ## Transcription
+
+Please note that the "January 14th 2027" is mistakenly part of the background, the actual date of the post is 
+November 5, 2027.
 
 > ### Grumblr
 > More from @rebecca.sinclar                     [search bar]
@@ -53,7 +71,7 @@ and lots of new content.
 >
 > ### REBECCA ENTRY
 >
-> November 5, 2036
+> November 5, 2027
 >
 > I don’t even know where to start. Today was my first day working with Dr. Strassman and Dr. Dallus Lauren on the 
 > SYNTH project, and it was… well, way beyond anything I’d imagined. They told me this was going to be huge, like 
@@ -171,6 +189,8 @@ Transcription by Alec.
 
 ## Password context
 
+![Screenshot of the piano notes puzzle](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/grumblr2/piano_puzzle.png)
+
 <details class="password">
   <summary>Password</summary>
 
@@ -190,21 +210,28 @@ Related characters:
 - [Dallus Lauren](../characters/dallus-lauren)
 - [Strassman](../characters/strassman)
 - [Skys](../characters/skys)
+- [Victor Carmine](../characters/victor-carmine)
 
 Related files:
 
+- [Dallus' diary](dallus-diary)
 - [First Grumblr post](grumblr)
 - [Tekka Interview with Rebecca](tekka_interview)
 
-Other puzzle files:
+Related TDW articles:
 
-- [Skys' diary](skys-diary)
-- [Book of Eclipse](book-of-eclipse)
-- [Unbeleevable episode 2](unbeleevable2)
-- [Cities coordinates](cities-coordinates)
+- [Clone Chaos](../website/tdw-clonechaos)
+- [What is a Loop-Hole?](../website/tdw-loophole)
+- [The Dark Rise of Lupamine](../website/tdw-riseoflupamine)
+- [The Rise of Synthetic Humans](../website/tdw-riseofsynth)
+- [NEX GEN's Rogue Sentinels](../website/tdw-roguesentinels)
 
 Related lore:
 
 - [Cult of MANTRA](../lore/mantra)
 - [ARC/HIVE Corp.](../lore/archive)
+- [Synths](../lore/synths)
+- [Lupamine](../lore/lupamine)
 - [Nex Gen Corp.](../lore/nex-gen-corporation)
+- [New Elysium](../lore/new-elysium)
+- [DTC](../lore/dtc)
