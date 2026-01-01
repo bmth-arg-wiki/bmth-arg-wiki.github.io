@@ -18,7 +18,7 @@ content="There is also a file called [Kngsl@yer_EncrypMsg.codek](../for-sof/king
 > to transcendence through trauma, blood, and neural rewiring, People still talk about the horrors he inflicted like
 > it was some nightmare you couldn’t wake up from.
 > 
-> - [Rebecca](../characters/rebecca) in her [2036 Grumblr post](../for-sof/grumblr2)
+> - [Rebecca](../characters/rebecca) in her [November 2027 Grumblr post](../for-sof/grumblr2)
 
 Project Kingslayer is a twisted experiment to reach enlightenment through torture. Cult leader [Skys](../characters/skys) 
 was an influential man, leading the [Mantra Cult/Neosages](mantra) with his many allies. The research was supported 
@@ -61,8 +61,9 @@ Spiritual Terrain (referring to the October Massacre). [Sof](../characters/sof) 
 that even the [Chapel incident in 2040](incident-chapel) seems to be a consequence of the research into 
 Skys' powers that started with the Mantra cult.
 
-[Rebecca's](../characters/rebecca) [2036 Grumblr](../for-sof/grumblr2) refers to Skys as "The Brain Butcher", which 
-is seemingly the nickname the public gave him for his horrific experiments during Operation Kingslayer.
+[Rebecca's](../characters/rebecca) [November 2027 Grumblr](../for-sof/grumblr2) refers to Skys as "The Brain Butcher", which 
+is seemingly the nickname the public gave him for his horrific experiments during Operation Kingslayer. At the time, 
+Rebecca is also aware of ecliptism, as she draws a comparison to an "ecliptist ritual".
 
 ***
 
@@ -88,7 +89,7 @@ Related files:
 - [Operation Trinity article](../for-sof/trinity_document)
 - [Dallus' Diary](../for-sof/dallus-diary)
 - [Project D.U.S.T. Proposal](../for-sof/project_dust)
-- [2036 Grumblr Post](../for-sof/grumblr2)
+- [November 2027 Grumblr Post](../for-sof/grumblr2)
 - [Victor Carmine Interview](../for-sof/carmine_interview)
 - [Unbeleevable Episode 1](../for-sof/unbeleevable)
 - [Unbeleevable Episode 2](../for-sof/unbeleevable2)
