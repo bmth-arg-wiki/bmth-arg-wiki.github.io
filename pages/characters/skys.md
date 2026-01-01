@@ -11,7 +11,7 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 {% include content/danger.html
 title="Trigger Warning"
 content="This article deals with triggering topics, including substance abuses and references to violent 
-and sexual crimes."
+and sexual crimes. Please note that Skys' story also includes his childhood."
 %}
 
 > *Do you wanna start a cult with me?*
@@ -31,7 +31,7 @@ showed a shot of Skys in the official music video for Mantra.
 
 > "Skys was a few eggs short of a benedict.” 
 > 
-> - Dr. Lee MD
+> - [Dr. Lee MD](lee-md)
 
 Skys has a very tragic backstory, being abandoned by his parents at only 8 years old. He ended up in a country 
 named Ingleterra, which was at war with Novosovia, where he fell in with people he learned a lot of his spiritual 
@@ -76,12 +76,13 @@ tried to hide him before eventually kicking him out on his birthday. After this,
 town to town. Eventually he hid himself on a ship in a crate with boxes, with very little to eat, remarking that 
 rats and him fed off each other.
 
-> All I remember was the skys above me,watching me, like it was the only thing that didn’t look away.
+> All I remember was the skys above me, watching me, like it was the only thing that didn’t look away.
 > So when I got to the new world, I told them my name was Skys.
 
 We also learn that Skys is not his real name, and he does not remember it. He chose the name Skys 
-after only seeing the skies above him on the ship. This is how Skys eventually ends up in Ingleterra, the nation 
-that Novosovia was at war with.
+after only seeing the skies above him on the ship. This is how Skys eventually ends up in Ingleterra, another nation 
+that Novosovia was at war with. His research would later be invaluable to the [DTC](../lore/dtc), the other nation involved 
+in the wars.
 
 ### Skys in Ingleterra
 
@@ -152,7 +153,7 @@ been growing distant from the cult since the birth of [Ren](ren). Ava is begging
 she has fallen pregnant, and their affair will be revealed soon due to it. Medea is naturally also worried, since she 
 came into the cult on her father's orders to bring it down originally.
 
-[Rebecca](../characters/rebecca) refers to Skys in her [2036 Grumblr post](../for-sof/grumblr2) as "The Brain Butcher", 
+[Rebecca](../characters/rebecca) refers to Skys in her [November 2027 Grumblr post](../for-sof/grumblr2) as "The Brain Butcher", 
 which seems to be a name the public gave him. Since he's been in a coma since the events of Mantra, this nickname 
 likely refers to his actions in the cult from 2015 to 2020.
 
@@ -205,15 +206,16 @@ retrieved during Operation Trinity that are of interest to researcher [Elias Mor
 
 ### Synth Body
 
-On the 5th of November 2036, [Rebecca Sinclair](../characters/rebecca) is working with Dr. Strassman and Dr. Lauren 
-on the [SYNTH project](../lore/synths) for the first time. The company is no longer called Arc/Hive, now being 
-known as [Nex Gen](../lore/nex-gen-corporation). Both Rebecca and the corporation are famous for introducing 
-the first synthetic human body in 2028, saving Rebecca from her terminal illness.
-
 > Yes, that Skys. The “Brain Butcher,” the infamous leaser of MANTRA.
 
-Rebecca tells us more about what happens that day in her [2036 Grumblr post](../for-sof/grumblr2), where she 
-is surprised to learn that Skys is still alive. On this day, they transfer Skys' consciousness to a synthetic body.
+On the 5th of November 2027, [Rebecca Sinclair](../characters/rebecca) is working with Dr. Strassman and Dr. Lauren 
+on the [SYNTH project](../lore/synths) for the first time, after she was diagnosed with CERS (Chronic Environmental 
+Respiratory Syndrome). In 2028, Rebecca is interview publicly as the first synth. This is also around the time the 
+name "Nex Gen" first appears. Rebecca's Grumblr post suggests that Skys may have actually been the first synth, 
+since [Carmine](victor-carmine) wanted him out of his coma.
+
+In the entry, Rebecca details her first day on the Synth project. She finds out Skys is still alive, and together 
+with Strassman and Dallus they successfully transfer Skys' consciousness into a synthetic body.
 
 > And then,- -when his consciousness actually woke up inside that metal skeleton and started begging for death? God, 
 > I’ll never get that sound out of my head.
@@ -231,8 +233,10 @@ is surprised to learn that Skys is still alive. On this day, they transfer Skys'
 
 Strassman and Dallus Lauren start arguing after Skys awakes as a synth. Dallus Lauren is disgusted by what 
 they have done and tells Strassman that they should not be playing god. Strassman denies that the synth body 
-is causing Skys to behave like this, pointing out that he has been in a coma for a long time. Rebecca states in 
-the entry that she will be the one to kill Skys, although his death once again remains unconfirmed.
+is causing Skys to behave like this, pointing out that he has been in a coma for a long time.
+
+The log ends with Rebecca saying "I'll do it", which seems to have been left open on purpose: 
+one can interpret it as Rebecca saying she will kill Skys, or that she will allow herself to be turned into a synth.
 
 ***
 
@@ -257,18 +261,19 @@ Related characters:
 
 Related files:
 
+- [Skys' Diary](../for-sof/skys-diary)
 - [Skys & the Starjammers poster](../for-sof/skystarjammers)
+- [Book of Eclipse](../for-sof/book-of-eclipse)
+- [Russian Poem](../for-sof/russianpoem)
 - [Operation Trinity](../for-sof/trinity_document)
 - [Dallus' Diary](../for-sof/dallus-diary)
 - [Project D.U.S.T. proposal](../for-sof/project_dust)
-- [Russian Poem](../for-sof/russianpoem)
+- [Grumblr post November 2027](../for-sof/grumblr2)
+- [Tekka interview](../for-sof/tekka_interview)
 - [Newspaper The Science Study](../for-sof/thesciencestudy)
 - [Unbeleevable email & Episode 1](../for-sof/unbeleevable)
 - [Unbeleevable Episode 2](../for-sof/unbeleevable2)
 - [Unbeleevable Episode 3](../for-sof/unbeleevable3)
-- [Book of Eclipse](../for-sof/book-of-eclipse)
-- [Grumblr 2](../for-sof/grumblr2)
-- [Skys' Diary](../for-sof/skys-diary)
 
 Related lore:
 
