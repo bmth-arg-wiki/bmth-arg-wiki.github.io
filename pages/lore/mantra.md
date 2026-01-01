@@ -129,7 +129,7 @@ Related files:
 - [Operation Trinity](../for-sof/trinity_document)
 - [Dallus' Diary](../for-sof/dallus-diary)
 - [Project D.U.S.T. Proposal](../for-sof/project_dust)
-- [Grumblr 2036 Post](../for-sof/grumblr2)
+- [Grumblr November 2027 Post](../for-sof/grumblr2)
 - [The Science Study newspaper](../for-sof/thesciencestudy)
 - [Carmine Interview](../for-sof/carmine_interview)
 - [Unbeleevable Episode 1](../for-sof/unbeleevable)
@@ -137,19 +137,23 @@ Related files:
 - [Unbeleevable Episode 3](../for-sof/unbeleevable3)
 - [Dreadit post](../for-sof/dreadit)
 
+Related TDW articles:
+
+- [The Daily Whisper: Faith on the Edge](../website/tdw-faithedge)
+
 Related lore:
 
 - [Project Kingslayer](incident-kingslayer)
 - [Ecliptism](ecliptism)
 - [Mares](mares)
-- [Novosovia](novosovia)
 - [Operation Trinity](operation-trinity)
-- [DTC](dtc)
 - [Project D.U.S.T.](incident-dust)
+- [Novosovia](novosovia)
 - [New Elysium](new-elysium)
+- [DTC](dtc)
 
 Related music:
 
 - [Mantra](../music/amo-mantra)
 - [Sugar Honey Ice and Tea](../music/amo-shit)
-- [In the Dark](../music/amo-in-the-dark)
+- [in the dark](../music/amo-in-the-dark)
