@@ -46,7 +46,7 @@ she would be asked about the Trinity (Skys, Strassman & Dallus) and [Victor Carm
 
 ## Gallery
 
-{% include gallery.html folder="files/grumblr2/gallery" %}
+{% include gallery-nav.html folder="files/grumblr2/gallery" %}
 
 ***
 
