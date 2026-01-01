@@ -22,8 +22,9 @@ theme park in 2024.
 
 ## Backstory
 
-The start of Lyra's life was very rocky, with her mother going into labour while escaping Novosovia after the fall of [Mantra](../lore/mantra) 
-in December 2020. She ended up being born safely at [ARC/HIVE](../lore/archive), with her family successfully escaping. 
+The start of Lyra's life was very rocky, with her mother going into labour while escaping Novosovia after the fall of 
+[Mantra](../lore/mantra) in December 2020. She ended up being born safely at [ARC/HIVE](../lore/archive), 
+with her family successfully escaping. 
 
 ### Mares
 
@@ -50,8 +51,8 @@ Rumours still circulated that the park had somehow influenced Dallus while drivi
 and experimental features at the park.
 
 The [in the dark](../music/amo-in-the-dark) video also contains flashes of a car, and Rebecca mentions the crash in her  
-[2036 Grumblr post](../for-sof/grumblr2). This post was also made on the 25th of November, meaning Rebecca first worked 
-with him shortly after the 12-year anniversary of her death.
+[2027 Grumblr post](../for-sof/grumblr2). This post was made while Dallus was working on the synth project with Rebecca, with 
+the incident seemingly having taken a great toll on him.
 
 ***
 
@@ -73,6 +74,10 @@ Related files:
 - [Project D.U.S.T proposal](../for-sof/project_dust)
 - [Dallus' Diary](../for-sof/dallus-diary)
 - [Rebecca's second Grumblr post](../for-sof/grumblr2)
+
+Related TDW:
+
+- [Gatekeeper](../website/tdw-gatekeeper)
 
 Related lore:
 
