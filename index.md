@@ -38,14 +38,13 @@ information as much as possible and indicate whenever something is not confirmed
 
 {% include content/info.html
 title="Latest updates"
-content="The latest updates have been made on 17-12-2025. The articles for Skys' diary (page 3 & 4), the museum (area 2) and 
-Carmine's interview (tab 5) have received updates!"
+content="The latest updates have been made on 20-01-2026. The museum has received some new content today! :)"
 %}
 
 The wiki has grown to over 100+ pages, growing regularly with updates from [our small team](pages/about). 
 These are the newest (or most recently expanded) pages on our wiki!
 
-{% assign page_links = '/pages/website/skys-diary, /pages/for-sof/museum, /pages/website/dressup_m8, /pages/website/emulator-worm, /pages/for-sof/survival-horror-anniversary, /pages/for-sof/artifacts' | split: ", " %}
+{% assign page_links = '/pages/for-sof/museum, /pages/website/skys-diary, /pages/website/dressup_m8, /pages/website/emulator-worm, /pages/for-sof/survival-horror-anniversary, /pages/for-sof/artifacts' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ***

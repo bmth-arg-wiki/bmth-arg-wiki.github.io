@@ -49,7 +49,7 @@ characters (Skys, Selene & Sof), but the intended reasoning for this password is
 
 ### Main Area
 
-The following items are in the museum, from the back left corner of the room:
+The following items are labelled in the museum, from the back-left corner of the room:
 
 - **Child's Drawings**: several drawings from Skys' diary.
 - **Vintage Flyer**: a [Skys & the Starjammers poster](skystarjammers)
@@ -74,9 +74,43 @@ Selene is made of (multiple layers of) ASCII art and the screen turns white when
 A sequence briefly appears on the screen: `qwertylkjsa`. We will need this to unlock the final tab on 
 [Victor's interview](carmine_interview).
 
+### Cinema & Stage update
+
+The cinema and the stage are areas added in the January 20th update in 2026. This was also the day the São Paulo 
+concert Live Immersive Virtual Experience was announced. M8 can now also turn to face different angles, using Q and E 
+on the keyboard to turn her 90 degrees.
+
+The museum was rearranged to create some space for a mysterious door. The position of the statue has changed and the 
+Nex Gen album cover now has Sof looking sideways. Tickets have been placed between the drawings (from Skys) and the 
+[Skys & the Starjammers poster](skystarjammers). 
+M8 will pick these up when she gets close enough. You can now go through the new mysterious door, which is a short 
+hallway that leads to the cinema.
+
+The cinema shows a screen with red patterns, with Oli performing in the middle. In the back row, several characters 
+are visible: [Scott](../characters/scott), [Selene](../characters/selene), [M8](../m8), [Ren](../characters/ren), 
+[Strassman](../characters/strassman) and [Dallus Lauren](../characters/dallus-lauren). If you sit on the front row 
+to the left, you will now see DCPHR-2 flashing, with the code `153hg`. This was part of the cipher for 
+[Victor Carmine's interview](carmine_interview), although this cipher was already cracked by the time of release. 
+Now go between the seats to pick up the M8 key card, which will make Oli disappear from the cinema screen.
+
+With the M8 key card found, you can now go through the middle of the screen. Enter through the gates in front of the 
+stage on the left and pass through the middle of the screen. You will now be on a path that allows you to travel 
+to the stage, where we can see Oli perform. This is the final area, at least for now :)
+
 ### Gallery
 
-{% include gallery.html folder="files/museum/gallery" %}
+#### Version 1.0 - Main area & woods
+
+These are screenshots from the first version of the museum, before 
+it was slightly changed for the update that brought the cinema and stage.
+
+{% include gallery-nav.html folder="files/museum/gallery" %}
+
+#### Version 2.0 - Cinema & stage update
+
+This is the version of the museum released on January 20th, 2026.
+
+{% include gallery-nav.html folder="files/museum/gallery2" %}
 
 ***
 
@@ -88,12 +122,15 @@ Related characters:
 - [Selene](../characters/selene)
 - [Sof](../characters/sof)
 - [M8](../m8)
+- [Ikaro Lauren (Ren)](../characters/ren)
+- [Karl Strassman](../characters/strassman)
+- [Dallus Lauren](../characters/dallus-lauren)
 
 Related files:
 
 - [Skys & the Starjammers Poster](skystarjammers)
 - [The Science Study Newspaper](thesciencestudy)
-- [Carmine Interview](carmine_interview) (through clue)
+- [Carmine Interview](carmine_interview) (through clues)
 - [Unbeleevable Episode 1](unbeleevable)
 - [Unbeleevable Episode 2](unbeleevable2)
 - [Unbeleevable Episode 3](unbeleevable3)
