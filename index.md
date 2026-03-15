@@ -38,7 +38,7 @@ information as much as possible and indicate whenever something is not confirmed
 
 {% include content/info.html
 title="Latest updates"
-content="The latest updates have been made on 20-01-2026. The museum has received some new content today! :)"
+content="The latest updates have been made on 15-03-2026. The latest update contained a third version of the museum! :)"
 %}
 
 The wiki has grown to over 100+ pages, growing regularly with updates from [our small team](pages/about). 

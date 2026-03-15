@@ -13,6 +13,13 @@ next_text: "Skys Diary (Entry 2)"
 
 # M8's VR Museum
 
+{% include content/info.html
+title="Different museum versions"
+content="Three versions of the museum have been released as of 15-03-2026. The cinema and stage 
+were added in version 2 and updated in version 3. The contents of the main area have been shuffled 
+around throughout the versions."
+%}
+
 M8's VR museum was released on the 30th of November 2025, hidden behind a second lock puzzle. 
 The previous lock puzzle, hiding [Skys' diary](skys-diary), was replaced with this puzzle on 
 the [website](../website/website). 
@@ -97,6 +104,22 @@ With the M8 key card found, you can now go through the middle of the screen. Ent
 stage on the left and pass through the middle of the screen. You will now be on a path that allows you to travel 
 to the stage, where we can see Oli perform. This is the final area, at least for now :)
 
+### Cinema & Stage São Paulo Promotion
+
+The second update to the museum brought new content for the cinema area. The tickets to enter through the 
+curtains have been placed right in front of them. The hallway now has an M8 popcorn bucket added. You will 
+see the bucket on the screen once you enter the cinema. It will ask you if you are ready for the movie, before 
+loading a YouTube player with the first minutes of the show (playing [DArkSide](../music/song-darkside)).
+
+The controls shown on the screen now also reflect M8's ability to turn.
+
+{% include content/buttons/button-danger.html text="Watch on YouTube" link="https://www.youtube.com/watch?v=g1bvP7BZDME" icon="fa-brands fa-youtube" %}
+
+The update also brought a small app to the [website](../website/website), allowing users to find a showing in a 
+cinema near them on March 25th or March 28th (with later dates for select countries).
+
+![Theater finder mini app](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/saopaulolive/theater_finder.png)
+
 ### Gallery
 
 #### Version 1.0 - Main area & woods
@@ -111,6 +134,13 @@ it was slightly changed for the update that brought the cinema and stage.
 This is the version of the museum released on January 20th, 2026.
 
 {% include gallery-nav.html folder="files/museum/gallery2" %}
+
+#### Version 3.0 - São Paulo L.I.V.E. Promotion
+
+This is the version of the museum released to promote the live cinema 
+showings of the São Paulo show. Released on 26-02-2026.
+
+{% include gallery-nav.html folder="files/museum/gallery3" %}
 
 ***
 
