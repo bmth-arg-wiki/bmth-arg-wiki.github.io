@@ -31,7 +31,7 @@ The concert starts with a message from [E.V.E.](../characters/eve).
 > 
 > [Intro fades into DArkSide]
 
-"}}
+|markdownify"}}
 </details>
 
 2. [DArkSide](song-darkside)
@@ -87,7 +87,7 @@ calls E.V.E. to inform her of Angeldust's escape.
 > 
 > [Transition into Kool-Aid]
 
-"}}
+|markdownify"}}
 </details>
 
 8. [Kool-Aid](song-koolaid)
@@ -133,7 +133,7 @@ of the Pentagram, something that is used in-lore to cleanse [mares](../lore/mare
 > 
 > [Full transition into [ost] (spi)ritual with vocals, finally fading into n/A]
 
-"}}
+|markdownify"}}
 </details>
 
 11. [n/A](song-na)
@@ -203,7 +203,7 @@ The rest of the segment continues as seen in any other recording:
 > commencing! It's been a pleasure my fleshy friends, see you soon! 
 > If you survive that is!" 
 
-"}}
+|markdownify"}}
 </details>
 
 14. [Kingslayer](song-kingslayer-itch)
@@ -225,7 +225,7 @@ and leads into Doomed, with an extended intro.
 > 
 > Jesus christ. You people really are all doomed.
 
-"}}
+|markdownify"}}
 </details>
 
 20. Doomed
@@ -262,7 +262,7 @@ and leads into Doomed, with an extended intro.
 > So Oli, let's get scanning. All you gotta do is point it at their third eyes 
 > and the machine will do the rest.
 
-"}}
+|markdownify"}}
 </details>
 
 22. Drown
@@ -302,5 +302,5 @@ There is a little post-credit sequence with E.V.E.:
 > 
 > [BRING ME THE HORIZON JUST ROCKED MY WORLD pops up on the screen]
 
-"}}
+|markdownify"}}
 </details> 
