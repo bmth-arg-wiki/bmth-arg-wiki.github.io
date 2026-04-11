@@ -162,51 +162,51 @@ the crowd about E.V.E. and Nex Gen.
 > 
 > [M8 farts] 
 > 
-> Oops, sorry! I get a little gassy when I'm nervous..."
+> Oops, sorry! I get a little gassy when I'm nervous...
 > 
-> Selene (calm): "M8, please focus."
+> Selene (calm): M8, please focus.
 
 The following segment was cut from the recording. This segment has appeared during 
 a few of the concerts and would show the person with the haircut referred to on the screen. 
 This segment is speculated to be removed to protect the privacy of the fan shown 
 on screen.
 
-> M8: "O-ho, I'm focused right now... focused on these funny looking folks! 
+> M8: O-ho, I'm focused right now... focused on these funny looking folks! 
 > Selene, look at this one! Dude, who cut your hair? Want me to neutralise 
-> them for you?"
+> them for you?
 > 
-> Selene: "M8..."
+> Selene: M8...
 > 
-> M8 (dramatic unserious voice): "I will avenge youuuuu~"
+> M8 (dramatic unserious voice): I will avenge youuuuu~
 > 
-> Selene (annoyed): "M8! We have bigger issues here!"
+> Selene (annoyed): M8! We have bigger issues here!
 > 
-> M8: "OK...Let's get serious"
+> M8: OK...Let's get serious
 
 The rest of the segment continues as seen in any other recording:
 
-> Selene: "Listen to me São Paulo, Eve isn't just here to study you, she's 
-> here to dissect you."
+> Selene: Listen to me São Paulo, Eve isn't just here to study you, she's 
+> here to dissect you.
 >
-> M8: "She's gonna slice, dice and julienne your asses!"
+> M8: She's gonna slice, dice and julienne your asses!
 > 
-> Selene: "E.V.E. thinks she's unveiled the sacred path to Youtopia, a shortcut carved in code and synthetic manipulation. 
+> Selene: E.V.E. thinks she's unveiled the sacred path to Youtopia, a shortcut carved in code and synthetic manipulation. 
 > But the only true gateway is not in circuitry, not in some twisted neural override. 
-> The only way to access youtopia is through-"
+> The only way to access youtopia is through-
 >
 > [Alarm siren sound]
 > 
-> M8: "Uh oh spaghetti-o-s! 
+> M8: Uh oh spaghetti-o-s! 
 > They're onto us Selene! 
-> We need to get the fuck out of here before they trace our imprint!"
+> We need to get the fuck out of here before they trace our imprint!
 > 
-> Selene: "São Paulo, you've been warned! Nex Gen are the enemy! 
+> Selene: São Paulo, you've been warned! Nex Gen are the enemy! 
 > Get out while you can! 
-> M8 upload the virus now!"
+> M8 upload the virus now!
 > 
-> M8: "Okie dokie! Initiating project retrograde decay protocol version 7.14, 
+> M8: Okie dokie! Initiating project retrograde decay protocol version 7.14, 
 > commencing! It's been a pleasure my fleshy friends, see you soon! 
-> If you survive that is!" 
+> If you survive that is!
 
 "|markdownify}}
 </details>
