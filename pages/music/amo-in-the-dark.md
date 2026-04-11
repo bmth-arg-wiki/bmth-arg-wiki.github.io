@@ -12,7 +12,9 @@ next_text: "08. sugar honey ice & tea"
 
 > "I'm not looking salvation, just a little faith in anyone or anything."
 
-"In The Dark" is a song from the album 'Amo'. Its music video contains many references to a mysterious 
+"In The Dark" is a song from the album [amo](amo) and also appears remixed on [lofiles](lofiles). 
+
+Its music video contains many references to a mysterious 
 organization called ARC/HIVE, just like [the D8 log](../for-sof/lauren_d8_log).
 
 ![arc-hive-arg.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/lauren_d8_log/gallery/s_lauren_d8.jpg)

@@ -11,7 +11,9 @@ next_text: "11. sTraNgeRs"
 #  LosT
 
 A single on PH:NG released on the 4th of May 2023. [The video](https://www.youtube.com/watch?v=xv-70a6yXfM) 
-seems to contain relevant imagery to the world of [Youtopia](../lore/youtopia)
+seems to contain relevant imagery to the world of [Youtopia](../lore/youtopia). The song also 
+appears in the [m8mobile game](../website/emulator-m8mobile) in an 8-bit version and was also remixed for the 
+[lofiles](lofiles).
 
 ***
 

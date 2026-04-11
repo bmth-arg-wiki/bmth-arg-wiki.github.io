@@ -6,6 +6,8 @@ description: "The album Lo-files from Bring Me The Horizon, featuring lo-fi remi
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/lofiles/lofiles-300x300.jpg"
 previous: "music/ph-nex-gen"
 previous_text: "POST HUMAN: NeX GEn"
+next: "music/sao_paulo_live"
+next_text: "Bring Me The Horizon L.I.V.E. In São Paulo"
 ---
 # Lo-files
 
@@ -31,27 +33,27 @@ shares aesthetic elements with.
 The following tracks appear on the album:
 
 1. canyoufeelmyᐸ3.tmpx
-2. (U)topia.drm
-3. in_the_dark.ech
-4. followU.bnd
-5. Darkside.verXx
-6. king_sl@yer.fmk
+2. (U)topia.drm ([YOUtopia](song-youtopia))
+3. in_the_dark.ech ([in the dark](amo-in-the-dark))
+4. followU.bnd 
+5. Darkside.verXx ([DArkSide](song-darkside))
+6. king_sl@yer.fmk ([Kingslayer](song-kingslayer-itch))
 7. sL33pwalking.idl
 8. drwn.vvv
-9. losT_404.nll
+9. losT_404.nll ([LosT](song-lost))
 10. seenitallbefore_xx.arch
-11. parasite.ev3
-12. med!cine.fbk
-13. koolaid.xxo
-14. d1g_it.core
+11. parasite.ev3 ([Parasite Eve](song-parasite-eve))
+12. med!cine.fbk 
+13. koolaid.xxo ([Kool-Aid](song-koolaid))
+14. d1g_it.core ([DIg It](song-digit))
 15. DOOMED.errx
 16. avalanche_.drft
-17. 1DayTheOnlyButterfliesLeftWillBInurChestAsuMarchTowardsUrDeath.finx
-18. sTr4nG3r5.vsn0
-19. 1x1.syncd
+17. 1DayTheOnlyButterfliesLeftWillBInurChestAsuMarchTowardsUrDeath.finx ([...Butterflies...](song-butterflies)
+18. sTr4nG3r5.vsn0 ([sTraNgeRs](song-strangers))
+19. 1x1.syncd ([1x1](song-1x1))
 20. shadowm0ses.frg
 21. m0th3r.tng
-22. DiE4u.sysrsk
+22. DiE4u.sysrsk ([DiE4u](song-die4u))
 23. Throne.GOD
 
 ***
@@ -76,3 +78,4 @@ Related music:
 - [amo](amo)
 - [Post Human: Survival Horror](ph-survival-horror)
 - [Post Human: NeX GEn](ph-nex-gen)
+- [Bring Me The Horizon L.I.V.E. In São Paulo](sao_paulo_live)

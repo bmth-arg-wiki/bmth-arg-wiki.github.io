@@ -13,7 +13,8 @@ next_text: "07. 1x1"
 
 > "I'd sacrifice my life to find you, angel of the blade."
 
-"Itch For The Cure" and "Kingslayer" are the fifth and sixth songs on the album [POST HUMAN: SURVIVAL HORROR](ph-survival-horror).
+"Itch For The Cure" and "Kingslayer" are the fifth and sixth songs on the album [POST HUMAN: SURVIVAL HORROR](ph-survival-horror). 
+Kingslayer also appears on the [lofiles](lofiles).
 
 The concept of "Kingslayer" plays a large role in the ARG, as can be seen in some filenames in the [FOR SOF](../for-sof) folder
 (eg. [Kingsl@yer_EncrypMsg.codek](../for-sof/kingslayercodec)).
@@ -47,6 +48,7 @@ Something is coming unplugged (When will we be free?)/
 There's a glitch in your trust.
 
 (Source: Genius Lyrics)
+
 " | markdownify }}
 </details>
 
@@ -112,6 +114,7 @@ is this what you want?/
 this is what you’ll fucking get./
 
 (Source: Kingslayer lyric video description.)
+
 " | markdownify }}
 </details>
 
@@ -134,7 +137,6 @@ the future won’t disappear,
 but I want to obtain another world."
 
 "Now, let’s go and open the door of time."
-
 
 {% include content/buttons/button-primary.html text="Lyrics on Genius" icon="fa-solid fa-microphone"
 link="https://genius.com/Bring-me-the-horizon-kingslayer-lyrics" %}

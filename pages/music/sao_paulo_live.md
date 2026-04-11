@@ -3,10 +3,15 @@ title: "Bring Me The Horizon L.I.V.E. In São Paulo"
 categories: ["music"]
 description: "The live album in São Paulo, with many interesting visuals and texts"
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/sao-paulo-live/album_cover-300x300.png"
-previous: "music/ph-nex-gen"
-previous_text: "POST HUMAN: NeX GEn"
+previous: "music/lofiles"
+previous_text: "Lo-files"
 ---
 # Bring Me The Horizon L.I.V.E. In São Paulo
+
+{% include content/info.html
+title="Under construction"
+content="This article under active construction and may not meet the quality standards we usually maintain."
+%}
 
 1. (Interlude) Press Start
 
@@ -31,7 +36,7 @@ The concert starts with a message from [E.V.E.](../characters/eve).
 > 
 > [Intro fades into DArkSide]
 
-|markdownify"}}
+"|markdownify}}
 </details>
 
 2. [DArkSide](song-darkside)
@@ -87,7 +92,7 @@ calls E.V.E. to inform her of Angeldust's escape.
 > 
 > [Transition into Kool-Aid]
 
-|markdownify"}}
+"|markdownify}}
 </details>
 
 8. [Kool-Aid](song-koolaid)
@@ -133,7 +138,7 @@ of the Pentagram, something that is used in-lore to cleanse [mares](../lore/mare
 > 
 > [Full transition into [ost] (spi)ritual with vocals, finally fading into n/A]
 
-|markdownify"}}
+"|markdownify}}
 </details>
 
 11. [n/A](song-na)
@@ -203,7 +208,7 @@ The rest of the segment continues as seen in any other recording:
 > commencing! It's been a pleasure my fleshy friends, see you soon! 
 > If you survive that is!" 
 
-|markdownify"}}
+"|markdownify}}
 </details>
 
 14. [Kingslayer](song-kingslayer-itch)
@@ -225,7 +230,7 @@ and leads into Doomed, with an extended intro.
 > 
 > Jesus christ. You people really are all doomed.
 
-|markdownify"}}
+"|markdownify}}
 </details>
 
 20. Doomed
@@ -262,7 +267,7 @@ and leads into Doomed, with an extended intro.
 > So Oli, let's get scanning. All you gotta do is point it at their third eyes 
 > and the machine will do the rest.
 
-|markdownify"}}
+"|markdownify}}
 </details>
 
 22. Drown
@@ -302,5 +307,34 @@ There is a little post-credit sequence with E.V.E.:
 > 
 > [BRING ME THE HORIZON JUST ROCKED MY WORLD pops up on the screen]
 
-|markdownify"}}
+"|markdownify}}
 </details> 
+
+***
+
+## Read More
+
+Related characters:
+
+- [E.V.E.](../characters/eve)
+- [Selene](../characters/selene)
+- [M8](../m8)
+- [Angeldust](../characters/angeldust)
+
+Related lore:
+
+- [Nex Gen Corporation](../lore/nex-gen-corporation)
+- [Mantra Cult](../lore/mantra)
+- [Church of Genxsis](../lore/church)
+- [Dreamseeker](../lore/dreamseeker)
+- [Youtopia](../lore/youtopia)
+- [P.U.S.S.E.](../lore/pusse)
+- [Mares](../lore/mares)
+- [VSPR-37](../lore/vspr37)
+
+Related music:
+
+- [amo](amo)
+- [Post Human: Survival Horror](ph-survival-horror)
+- [Post Human: NeX GEn](ph-nex-gen)
+- [Lo-files](lofiles)

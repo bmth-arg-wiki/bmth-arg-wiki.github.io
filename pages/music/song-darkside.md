@@ -10,7 +10,7 @@ next_text: "07. a bulleT w/my namE On"
 ---
 # DArkSide
 
-6th song on NexGen and one of the singles.
+6th song on NexGen and one of the singles. The song also appears remixed on the [lofiles album](lofiles).
 
 ***
 
@@ -86,6 +86,7 @@ next_text: "07. a bulleT w/my namE On"
 ## Read More
 
 - [POST HUMAN: NeX GEn](ph-nex-gen)
+- [Lofiles](lofiles)
 
 Other singles:
 
