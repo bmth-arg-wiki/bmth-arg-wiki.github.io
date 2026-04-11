@@ -251,7 +251,7 @@ and leads into Doomed, with an extended intro.
 > 
 > Wait I got it! Terminal!
 > 
-> Robot voice: [???]
+> Terminal: Would you like assistance?
 > 
 > M8: Commence materialisation protocol of an Aura Gauger 9000X quantum 
 > edition pro max lite special U2 red version? You know? The one with Bono's 
