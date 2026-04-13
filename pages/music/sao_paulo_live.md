@@ -1,7 +1,7 @@
 ---
 title: "Bring Me The Horizon L.I.V.E. In São Paulo"
 categories: ["music"]
-description: "The live album in São Paulo, with many interesting visuals and texts"
+description: "The live album in São Paulo, with many interesting visuals and texts."
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/sao-paulo-live/album_cover-300x300.png"
 previous: "music/lofiles"
 previous_text: "Lo-files"
