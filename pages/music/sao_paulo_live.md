@@ -259,7 +259,7 @@ It then transitions into a call between E.V.E. and a Nex Gen technician.
 > 
 > **Selene:** São Paulo, you've been warned! NEX GEN are the enemy! Get out while you can! M8 upload the virus now!
 > 
-> **M8: **Okie dokie! Initiating project retrograde decay protocol version 7.14. Commencing! 
+> **M8:** Okie dokie! Initiating project retrograde decay protocol version 7.14. Commencing! 
 > It's been a pleasure my fleshy friends, see you soon! If you survive that is!
 > 
 > [M8 and Selene disappear.]
