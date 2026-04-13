@@ -221,8 +221,7 @@ a
 "|markdownify}}
 </details> 
 
-> *Interludes transcripts by Lina; edited and formatted by Alec.*
-> *Red texts transcripts by Alec.*
+> *Interludes transcripts by Lina; edited and formatted by Alec. Red texts transcripts by Alec.*
 ***
 
 ## Read More
