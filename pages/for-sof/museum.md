@@ -118,13 +118,14 @@ before loading a YouTube player with the first minutes of the show (mainly [DArk
 
 ### Fourth Area - Aquarium
 
-The aquarium was added on April 13th 2026, the same day that the re-recording of Count Your Blessings was announced. 
+The aquarium was added on April 13th 2026, the same day the re-recording of Count Your Blessings was announced. 
 To access it, you just need to turn 180 degrees upon entering the museum, then head right through the blue portal door. 
-You will find yourself in a pretty dilapidated aquarium, with a young girl staring at the fish in the main tank. 
+You will find yourself in a pretty dilapidated room, with a young girl staring at the fish in the main tank. 
 If M8 turns her back to her then turns back around, the girl will have been replaced by a drawing. 
+This young girl is very probably Lyra ([Dallus Lauren's](../characters/dallus-lauren.md) daughter), 
+as the drawing that replaces her is the same one she holds in the [in the dark](../music/amo-in-the-dark.md) music video.
 
-> __⚠︎ Speculation:__ the young girl could be Lyra ([Dallus Lauren's](../characters/dallus-lauren.md) daughter) 
-> and the drawing looks like one of the Mares drawings from [Project D.U.S.T](project_dust.md).
+![Lyra's mare drawing](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/museum/lyra-inthedark-drawing.png)
 
 ***
 
