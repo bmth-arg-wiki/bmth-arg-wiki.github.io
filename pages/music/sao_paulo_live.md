@@ -18,7 +18,7 @@ was then released in theaters on March 25th and 28th 2026 (with a few countries 
 The DVD edition came out April 10th 2026, with a global livestream event called 
 'Phase 2: Home Screening Observation Memorial Overture'.
 
-Below, you will find transcriptions of the interludes and the red texts that flashed on the screen at the start of 
+Below, you will find transcriptions of the interludes and the red texts that flash on the screen at the start of 
 each song.
 
 ## 1. (Interlude) Press Start
@@ -28,8 +28,32 @@ The concert starts with a message from [E.V.E.](../characters/eve).
 <details class="transcript">
 <summary>Expand transcript</summary>
 {{ "
- 
-a
+
+> **E.V.E.:** Hello and welcome to the Bring Me the Horizon POST HUMAN live experience. 
+> São Paulo, are you ready for the greatest night of your life?
+> 
+> [Crowd cheers.]
+> 
+> **E.V.E.:** Analysing reaction levels. Status: weak as fuck. Let's try that again. 
+> São Paulo, are you ready for the greatest night of your life?
+> 
+> [Crowd cheers louder.]
+> 
+> **E.V.E.:** Excellent. Thank you for volunteering in the NEX GEN research program. 
+> Your commitment and ultimate sacrifice to our all-important mission will not be forgotten. 
+> I’m E.V.E., a state-of-the-art, advanced research engine, entrusted with the greatest mission in human history: 
+> the salvation of mankind. Tonight, I will be observing your biopsychosocial activity and collecting data 
+> to further our research on NEX GEN, the next stage of human evolution. 
+> Please wait a moment while I run some final diagnostic checks.
+> 
+> [Segment about opening up the pit and getting rid of illicit substances.]
+> 
+> **E.V.E.:** I’m afraid my research was conclusive. Mankind is a plague on this earth that must be destroyed. 
+> So, São Paulo, are you going to live your lives like you're ready to die? 
+> 
+> [Crowd cheers.]
+> 
+> **E.V.E.:** Very well. Initialising APE version 666. [E.V.E. glitches] Enjoy your experience.
 
 "|markdownify}}
 </details>
@@ -57,7 +81,7 @@ a
 
 ## 7. (Interlude) Project Angel Dust
 
-Our first interlude takes place after [Angeldust](../characters/angeldust) breaks free from the [Nex Gen](../lore/nex-gen-corporation) lab during AmEN!. 
+This interlude takes place after [Angeldust](../characters/angeldust) breaks free from the [Nex Gen](../lore/nex-gen-corporation) lab during AmEN!. 
 A member of Nex Gen's FANTOM team calls E.V.E. to inform her of Angeldust's escape.
 
 Note: the transcript includes the text that shows up at the end of AmEN! and Angeldust's dialogue before the call.
@@ -83,7 +107,7 @@ a
 
 ## 10.[[ost] (spi)ritual](song-spiritual)
 
-The second interlude has visuals of an unknown priest, potentially from [Genxsis](../lore/church). 
+This interlude has visuals of an unknown priest, potentially from [Genxsis](../lore/church). 
 He uses [ost] (spi)ritual to perform a ritual inspired by the real-life Lesser Banishing Ritual of the Pentagram, 
 something that is used in-lore to cleanse [mares](../lore/mares) before accessing [Youtopia](../lore/youtopia.md).
 
@@ -108,7 +132,7 @@ a
 
 ## 13. [Itch for the Cure (When Will We Be Free?)](song-kingslayer-itch)
 
-While the title does not suggest it, this is our third interlude. [Selene](../characters/selene) and little robot friend [M8](../m8) 
+While the title does not suggest it, this is another interlude. [Selene](../characters/selene) and little robot friend [M8](../m8) 
 talk about accessing Youtopia and warn the crowd about E.V.E. and Nex Gen's true intentions.
 
 <details class="transcript">
@@ -143,7 +167,7 @@ a
 
 ## 19. (Interlude) You People Are All Doomed
 
-The fourth interlude has E.V.E. popping in to check on the crowd and leads into Doomed, with an extended intro.
+This interlude has E.V.E. popping in to check on the crowd and leads into Doomed, with an extended intro.
 
 <details class="transcript">
 <summary>Expand transcript</summary>
@@ -197,6 +221,8 @@ a
 "|markdownify}}
 </details> 
 
+> *Interludes transcripts by Lina; edited and formatted by Alec.*
+> *Red texts transcripts by Alec.*
 ***
 
 ## Read More
