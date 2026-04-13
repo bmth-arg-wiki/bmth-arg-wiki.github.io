@@ -27,22 +27,25 @@ quirky coworker [Iara](iara) and how her diagnosis affects her. We learn that [D
 something that could save her, but she is already experiencing neurological symptoms and struggling to put on lipstick.
 At the time of her illness, she works at [ARC/HIVE](../lore/archive) as a lab assistant. 
 
-### Synth body
-
-In the [2028 Tekka interview](../for-sof/tekka_interview) 
-we learn that things seem to have improved for Rebecca. She had become the first [synth](../lore/synths) in a successful project that 
-the company credited to [Nex Gen](../lore/nex-gen-corporation), ARC/HIVE's new name. Nex Gen is so confident in the 
-resilience of their Synthetic Neurological Transference Human (synth), they have her smoke as a marketing ploy.
-Rebecca also made a promotion to head of R&D (Research & Development). Interviewer Jax Jackson asks her about working with 
-Dallus, [Strassman](strassman) and [Victor Carmine](victor-carmine), but she shuts the interviewer down.
-
 ### Working on Synths
 
-On November 5th 2036 we hear from Rebecca on [Grumblr](../for-sof/grumblr2) again. She writes about her day, working with 
-Strassman and Dallus on the SYNTH project she was a part of years earlier. Unexpectedly, she learns that [Skys](skys) 
-is not only still alive, but Strassman and Dallus plan to transfer his consciousness into a synth. Skys, not so happy 
-to awake as a synth, starts begging the three scientists for death. While Strassman and Dallus argue about the state of him, 
-Rebecca states that she will "do it". It is currently unknown what happens to Skys after.
+Later that year on November 5th we hear from Rebecca on [Grumblr](../for-sof/grumblr2) again. She writes about her day, 
+working with Strassman and Dallus on the SYNTH project for the first time. Unexpectedly, she learns that [Skys](skys)
+is not only still alive, but Strassman and Dallus plan to transfer his consciousness into a synth. Skys, not so happy
+to awake as a synth, starts begging the three scientists for death. While Strassman and Dallus argue about the state of him,
+Rebecca states that she will "do it". It is unknown what happens to Skys after, as the post ends with a cryptic "I'll do it". 
+It's never explicitly stated if she is already a synth in this article. She is called the first synth later, but this post 
+opens up the possibility that she was not.
+
+### Synth body
+
+In the [2028 Tekka interview](../for-sof/tekka_interview) we learn that things seem to have improved for Rebecca. 
+In the eyes of the public, she had become the first [synth](../lore/synths) in a successful project that 
+the company credited to [Nex Gen](../lore/nex-gen-corporation), a name ARC/HIVE now also seems to operate under. 
+Nex Gen is so confident in the resilience of their Synthetic Neurological Transference Human (synth), they have her smoke 
+as a marketing ploy.
+Rebecca also made a promotion to head of R&D (Research & Development). Interviewer Jax Jackson asks her about working with 
+Dallus, [Strassman](strassman) and [Victor Carmine](victor-carmine), but she shuts the interviewer down.
 
 ### Lupamine
 
@@ -59,8 +62,17 @@ so-called loopholes, which cause erratic behaviour and a craving for the drug.
 Related files:
 
 - [Tekka interview](../for-sof/tekka_interview)
-- [2027 Grumblr post](../for-sof/grumblr)
-- [2036 Grumblr post](../for-sof/grumblr2)
+- [January 2027 Grumblr post](../for-sof/grumblr)
+- [November 2027 Grumblr post](../for-sof/grumblr2)
+- [D8 log](../for-sof/lauren_d8_log)
+
+Related TDW articles:
+
+- [Clone Chaos](../website/tdw-clonechaos)
+- [What is a Loop-Hole?](../website/tdw-loophole)
+- [The Dark Rise of Lupamine](../website/tdw-riseoflupamine)
+- [The Rise of Synthetic Humans](../website/tdw-riseofsynth)
+- [NEX GEN's Rogue Sentinels](../website/tdw-roguesentinels)
 
 Related articles:
 
@@ -69,7 +81,6 @@ Related articles:
 - [Synths](../lore/synths)
 - [Lupamine](../lore/lupamine)
 - [Webbrowser](../website/webbrowser)
-- [TDW: What is a loophole?](../website/tdw-loophole)
 
 Related characters:
 

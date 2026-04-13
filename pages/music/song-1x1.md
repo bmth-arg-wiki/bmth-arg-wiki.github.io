@@ -13,7 +13,8 @@ next_text: "08. Ludens"
 
 > "Annihilation never looked so good!"
 
-"1x1" is the seventh song on the album [POST HUMAN: Survival Horror](ph-survival-horror).
+"1x1" is the seventh song on the album [POST HUMAN: Survival Horror](ph-survival-horror). There is also a 
+remixed version of the song in the [lofiles](lofiles).
 
 ***
 

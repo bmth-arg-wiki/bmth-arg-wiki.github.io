@@ -11,8 +11,10 @@ next_text: "12. R.i.p (duskCOre RemIx)"
 ---
 # sTraNgeRs
 
-One of the earlier singles released from PH: Nex Gen. 
-The current capitalization on music platforms follows 
+One of the earlier singles released from [PH: NeX GEn](ph-nex-gen). The song also appears remixed on the 
+[lofiles](lofiles).
+
+The current capitalisation on music platforms follows 
 the title: `sTraNgeRs`.
 
 ***

@@ -28,6 +28,9 @@ after an incident the public calls the "Cradle Crash". He inherited his empire a
 particularly bloody legacy all lost their lives. He has strong ties to the [DTC](../lore/dtc) government, as well 
 as family connections with [Novosovia](../lore/novosovia).
 
+As a leader, Victor portrays himself as a changed man who wants to save the world. In reality, he is a cold-hearted 
+manipulative man, who was proven himself capable of torture and murder.
+
 ### Family Legacy
 
 The first known Carmine is Domenico 'The Butcher' Carmine. During the Resource Wars, he hoarded supplies to run 
@@ -134,6 +137,15 @@ referred to by the public as Sentinels. From the article on Sentinels we also le
 be defying their programming. [Dr. Lee MD](lee-md) writes in the Daily Whisper about synths used 
 for [very sinister purposes](../website/tdw-bloodredspectacles).
 
+### Interview & E.V.E's Genesis
+
+An [interview](../for-sof/carmine_interview) later recovered takes place in 2037 between Victor Carmine and an 
+unknown journalist. This is shortly after the transition to Nex Gen, which happened after the "Cradle Crash" at 
+Arc/Hive. In the last tab of the recovered interview, his assistant interrupts. Carmine insists she tells the both 
+of them what happened. We learn that the company was responsible for [Dallus Lauren](../characters/dallus-lauren) 
+ending up in a catatonic state. His son [Ren](../characters/ren) has recently activated [E.V.E.](../characters/eve), 
+who now wants to speak to Victor. Upon hearing this, he shoots the interviewer, ending the interview.
+
 ### Mindstream
 
 Interestingly, Carmine appears in the news more publicly in articles about [Mindstream](../lore/mindstream). This 
@@ -181,8 +193,8 @@ Related files:
 - [Operation Trinity](../for-sof/trinity_document)
 - [Dallus' Diary](../for-sof/dallus-diary)
 - [Project D.U.S.T. Proposal](../for-sof/project_dust)
-- [Grumblr 2027 Post](../for-sof/grumblr)
-- [Grumblr 2036 Post](../for-sof/grumblr2)
+- [Grumblr January 2027 Post](../for-sof/grumblr)
+- [Grumblr November 2027 Post](../for-sof/grumblr2)
 - [Tekka Interview](../for-sof/tekka_interview)
 - [Ren's D8 log of E.V.E.'s Genesis](../for-sof/lauren_d8_log)
 - [Kingslayer Codec](../for-sof/kingslayercodec)

@@ -175,7 +175,7 @@ and his [son](../characters/ren)'s [log on E.V.E's genesis](../for-sof/lauren_d8
 Dallus' project, being followed up by his son after his sudden death in October 2037. 
 
 The MOXYPAK is also mentioned to have saved a lot of lives by [Rebecca](../characters/rebecca) in her 
-[2036 Grumblr post](../for-sof/grumblr2). Interestingly, an unknown journalist accuses Victor Carmine of 
+[November 2027 Grumblr post](../for-sof/grumblr2). Interestingly, an unknown journalist accuses Victor Carmine of 
 using Arc/Hive's seemingly well-intended inventions with malice in [a reconstructed interview](../for-sof/carmine_interview).
 The device also seems present with a little girl in the music video for [Top 10 Statues](../music/song-top10).
 
@@ -203,20 +203,24 @@ Related files:
 - [Dallus' diary](../for-sof/dallus-diary)
 - [Ren's log](../for-sof/lauren_d8_log)
 - [Project D.U.S.T](../for-sof/project_dust)
+- [Rebecca's first Grumblr post](../for-sof/grumblr)
+- [Rebecca's second Grumblr post](../for-sof/grumblr2)
+- [Tekka Interview](../for-sof/tekka_interview)
+- [Reconstructed interview with Carmine](../for-sof/carmine_interview)
 - [Unbeleevable Episode 1](../for-sof/unbeleevable)
 - [Unbeleevable Episode 2](../for-sof/unbeleevable2)
 - [Unbeleevable Episode 3](../for-sof/unbeleevable3)
-- [Tekka Interview](../for-sof/tekka_interview)
-- [Rebecca's first Grumblr post](../for-sof/grumblr)
-- [Rebecca's second Grumblr post](../for-sof/grumblr2)
-- [Reconstructed interview with Carmine](../for-sof/carmine_interview)
+- [Artifacts](../for-sof/artifacts)
 
 Related Daily Whisper articles:
+
 - [Clone Chaos](../website/tdw-clonechaos)
 - [Rise of Synth](../website/tdw-riseofsynth)
 - [Rise of lupamine](../website/tdw-riseoflupamine)
 - [Rogue Sentinels: Combat Synths](../website/tdw-roguesentinels)
 - [Inside the Blood Red Spectacle](../website/tdw-bloodredspectacles)
+- [Mindstream](../website/tdw-futureentertainment)
+- [Faith on the Edge](../website/tdw-faithedge)
 
 Related characters:
 

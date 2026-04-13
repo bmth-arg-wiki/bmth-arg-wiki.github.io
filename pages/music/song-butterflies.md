@@ -8,7 +8,8 @@ previous_text: "08. Ludens"
 ---
 # One Day The Only Butterflies Left Will Be In Your Chest As You March Towards Your Death ft. Amy Lee
 
-The ninth and last song on [POST HUMAN: SURVIVAL HORROR](ph-survival-horror).
+The ninth and last song on [POST HUMAN: SURVIVAL HORROR](ph-survival-horror). It also appears on the 
+[lofiles](lofiles) album.
 
 ***
 

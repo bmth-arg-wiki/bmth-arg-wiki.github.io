@@ -76,8 +76,8 @@ and his disciples having gone into hiding.
 
 ### Modern Ecliptism
 
-[Rebecca](../characters/rebecca) refers to ecliptist rituals briefly in her [2036 Grumblr post](../for-sof/grumblr2), 
-indicating that the religion is now spreading in the DTC. Modern Ecliptism seems to make a comeback at the same time 
+[Rebecca](../characters/rebecca) refers to ecliptist rituals briefly in her [second Grumblr post](../for-sof/grumblr2) 
+from 2027, indicating that the religion is now spreading in the DTC. Modern Ecliptism seems to make a comeback at the same time 
 Nex Gen's [SYNTH](synths) project is going sour, with synths succumbing to [lupamine addiction](lupamine). Many of 
 the articles in [The Daily Whisper](../website/webbrowser) speak about incidents occurring around technology, 
 with some relating directly to ecliptism.
@@ -131,21 +131,50 @@ leaving only those who "bear the mark".
 
 ## Read More
 
+Related characters:
+
+- [Skys](../characters/skys)
+- [Strassman](../characters/strassman)
+- [Dallus Lauren](../characters/dallus-lauren)
+- [Alfgram](../characters/alfgram)
+- [Victor Carmine](../characters/victor-carmine)
+- [Medea Carmine](../characters/medea)
+- [Ava](../characters/ava)
+
 Related files:
 
+- [Skys' Diary](../website/skys-diary)
+- [Skys & the Starjammers](../for-sof/skystarjammers)
 - [Book of Eclipse](../for-sof/book-of-eclipse)
+- [Operation Trinity](../for-sof/trinity_document)
+- [Dallus' Diary](../for-sof/dallus-diary)
+- [Grumblr post november 2027](../for-sof/grumblr2)
+- [Tekka interview](../for-sof/tekka_interview)
+- [The Science Study](../for-sof/thesciencestudy)
+- [Carmine interview](../for-sof/carmine_interview)
+- [LBR sites](../for-sof/lbr_sites)
+- [Unbeleevable Episode 1](../for-sof/unbeleevable)
+- [Unbeleevable Episode 2](../for-sof/unbeleevable2)
+- [Unbeleevable Episode 3](../for-sof/unbeleevable3)
+- [Dreadit post](../for-sof/dreadit)
+- [Survival Horror anniversary post](../for-sof/survival-horror-anniversary)
 
 Related Daily Whisper articles:
 
 - [TDW: The Future of Entertainment](../website/tdw-futureentertainment)
 - [TDW: Faith on the Edge](../website/tdw-faithedge)
 
-Related characters:
-
-- [Skys](../characters/skys)
-
 Related lore:
 
-- [DTC](dtc)
+- [Church of Genxsis](church)
+- [MANTRA Cult](mantra)
+- [Mares](mares)
+- [Project Kingslayer](incident-kingslayer)
+- [Operation Trinity](operation-trinity)
+- [ARC/HIVE](archive)
+- [Project D.U.S.T.](incident-dust)
 - [Nex Gen Corporation](nex-gen-corporation)
+- [Novosovia](novosovia)
+- [DTC](dtc)
+- [New Elysium](new-elysium)
 - [Mindstream](mindstream)

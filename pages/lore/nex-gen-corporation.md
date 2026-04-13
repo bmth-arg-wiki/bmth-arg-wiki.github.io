@@ -15,7 +15,7 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/ne
 
 > *"ALL HAIL NEX GEN! Could I get an amen?!"*
 
-Nex Gen Corporation is an innovative company that is involved in human experimentation and other 
+Nex Gen Corporation is an innovative company involved in human experimentation and other 
 shady business. Their aim is to take the next step in evolution.
 
 They are mentioned explicitly in the song [AmEN!](../music/song-amen)
@@ -66,12 +66,14 @@ a project [Dallus Lauren](../characters/dallus-lauren) worked on for ARC/HIVE an
 credited to Nex Gen. She has also been promoted to managing the R&D team. In the interview she is also asked about 
 Victor, Dallus and Strassman, questions Rebecca does not wish to answer.
 
-In the [second Grumblr post](../for-sof/grumblr2) we get from Rebecca in November 2036, she is working with Dallus and 
+In the [second Grumblr post](../for-sof/grumblr2) we get from Rebecca in November 2027, she is working with Dallus and 
 Strassman for the first time on the [SYNTH](synths) project. Strassman tells her that [Skys](../characters/skys) is not coming back 
 in any natural way, so they upload his consciousness into a synth body. He immediately starts begging for death and 
 Dallus and Strassman end up arguing about what put him into this state. Rebecca ends her recount of the events with the words 
-"I'll do it", likely referring to the disposal of Skys, leaving his final fate unknown at the moment.
-While Rebecca is meant to be a beacon of hope for humanity, she later falls victim to one of Nex Gen's drugs, [Lupamine](lupamine), 
+"I'll do it", leaving it unclear whether she intends to kill Skys or become a synth herself at this point.
+
+Later, Rebecca is publicly shown off by Nex Gen as the first synth. While Rebecca is meant to be a beacon of hope for 
+humanity, she later falls victim to one of Nex Gen's drugs, [Lupamine](lupamine), 
 which her synth body has made her more susceptible to. From the [webbrowser](../website/webbrowser) we also learn more about the 
 truth behind the SYNTH project.
 
@@ -162,17 +164,6 @@ to do with her mother or themselves.
 
 ## Read More
 
-Related lore:
-
-- [Church of Genxsis](church)
-- [ARC/HIVE](archive)
-- [Synths](synths)
-- [Youtopia](youtopia)
-- [P.U.S.S.-E](pusse)
-- [Lupamine](lupamine)
-- [Mares](mares)
-- [Mindstream](mindstream)
-
 Related employees:
 
 - [Victor Carmine](../characters/victor-carmine)
@@ -191,6 +182,50 @@ Related characters:
 - [Scott](../characters/scott)
 - [Dr. Lee MD](../characters/lee-md)
 - [Angeldust](../characters/angeldust)
+
+Related files:
+
+- [Operation Trinity article](../for-sof/trinity_document)
+- [Dallus diary](../for-sof/dallus-diary)
+- [Project D.U.S.T. proposal](../for-sof/project_dust)
+- [Grumblr January 2027 post](../for-sof/grumblr)
+- [Grumblr November 2027 post](../for-sof/grumblr2)
+- [Tekka interviews Rebecca](../for-sof/tekka_interview)
+- [The Science Study](../for-sof/thesciencestudy)
+- [Lauren D8 log](../for-sof/lauren_d8_log)
+- [Carmine interview](../for-sof/carmine_interview)
+- [Scott's Diary](../for-sof/scott_personal_journal)
+- [Selene's Diary](../for-sof/selene_personal_journal)
+- [Kingslayer codec](../for-sof/kingslayercodec)
+- [Strassman & Selene Youtopia research](../for-sof/selene_youtopia_doc)
+- [Selene's map](../for-sof/selenes_map)
+- [LBR Sites letter](../for-sof/lbr_sites)
+- [Strassman & E.V.E. codec](../for-sof/strassmancodec)
+- [Msgforsof](../for-sof/msgforsof)
+- [Chapel video](../for-sof/chapel)
+- [Unbeleevable Episode 1](../for-sof/unbeleevable)
+- [Unbeleevable Episode 2](../for-sof/unbeleevable2)
+- [Unbeleevable Episode 3](../for-sof/unbeleevable3)
+- [Dreadit post](../for-sof/dreadit)
+- [Artifacts](../for-sof/artifacts)
+- [Goxmog sightings](../for-sof/goxmog)
+- [R8 specifications](../for-sof/r8)
+
+Related lore:
+
+- [Church of Genxsis](church)
+- [Ecliptism](ecliptism)
+- [Mares](mares)
+- [ARC/HIVE](archive)
+- [Project D.U.S.T](incident-dust)
+- [Synths](synths)
+- [Lupamine](lupamine)
+- [Mindstream](mindstream)
+- [VSPR-37](vspr37)
+- [Youtopia](youtopia)
+- [P.U.S.S.-E](pusse)
+- [DTC](dtc)
+- [New Elysium](new-elysium)
 
 Nex Gen RO8OTs:
 

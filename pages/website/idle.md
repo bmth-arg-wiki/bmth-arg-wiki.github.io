@@ -46,3 +46,7 @@ Related characters:
 - [Ren](../characters/ren)
 - [Strassman](../characters/strassman)
 - [M8](../m8)
+
+Related music:
+
+- [Lofiles](../music/lofiles)

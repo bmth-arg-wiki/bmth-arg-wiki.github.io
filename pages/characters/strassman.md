@@ -89,14 +89,15 @@ Skys has also gone into a coma.
 Strassman is also involved in the [SYNTH](../lore/synths) project, around the time 
 [Arc/Hive](../lore/archive) re-brands to [NEX GEN](../lore/nex-gen-corporation). One of the lab 
 assistants named [Rebecca](rebecca) is terminally ill, with an environmental disease as we learn in her 
-first [Grumblr post in 2027](../for-sof/grumblr). Dallus Lauren is working on the research that eventually 
+first [Grumblr post in January 2027](../for-sof/grumblr). Dallus Lauren is working on the research that eventually 
 helps her transfer into a synthetic body.
 
-[Years later in 2036](../for-sof/grumblr2), Rebecca is now working her first day with both Dallus and Strassman. 
+[Months later in November](../for-sof/grumblr2), Rebecca is now working her first day with both Dallus and Strassman. 
 She learns that Skys is still alive and the three of them transfer his consciousness into a synthetic body. 
 Skys starts howling with laughter, before begging for death. Dallus and Strassman fight over this; Dallus regrets what 
 they have done and states that they have crossed a boundary. Strassman insists that his reaction is due to the 
-prolonged time Skys was in a coma.
+prolonged time Skys was in a coma. Not much later, Rebecca appears as the first synth in 2028 in the 
+[Tekka interview](../for-sof/tekka_interview), where she is also asked about Strassman (among other Nex Gen employees).
 
 The [D8 log](../for-sof/lauren_d8_log), from Dallus' son Ren in October 2037, speaks about his father's passing, 
 leaving Strassman without his research partner. This log marks the activation of [E.V.E.](eve), who Strassman 
@@ -187,24 +188,24 @@ Related characters:
 
 Related files:
 
-- [Strassman Codec](../for-sof/strassmancodec)
-- [Selene's Map](../for-sof/selenes_map)
-- [Dreadit](../for-sof/dreadit)
-- [Tekka Interview](../for-sof/tekka_interview)
-- [Project D.U.S.T. Proposal](../for-sof/project_dust)
-- [Operation Trinity Article](../for-sof/trinity_document)
-- [Russian Poem](../for-sof/russianpoem)
 - [Skys & the Starjammers Poster](../for-sof/skystarjammers)
+- [Russian Poem](../for-sof/russianpoem)
+- [Operation Trinity Article](../for-sof/trinity_document)
+- [Project D.U.S.T. Proposal](../for-sof/project_dust)
+- [Dallus' Diary](../for-sof/dallus-diary)
+- [Grumblr November 2027 post](../for-sof/grumblr2)
+- [Tekka Interview](../for-sof/tekka_interview)
 - [The Science Study Newspaper](../for-sof/thesciencestudy)
+- [Carmine Interview](../for-sof/carmine_interview)
+- [Selene Youtopia Research](../for-sof/selene_youtopia_doc)
+- [Selene's Map](../for-sof/selenes_map)
+- [LBR Sites](../for-sof/lbr_sites)
+- [Strassman Codec](../for-sof/strassmancodec)
 - [Unbeleevable Episode 1](../for-sof/unbeleevable)
 - [Unbeleevable Episode 2](../for-sof/unbeleevable2)
 - [Unbeleevable Episode 3](../for-sof/unbeleevable3)
-- [Dallus' Diary](../for-sof/dallus-diary)
-- [Grumblr 2036 post](../for-sof/grumblr2)
-- [LBR Sites](../for-sof/lbr_sites)
-- [Selene Youtopia Research](../for-sof/selene_youtopia_doc)
+- [Dreadit](../for-sof/dreadit)
 - [Artifacts](../for-sof/artifacts)
-- [Carmine Interview](../for-sof/carmine_interview)
 
 Related lore:
 

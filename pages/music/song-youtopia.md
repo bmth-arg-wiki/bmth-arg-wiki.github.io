@@ -22,6 +22,8 @@ even though the stylisation is different.
 The song serves as an introduction to the concept of [Youtopia](../lore/youtopia), a beautiful dimension "where 
 love is the law".
 
+The song also has a so-called EarthcOre remix and appears on the [lofiles](lofiles).
+
 ***
 
 ## Official Material

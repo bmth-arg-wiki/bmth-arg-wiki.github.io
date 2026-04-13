@@ -1013,18 +1013,39 @@ The password <b><em>tempsyncopation</em></b> is hidden behind a Polybius cipher.
 
 <details class="hint">
 <summary>Hint</summary>
-Have a good look around the website.
-
+Have a good look around the website. This is one of the most elaborate passwords, and we only know of 3/4 clues
+required being found. Some trial and error might be necessary.
 </details>
 
 <details class="password">
 <summary>Password</summary>
-The fifth tab contains the first ciphered text <b><em>q996uqm6556373P</em></b>, 
-the <a href="https://secrettinfoilsociety.com/pages/for-sof/museum.html">museum's second room</a> contains <b><em>qwertylkjsa</em></b>, 
-the wings category of the <a href="https://secrettinfoilsociety.com/pages/website/dressup_m8.html">Dress-up Game</a> contains <b><em>fd2piuv08o</em></b>, 
-the leech blood dye <a href="https://secrettinfoilsociety.com/pages/for-sof/artifacts.html">artifact</a> contains <b><em>6479bnmcxz</em></b>. 
-Assembled and decoded, this gives the password: <b><em>a441va71mm1n3nT</em></b>.
+{{ "
 
+The fifth tab contains the first ciphered text **q996uqm6556373P**, which needs to be solved with 
+an alphanumeric substitution cipher.
+The [second room of the museum](museum) contains a floating text: **qwertylkjsa**.
+The wings category (03) of the [Dress-up Game](../website/dressup_m8) contains the third clue **fd2piuv08o**, 
+The leech blood dye [artifact](artifacts) gives us the final clue **6479bnmcxz** on the label, which also states 
+DCPHR-4. 
+
+The clues need to be aligned with the alphabet (A-Z), followed by the numbers 1234567890. This gives us a total of 31/36 
+characters needed. Through trial and error it was found that the museum clue goes first. qwertylkjsa = abcdefghijk
+
+The second clue is the five missing letters and numbers (135hg, corresponding to lmnop, not specifically in that order). 
+Through trial and error we deduced that 5 = m and 3 = n.
+
+The third clue is from the dress-up game: fd2piuv08o = qrstuvwxyz. The dye label gives us the fourth clue in the 
+sequence: 6479bnmcxz = 1234567890.
+
+Combining the clues, we get the line of characters to translate back to the original alphabet + numbers.
+
+```
+qwertylkjsa?53??fd2piuv08o6479bnmcxz
+abcdefghijklmnopqrstuvwxyz1234567890
+```
+
+When decoded, this gives the password: **a441va71mm1n3nT**.
+" | markdownify }}
 </details>
 
 ***
@@ -1048,10 +1069,22 @@ Related characters:
 - [Iara Copple](../characters/iara)
 - [Eve](../characters/eve)
 
+Related files:
+
+- [Artifacts](artifacts)
+- [M8 Museum](museum)
+- [Survival Horror Anniversary](survival-horror-anniversary)
+- [Trinity article](trinity_document)
+- [Dallus' diary](dallus-diary)
+- [Project D.U.S.T.](project_dust)
+- [Book of Eclipse](book-of-eclipse)
+- [Lauren D8 log](lauren_d8_log)
+
 Related lore:
 
 - [Novosovia](../lore/novosovia)
 - [Mantra Cult](../lore/mantra)
+- [Ecliptism](../lore/ecliptism)
 - [DTC](../lore/dtc)
 - [Arc/Hive](../lore/archive)
 - [Nex Gen](../lore/nex-gen-corporation)

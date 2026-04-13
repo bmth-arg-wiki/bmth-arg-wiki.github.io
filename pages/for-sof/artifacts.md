@@ -14,15 +14,9 @@ next_text: "Unbeleevable 3 (Jigsaw Puzzle)"
 
 # Module Puzzle Artifacts
 
-> In YOUtopia, four ancient relics away Selene’s discovery, each imbued with unique powers essential for 
-> completing the hero’s journey. These coveted artifacts, scattered across the land, hold the key to unlocking 
-> the true potential of YOUtopia and overcoming the challenges that lie ahead. Each Relic is held by the four 
-> Omen’s that walk the land of Youtopia which Selene will need to uncover.
-> 
-> - [Nex Gen Album Booklet](../lore/booklet)
-
 The module puzzles are connector-type puzzles that reveal six different 3D models, which seem to be 
-connected to the characters in our world.
+connected to the characters in our world. They are located in [Sof](../characters/sof)'s inventory 
+on the [website](../website/website).
 
 ***
 
@@ -263,6 +257,10 @@ Related characters:
 - [Skys](../characters/skys)
 - [Dr. Lee MD](../characters/lee-md)
 - [Victor Carmine](../characters/victor-carmine) (owner of similar prosthetic finger)
+- [Raphael](../characters/raphael)
+- [Gabriel](../characters/gabriel)
+- [Michael](../characters/michael)
+- [Uriel](../characters/uriel)
 
 Related files:
 
@@ -273,6 +271,7 @@ Related files:
 - [Scott's Diary](scott_personal_journal)
 - [Selene's Diary](selene_personal_journal)
 - [Goxmog Sightings](goxmog)
+- [Carmine's Interview](carmine_interview) (through a clue on the dye)
 
 Related article in The Daily Whisper:
 
@@ -280,11 +279,10 @@ Related article in The Daily Whisper:
 
 Related lore:
 
-- [Booklet (mentions artifacts)](../lore/booklet)
 - [Sof's Journal](../website/journal)
 - [Youtopia](../lore/youtopia)
 - [Arc/Hive](../lore/archive)
 - [Nex Gen](../lore/nex-gen-corporation)
-
+- [New Elysium](../lore/new-elysium)
 
 

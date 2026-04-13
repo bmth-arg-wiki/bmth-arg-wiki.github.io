@@ -46,7 +46,6 @@ This file dropped on December 4th 2024 in the inventory folder, and is behind th
 
 > ### Skys’ 1st Scrapbook Entry
 >
-> 
 > ### Left page
 >
 > 
@@ -114,17 +113,9 @@ Transcription by Alec
 
 ## Password context
 
-<details class="password">
-  <summary>Password</summary>
-
-1. Push the first four locks one by one until they spin with the first tool (medium-sized one)
-
-2. Push the big lock until it spins with the second tool (big one)
-
-3. Push the four smallest locks one by one until they spin on the right with the third tool (smallest one)
-
-Tip: you have to be VERY gentle.
-</details>
+Originally, Skys' first diary page was located behind a locks puzzle, requiring careful lock-picking. The puzzle was 
+later replaced by a new version of the same puzzle, this time unlocking the [M8 Museum](museum). As of november 2025, 
+[Skys' diary](../website/skys-diary) is now an app on the dashboard. The puzzle in its original form is no longer accessible.
 
 ***
 

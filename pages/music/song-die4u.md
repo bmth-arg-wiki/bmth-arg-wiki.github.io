@@ -10,7 +10,8 @@ next_text: "16. DIg It"
 ---
 # DiE4u
 
-DiE4u is the 15th song on NexGen and one of the singles that was released before the album.
+DiE4u is the 15th song on [Nex Gen](ph-nex-gen) and one of the singles that was released before the album. It also 
+appears on the [lofiles](lofiles).
 
 ***
 

@@ -13,7 +13,9 @@ next_text: "03. Teardrops"
 
 > "We cannot save you, enjoy the ride."
 
-"Parasite Eve" is the second song on the album [POST HUMAN: SURVIVAL HORROR](./ph-survival-horror).
+"Parasite Eve" is the second song on the album [POST HUMAN: SURVIVAL HORROR](./ph-survival-horror) and also 
+appears on the [lofiles](lofiles).
+
 It's title, although referencing the 1998 video game of the same name, still reminds us of the antagonist of the ARG: [E.V.E.](../characters/eve)
 
 ***

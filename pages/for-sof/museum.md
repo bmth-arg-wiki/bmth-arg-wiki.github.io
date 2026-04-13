@@ -13,6 +13,13 @@ next_text: "Skys Diary (Entry 2)"
 
 # M8's VR Museum
 
+{% include content/info.html
+title="Different museum versions"
+content="Three versions of the museum have been released as of 15-03-2026. The cinema and stage 
+were added in version 2 and updated in version 3. The contents of the main area have been shuffled 
+around throughout the versions."
+%}
+
 M8's VR museum was released on the 30th of November 2025, hidden behind a second lock puzzle. 
 The previous lock puzzle, hiding [Skys' diary](skys-diary), was replaced with this puzzle on 
 the [website](../website/website). 
@@ -21,13 +28,35 @@ the [website](../website/website).
 
 ## Password Context
 
-Clicking the lift activates a password pop-up. The password is not known at the time of writing.
+First we need to get into the museum. Open the locks puzzle from Sof's inventory. There is no password, 
+but a minigame to pass.
+
+1. Push the first four locks one by one until they spin with the first tool (medium-sized one)
+2. Push the big lock until it spins with the second tool (big one)
+3. Push the four smallest locks one by one until they spin on the right with the third tool (smallest one)
+
+Tip: you have to be VERY gentle.
+
+After completing the locks puzzle, you will have access to the museum. 
+Clicking the lift at the back left activates a password pop-up.
+
+<details class="password">
+<summary>Elevator password</summary>
+{{ "
+
+The password is 'selene'. The items around the museum refer to the Post Human Prophecy (cover of 
+[Post Human: Survival Horror](../music/ph-survival-horror)), which seems to be associated with our pink-haired 
+characters (Skys, Selene & Sof), but the intended reasoning for this password is unknown.
+" | markdownify }}
+</details>
 
 ***
 
 ## Museum Contents
 
-The following items are in the museum, from the back left corner of the room:
+### Main Area
+
+The following items are labelled in the museum, from the back-left corner of the room:
 
 - **Child's Drawings**: several drawings from Skys' diary.
 - **Vintage Flyer**: a [Skys & the Starjammers poster](skystarjammers)
@@ -42,9 +71,76 @@ can also be found in the real world.
 - **Metropolitan Cathedral of Our Lady Assumption and Saint Paul**: a 3D model of a real-life cathedral from Saõ Paulo.
 - **Handroanthus albus (Ipê)**: a tree with golden leaves, also inspired by a real-life species.
 
+### Past the elevator
+
+Although it looks like we used an elevator, we actually step outside into a wooded area. There are some smaller golden trees, 
+many barren trees and a larger golden tree ahead. Past the golden tree we find a ghost- or hologram-like appearance of 
+[Selene](../characters/selene), with the lo-fi track canyoufeelmy<3.tmpx playing as we get closer. 
+Selene is made of (multiple layers of) ASCII art and the screen turns white when we get too close to her.
+
+A sequence briefly appears on the screen: `qwertylkjsa`. We will need this to unlock the final tab on 
+[Victor's interview](carmine_interview).
+
+### Cinema & Stage update
+
+The cinema and the stage are areas added in the January 20th update in 2026. This was also the day the São Paulo 
+concert Live Immersive Virtual Experience was announced. M8 can now also turn to face different angles, using Q and E 
+on the keyboard to turn her 90 degrees.
+
+The museum was rearranged to create some space for a mysterious door. The position of the statue has changed and the 
+Nex Gen album cover now has Sof looking sideways. Tickets have been placed between the drawings (from Skys) and the 
+[Skys & the Starjammers poster](skystarjammers). 
+M8 will pick these up when she gets close enough. You can now go through the new mysterious door, which is a short 
+hallway that leads to the cinema.
+
+The cinema shows a screen with red patterns, with Oli performing in the middle. In the back row, several characters 
+are visible: [Scott](../characters/scott), [Selene](../characters/selene), [M8](../m8), [Ren](../characters/ren), 
+[Strassman](../characters/strassman) and [Dallus Lauren](../characters/dallus-lauren). If you sit on the front row 
+to the left, you will now see DCPHR-2 flashing, with the code `153hg`. This was part of the cipher for 
+[Victor Carmine's interview](carmine_interview), although this cipher was already cracked by the time of release. 
+Now go between the seats to pick up the M8 key card, which will make Oli disappear from the cinema screen.
+
+With the M8 key card found, you can now go through the middle of the screen. Enter through the gates in front of the 
+stage on the left and pass through the middle of the screen. You will now be on a path that allows you to travel 
+to the stage, where we can see Oli perform. This is the final area, at least for now :)
+
+### Cinema & Stage São Paulo Promotion
+
+The second update to the museum brought new content for the cinema area. The tickets to enter through the 
+curtains have been placed right in front of them. The hallway now has an M8 popcorn bucket added. You will 
+see the bucket on the screen once you enter the cinema. It will ask you if you are ready for the movie, before 
+loading a YouTube player with the first minutes of the show (playing [DArkSide](../music/song-darkside)).
+
+The controls shown on the screen now also reflect M8's ability to turn.
+
+{% include content/buttons/button-danger.html text="Watch on YouTube" link="https://www.youtube.com/watch?v=g1bvP7BZDME" icon="fa-brands fa-youtube" %}
+
+The update also brought a small app to the [website](../website/website), allowing users to find a showing in a 
+cinema near them on March 25th or March 28th (with later dates for select countries).
+
+![Theater finder mini app](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/saopaulolive/theater_finder.png)
+
 ### Gallery
 
-{% include gallery.html folder="files/museum/gallery" %}
+#### Version 1.0 - Main area & woods
+
+These are screenshots from the first version of the museum, before 
+it was slightly changed for the update that brought the cinema and stage.
+
+{% include gallery-nav.html folder="files/museum/gallery" %}
+
+#### Version 2.0 - Cinema & stage update
+
+This is the version of the museum released on January 20th, 2026.
+
+{% include gallery-nav.html folder="files/museum/gallery2" %}
+
+#### Version 3.0 - São Paulo L.I.V.E. Promotion
+
+This is the version of the museum released to promote the live cinema 
+showings of the São Paulo show. Released on 26-02-2026.
+
+{% include gallery-nav.html folder="files/museum/gallery3" %}
 
 ***
 
@@ -56,11 +152,15 @@ Related characters:
 - [Selene](../characters/selene)
 - [Sof](../characters/sof)
 - [M8](../m8)
+- [Ikaro Lauren (Ren)](../characters/ren)
+- [Karl Strassman](../characters/strassman)
+- [Dallus Lauren](../characters/dallus-lauren)
 
 Related files:
 
 - [Skys & the Starjammers Poster](skystarjammers)
 - [The Science Study Newspaper](thesciencestudy)
+- [Carmine Interview](carmine_interview) (through clues)
 - [Unbeleevable Episode 1](unbeleevable)
 - [Unbeleevable Episode 2](unbeleevable2)
 - [Unbeleevable Episode 3](unbeleevable3)
@@ -76,3 +176,4 @@ Related music:
 
 - [POST HUMAN: SURVIVAL HORROR](../music/ph-survival-horror)
 - [POST HUMAN: NeX GEn](../music/ph-nex-gen)
+- [Lo-files](../music/lofiles)

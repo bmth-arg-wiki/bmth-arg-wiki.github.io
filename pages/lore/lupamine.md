@@ -87,8 +87,8 @@ Related characters:
 
 Related files:
 
-- [Grumblr Post 2027](../for-sof/grumblr)
-- [Grumblr Post 2036](../for-sof/grumblr2)
+- [Grumblr Post January 2027](../for-sof/grumblr)
+- [Grumblr Post November 2027](../for-sof/grumblr2)
 - [Tekka Interview](../for-sof/tekka_interview)
 
 Related lore:

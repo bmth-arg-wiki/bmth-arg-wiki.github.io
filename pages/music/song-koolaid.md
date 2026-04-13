@@ -10,8 +10,8 @@ next_text: "04. Top 10 staTues tHat CriEd bloOd"
 ---
 # Kool-Aid (song)
 
-Song on the album, previously released as the sixth and last single. 
-Does not seem to contain any clues in the [spectrograms](spectrograms).
+Song on the album, previously released as the sixth and last single. It also appears on 
+the [lofiles](lofiles) album. Unlike many other NeX GEn songs, it does not contain a [spectrogram](spectrograms).
 
 The 8-bit version of this song was released through the ARG website and 
 has seen a few interesting changes. It also has [an official music video](https://www.youtube.com/watch?v=Jq4NhAnnD0Q), 

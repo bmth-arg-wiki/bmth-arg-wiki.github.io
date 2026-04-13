@@ -14,12 +14,12 @@ This page provides an overview of all music-related articles.
 
 ## Albums
 
-{% assign page_links = '/pages/music/amo, /pages/music/ph-survival-horror, /pages/music/ph-nex-gen' | split: ", " %}
+{% assign page_links = '/pages/music/amo, /pages/music/ph-survival-horror, /pages/music/ph-nex-gen, /pages/music/lofiles' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 These albums have been found to contain some lore relevance and have more information about them available. 
 BMTH has hinted through social media posts that some older songs might also be related, including but not limited to: 
-'Sleepwalking', 'It Was Written In Blood', 'Chelsea Smile'.
+'Sleepwalking', 'It Was Written In Blood', 'Chelsea Smile'. Many song lyrics can be found throughout the files.
 
 ***
 
@@ -32,11 +32,11 @@ Additionally, the website includes [exclusive songs](../website/website-songs), 
 Some uploads can be found on YouTube.
 
 The website itself and some of the passwords were found through [spectrograms](spectrograms), 
-a technique used to visualize music. Secret messages can be embedded here.
+a technique used to visualise music. Secret messages can be embedded here.
 
 ***
 
-## By album
+## Songs by album
 
 ### amo
 

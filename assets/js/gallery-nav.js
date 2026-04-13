@@ -1,24 +1,30 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const modal = document.getElementById('image-modal-nav');
-    const modalImg = document.getElementById('modal-image-nav');
+    const modal = document.querySelector('.image-modal-nav');
+    const modalImg = modal.querySelector('.modal-image-nav');
     const modalClose = modal.querySelector('.modal-close');
     const modalBg = modal.querySelector('.modal-background');
     const nextBtn = modal.querySelector('.next-button');
     const prevBtn = modal.querySelector('.prev-button');
 
     let currentIndex = 0;
-    let images = [];
+    let activeGallery = null;
+
+    // Store images per gallery
+    const galleryImages = new Map();
 
     async function loadGallery(gallery, folder, repo) {
-        // Build the correct URL
         const galleryUrl = `https://api.github.com/repos/bmth-arg-wiki/${repo}/contents/${folder}`;
+        const images = [];
+
         try {
             const response = await fetch(galleryUrl);
             const files = await response.json();
             gallery.innerHTML = '';
 
-            files.forEach((file, index) => {
+            files.forEach((file) => {
                 if (file.type === 'file' && /\.(jpg|jpeg|png|gif)$/i.test(file.name)) {
+                    const index = images.length;
+
                     const column = document.createElement('div');
                     column.className = 'column is-one-quarter-desktop is-one-quarter-tablet is-half-mobile';
 
@@ -43,17 +49,23 @@ document.addEventListener('DOMContentLoaded', () => {
                     images.push(file.download_url);
 
                     img.addEventListener('click', () => {
+                        activeGallery = gallery;
                         currentIndex = index;
                         openModal();
                     });
                 }
             });
+
+            galleryImages.set(gallery, images);
         } catch (error) {
             console.error('Error loading gallery:', error);
         }
     }
 
     function openModal() {
+        const images = galleryImages.get(activeGallery);
+        if (!images || !images.length) return;
+
         modal.classList.add('is-active');
         modalImg.src = images[currentIndex];
     }
@@ -63,11 +75,17 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function showNext() {
+        const images = galleryImages.get(activeGallery);
+        if (!images) return;
+
         currentIndex = (currentIndex + 1) % images.length;
         modalImg.src = images[currentIndex];
     }
 
     function showPrev() {
+        const images = galleryImages.get(activeGallery);
+        if (!images) return;
+
         currentIndex = (currentIndex - 1 + images.length) % images.length;
         modalImg.src = images[currentIndex];
     }
@@ -77,9 +95,13 @@ document.addEventListener('DOMContentLoaded', () => {
     modalClose.addEventListener('click', closeModal);
     modalBg.addEventListener('click', closeModal);
 
+    // Load all galleries independently
     const galleries = document.querySelectorAll('.image-gallery-nav');
     galleries.forEach(gallery => {
-        images = []; // reset for each gallery
-        loadGallery(gallery, gallery.dataset.folder, gallery.dataset.repo);
+        loadGallery(
+            gallery,
+            gallery.dataset.folder,
+            gallery.dataset.repo
+        );
     });
 });
