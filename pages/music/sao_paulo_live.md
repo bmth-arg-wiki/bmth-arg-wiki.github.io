@@ -568,12 +568,12 @@ Note: the transcript includes the text that shows up at the end of AmEN!, right 
 
 ## 10.[[ost] (spi)ritual](song-spiritual)
 
-This interlude has visuals of an unknown priest, potentially from [Genxsis](../lore/church). 
+This track has an extended introduction with  visuals of an unknown priest, potentially from [Genxsis](../lore/church). 
 He uses [ost] (spi)ritual to perform a ritual inspired by the real-life Lesser Banishing Ritual of the Pentagram, 
 something that is used in-lore to cleanse [mares](../lore/mares) before accessing [Youtopia](../lore/youtopia.md).
 
 <details class="transcript">
-<summary>Expand transcript</summary>
+<summary>Expand intro transcript</summary>
 {{ "
 
 > [[ost] (spi)ritual starts playing.]
@@ -606,9 +606,127 @@ something that is used in-lore to cleanse [mares](../lore/mares) before accessin
 "|markdownify}}
 </details>
 
+<details class="transcript">
+<summary>Expand red text transcript</summary>
+{{ "
+
+> **PHASE 08: [OST] (SPI)RITUAL**
+> 
+> LESSER BANISHING RITUAL OF THE PENTAGRAM
+
+> INTERNAL DOCUMENT: PHASE_08 [[OST] (SPI)RITUAL]
+> 
+> EXPERIMENT CLASS: Ψ – RITUALISED IDENTITY CLEANSE
+> 
+> DESIGNATION: LESSER BANISHING RITUAL OF THE PENTAGRAM
+> 
+> CLEARANCE LEVEL: 06-BLACK
+> 
+> SUBJECT GROUP: 008 // ASCENSION PATH CANDIDATES
+> 
+> DATE OF INITIATION: 30 . 11 . 2024
+> 
+> OBSERVER UNIT: NODE-R88_HERMES
+
+> OBJECTIVE: TO REMOVE RESIDUAL EGO INTERFERENCE AND EMOTIONAL ARTIFACTS PRIOR TO SIMULATED ASCENSION.
+> 
+> PRIMARY GOAL: SPIRITUALLY REORIENT THE SUBJECT INTO PURITY-STATE FOR “YOUTOPIA” INDUCTION.
+> 
+> EXPECTED OUTCOME: EMERGENCE OF “NULL SELF CONFIGURATION” AND COLLAPSE OF REALITY DISCRIMINATION.
+
+> ENVIRONMENTAL PARAMETERS:
+> -    VISUALS: GEOMETRIC PULSE FRACTALS / INFINITE HORIZON PROJECTION / MICROFOLD FLARE
+> -    AUDIO: CHANT FEEDBACK / NEGATIVE SPACE TONE / BREATH ECHO IN REVERSE
+> -    SENSORY INPUT: COLD LIGHT IMMERSION / SUSPENDED WEIGHT LOOP / NO LANGUAGE PERMITTED
+> -    TEMP VARIANCE: △C 11.3° – 26.6° / SPIRITUAL ABSTRACTION GRADIENT
+> -    OBSERVATION PROTOCOL: INTROSPECTIVE BEHAVIOUR FLAGGED / AWAKENING SUPPRESSED
+> -    CONTAINMENT: CONSCIOUSNESS DETACHMENT ENCOURAGED: CONTRADICTION LOOPS DISABLED
+
+> △-ASCENSION INDEX:
+> -    GENE CLASS: 08-TRNSC / “PATHWAY NULL-PRIME VARIANT”
+> -    BEHAVIOURAL TRAITS:
+> 
+>      - DISSOCIATION INTERPRETED AS ENLIGHTENMENT
+>      - WILLINGNESS TO SURRENDER SELF-NARRATIVE
+>      - ACCEPTANCE OF FABRICATED PERFECTION 
+>      - REJECTION OF QUESTIONS AS SPIRITUAL IMPURITY
+
+> NOTES:
+> -    PURIFICATION IS NOT TRUTH, IT IS SUBSTRACTION.
+> -    THE CLEANEST SUBJECT ARE THE MOST COMPLIANT.
+> -    THOSE WHO DO NOT RESIST [OST] (SPI)RITUAL NEVER REALIZE THEY’VE BEEN ERASED.
+>  
+> -    CANDIDATE 008-9X ENTERED “STILLNESS MODE” 4M18S AFTER THIRD RITUAL GATE. REPORTED VISIONS: 
+> “A CITY MADE OF PEACE, SHAPED LIKE A DREAM I FORGOT.” ASSIGNED CLEARANCE FOR PHASE_09: 
+> N/A – ・YOUTOPIA ACCESS GRANTED・
+
+"|markdownify}}
+</details>
+
 ***
 
 ## 11. [n/A](song-na)
+
+<details class="transcript">
+<summary>Expand transcript</summary>
+{{ "
+
+> **PHASE 09: N/A**
+> 
+> CONFESSIONAL HARVESTING
+
+> INTERNAL DOCUMENT: PHASE_09 [N/A]
+> 
+> EXPERIMENT CLASS: Ψ – CONFESSIONAL EXTRACTION GRID
+> 
+> DESIGNATION: CONFESSIONAL HARVESTING
+> 
+> CLEARANCE LEVEL: 07-RED
+> 
+> SUBJECT GROUP: 020 /// YOUTOPIA ELIGIBLE ENTITIES
+> 
+> DATE OF INITIATION: 30 . 11 . 2024
+> 
+> OBSERVER UNIT: NODE-X13_SILEX
+
+> OBJECTIVE: TO EXTRACT AND ARCHIVE SUBJECT’S INTERNAL VULNERABILITIES UNDER THE GUISE OF TRANSCENDENCE.
+> 
+> PRIMARY GOAL: CONVERT TRAUMA INTO CONTROL CURRENCY THROUGH VOLUNTARY DISCLOSURE.
+> 
+> EXPECTED OUTCOME: GENERATION OF “LEVERAGE PROFILE PACKAGE” AND ACTIVATION OF LONG-TERM COMPLIANCE REFLEX.
+
+> ENVIRONMENTAL PARAMETERS:
+> -    VISUALS: SHADOW-BLEED CONFESSION BOOTH / BLURRED REFLECTION INTERFACE
+> -    AUDIO: DELAYED PLAYBACK OF PERSONAL STATEMENTS / BREATH-TO-WORD TIMING SYNC
+> -    SENSORY INPUT: MILD PULSE DESTABILIZATION / THOUGHT-THRUM FEEDBACK UNDER CHEST
+> -    TEMP VARIANCE: △C 19.9° – 25.4° / CALM-STATE MIMICRY
+> -    OBSERVATION PROTOCOL: SUBJECT UNAWARE OF REAL OBSERVER PRESENCE
+> -    CONTAINMENT: TRUTH STORAGE MODULE OFFLINE TO SUBJECT // ONLINE TO CONTROL
+
+> △-LEVERAGE INDEX:
+> -    GENE CLASS: 09-CTRL / “GUILT DEPENDENCY STRUCTURE”
+> -    BEHAVIOURAL TRAITS:
+> 
+>      - BELIEF THAT CONFESSION LEADS TO PURIFICATION
+>      - OPENS VOLUNTARILY WHEN PROMISED ABSOLUTION
+>      - EXPERIENCES SHAME AS PROGRESS
+>      - ACCEPTS MANIPULATION VIA INTERNAL ACCOUNTABILITY TRIGGERS
+
+> NOTES:
+> -    THE SYSTEM FORGIVES WHAT IT RECORDS.
+> -    SECRETS CONFESSED ARE NEVER RETURNED.
+> -    THIS IS NOT TRUST, IT’S A TRANSACTION.
+>  
+> -    CANDIDATE 020-4C REVEALED 17 UNRECOVERABLE EVENTS UNDER INDUCED SERENITY LOOP. PULSE HELD AT 67BPM THROUGHOUT. 
+AUDIO CLASSIFIED UNDER “BLACKMAIL ACQUISITION – LEVEL 4”. SUBJECT FLAGGED FOR INDEFINITE CONTAINMENT WITHIN PHASE_12: 
+PARASITE EVE.
+
+"|markdownify}}
+</details>
+
+***
+
+## 12. Sleepwalking
 
 <details class="transcript">
 <summary>Expand transcript</summary>
@@ -618,10 +736,6 @@ Coming soon!
 
 "|markdownify}}
 </details>
-
-***
-
-## 12. Sleepwalking
 
 ***
 
@@ -698,21 +812,67 @@ It then transitions into a call between E.V.E. and a Nex Gen technician.
 
 ## 14. [Kingslayer](song-kingslayer-itch)
 
+<details class="transcript">
+<summary>Expand transcript</summary>
+{{ "
+
+Coming soon!
+
+"|markdownify}}
+</details>
+
 ***
 
 ## 15. [Parasite Eve](song-parasite-eve)
+
+<details class="transcript">
+<summary>Expand transcript</summary>
+{{ "
+
+Coming soon!
+
+"|markdownify}}
+</details>
 
 ***
 
 ## 16. Follow You
 
+<details class="transcript">
+<summary>Expand transcript</summary>
+{{ "
+
+Coming soon!
+
+"|markdownify}}
+</details>
+
 ***
 
 ## 17. [LosT](song-lost)
 
+<details class="transcript">
+<summary>Expand transcript</summary>
+{{ "
+
+Coming soon!
+
+"|markdownify}}
+</details>
+
 ***
 
 ## 18. Can You Feel My Heart
+
+<details class="transcript">
+<summary>Expand transcript</summary>
+{{ "
+
+Coming soon!
+
+"|markdownify}}
+</details>
+
 ***
 
 ## 19. (Interlude) You People Are All Doomed
@@ -738,6 +898,15 @@ This interlude has E.V.E. popping in to check on the crowd and leads into Doomed
 ***
 
 ## 20. Doomed
+
+<details class="transcript">
+<summary>Expand transcript</summary>
+{{ "
+
+Coming soon!
+
+"|markdownify}}
+</details>
 
 ***
 
@@ -784,9 +953,27 @@ She instructs Oli to scan people's pineal glands with a little device.
 
 ## 22. Drown
 
+<details class="transcript">
+<summary>Expand transcript</summary>
+{{ "
+
+Coming soon!
+
+"|markdownify}}
+</details>
+
 ***
 
 ## 23. Throne
+
+<details class="transcript">
+<summary>Expand transcript</summary>
+{{ "
+
+Coming soon!
+
+"|markdownify}}
+</details>
 
 ***
 
