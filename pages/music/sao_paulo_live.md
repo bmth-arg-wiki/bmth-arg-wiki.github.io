@@ -568,7 +568,7 @@ Note: the transcript includes the text that shows up at the end of AmEN!, right 
 
 ## 10.[[ost] (spi)ritual](song-spiritual)
 
-This track has an extended introduction with  visuals of an unknown priest, potentially from [Genxsis](../lore/church). 
+This track has an extended introduction with visuals of an unknown priest, potentially from [Genxsis](../lore/church). 
 He uses [ost] (spi)ritual to perform a ritual inspired by the real-life Lesser Banishing Ritual of the Pentagram, 
 something that is used in-lore to cleanse [mares](../lore/mares) before accessing [Youtopia](../lore/youtopia.md).
 
@@ -796,7 +796,7 @@ It then transitions into a call between E.V.E. and a Nex Gen technician.
 > 
 > **Technician:** [Glitchy audio] The rebellion have executed a cyberattack on our network. We are in retrograde.
 > 
-> **E.V.E.:** Filthy heretics! How bad is it?"
+> **E.V.E.:** Filthy heretics! How bad is it?
 > 
 > **Technician:** [Glitchy audio] The virus has taken us back to N64 level graphics, 
 > but it could get as bad as the Sega Saturn.
