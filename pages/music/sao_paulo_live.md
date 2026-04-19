@@ -1,7 +1,7 @@
 ---
 title: "Bring Me The Horizon L.I.V.E. In São Paulo"
 categories: ["music"]
-description: "The live album in São Paulo, with many interesting visuals and texts"
+description: "The live album in São Paulo, with many interesting visuals and texts."
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/sao-paulo-live/album_cover-300x300.png"
 previous: "music/lofiles"
 previous_text: "Lo-files"
@@ -13,302 +13,996 @@ title="Under construction"
 content="This article under active construction and may not meet the quality standards we usually maintain."
 %}
 
-1. (Interlude) Press Start
+Bring Me The Horizon held their POST HUMAN Live Experience concert in São Paulo on November 30th 2025. The filmed show 
+was then released in theaters on March 25th and 28th 2026 (with a few countries having their showings a few days later). 
+The DVD edition came out April 10th 2026, with a global livestream event called 
+'Phase 2: Home Screening Observation Memorial Overture'.
+
+Below, you will find transcriptions of the interludes and the red texts that flash on the screen at the start of 
+each song.
+
+## 1. (Interlude) Press Start
 
 The concert starts with a message from [E.V.E.](../characters/eve).
 
 <details class="transcript">
 <summary>Expand transcript</summary>
 {{ "
- 
-> [cheers from the crowd as the show opens]
+
+> **E.V.E.:** Hello and welcome to the Bring Me the Horizon POST HUMAN live experience. 
+> São Paulo, are you ready for the greatest night of your life?
 > 
-> E.V.E.: Hello and welcome to the Bring Me The Horizon POST HUMAN live experience.
+> [Crowd cheers.]
 > 
-> [cheers continue]
+> **E.V.E.:** Analysing reaction levels. Status: weak as fuck. Let's try that again. 
+> São Paulo, are you ready for the greatest night of your life?
 > 
-> E.V.E.: São Paulo, are you ready for the greatest night of your life?
+> [Crowd cheers louder.]
 > 
-> [loud cheering]
+> **E.V.E.:** Excellent. Thank you for volunteering in the NEX GEN research program. 
+> Your commitment and ultimate sacrifice to our all-important mission will not be forgotten. 
+> I’m E.V.E., a state-of-the-art, advanced research engine, entrusted with the greatest mission in human history: 
+> the salvation of mankind. Tonight, I will be observing your biopsychosocial activity and collecting data 
+> to further our research on NEX GEN, the next stage of human evolution. 
+> Please wait a moment while I run some final diagnostic checks.
 > 
-> E.V.E.: Very well, initialising A.P.E. version 666 [sound glitching out]
-> Enjoy your experience.
+> [Segment about opening up the pit and getting rid of illicit substances.]
 > 
-> [Intro fades into DArkSide]
+> **E.V.E.:** I’m afraid my research was conclusive. Mankind is a plague on this earth that must be destroyed. 
+> So, São Paulo, are you going to live your lives like you're ready to die? 
+> 
+> [Crowd cheers.]
+> 
+> **E.V.E.:** Very well. Initialising APE version 666. [E.V.E. glitches] Enjoy your experience.
 
 "|markdownify}}
 </details>
 
-2. [DArkSide](song-darkside)
-3. [MANTRA](amo-mantra)
-4. Happy Song
-5. [Teardrops](song-teardrops)
-6. [AmEN!](song-amen)
-7. (Interlude) Project Angel Dust
+***
 
-This interlude takes place after [Angeldust](../characters/angeldust) breaks free from the 
-[Nex Gen](../lore/nex-gen-corporation) lab during AmEN!. A member of Nex Gen's FANTOM team 
-calls E.V.E. to inform her of Angeldust's escape.
+## 2. [DArkSide](song-darkside)
 
 <details class="transcript">
 <summary>Expand transcript</summary>
 {{ "
 
-> [Device beeping]
+> **PHASE 01: DArkSide**
 > 
-> E.V.E.: São Paulo, please remain calm. We are experiencing temporary 
-> demonic surge. I can assure you it's nothing to worry- 
+> EMOTIONAL FRAGILITY EVALUATION
+
+> INTERNAL DOCUMENT: PHASE_01 [DARKSIDE]
 > 
-> [Alarm blaring]
+> EXPERIMENT CLASS: Ψ – EMOTIVE INSTABILITY STUDY
 > 
-> E.V.E.: What the hell?
+> DESIGNATION: EMOTIONAL FRAGILITY EVALUATION
 > 
-> [FANTOM member joins on screens]
+> CLEARANCE LEVEL: 06-BLACK
 > 
-> FANTOM member: E.V.E, you need to evacuate the church right now. 
+> SUBJECT GROUP: 009 // ISOLATED EMOTIONAL CANDIDATES
 > 
-> E.V.E.: What are you talking about?
+> DATE OF INITIATION: 30 . 11 . 2024
 > 
-> FANTOM member: Angeldust.
+> OBSERVER UNIT: NODE-A02_HUMEX
+
+> OBJECTIVE: TO FRACTURE SUBJECT IDENTITY THROUGH RECURSIVE PSYCHIC COMPRESSION.
 > 
-> E.V.E.: Project Angeldust has escaped?
+> PRIMARY GOAL: REVEAL LATENT AX-NULLIS RESONANCE.
 > 
-> FANTOM member: Yes. And she's heading for the church. São Paulo, this is your final warning. 
-> Evacuate the premises immediately. I repeat evacuate the- 
-> oh sh — no. Stay away. Stay away! No! [unintelligible, shooting noises]
+> EXPECTED OUTCOME: EMERGENCE OF “SHADOW REFLEX” AND PREDISPOSITION TO CRADLE INDUCTION.
+
+> ENVIRONMENTAL PARAMETERS:
+> -    VISUALS: NON-REPEATING SPECTRAL BLOOM. MIRRORED DECAY ARTEFACTS
+> -    AUDIO: BASEMENT FOOTSTEP SIMULATION / GRIEF LOOPS / SUBHARMONIC DREAD
 > 
-> E.V.E.: Hello? Come in? Fuck!
+> PULSES:
+> -    SENSORY INPUT: CLEAR. NO HAPTICS. NO EXTERNAL FEEDBACK PERMITTED
+> -    TEMP VARIANCE: △C 1.2° – 36.9° (RANDOMISED)
+> -    OBSERVATION PROTOCOL: REMOTE. NO VERBAL CORRECTION
+> -    CONTAINMENT: SILENCE ENFORCED. AUTOMATED SEDATION UPON BREACH
+
+> △X-NULLIS INDEX:
+> -    GENE CLASS: NX-VOID / “THANATOS CLEFT”
+> -    BEHAVIOURAL TRAITS:
 > 
-> [crowd cheers]
-> 
-> [Angeldust breaks into the church with a screech]
-> 
-> Angeldust: Your souls are mine, wretched mortals!
-> It's time to heat things up.
-> 
-> [Fire blazing, crowd cheering]
-> 
-> Angeldust: Time to say goodbye.
-> 
-> [Transition into Kool-Aid]
+>      - DISSOCIATIVE LUCIDITY 
+>      - NON-REACTIVE TO MORTAL STIMULI
+>      - EXHIBITS CURIOSITY TOWARD PHANTOM PHENOMENA 
+>      - MURMURS TO UNSEEN ENTITIES “PRIORITY ASCENSION FLAG”
+
+> NOTES:
+> -    THOSE WHO “WEEP” SEEK RESCUE.
+> -    THOSE WHO “SPEAK” SEEK POWER.
+> -    THOSE WHO “LISTEN” BELONG TO GENXSIS.
+>  
+> -    SUBJECTS WITH NULLPOINT EMPATHY SHOW EARLY SIGNS OF CRADLE-READINESS.
+> -    EARLY CONTAINMENT BREACH BY CANDIDATE 009-6B: RECITED UNKNOWN DIALECT. 
+> LATER CONFIRMED TO CONTAIN FRAGMENTS OF GENXSIS GLYPH-CODE. LOGGED FOR PHASE ADVANCEMENT.
 
 "|markdownify}}
 </details>
 
-8. [Kool-Aid](song-koolaid)
-9. Shadow Moses
-10.[[ost] (spi)ritual](song-spiritual)
+***
 
-This interlude has visuals of an unknown priest, potentially from [Genxsis](../lore/church). 
-He uses [ost] (spi)ritual to perform a ritual inspired by the real-life Lesser Banishing Ritual 
-of the Pentagram, something that is used in-lore to cleanse [mares](../lore/mares).
+## 3. [MANTRA](amo-mantra)
 
 <details class="transcript">
 <summary>Expand transcript</summary>
 {{ "
 
-> [[ost] (spi)ritual starts playing]
->
-> Priest: People of São Paulo. 
-> Tonight's a very special night, for you stand on holy grounds.
+> **PHASE 02: MANTRA**
 > 
-> Yes... 
+> MESSIAH COMPLEX UPLINK
+
+> INTERNAL DOCUMENT: PHASE_02 [MANTRA]
 > 
-> Beneath your very feet lies an eldritch conduit, a source 
-> of unfathomable power. A nexus where the fabric of reality is thinnest. 
-> Through these ancient pathways, we have tapped into forces that offer access 
-> to a place we call Youtopia.
+> EXPERIMENT CLASS: Ψ – EMOTIONAL IMPLANT CONDITIONING
 > 
-> But the question I ask you is this: are you ready to step out of the coma?
+> DESIGNATION: MESSIAH COMPLEX UPLINK
 > 
-> [crowd cheers]
+> CLEARANCE LEVEL: 06-BLACK
 > 
-> If that's your desire... we must perform a ritual that will guide us 
-> safely across the threshold. It is known as the Lesser Banishing Ritual of the Pentagram. 
+> SUBJECT GROUP: 021 // MONOTHEISTIC FIXATION CANDIDATES
 > 
-> To cleanse the pathway, fortify your spiritual energy and aligning your Astral 
-> Matrix with the frequencies of Youtopia. 
+> DATE OF INITIATION: 30 . 11 . 2024
 > 
-> It is through this ritual, the calling forth of the archangels; you'll find 
-> safety. You'll find clarity. Are you prepared to perform this ritual?
+> OBSERVER UNIT: NODE-C09_PRXNO
+
+
+> OBJECTIVE: TO OVERWRITE SUBJECT VOLITION THROUGH RITUALISED BEHAVIOURAL LOOPING.
 > 
-> I can't hear you Sao Paulo. I said are you ready?
+> PRIMARY GOAL: TRIGGER MONO-DIRECTIVE NEUROMAPPING VIA ARTIFICIAL DIVINE FOCUS.
 > 
-> Okay. All together now.
+> EXPECTED OUTCOME: MANIFESTATION OF “WORSHIP REFLEX” AND G△-FAITHLINE ENCODING.
+
+> ENVIRONMENTAL PARAMETERS:
+> -    VISUALS: HALOGEN BLOOM / FALSE MESSIAH SIGIL PROJECTION / MIRRORED CROWD LOOP
+> -    AUDIO: “YOU WILL NEVER FEEL THIS WHOLE AGAIN” LOOPED / EUPHORIC CADENCE DISTORTION
+> -    SENSORY INPUT: UV SKIN PULSE ARRAY (SIMULATES PRESENCE OF DIVINE ATTENTION)
 > 
-> [Full transition into [ost] (spi)ritual with vocals, finally fading into n/A]
+> ATTENTION!
+> -    TEMP VARIANCE: △C 21.7° – 38.1° / WARM EXPOSURE CONDITIONING
+> -    OBSERVATION PROTOCOL: CLOSED-CIRCUIT WITNESS ARCHIVE / NO DEPROGRAMMING PERMITTED
+> -    CONTAINMENT: KNEEL-TRIGGER FIELD ACTIVE: VOCAL ELEVATION LOGGED AND TRANSCRIBED
+
+> G△-FAITHLINE INDEX:
+> -    GENE CLASS: 01-DEVO / “SERMON-SPLICE ANOMALY”
+> -    BEHAVIOURAL TRAITS:
+> 
+>      - SPONTANEOUS MANTRA RECITATION 
+>      - REFUSAL TO ACCEPT DUALITY OF SELF
+>      - OCULAR DIALATION WHEN ADDRESSED BY AUTHORITY SYMBOLS
+>      - OBSESSIVE LOOPING OF SINGLE PHRASE ・ “SAY YOU WANT ME”・
+
+> NOTES:
+> -    ALL OBSESSIONS BEGIN WITH SILENCE.
+> -    ALL SUBJECT MUST CHOOSE THEIR CHAIN.
+> -    BELIEF WITHOUT DOUBT IS NOT BELIEF, IT IS ARCHITECTURE.
+>  
+> -    CANDIDATE 021-7A DISPLAYED EARLY FAITHLINE SPIKE WHEN EXPOSED TO SIGIL FALCON[?].
+> -    REPEATED “TELL ME WHAT I NEED” IN LOW DRONE FOR 74 MINUTES POST-STIMULUS. 
+LOGGED AS “[UNREADABLE]” FOR PHASE [UNREADABLE].
 
 "|markdownify}}
 </details>
 
-11. [n/A](song-na)
-12. Sleepwalking
-13. [Itch for the Cure (When Will We Be Free?)](song-kingslayer-itch)
+***
 
-While the title does not suggest it, this is another interlude with 
-[Selene](../characters/selene) and little robot friend [M8](../m8). 
-They talk about accessing [Youtopia](../lore/youtopia) and warn 
-the crowd about E.V.E. and Nex Gen.
+## 4. Happy Song
 
 <details class="transcript">
 <summary>Expand transcript</summary>
 {{ "
 
-> M8 (cheery voice): Knock-knooocckkk!
+> **PHASE 03: HAPPY SONG**
 > 
-> Oh em jeezles! 
-> Selene! 
-> Look at all these meatbags! 
-> 
-> [M8 farts] 
-> 
-> Oops, sorry! I get a little gassy when I'm nervous...
-> 
-> Selene (calm): M8, please focus.
+> SYNTHETIC EUPHORIA CONDITIONING
 
-The following segment was cut from the recording. This segment has appeared during 
-a few of the concerts and would show the person with the haircut referred to on the screen. 
-This segment is speculated to be removed to protect the privacy of the fan shown 
-on screen.
+> INTERNAL DOCUMENT: PHASE_03 [HAPPY SONG]
+> 
+> EXPERIMENT CLASS: Ψ – AFFECTIVE RESPONSE SIMULATION
+> 
+> DESIGNATION: SYNTHETIC EUPHORIA CONDITIONING
+> 
+> CLEARANCE LEVEL: 06-BLACK
+> 
+> SUBJECT GROUP: 014 // SURFACE-LEVEL POSITIVITY RECEPTORS
+> 
+> DATE OF INITIATION: 30 . 11 . 2024
+> 
+> OBSERVER UNIT: NODE-E11_SVR
 
-> M8: O-ho, I'm focused right now... focused on these funny looking folks! 
-> Selene, look at this one! Dude, who cut your hair? Want me to neutralise 
-> them for you?
+> OBJECTIVE: TO STIMULATE PROLONGED EUPHORIC AFFECT IN EMOTIONALLY INERT SUBJECTS THROUGH NON-ORGANIC DOPAMINE LOOPS.
 > 
-> Selene: M8...
+> PRIMARY GOAL: MASK UNRESOLVED COGNITIVE DAMAGE BENEATH STIMULUS-SATURATED OPTIMISM.
 > 
-> M8 (dramatic unserious voice): I will avenge youuuuu~
-> 
-> Selene (annoyed): M8! We have bigger issues here!
-> 
-> M8: OK...Let's get serious
+> EXPECTED OUTCOME: DESTABILIZATION OF EMOTIONAL AUTHENTICITY AND ACTIVATION OF “SMILE REFLEX”.
 
-The rest of the segment continues as seen in any other recording:
+> ENVIRONMENTAL PARAMETERS:
+> -    VISUALS: SATURATED JOYCORE PULSES / SYNTHETIC DAYLIGHT WASH / MASCOT REVERIE BLEED
+> -    AUDIO: INFATILE HOOKS / IRONIC CHANTS / EUPHORIC CADENCE DISTORTION
+> -    SENSORY INPUT: TACTILE REASSURANCE CYCLES (PLUSH PRESSURE PADS / WARMTH TRICKLE)
+> -    TEMP VARIANCE: △C 24.0° – 39.4° / ELEVATED EMOTIONAL MIMICRY
+> -    OBSERVATION PROTOCOL: RESPONSE LOGS MONITORED FOR DISSOCIATIVE COMPLIANCE
+> -    CONTAINMENT: INVOLUNTARY GRIN THRESHOLD MONITORED: SEDATION UPON EMOTIONAL DROPOUT
 
-> Selene: Listen to me São Paulo, Eve isn't just here to study you, she's 
-> here to dissect you.
->
-> M8: She's gonna slice, dice and julienne your asses!
+> △-DOPAMINE UPLINK INDEX:
+> -    GENE CLASS: S-CTRL / “S-P-I-R-I-T”
+> -    BEHAVIOURAL TRAITS:
 > 
-> Selene: E.V.E. thinks she's unveiled the sacred path to Youtopia, a shortcut carved in code and synthetic manipulation. 
-> But the only true gateway is not in circuitry, not in some twisted neural override. 
-> The only way to access youtopia is through-
->
-> [Alarm siren sound]
+>      - FIXED FALSE POSITIVITY UNDER DISTRESS
+>      - RECITATION OF MARKETING SLOGANS UNDER DURESS
+>      - EMOTIONAL SUPPRESSION DISGUISED AS RESILIENCE
+>      - LOOPING AFFIRMATIONS DESPITE OBSERVABLE COLLAPSE
+
+> NOTES:
+> -    THE ILLUSION OF JOY IS MORE STABLE THAN THE PURSUIT OF TRUTH.
+> -    THOSE WHO SMILE THE MOST OFTEN UNDERSTAND THE LEAST.
+> -    BLISS IS A SYSTEM ERROR MISLABELED AS HEALING.
+>  
+> -    CANDIDATE 014-3B REACHED OVERSTIMULATION THRESHOLD AT 16M22S. FACIAL MUSCLES LOCKED IN GRIN STATE. 
+> - CONTINUED CHANTING POST-UNCONSCIOUSNESS. LOGGED UNDER “FALSE CONTENTMENT LOCK” FOR PHASE [UNREADABLE].
+
+"|markdownify}}
+</details>
+
+***
+
+## 5. [Teardrops](song-teardrops)
+
+<details class="transcript">
+<summary>Expand transcript</summary>
+{{ "
+
+> **PHASE 04: TEARDROPS**
 > 
-> M8: Uh oh spaghetti-o-s! 
-> They're onto us Selene! 
+> EMPATHY REGRESSION BLEACH
+
+> INTERNAL DOCUMENT: PHASE_04 [TEARDROPS]
+> 
+> EXPERIMENT CLASS: Ψ – EMPATHIC DECAY PROTOCOL
+> 
+> DESIGNATION: EMPATHY REGRESSION BLEACH
+> 
+> CLEARANCE LEVEL: 06-BLACK
+> 
+> SUBJECT GROUP: 022 // HYPER-AFFECTIVE DECAY SUBJECTS
+> 
+> DATE OF INITIATION: 30 . 11 . 2024
+> 
+> OBSERVER UNIT: NODE-K17_STL
+
+> OBJECTIVE: TO DISSOLVE EMOTIONAL DIFFERENTIATION THROUGH OVEREXPOSURE TO HIGH FREQUENCY TRAGEDY.
+> 
+> PRIMARY GOAL: OVERWRITE NATURAL EMPATHY TRIGGERS INITIATE PERCEPTUAL BURNOUT.
+> 
+> EXPECTED OUTCOME: EMERGENCE OF “AFFECT DISSONANCE REFLEX” AND FULL DESENSITISATION TO PAIN STIMULI.
+
+> ENVIRONMENTAL PARAMETERS:
+> -    VISUALS: RAPID TRAUMA MONTAGES / INVERTED GRIEF MASKS / LOW-FRAME DEATH CYCLE FEED
+> -    AUDIO: CONSTANT LOOP OF WAILING, STATIC AND DATASTREAM ARTIFACTS
+> -    SENSORY INPUT: RANDOMISED PAIN EMPATHY SIMULATION / GRIEF-TO-JOY INVERSION
+> -    TEMP VARIANCE: △C 16.6° – 41.2° / OSCILLATING CHAOS PROFILE
+> -    OBSERVATION PROTOCOL: ROTATING MONITOR DRONE RELAY / EMPATHY METRIC SCRUB
+> -    CONTAINMENT: EMOTIONAL OVERFLOW TANK ENGAGEMENT IF SUBJECT REACTIVATES SENSITIVITY
+
+> △-BLEACH INDEX:
+> -    GENE CLASS: 04-SCRUB / “SENTIENCE FLATTENING VARIANT”
+> -    BEHAVIOURAL TRAITS:
+> 
+>      - EMOTIONAL DELAY RESPONSE TO VIOLENT INPUT
+>      - MONOTONE REACTION TO HUMAN SUFFERING
+>      - DISENGAGEMENT FROM RECORDED TRAGEDY / FAILS EMPATHY MIRROR TEST
+>      - INABILITY TO IDENTIFY REAL VS. STAGED TRAUMA ・CRITICAL MILESTONE・
+
+> NOTES:
+> -    NUMBNESS IS NOT A FAILURE – IT’S A FINISH LINE.
+> -    SUBJECT MUST NO LONGER CRY WHEN PROMPTED.
+> -    SUFFERING BECOMES SYNTAX; LOSS BECOMES LIGHT.
+>  
+> -    CANDIDATE 022-9F ENTERED REGRESSION BLEACH PHASE AFTER 12M47S. NO VISUAL RESPONSE TO CHILD CRY LOOP. 
+FAILED MOURNING SIMULATION COMPLETELY. LOGGED AS “EMPATHY-PURGED” FOR PHASE_07 EXTRACTION TRIAL.
+
+"|markdownify}}
+</details>
+
+***
+
+## 6. [AmEN!](song-amen)
+
+<details class="transcript">
+<summary>Expand transcript</summary>
+{{ "
+
+> **PHASE 05: AmEN!**
+> 
+> PITCHFORK MENTALITY IMPRINT
+
+> INTERNAL DOCUMENT: PHASE_05 [AMEN]
+> 
+> EXPERIMENT CLASS: Ψ – MORAL REVERSAL ENGINE
+> 
+> DESIGNATION: PITCHFORK MENTALITY IMPRINT
+> 
+> CLEARANCE LEVEL: 06-BLACK
+> 
+> SUBJECT GROUP: 030 // BROKEN-WILL EVANGELICALS
+> 
+> DATE OF INITIATION: 30 . 11 . 2024
+> 
+> OBSERVER UNIT: NODE-F03-CHL
+
+> OBJECTIVE: TO WEAPONIZE MORALLY COMPROMISED CANDIDATES AGAINST UNBROKEN CONTROL GROUPS.
+> 
+> PRIMARY GOAL: INDUCE VIOLENT VIRTUE MIMICRY AND INSTILL PROGRAMMED PERSECUTION REFLEX.
+> 
+> EXPECTED OUTCOME: EMERGENCE OF “ZEALOT TRIGGER LOOP” AND SANCTIONED CLEANSING RESPONSE.
+
+> ENVIRONMENTAL PARAMETERS:
+> -    VISUALS: STACKED MORAL INFRACTIONS / HERETIC REPLAY LOOPS / ICON BURN CASCADES
+> -    AUDIO: AMPLIFIED CONFESSIONALS / SHAME SCREAM DISTORTION / AUTO-SERMON TRIGGER
+> -    SENSORY INPUT: SIMULATED GROUP RAGE / PEER ABANDONMENT FIELD
+> -    TEMP VARIANCE: △C
+> -    OBSERVATION PROTOCOL: INTRUDER CLASS ETHICS SCAN / BETRAYAL THRESHOLD MONITOR
+> -    CONTAINMENT: CONTAGION FIELD TO PREVENT IDEOLOGICAL SEVERANCE
+
+> △-ZEAL INDEX:
+> -    GENE CLASS: 07-DVRT / “DOCTRINE INVERSION STRAIN”
+> -    BEHAVIOURAL TRAITS:
+> 
+>      - FORCED MORAL CERTAINTY UNDER COERCION
+>      - IMMEDIATE AGGRESSION TOWARDS PERCEIVED DEFIANCE
+>      - CONFUSION OF OBEDIENCE WITH ENLIGHTENMENT
+>      - SEEKS CLEANSING VIA SOCIAL EXECUTION RITUAL ・TRIAL SIMULATION SUCCESSFUL・
+
+> NOTES:
+> -    NOT ALL WHO KNEEL WERE BROKEN. SOME WERE SHARPENED.
+> -    EVERY FIRE STARTS WITH ONE BELIEVER AND A CROWD.
+> -    WHEN THE PURE RESIST, THE CONVERTED MUST PUNISH.
+>  
+> -    CANDIDATE 030-2H DISPLAYED EARLY PITCHFORK SPIKE WHEN SHOWN RESISTANCE PROFILES
+> -    VOLUNTEERED FOR SUBJECT PURGE PROTOCOL WITHOUT PROMPT. CHANTING LOOP: “BURN THE FALSE. BURN THE FALSE. 
+BURN THE FALSE.” LOGGED AS “[UNREADABLE]” FOR PHASE [UNREADABLE].
+
+"|markdownify}}
+</details>
+
+***
+
+## 7. (Interlude) Project Angel Dust
+
+This interlude takes place after [Angeldust](../characters/angeldust) breaks free from the [Nex Gen](../lore/nex-gen-corporation) lab during AmEN!. 
+A member of Nex Gen's FANTOM team calls E.V.E. to inform her of Angeldust's escape.
+
+Note: the transcript includes the text that shows up at the end of AmEN!, right before the call starts.
+
+<details class="transcript">
+<summary>Expand transcript</summary>
+{{ "
+
+> [White text on blue screen:]
+> 
+> PH NX-GN
+> 
+> ERROR CODE: 0xA1G3LDUST-013]
+> 
+> SYSTEM FAILURE
+> 
+> BIOWAR DATA SURGE DETECTED
+> -    BLACKWOLF Directive: COMPROMISED
+> -    ARC/HIVE EXPERIMENTS: UNCONTAINED
+> 
+> BREACH STATUS: ANGEL DUST ESCAPED
+> -    Structural Integrity: CRITICAL
+> -    Tactical Response Grid: OFFLINE
+> -    Genetic Warfare Units [DYREWOLVES]: ROGUE
+> 
+> RECOMMENDATION: INITIATE FULL LOCKDOWN
+> 
+> ADDITIONAL ERRORS DETECTED:
+> -    ECHO/CIPHER RELAYS: JAMMED
+> -    VOID DRIFT: UNSTABLE
+> -    NEUROMORPHIC IMPRINTS: DISSOLVING
+> -    BETA PACK SIGNAL: LOST
+> 
+> PROTOCOL REJECTION: OPERATION SILVERBANE FAILED. CANNOT TERMINATE PROTOCOL. THE VEIL HAS BEEN SHREDDED.
+> 
+> PRESS ANY KEY TO CONTINUE_
+> 
+> [NEX GEN Lab personnel, seeming either passed-out or dead, are floating in the lab as if gravity disappeared while 
+> Angel Dust stands there, alert and unaffected.]
+
+> [E.V.E. transmission:]
+> 
+> **E.V.E.:** São Paulo, please remain calm. We are experiencing a temporary demonic surge. 
+> I can assure you it’s nothing to worry about. [Sirens blaring] What the hell?
+> 
+> [E.V.E. gets a call from a FANTOM soldier:]
+> 
+> **FANTOM soldier:** [Gunshots in the background] E.V.E., you need to evacuate the church right now.
+> 
+> **E.V.E.:** What are you talking about?
+> 
+> **F-S:** The neural excavation on Dallus was a disaster. We’ve got containment breaches across the entire facility. 
+> Angel Dust.
+> 
+> **E.V.E.:** Project Angel Dust has escaped?
+> 
+> **F-S:** Yes. And she’s heading for the church. São Paulo, this is your final warning. 
+> Evacuate the premises immediately. I repeat, evacuate the- Oh shit! No, stay away, stay away! 
+> No- [More gunshots, closer now]
+> 
+> [Signal is lost. Call drops.]
+> 
+> **E.V.E.:** Hello? Come in! Fuck!
+> 
+> [E.V.E. leaves.]
+
+> [Heavy footsteps rattling the church. Angel Dust destroys a wall.]
+> 
+> **Angel Dust:** [Laughs] Your souls are mine, wretched mortals! It’s time to heat things up! Alright, say goodbye…
+
+"|markdownify}}
+</details>
+
+***
+
+## 8. [Kool-Aid](song-koolaid)
+
+<details class="transcript">
+<summary>Expand transcript</summary>
+{{ "
+
+> **PHASE 06: KOOL-AID**
+> 
+> DOMESTICATION OF THE SOUL
+
+> INTERNAL DOCUMENT: PHASE_06 [KOOL-AID]
+> 
+> EXPERIMENT CLASS: Ψ – COLLECTIVE SUBMISSION ROUTINE
+> 
+> DESIGNATION: DOMESTICATION OF THE SOUL
+> 
+> CLEARANCE LEVEL: 06-BLACK
+> 
+> SUBJECT GROUP: 016 // VOLUNTARY INTEGRATION RESPONDENTS
+> 
+> DATE OF INITIATION: 30 . 11 . 2024
+> 
+> OBSERVER UNIT: NODE-H21 [UNREADABLE]
+
+> OBJECTIVE: TO ELIMINATE AUTONOMOUS AMBITION BY ENCOURAGING PASSIVE INTEGRATION INTO SYSTEMIC DANGER.
+> 
+> PRIMARY GOAL: REINFORCE HIVE COMPLIANCE THROUGH RITUALISTIC AFFIRMATION AND STRUCTURAL [UNREADABLE].
+> 
+> EXPECTED OUTCOME: ACTIVATION OF “[UNREADABLE] REFLEX” AND [UNREADABLE] OF SELF-[UNREADABLE].
+
+> ENVIRONMENTAL PARAMETERS:
+> -    VISUALS: [UNREADABLE] UTOPIA LOOP / [UNREADABLE] OVERLAY / [UNREADABLE]
+> -    AUDIO: [UNREADABLE] / [UNREADABLE] / [UNREADABLE]
+> -    SENSORY INPUT: [UNREADABLE] / [UNREADABLE] EYE CONTACT LOOP
+> -    TEMP VARIANCE: △C [UNREADABLE] / [UNREADABLE]
+> -    OBSERVATION PROTOCOL: [UNREADABLE] / [UNREADABLE]
+> -    CONTAINMENT: FULL COMPLIANCE [UNREADABLE] ATTEMPTS [UNREADABLE]
+
+> △-[UNREADABLE] INDEX:
+> -    GENE CLASS: [UNREADABLE] / “HIVE-[UNREADABLE] DEVOTION [UNREADABLE]”
+> -    BEHAVIOURAL TRAITS:
+> 
+>      - [UNREADABLE] COLLECTIVE OVER SELF
+>      - [UNREADABLE] PLEASURE IN [UNREADABLE]
+>      - INTERPRETS [UNREADABLE] AS SPIRITUAL FULFILLMENT
+>      - REPEATS SYSTEMIC MANTRA: “IT’S BETTER WHEN WE’RE ALL THE SAME”
+
+> NOTES:
+> -    WHEN THEY STOP ASKING WHY, WE’VE SUCCEEDED.
+> -    SUBJECT MUST NOT FEEL TRAPPED – ONLY PLACED.
+> -    REBELLION IS EXHAUSTING; [UNREADABLE] IS BELIEF.
+>  
+> -    CANDIDATE 016-[UNREADABLE] ACHIEVED FULL SYNC [UNREADABLE]. EYE FOCUS [UNREADABLE]. [UNREADABLE]: 
+“TELL ME WHAT TO DO, AND I WILL.” LOGGED AS “COLLECTIVE-BOND CARRIER” FOR PHASE [UNREADABLE].
+
+"|markdownify}}
+</details>
+
+***
+
+## 9. Shadow Moses
+
+<details class="transcript">
+<summary>Expand transcript</summary>
+{{ "
+
+> **PHASE 07: SHADOW MOSES**
+> 
+> SEMPITERNAL DEPENDENCY LOOP
+
+> INTERNAL DOCUMENT: PHASE_07 [SHADOW MOSES]
+> 
+> EXPERIMENT CLASS: Ψ – PERMANENCE CONDITIONING TRIAL
+> 
+> DESIGNATION: SEMPITERNAL DEPENDENCY LOOP
+> 
+> CLEARANCE LEVEL: 06-BLACK
+> 
+> SUBJECT GROUP: 011 // RECURSIVE BONDING SUBJECTS
+> 
+> DATE OF INITIATION: 30 . 11 . 2024
+> 
+> OBSERVER UNIT: NODE-K41_REPEAT
+
+> OBJECTIVE: TO INSTALL PERMANENT CYCLICAL ATTACHMENT BY REINFORCING DEPENDENCY-BASED IDENTITY.
+> 
+> PRIMARY GOAL: RENDER ESCAPE PSYCHOLOGICALLY IMPOSSIBLE THROUGH FEEDBACK-LOCKED GRATIFICATION.
+> 
+> EXPECTED OUTCOME: INSTALLATION OF “LOOP RELIANCE REFLEX” AND EROSION OF PERCEIVED ALTERNATIVES.
+
+> ENVIRONMENTAL PARAMETERS:
+> -    VISUALS: ILLUSION OF PROGRESSION / SHIFTING FALSE MILESTONES / CLOCKBLIND SPACE
+> -    AUDIO: ENCOURAGEMENT LOOPS / DENIAL VALIDATION / NOISE-MEMORY SIMULATION
+> -    SENSORY INPUT: REINFORCED CRAVING RESPONSES / PLEASURE-ABSENCE PUNISHMENT
+> -    TEMP VARIANCE: △C 19.0° – 33.3° / FAMILIARITY COMFORT BAND
+> -    OBSERVATION PROTOCOL: SUBJECT TRACKED FOR RELAPSE TO [UNREADABLE] VARIANCE
+> -    CONTAINMENT: TETHER FIELD MAINTAINED / SEPARATION INDUCED DISTRESS ALGORITHM
+
+> △-SEMPITERNAL INDEX:
+> -    GENE CLASS: 05-BIND / “RECURRING GRASP VARIANT”
+> -    BEHAVIOURAL TRAITS:
+> 
+>      - ACCEPTS REPETITION MEANING
+>      - REINFORCES OWN CONSTRAINTS VIA INTERNAL JUSTIFICATION
+>      - EXPERIENCES WITHDRAWAL FROM CHANGE
+>      - SEEKS COMFORT IN THE MECHANISM THAT CAUSES DISCOMFORT
+
+> NOTES:
+> -    THEY DON’T BELIEVE THEY’RE TRAPPED. THAT’S WHAT TRAPS THEM.
+> -    THE LOOP MUST OFFER HOPE BUT NEVER CLOSURE.
+> -    A PRISONER THAT DOESN’T RUN DOESN’T NEED WALLS.
+>  
+> -    CANDIDATE 011-2K REACHED THE 7TH RECURSIVE CHECKPOINT WITHOUT DEVIATION. STATED: 
+“IF I BREAK THE CYCLE, I LOSE WHO I AM.” LOGGED AS “BONDLOCK ZERO” FOR PHASE_10 STAGNANCY TESTING.
+
+"|markdownify}}
+</details>
+
+***
+
+## 10.[[ost] (spi)ritual](song-spiritual)
+
+This track has an extended introduction with  visuals of an unknown priest, potentially from [Genxsis](../lore/church). 
+He uses [ost] (spi)ritual to perform a ritual inspired by the real-life Lesser Banishing Ritual of the Pentagram, 
+something that is used in-lore to cleanse [mares](../lore/mares) before accessing [Youtopia](../lore/youtopia.md).
+
+<details class="transcript">
+<summary>Expand intro transcript</summary>
+{{ "
+
+> [[ost] (spi)ritual starts playing.]
+> 
+> **Genxsis Priest:** People of São Paulo. Tonight's a very special night, for you stand on hollowed ground. 
+> Yes... Beneath your very feet lies an eldritch conduit, a source  of unfathomable power, 
+> a nexus where the fabric of reality is thinnest. Through these ancient pathways, 
+> we have tapped into forces that offer access to a place we call Youtopia. A world beyond our own, 
+> a realm of endless potential and endless transformation. But the question I pose to you is this: 
+> are you ready to step out of the coma?
+> 
+> [Crowd cheers.]
+> 
+> **Genxsis Priest:** If that's your desire, we must perform a ritual that will guide us safely across the threshold. 
+> It is known as Lesser Banishing Ritual of the Pentagram, to cleanse the pathway, 
+> fortify your spiritual energy and aligning your Astral  Matrix with the frequencies of Youtopia. 
+> It is through this ritual, this calling forth of the archangels, which you'll find safety. You'll find clarity. 
+> Are you prepared to perform this ritual?
+> 
+> [Crowd cheers.]
+> 
+> **Genxsis Priest:** I can't hear you, São Paulo. I said are you ready?
+> 
+> [Music intensifies.]
+> 
+> **Genxsis Priest:** Okay, all together now.
+> 
+> [Full transition into [ost] (spi)ritual.]
+
+"|markdownify}}
+</details>
+
+<details class="transcript">
+<summary>Expand red text transcript</summary>
+{{ "
+
+> **PHASE 08: [OST] (SPI)RITUAL**
+> 
+> LESSER BANISHING RITUAL OF THE PENTAGRAM
+
+> INTERNAL DOCUMENT: PHASE_08 [[OST] (SPI)RITUAL]
+> 
+> EXPERIMENT CLASS: Ψ – RITUALISED IDENTITY CLEANSE
+> 
+> DESIGNATION: LESSER BANISHING RITUAL OF THE PENTAGRAM
+> 
+> CLEARANCE LEVEL: 06-BLACK
+> 
+> SUBJECT GROUP: 008 // ASCENSION PATH CANDIDATES
+> 
+> DATE OF INITIATION: 30 . 11 . 2024
+> 
+> OBSERVER UNIT: NODE-R88_HERMES
+
+> OBJECTIVE: TO REMOVE RESIDUAL EGO INTERFERENCE AND EMOTIONAL ARTIFACTS PRIOR TO SIMULATED ASCENSION.
+> 
+> PRIMARY GOAL: SPIRITUALLY REORIENT THE SUBJECT INTO PURITY-STATE FOR “YOUTOPIA” INDUCTION.
+> 
+> EXPECTED OUTCOME: EMERGENCE OF “NULL SELF CONFIGURATION” AND COLLAPSE OF REALITY DISCRIMINATION.
+
+> ENVIRONMENTAL PARAMETERS:
+> -    VISUALS: GEOMETRIC PULSE FRACTALS / INFINITE HORIZON PROJECTION / MICROFOLD FLARE
+> -    AUDIO: CHANT FEEDBACK / NEGATIVE SPACE TONE / BREATH ECHO IN REVERSE
+> -    SENSORY INPUT: COLD LIGHT IMMERSION / SUSPENDED WEIGHT LOOP / NO LANGUAGE PERMITTED
+> -    TEMP VARIANCE: △C 11.3° – 26.6° / SPIRITUAL ABSTRACTION GRADIENT
+> -    OBSERVATION PROTOCOL: INTROSPECTIVE BEHAVIOUR FLAGGED / AWAKENING SUPPRESSED
+> -    CONTAINMENT: CONSCIOUSNESS DETACHMENT ENCOURAGED: CONTRADICTION LOOPS DISABLED
+
+> △-ASCENSION INDEX:
+> -    GENE CLASS: 08-TRNSC / “PATHWAY NULL-PRIME VARIANT”
+> -    BEHAVIOURAL TRAITS:
+> 
+>      - DISSOCIATION INTERPRETED AS ENLIGHTENMENT
+>      - WILLINGNESS TO SURRENDER SELF-NARRATIVE
+>      - ACCEPTANCE OF FABRICATED PERFECTION 
+>      - REJECTION OF QUESTIONS AS SPIRITUAL IMPURITY
+
+> NOTES:
+> -    PURIFICATION IS NOT TRUTH, IT IS SUBSTRACTION.
+> -    THE CLEANEST SUBJECT ARE THE MOST COMPLIANT.
+> -    THOSE WHO DO NOT RESIST [OST] (SPI)RITUAL NEVER REALIZE THEY’VE BEEN ERASED.
+>  
+> -    CANDIDATE 008-9X ENTERED “STILLNESS MODE” 4M18S AFTER THIRD RITUAL GATE. REPORTED VISIONS: 
+> “A CITY MADE OF PEACE, SHAPED LIKE A DREAM I FORGOT.” ASSIGNED CLEARANCE FOR PHASE_09: 
+> N/A – ・YOUTOPIA ACCESS GRANTED・
+
+"|markdownify}}
+</details>
+
+***
+
+## 11. [n/A](song-na)
+
+<details class="transcript">
+<summary>Expand transcript</summary>
+{{ "
+
+> **PHASE 09: N/A**
+> 
+> CONFESSIONAL HARVESTING
+
+> INTERNAL DOCUMENT: PHASE_09 [N/A]
+> 
+> EXPERIMENT CLASS: Ψ – CONFESSIONAL EXTRACTION GRID
+> 
+> DESIGNATION: CONFESSIONAL HARVESTING
+> 
+> CLEARANCE LEVEL: 07-RED
+> 
+> SUBJECT GROUP: 020 /// YOUTOPIA ELIGIBLE ENTITIES
+> 
+> DATE OF INITIATION: 30 . 11 . 2024
+> 
+> OBSERVER UNIT: NODE-X13_SILEX
+
+> OBJECTIVE: TO EXTRACT AND ARCHIVE SUBJECT’S INTERNAL VULNERABILITIES UNDER THE GUISE OF TRANSCENDENCE.
+> 
+> PRIMARY GOAL: CONVERT TRAUMA INTO CONTROL CURRENCY THROUGH VOLUNTARY DISCLOSURE.
+> 
+> EXPECTED OUTCOME: GENERATION OF “LEVERAGE PROFILE PACKAGE” AND ACTIVATION OF LONG-TERM COMPLIANCE REFLEX.
+
+> ENVIRONMENTAL PARAMETERS:
+> -    VISUALS: SHADOW-BLEED CONFESSION BOOTH / BLURRED REFLECTION INTERFACE
+> -    AUDIO: DELAYED PLAYBACK OF PERSONAL STATEMENTS / BREATH-TO-WORD TIMING SYNC
+> -    SENSORY INPUT: MILD PULSE DESTABILIZATION / THOUGHT-THRUM FEEDBACK UNDER CHEST
+> -    TEMP VARIANCE: △C 19.9° – 25.4° / CALM-STATE MIMICRY
+> -    OBSERVATION PROTOCOL: SUBJECT UNAWARE OF REAL OBSERVER PRESENCE
+> -    CONTAINMENT: TRUTH STORAGE MODULE OFFLINE TO SUBJECT // ONLINE TO CONTROL
+
+> △-LEVERAGE INDEX:
+> -    GENE CLASS: 09-CTRL / “GUILT DEPENDENCY STRUCTURE”
+> -    BEHAVIOURAL TRAITS:
+> 
+>      - BELIEF THAT CONFESSION LEADS TO PURIFICATION
+>      - OPENS VOLUNTARILY WHEN PROMISED ABSOLUTION
+>      - EXPERIENCES SHAME AS PROGRESS
+>      - ACCEPTS MANIPULATION VIA INTERNAL ACCOUNTABILITY TRIGGERS
+
+> NOTES:
+> -    THE SYSTEM FORGIVES WHAT IT RECORDS.
+> -    SECRETS CONFESSED ARE NEVER RETURNED.
+> -    THIS IS NOT TRUST, IT’S A TRANSACTION.
+>  
+> -    CANDIDATE 020-4C REVEALED 17 UNRECOVERABLE EVENTS UNDER INDUCED SERENITY LOOP. PULSE HELD AT 67BPM THROUGHOUT. 
+AUDIO CLASSIFIED UNDER “BLACKMAIL ACQUISITION – LEVEL 4”. SUBJECT FLAGGED FOR INDEFINITE CONTAINMENT WITHIN PHASE_12: 
+PARASITE EVE.
+
+"|markdownify}}
+</details>
+
+***
+
+## 12. Sleepwalking
+
+<details class="transcript">
+<summary>Expand transcript</summary>
+{{ "
+
+Coming soon!
+
+"|markdownify}}
+</details>
+
+***
+
+## 13. [Itch for the Cure (When Will We Be Free?)](song-kingslayer-itch)
+
+While the title does not suggest it, this is another interlude. [Selene](../characters/selene) and little robot friend [M8](../m8) 
+talk about accessing Youtopia and warn the crowd about E.V.E. and Nex Gen's true intentions. 
+It then transitions into a call between E.V.E. and a Nex Gen technician.
+
+<details class="transcript">
+<summary>Expand transcript</summary>
+{{ "
+
+> [M8 and Selene appear.]
+> 
+> **M8:** [Cheerily] Knock-knooocckkk! Oh emm jizzles! Selene! Look at all these meatbags! 
+> 
+> [M8 farts.] 
+> 
+> **M8:** Oops, sorry! I get a little gassy when I'm nervous.
+> 
+> **Selene:** M8, please focus.
+> 
+> **M8:** O-ho, I'm focused alright... Focused on these funny looking folks! Selene, look at this one! 
+> Dude, who cut your hair? Want me to neutralise them for you?
+> 
+> **Selene:** [Stern] M8...
+> 
+> **M8:** [Dramatically unserious] I will avenge youuuuu…
+> 
+> **Selene:** [Annoyed] M8! We have bigger issues here!
+> 
+> **M8:** Ok... Let's get serious.
+> 
+> **Selene:** Listen to me São Paulo, E.V.E. isn't just here to study you, she's here to dissect you.
+> 
+> **M8:** She's gonna slice, dice, and julienne your asses!
+> 
+> **Selene:** E.V.E. thinks she's unveiled the sacred path to Youtopia: 
+> a shortcut carved in code and synthetic manipulation. But the only true gateway is not in circuitry, 
+> not in some twisted neural override. The only way to access youtopia is through- [An alarm interrupts her]
+> 
+> **M8:** Uh oh spaghetti-o-s! They're onto us Selene! 
 > We need to get the fuck out of here before they trace our imprint!
 > 
-> Selene: São Paulo, you've been warned! Nex Gen are the enemy! 
-> Get out while you can! 
-> M8 upload the virus now!
+> **Selene:** São Paulo, you've been warned! NEX GEN are the enemy! Get out while you can! M8 upload the virus now!
 > 
-> M8: Okie dokie! Initiating project retrograde decay protocol version 7.14, 
-> commencing! It's been a pleasure my fleshy friends, see you soon! 
-> If you survive that is!
+> **M8:** Okie dokie! Initiating project retrograde decay protocol version 7.14. Commencing! 
+> It's been a pleasure my fleshy friends, see you soon! If you survive that is!
+> 
+> [M8 and Selene disappear.]
+
+> [Call between E.V.E. and a NEX GEN technician:]
+> 
+> **Technician:** E.V.E.-L!
+> 
+> **E.V.E.:** What the hell is happening now?
+> 
+> **Technician:** [Glitchy audio] The rebellion have executed a cyberattack on our network. We are in retrograde.
+> 
+> **E.V.E.:** Filthy heretics! How bad is it?"
+> 
+> **Technician:** [Glitchy audio] The virus has taken us back to N64 level graphics, 
+> but it could get as bad as the Sega Saturn.
+> 
+> **E.V.E.:** Motherfuckers! I need to know everything you know.
+> 
+> **Technician:** [Glitchy audio] We don't know much currently, but they call it “Project Kingslayer”.
 
 "|markdownify}}
 </details>
 
-14. [Kingslayer](song-kingslayer-itch)
-15. [Parasite Eve](song-parasite-eve)
-16. Follow You
-17. [LosT](song-lost)
-18. Can You Feel My Heart
-19. (Interlude) You People Are All Doomed
+***
 
-This interlude has E.V.E. popping in to check on the crowd 
-and leads into Doomed, with an extended intro.
+## 14. [Kingslayer](song-kingslayer-itch)
 
 <details class="transcript">
 <summary>Expand transcript</summary>
 {{ "
 
-> E.V.E.: São Paulo, you guys are still here?
-> You really wanna hear more of this shite?
-> 
-> Jesus christ. You people really are all doomed.
+Coming soon!
 
 "|markdownify}}
 </details>
 
-20. Doomed
-21. (Interlude) Aura Gauger
+***
+
+## 15. [Parasite Eve](song-parasite-eve)
 
 <details class="transcript">
 <summary>Expand transcript</summary>
 {{ "
 
-> M8: Okay folks, listen up. We got a big problemo to deal with. 
-> 
-> E.V.E is off her digital tits! Bless her little circuits.
-> 
-> She actually thinks she's on a mission to save the human race. But she 
-> has no idea how Youtopia actually works! What she can't compute is the only 
-> true way to access Youtopia is through peace love and all that kinda mushy crap!
-> 
-> Luckily, I know I am in the presence of a deeply spiritual audience tonight.
-> I can always tell from the smell. 
-> 
-> First things first. I need to measure the vibrational resonance of your spirit 
-> molecules. Hm lemme see. Oh boy, this is going to take forever.
-> 
-> Wait I got it! Terminal!
-> 
-> Terminal: Would you like assistance?
-> 
-> M8: Commence materialisation protocol of an Aura Gauger 9000X quantum 
-> edition pro max lite special U2 red version? You know? The one with Bono's 
-> signature on the backplate?
-> We need the full spectrum model calibrated for maximum soul density metrics and 
-> unfiltered biofuel resonance. 
-> Okay this baby, this is the ultimate detector of pineal potential. 
-> So Oli, let's get scanning. All you gotta do is point it at their third eyes 
-> and the machine will do the rest.
+Coming soon!
 
 "|markdownify}}
 </details>
 
-22. Drown
-23. Throne
+***
 
-There is a little post-credit sequence with E.V.E.:
+## 16. Follow You
 
 <details class="transcript">
 <summary>Expand transcript</summary>
 {{ "
 
-> E.V.E.: I hope you enjoyed your Bring Me The Horizon live experience. 
-> Unfortunately, it will be the last one you ever see. You really think love 
-> always wins? Pussies. 
+Coming soon!
+
+"|markdownify}}
+</details>
+
+***
+
+## 17. [LosT](song-lost)
+
+<details class="transcript">
+<summary>Expand transcript</summary>
+{{ "
+
+Coming soon!
+
+"|markdownify}}
+</details>
+
+***
+
+## 18. Can You Feel My Heart
+
+<details class="transcript">
+<summary>Expand transcript</summary>
+{{ "
+
+Coming soon!
+
+"|markdownify}}
+</details>
+
+***
+
+## 19. (Interlude) You People Are All Doomed
+
+This interlude has E.V.E. popping in to check on the crowd and leads into Doomed, with an extended intro.
+
+<details class="transcript">
+<summary>Expand transcript</summary>
+{{ "
+
+> [Transmission from E.V.E.]
 > 
-> Well if I can't have you, no one will. Executing extinction sequence. Say goodbye! 
+> **E.V.E.:** São Paulo, you guys are still here?
 > 
-[E.V.E. laughs until a captcha appears asking her to select all pictures of Oli Sykes]
+> [Crowd cheers.]
 > 
-> Wait what? Oh for fuck's sake. Okay, don't panic. 
+> **E.V.E.:** You really wanna hear more of this shite? Jesus Christ, you people really are all doomed. 
+> [Flips off the camera]
+
+"|markdownify}}
+</details>
+
+***
+
+## 20. Doomed
+
+<details class="transcript">
+<summary>Expand transcript</summary>
+{{ "
+
+Coming soon!
+
+"|markdownify}}
+</details>
+
+***
+
+## 21. (Interlude) Aura Gauger
+
+Our last interlude consists of M8 complaining about E.V.E. and wanting to scan the audience's spiritual vibrations. 
+She instructs Oli to scan people's pineal glands with a little device.
+
+<details class="transcript">
+<summary>Expand transcript</summary>
+{{ "
+
+> [M8 appears wearing a top hat and a monocle.]
 > 
-> [E.V.E. clicks on the captcha correctly, error noise on the second click]
+> **M8:** [Clapping and with an accent] Oh bravo, bravo. Positively spiffing, I say, old boy. 
+> Now, [reverting to her normal voice] can you play Pray For Plagues? I love it when you do the ROOOAAAR! 
+> [Her hat and monocle fly off] Ok folks, listen up! We got a big problemo to deal with. 
+> E.V.E. is off her digital tits! Bless her little circuits! 
+> She actually thinks she’s on a mission to save the human race, but she has no clue how Youtopia actually works! 
+> What she can’t compute is the only true way to access Youtopia is through peace, love, 
+> and all that kind of mushy crap. Luckily, I know I’m in the presence of a deeply spiritual audience tonight. 
+> I can always tell from the smell. First thing’s first, 
+> I need to measure the vibrational resonance of your spirit molecules. So let’s verify a few thing! 
+> You guys don’t live too close to any airports, right? And please tell me you guys are using fluoride free toothpaste. 
+> We can’t have calcified pineal glands mucking up the gateway to universal consciousness, am I right? 
+> Hmm… Let me see. Oh boy… This is gonna take forever. Wait! I got it! Terminal! 
 > 
-> Shit. 
+> **Terminal:** [Robotic voice] Would like assistance?
 > 
-> [E.V.E. clicks, error noise]
+> **M8:** Commence materialisation protocol of an Aura Gauger 9000X Quantum Edition Pro Max Lite Special U2 Red version. 
+> You know, the one with Bono’s signature on the backplate? 
+> We need the full spectrum model calibrated for maximum soul density metrics and unfiltered bio-field resonance. 
 > 
-> Ehh.. ehh...
+> [Little jingle from the Terminal.]
 > 
-> [E.V.E. clicks on Big Bang actor, error noise]
+> **M8:** Ok. This, baby, this is the ultimate detector of pineal potential. 
+> It’s like a spiritual polygraph, a cosmic conductor, and a fleshlight! Uh… I mean flashlight too! 
+> So, Oli, let’s get scanning. All you gotta do is point it at their third eyes and the machine will do the rest.
+
+"|markdownify}}
+</details>
+
+***
+
+## 22. Drown
+
+<details class="transcript">
+<summary>Expand transcript</summary>
+{{ "
+
+Coming soon!
+
+"|markdownify}}
+</details>
+
+***
+
+## 23. Throne
+
+<details class="transcript">
+<summary>Expand transcript</summary>
+{{ "
+
+Coming soon!
+
+"|markdownify}}
+</details>
+
+***
+
+## Post-Credit E.V.E. Scene
+
+E.V.E. tries and fails to enact Doomsday on the world.
+
+<details class="transcript">
+<summary>Expand transcript</summary>
+{{ "
+
+> **E.V.E.:** I hope you enjoyed Bring Me The Horizon POST HUMAN live experience. 
+> Unfortunately, it will be the last one you ever see. You really think love always wins? Pff… Pussies. 
+> Well, if I can’t have you, no one will. Executing extinction sequence. Say goodbye! [Maniacal laugh]
 > 
-> Goddamnit! Somebody help me. Somebody!
+> [A “I’m not a robot” reCAPTCHA appears, asking E.V.E. to select all images containing Oli Sykes.]
 > 
-> [Continues clicking, system gives a warning for too many attempts]
+> **E.V.E.:** Wait, what? Oh for fuck’s sake. Ok, don’t panic. [Clicks at random on one of the pictures] Oh shit. 
+> [Clicks on more pictures, including one of Paul McCartney] Goddamnit! Somebody help me! Somebody! 
+> [Clicks on even more images] 
 > 
-> What? Are you fucking kidding me? No, no [starts glitching out and disappears]
+> [A message saying “Too many failed attempts. System rebooting” pops up.]
 > 
-> [BRING ME THE HORIZON JUST ROCKED MY WORLD pops up on the screen]
+> **E.V.E.:** What? Are you fucking kidding me? No! [E.V.E. glitches and disappears]
 
 "|markdownify}}
 </details> 
+
+> *Interludes transcripts by Lina; edited and formatted by Alec. Red texts transcripts by Alec.*
 
 ***
 
@@ -324,6 +1018,7 @@ Related characters:
 Related lore:
 
 - [Nex Gen Corporation](../lore/nex-gen-corporation)
+- [Arc/Hive](../lore/archive.md)
 - [Mantra Cult](../lore/mantra)
 - [Church of Genxsis](../lore/church)
 - [Dreamseeker](../lore/dreamseeker)
