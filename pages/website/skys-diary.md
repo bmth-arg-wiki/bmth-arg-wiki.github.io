@@ -24,6 +24,8 @@ Skys' scrapbook is an app on the website that contains diary entries from a youn
 start around the time Skys is kicked out by his parents at the age of 8 and flees to Ingleterra from his home country of 
 [Novosovia](../lore/novosovia).
 
+There are currently 6 released entries, with 2 entries inaccessible.
+
 ***
 
 ## Entries
@@ -178,7 +180,7 @@ Transcript by Alec.
 Entry 4 uses a "Simon Says" puzzle too, being released and solved along with entry 3.
 
 <details class="transcript">
-<summary>Transcription Entry 3</summary>
+<summary>Transcription Entry 4</summary>
 
 {{ "
 
@@ -205,6 +207,104 @@ Entry 4 uses a "Simon Says" puzzle too, being released and solved along with ent
 > my bones echo with him. I think maybe this is what a real connection feels like? Like bein carved into. i Think it just cause i dont have capacity for Love. I need to be hollowed out to make room. he say im close, say im changing. say im almost pure. i say nothin but inside i'm asking questions.
 >
 > if this is power, why do I feel like prey?
+
+" | markdownify }}
+</details>
+
+### Entry 5
+
+![Skys' fifth diary entry](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/skys-scrapbook/01-skysdiary5.png)
+
+Page 5 and 6 share a simple puzzle. Click page 6 to scatter some shady looking objects around the journal. 
+Their names are: arm pin, finger clamp, mind scalpel, leg brace, spine drill and saw scissors. 
+Click on page 5 to open up the puzzle and click each object into place. Press "activate mechanism" to 
+unlock both pages.
+
+![Puzzle for page 5 & 6](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/skys-scrapbook/page-5-6-puzzle.png)
+
+<details class="transcript">
+<summary>Transcription Entry 5</summary>
+{{ "
+
+> [Left page:]
+>
+> It's Strange, this feeling that wriggles inside me
+>
+> Alby's taught me more Than anyone ever has. He sees me, says he cares.
+>
+> can a smile stretch too wide? can a blanket smother? they talk about magic like it's sacred. wise.
+>
+> But sometimes it feels sly. like it's wrappin it's hands around my froat throat gripping tight and calling it a hug
+>
+> Alby shows me things, calls me his treasure, his secret his flame
+>
+> Should that not feel good? inside, there's this voice. Quiet. Honest. Afraid.
+> 
+> [Right page:]
+>
+> I know im just ungrateful I should practice gratitude
+>
+> be grateful someone seees me. wants me. maybe thats why i feel so worng for thinkin bad thoughts. dark ones. Ones that curl up in 
+>
+> and die in my belly and whisper with their final breath 'Run' I Don't know what to do. But i Do know this...
+>
+> i dont want to go to his Tent tonight. Not again. sometimes i fake sleep. hold my breath. try to vanish.
+>
+> but his hands always find me.
+>
+> shoulder. Arm. too Low. Too Long. I wonder if i sleep outside. the fae will save. me. or eat me. either way...
+>
+> you can't hate something need it too.
+>
+> life cant have that sick a sense of humur
+>
+> can it?
+
+" | markdownify }}
+</details>
+
+### Entry 6
+
+![Skys' sixth diary entry](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/skys-scrapbook/01-skysdiary6.png)
+
+
+<details class="transcript">
+<summary>Transcription Entry 6</summary>
+
+{{ "
+
+> [Left page:]
+>
+> Night take me like a black osean swallowin me whole. dont look back. Alby's tent is far away now
+>
+> But I still feel... his ghost still hanging on my skin stickin to me like a wet tongue. won't wash no matter how 
+> hard i scrub still hearin him in my ear. still feelin his breath like rot. when he said he was going to bless me.
+>
+> But it didn't feel like no blessin. It felt like Filth crawl'd into my arteries. like a heart worm that couldn't get Full.
+>
+> Now i sit in the trees Dark all around Sky open above. stars lookin down Fukin judgin me.
+>
+> I shake but its not the cold. it's what i done.
+>
+> [Right page:]
+>
+> i still see it. clear as sun. though there weren't no light inside that tent His face when i turned it on him. 
+> the bind he taught me. used it to freeze him. Just like all the times he freezed me. For once... HE was powerless. HE was afraid
+>
+> like a child who lost at playing god my hand found his cross. the one he always wore heavy. metal. cold. i pushed into his eye. 
+> soft sound, like crushin fruit.
+>
+> wet and ugly. i twisted it burst. thick. hot. dark. like honey left in the sun. then the other eye. i don't stop. 
+> i don't know how to stop. they came for me, his people. the ones who saw and said nothing. Except 'Be still'. 'Be his'
+>
+> i ran. took one down. blade in his throat. watched it all come out. like a swan in reverse. it felt cold in a way i wont forget. 
+> but warm in way that scares me if i sit with it too long.
+>
+> Took his white horse. Bolted. I dont know if im free. one thing for sure. I cant go back. Not to that prison. not to 
+> who i was before i did this.
+>
+> Open the veil
+
 " | markdownify }}
 </details>
 
