@@ -14,7 +14,7 @@ This page provides an overview of all music-related articles.
 
 ## Albums
 
-{% assign page_links = '/pages/music/amo, /pages/music/ph-survival-horror, /pages/music/ph-nex-gen, /pages/music/lofiles' | split: ", " %}
+{% assign page_links = '/pages/music/amo, /pages/music/ph-survival-horror, /pages/music/ph-nex-gen, /pages/music/lofiles, /pages/music/sao_paulo_live' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 These albums have been found to contain some lore relevance and have more information about them available. 
