@@ -38,13 +38,14 @@ information as much as possible and indicate whenever something is not confirmed
 
 {% include content/info.html
 title="Latest updates"
-content="The latest updates have been made on 15-03-2026. The latest update contained a third version of the museum! :)"
+content="The latest updates have been made on 19-04-2026. The latest update contained a new advent calendar and two new 
+pages for Skys' diary. Slightly before that, we got some promotion for Count Your Blessings Repented in the museum."
 %}
 
 The wiki has grown to over 100+ pages, growing regularly with updates from [our small team](pages/about). 
 These are the newest (or most recently expanded) pages on our wiki!
 
-{% assign page_links = '/pages/for-sof/museum, /pages/website/skys-diary, /pages/website/dressup_m8, /pages/website/emulator-worm, /pages/for-sof/survival-horror-anniversary, /pages/for-sof/artifacts' | split: ", " %}
+{% assign page_links = '/pages/website/advent, /pages/music/sao_paulo_live, /pages/for-sof/museum, /pages/website/skys-diary' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ***
