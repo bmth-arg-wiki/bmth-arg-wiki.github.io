@@ -22,16 +22,19 @@ Church of Genxsis booth at NexFest Tokyo.
 
 ## Backstory
 
-![Website screenshot](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/church/church_sof_journal.png)
+![Website screenshot](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/church/church_sof_journal.png)
 
 According to [Sof](../characters/sof)'s [journal](../website/journal), Genxsis is a secretive, corporate-backed offshoot 
-from the Neosages, also known as the [Mantra cult](mantra). Most of what we learn about the cult comes from 
-[Unbeleevable episodes 1](../for-sof/unbeleevable) and [2](../for-sof/unbeleevable2).
+from the Neosages, also known as the [Mantra cult](mantra). Sof states that it is likely that the cult started within 
+the company that would become [Nex Gen](nex-gen-corporation), [Arc/Hive](archive). The research [Skys](../characters/skys) 
+carried out in [Novosovia](novosovia) was used for the cult, connecting their practices to [ecliptism](ecliptism). 
 
-From flyers and posts we know that the Church focuses on unity and does not care much for 
+[Dr. Lee](../characters/lee-md) exposes the cult in his [Unbeleevable episodes](../for-sof/unbeleevable).
+He also hints at Nex Gen's involvement with the cult.
+
+From flyers and posts (from events) we know that the Church focuses on unity and does not care much for 
 independent thought. They want to achieve a next step for humanity through mutation, aligning nicely with 
-Nex Gen's reputation of experimenting on people. From the documents left for Sof it becomes clear that the 
-history of these experiments goes a lot further back.
+Nex Gen's inclination to experiment on people.
 
 ***
 
@@ -76,12 +79,12 @@ There are four possible results from the personality test:
 
 > **Logic Dweller**
 > 
-> Logic is thine guiding light and it burns brightly within thine chest while the school of thought acts as thy beacon of judgement. Ye take precious time, to think and meditate in calm and focused serenity on the choices of lifeâ€™s pathways. Each option is weighed on the scales of truth and righteousness. Not without wrongs and mistakes as ye dwell on deep contemplation, however thy focus has never been of saint, but of the wise, humbled direction and focus.
+> Logic is thine guiding light and it burns brightly within thine chest while the school of thought acts as thy beacon of judgement. Ye take precious time, to think and meditate in calm and focused serenity on the choices of life's pathways. Each option is weighed on the scales of truth and righteousness. Not without wrongs and mistakes as ye dwell on deep contemplation, however thy focus has never been of saint, but of the wise, humbled direction and focus.
 
 ### Other website content
 
 The following two images also appear on the website, they are
-labeled as `key.png` and `pgminev1973.png` respectively.
+labelled as `key.png` and `pgminev1973.png` respectively.
 
 ![key.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/genxsis.faith/key.png)
 ![pmginev1973.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/genxsis.faith/pmginev1973.png)
@@ -126,6 +129,9 @@ from the Church of Genxsis to the announcement channel:
 
 > Transcendence or damnation, thy wish is thy wish #BRITsVoteBMTH
 
+Alfred Ingram Winter also appears on genxsis.faith, although he is never explicitly mentioned in the ARG and 
+it is unconfirmed whether he is canon.
+
 ***
 
 ## Live shows
@@ -153,7 +159,7 @@ Related lore:
 - [Novosovia](novosovia)
 - [DTC](dtc)
 - [Downloadfest](downloadfest)
-- [Genesis Storyline](genesis-storyline) (canonicity unknown)
+- [Genesis Storyline](genesis-storyline) (not canon)
 
 Related music:
 

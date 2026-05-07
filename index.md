@@ -38,14 +38,15 @@ information as much as possible and indicate whenever something is not confirmed
 
 {% include content/info.html
 title="Latest updates"
-content="The latest updates have been made on 19-04-2026. The latest update contained a new advent calendar and two new 
-pages for Skys' diary. Slightly before that, we got some promotion for Count Your Blessings Repented in the museum."
+content="The latest updates have been made on 07-05-2026, to correct and expand on the Church of Genxsis article.
+The latest website update contained a new advent calendar and two new pages for Skys' diary. Slightly before that, 
+we got some promotion for Count Your Blessings Repented in the museum."
 %}
 
 The wiki has grown to over 100+ pages, growing regularly with updates from [our small team](pages/about). 
 These are the newest (or most recently expanded) pages on our wiki!
 
-{% assign page_links = '/pages/website/advent, /pages/music/sao_paulo_live, /pages/for-sof/museum, /pages/website/skys-diary' | split: ", " %}
+{% assign page_links = '/pages/lore/church, /pages/website/advent, /pages/music/sao_paulo_live, /pages/for-sof/museum, /pages/website/skys-diary' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ***
