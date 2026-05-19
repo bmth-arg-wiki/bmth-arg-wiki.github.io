@@ -31,7 +31,7 @@ in on different portions of it.
 
 ## Document contents
 
-{% include gallery.html folder="files/science_study/gallery" %}
+{% include gallery-nav.html folder="files/science_study/gallery" %}
 
 ***
 
@@ -199,8 +199,8 @@ it? □
 grave
 </details>
 
-This password was found in the [music player](../website/website#website-songs). The song
-Wrist has an anagram for the password in the song information.
+This password was found in the [music player](../website/website-songs). The song
+Wrist used to have an anagram for the password in the song information in the [old version of the dashboard](../website/website-v1).
 
 ***
 

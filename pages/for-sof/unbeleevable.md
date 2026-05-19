@@ -38,7 +38,7 @@ The story from this file continues in [Episode 2](unbeleevable2).
 The video the email is referring to is a video of Lee speaking about the Mantra
 cult. Within the ARG, this is broadcasted by Community Resource Analog Program (CRAP).
 
-{% include gallery.html folder="files/unbeleevable/gallery" %}
+{% include gallery-nav.html folder="files/unbeleevable/gallery" %}
 
 ***
 

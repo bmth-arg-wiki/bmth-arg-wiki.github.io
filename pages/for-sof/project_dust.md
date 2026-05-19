@@ -46,7 +46,7 @@ switched. As of December 2024, it does not require a password anymore.
 
 ### Gallery
 
-{% include gallery.html folder="files/project_dust/gallery" %}
+{% include gallery-nav.html folder="files/project_dust/gallery" %}
 
 ***
 

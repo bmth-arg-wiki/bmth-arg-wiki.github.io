@@ -26,7 +26,7 @@ him on the 31st. We learn more about what happened to [Scott](../characters/scot
 
 ## Document contents
 
-{% include gallery.html folder="files/scott_diary/gallery" %}
+{% include gallery-nav.html folder="files/scott_diary/gallery" %}
 
 ***
 

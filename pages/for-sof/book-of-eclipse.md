@@ -30,11 +30,11 @@ It is locked behind a mathematics puzzle in the inventory folder.
 
 ### Originals
 
-{% include gallery.html folder="files/book-of-eclipse/original" %}
+{% include gallery-nav.html folder="files/book-of-eclipse/original" %}
 
 ### Clearer text
 
-{% include gallery.html folder="files/book-of-eclipse/readable" %}
+{% include gallery-nav.html folder="files/book-of-eclipse/readable" %}
 
 ***
 

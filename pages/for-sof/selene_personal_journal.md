@@ -25,7 +25,7 @@ might be 18 at the time of the pandemic since she is 19 in 2038.
 
 ## Document contents
 
-{% include gallery.html folder="files/selene_diary/gallery" %}
+{% include gallery-nav.html folder="files/selene_diary/gallery" %}
 
 From her diary we learn a little about her family. Her mom is nodding off on "soms", likely a drug, 
 in front of the TV. However, she does suggest to Selene's father that they stock up on supplies. 

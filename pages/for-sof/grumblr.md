@@ -36,7 +36,7 @@ one and the file now showed us [Rebecca](../characters/rebecca)'s Grumblr page.
 
 ### Gallery
 
-{% include gallery.html folder="files/grumblr/gallery" %}
+{% include gallery-nav.html folder="files/grumblr/gallery" %}
 
 ***
 

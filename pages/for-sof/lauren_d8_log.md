@@ -36,7 +36,7 @@ An analysis in simpler English can be found [here](analysis/lauren_d8_log_analys
 
 ### Gallery 
 
-{% include gallery.html folder="files/lauren_d8_log/gallery" %}
+{% include gallery-nav.html folder="files/lauren_d8_log/gallery" %}
 
 ***
 

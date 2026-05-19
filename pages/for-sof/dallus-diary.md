@@ -44,7 +44,7 @@ The file is available in the [FOR SOF](../for-sof/for-sof) folder, and was relea
 
 ## Gallery
 
-{% include gallery.html folder="files/dallus-diary/gallery" %}
+{% include gallery-nav.html folder="files/dallus-diary/gallery" %}
 
 ***
 
