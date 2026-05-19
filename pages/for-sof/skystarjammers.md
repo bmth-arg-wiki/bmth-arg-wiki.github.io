@@ -19,13 +19,15 @@ next_text: "Nex Gen leak 'UNBELEEVABLE'"
 This file contains a poster of Skys and his band, 'Skys and the Starjammers', 
 with the filename seemingly missing an S in Skys. The poster promotes an important event in the 
 history of the [cult of Mantra](../lore/mantra), a concert at October Palace at the 19th of October 2004. 
-Most of the information we learn about this event comes from [Unbeleevable Episode 2](unbeleevable2). 
+Most of the information we learn about this event comes from [Unbeleevable Episode 2](unbeleevable2).
+
+![Poster for Skys & the Starjammers at October Palace in 2004](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/refs/heads/main/files/skys_starjammers/sky.png)
 
 Skys was gaining popularity with his band and had some ideas some would consider insane, but [Strassman](../characters/strassman) 
 figured they could rival his own ideas for cutting edge research, even though Skys was not scientifically educated. 
 Interested, he pressured his companion [Dallus Lauren](../characters/dallus-lauren) to join him. At the concert that evening, 
 Strassman met a woman named Ava. They ended up falling in love and having a child named Angel together. Strassman and 
-Lauren also brought their assistant Ro, who Skys did something to in order to get attention from the attendees. 
+Lauren also brought their assistant Ro, who Skys did something unexplainable to get attention from the attendees. 
 This event convinces the three to start working together, setting the events around the Neosages/cult of Mantra into motion.
 
 ***
