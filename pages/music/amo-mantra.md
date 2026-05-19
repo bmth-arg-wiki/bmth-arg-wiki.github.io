@@ -33,7 +33,7 @@ available on the internet, but you can learn more about it in the [cult article]
 
 ## Official Material
 
-{% include content/buttons/button-danger.html text="Official MV" link="https://www.youtube.com/watch?v=Thazgd1HFus" %}
+{% include content/buttons/button-danger.html text="Official MV" link="https://www.youtube.com/watch?v=VAXg78MKJcM" %}
 {% include content/buttons/button-danger.html text="Director's cut" link="https://www.youtube.com/watch?v=5-CKodNY41Y" %}
 
 <details class="lyrics">
