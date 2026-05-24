@@ -12,12 +12,22 @@ The story of Post Human has gotten quite extensive, spanning many generations. O
 and people have been asking for a full recap of the story, so here it is! Since the story is quite long, this one has been turned 
 into a PDF so you can also read it on the go.
 
+***
+
 ## Story Recap
 
 {% include pdf-frame.html
   src="/assets/pdf/BMTH_Lore_Recap.pdf"
   title="Bring Me The Horizon story explained"
 %}
+
+{% include content/buttons/button-info.html 
+  text="Download the PDF" 
+  link="/assets/pdf/BMTH_Lore_Recap.pdf" 
+  icon="fa fa-download"
+%}
+
+***
 
 # Read More
 
