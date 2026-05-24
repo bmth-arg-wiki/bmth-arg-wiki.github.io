@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Youtopia"
+title: "Welcome to BMTH's lore"
 description: "Welcome to this fan-made wiki about BMTH's Nex Gen ARG. We catalogue 
 all the files, write about the lore and provide a spoiler-free walkthrough with hints."
 tags: ["lore", "for sof", "sof", "selene", "documents", "passwords", "rain", "birth",
@@ -15,14 +15,14 @@ tags: ["lore", "for sof", "sof", "selene", "documents", "passwords", "rain", "bi
 image: "/Resources/webpage/webpage-overview.png"
 ---
 
-# Home
+# Welcome to the BMTH lore wiki!
 
 {% include content/info.html 
 title="Where love is the law, a Youtopia" 
 icon="fa-solid fa-heart"
-content="Welcome to the Bring Me The Horizon ARG Wiki! We are here to help you get started." 
+content="Welcome to the Bring Me The Horizon ARG Wiki! We are here to help you get started. 
+If you are completely new here, we recommend you start with the [story recap]([ages/lore/story-recap)." 
 %}
-
 
 This wiki centers all around the mysteries around the album [POST HUMAN: NeX GEn](pages/music/ph-nex-gen). 
 The Alternate Reality Game, or ARG, is currently still developing and so is [the team](pages/about). 
@@ -38,26 +38,32 @@ information as much as possible and indicate whenever something is not confirmed
 
 {% include content/info.html
 title="Latest updates"
-content="The latest updates have been made on 07-05-2026, to correct and expand on the Church of Genxsis article.
-The latest website update contained a new advent calendar and two new pages for Skys' diary. Slightly before that, 
-we got some promotion for Count Your Blessings Repented in the museum."
+content="HAPPY BIRTHDAY NEX GEN ALBUM! 🎂
+The latest change were made on 24-05-2026. While we have not had much new lore recently, 
+we wanted to bring you something anyway. We hope you love the story recap!"
 %}
 
 The wiki has grown to over 100+ pages, growing regularly with updates from [our small team](pages/about). 
 These are the newest (or most recently expanded) pages on our wiki!
 
-{% assign page_links = '/pages/lore/church, /pages/website/advent, /pages/music/sao_paulo_live, /pages/for-sof/museum, /pages/website/skys-diary' | split: ", " %}
+{% assign page_links = '/pages/lore/story-recap, /pages/lore/church, /pages/website/advent, /pages/music/sao_paulo_live, /pages/for-sof/museum, /pages/website/skys-diary' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ***
 
 ## Overviews
 
+{% include content/info.html 
+title="Where love is the law, a Youtopia" 
+icon="fa-solid fa-info"
+content="If you are new, we recommend you start with the story recap! There is so much to explain." 
+%}
+
 The wiki contains many pages documenting the website (including older versions), files distributed digitally and 
 in-person, characters and the ARG universe and the interesting concepts within. You can find all of our articles 
 linked in these overview pages.
 
-{% assign page_links = '/pages/website/website, /pages/for-sof/for-sof, /pages/characters/characters, /pages/lore/lore, /pages/music/music, /pages/fanart/fanart' | split: ", " %}
+{% assign page_links = '/pages/lore/story-recap, /pages/website/website, /pages/for-sof/for-sof, /pages/characters/characters, /pages/lore/lore, /pages/music/music' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ***

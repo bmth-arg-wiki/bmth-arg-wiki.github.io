@@ -21755,6 +21755,12 @@ a .button .is-primary {
   color: #b120d9;
 }
 
+iframe .pdf-frame {
+  width: max-content;
+  min-height: 80vh;
+  border: 0;
+}
+
 body,
 footer {
   background-color: #f5f9f9;
