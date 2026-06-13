@@ -90,10 +90,29 @@ document.addEventListener('DOMContentLoaded', () => {
         modalImg.src = images[currentIndex];
     }
 
+    function handleKeydown(event) {
+    if (!modal.classList.contains('is-active')) return;
+
+    switch (event.key) {
+        case 'ArrowRight':
+            showNext();
+            break;
+
+        case 'ArrowLeft':
+            showPrev();
+            break;
+
+        case 'Escape':
+            closeModal();
+            break;
+        }
+    }
+
     nextBtn.addEventListener('click', showNext);
     prevBtn.addEventListener('click', showPrev);
     modalClose.addEventListener('click', closeModal);
     modalBg.addEventListener('click', closeModal);
+    document.addEventListener('keydown', handleKeydown);
 
     // Load all galleries independently
     const galleries = document.querySelectorAll('.image-gallery-nav');
