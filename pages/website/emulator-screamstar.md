@@ -53,7 +53,7 @@ The intro to the album, [Dreamseeker](../music/song-dreamseeker), [P.U.S.S-E](..
 
 ## Gallery
 
-{% include gallery.html folder="other-webpages/screamstar/gallery" %}
+{% include gallery-nav.html folder="other-webpages/screamstar/gallery" %}
 
 ***
 

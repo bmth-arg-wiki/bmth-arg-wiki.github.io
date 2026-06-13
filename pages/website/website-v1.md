@@ -86,7 +86,7 @@ serial number we used to access the webpage.
 
 ### Website Backgrounds
 
-{% include gallery.html folder="webpage/gallery" %}
+{% include gallery-nav.html folder="webpage/gallery" %}
 
 Before its big makeover, the website used to have a few wallpapers that you could rotate to your liking.
 

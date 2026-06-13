@@ -21,7 +21,7 @@ or the wall.
 
 ## Gallery
 
-{% include gallery.html folder="webpage/emulator/worm/gallery" %}
+{% include gallery-nav.html folder="webpage/emulator/worm/gallery" %}
 
 ***
 

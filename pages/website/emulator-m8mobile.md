@@ -52,7 +52,7 @@ being subtracted at least for taking damage.
 
 ## Gallery
 
-{% include gallery.html folder="webpage/emulator/m8mobile/gallery" %}
+{% include gallery-nav.html folder="webpage/emulator/m8mobile/gallery" %}
 
 ***
 

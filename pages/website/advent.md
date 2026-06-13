@@ -21,7 +21,7 @@ It also contains an older version of [M8](../m8) when opened far enough into the
 
 ## App Contents
 
-{% include gallery.html folder="webpage/advent/gallery" %}
+{% include gallery-nav.html folder="webpage/advent/gallery" %}
 
 <details class="transcript">
 <summary>Transcription of images</summary>
