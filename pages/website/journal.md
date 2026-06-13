@@ -25,7 +25,7 @@ It belongs to [Sof](../characters/sof), who tries their best to chronicle what t
 
 ## Gallery
 
-Coming soon!
+{% include gallery-nav.html folder="webpage/journal/gallery" %}
 
 ***
 
