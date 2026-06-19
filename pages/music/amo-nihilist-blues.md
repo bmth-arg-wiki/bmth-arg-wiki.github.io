@@ -4,6 +4,7 @@ categories: ["music"]
 description: "The song nihilist blues from the album amo."
 tags: ["amo", "music", "nihilist blues", "nihilist", "blues"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/amo/album_cover_300.png"
+tags: ["bmth", "bring me the horizon", "amo", "arg", "mantra", "nihilist blues", "grimes"]
 previous: "music/amo-mantra"
 previous_text: "MANTRA"
 next: "music/amo-in-the-dark"
@@ -67,7 +68,7 @@ At 3:57 in the  [lyric video](https://www.youtube.com/watch?v=iwzfR7-33Wc) we se
 
 When we zoom in, the message it becomes clearer:
 
-![zoomed](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/amo/nihilist-blues/b_secretmessagezoomed.png)
+![Zoomed in version of secret message](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/amo/nihilist-blues/b_secretmessagezoomed.png)
 
 > Angel crashes through mans window dystopian world
 > 
@@ -81,3 +82,24 @@ When we zoom in, the message it becomes clearer:
 
 An interesting revenge story is laid out here, talking about cyborg parts 
 and angels. It is currently unclear whether this story is about one of our ARG characters.
+
+***
+
+## Read more
+
+Relevant music articles:
+
+- [amo](amo)
+- [MANTRA](amo-mantra)
+- [in the dark](amo-in-the-dark)
+- [sugar, honey, ice and tea](amo-shit)
+
+Possibly relevant lore & character articles:
+
+- [Angeldust](../characters/angeldust)
+- [Lore booklet](../lore/booklet)
+- Archangels [Raphael](../characters//raphael), [Gabriel](../characters//gabriel) [Michael](../characters/michael) and [Uriel](.../characters/uriel)
+- [Youtopia](../lore/youtopia)
+- [The insights](../lore/insights)
+- [S.Y.N.T.H.S.](../lore/synths)
+- [Strassman](../characters/strassman)

@@ -3,6 +3,7 @@ title: "02. MANTRA"
 categories: ["music"]
 description: "The song MANTRA from the album amo."
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/amo/album_cover_300.png"
+tags: ["bmth", "bring me the horizon", "amo", "arg", "mantra", "project", "kingslayer", "skys", "unbeleevable", "lore", "victor", "carmine"]
 previous: "music/amo"
 previous_text: "amo"
 next: "music/amo-nihilist-blues"
@@ -83,7 +84,7 @@ You know it's easy to, so easy to believe
 
 ## Music Video Gallery
 
-{% include gallery.html folder="music/amo/mantra/gallery" %}
+{% include gallery-nav.html folder="music/amo/mantra/gallery" %}
 
 ***
 
@@ -107,6 +108,13 @@ The extended intro of Mantra offers us a little glimpse into the cult of Mantra.
 
 ## Read More
 
+Relevant music articles:
+
+- [amo](amo)
+- [nihilist blues ft. grimes](amo-nihilist-blues)
+- [in the dark](amo-in-the-dark)
+- [sugar, honey, ice and tea](amo-shit)
+
 Related files:
 
 - [Trinity document](../for-sof/trinity_document)
@@ -114,7 +122,7 @@ Related files:
 - [Unbeleevable Episode 2](../for-sof/unbeleevable2)
 - [Skys & the Starjammers poster](../for-sof/skystarjammers)
 
-Related Articles:
+Related lore articles:
 
 - [Mantra cult](../lore/mantra)
 - [ARC/HIVE](../lore/archive)

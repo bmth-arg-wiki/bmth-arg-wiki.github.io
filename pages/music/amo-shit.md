@@ -2,7 +2,7 @@
 title: "08. sugar honey ice & tea"
 categories: ["music"]
 description: "The song sugar honey ice & tea from the album amo."
-tags: ["sugar", "honey", "ice", "tea", ",mantra", "music"]
+tags: ["sugar", "honey", "ice", "tea", ",mantra", "music", "skys", "bring me the horizon", "bmth", "amo"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/amo/album_cover_300.png"
 previous: "music/amo-in-the-dark"
 previous_text: "04. in the dark"
@@ -78,13 +78,13 @@ Yeah we want it right now.
 
 ## Music Video Gallery
 
-{% include gallery.html folder="music/amo/shit/gallery" %}
+{% include gallery-nav.html folder="music/amo/shit/gallery" %}
 
 ***
 
 ## Speculation
 
-The [Mantra cult](../lore/mantra) logo appears at 1:50 in the [video](https://youtu.be/-iM83TiKdY0?si=TNJ5mDrcf8bUpikq). 
+The [Mantra cult](../lore/mantra) logo appears at 1:50 in the [video](https://youtu.be/-iM83TiKdY0). 
 
 ![mantra logo](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/amo/shit/gallery/q_mantralogo.PNG)
 
@@ -92,6 +92,14 @@ The [Mantra cult](../lore/mantra) logo appears at 1:50 in the [video](https://yo
 
 ## Read More
 
-Related articles:
+Relevant music articles:
+
+- [amo](amo)
+- [MANTRA](amo-mantra)
+- [nihilist blues ft. grimes](amo-nihilist-blues)
+- [in the dark](amo-in-the-dark)
+
+Related lore & character articles:
 
 - [Mantra cult](../lore/mantra)
+- [Skys](../characters/skys)
