@@ -106,6 +106,8 @@ clive
 The password refers to [M8](../m8)'s middle name, which is referenced in some lines she says
 in the sticky notes. Since the December 2024 update, the password is no longer needed to open the file.
 
+***
+
 ## Read More
 
 Related characters:

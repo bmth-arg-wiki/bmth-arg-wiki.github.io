@@ -20,11 +20,15 @@ next_text: "M8 Mobile"
 
 The image shown seems to contain several glowing numbers and a prompt to "Submit Answer".
 
+***
+
 ## About
 
 This mysterious game dropped on April 11th, taking a while to solve. On the 20th of August the
 game was updated, with a little star placed next to it. This made the numbers on the puzzle easier to read, which resulted
 in the puzzle being solved the same day.
+
+***
 
 ## Password Context
 
@@ -47,6 +51,8 @@ The numbers are glowing in a certain order!
 </details>
 
 Solving this puzzle unlocks the game [M8 mobile](emulator-m8mobile).
+
+***
 
 ## Read More
 

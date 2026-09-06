@@ -12,7 +12,7 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/ch
 
 The Downloadfest event introduced [the Church of Genxsis](church) and seems to hold lore significance.
 
----
+***
 
 ## genxsis.faith
 
@@ -27,7 +27,7 @@ The cypher can be obtained by clicking the symbol in the upper right corner.
 
 It is sometimes used to spell out "BRING ME THE HORIZON" (pictured above) or "NEX GEN" on current [promotional material](../socials).
 
----
+***
 
 ## Downloadfest on Social Media
 
@@ -39,7 +39,7 @@ This post also provided what seems to be an initial draft for the lore about the
 which is documented on the [Genesis Storyline page](genesis-storyline). This information does seem to conflict 
 with information later presented officially through Sof's [journal](../website/journal.md).
 
----
+***
 
 ## Read More
 

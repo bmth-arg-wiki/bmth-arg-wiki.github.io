@@ -107,7 +107,6 @@ Insight 3 is also associated with [Pickles](../characters/pickles).
 
 `purpose`
 </details>
-## Read More
 
 Before the update on December 4th 2024, this file used to be locked with a password.
 This password was obtained through the spectrogram of [[ost] p.u.s.s.-e](../music/song-pusse) shown above.

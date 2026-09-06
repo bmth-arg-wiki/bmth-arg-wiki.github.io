@@ -33,6 +33,8 @@ Additionally, (spi)ritual contains a spectrogram of four angels, likely referrin
 
 ![Spectrogram of (spi)ritual with low resolution angels](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/spectrograms/spectrogram-archangels.png)
 
+***
+
 ## [ost] puss-e
 
 This song not only contains the third insight, purpose, but also an image of what has been described as a 

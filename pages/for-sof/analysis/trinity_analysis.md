@@ -36,6 +36,8 @@ TL;DR: Arc/Hive Corporation wanted Dallus as a bio-engineer, possibly to design 
 Dreamseeker tanks. Since they supply the military, the government was willing to extract him, Strassman and Skys from Novosovia in Operation 
 Trinity.
 
+***
+
 ## Karl Strassman
 
 We know Karl ´Strassussy´ Strassman best from the codek file, where we learn that he is involved in experiments with 
@@ -50,6 +52,8 @@ of Mantra the drug. There are merch items, physical releases and promotional ima
 but no references have been made to this. This may have been another of Strassman's inventions.
 
 TL;DR: ARC/HIVE probably wanted Strassman to develop drugs.
+
+***
 
 ## Skys
 
@@ -73,6 +77,8 @@ He would likely have to change his name and still be useful for his powers.
 
 TL;DR: Skys is charismatic (but likely known to be problematic and also dead),
 has tons of useful knowledge, has special powers?
+
+***
 
 ## Sources
 

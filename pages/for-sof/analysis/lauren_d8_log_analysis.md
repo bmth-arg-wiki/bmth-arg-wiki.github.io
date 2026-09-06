@@ -27,6 +27,8 @@ We are doing a test for a system called D8 in the lab. This is just one entry do
 **Interpretation:**
 D8 seems to be a system designed for digitizing and archiving data. This is just some metadata about our file.
 
+***
+
 ## 00:01: Psychoemotional Reflection Sequence
 **00:01 – Psychoemotional Reflection Sequence:**
 
@@ -176,6 +178,8 @@ D8 comments that Lauren is likely speaking about his father in this way to cope 
 **Interpretation:**
 Lauren is very stressed, experiencing negative emotions. He is likely reminiscing about his father, as we can tell from the activity in the associated brain regions.
 
+***
+
 ## 01:15 EVE Initialisation Report
 
 **01:15 EVE Initialisation Report:**
@@ -268,6 +272,8 @@ Lauren reads out the passage to EVE.
 **Interpretation:**
 As Lauren reads the passage, EVE’s algorithms allow it to show empathy in its response, matching the tone of the passage Lauren reads out. This implies that EVE is working well. Lauren’s stress levels are further decreased.
 
+***
+
 ## 02:00 Conclusion
 
 **Conclusion:**
@@ -287,6 +293,8 @@ In this final section, the results of the tests are summarized.
 D8 summarizes that the initial tests of EVE look good, and that continued monitoring and improvements are recommended. Lauren shows positive physiological responses and interaction with EVE’s systems.
 
 **End of Log Entry**
+
+***
 
 ## Read More
 

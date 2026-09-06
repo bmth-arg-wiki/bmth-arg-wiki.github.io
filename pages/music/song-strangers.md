@@ -80,6 +80,8 @@ the title: `sTraNgeRs`.
 " | markdownify }}
 </details>
 
+***
+
 ## Song release
 
 ![Release announcement 1/2](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/strangers/insta_2022_07_06_strangers_release.jpg)

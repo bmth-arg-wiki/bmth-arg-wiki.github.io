@@ -33,6 +33,8 @@ title="Editor's note"
 content="This article deals with triggering topics, like X."
 %}
 
+***
+
 ## Messages from fans
 
 For the fan art page, we designed a new component where people can leave their own messages. 
@@ -63,6 +65,8 @@ content="THIS IS A SUCCESS MESSAGE! very exciting but nothing actually needs thi
 color="success"
 %}
 
+***
+
 ## Buttons
 
 YouTube button styling:
@@ -84,6 +88,8 @@ Variations:
 {% include content/buttons/button-success.html text="Success" %}
 {% include content/buttons/button-warning.html text="Warning" %}
 
+***
+
 ## Secrets
 
 <details>
@@ -96,6 +102,8 @@ we can find the solution, reading the symbols from top to bottom.
 " | markdownify }}
 </details>
 
+***
+
 ## Table
 
 Example snippet from [FOR SOF](for-sof).
@@ -106,14 +114,20 @@ Example snippet from [FOR SOF](for-sof).
 | [The Insight Documents](lore/insights) | ✔️     | [📁](#read-more) |
 | [CAPSLOCK.DOC](for-sof/capslock_doc)   | ✔️     | [📁](#read-more) |
 
+***
+
 ## Image on the page
 
 ![Poster for Skys & the Starjammers](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/skys_starjammers/sky.png)
+
+***
 
 ## Page Card Gallery
 
 {% assign page_links = '/pages/website/website, /pages/for-sof/for-sof, /pages/characters/characters, /pages/lore/lore, /pages/music/music, /pages/fanart/fanart' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
+
+***
 
 ## Gallery
 
@@ -123,11 +137,15 @@ Example snippet from [FOR SOF](for-sof).
 
 {% include gallery-nav.html folder="lore/booklet/gallery" %}
 
+***
+
 ## Video
 
 Most videos are not allowed to be embedded, but the few that are can be embedded like this:
 
 {% include content/video.html link="https://www.youtube.com/embed/1IQpJULLt-4" %}
+
+***
 
 ## Read More
 
