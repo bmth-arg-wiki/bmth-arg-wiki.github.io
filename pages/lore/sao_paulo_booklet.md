@@ -6,7 +6,7 @@ tags: ["bring me the horizon", "bmth", "arg", "nex gen", "post human", "sao paul
        "E.V.E", "eve", "selene", "m8", "darkside", "mantra", "happy song", "teardrops", "angel dust", "angeldust", 
        "kool aid", "shadow moses", "ost spiritual", "n/a", "sleepwalking", "itch for the cure", "kingslayer", "parasite eve", 
        "follow you", "lost", "can you feel my heart", "doomed", "drown", "throne"]
-image:
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/sao-paulo-live/album_cover-300x300.png"
 ---
 # Bring Me The Horizon L.I.V.E. In São Paulo Booklet
 
@@ -16,3 +16,15 @@ content="This article under active construction and may not meet the quality sta
 %}
 
 Booklet scans and transcripts coming soon!
+
+***
+
+## Read More
+
+Related lore:
+
+- [Story Recap](story-recap)
+
+Related music:
+
+- [L.I.V.E. In São Paulo](../music/sao_paulo_live)
