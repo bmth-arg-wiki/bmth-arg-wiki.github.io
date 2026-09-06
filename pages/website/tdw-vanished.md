@@ -100,7 +100,7 @@ Transcription by Alec
 
 ## Read More
 
-About the ARG website:
+Related website pages:
 
 - [Website](website)
 - [Old website](website-v1)
