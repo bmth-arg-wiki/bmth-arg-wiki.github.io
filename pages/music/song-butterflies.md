@@ -2,6 +2,7 @@
 title: "09. Butterflies ft. Amy Lee"
 categories: ["music"]
 description: "The song One Day The Only Butterflies Left Will Be In Your Chest As You March Towards Your Death ft. Amy Lee from the album POST HUMAN: SURVIVAL HORROR."
+tags: ["butterflies", "amy lee", "bmth", "post human", "survival horror", "bmth", "bring me the horizon"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph1/album_cover_300.jpg"
 previous: "music/song-ludens"
 previous_text: "08. Ludens"
@@ -91,8 +92,9 @@ ends in a hopeful way. We hope that it will make people want to do something.”
 
 ## Read More
 
-[POST HUMAN: SURVIVAL HORROR](ph-survival-horror):
+Related music:
 
+- [POST HUMAN: SURVIVAL HORROR](ph-survival-horror)
 - [Dear Diary,](song-dear-diary)
 - [Parasite Eve](song-parasite-eve)
 - [Teardrops](song-teardrops)
