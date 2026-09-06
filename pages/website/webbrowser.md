@@ -49,7 +49,7 @@ The error code seemed to be related to [Top 10 statues that cried blood](../musi
 
 ## Version 2
 
-{% include info.html 
+{% include content/info.html 
 title="Spoiler Warning!" 
 icon="fa-solid fa-triangle-exclamation"
 content="Version 2 contains slight spoilers for the Dreaddit file. If you want to avoid them, we suggest jumping directly to [Version 3](#Version-31)." 
