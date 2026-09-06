@@ -85,7 +85,7 @@ was interested in [Skys](skys), [Strassman](strassman), and [Dallus Lauren](dall
 Strassman had a family at the time, but it is unknown what happens to them during the event. 
 Skys was in a coma after the fall of Mantra, but successfully extracted to Arc/Hive. 
 Dallus Lauren managed to flee Novosovia with his family, with his wife [Elena](elena-lauren) 
-even giving birth to [Lyra](lyra-lauren) on the helicopter rescuing them (according to Sof's [journal](../website/journal.md). 
+even giving birth to [Lyra](lyra-lauren) on the helicopter rescuing them (according to Sof's [journal](../website/journal). 
 [Dallus' diary](../for-sof/dallus-diary). In the same diary from 2021, we learn that he was already preparing for 
 the [SYNTH](../lore/synths) project, remarking that Carmine was "practically salivating".
 
@@ -169,6 +169,20 @@ Carmine.
 
 ## Read More
 
+Related files:
+
+- [Operation Trinity](../for-sof/trinity_document)
+- [Dallus' Diary](../for-sof/dallus-diary)
+- [Project D.U.S.T. Proposal](../for-sof/project_dust)
+- [Grumblr January 2027 Post](../for-sof/grumblr)
+- [Grumblr November 2027 Post](../for-sof/grumblr2)
+- [Tekka Interview](../for-sof/tekka_interview)
+- [Ren's D8 log of E.V.E.'s Genesis](../for-sof/lauren_d8_log)
+- [Kingslayer Codec](../for-sof/kingslayercodec)
+- [LBR Sites](../for-sof/lbr_sites)
+- [Carmine Interview](../for-sof/carmine_interview)
+- [Dreadit Post](../for-sof/dreadit)
+
 Related characters:
 
 - [Medea](medea)
@@ -187,20 +201,6 @@ Related characters:
 - [Scott](scott)
 - [Sof](sof)
 - [Dr. Lee MD](lee-md)
-
-Related files:
-
-- [Operation Trinity](../for-sof/trinity_document)
-- [Dallus' Diary](../for-sof/dallus-diary)
-- [Project D.U.S.T. Proposal](../for-sof/project_dust)
-- [Grumblr January 2027 Post](../for-sof/grumblr)
-- [Grumblr November 2027 Post](../for-sof/grumblr2)
-- [Tekka Interview](../for-sof/tekka_interview)
-- [Ren's D8 log of E.V.E.'s Genesis](../for-sof/lauren_d8_log)
-- [Kingslayer Codec](../for-sof/kingslayercodec)
-- [LBR Sites](../for-sof/lbr_sites)
-- [Carmine Interview](../for-sof/carmine_interview)
-- [Dreadit Post](../for-sof/dreadit)
 
 Related lore:
 
