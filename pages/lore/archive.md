@@ -187,17 +187,6 @@ We also see a mysterious printer at ARC/HIVE, printing some type of data, as wel
 
 ## Read More
 
-Related lore:
-
-- [Nex Gen Corporation](nex-gen-corporation)
-- [Cult of MANTRA/Neosages](mantra)
-- [Operation Trinity](../for-sof/trinity_document)
-- [Synths](synths)
-- [Lupamine](lupamine)
-- [Mares](mares)
-- [DTC](dtc)
-- [Novosovia](novosovia)
-
 Related files:
 
 - [Dallus' diary](../for-sof/dallus-diary)
@@ -212,16 +201,6 @@ Related files:
 - [Unbeleevable Episode 3](../for-sof/unbeleevable3)
 - [Artifacts](../for-sof/artifacts)
 
-Related Daily Whisper articles:
-
-- [Clone Chaos](../website/tdw-clonechaos)
-- [Rise of Synth](../website/tdw-riseofsynth)
-- [Rise of lupamine](../website/tdw-riseoflupamine)
-- [Rogue Sentinels: Combat Synths](../website/tdw-roguesentinels)
-- [Inside the Blood Red Spectacle](../website/tdw-bloodredspectacles)
-- [Mindstream](../website/tdw-futureentertainment)
-- [Faith on the Edge](../website/tdw-faithedge)
-
 Related characters:
 
 - [Victor Carmine](../characters/victor-carmine)
@@ -235,6 +214,27 @@ Related characters:
 - [Ren](../characters/ren)
 - [Medea](../characters/medea)
 - [Ava](../characters/ava)
+
+Related Daily Whisper (news) articles:
+
+- [Clone Chaos](../website/tdw-clonechaos)
+- [Rise of Synth](../website/tdw-riseofsynth)
+- [Rise of lupamine](../website/tdw-riseoflupamine)
+- [Rogue Sentinels: Combat Synths](../website/tdw-roguesentinels)
+- [Inside the Blood Red Spectacle](../website/tdw-bloodredspectacles)
+- [Mindstream](../website/tdw-futureentertainment)
+- [Faith on the Edge](../website/tdw-faithedge)
+
+Related lore:
+
+- [Nex Gen Corporation](nex-gen-corporation)
+- [Cult of MANTRA/Neosages](mantra)
+- [Operation Trinity](../for-sof/trinity_document)
+- [Synths](synths)
+- [Lupamine](lupamine)
+- [Mares](mares)
+- [DTC](dtc)
+- [Novosovia](novosovia)
 
 Related music:
 
