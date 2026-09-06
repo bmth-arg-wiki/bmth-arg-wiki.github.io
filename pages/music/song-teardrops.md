@@ -90,8 +90,9 @@ Related characters:
 
 - [Skys](../characters/skys)
 
-[POST HUMAN: SURVIVAL HORROR](ph-survival-horror):
+Related music:
 
+- [POST HUMAN: SURVIVAL HORROR](ph-survival-horror):
 - [Dear Diary,](song-dear-diary)
 - [Parasite Eve](song-parasite-eve)
 - [Obey](song-obey)
