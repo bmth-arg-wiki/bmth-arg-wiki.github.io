@@ -104,20 +104,6 @@ consciousness, which resulted in this state. It is speculated that we see this e
 
 ## Read More
 
-Related characters:
-
-- [Skys](skys)
-- [Karl Strassman](strassman)
-- [Ikaro (Ren) Lauren](ren)
-- [Lyra Lauren](lyra-lauren)
-- [Elena Lauren](elena-lauren)
-- [Rebecca Sinclair](rebecca)
-- [Iara Copple](iara)
-- [Alfgram](alfgram)
-- [Victor Carmine](victor-carmine)
-- [Medea Carmine](medea)
-- [Ava](ava)
-
 Related files:
 
 - [Skys & the Starjammers poster](../for-sof/skystarjammers)
@@ -133,7 +119,21 @@ Related files:
 - [Unbeleevable Episode 2](../for-sof/unbeleevable2)
 - [Unbeleevable Episode 3](../for-sof/unbeleevable3)
 
-Related TDW articles:
+Related characters:
+
+- [Skys](skys)
+- [Karl Strassman](strassman)
+- [Ikaro (Ren) Lauren](ren)
+- [Lyra Lauren](lyra-lauren)
+- [Elena Lauren](elena-lauren)
+- [Rebecca Sinclair](rebecca)
+- [Iara Copple](iara)
+- [Alfgram](alfgram)
+- [Victor Carmine](victor-carmine)
+- [Medea Carmine](medea)
+- [Ava](ava)
+
+Related website pages:
 
 - [Gat3keeper](../website/tdw-gatekeeper)
 - [Clone Chaos](../website/tdw-clonechaos)
