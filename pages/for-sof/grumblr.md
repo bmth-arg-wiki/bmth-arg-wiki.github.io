@@ -152,8 +152,6 @@ This password seems to be a rearranged date in the filename itself, `GRUMBLR.Reb
 
 ## Read More
 
-More from [📁 FOR SOF](../for-sof)
-
 Related files:
 
 - [Dreadit post](dreadit)
