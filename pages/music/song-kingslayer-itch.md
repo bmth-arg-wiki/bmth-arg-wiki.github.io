@@ -175,7 +175,7 @@ Related files:
 - [Project D.U.S.T.](../for-sof/project_dust)
 - [Kingslayer Codec](../for-sof/kingslayercodec)
 
-Related songs:
+Related music:
 
 - [Dear Diary,](song-dear-diary)
 - [Parasite Eve](song-parasite-eve)
