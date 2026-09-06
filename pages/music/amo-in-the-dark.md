@@ -83,18 +83,17 @@ And it’s time I knew you so
 
 This song is also mentioned in our [story recap](../lore/story-recap)
 
-Relevant music articles:
-
-- [amo](amo)
-- [MANTRA](amo-mantra)
-- [nihilist blues (ft. grimes)](amo-nihilist-blues)
-- [sugar, honey, ice and tea](amo-shit)
-
 Related files:
 
 - [Project D.U.S.T. proposal](../for-sof/project_dust)
 - [Ikaro Lauren D8 log](../for-sof/lauren_d8_log)
 - [Operation Trinity article](../for-sof/trinity_document)
+
+Related characters:
+
+- [Ikaro Lauren](../characters/ren)
+- [Dallus Lauren](../characters/dallus-lauren)
+- [Rebecca Sinclair](../characters/rebecca)
 
 Related lore:
 
@@ -108,8 +107,9 @@ Related lore:
 - [DTC](../lore/dtc)
 - [New Elysium](../lore/new-elysium)
 
-Related Characters:
+Related music:
 
-- [Ikaro Lauren](../characters/ren)
-- [Dallus Lauren](../characters/dallus-lauren)
-- [Rebecca Sinclair](../characters/rebecca)
+- [amo](amo)
+- [MANTRA](amo-mantra)
+- [nihilist blues (ft. grimes)](amo-nihilist-blues)
+- [sugar, honey, ice and tea](amo-shit)
