@@ -23,7 +23,7 @@ This is one of the very first files from the ARG, appearing in the first week. I
 tone for the ARG, with scientist [Strassman](../characters/strassman) reporting on dangerous conditions 
 resulting from their experiments, with [EVE](../characters/eve) responding in a cold manner.
 
-From [Sof's journal](../website/journal.md) we learn that this conversation took place in 2039, after their mother [Selene](../characters/selene) 
+From [Sof's journal](../website/journal) we learn that this conversation took place in 2039, after their mother [Selene](../characters/selene) 
 [first entered Youtopia](selene_youtopia_doc). It is likely that this conversation took place before 
 [P.U.S.S-E](../lore/pusse) entered mass production.
 
@@ -120,14 +120,12 @@ The password was found in a reversed audio of [a bullet w/my namE On](../music/s
 
 ## Read More
 
-More from [📁 FOR SOF](../for-sof)
-
 Related files:
 
 - [Dreadit post](dreadit)
 - [Youtopia map](selenes_map)
 
-Related Characters:
+Related characters:
 
 - [Strassman](../characters/strassman)
 - [E.V.E](../characters/eve)
