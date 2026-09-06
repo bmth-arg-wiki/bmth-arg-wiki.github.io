@@ -2,6 +2,7 @@
 title: "04. Top 10 staTues tHat CriEd bloOd"
 categories: ["music"]
 description: "The song Top 10 staTues tHat CriEd bloOd from the album POST HUMAN: NEx Gen."
+tags: ["top 10", "bmth", "post human", "nex gen", "spectrogram", "tekka", "synth", "robot", "rave", "r8"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover_300.png"
 previous: "music/song-koolaid"
 previous_text: "03. Kool-Aid"
@@ -94,7 +95,21 @@ The following hidden message can be heard at the end of the song, when putting t
 
 ## Read More
 
+Related characters:
+
+- [Ikaro Lauren](../characters/ren)
+
+Related files:
+
+- [R8 Specifications](../for-sof/r8)
+
+Related lore:
+
+- [Insight 1 - Connection](../lore/insight1-connection)
+- [Synths](../lore/synths)
+
+Related music:
+
 - [POST HUMAN: NeX GEn](ph-nex-gen)
 - [Spectrograms](spectrograms)
-- [Insight 1 - Connection](../lore/insight1-connection)
 - [liMOusIne](song-limousine)
