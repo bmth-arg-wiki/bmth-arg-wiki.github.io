@@ -203,7 +203,12 @@ The password was found by converting audio to notes.
 
 ## Read More
 
-More [files](for-sof)!
+Related files:
+
+- [Dallus' diary](dallus-diary)
+- [First Grumblr post](grumblr)
+- [Tekka Interview with Rebecca](tekka_interview)
+- [D8 log](lauren_d8_log)
 
 Related characters:
 
@@ -212,14 +217,7 @@ Related characters:
 - [Skys](../characters/skys)
 - [Victor Carmine](../characters/victor-carmine)
 
-Related files:
-
-- [Dallus' diary](dallus-diary)
-- [First Grumblr post](grumblr)
-- [Tekka Interview with Rebecca](tekka_interview)
-- [D8 log](lauren_d8_log)
-
-Related TDW articles:
+Related Daily Whisper (news) articles:
 
 - [Clone Chaos](../website/tdw-clonechaos)
 - [What is a Loop-Hole?](../website/tdw-loophole)
