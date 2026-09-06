@@ -198,6 +198,15 @@ The altilium chordata tank appears in ["In The Dark"](../music/amo-in-the-dark).
 
 ## Read More
 
+Related files:
+
+- [Operation Trinity Article](trinity_document)
+- [Dallus' diary](dallus-diary)
+- [The Science Study Newspaper](thesciencestudy)
+- [LBR sites letter](lbr_sites)
+- [Carmine's reconstructed interview](carmine_interview)
+- [Chapel video (speculated)](chapel)
+
 Related characters:
 
 - [Dr. Elias Mortem](../characters/elias-mortem)
@@ -213,16 +222,6 @@ Related characters:
 - [Alfgram](../characters/alfgram)
 - [Syko (acronym mentioned)](../characters/syko)
 
-Related files:
-
-- [Operation Trinity Article](trinity_document)
-- [Dallus' diary](dallus-diary)
-- [The Science Study Newspaper](thesciencestudy)
-- [LBR sites letter](lbr_sites)
-- [Carmine's reconstructed interview](carmine_interview)
-- [Chapel video (speculated)](chapel)
-
-
 Related lore:
 
 - [Mantra Cult](../lore/mantra)
@@ -237,6 +236,6 @@ Related lore:
 - [Mares](../lore/mares)
 - [Synths (speculated)](../lore/synths)
 
-Related song:
+Related music:
 
 - [in the dark](../music/amo-in-the-dark)
