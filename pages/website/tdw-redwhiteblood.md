@@ -95,7 +95,11 @@ Transcription by Alec
 
 ## Read More
 
-About the ARG website:
+Related characters:
+
+- [Dr. Lee MD](../characters/lee-md)
+
+Related website pages:
 
 - [Website](website)
 - [Old website](website-v1)
@@ -118,10 +122,6 @@ Other Daily Whisper articles:
 - [The Future of Entertainment](tdw-futureentertainment)
 - [Inside the Blood-Red Spectacles](tdw-bloodredspectacles)
 - [NEX GEN's Rogue Sentinels](tdw-roguesentinels)
-
-Related character:
-
-- [Dr. Lee MD](../characters/lee-md)
 
 Related lore:
 
