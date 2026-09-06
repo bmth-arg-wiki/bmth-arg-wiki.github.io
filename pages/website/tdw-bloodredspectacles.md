@@ -127,7 +127,11 @@ Transcription by Alec
 
 ## Read More
 
-About the ARG website:
+Related characters:
+
+- [Lee M.D.](../characters/lee-md)
+
+Related website pages:
 
 - [Website](website)
 - [Old website](website-v1)
@@ -135,6 +139,7 @@ About the ARG website:
 - [Noctune Music Player](website-songs)
 - [Wi-Fi](wifi)
 - [Journal](journal)
+
 
 Other Daily Whisper articles:
 
@@ -151,10 +156,6 @@ Other Daily Whisper articles:
 - [The Future of Entertainment](tdw-futureentertainment)
 - [NEX GEN's Rogue Sentinels](tdw-roguesentinels)
 
-Related Character:
-
-- [Lee M.D.](../characters/lee-md)
-
-Related Lore:
+Related lore:
 
 - [Synths](../lore/synths)
