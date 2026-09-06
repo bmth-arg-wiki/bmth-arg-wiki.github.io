@@ -108,13 +108,6 @@ The password is no longer required since an update in December 2024.
 
 ## Read More
 
-Related characters:
-
-- [Karl Strassman](../characters/strassman)
-- [Dallus Lauren](../characters/dallus-lauren)
-- [Elena Lauren](../characters/elena-lauren)
-- [Skys](../characters/skys)
-
 Related files:
 
 - [Strassman codec](strassmancodec)
@@ -129,6 +122,13 @@ Related files:
 - [Skys' Diary](skys-diary)
 - [Second Grumblr entry](grumblr2)
 - [Victor Carmine Interview](carmine_interview)
+
+Related characters:
+
+- [Karl Strassman](../characters/strassman)
+- [Dallus Lauren](../characters/dallus-lauren)
+- [Elena Lauren](../characters/elena-lauren)
+- [Skys](../characters/skys)
 
 Related articles:
 
