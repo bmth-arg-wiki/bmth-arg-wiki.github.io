@@ -2,6 +2,7 @@
 title: "03. Kool-Aid"
 categories: ["music"]
 description: "The song Kool-Aid from the album POST HUMAN: NEx Gen."
+tags: ["kool-aid", "bmth", "post human", "nex gen", "single"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover_300.png"
 previous: "music/song-youtopia"
 previous_text: "YOUtopia"
@@ -138,12 +139,14 @@ despair, addiction, existential struggle
 
 ## Read More
 
-- [POST HUMAN: NeX GEn](ph-nex-gen)
-- [Website songs](../website/website-songs)
+Related characters:
+
 - [Angeldust](../characters/angeldust)
 
-Other singles:
+Related music:
 
+- [POST HUMAN: NeX GEn](ph-nex-gen)
+- [Website songs](../website/website-songs)
 - [AmEN!](song-amen)
 - [DArkSide](song-darkside)
 - [DiE4u](song-die4u)
