@@ -22,7 +22,7 @@ ARG [webpage](../website/website).
 > - Sof's journal
 
 We learn most of what we know about New Elysium from [Sof](../characters/sof) in their 
-[journal](../website/journal.md). New Elysium is located in the [DTC](dtc), a few miles away from where 
+[journal](../website/journal). New Elysium is located in the [DTC](dtc), a few miles away from where 
 Sof lives at the time of her journal entry. They indicate that the suburb is now abandoned, 
 likely having been constructed by Nex Gen to monitor their test subjects. According to Sof, 
 her mother [Selene](../characters/selene) lived here. In the [Kingslayer codec](../for-sof/kingslayercodec) 
@@ -43,4 +43,4 @@ Related lore:
 - [Disunited Territories of Columbia](dtc)
 - [ARC/HIVE](archive)
 - [Nex Gen Corporation](nex-gen-corporation)
-- [Journal](../website/journal.md)
+- [Journal](../website/journal)
