@@ -44,14 +44,6 @@ written shortly after the operation. This puts the most likely time for his deat
 
 ## Read More
 
-Related characters:
-
-- [Skys](skys)
-- [Dallus Lauren](dallus-lauren)
-- [Karl Strassman](strassman)
-- [Ava](ava)
-- [Medea](medea)
-
 Related files:
 
 - [Skys & the Starjammers poster](../for-sof/skystarjammers)
@@ -60,7 +52,15 @@ Related files:
 - [Unbeleevable Episode 2](../for-sof/unbeleevable2)
 - [Unbeleevable Episode 3](../for-sof/unbeleevable3)
 
-Related Daily Whisper articles:
+Related characters:
+
+- [Skys](skys)
+- [Dallus Lauren](dallus-lauren)
+- [Karl Strassman](strassman)
+- [Ava](ava)
+- [Medea](medea)
+
+Related Daily Whisper:
 
 - [TDW: The Future of Entertainment](../website/tdw-futureentertainment)
 - [TDW: Faith on the Edge](../website/tdw-faithedge)
@@ -73,6 +73,5 @@ Related lore:
 - [Novosovia](../lore/novosovia)
 - [Mares](../lore/mares)
 
-Alfgram also seems to appear in the Die4U music video, as a man with "Alfgram" tattooed on his head appears.
-
+Alfgram also seems to appear in the Die4U music video, as a man with "Alfgram" tattooed on his head appears:
 - [Die4U](../music/song-die4u)
