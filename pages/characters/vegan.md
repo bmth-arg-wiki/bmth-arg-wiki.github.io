@@ -38,6 +38,11 @@ Vegan was user 0001 in the first version of the [Multidimensional Navigator 8](.
 
 ## Read More
 
+Related files:
+
+- [Selene's Map](../for-sof/selenes_map)
+- [Youtopia Research](../for-sof/selene_youtopia_doc)
+
 Related characters:
 
 - [Archangel Uriel](uriel)
@@ -46,15 +51,9 @@ Related characters:
 - [Madman / Lee](madman)
 - [Pickles/ Mat N.](pickles)
 
-Related files:
-
-- [Selene's Map](../for-sof/selenes_map)
-- [Youtopia Research](../for-sof/selene_youtopia_doc)
-
 Related lore:
 
 - [Lore booklet](../lore/booklet)
 - [Insights](../lore/insights)
 - [Insight 4: Vision](../lore/insight4-vision)
 - [Youtopia](../lore/youtopia)
-
