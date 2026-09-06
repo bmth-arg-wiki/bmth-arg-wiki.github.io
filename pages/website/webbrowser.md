@@ -211,17 +211,21 @@ we are lead to a table of content for all the articles on this website.
 
 ## Read More
 
-About the ARG website:
+Related files:
+
+- [Dreaddit](../for-sof/dreadit)
+
+Related characters:
+
+- [M8](../m8)
+
+Related website pages:
 
 - [Website](website)
 - [Old website](website-v1)
 - [Noctune Music Player](website-songs)
 - [Wi-Fi](wifi)
 - [Journal](journal)
-
-Related files:
-
-- [Dreaddit](../for-sof/dreadit)
 
 Related lore:
 
@@ -242,10 +246,6 @@ Related lore:
 - [Inside the Blood-Red Spectacles](tdw-bloodredspectacles)
 - [NEX GEN's Rogue Sentinels](tdw-roguesentinels)
 
-Related character:
-
-- [M8](../m8)
-
-Related song:
+Related music:
 
 - [Top 10 statues that cried blood](../music/song-top10)
