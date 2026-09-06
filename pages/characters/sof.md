@@ -41,7 +41,7 @@ cue and that she must leave. She leaves her baby in the care of AI assistant M8,
 
 ### Sof starts a journal
 
-In Sof's [journal](../website/journal.md) on the [webpage](../website/website), their age is hinted at twice. One is an off-hand 
+In Sof's [journal](../website/journal) on the [webpage](../website/website), their age is hinted at twice. One is an off-hand 
 remark about her being a strange 8-year-old. The other message is on the page about the Chapel Incident in 2040, where 
 she remarks that it took place about eight years ago. The Dreadit post that Selene left for Sof is from 2052, which 
 leaves questions about the exact timeline.
@@ -120,6 +120,15 @@ Related characters:
 - [Ikaro Lauren](ren)
 - [E.V.E](eve)
 
+Related website pages:
+
+- [Webpage](../website/website)
+- [Webbrowser](../website/webbrowser)
+- [Wi-fi](../website/wifi)
+- [Noctune](../website/website-songs)
+- [Sof's journal](../website/journal)
+- [Other useful websites](../other-webpages)
+
 Related lore:
 
 - [DTC](../lore/dtc)
@@ -131,12 +140,3 @@ Related lore:
 - [Youtopia](../lore/youtopia)
 - [VSPR-37](../lore/vspr37)
 - [Mares](../lore/mares)
-
-Related website pages:
-
-- [Webpage](../website/website)
-- [Webbrowser](../website/webbrowser)
-- [Wi-fi](../website/wifi)
-- [Noctune](../website/website-songs)
-- [Sof's journal](../website/journal)
-- [Other useful websites](../other-webpages)
