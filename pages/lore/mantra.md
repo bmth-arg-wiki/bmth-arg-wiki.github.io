@@ -108,18 +108,6 @@ but it can be viewed on the [wayback machine](https://web.archive.org/web/201904
 
 ## Read More
 
-Related characters:
-
-- [Skys](../characters/skys)
-- [Alfgram](../characters/alfgram)
-- [Karl Strassman](../characters/strassman)
-- [Dallus Lauren](../characters/dallus-lauren)
-- [Ikaro (Ren) Lauren](../characters/ren)
-- [Ava](../characters/ava)
-- [Medea](../characters/medea)
-- [Victor Carmine](../characters/victor-carmine)
-- [Dr. Elias Mortem](../characters/elias-mortem)
-
 Related files:
 
 - [Skys' Diary](../for-sof/skys-diary)
@@ -137,7 +125,19 @@ Related files:
 - [Unbeleevable Episode 3](../for-sof/unbeleevable3)
 - [Dreadit post](../for-sof/dreadit)
 
-Related TDW articles:
+Related characters:
+
+- [Skys](../characters/skys)
+- [Alfgram](../characters/alfgram)
+- [Karl Strassman](../characters/strassman)
+- [Dallus Lauren](../characters/dallus-lauren)
+- [Ikaro (Ren) Lauren](../characters/ren)
+- [Ava](../characters/ava)
+- [Medea](../characters/medea)
+- [Victor Carmine](../characters/victor-carmine)
+- [Dr. Elias Mortem](../characters/elias-mortem)
+
+Related website pages:
 
 - [The Daily Whisper: Faith on the Edge](../website/tdw-faithedge)
 
