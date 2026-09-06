@@ -1017,7 +1017,18 @@ From ancient Omens awakened from slumber to malevolent entities imprisoned withi
 
 ***
 
-# Read More
+## Read More
+
+Related files:
+
+- [The Insights](../lore/insights)
+- [Insight 1: Connection](../lore/insight1-connection)
+- [Insight 2: Empathy](../lore/insight2-empathy)
+- [Insight 3: Purpose](../lore/insight3-purpose)
+- [Insight 4: Vision](../lore/insight4-vision)
+- [Selene's map](../for-sof/selenes_map)
+- [Youtopia Research with Selene](../for-sof/selene_youtopia_doc)
+- [LBR Sites](../for-sof/lbr_sites)
 
 Related characters:
 
@@ -1044,17 +1055,6 @@ Related characters:
   - [Miseria](../characters/miseria)
   - [Vanth](../characters/vanth)
   - [The Babylon](../characters/babylon)
-
-Related files:
-
-- [The Insights](../lore/insights)
-- [Insight 1: Connection](../lore/insight1-connection)
-- [Insight 2: Empathy](../lore/insight2-empathy)
-- [Insight 3: Purpose](../lore/insight3-purpose)
-- [Insight 4: Vision](../lore/insight4-vision)
-- [Selene's map](../for-sof/selenes_map)
-- [Youtopia Research with Selene](../for-sof/selene_youtopia_doc)
-- [LBR Sites](../for-sof/lbr_sites)
 
 Related lore:
 
