@@ -60,16 +60,16 @@ The following tracks appear on the album:
 
 ## Read More
 
+Related files:
+
+- [Museum](../for-sof/museum)
+
 Related characters:
 
 - [Sof](../characters/sof)
 - [Selene](../characters/selene)
 
-Related files:
-
-- [Museum](../for-sof/museum)
-
-Related website:
+Related website pages:
 
 - [Idle game](../website/idle)
 
@@ -79,3 +79,4 @@ Related music:
 - [Post Human: Survival Horror](ph-survival-horror)
 - [Post Human: NeX GEn](ph-nex-gen)
 - [Bring Me The Horizon L.I.V.E. In São Paulo](sao_paulo_live)
+
