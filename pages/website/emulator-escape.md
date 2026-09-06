@@ -56,7 +56,7 @@ Solving this puzzle unlocks the game [M8 mobile](emulator-m8mobile).
 
 ## Read More
 
-Other games:
+Related website pages:
 
 - [Emulator](emulator)
 - [Scream Star](emulator-screamstar)
