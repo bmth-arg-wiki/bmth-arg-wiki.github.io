@@ -117,7 +117,7 @@ freely accessible since the December 2024th update.
 
 ## Password context
 
-{% include info.html
+{% include content/info.html
 title="The Kingslayer Puzzle"
 content="The puzzle is very time-consuming, and the password screen only allows very little time to enter the password after you click check. So keep the password ready!"
 %}
