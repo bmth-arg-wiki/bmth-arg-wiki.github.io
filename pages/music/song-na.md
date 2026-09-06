@@ -2,6 +2,7 @@
 title: "09. n/A"
 categories: ["music"]
 description: "The song n/A from the album POST HUMAN: NEx Gen."
+tags: ["n/a", "na", "bmth", "post human", "nex gen", "spectrogram"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover_300.png"
 previous: "music/song-spiritual"
 previous_text: "08. [ost] (spi)ritual"
@@ -103,7 +104,16 @@ This insight is linked to archangel [Gabriel](../characters/gabriel) and omen
 
 ## Read More
 
-- [POST HUMAN: NeX GEn](ph-nex-gen)
-- [Insight 2: Empathy](../lore/insight2-empathy)
+Related characters:
+
 - [Gabriel](../characters/gabriel)
 - [Miseria](../characters/miseria)
+- [Madman](../characters/madman)
+
+Related lore:
+
+- [Insight 2: Empathy](../lore/insight2-empathy)
+
+Related music:
+
+- [POST HUMAN: NeX GEn](ph-nex-gen)
