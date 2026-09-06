@@ -69,19 +69,6 @@ Rebecca is also aware of ecliptism, as she draws a comparison to an "ecliptist r
 
 ## Read More
 
-Related characters:
-
-- [Skys](../characters/skys)
-- [Karl Strassman](../characters/strassman)
-- [Dallus Lauren](../characters/dallus-lauren)
-- [Alfgram](../characters/alfgram)
-- [Victor Carmine](../characters/victor-carmine)
-- [Medea](../characters/medea)
-- [Elias Mortem](../characters/elias-mortem)
-- [Ikaro Lauren](../characters/ren)
-- [Elena Lauren](../characters/elena-lauren)
-- [Ava](../characters/ava)
-
 Related files:
 
 - [Skys & the Starjammers](../for-sof/skystarjammers)
@@ -97,9 +84,18 @@ Related files:
 - [Chapel Incident video (speculated)](../for-sof/chapel)
 - [Dreadit Post](../for-sof/dreadit)
 
-Related articles on [the Daily Whisper](../website/website):
+Related characters:
 
-- [Faith on the Edge](../website/tdw-faithedge)
+- [Skys](../characters/skys)
+- [Karl Strassman](../characters/strassman)
+- [Dallus Lauren](../characters/dallus-lauren)
+- [Alfgram](../characters/alfgram)
+- [Victor Carmine](../characters/victor-carmine)
+- [Medea](../characters/medea)
+- [Elias Mortem](../characters/elias-mortem)
+- [Ikaro Lauren](../characters/ren)
+- [Elena Lauren](../characters/elena-lauren)
+- [Ava](../characters/ava)
 
 Related lore:
 
@@ -113,6 +109,10 @@ Related lore:
 - [Nex Gen](nex-gen-corporation)
 - [Chapel Incident](incident-chapel)
 
-Related songs:
+Related music:
 
 - [Itch for the Cure & Kingslayer](../music/song-kingslayer-itch)
+
+Related articles on [the Daily Whisper](../website/website):
+
+- [Faith on the Edge](../website/tdw-faithedge)
