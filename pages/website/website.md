@@ -128,7 +128,7 @@ There is also an [emulator](emulator) section, which allows you to play differen
 
 ## Read More
 
-About the ARG website:
+Related website pages:
 
 - [Old website](website-v1)
 - [Webbrowser Spyder](webbrowser)
