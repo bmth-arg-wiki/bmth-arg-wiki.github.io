@@ -80,14 +80,6 @@ stop the experiments.
 
 ## Read More
 
-Related characters:
-
-- [E.V.E.](../characters/eve)
-- [Selene](../characters/selene)
-- [Karl Strassman](../characters/strassman)
-- [Dallus Lauren](../characters/dallus-lauren)
-- [Ikaro Lauren](../characters/ren)
-
 Related files:
 
 - [The Science Study](../for-sof/thesciencestudy)
@@ -102,6 +94,14 @@ Related files:
 - [Message for Sof](../for-sof/msgforsof)
 - [Chapel Video](../for-sof/chapel)
 - [Dreadit Post](../for-sof/dreadit)
+
+Related characters:
+
+- [E.V.E.](../characters/eve)
+- [Selene](../characters/selene)
+- [Karl Strassman](../characters/strassman)
+- [Dallus Lauren](../characters/dallus-lauren)
+- [Ikaro Lauren](../characters/ren)
 
 Related lore:
 
