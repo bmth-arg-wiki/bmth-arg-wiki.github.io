@@ -206,18 +206,19 @@ Wrist used to have an anagram for the password in the song information in the [o
 
 ## Read More
 
+Related files:
+
+- [Unbeleevable Episode 1 & e-mail](unbeleevable)
+- [Unbeleevable Episode 2](unbeleevable2)
+- [Skys' scrapbook](../website/skys-diary)
+
 Related characters:
 
 - [Skys](../characters/skys)
 - [Strassman](../characters/strassman) (through spiritual research)
 
-Related files:
-
-- [Unbeleevable Episode 1 & e-mail](unbeleevable)
-- [Unbeleevable Episode 2](unbeleevable2)
-
-Related articles:
+Related lore:
 
 - [Mantra cult](../lore/mantra)
-- [ARC/HIVE Corp.](../lore/archive)
-- [Nex Gen Corp.](../lore/nex-gen-corporation)
+- [ARC/HIVE](../lore/archive)
+- [Nex Gen Corporation](../lore/nex-gen-corporation)
