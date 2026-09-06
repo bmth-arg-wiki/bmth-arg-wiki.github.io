@@ -82,10 +82,6 @@ E.V.E. was always user 0000 on the first version of the Multidimensional Navigat
 
 ## Read More
 
-Extra E.V.E. content:
-
-- [E.V.E's messages on Discord](../socials/eve-discord)
-
 Related files:
 
 - [Grumblr](../for-sof/grumblr)
@@ -107,15 +103,6 @@ Related lore:
 - [DTC](../lore/dtc)
 - [Download Festival](../lore/downloadfest)
 
-Related characters:
+Related socials:
 
-- [M8](../m8)
-- [Selene](selene)
-- [Ikaro (Ren) Lauren](ren)
-- [Dallus Lauren](dallus-lauren)
-- [Dr. Karl Strassman](strassman)
-- [Victor Carmine](victor-carmine)
-- [Dr. Elias Mortem](elias-mortem)
-- [Iara Copple](iara)
-- [Rebecca Sinclair](rebecca)
-
+- [E.V.E's messages on Discord](../socials/eve-discord)
