@@ -92,14 +92,19 @@ The [Mantra cult](../lore/mantra) logo appears at 1:50 in the [video](https://yo
 
 ## Read More
 
-Relevant music articles:
+Related characters:
+
+- [Skys](../characters/skys)
+
+Related lore:
+
+- [Mantra cult](../lore/mantra)
+- [Ecliptism](../lore/ecliptism)
+- [Mares](../lore/mares)
+
+Related music:
 
 - [amo](amo)
 - [MANTRA](amo-mantra)
 - [nihilist blues ft. grimes](amo-nihilist-blues)
 - [in the dark](amo-in-the-dark)
-
-Related lore & character articles:
-
-- [Mantra cult](../lore/mantra)
-- [Skys](../characters/skys)
