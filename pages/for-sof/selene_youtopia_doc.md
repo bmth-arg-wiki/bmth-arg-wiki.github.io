@@ -169,12 +169,6 @@ accidentally gone out of order. Oops :("
 
 ## Read More
 
-Related characters:
-
-- [Selene](../characters/selene)
-- [Sof](../characters/sof)
-- [Scott](../characters/syko)
-
 Related files:
 
 - [Selene's map of Youtopia (document)](selenes_map)
@@ -183,7 +177,13 @@ Related files:
 - [Scott's diary](scott_personal_journal)
 - [Message for Sof](msgforsof)
 
+Related characters:
+
+- [Selene](../characters/selene)
+- [Sof](../characters/sof)
+- [Scott](../characters/syko)
+
 Related lore:
 
-- [Sof's journal](../website/journal.md)
+- [Sof's journal](../website/journal)
 - [Nex Gen Corp.](../lore/nex-gen-corporation)
