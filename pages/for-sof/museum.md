@@ -122,8 +122,8 @@ The aquarium was added on April 13th 2026, the same day the re-recording of Coun
 To access it, you just need to turn 180 degrees upon entering the museum, then head right through the blue portal door. 
 You will find yourself in a pretty dilapidated room, with a young girl staring at the fish in the main tank. 
 If M8 turns her back to her then turns back around, the girl will have been replaced by a drawing. 
-This young girl is very probably Lyra ([Dallus Lauren's](../characters/dallus-lauren.md) daughter), 
-as the drawing that replaces her is the same one she holds in the [in the dark](../music/amo-in-the-dark.md) music video.
+This young girl is very probably Lyra ([Dallus Lauren's](../characters/dallus-lauren) daughter), 
+as the drawing that replaces her is the same one she holds in the [in the dark](../music/amo-in-the-dark) music video.
 
 ![Lyra's mare drawing](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/museum/lyra-inthedark-drawing.png)
 
@@ -160,6 +160,16 @@ Captures from the new aquarium area, released on 13-04-2026.
 
 ## Read More
 
+Related files:
+
+- [Skys & the Starjammers Poster](skystarjammers)
+- [The Science Study Newspaper](thesciencestudy)
+- [Carmine Interview](carmine_interview) (through clues)
+- [Unbeleevable Episode 1](unbeleevable)
+- [Unbeleevable Episode 2](unbeleevable2)
+- [Unbeleevable Episode 3](unbeleevable3)
+- [Declassified Project D.U.S.T](project_dust)
+
 Related characters:
 
 - [Skys](../characters/skys)
@@ -169,16 +179,6 @@ Related characters:
 - [Ikaro Lauren (Ren)](../characters/ren)
 - [Karl Strassman](../characters/strassman)
 - [Dallus Lauren](../characters/dallus-lauren)
-
-Related files:
-
-- [Skys & the Starjammers Poster](skystarjammers)
-- [The Science Study Newspaper](thesciencestudy)
-- [Carmine Interview](carmine_interview) (through clues)
-- [Unbeleevable Episode 1](unbeleevable)
-- [Unbeleevable Episode 2](unbeleevable2)
-- [Unbeleevable Episode 3](unbeleevable3)
-- [Declassified Project D.U.S.T](project_dust.md)
 
 Related lore:
 
