@@ -15,7 +15,7 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/no
 >
 > Status: Likely in a state of collapse after years of war and conflict
 >
-> - [Sof's journal](../website/journal.md)
+> - [Sof's journal](../website/journal)
 
 Novosovia is a fictional Eastern-European country. They are at war with Ingleterra for 
 at least part of the story.
@@ -45,7 +45,7 @@ caused [Skys](../characters/skys) to be born with a condition named Radiogenic L
 in New Elysium, there would eventually be a [newspaper](../for-sof/thesciencestudy) describing this phenomenon.
 
 [Strassman](../characters/strassman) was born in the country in the small city of Zelenopol, according to the 
-[lore booklet](booklet). [Sof's journal](../website/journal.md) confirms that Dallus is also from
+[lore booklet](booklet). [Sof's journal](../website/journal) confirms that Dallus is also from
 the country and would establish his family here, until the fall of Mantra would force them to re-locate.
 
 > Mothers aren’t supposed to leave, or so the mindflicks would have you believe. Unless of course, they’re
@@ -85,6 +85,13 @@ would eventually go global, but started from the research here according to Sof'
 
 ## Read More
 
+Related files:
+
+- [Operation Trinity](../for-sof/trinity_document)
+- [Unbeleevable Episode 1](../for-sof/unbeleevable)
+- [Unbeleevable Episode 2](../for-sof/unbeleevable2)
+- [Book of Eclipse](../for-sof/book-of-eclipse)
+
 Related characters:
 
 - [Skys](../characters/skys)
@@ -93,16 +100,9 @@ Related characters:
 - [Elena Lauren](../characters/elena-lauren)
 - [Ikaro Lauren](../characters/ren).
 
-Related files:
-
-- [Operation Trinity](../for-sof/trinity_document)
-- [Unbeleevable Episode 1](../for-sof/unbeleevable)
-- [Unbeleevable Episode 2](../for-sof/unbeleevable2)
-- [Book of Eclipse](../for-sof/book-of-eclipse)
-
 Related lore:
 
 - [Mantra Cult](mantra)
 - [DTC](dtc)
 - [New Elysium](new-elysium)
-- [Sof's journal](../website/journal.md)
+- [Sof's journal](../website/journal)
