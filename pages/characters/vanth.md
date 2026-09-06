@@ -45,6 +45,11 @@ before the website changed entirely in December 2024.
 
 ## Read More
 
+Related files:
+
+- [Selene's map](../for-sof/selenes_map)
+- [Youtopia Research](../for-sof/selene_youtopia_doc)
+
 Related characters:
 
 - [Michael](michael)
@@ -53,16 +58,9 @@ Related characters:
 - [Pan](pan)
 - [The Babylon](babylon)
 
-Related files:
-
-- [Selene's map](../for-sof/selenes_map)
-- [Youtopia Research](../for-sof/selene_youtopia_doc)
-
 Related lore:
 
 - [Lore booklet](../lore/booklet)
 - [The Insights](../lore/insights)
 - [Insight 3: Purpose](../lore/insight3-purpose)
 - [Youtopia](../lore/youtopia)
-
-
