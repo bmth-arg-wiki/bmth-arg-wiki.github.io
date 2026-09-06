@@ -70,16 +70,16 @@ Transcription by Alec
 
 ## Read More
 
-Related characters:
-
-- [Elias Mortem](../characters/elias-mortem)
-- [Victor Carmine](../characters/victor-carmine)
-
 Related files:
 
 - [Project D.U.S.T. proposal](../for-sof/project_dust)
 - [Nex Gen Youtopia Research](selene_youtopia_doc)
 - [Sof's journal](../website/journal)
+
+Related characters:
+
+- [Elias Mortem](../characters/elias-mortem)
+- [Victor Carmine](../characters/victor-carmine)
 
 Related lore:
 
