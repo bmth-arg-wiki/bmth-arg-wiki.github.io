@@ -28,7 +28,7 @@ In Project D.U.S.T. we learn that their child Lyra, despite being born outside o
 
 The picture Rebecca paints for the Laurens in [her November 2027 Grumblr post](../for-sof/grumblr2) is bleak. We learn that 
 Lyra has passed away in a car crash and that Dallus is not in a good mental state. We sadly do not know what happened to Elena, 
-with [Sof](sof) even stating in her [journal](../website/journal.md) that Elena seems to fade from records after the escape.
+with [Sof](sof) even stating in her [journal](../website/journal) that Elena seems to fade from records after the escape.
 
 In the [Gat3keeper article](../website/tdw-gatekeeper), we learn that Dallus was alone with the children on the day of the car crash 
 in 2024, with no mention of Elena.
