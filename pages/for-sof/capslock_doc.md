@@ -49,7 +49,7 @@ We find a storage crate that belongs to [Selene](../characters/selene).
 
 ### Gallery
 
-{% include gallery.html folder="files/capslock_doc/gallery" %}
+{% include gallery-nav.html folder="files/capslock_doc/gallery" %}
 
 **!!! DO NOT EMAIL THIS ADDRESS, IT IS A PLACEHOLDER AND 
 WAS NEVER MEANT TO BE FOUND !!!**

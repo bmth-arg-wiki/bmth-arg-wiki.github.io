@@ -117,7 +117,7 @@ but used to contain more. You can read more about it in the [article on website 
 Spyder is the in-universe [web browser](webbrowser) on the page and can be used to read several articles on 
 the web.
 
-{% include gallery.html folder="webpage/newbuttons" %}
+{% include gallery-nav.html folder="webpage/newbuttons" %}
 
 The buttons on the new dashboard are virtually the same as the old ones, their main difference being their design 
 and placement. They are now in the top right corner of the website.

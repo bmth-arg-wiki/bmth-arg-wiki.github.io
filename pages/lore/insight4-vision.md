@@ -52,7 +52,7 @@ The path towards this last insight was found in a spectrogram of the song [DIg I
 
 ### Gallery
 
-{% include gallery.html folder="lore/insights/vision/gallery" %}
+{% include gallery-nav.html folder="lore/insights/vision/gallery" %}
 
 ***
 

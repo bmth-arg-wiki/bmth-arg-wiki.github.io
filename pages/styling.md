@@ -131,7 +131,7 @@ Example snippet from [FOR SOF](for-sof).
 
 ## Gallery
 
-{% include gallery.html folder="characters/syko/gallery" %}
+{% include gallery-nav.html folder="characters/syko/gallery" %}
 
 ### Gallery with next & previous buttons
 

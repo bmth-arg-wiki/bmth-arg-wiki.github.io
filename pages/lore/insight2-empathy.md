@@ -51,7 +51,7 @@ The hint for this insight was found in a spectrogram of the song [n/A](../music/
 
 ### Gallery
 
-{% include gallery.html folder="lore/insights/empathy/gallery" %}
+{% include gallery-nav.html folder="lore/insights/empathy/gallery" %}
 
 ***
 

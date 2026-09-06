@@ -66,7 +66,7 @@ Please explore their articles for further details.
 
 ### Gallery
 
-{% include gallery.html folder="lore/insights/insightsdoc/gallery" %}
+{% include gallery-nav.html folder="lore/insights/insightsdoc/gallery" %}
 
 ***
 

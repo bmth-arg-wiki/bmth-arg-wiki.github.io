@@ -67,7 +67,7 @@ lost my halo, now i’m my own anti-christ.
 
 ## Music Video Gallery
 
-{% include gallery.html folder="music/ph1/teardrops/gallery" %}
+{% include gallery-nav.html folder="music/ph1/teardrops/gallery" %}
 
 ***
 

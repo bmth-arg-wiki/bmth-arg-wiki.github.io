@@ -198,51 +198,51 @@ their secrets in Unbeleevable [1](unbeleevable), [2](unbeleevable2) and [3](unbe
 
 ### Vex
 
-{% include gallery.html folder="files/artifacts/vex" %}
+{% include gallery-nav.html folder="files/artifacts/vex" %}
 
 ### Strassman's glasses
 
-{% include gallery.html folder="files/artifacts/glasses" %}
+{% include gallery-nav.html folder="files/artifacts/glasses" %}
 
 ### M8
 
-{% include gallery.html folder="files/artifacts/m8" %}
+{% include gallery-nav.html folder="files/artifacts/m8" %}
 
 ### Prosthetic finger
 
-{% include gallery.html folder="files/artifacts/prosthetic-finger" %}
+{% include gallery-nav.html folder="files/artifacts/prosthetic-finger" %}
 
 ### Gat3keeper plushie
 
-{% include gallery.html folder="files/artifacts/park-plushie" %}
+{% include gallery-nav.html folder="files/artifacts/park-plushie" %}
 
 ### Sandpit turtle
 
-{% include gallery.html folder="files/artifacts/sandpit-turtle" %}
+{% include gallery-nav.html folder="files/artifacts/sandpit-turtle" %}
 
 ### That's The Spirit Umbrella
 
-{% include gallery.html folder="files/artifacts/umbrella" %}
+{% include gallery-nav.html folder="files/artifacts/umbrella" %}
 
 ### Cap & Archangel patches
 
-{% include gallery.html folder="files/artifacts/merch" %}
+{% include gallery-nav.html folder="files/artifacts/merch" %}
 
 ### Leech Blood Hair Dye
 
-{% include gallery.html folder="files/artifacts/dye" %}
+{% include gallery-nav.html folder="files/artifacts/dye" %}
 
 ### FANTOM Mask
 
-{% include gallery.html folder="files/artifacts/gasmask" %}
+{% include gallery-nav.html folder="files/artifacts/gasmask" %}
 
 ### Creature Remnant
 
-{% include gallery.html folder="files/artifacts/goxmog" %}
+{% include gallery-nav.html folder="files/artifacts/goxmog" %}
 
 ### Dr. Lee's Suit
 
-{% include gallery.html folder="files/artifacts/lee-suit" %}
+{% include gallery-nav.html folder="files/artifacts/lee-suit" %}
 
 ***
 

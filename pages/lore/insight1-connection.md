@@ -52,7 +52,7 @@ A spectrogram of the song [Top 10 staTues tHat CriEd bloOd](../music/song-top10)
 
 ### Gallery
 
-{% include gallery.html folder="lore/insights/connection/gallery" %}
+{% include gallery-nav.html folder="lore/insights/connection/gallery" %}
 
 ***
 

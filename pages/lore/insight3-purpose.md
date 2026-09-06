@@ -50,7 +50,7 @@ A spectrogram of [[ost]p.u.s.s.-e](../music/song-pusse) gave us the first look a
 
 ### Gallery
 
-{% include gallery.html folder="lore/insights/purpose/gallery" %}
+{% include gallery-nav.html folder="lore/insights/purpose/gallery" %}
 
 ***
 

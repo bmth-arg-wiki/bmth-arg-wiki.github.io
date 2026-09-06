@@ -31,7 +31,7 @@ It is sometimes used to spell out "BRING ME THE HORIZON" (pictured above) or "NE
 
 ## Downloadfest on Social Media
 
-{% include gallery.html folder="lore/downloadfest/gallery" %}
+{% include gallery-nav.html folder="lore/downloadfest/gallery" %}
 
 A post on Downloadfest from Oli depicts early art of Sof, notably with no serial number on M8's head present.
 

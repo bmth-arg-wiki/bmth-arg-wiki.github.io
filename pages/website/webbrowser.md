@@ -150,7 +150,7 @@ Anyhoo! If you can get your hands on a PISS, we should be able to bypass this no
 On December 15th 2024, thanks to the [Coordinates file](../for-sof/cities-coordinates) from the [Inventory](../for-sof/for-sof),
 the Spyder access codes were found on cards across three cities: Berlin, Sheffield, and Mexico City.
 
-{% include gallery.html folder="lore/webbrowser/accesscodes" %}
+{% include gallery-nav.html folder="lore/webbrowser/accesscodes" %}
 
 ![clear access codes](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/login.png)
 
