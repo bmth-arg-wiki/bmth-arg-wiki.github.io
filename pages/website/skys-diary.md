@@ -318,10 +318,6 @@ unlock both pages.
 
 ## Read More
 
-Related characters:
-
-- [Skys](../characters/skys)
-
 Related files:
 
 - [Original version of the first diary entry](../for-sof/skys-diary)
@@ -329,6 +325,10 @@ Related files:
 - [Unbeleevable Episode 1](../for-sof/unbeleevable)
 - [Unbeleevable Episode 2](../for-sof/unbeleevable2)
 - [Unbeleevable Episode 3](../for-sof/unbeleevable3)
+
+Related characters:
+
+- [Skys](../characters/skys)
 
 Related lore:
 
