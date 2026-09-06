@@ -29,10 +29,10 @@ into a PDF so you can also read it on the go.
 
 ***
 
-# Read More
+## Read More
 
 The most useful sources for a beginner are:
 
 - [Journal](../website/journal)
 - [Lore booklet](../lore/booklet)
-- [ARG website page](../website/website.md)
+- [ARG website page](../website/website)
