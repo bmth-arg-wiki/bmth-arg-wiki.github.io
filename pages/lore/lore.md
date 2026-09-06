@@ -42,7 +42,7 @@ This overview contains links for different lore pages, including sources posted 
 
 ## World-building
 
-{% assign page_links = '/pages/lore/youtopia, /pages/lore/dtc, /pages/lore/new-elysium, /pages/lore/novosovia, /pages/lore/pusse, /pages/m8, /pages/lore/vspr37, /pages/lore/mares, /pages/lore/night-of-pan' | split: ", " %}
+{% assign page_links = '/pages/lore/youtopia, /pages/lore/dtc, /pages/lore/new-elysium, /pages/lore/novosovia, /pages/lore/pusse, /pages/m8, /pages/lore/vspr37, /pages/lore/mares, /pages/lore/radiogenic-leukotrichia', /pages/lore/night-of-pan | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ***

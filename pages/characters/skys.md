@@ -49,7 +49,7 @@ to Novosovia in 2004. He quickly became the cult leader of the Neosages, better 
 A baby picture of Skys, according to [Dr. Lee MD](../for-sof/unbeleevable). Lee also tells us that Skys was born with the
 pink hair, which is the reason he was always special.
 
-Just like [Selene](selene) and [Sof](sof), Skys was born with Radiogenic Leukotrichia. 
+Just like [Selene](selene) and [Sof](sof), Skys was born with [Radiogenic Leukotrichia](../lore/radiogenic-leukotrichia). 
 This results from a genetic mutation, combined with radiation. As a result, the hair produces less 
 eumelanin (responsible for blue & black shades of hair) and increases the production of 
 pheomelanin. The latter is responsible for yellow and red hues in the hair, which causes 
@@ -285,6 +285,7 @@ Related lore:
 - [Arc/Hive](../lore/archive)
 - [Project D.U.S.T.](../lore/incident-dust)
 - [Nex Gen Corporation](../lore/nex-gen-corporation)
+- [Radiogenic Leukotrichia](../lore/radiogenic-leukotrichia)
 - [Mares](../lore/mares)
 - [Synths](../lore/synths)
 - [Novosovia](../lore/novosovia)

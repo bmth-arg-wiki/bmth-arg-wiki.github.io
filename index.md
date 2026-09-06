@@ -44,7 +44,7 @@ content="Last update on 13-06-2026, now showing the full advent calendar."
 The wiki has grown to over 100+ pages, growing regularly with updates from [our small team](pages/about). 
 These are the newest (or most recently expanded) pages on our wiki!
 
-{% assign page_links = '/pages/website/advent, /pages/lore/story-recap, /pages/lore/church, /pages/music/sao_paulo_live, /pages/for-sof/museum, /pages/website/skys-diary' | split: ", " %}
+{% assign page_links = '/pages/lore/radiogenic-leukotrichia, /pages/website/advent, /pages/lore/story-recap, /pages/lore/church, /pages/music/sao_paulo_live, /pages/for-sof/museum, /pages/website/skys-diary' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ***

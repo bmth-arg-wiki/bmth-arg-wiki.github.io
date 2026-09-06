@@ -41,7 +41,7 @@ and [Ikaro Lauren](../characters/ren).
 Novosovia is a fictional Eastern-European country. The country is under constant stress, being described as 
 hyper-religious by both [Sof](../characters/sof) and Dr. Lee MD. The country was suffering from the effects of 
 radiation as a consequence of World War 3. The radioactive fall-out, combined with a genetic component, 
-caused [Skys](../characters/skys) to be born with a condition named Radiogenic Leukotrichia. In the year 2037 
+caused [Skys](../characters/skys) to be born with a condition named [Radiogenic Leukotrichia](radiogenic-leukotrichia). In the year 2037 
 in New Elysium, there would eventually be a [newspaper](../for-sof/thesciencestudy) describing this phenomenon.
 
 [Strassman](../characters/strassman) was born in the country in the small city of Zelenopol, according to the 
@@ -58,7 +58,7 @@ residents of the DTC and Novosovia.
 ### Pink Hair
 
 In the Novosovian culture at the time of Skys' youth (approximately the 90's), both the conditions that cause
-white hair and pink hair (Radiogenic Leukotrichia) are feared, with Sof explaining pink hair would get you labeled
+white hair and pink hair ([Radiogenic Leukotrichia](radiogenic-leukotrichia)) are feared, with Sof explaining pink hair would get you labeled
 as a witch. From the newspaper in 2037, it seems like the Novosovians still fear the condition.
 
 Skys' parents decided to hide him away from the world, frequently locking him up. On his 8th birthday, they kicked 
@@ -106,3 +106,4 @@ Related lore:
 - [DTC](dtc)
 - [New Elysium](new-elysium)
 - [Sof's journal](../website/journal)
+- [Radiogenic Leukotrichia](radiogenic-leukotrichia)

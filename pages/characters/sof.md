@@ -60,8 +60,8 @@ an inventory with several puzzles too, used to unlock new files.
 
 ### Radiogenic Leukotrichia
 
-Just like her mother Selene and mysterious cult leader [Skys](skys), Sof suffers a rare mutation of the condition Radiogenic 
-Leukotrichia. This is a very rare condition that causes melanocytes, which give hair its colour, to be produced differently. 
+Just like her mother Selene and mysterious cult leader [Skys](skys), Sof suffers a rare mutation of the condition [Radiogenic 
+Leukotrichia](../lore/radiogenic-leukotrichia). This is a very rare condition that causes melanocytes, which give hair its colour, to be produced differently. 
 The condition commonly results in white hair, but a rare mutation (affecting approximately 1 in 5 million babies) may 
 cause them to be born with pink hair instead. 
 
@@ -140,3 +140,4 @@ Related lore:
 - [Youtopia](../lore/youtopia)
 - [VSPR-37](../lore/vspr37)
 - [Mares](../lore/mares)
+- [Radiogenic Leukotrichia](../lore/radiogenic-leukotrichia)
