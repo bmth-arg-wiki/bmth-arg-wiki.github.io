@@ -2,6 +2,7 @@
 title: "08. [ost] (spi)ritual"
 categories: ["music"]
 description: "The song [ost] (spi)ritual from the album POST HUMAN: NEx Gen."
+tags: ["spiritual", "archangels", "bring me the horizon", "ost", "bmth", "post human", "nex gen", "spectrogram", "lesser banishing ritual", "pentagram", "gabriel", "raphael", "uriel", "michael"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover_300.png"
 previous: "music/song-abwmno"
 previous_text: "07. a bulleT w/my namE On"
@@ -40,6 +41,8 @@ the archangels [Michael](../characters/michael), [Gabriel](../characters/gabriel
 ***
 
 ## Read More
+
+Related music:
 
 - [POST HUMAN: NeX GEn](ph-nex-gen)
 - [Spectrograms](spectrograms)
