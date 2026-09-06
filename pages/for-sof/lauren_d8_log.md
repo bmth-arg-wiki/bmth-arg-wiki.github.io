@@ -166,8 +166,6 @@ on his emotional state.
 
 ## Read More
 
-More from [📁 FOR SOF](../for-sof).
-
 Related files:
 
 - [Strassman codec](strassmancodec)
@@ -176,12 +174,7 @@ Related files:
 - [LBR sites letter](lbr_sites)
 - [Dallus Diary](dallus-diary)
 
-Related articles:
-
-- [ARC/HIVE](../lore/archive)
-- [Nex Gen](../lore/nex-gen-corporation)
-
-Related Characters:
+Related characters:
 
 - [Ikaro Lauren](../characters/ren)
 - [Dallus Lauren](../characters/dallus-lauren)
@@ -189,3 +182,8 @@ Related Characters:
 - [Lyra Lauren](../characters/lyra-lauren)
 - [EVE](../characters/eve)
 - [M8](../m8)
+
+Related lore:
+
+- [ARC/HIVE](../lore/archive)
+- [Nex Gen](../lore/nex-gen-corporation)
