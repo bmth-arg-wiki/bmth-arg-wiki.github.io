@@ -2,6 +2,7 @@
 title: "08. Ludens"
 categories: ["music"]
 description: "The song Ludens from the album POST HUMAN: SURVIVAL HORROR."
+tags: ["ludens", "bmth", "post human", "survival horror", "death stranding"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph1/album_cover_300.jpg"
 previous: "music/song-1x1"
 previous_text: "07. 1x1"
@@ -109,8 +110,9 @@ imagery of a protest.
 
 ## Read More
 
-[POST HUMAN: SURVIVAL HORROR](ph-survival-horror):
+Related music:
 
+- [POST HUMAN: SURVIVAL HORROR](ph-survival-horror):
 - [Dear Diary,](song-dear-diary)
 - [Parasite Eve](song-parasite-eve)
 - [Teardrops](song-teardrops)
