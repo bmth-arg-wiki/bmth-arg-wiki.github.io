@@ -5,7 +5,7 @@ a mysterious genetic anomaly that causes pink hair. The newspaper also features 
 about spiritual science, the third eye and a picture we are told is young Skys in the Unbeleevable video."
 categories: ["for-sof"]
 tags: ["science study", "skys", "pink", "mantra", "Radiogenic Leukotrichia", "for sof", "unbeleevable", 
-       "new elysium", "2037", "vspr-37", "novosovia"]
+       "new elysium", "2037", "vspr-37", "novosovia", "radiogenic leukotrichia"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/science_study/scistudy-300x300.png"
 previous: "for-sof/project_dust"
 previous_text: "Jan15_2031_declassified_PROJECT"
@@ -219,6 +219,7 @@ Related characters:
 
 Related lore:
 
+- [Radiogenic Leukotrichia](../lore/radiogenic-leukotrichia)
 - [Mantra cult](../lore/mantra)
 - [ARC/HIVE](../lore/archive)
 - [Nex Gen Corporation](../lore/nex-gen-corporation)
