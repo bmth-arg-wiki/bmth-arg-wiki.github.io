@@ -2,6 +2,7 @@
 title: "Spectrograms"
 categories: ["music"]
 description: "Spectrograms of Nex Gen and other BMTH audio."
+tags: ["spectrograms", "bmth", "post human", "nex gen", "hidden messages"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/spectrograms/skull_spectrogram.png"
 ---
 # Spectrograms
@@ -60,6 +61,20 @@ DIg It contains the QR code that lead to the website, as well as
 ***
 
 ## Read More
+
+Related characters:
+
+- [Archangel Raphael](../characters/raphael)
+- [Archangel Gabriel](../characters/gabriel)
+- [Archangel Michael](../characters/michael)
+- [Archangel Uriel](../characters/uriel)
+
+Related lore:
+
+- [Insights](../lore/insights)
+- [P.U.S.S-E](../lore/pusse)
+
+Related music:
 
 - [POST HUMAN: NeX GEn](ph-nex-gen)
 - [Top 10 staTues tHat CriEd bloOd](song-top10) (Connection)
