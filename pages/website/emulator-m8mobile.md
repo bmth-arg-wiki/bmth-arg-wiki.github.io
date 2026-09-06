@@ -58,7 +58,7 @@ being subtracted at least for taking damage.
 
 ## Read More
 
-Other games:
+Related website pages:
 
 - [Emulator](emulator)
 - [Scream Star](emulator-screamstar)
