@@ -104,7 +104,11 @@ Transcription by Alec
 
 ## Read More
 
-About the ARG website:
+Related characters:
+
+- [Rebecca Sinclair](../characters/rebecca)
+
+Related website pages:
 
 - [Website](website)
 - [Old website](website-v1)
@@ -128,11 +132,8 @@ Other Daily Whisper articles:
 - [Inside the Blood-Red Spectacles](tdw-bloodredspectacles)
 - [NEX GEN's Rogue Sentinels](tdw-roguesentinels)
 
-Related character:
+Related lore:
 
-- [Rebecca Sinclair](../characters/rebecca)
-
-Related Lore:
-
+- [Nex Gen Corporation](../lore/nex-gen-corporation)
 - [Lupamine](../lore/lupamine)
-- [NEX GEN Corp.](../lore/nex-gen-corporation)
+- [Synths](../lore/synths)
