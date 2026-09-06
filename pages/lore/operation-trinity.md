@@ -43,6 +43,16 @@ as a continuation of [Project Kingslayer](incident-kingslayer).
 
 ## Read More
 
+Related files:
+
+- [Operation Trinity article](../for-sof/trinity_document)
+- [Project D.U.S.T. proposal](../for-sof/project_dust)
+- [Skys & the Starjammers poster](../for-sof/skystarjammers)
+- [Unbeleevable Episode 1](../for-sof/unbeleevable)
+- [Unbeleevable Episode 2](../for-sof/unbeleevable2)
+- [Unbeleevable Episode 3](../for-sof/unbeleevable3)
+- [Interview with Victor Carmine](../for-sof/carmine_interview)
+
 Related characters:
 
 - [Victor Carmine](../characters/victor-carmine)
@@ -54,16 +64,6 @@ Related characters:
 - [Elena Lauren](../characters/elena-lauren)
 - [Lyra Lauren](../characters/lyra-lauren)
 - [Ava](../characters/ava)
-
-Related files:
-
-- [Operation Trinity article](../for-sof/trinity_document)
-- [Project D.U.S.T. proposal](../for-sof/project_dust)
-- [Skys & the Starjammers poster](../for-sof/skystarjammers)
-- [Unbeleevable Episode 1](../for-sof/unbeleevable)
-- [Unbeleevable Episode 2](../for-sof/unbeleevable2)
-- [Unbeleevable Episode 3](../for-sof/unbeleevable3)
-- [Interview with Victor Carmine](../for-sof/carmine_interview)
 
 Related lore:
 
