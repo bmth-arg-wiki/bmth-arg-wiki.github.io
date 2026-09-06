@@ -10,7 +10,7 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials
 
 # Genesis Storyline — Narrative Development
 
-{% include info.html
+{% include content/info.html
 title="This info might not be canon"
 icon="fa-solid fa-warning"
 content="This article contains info that directly contradicts Sof's journal in the ARG. 
