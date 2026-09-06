@@ -129,6 +129,14 @@ of the website.
 
 ## Read More
 
+Related files:
+
+- [Strassman Codec](../for-sof/strassmancodec)
+- [Selene's Map](../for-sof/selenes_map)
+- [Project D.U.S.T. Proposal](../for-sof/project_dust)
+- [Dreadit](../for-sof/dreadit)
+- [Chapel Video](../for-sof/chapel)
+
 Related characters:
 
 - [EVE](../characters/eve)
@@ -137,14 +145,6 @@ Related characters:
 - [Karl Strassman](../characters/strassman)
 - [Dallus Lauren](../characters/dallus-lauren)
 - [Victor Carmine](../characters/victor-carmine)
-
-Related files:
-
-- [Strassman Codec](../for-sof/strassmancodec)
-- [Selene's Map](../for-sof/selenes_map)
-- [Project D.U.S.T. Proposal](../for-sof/project_dust)
-- [Dreadit](../for-sof/dreadit)
-- [Chapel Video](../for-sof/chapel)
 
 Related lore:
 
