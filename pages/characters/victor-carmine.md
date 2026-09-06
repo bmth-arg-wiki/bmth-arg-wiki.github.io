@@ -182,6 +182,7 @@ Related files:
 - [LBR Sites](../for-sof/lbr_sites)
 - [Carmine Interview](../for-sof/carmine_interview)
 - [Dreadit Post](../for-sof/dreadit)
+- [Artifacts](../for-sof/artifacts#prosthetic-finger)
 
 Related characters:
 
