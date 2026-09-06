@@ -2,6 +2,7 @@
 title: "11. sTraNgeRs"
 categories: ["music"]
 description: "The song sTraNgeRs from the album POST HUMAN: NEx Gen."
+tags: ["strangers", "bmth", "post human", "nex gen", "single"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover_300.png"
 previous: "music/song-lost"
 previous_text: "10. LosT"
@@ -96,10 +97,9 @@ a version of the lyrics with minor adjustments.
 
 ## Read More
 
+Related music:
+
 - [POST HUMAN: NeX GEn](ph-nex-gen)
-
-Other singles:
-
 - [AmEN!](song-amen)
 - [DArkSide](song-darkside)
 - [DiE4u](song-die4u)
