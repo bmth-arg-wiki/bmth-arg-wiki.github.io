@@ -187,8 +187,6 @@ to contain a Dreaddit link in the URL bar.
 
 ## Read More
 
-More from [📁 FOR SOF](../for-sof)
-
 Related files:
 
 - [Message for Sof](msgforsof)
@@ -203,12 +201,6 @@ Related files:
 - [LBR sites letter](lbr_sites)
 - [Unbeleevable leaked video email](unbeleevable)
 
-Related articles:
-
-- [Nex Gen](../lore/nex-gen-corporation)
-- [ARC/HIVE](../lore/archive)
-- [Sof's journal](../website/journal.md)
-
 Related characters:
 
 - [E.V.E.](../characters/eve)
@@ -216,3 +208,9 @@ Related characters:
 - [Karl Strassman](../characters/strassman)
 - [Selene](../characters/selene)
 - [Sof](../characters/sof)
+
+Related articles:
+
+- [Nex Gen](../lore/nex-gen-corporation)
+- [ARC/HIVE](../lore/archive)
+- [Sof's journal](../website/journal)
