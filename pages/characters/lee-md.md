@@ -57,6 +57,12 @@ The episode ends with a man named Dr. Dee storming in, claiming that Lee is not 
 
 ## Read More
 
+Related files:
+
+- [Unbeleevable Episode 1 & leak email](../for-sof/unbeleevable)
+- [Unbeleevable Episode 2](../for-sof/unbeleevable2)
+- [Unbeleevable Episode 3](../for-sof/unbeleevable3)
+
 Related characters:
 
 - [Skys](skys)
@@ -66,18 +72,6 @@ Related characters:
 - [Medea](medea)
 - [Ava](ava)
 - [Madman](madman) (Potential)
-
-Related files:
-
-- [Unbeleevable Episode 1 & leak email](../for-sof/unbeleevable)
-- [Unbeleevable Episode 2](../for-sof/unbeleevable2)
-- [Unbeleevable Episode 3](../for-sof/unbeleevable3)
-
-Daily Whisper articles:
-
-- [Red, White & Blood](../website/tdw-redwhiteblood)
-- [Clone Chaos](../website/tdw-clonechaos)
-- [Inside the Blood Red Spectacle](../website/tdw-bloodredspectacles)
 
 Related lore:
 
@@ -89,3 +83,9 @@ Related lore:
 - [Mares](../lore/mares)
 - [Synths](../lore/synths)
 - [DTC](../lore/dtc)
+
+Related Daily Whisper (news) articles:
+
+- [Red, White & Blood](../website/tdw-redwhiteblood)
+- [Clone Chaos](../website/tdw-clonechaos)
+- [Inside the Blood Red Spectacle](../website/tdw-bloodredspectacles)
