@@ -131,16 +131,6 @@ leaving only those who "bear the mark".
 
 ## Read More
 
-Related characters:
-
-- [Skys](../characters/skys)
-- [Strassman](../characters/strassman)
-- [Dallus Lauren](../characters/dallus-lauren)
-- [Alfgram](../characters/alfgram)
-- [Victor Carmine](../characters/victor-carmine)
-- [Medea Carmine](../characters/medea)
-- [Ava](../characters/ava)
-
 Related files:
 
 - [Skys' Diary](../website/skys-diary)
@@ -159,7 +149,17 @@ Related files:
 - [Dreadit post](../for-sof/dreadit)
 - [Survival Horror anniversary post](../for-sof/survival-horror-anniversary)
 
-Related Daily Whisper articles:
+Related characters:
+
+- [Skys](../characters/skys)
+- [Strassman](../characters/strassman)
+- [Dallus Lauren](../characters/dallus-lauren)
+- [Alfgram](../characters/alfgram)
+- [Victor Carmine](../characters/victor-carmine)
+- [Medea Carmine](../characters/medea)
+- [Ava](../characters/ava)
+
+Related website pages:
 
 - [TDW: The Future of Entertainment](../website/tdw-futureentertainment)
 - [TDW: Faith on the Edge](../website/tdw-faithedge)
