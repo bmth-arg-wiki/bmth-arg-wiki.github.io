@@ -343,7 +343,13 @@ This password is hidden behind a puzzle with the scissors logo. It involves a sp
 
 ## Read More
 
-More [files](for-sof)!
+Related files:
+
+- [Skys & the Starjammers poster](skystarjammers)
+- [Skys' diary](skys-diary)
+- [Unbeleevable Episode 1](unbeleevable)
+- [Unbeleevable Episode 2](unbeleevable2)
+- [Unbeleevable Episode 3](unbeleevable3)
 
 Related characters:
 
@@ -353,13 +359,11 @@ Related characters:
 - [Dallus Lauren](../characters/dallus-lauren)
 - [Ava](../characters/ava)
 
-Related files:
+Related lore:
 
-- [Skys & the Starjammers poster](skystarjammers)
-- [Skys' diary](skys-diary)
-- [Unbeleevable Episode 1](unbeleevable)
-- [Unbeleevable Episode 2](unbeleevable2)
-- [Unbeleevable Episode 3](unbeleevable3)
+- [Cult of Mantra](../lore/mantra)
+- [Novosovia](../lore/novosovia)
+- [Ecliptism](../lore/ecliptism)
 
 Other puzzle files released around this time:
 
@@ -367,9 +371,3 @@ Other puzzle files released around this time:
 - [Grumblr second entry](grumblr2)
 - [Unbeleevable episode 2](unbeleevable2)
 - [Cities coordinates](cities-coordinates)
-
-Related lore:
-
-- [Cult of Mantra](../lore/mantra)
-- [Novosovia](../lore/novosovia)
-- [Ecliptism](../lore/ecliptism)
