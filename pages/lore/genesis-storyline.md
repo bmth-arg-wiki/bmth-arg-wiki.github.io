@@ -63,11 +63,11 @@ as they state that the cult likely started around the fall of the [Mantra cult](
 
 ## Read More
 
-Related lore: 
-
-- [Church of Genxsis](church)
-- [Nex Gen Corporation](nex-gen-corporation)
-
 Related characters:
 
 - [E.V.E.](../characters/eve)
+
+Related lore:
+
+- [Church of Genxsis](church)
+- [Nex Gen Corporation](nex-gen-corporation)
