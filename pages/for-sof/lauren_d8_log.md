@@ -32,8 +32,6 @@ before the outbreak of VSPR-37.
 0015
 </details>
 
-An analysis in simpler English can be found [here](analysis/lauren_d8_log_analysis).
-
 ### Gallery 
 
 {% include gallery-nav.html folder="files/lauren_d8_log/gallery" %}
