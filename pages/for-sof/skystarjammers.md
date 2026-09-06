@@ -82,6 +82,12 @@ This document was revealed in an Instagram post.
 
 ## Read More
 
+Related files:
+
+- [Trinity Document](trinity_document)
+- [The Science Study](thesciencestudy)
+- [Unbeleevable](unbeleevable)
+
 Related characters:
 
 - [Skys](../characters/skys)
@@ -90,12 +96,6 @@ Related characters:
 - [Victor Carmine](../characters/victor-carmine)
 - [Medea](../characters/medea)
 - [Ava](../characters)
-
-Related files:
-
-- [Trinity Document](trinity_document)
-- [The Science Study](thesciencestudy)
-- [Unbeleevable](unbeleevable)
 
 Related articles:
 
