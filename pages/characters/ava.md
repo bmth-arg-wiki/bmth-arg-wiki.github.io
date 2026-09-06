@@ -39,13 +39,6 @@ just as severe.
 
 ## Read More
 
-Related characters:
-
-- [Skys](skys)
-- [Karl Strassman](strassman)
-- [Dallus Lauren](dallus-lauren)
-- [Medea Carmine](medea)
-
 Related files:
 
 - [Unbeleevable Episode 1](../for-sof/unbeleevable)
@@ -53,3 +46,10 @@ Related files:
 - [Unbeleevable Episode 3](../for-sof/unbeleevable3)
 - [Russian Poem](../for-sof/russianpoem)
 - [Dallus' 2021 Diary](../for-sof/dallus-diary)
+
+Related characters:
+
+- [Skys](skys)
+- [Karl Strassman](strassman)
+- [Dallus Lauren](dallus-lauren)
+- [Medea Carmine](medea)
