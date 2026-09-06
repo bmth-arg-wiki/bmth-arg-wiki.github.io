@@ -170,22 +170,6 @@ Dr. Karl Strassman was user 0013 on the first version of the [webpage](../websit
 
 ## Read More
 
-Related characters:
-
-- [Ava](ava)
-- [Skys](skys)
-- [Dallus Lauren](dallus-lauren)
-- [Elena Lauren](elena-lauren)
-- [Ikaro (Ren) Lauren](ren)
-- [Lyra Lauren](lyra-lauren)
-- [Alfgram](alfgram)
-- [Medea Carmine](medea)
-- [Victor Carmine](victor-carmine)
-- [E.V.E](eve)
-- [Selene](selene)
-- [Scott](scott)
-- [Rebecca](rebecca)
-
 Related files:
 
 - [Skys & the Starjammers Poster](../for-sof/skystarjammers)
@@ -206,6 +190,22 @@ Related files:
 - [Unbeleevable Episode 3](../for-sof/unbeleevable3)
 - [Dreadit](../for-sof/dreadit)
 - [Artifacts](../for-sof/artifacts)
+
+Related characters:
+
+- [Ava](ava)
+- [Skys](skys)
+- [Dallus Lauren](dallus-lauren)
+- [Elena Lauren](elena-lauren)
+- [Ikaro (Ren) Lauren](ren)
+- [Lyra Lauren](lyra-lauren)
+- [Alfgram](alfgram)
+- [Medea Carmine](medea)
+- [Victor Carmine](victor-carmine)
+- [E.V.E](eve)
+- [Selene](selene)
+- [Scott](scott)
+- [Rebecca](rebecca)
 
 Related lore:
 
