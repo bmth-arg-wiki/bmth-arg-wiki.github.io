@@ -14,6 +14,9 @@ function closeModal() {
 
 if (modal) {
     document.querySelectorAll('img').forEach(img => {
+        // skip images that are links, as opening a modal is only annoying in this case
+        if (img.closest('a')) return;
+
         img.addEventListener('click', (e) => {
             modalImage.src = e.target.src;
 
