@@ -41,6 +41,12 @@ in which the young man succumbs to a [VSPR-37](../lore/vspr37) infection.
 
 ## Read More
 
+Related files:
+
+- [Scott's Diary (through password)](../for-sof/scott_personal_journal)
+- [Selene's Map](../for-sof/selenes_map)
+- [Youtopia Research](../for-sof/selene_youtopia_doc)
+
 Related characters:
 
 - [Archangel Raphael](raphael)
@@ -52,12 +58,6 @@ Other [band members](characters#band-members):
 - [Vegan / Matt K.](vegan)
 - [Madman / Lee](madman)
 - [Pickles / Mat N.](pickles)
-
-Related files:
-
-- [Scott's Diary (through password)](../for-sof/scott_personal_journal)
-- [Selene's Map](../for-sof/selenes_map)
-- [Youtopia Research](../for-sof/selene_youtopia_doc)
 
 Related lore:
 
