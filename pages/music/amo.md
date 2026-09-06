@@ -2,6 +2,7 @@
 title: "amo"
 categories: ["music"]
 description: "The album amo."
+tags: ["amo", "bmth", "post human", "mantra", "cult", "bring me the horizon"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/amo/album_cover_300.png"
 next: "music/ph-survival-horror"
 next_text: "POST HUMAN: SURVIVAL HORROR"
