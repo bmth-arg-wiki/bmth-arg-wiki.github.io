@@ -175,6 +175,7 @@ Related characters:
 Related lore:
 
 - [Cult of Mantra](mantra)
+- [October Massacre](october-massacre)
 - [Ecliptism](ecliptism)
 - [Project Kingslayer](incident-kingslayer)
 - [Operation Trinity](operation-trinity)

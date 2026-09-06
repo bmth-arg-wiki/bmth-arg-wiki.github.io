@@ -102,6 +102,7 @@ Related lore:
 - [Sof's Journal](../website/journal)
 - [Mares](mares)
 - [Cult of Mantra](mantra)
+- [October Massacre](october-massacre)
 - [Project Kingslayer](incident-kingslayer)
 - [Operation Trinity](operation-trinity)
 - [Arc/Hive](archive)

@@ -148,6 +148,7 @@ Related lore:
 - [Mares](mares)
 - [Operation Trinity](operation-trinity)
 - [Project D.U.S.T.](incident-dust)
+- [October Massacre](october-massacre)
 - [Novosovia](novosovia)
 - [New Elysium](new-elysium)
 - [DTC](dtc)

@@ -168,6 +168,7 @@ Related lore:
 
 - [Church of Genxsis](church)
 - [MANTRA Cult](mantra)
+- [October Massacre](october-massacre)
 - [Mares](mares)
 - [Project Kingslayer](incident-kingslayer)
 - [Operation Trinity](operation-trinity)

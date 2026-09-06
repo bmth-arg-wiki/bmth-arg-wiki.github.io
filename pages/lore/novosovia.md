@@ -102,7 +102,9 @@ Related characters:
 
 Related lore:
 
+- [Radiogenic Leukotrichia](radiogenic-leukotrichia)
 - [Mantra Cult](mantra)
+- [October Massacre](october-massacre)
 - [DTC](dtc)
 - [New Elysium](new-elysium)
 - [Sof's journal](../website/journal)

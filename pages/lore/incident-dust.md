@@ -125,8 +125,8 @@ Related lore:
 
 - [Sof's journal](../website/journal)
 - [Cult of Mantra](mantra)
+- [October Massacre](october-massacre)
 - [Project Kingslayer](incident-kingslayer)
 - [Arc/Hive](archive)
 - [Operation Trinity](operation-trinity)
-- []
 - [Chapel Incident](incident-chapel)

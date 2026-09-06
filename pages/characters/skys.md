@@ -278,6 +278,7 @@ Related characters:
 Related lore:
 
 - [Mantra Cult](../lore/mantra)
+- [October Massacre](../lore/october-massacre)
 - [Project Kingslayer](../lore/incident-kingslayer)
 - [Ecliptism](../lore/ecliptism)
 - [Church of Genxsis](../lore/church)

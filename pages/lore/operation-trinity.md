@@ -67,6 +67,7 @@ Related characters:
 
 Related lore:
 
+- [October Massacre](october-massacre)
 - [Novosovia](novosovia)
 - [Mantra](mantra)
 - [DTC](dtc)
