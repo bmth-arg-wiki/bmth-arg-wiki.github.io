@@ -86,7 +86,17 @@ Transcription by Alec
 
 ## Read More
 
-About the ARG website:
+Related files:
+
+- [Tekka Magazine interviews the first Synth Rebecca](../for-sof/tekka_interview)
+
+Related characters:
+
+- [Rebecca Sinclair](../characters/rebecca)
+- [Dallus Lauren](../characters/dallus-lauren)
+- [Ikaro Lauren](../characters/ren)
+
+Related website pages:
 
 - [Website](website)
 - [Old website](website-v1)
@@ -110,13 +120,8 @@ Other Daily Whisper articles:
 - [Inside the Blood-Red Spectacles](tdw-bloodredspectacles)
 - [NEX GEN's Rogue Sentinels](tdw-roguesentinels)
 
-Related characters:
+Related lore:
 
-- [Rebecca Sinclair](../characters/rebecca)
-- [Dallus Lauren](../characters/dallus-lauren)
-- [Ikaro Lauren](../characters/ren)
-
-Related Lore:
-
+- [Nex Gen Corporation](../lore/nex-gen-corporation)
 - [Synths](../lore/synths)
 - [Lupamine](../lore/lupamine)
