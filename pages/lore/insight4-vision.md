@@ -124,14 +124,9 @@ This password was obtained through the spectrogram of [DIg It](../music/song-dig
 
 ## Read More
 
-More from [📁 FOR SOF](../for-sof/for-sof)
+Related files:
 
-The other insights:
-
-- [The Insights](insights)
-- [Insight 1: Connection](insight1-connection)
-- [Insight 2: Empathy](insight2-empathy)
-- [Insight 3: Purpose](insight3-purpose)
+- [Selene's Map](../for-sof/selenes_map)
 
 Related characters:
 
@@ -139,16 +134,21 @@ Related characters:
 - [The Babylon](../characters/babylon)
 - [Vegan](../characters/vegan)
 
-Related file:
-
-- [Selene's Map](../for-sof/selenes_map)
-
 Related lore:
 
 - [Deluxe album booklet](booklet)
 - [Youtopia](youtopia)
 
+The other insights:
+
+- [The Insights](insights)
+- [Insight 1: Connection](insight1-connection)
+- [Insight 2: Empathy](insight2-empathy)
+- [Insight 3: Purpose](insight3-purpose)
+- 
 Related music:
 
 - [Spectrograms](../music/spectrograms)
 - [DIg It](../music/song-digit)
+- [[ost] (spi)ritual](../music/song-spiritual)
+

@@ -115,7 +115,20 @@ This password was obtained through the spectrogram of [[ost] p.u.s.s.-e](../musi
 
 ## Read More
 
-More from [📁 FOR SOF](../for-sof/for-sof)
+Related files:
+
+- [Selene's Map](../for-sof/selenes_map)
+
+Related characters:
+
+- [Michael](../characters/michael)
+- [Vanth: Prince(ss) Of Death](../characters/vanth)
+- [Pickles](../characters/pickles)
+
+Related lore:
+
+- [Deluxe album booklet](booklet)
+- [Youtopia](youtopia)
 
 The other Insights:
 
@@ -124,22 +137,10 @@ The other Insights:
 - [Insight 2: Empathy](insight2-empathy)
 - [Insight 4: Vision](insight4-vision)
 
-Related characters:
-
-- [Michael](../characters/michael)
-- [Vanth: Prince(ss) Of Death](../characters/vanth)
-- [Pickles](../characters/pickles)
-
-Related file:
-
-- [Selene's Map](../for-sof/selenes_map)
-
-Related lore:
-
-- [Deluxe album booklet](booklet)
-- [Youtopia](youtopia)
-
 Related music:
 
 - [Spectrograms](../music/spectrograms)
 - [[ost] p.u.s.s.-e](../music/song-pusse)
+- [[ost] (spi)ritual](../music/song-spiritual)
+
+

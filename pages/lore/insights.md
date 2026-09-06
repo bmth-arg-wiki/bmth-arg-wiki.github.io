@@ -130,7 +130,18 @@ including a pentagram with the four triangles and the symbol for spirit.
 
 ## Read More
 
-More from [📁 FOR SOF](../for-sof/for-sof#for-sof)
+Related files:
+
+- [Selene's map](../for-sof/selenes_map)
+
+Related characters:
+
+- [Selene](../characters/selene)
+- [Sof](../characters/sof)
+
+Related lore:
+
+- [The Relics](booklet#page-023)
 
 The Four Insights:
 
@@ -138,11 +149,6 @@ The Four Insights:
 2. [Empathy](insight2-empathy)
 3. [Purpose](insight3-purpose)
 4. [Vision](insight4-vision)
-
-Related characters:
-
-- [Selene](../characters/selene)
-- [Sof](../characters/sof)
 
 The [Archangels](../characters/characters#the-archangels):
 
@@ -164,14 +170,6 @@ The [Band](../characters/characters#band-members):
 - [Pickles](../characters/pickles)
 - [Madman](../characters/madman)
 - [Vegan](../characters/vegan)
-
-Related file:
-
-- [Selene's map](../for-sof/selenes_map)
-
-Related lore:
-
-- [The Relics](booklet#page-023)
 
 Related music:
 

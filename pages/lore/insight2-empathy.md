@@ -122,7 +122,20 @@ This password was obtained through the spectrogram of [n/A](../music/song-na) sh
 
 ## Read More
 
-More from [📁 FOR SOF](../for-sof/for-sof)
+Related files:
+
+- [Selene's Map](../for-sof/selenes_map)
+
+Related characters:
+
+- [Gabriel](../characters/gabriel)
+- [Miseria](../characters/miseria)
+- [Madman](../characters/madman)
+
+Related lore:
+
+- [Deluxe album booklet](booklet)
+- [Youtopia](youtopia)
 
 The other Insights:
 
@@ -131,22 +144,8 @@ The other Insights:
 - [Insight 3: Purpose](insight3-purpose)
 - [Insight 4: Vision](insight4-vision)
 
-Related characters:
-
-- [Gabriel](../characters/gabriel)
-- [Miseria](../characters/miseria)
-- [Madman](../characters/madman)
-
-Related file:
-
-- [Selene's Map](../for-sof/selenes_map)
-
-Related lore:
-
-- [Deluxe album booklet](booklet)
-- [Youtopia](youtopia)
-
 Related music:
 
 - [Spectrograms](../music/spectrograms)
 - [n/A](../music/song-na)
+- [[ost] (spi)ritual](../music/song-spiritual)

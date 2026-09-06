@@ -135,7 +135,20 @@ This password was obtained through the spectrogram of [Top 10 staTues tHat CriEd
 
 ## Read More
 
-More from [📁 FOR SOF](../for-sof/for-sof)
+Related files:
+
+- [Selene's Map](../for-sof/selenes_map)
+
+Related characters:
+
+- [Raphael](../characters/raphael)
+- [Pan](../characters/pan)
+- [Syko](../characters/syko)
+
+Related lore:
+
+- [Deluxe album booklet](booklet)
+- [Youtopia](youtopia)
 
 The other Insights:
 
@@ -144,22 +157,8 @@ The other Insights:
 - [Insight 3: Purpose](insight3-purpose)
 - [Insight 4: Vision](insight4-vision)
 
-Related characters:
-
-- [Raphael](../characters/raphael)
-- [Pan](../characters/pan)
-- [Syko](../characters/syko)
-
-Related file:
-
-- [Selene's Map](../for-sof/selenes_map)
-
-Related lore:
-
-- [Deluxe album booklet](booklet)
-- [Youtopia](youtopia)
-
 Related music:
 
 - [Spectrograms](../music/spectrograms)
 - [Top 10 staTues tHat CriEd bloOd](../music/song-top10)
+- [[ost] (spi)ritual](../music/song-spiritual)
