@@ -80,7 +80,11 @@ Transcription by Alec
 
 ## Read More
 
-About the ARG website:
+Related characters:
+
+- [Rebecca Sinclair](../characters/rebecca)
+
+Related website pages:
 
 - [Website](website)
 - [Old website](website-v1)
@@ -88,6 +92,10 @@ About the ARG website:
 - [Noctune Music Player](website-songs)
 - [Wi-Fi](wifi)
 - [Journal](journal)
+
+Related lore:
+
+- [Lupamine](../lore/lupamine)
 
 Other Daily Whisper articles:
 
@@ -103,11 +111,3 @@ Other Daily Whisper articles:
 - [The Future of Entertainment](tdw-futureentertainment)
 - [Inside the Blood-Red Spectacles](tdw-bloodredspectacles)
 - [NEX GEN's Rogue Sentinels](tdw-roguesentinels)
-
-Related characters:
-
-- [Rebecca Sinclair](../characters/rebecca)
-
-Related lore:
-
-- [Lupamine](../lore/lupamine)
