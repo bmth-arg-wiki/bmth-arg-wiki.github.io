@@ -108,13 +108,6 @@ The extended intro of Mantra offers us a little glimpse into the cult of Mantra.
 
 ## Read More
 
-Relevant music articles:
-
-- [amo](amo)
-- [nihilist blues ft. grimes](amo-nihilist-blues)
-- [in the dark](amo-in-the-dark)
-- [sugar, honey, ice and tea](amo-shit)
-
 Related files:
 
 - [Trinity document](../for-sof/trinity_document)
@@ -122,15 +115,22 @@ Related files:
 - [Unbeleevable Episode 2](../for-sof/unbeleevable2)
 - [Skys & the Starjammers poster](../for-sof/skystarjammers)
 
-Related lore articles:
-
-- [Mantra cult](../lore/mantra)
-- [ARC/HIVE](../lore/archive)
-- [joinmantra.org](../lore/mantra#joinmantraorg)
-
-Related Characters:
+Related characters:
 
 - [Skys](../characters/skys)
 - [Medea](../characters/medea)
 - [Strassman](../characters/strassman)
 - [Dallus Lauren](../characters/dallus-lauren)
+
+Related lore:
+
+- [Mantra cult](../lore/mantra)
+- [ARC/HIVE](../lore/archive)
+- [joinmantra.org](../lore/mantra#joinmantraorg)
+
+Related music:
+
+- [amo](amo)
+- [nihilist blues ft. grimes](amo-nihilist-blues)
+- [in the dark](amo-in-the-dark)
+- [sugar, honey, ice and tea](amo-shit)
