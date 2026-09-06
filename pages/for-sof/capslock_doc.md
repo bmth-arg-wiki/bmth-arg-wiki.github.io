@@ -139,8 +139,6 @@ placeholder address anymore**.
 
 ## Read More
 
-More from [📁 FOR SOF](../for-sof)
-
 Related files:
 
 - [Strassman Codec](strassmancodec)
