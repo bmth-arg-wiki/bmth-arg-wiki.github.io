@@ -112,18 +112,18 @@ in Youtopia and the [booklet](../lore/booklet), is currently unknown.
 
 ## Read More
 
+Related files:
+
+- [Selene's personal journal](selene_personal_journal)
+- [Kingslayer Codec](../for-sof/kingslayercodec)
+
 Related characters:
 
 - [Scott](../characters/scott)
 - [Syko](../characters/syko)
 - [Selene](../characters/selene)
 
-Related files:
-
-- [Selene's personal journal](selene_personal_journal)
-- [Kingslayer Codec](../for-sof/kingslayercodec)
-
 Related lore:
 
-- [Sof's journal](../website/journal.md)
+- [Sof's journal](../website/journal)
 - [Nex Gen Corp.](../lore/nex-gen-corporation)
