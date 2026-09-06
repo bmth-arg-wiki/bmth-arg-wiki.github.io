@@ -2,6 +2,7 @@
 title: "POST HUMAN: SURVIVAL HORROR"
 categories: ["music"]
 description: "The album POST HUMAN: SURVIVAL HORROR."
+tags: ["survival horror", "bmth", "post human", "album", "bring me the horizon", "dear diary", "kingslayer"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph1/album_cover_300.jpg"
 previous: "music/amo"
 previous_text: "amo"
