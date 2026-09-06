@@ -36,13 +36,7 @@ There are games on the website outside the emulator as well. Their pages will te
 
 ## Read More
 
-Emulator games:
-
-- [Scream Star](emulator-screamstar)
-- [Escape Game](emulator-escape)
-- [M8 Mobile](emulator-m8mobile)
-
-About the ARG website:
+Related website pages:
 
 - [Old website](website-v1)
 - [Journal](journal)
@@ -50,3 +44,8 @@ About the ARG website:
 - [Noctune Music Player](website-songs)
 - [Wi-Fi](wifi)
 
+Emulator games:
+
+- [Scream Star](emulator-screamstar)
+- [Escape Game](emulator-escape)
+- [M8 Mobile](emulator-m8mobile)
