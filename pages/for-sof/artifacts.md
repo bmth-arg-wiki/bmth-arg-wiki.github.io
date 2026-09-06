@@ -156,8 +156,7 @@ to [Skys](../characters/skys), who dyed his hair with leech blood in Ingleterra 
 an abandoned asylum (Source: [Unbeleevable 2](../for-sof/unbeleevable2)).
 
 The label on the bottle has the text 'DCPHR-4', along with a sequence of characters: `6479bnmcxz`. 
-This is theorised to be a clue to [Victor's Journal](../for-sof/carmine_interview)'s final tab, which is still locked 
-behind a cipher at the time of writing.
+This is part of a clue to [Victor's Journal](../for-sof/carmine_interview)'s final tab's password.
 
 ### Grey/Silver Puzzle
 
