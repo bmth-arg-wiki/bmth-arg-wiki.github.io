@@ -110,14 +110,6 @@ in the sticky notes. Since the December 2024 update, the password is no longer n
 
 ## Read More
 
-Related characters:
-
-- [Selene](../characters/selene)
-- [Sof](../characters/sof)
-- [Pan](../characters/pan)
-- [Miseria](../characters/miseria)
-- [Vanth](../characters/vanth)
-
 Related files:
 
 - [Message for Sof](msgforsof)
@@ -126,6 +118,14 @@ Related files:
 - [Selene's Diary](selene_personal_journal)
 - [Scott's Diary](scott_personal_journal)
 - [LBR Sites](lbr_sites) (through password)
+
+Related characters:
+
+- [Selene](../characters/selene)
+- [Sof](../characters/sof)
+- [Pan](../characters/pan)
+- [Miseria](../characters/miseria)
+- [Vanth](../characters/vanth)
 
 Related articles:
 
