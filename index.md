@@ -21,7 +21,7 @@ image: "/Resources/webpage/webpage-overview.png"
 title="Where love is the law, a Youtopia" 
 icon="fa-solid fa-heart"
 content="Welcome to the Bring Me The Horizon ARG Wiki! We are here to help you get started. 
-If you are completely new here, we recommend you start with the [story recap]([ages/lore/story-recap)." 
+If you are completely new here, we recommend you start with the [story recap](/pages/lore/story-recap)." 
 %}
 
 This wiki centers all around the mysteries around the album [POST HUMAN: NeX GEn](pages/music/ph-nex-gen). 
@@ -123,7 +123,7 @@ Please check out these collaborations from the Post Human fandom!
 
 ## Collaborators and conspirators
 
-{% include info.html
+{% include content/info.html
 title="Grab your tinfoil hats!"
 icon="fa-solid fa-hat-wizard"
 content="The [Notion page](https://the-secret-tinfoil-society.notion.site/BRING-ME-THE-HORIZON-ARG-6c86ee58ee3b41a6b0c594cf59201d4b)
