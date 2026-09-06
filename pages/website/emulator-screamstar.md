@@ -59,7 +59,7 @@ The intro to the album, [Dreamseeker](../music/song-dreamseeker), [P.U.S.S-E](..
 
 ## Read More
 
-Other games:
+Related files:
 
 - [Emulator](emulator)
 - [Escape Game](emulator-escape)
