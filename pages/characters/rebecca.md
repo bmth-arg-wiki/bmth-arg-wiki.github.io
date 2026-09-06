@@ -66,22 +66,6 @@ Related files:
 - [November 2027 Grumblr post](../for-sof/grumblr2)
 - [D8 log](../for-sof/lauren_d8_log)
 
-Related TDW articles:
-
-- [Clone Chaos](../website/tdw-clonechaos)
-- [What is a Loop-Hole?](../website/tdw-loophole)
-- [The Dark Rise of Lupamine](../website/tdw-riseoflupamine)
-- [The Rise of Synthetic Humans](../website/tdw-riseofsynth)
-- [NEX GEN's Rogue Sentinels](../website/tdw-roguesentinels)
-
-Related articles:
-
-- [ARC/HIVE](../lore/archive)
-- [Nex Gen Corporation](../lore/nex-gen-corporation)
-- [Synths](../lore/synths)
-- [Lupamine](../lore/lupamine)
-- [Webbrowser](../website/webbrowser)
-
 Related characters:
 
 - [Iara Copple](iara)
@@ -90,6 +74,14 @@ Related characters:
 - [Dr. Karl Strassman](strassman)
 - [Victor Carmine](victor-carmine)
 - [Dr. Elias Mortem](elias-mortem)
+
+Related Daily Whisper (news) articles:
+
+- [Clone Chaos](../website/tdw-clonechaos)
+- [What is a Loop-Hole?](../website/tdw-loophole)
+- [The Dark Rise of Lupamine](../website/tdw-riseoflupamine)
+- [The Rise of Synthetic Humans](../website/tdw-riseofsynth)
+- [NEX GEN's Rogue Sentinels](../website/tdw-roguesentinels)
 
 Related lore:
 
