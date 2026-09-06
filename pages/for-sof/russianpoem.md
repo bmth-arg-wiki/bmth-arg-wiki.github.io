@@ -37,7 +37,7 @@ the [Skys & The Starjammers poster](skystarjammers). The password
 for this was found in an [Instagram post](https://www.instagram.com/p/C-DhcBaC4NP/).
 
 More context was provided in December 2024, when a website
-update dropped [Sof](../characters/sof)'s thoughts on the matter in their [journal](../website/journal.md).
+update dropped [Sof](../characters/sof)'s thoughts on the matter in their [journal](../website/journal).
 
 ***
 
@@ -112,11 +112,6 @@ The password was found by taking multiple pieces of a letter from an
 
 ## Read more
 
-Related characters:
-
-- [Ava](../characters/ava)
-- [Strassman](../characters/strassman)
-
 Related files:
 
 - [Skys & the Starjammers Poster](../for-sof/skystarjammers)
@@ -124,6 +119,11 @@ Related files:
 - [Unbeleevable Episode 2](../for-sof/unbeleevable2)
 - [Unbeleevable Episode 3](../for-sof/unbeleevable3)
 - [Dallus' Diary](dallus-diary)
+
+Related characters:
+
+- [Ava](../characters/ava)
+- [Strassman](../characters/strassman)
 
 Related lore:
 
