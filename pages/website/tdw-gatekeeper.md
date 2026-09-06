@@ -127,7 +127,18 @@ Transcription by Alec
 
 ## Read More
 
-About the ARG website:
+Related files:
+
+- [Artifacts](../for-sof/artifacts)
+- [Rebecca's second Grumblr post](../for-sof/grumblr2)
+
+Related characters:
+
+- [Dallus Lauren](../characters/dallus-lauren)
+- [Ikaro 'Ren' Lauren](../characters/ren)
+- [Lyra Lauren](../characters/lyra-lauren)
+
+Related website pages:
 
 - [Website](website)
 - [Old website](website-v1)
@@ -150,9 +161,3 @@ Other Daily Whisper articles:
 - [The Future of Entertainment](tdw-futureentertainment)
 - [Inside the Blood-Red Spectacles](tdw-bloodredspectacles)
 - [NEX GEN's Rogue Sentinels](tdw-roguesentinels)
-
-Related characters:
-
-- [Dallus Lauren](../characters/dallus-lauren)
-- [Ikaro 'Ren' Lauren](../characters/ren)
-- [Lyra Lauren](../characters/lyra-lauren)
