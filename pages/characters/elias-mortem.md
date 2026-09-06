@@ -47,6 +47,11 @@ Project D.U.S.T. may have resulted in the Chapel incident, where Mortem and his 
 
 ## Read More
 
+Related files:
+
+- [Project D.U.S.T. proposal](../for-sof/project_dust)
+- [Chapel video](../for-sof/chapel)
+
 Related characters:
 
 - [Skys](skys)
@@ -59,11 +64,6 @@ Related characters:
 - [Medea Carmine](medea)
 - [Iara Copple](iara)
 - [Rebecca Sinclair](rebecca)
-
-Related files:
-
-- [Project D.U.S.T. proposal](../for-sof/project_dust)
-- [Chapel video](../for-sof/chapel)
 
 Related lore:
 
