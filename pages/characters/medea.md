@@ -63,15 +63,7 @@ Related files:
 - [Unbeleevable Episode 1](../for-sof/unbeleevable)
 - [Unbeleevable Episode 2](../for-sof/unbeleevable2)
 - [Unbeleevable Episode 3](../for-sof/unbeleevable3)
-
-Related lore:
-
-- [Cult of Mantra/Neosages](../lore/mantra)
-- [Project Kingslayer](../lore/incident-kingslayer)
-- [DTC](../lore/dtc)
-- [Novosovia](../lore/novosovia)
-- [Operation Trinity](../lore/operation-trinity)
-- [Mares](../lore/mares)
+- [Victor Carmine interview](../for-sof/carmine_interview)
 
 Related characters:
 
@@ -82,6 +74,15 @@ Related characters:
 - [Ava](ava)
 - [Alfgram](alfgram)
 - [Dr. Lee MD](lee-md)
+
+Related lore:
+
+- [Cult of Mantra/Neosages](../lore/mantra)
+- [Project Kingslayer](../lore/incident-kingslayer)
+- [DTC](../lore/dtc)
+- [Novosovia](../lore/novosovia)
+- [Operation Trinity](../lore/operation-trinity)
+- [Mares](../lore/mares)
 
 Related music:
 
