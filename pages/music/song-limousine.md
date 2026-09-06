@@ -97,7 +97,3 @@ Related music:
 
 - [POST HUMAN: NeX GEn](ph-nex-gen)
 - [Top 10 staTues tHat CriEd bloOd](song-top10)
-
-External:
-
-- [AURORA](https://nl.wikipedia.org/wiki/AURORA)
