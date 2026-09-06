@@ -147,10 +147,6 @@ name of the actor playing in [In The Dark](../music/amo-in-the-dark) is Forest W
 
 ## Read More
 
-Related characters:
-
-- [Lee MD](../characters/lee-md)
-
 Related files:
 
 - [Operation Trinity](trinity_document)
@@ -158,9 +154,12 @@ Related files:
 - [Sky_&_The_Starjammers.png](skystarjammers)
 - [Unbeleevable Episode 2](unbeleevable2)
 
+Related characters:
+
+- [Lee MD](../characters/lee-md)
+
 Related lore:
 
 - [Mantra cult](../lore/mantra)
 - [MANTRA (song)](../music/amo-mantra)
 - [Church of Genxsis](../lore/church)
-
