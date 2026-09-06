@@ -141,20 +141,6 @@ Sof writes about this file in their journal.
 
 # Read More
 
-More from [📁 FOR SOF](for-sof)
-
-Related characters:
-
-- [Dallus Lauren](../characters/dallus-lauren)
-- [Elena Lauren](../characters/elena-lauren)
-- [Ikaro 'Ren' Lauren](../characters/ren)
-- [Lyra Lauren](../characters/lyra-lauren)
-- [Strassman](../characters/strassman)
-- [Skys](../characters/skys)
-- [Victor Carmine](../characters/victor-carmine)
-- [Medea Carmine](../characters/medea)
-- [Rebecca Sinclair](../characters/rebecca)
-
 Related files:
 
 - [Skys & the Starjammers poster](skystarjammers)
@@ -169,7 +155,19 @@ Related files:
 - [Unbeleevable Episode 2](unbeleevable2)
 - [Unbeleevable Episode 3](unbeleevable3)
 
-Related TDW articles:
+Related characters:
+
+- [Dallus Lauren](../characters/dallus-lauren)
+- [Elena Lauren](../characters/elena-lauren)
+- [Ikaro 'Ren' Lauren](../characters/ren)
+- [Lyra Lauren](../characters/lyra-lauren)
+- [Strassman](../characters/strassman)
+- [Skys](../characters/skys)
+- [Victor Carmine](../characters/victor-carmine)
+- [Medea Carmine](../characters/medea)
+- [Rebecca Sinclair](../characters/rebecca)
+
+Related Daily Whisper (news) articles:
 
 - [Gat3keeper](../website/tdw-gatekeeper)
 - [Clone Chaos](../website/tdw-clonechaos)
