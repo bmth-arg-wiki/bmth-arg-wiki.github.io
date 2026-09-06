@@ -34,13 +34,6 @@ slider puzzles.
 
 ## Read More
 
-Related characters:
-
-- [Skys](../characters/skys)
-- [Selene](../characters/selene)
-- [Sof](../characters/sof)
-- [Victor Carmine](../characters/victor-carmine)
-
 Related files:
 
 - [Scott's Diary](scott_personal_journal)
@@ -48,6 +41,13 @@ Related files:
 - [Kingslayer Codec](kingslayercodec)
 - [Unbeleevable Episode 2](unbeleevable2)
 - [Carmine's Interview](carmine_interview)
+
+Related characters:
+
+- [Skys](../characters/skys)
+- [Selene](../characters/selene)
+- [Sof](../characters/sof)
+- [Victor Carmine](../characters/victor-carmine)
 
 Related lore:
 
