@@ -37,14 +37,6 @@ in 2024, with no mention of Elena.
 
 ## Read More
 
-Related characters:
-
-- [Lyra Lauren](lyra-lauren)
-- [Ren Lauren](ren)
-- [Dallus Lauren](dallus-lauren)
-- [Strassman](strassman)
-- [Skys](skys)
-
 Related files:
 
 - [Operation Trinity](../for-sof/trinity_document)
@@ -55,9 +47,17 @@ Related files:
 - [Unbeleevable Episode 2](../for-sof/unbeleevable2)
 - [Unbeleevable Episode 3](../for-sof/unbeleevable3)
 
-Related TDW articles:
+Related characters:
 
-- [Gatekeeper](../website/tdw-gatekeeper)
+- [Lyra Lauren](lyra-lauren)
+- [Ren Lauren](ren)
+- [Dallus Lauren](dallus-lauren)
+- [Strassman](strassman)
+- [Skys](skys)
+
+Related Daily Whisper (news) articles:
+
+- [Gatekeeper Themepark](../website/tdw-gatekeeper)
 
 Related lore:
 
