@@ -112,16 +112,6 @@ was also used as the password for her [diary](../for-sof/selene_personal_journal
 
 # Read More
 
-Related characters:
-
-- [Sof](sof)
-- [M8](../m8)
-- [E.V.E.](eve)
-- [Dr. Karl Strassman](strassman)
-- [Ikaro (Ren) Lauren](ren)
-- [Scott](scott)
-- [Syko (speculated)](syko)
-
 Related files:
 
 - [Dreaddit post](../for-sof/dreadit)
@@ -131,6 +121,16 @@ Related files:
 - [CAPSLOCK DOC](../for-sof/capslock_doc)
 - [Selene Youtopia doc](../for-sof/selene_youtopia_doc)
 - [The Science Study](../for-sof/thesciencestudy)
+
+Related characters:
+
+- [Sof](sof)
+- [M8](../m8)
+- [E.V.E.](eve)
+- [Dr. Karl Strassman](strassman)
+- [Ikaro (Ren) Lauren](ren)
+- [Scott](scott)
+- [Syko (speculated)](syko)
 
 Related lore:
 
