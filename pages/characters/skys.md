@@ -248,17 +248,6 @@ one can interpret it as Rebecca saying she will kill Skys, or that she will allo
 
 ## Read More
 
-Related characters:
-
-- [Dallus Lauren](dallus-lauren)
-- [Karl Strassman](strassman)
-- [Alfgram](alfgram)
-- [Medea](medea)
-- [Ava](ava)
-- [Victor Carmine](victor-carmine)
-- [Dr. Elias Mortem](elias-mortem)
-- [Rebecca Sinclair](rebecca)
-
 Related files:
 
 - [Skys' Diary](../for-sof/skys-diary)
@@ -274,6 +263,17 @@ Related files:
 - [Unbeleevable email & Episode 1](../for-sof/unbeleevable)
 - [Unbeleevable Episode 2](../for-sof/unbeleevable2)
 - [Unbeleevable Episode 3](../for-sof/unbeleevable3)
+
+Related characters:
+
+- [Dallus Lauren](dallus-lauren)
+- [Karl Strassman](strassman)
+- [Alfgram](alfgram)
+- [Medea](medea)
+- [Ava](ava)
+- [Victor Carmine](victor-carmine)
+- [Dr. Elias Mortem](elias-mortem)
+- [Rebecca Sinclair](rebecca)
 
 Related lore:
 
