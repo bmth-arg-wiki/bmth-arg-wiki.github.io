@@ -141,20 +141,6 @@ keeps watching Sof.
 
 ## Read More
 
-Related characters:
-
-- [Selene](../characters/selene)
-- [Sof](../characters/sof)
-- [Skys](../characters/skys)
-- [Strassman](../characters/strassman)
-- [Dallus Lauren](../characters/dallus-lauren)
-- [Ikaro Lauren](../characters/ren)
-- [Alfgram](../characters/alfgram)
-- [Victor Carmine](../characters/victor-carmine)
-- [Elias Mortem](../characters/elias-mortem)
-- [E.V.E.](../characters/eve)
-- [Scott](../characters/scott)
-
 Related files:
 
 - [Book of Eclipse](../for-sof/book-of-eclipse)
@@ -171,6 +157,20 @@ Related files:
 - [Unbeleevable Episode 3](../for-sof/unbeleevable3)
 - [Strassman Codec](../for-sof/strassmancodec)
 - [Chapel Video](../for-sof/chapel)
+
+Related characters:
+
+- [Selene](../characters/selene)
+- [Sof](../characters/sof)
+- [Skys](../characters/skys)
+- [Strassman](../characters/strassman)
+- [Dallus Lauren](../characters/dallus-lauren)
+- [Ikaro Lauren](../characters/ren)
+- [Alfgram](../characters/alfgram)
+- [Victor Carmine](../characters/victor-carmine)
+- [Elias Mortem](../characters/elias-mortem)
+- [E.V.E.](../characters/eve)
+- [Scott](../characters/scott)
 
 Related lore:
 
@@ -191,7 +191,7 @@ Related lore:
 - [New Elysium](new-elysium)
 - [Novosovia](novosovia)
 
-Related songs:
+Related music:
 
 - [MANTRA](../music/amo-mantra)
 - [Teardrops](../music/song-teardrops)
