@@ -9,7 +9,6 @@ module.exports = {
             './assets/js/hamburger.js',
             './assets/js/tabs.js',
             './assets/js/toc.js',
-            './assets/js/gallery.js',
             './assets/js/gallery-nav.js',
             './assets/js/art-card-gallery',
             './assets/js/search.js',
