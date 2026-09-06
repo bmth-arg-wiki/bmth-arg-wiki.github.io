@@ -140,7 +140,6 @@ Related website pages:
 - [Wi-Fi](wifi)
 - [Journal](journal)
 
-
 Other Daily Whisper articles:
 
 - [What is a Loop-Hole?](tdw-loophole)
