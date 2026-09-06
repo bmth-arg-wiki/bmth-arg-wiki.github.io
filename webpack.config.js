@@ -15,7 +15,10 @@ module.exports = {
             './assets/js/modal.js',
             './assets/js/register-service-worker.js',
         ],
-        styles: './assets/css/main.css',
+        styles: [
+            './assets/css/main.css',
+            './node_modules/glightbox/dist/css/glightbox.min.css',
+        ],
     },
 
     output: {
