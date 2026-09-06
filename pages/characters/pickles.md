@@ -53,22 +53,16 @@ Before the June 4th 2024 update, Pickles used to be user 0012 in this older vers
 
 ## Read More
 
-Related characters:
-
-- [Archangel Michael](michael)
-- [Vanth: Prince(ss) of Death](vanth)
-
-Other [band members](characters#band-members):
-
-- [Vegan / Matt K.](vegan)
-- [Syko / Oli](syko)
-- [Madman / Lee](madman)
-
 Related files:
 
 - [Unbeleevable (speculated)](../for-sof/unbeleevable)
 - [Selene's map](../for-sof/selenes_map)
 - [Youtopia Research](../for-sof/selene_youtopia_doc)
+
+Related characters:
+
+- [Archangel Michael](michael)
+- [Vanth: Prince(ss) of Death](vanth)
 
 Related lore:
 
@@ -77,3 +71,8 @@ Related lore:
 - [Insight 3: Purpose](../lore/insight3-purpose)
 - [Youtopia](../lore/youtopia)
 
+Other [band members](characters#band-members):
+
+- [Vegan / Matt K.](vegan)
+- [Syko / Oli](syko)
+- [Madman / Lee](madman)
