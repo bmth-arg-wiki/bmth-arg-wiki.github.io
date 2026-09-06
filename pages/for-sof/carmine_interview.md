@@ -1058,17 +1058,6 @@ When decoded, this gives the password: **a441va71mm1n3nT**.
 
 ## Read More
 
-Related characters:
-
-- [Victor Carmine](../characters/victor-carmine)
-- [Medea Carmine](../characters/medea)
-- [Skys](../characters/skys)
-- [Dallus Lauren](../characters/dallus-lauren)
-- [Karl Strassman](../characters/strassman)
-- [Elias Mortem](../characters/elias-mortem)
-- [Iara Copple](../characters/iara)
-- [Eve](../characters/eve)
-
 Related files:
 
 - [Artifacts](artifacts)
@@ -1079,6 +1068,17 @@ Related files:
 - [Project D.U.S.T.](project_dust)
 - [Book of Eclipse](book-of-eclipse)
 - [Lauren D8 log](lauren_d8_log)
+
+Related characters:
+
+- [Victor Carmine](../characters/victor-carmine)
+- [Medea Carmine](../characters/medea)
+- [Skys](../characters/skys)
+- [Dallus Lauren](../characters/dallus-lauren)
+- [Karl Strassman](../characters/strassman)
+- [Elias Mortem](../characters/elias-mortem)
+- [Iara Copple](../characters/iara)
+- [Eve](../characters/eve)
 
 Related lore:
 
