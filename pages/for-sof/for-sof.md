@@ -18,7 +18,7 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/f
 
 # Files
 
-{% include info.html
+{% include content/info.html
 title="Beware spoilers!"
 icon="fa-solid fa-lock-open"
 content="This article contains heavy spoilers. A new walkthrough will be added later, since the December 4th 2024 update 
