@@ -94,12 +94,6 @@ author then claims that the CEO is taking heat for "cutting corners".
 
 ## Read More
 
-Related Daily Whisper articles:
-
-- [TDW: The Future of Entertainment](../website/tdw-futureentertainment)
-- [TDW: Faith on the Edge](../website/tdw-faithedge)
-- [TDW: Clone Chaos](../website/tdw-clonechaos)
-
 Related files:
 
 - [Book of Eclipse](../for-sof/book-of-eclipse)
@@ -108,6 +102,12 @@ Related characters:
 
 - [Victor Carmine](../characters/victor-carmine)
 - [Dr. Lee MD](../characters/lee-md)
+
+Related Daily Whisper (news) articles:
+
+- [TDW: The Future of Entertainment](../website/tdw-futureentertainment)
+- [TDW: Faith on the Edge](../website/tdw-faithedge)
+- [TDW: Clone Chaos](../website/tdw-clonechaos)
 
 Related lore:
 
