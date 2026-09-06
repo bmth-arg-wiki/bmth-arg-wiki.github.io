@@ -3,7 +3,7 @@ title: "01. itchy, tasty.."
 categories: ["music"]
 description: "The song Dear Diary, from the album POST HUMAN: SURVIVAL HORROR. Sorry, the title for this page was 
 devoured by a mysterious patient."
-tags: ["dear", "diary", "scott", "music"]
+tags: ["dear", "diary", "scott", "bmth", "bring me the horizon", "vspr-37"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph1/album_cover_300.jpg"
 previous: "music/ph-survival-horror"
 previous_text: "SURVIVAL HORROR"
@@ -83,12 +83,20 @@ As the author succumbs to the infection, the last entry infamously reads: “Itc
 Related files:
 
 - [Scott's Diary](../for-sof/scott_personal_journal)
+- [Selene's Diary](../for-sof/selene_personal_journal)
+- [Kingslayer Codec](../for-sof/kingslayercodec)
 
 Related characters:
 
 - [Scott](../characters/scott)
 
-Related songs:
+Related lore:
+
+- [Nex Gen](../lore/nex-gen-corporation)
+- [VSPR-37](../lore/vspr37)
+- [Mares](../lore/mares)
+
+Related music:
 
 - [Parasite Eve](song-parasite-eve)
 - [Teardrops](song-teardrops)
