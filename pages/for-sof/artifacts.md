@@ -248,6 +248,17 @@ their secrets in Unbeleevable [1](unbeleevable), [2](unbeleevable2) and [3](unbe
 
 ## Read More
 
+Related files:
+
+- [Unbeleevable Leak Email + Episode 1](unbeleevable)
+- [Unbeleevable Episode 2](unbeleevable2)
+- [Unbeleevable Episode 3](unbeleevable3)
+- [Kingslayer Codec](kingslayercodec)
+- [Scott's Diary](scott_personal_journal)
+- [Selene's Diary](selene_personal_journal)
+- [Goxmog Sightings](goxmog)
+- [Carmine's Interview](carmine_interview) (through a clue on the dye)
+
 Related characters:
 
 - [M8](../m8)
@@ -262,17 +273,6 @@ Related characters:
 - [Michael](../characters/michael)
 - [Uriel](../characters/uriel)
 
-Related files:
-
-- [Unbeleevable Leak Email + Episode 1](unbeleevable)
-- [Unbeleevable Episode 2](unbeleevable2)
-- [Unbeleevable Episode 3](unbeleevable3)
-- [Kingslayer Codec](kingslayercodec)
-- [Scott's Diary](scott_personal_journal)
-- [Selene's Diary](selene_personal_journal)
-- [Goxmog Sightings](goxmog)
-- [Carmine's Interview](carmine_interview) (through a clue on the dye)
-
 Related article in The Daily Whisper:
 
 - [Gat3keeper Tragedies](../website/tdw-gatekeeper)
@@ -284,5 +284,3 @@ Related lore:
 - [Arc/Hive](../lore/archive)
 - [Nex Gen](../lore/nex-gen-corporation)
 - [New Elysium](../lore/new-elysium)
-
-
