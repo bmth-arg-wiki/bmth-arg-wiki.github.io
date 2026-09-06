@@ -2,6 +2,7 @@
 title: "05. liMOusIne"
 categories: ["music"]
 description: "The song liMOusIne from the album POST HUMAN: NEx Gen."
+tags: ["limousine", "bmth", "post human", "nex gen", "aurora"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover_300.png"
 previous: "music/song-top10"
 previous_text: "04. Top 10 staTues tHat CriEd bloOd (song)"
@@ -87,6 +88,12 @@ stylized using these capital letters.
 ***
 
 ## Read More
+
+Related files:
+
+- [LBR Sites Letter](../for-sof/lbr_sites)
+
+Related music:
 
 - [POST HUMAN: NeX GEn](ph-nex-gen)
 - [Top 10 staTues tHat CriEd bloOd](song-top10)
