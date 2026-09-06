@@ -2,6 +2,7 @@
 title: "15. DiE4u"
 categories: ["music"]
 description: "The song DiE4u from the album POST HUMAN: NEx Gen."
+tags: ["die4u", "bmth", "post human", "nex gen", "single"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover_300.png"
 previous: "music/song-pusse"
 previous_text: "14. [ost] p.u.s.s-e"
@@ -66,10 +67,13 @@ appears on the [lofiles](lofiles).
 
 ## Read More
 
+Related characters:
+
+- [Alfgram](../characters/alfgram)
+
+Related music:
+
 - [POST HUMAN: NeX GEn](ph-nex-gen)
-
-Other singles:
-
 - [AmEN!](song-amen)
 - [DArkSide](song-darkside)
 - [Kool-Aid](song-koolaid)
