@@ -2,6 +2,7 @@
 layout: "map"
 title: "Selene's Interactive Map"
 description: "Explore Selene's map of Youtopia to learn more about the lore."
+categories: ["for-sof"]
 tags: ["bring me the horizon", "multidimensional", "navigator", "password", "m8", "bmth", 
        "youtopia", "selene", "map", "insights", "connection", "empathy", "purpose", "vision", 
        "pan", "miseria", "the babylon", "vanth", "prince", "princess", "raphael", "gabriel", 
