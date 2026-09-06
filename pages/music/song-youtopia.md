@@ -2,6 +2,7 @@
 title: "02. YOUtopia"
 categories: ["music"]
 description: "The song YOUtopia from the album POST HUMAN: NEx Gen, an introduction to the fictional dimension."
+tags: ["youtopia", "bmth", "post human", "nex gen"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover_300.png"
 previous: "music/song-dreamseeker"
 previous_text: "01. [ost] dreamseeker"
@@ -114,7 +115,11 @@ and contains a verse with additional lyrics.
 
 ## Read More
 
-Also check out our [interactive version](../map) of the map of Youtopia!
+Related files:
+
+- [Dreadit](../for-sof/dreadit)
+- [Youtopia Map](../for-sof/selenes_map)
+- [Strassman & Selene's Youtopia Findings](../for-sof/selene_youtopia_doc)
 
 Related characters:
 
@@ -134,12 +139,6 @@ Related characters:
 - [Miseria](../characters/miseria)
 - [Vanth](../characters/vanth)
 - [The Babylon](../characters/babylon)
-
-Related files:
-
-- [Dreadit](../for-sof/dreadit)
-- [Youtopia Map](../for-sof/selenes_map)
-- [Strassman & Selene's Youtopia Findings](../for-sof/selene_youtopia_doc)
 
 Related lore:
 
