@@ -6,14 +6,18 @@ document.addEventListener('DOMContentLoaded', () => {
     contentImages.forEach(img => {
         if (img.closest('a') || img.closest('.image-gallery-nav') || img.closest('.gallery-art-cards')) return;
 
-        img.style.cursor = 'zoom-in';
-        img.classList.add('glightbox');
-        img.title = img.alt || '';
-        img.dataset.gallery = 'content';
+        const link = document.createElement('a');
+        link.classList.add('glightbox');
+        link.href = img.src;
+        link.dataset.gallery = 'content';
+        link.dataset.title = img.alt || '';
+
+        img.parentNode.insertBefore(link, img);
+        link.appendChild(img);
     });
 
     GLightbox({
-        selector: '.content img.glightbox',
+        selector: '.content .glightbox',
         touchNavigation: true,
         loop: false,
         zoomable: true,

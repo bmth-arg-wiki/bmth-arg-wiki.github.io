@@ -1,10 +1,8 @@
 import GLightbox from 'glightbox';
 
 document.addEventListener('DOMContentLoaded', () => {
-    const baseUrl = 'https://api.github.com/repos/bmth-arg-wiki/art-assets/contents/';
-
-    async function loadGallery(gallery, folder) {
-        const galleryUrl = `${baseUrl}${folder}`;
+    async function loadGallery(gallery, folder, apiBase) {
+        const galleryUrl = `${apiBase}/art-assets/contents/${folder}`;
         try {
             const response = await fetch(galleryUrl);
             const files = await response.json();
@@ -21,14 +19,19 @@ document.addEventListener('DOMContentLoaded', () => {
                     const figure = document.createElement('figure');
                     figure.classList.add('image', 'is-3by4');
 
+                    const link = document.createElement('a');
+                    link.classList.add('glightbox');
+                    link.href = file.download_url;
+                    link.dataset.gallery = `gallery-${folder}`;
+
                     const img = document.createElement('img');
                     img.src = file.download_url;
                     img.alt = '';
-                    img.title = '';
                     img.classList.add('img-contain');
                     img.loading = 'lazy';
 
-                    figure.appendChild(img);
+                    link.appendChild(img);
+                    figure.appendChild(link);
                     card.appendChild(figure);
                     column.appendChild(card);
                     gallery.appendChild(column);
@@ -36,19 +39,19 @@ document.addEventListener('DOMContentLoaded', () => {
             });
 
             GLightbox({
-                selector: `.gallery-art-cards[data-folder="${folder}"] .card img`,
+                selector: `.gallery-art-cards[data-folder="${folder}"] .glightbox`,
                 touchNavigation: true,
                 loop: true,
                 zoomable: true,
                 draggable: true,
             });
         } catch (error) {
-            console.error('Error loading gallery:', error);
+            // Gallery failed to load, page continues without it
         }
     }
 
     const galleries = document.querySelectorAll('.gallery-art-cards');
     galleries.forEach(gallery => {
-        loadGallery(gallery, gallery.dataset.folder);
+        loadGallery(gallery, gallery.dataset.folder, gallery.dataset.api);
     });
 });
