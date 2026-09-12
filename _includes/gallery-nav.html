@@ -1,3 +1,8 @@
-<div class="image-gallery-nav columns is-multiline" data-folder="{{ include.folder }}" data-repo="{{ include.repo | default: 'wiki-assets' }}">
+<div class="gallery columns is-multiline"
+     data-folder="{{ include.folder }}"
+     data-repo="{{ include.repo | default: 'wiki-assets' }}"
+     data-aspect="{{ include.aspect | default: 'is-3by2' }}"
+     data-columns="{{ include.columns | default: 'is-one-quarter-desktop is-one-quarter-tablet is-half-mobile' }}"
+     data-api="{{ site.github_api }}">
     <!-- Images will be loaded here -->
 </div>

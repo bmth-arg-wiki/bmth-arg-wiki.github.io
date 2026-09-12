@@ -10,7 +10,6 @@ module.exports = {
             './assets/js/tabs.js',
             './assets/js/toc.js',
             './assets/js/gallery-nav.js',
-            './assets/js/art-card-gallery',
             './assets/js/search.js',
             './assets/js/modal.js',
             './assets/js/register-service-worker.js',
