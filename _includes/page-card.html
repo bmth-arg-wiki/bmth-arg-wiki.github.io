@@ -20,7 +20,7 @@
     </div>
     <div class="card-footer p-2 is-align-self-flex-end">
         <div class="tags">
-            {% if page.categories %}
+            {% if linked_page.categories %}
             {% for category in linked_page.categories %}
             <span class="tag adaptive"><a href="{{ site.baseurl }}/pages/{{ category }}/{{ category }}">
                 {{ category | replace: "for-sof", "files" | replace: "-", " " | upcase }}
