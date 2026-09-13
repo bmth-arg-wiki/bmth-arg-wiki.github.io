@@ -1,0 +1,16 @@
+@use "../variables" as *;
+
+/*
+ * Button overrides
+ * Ensure text contrast on all button variants
+ */
+
+a.button {
+  // Default: use $txt for readable text
+  color: $txt;
+
+  // Icons inside buttons inherit text color
+  .icon {
+    color: inherit;
+  }
+}
