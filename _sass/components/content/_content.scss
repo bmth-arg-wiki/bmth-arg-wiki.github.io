@@ -1,0 +1,60 @@
+@use "../../variables" as *;
+
+/*
+ * Content styling
+ */
+
+// Links
+.content {
+  a {
+    color: $link;
+    text-decoration: underline;
+    overflow-wrap: anywhere;
+
+    &:hover {
+      color: lighten($link, 20%);
+    }
+
+    &:visited {
+      color: $danger;
+    }
+
+    &:visited:hover {
+      color: lighten($warning, 5%);
+    }
+  }
+
+  // Long URLs
+  code {
+    overflow-wrap: break-word;
+  }
+
+  // Breadcrumbs should not be underlined
+  .breadcrumb a {
+    text-decoration: none;
+  }
+
+  // Blockquote editor's notes
+  blockquote p em,
+  blockquote p strong em {
+    color: $danger;
+  }
+
+  // Details (clickable element)
+  details {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+  }
+
+  // Horizontal separators
+  hr {
+    background-color: $primary;
+    height: 1px;
+  }
+
+  // Page card height
+  .card {
+    height: 100%;
+  }
+}

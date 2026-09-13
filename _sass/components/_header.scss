@@ -1,38 +1,35 @@
 @use "../variables" as *;
 
 /*
- * Full header styling
+ * Header styling
  */
+
 .header-background,
 #navbarMenuHeroA,
 #image-banner {
   background: $gray-darkest;
 }
 
-// When hovering, links change from blue to red (Bulma overwrite)
+// Hover state for heading anchors (Bulma overwrite)
 a.heading-anchor:hover,
-a.heading-anchor:visited:hover,
-a.heading-anchor:hover {
+a.heading-anchor:visited:hover {
   color: $danger;
 }
 
 /*
- * Dark tabs (bottom hero) (replaces side bar)
+ * Tabs (bottom hero, replaces sidebar)
+ * Dark by default, light on hover/active
  */
-// Dark by default and light up on hover/active
 .tabs.is-boxed li a {
   color: $base;
+
+  &:hover {
+    background: $primary-lighter;
+    color: $txt;
+  }
 }
 
-// For active tabs we use a very light pink + dark txt
 .tabs.is-boxed li.is-active a {
   background: $primary-lightest;
-  color: $gray-darkest;
-}
-
-// For hovered tabs we use a light pink + dark txt
-.tabs.is-boxed li a:hover {
-  background: $primary-lighter;
   color: $txt;
 }
-

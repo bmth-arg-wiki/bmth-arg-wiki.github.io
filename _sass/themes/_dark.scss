@@ -1,6 +1,5 @@
 @use "../variables" as *;
 
-
 @media (prefers-color-scheme: dark) {
 
   /* Elements that require (regular) text re-colour */
@@ -22,7 +21,6 @@
   }
 
   /* Body */
-
   #body {
     background-color: $gray-darkest;
   }
@@ -35,8 +33,7 @@
     background-image: url("/assets/imgs/fanart-background.png");
   }
 
-  /* Header */
-  // Active tab colour
+  /* Header - active tab colour */
   header {
     .tabs.is-boxed {
       li.is-active a {
@@ -85,9 +82,9 @@
       color: $danger;
     }
 
-    // give the corrections a lighter colour for readability
-    .content blockquote p em,
-    .content blockquote p strong em {
+    // Editor's notes in lighter colour for readability
+    blockquote p em,
+    blockquote p strong em {
       color: $warning;
     }
   }

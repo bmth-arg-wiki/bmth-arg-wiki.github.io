@@ -1,0 +1,20 @@
+@use "../../variables" as *;
+
+/*
+ * Typography
+ * Heading sizes and text utilities
+ */
+
+.content {
+  h1 {
+    font-size: large;
+  }
+
+  h2 {
+    font-size: larger;
+  }
+
+  h3 {
+    font-size: medium;
+  }
+}

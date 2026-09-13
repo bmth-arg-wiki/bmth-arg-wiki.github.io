@@ -1,0 +1,12 @@
+@use "../variables" as *;
+
+/*
+ * Search bar styling
+ */
+
+$search-height: 40px;
+
+.search input,
+.search button {
+  height: $search-height;
+}
