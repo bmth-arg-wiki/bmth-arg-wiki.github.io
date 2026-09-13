@@ -4,23 +4,17 @@
  * Content styling
  */
 
-// Links
 .content {
   a {
     color: $link;
     text-decoration: underline;
-    overflow-wrap: anywhere;
 
     &:hover {
-      color: lighten($link, 20%);
-    }
-
-    &:visited {
       color: $danger;
     }
 
-    &:visited:hover {
-      color: lighten($warning, 5%);
+    &:visited {
+      color: $success;
     }
   }
 

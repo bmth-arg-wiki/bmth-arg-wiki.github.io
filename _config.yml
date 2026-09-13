@@ -13,5 +13,8 @@ sass:
     - node_modules/bulma
   style: compressed
 
+exclude:
+  - .agents
+
 plugins:
   - jekyll-anchor-tags

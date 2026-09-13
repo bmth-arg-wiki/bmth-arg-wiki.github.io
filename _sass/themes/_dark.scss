@@ -68,18 +68,14 @@
 
     a {
       color: $primary;
-    }
 
-    a:hover {
-      color: $info;
-    }
+      &:hover {
+        color: $danger;
+      }
 
-    a:visited {
-      color: lighten($success, 20%);
-    }
-
-    a:visited:hover {
-      color: $danger;
+      &:visited {
+        color: $success;
+      }
     }
 
     // Editor's notes in lighter colour for readability

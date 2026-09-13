@@ -21582,6 +21582,9 @@ a.heading-anchor:visited:hover {
   color: #1b1926;
 }
 
+/*
+ * Search bar styling
+ */
 .search input,
 .search button {
   height: 40px;
@@ -21630,48 +21633,56 @@ a.heading-anchor:visited:hover {
 }
 
 /*
- * Global content styling
+ * Typography
+ * Heading sizes and text utilities
  */
 .content h1 {
   font-size: large;
 }
-
 .content h2 {
   font-size: larger;
 }
-
 .content h3 {
   font-size: medium;
 }
 
-.content code {
-  overflow-wrap: break-word;
-}
-
-/* Various link colors */
+/*
+ * Content styling
+ */
 .content a {
   color: #405f74;
   text-decoration: underline;
-  overflow-wrap: anywhere;
 }
-
 .content a:hover {
-  color: #6b94ae;
-}
-
-.content a:visited {
   color: #c24454;
 }
-
-.content a:visited:hover {
-  color: #e36655;
+.content a:visited {
+  color: #404B81;
 }
-
+.content code {
+  overflow-wrap: break-word;
+}
 .content .breadcrumb a {
   text-decoration: none;
 }
+.content blockquote p em,
+.content blockquote p strong em {
+  color: #c24454;
+}
+.content details {
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+}
+.content hr {
+  background-color: #75AAB0;
+  height: 1px;
+}
+.content .card {
+  height: 100%;
+}
 
-/**
+/*
  * Image styling
  */
 .img-contain {
@@ -21680,38 +21691,19 @@ a.heading-anchor:visited:hover {
   height: 100%;
 }
 
-/**
+/*
  * GLightbox overrides
  */
-.glightbox-clean .gslide-description,
 .gslide-description {
   background: transparent !important;
   text-align: center;
   padding: 12px 20px;
 }
 
-.glightbox-clean .gslide-title,
 .gslide-title {
   color: rgba(255, 255, 255, 0.85) !important;
   font-weight: 500;
   font-size: 1rem;
-}
-
-/*
- * Blockquote styling
- */
-.content blockquote p em,
-.content blockquote p strong em {
-  color: #c24454;
-}
-
-/*
- * Details (clickable element)
- */
-.content details {
-  padding: 10px;
-  margin: 10px;
-  border-radius: 5px;
 }
 
 /*
@@ -21721,18 +21713,6 @@ a.heading-anchor:visited:hover {
   display: block;
   overflow-x: auto;
   max-width: 100%;
-}
-
-/*
- * Misc.
- */
-.content hr {
-  background-color: #75AAB0;
-  height: 1px;
-}
-
-.card {
-  height: 100%;
 }
 
 #map {
@@ -21831,27 +21811,16 @@ footer {
     color: #75AAB0;
   }
   .content a:hover {
-    color: #A8C5C8;
+    color: #c24454;
   }
   .content a:visited {
-    color: #6f7cb8;
-  }
-  .content a:visited:hover {
-    color: #c24454;
+    color: #404B81;
   }
   .content blockquote p em,
   .content blockquote p strong em {
     color: #df523f;
   }
 }
-/*
-/ DEBUG
-
-* {
-  outline: 2px red solid;
-  background-color: rgba(100,0,0,0.2);
-}
- */
 /*
  * Mobile
  */
