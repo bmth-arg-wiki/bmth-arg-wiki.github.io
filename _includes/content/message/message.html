@@ -1,10 +1,12 @@
 {% assign color = include.color | default: "info" %}
+{% assign msg_title = include.title | default: "" %}
+{% assign msg_content = include.content | default: "I am a message" %}
 
 <article class="message is-{{ color }} is-small">
     <div class="message-header">
-        <p class="mb-0">{{ include.message.title }}</p>
+        <p class="mb-0">{{ msg_title }}</p>
     </div>
     <div class="message-body">
-        {{ include.message.content | markdownify }}
+        {{ msg_content | markdownify }}
     </div>
 </article>
