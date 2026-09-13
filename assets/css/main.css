@@ -21649,11 +21649,6 @@ a.heading-anchor:hover {
   overflow-wrap: break-word;
 }
 
-/* Button link colors */
-a .button .is-primary {
-  color: #c24454;
-}
-
 /* Various link colors */
 .content a {
   color: #405f74;
