@@ -24,7 +24,7 @@ released 5 years ago.
 
 To open the tribute, you need to solve a slider puzzle. 
 
-![Post Human: Survival Horror 3D Tribute](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/709571bc68df707368a9fc86e2f72ec1f5366ac9/files/ph-sh-anniversary/slider-puzzle.png)
+![Post Human: Survival Horror 3D Tribute](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/refs/heads/main/files/ph-sh-anniversary/slider-puzzle.png)
 
 The solution to the slider puzzle above is nearly complete; once you move the bottom right piece up the 
 puzzle will unlock. The puzzle is easiest when you start from the top and follows the same rules as other 
