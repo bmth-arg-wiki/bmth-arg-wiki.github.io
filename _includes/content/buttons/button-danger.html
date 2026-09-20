@@ -1,6 +1,1 @@
-<a class="button is-danger" href="{{ include.link }}" target="_blank" style="text-decoration: none">
-    <span class="icon has-text-white">
-      <i class="{{ include.icon | default: 'fa-brands fa-youtube' }}"></i>
-    </span>
-    <span class="has-text-white">{{ include.text }}</span>
-</a>
+{%- include content/buttons/button.html variant="danger" default_icon="fa-brands fa-youtube" link=include.link text=include.text icon=include.icon -%}

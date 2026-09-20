@@ -1,6 +1,1 @@
-<a class="button is-info" href="{{ include.link }}" target="_blank" style="text-decoration: none">
-    <span class="icon has-text-black">
-      <i class="{{ include.icon | default: 'fa-solid fa-circle-info' }}"></i>
-    </span>
-  <span class="has-text-black">{{ include.text }}</span>
-</a>
+{%- include content/buttons/button.html variant="info" default_icon="fa-solid fa-circle-info" link=include.link text=include.text icon=include.icon -%}

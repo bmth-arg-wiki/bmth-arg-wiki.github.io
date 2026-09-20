@@ -1,0 +1,14 @@
+<a class="button is-{{ include.variant }}" href="{{ include.link }}" target="_blank" style="text-decoration: none">
+    {%- case include.variant -%}
+        {%- when "info" or "primary" -%}
+            <span class="icon has-text-black">
+              <i class="{{ include.icon | default: include.default_icon }}"></i>
+            </span>
+            <span class="has-text-black">{{ include.text }}</span>
+        {%- else -%}
+            <span class="icon has-text-white">
+              <i class="{{ include.icon | default: include.default_icon }}"></i>
+            </span>
+            <span class="has-text-white">{{ include.text }}</span>
+    {%- endcase -%}
+</a>
