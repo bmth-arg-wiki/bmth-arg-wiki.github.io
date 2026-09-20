@@ -1,6 +1,6 @@
 <a class="button is-info" href="{{ include.link }}" target="_blank">
-    <span class="icon has-text-primary-20">
-      <i class="{{ include.icon }}"></i>
+    <span class="icon has-text-black">
+      <i class="{{ include.icon | default: 'fa-solid fa-circle-info' }}"></i>
     </span>
-  <span class="has-text-primary-20">{{ include.text }}</span>
+  <span class="has-text-black">{{ include.text }}</span>
 </a>
