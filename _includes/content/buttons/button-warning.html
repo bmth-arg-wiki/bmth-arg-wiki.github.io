@@ -1,6 +1,6 @@
-<a class="button is-warning" href="{{ include.link }}" target="_blank">
+<a class="button is-warning" href="{{ include.link }}" target="_blank" style="text-decoration: none">
     <span class="icon has-text-white">
-      <i class="{{ include.icon }}"></i>
+      <i class="{{ include.icon | default: 'fa-solid fa-triangle-exclamation' }}"></i>
     </span>
   <span class="has-text-white">{{ include.text }}</span>
 </a>
