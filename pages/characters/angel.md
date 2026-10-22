@@ -31,6 +31,12 @@ transcript is available.
 
 ***
 
+## Gallery
+
+{% include gallery-nav.html folder="characters/angel/gallery" %}
+
+***
+
 ## Read More
 
 Related files:
