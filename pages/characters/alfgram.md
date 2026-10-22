@@ -1,7 +1,7 @@
 ---
 title: "Alfgram"
 description: "Alfgram is one of Skys' mysterious allies in the Mantra cult, eventually becoming patient 
-zero for his project Kingslayer."
+zero for his project Kingslayer and starting ecliptism."
 categories: ["characters"]
 tags: ["bmth", "arg", "kingslayer", "skys", "disciple", "patient zero", "enlightenment", "ecliptism", "book of eclipse"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/alfgram/alfgram-300x300.png"
@@ -15,9 +15,14 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 > 
 > - from [The Book of Eclipse](../for-sof/book-of-eclipse)
 
-Alfgram is one of [Skys'](skys) most loyal disciples. He was patient zero for [Project Kingslayer](../lore/incident-kingslayer), 
-after which he claimed to have access to ancient powers. He also claimed he was able to visit different 
-realities. This eventually results in research into [Youtopia](../lore/youtopia) with [Nex Gen](../lore/nex-gen-corporation).
+Alfgram was one of [Skys'](skys) most loyal disciples within the cult of [Mantra](../lore/mantra). 
+
+He was patient zero for [Project Kingslayer](../lore/incident-kingslayer), after which he claimed to have access to ancient powers. 
+He also claimed he was able to visit different realities. 
+
+After Skys confronts Strassman about the nature of the experiments, the experiments for Project Kingslayer continue 
+in secret. Alfgram decides to leave the cult with a few devout followers, starting [ecliptism](../lore/ecliptism)
+The [Book of Eclipse](../for-sof/book-of-eclipse) details Skys hunting Alfgram down and killing him.
 
 ![Alfgram as patient zero in Unbeleevable 3](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/alfgram/alfgram-300x300.png)
 
@@ -30,15 +35,29 @@ He explains that [Skys](skys) tortured people in the [Mantra cult](../lore/mantr
 test subject for his project Kingslayer. After going through the ritual, the man claims to have gained access to 
 mysterious powers.
 
-Most of the information about Alfgram and his motivations comes from 
+In 2015, [Strassman](strassman) ends up in a confrontation with Skys after leaving the cult. Skys manipulates 
+Strassman, promising him to stop the Kingslayer experiments and give him the lead in conducting more ethical 
+experiments with gifted children. The Kingslayer experiments continue in the basement, but this causes tension 
+within the cult. Alfgram especially is enraged, and he decides to leave the cult with a few of his disciples. 
+He becomes the founder of [ecliptism](../lore/ecliptism), which later resurfaces in the [DTC](../lore/dtc).
+
+After Alfgram ends up leaving with his closest disciples in the night, Skys is furious and determined to hunt 
+Alfgram and his disciples down. Eventually Skys tracks them down with disciples of his own and he kills Alfgram. 
+The Book of Eclipse claims he reached enlightenment when he died.
+
+Most of the information about Alfgram and his motivations after this point comes from 
 the [Book of Eclipse](../for-sof/book-of-eclipse), where is he portrayed as a saviour who suffered to help others. 
 In the book, he is referred to as First Shadow, the Shepherd of Suffering.
 
-Somewhere after [Project Kingslayer](../lore/incident-kingslayer), he falls out with Skys, questioning his motivations. 
-Alfgram ends up leaving with his closest disciples in the night, which ends in a revenge mission from Skys. 
-As Skys murders Alfgram, the book claims he reached enlightenment. Alfgram was not known to be extracted in 
-[Operation Trinity](../lore/operation-trinity) or mentioned in [Dallus' diary](../for-sof/dallus-diary) 
-written shortly after the operation. This puts the most likely time for his death somewhere between 2015 and 2020.
+We also see Alfgram in [Die4U](../music/song-die4u), where he is in Club Hellhole, waiting for a 
+delivery of special blood. He has "Alfgram" tattooed across his head and a screenshot of this 
+is shown for Alfgram in Unbeleevable (episode 4).
+
+***
+
+## Gallery
+
+{% include gallery-nav.html folder="characters/alfgram/gallery" %}
 
 ***
 
@@ -51,6 +70,7 @@ Related files:
 - [Unbeleevable Episode 1](../for-sof/unbeleevable)
 - [Unbeleevable Episode 2](../for-sof/unbeleevable2)
 - [Unbeleevable Episode 3](../for-sof/unbeleevable3)
+- [Unbeleevable Episode 4](../for-sof/unbeleevable4)
 
 Related characters:
 
@@ -58,6 +78,8 @@ Related characters:
 - [Dallus Lauren](dallus-lauren)
 - [Karl Strassman](strassman)
 - [Ava](ava)
+- [Angel](angel)
+- [Feya](feya)
 - [Medea](medea)
 
 Related Daily Whisper:
@@ -73,5 +95,6 @@ Related lore:
 - [Novosovia](../lore/novosovia)
 - [Mares](../lore/mares)
 
-Alfgram also seems to appear in the Die4U music video, as a man with "Alfgram" tattooed on his head appears:
+Related songs:
+
 - [Die4U](../music/song-die4u)
