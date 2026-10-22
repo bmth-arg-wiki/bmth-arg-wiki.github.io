@@ -1,8 +1,9 @@
 ---
 title: "15. DiE4u"
 categories: ["music"]
-description: "The song DiE4u from the album POST HUMAN: NEx Gen."
-tags: ["die4u", "bmth", "post human", "nex gen", "single"]
+description: "The song DiE4u from the album POST HUMAN: NEx Gen. Alfgram appears in the music video, officially 
+confirmed in Unbeleevable Episode 4."
+tags: ["die4u", "bmth", "post human", "nex gen", "single", "alfgram", "mantra", "cult", "unbeleevable", "club hellhole"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover_300.png"
 previous: "music/song-pusse"
 previous_text: "14. [ost] p.u.s.s-e"
@@ -13,6 +14,17 @@ next_text: "16. DIg It"
 
 DiE4u is the 15th song on [Nex Gen](ph-nex-gen) and one of the singles that was released before the album. It also 
 appears on the [lofiles](lofiles).
+
+***
+
+## Lore
+
+[Alfgram](../characters/alfgram), one of [Skys](../characters/skys)' most loyal disciples in the 
+[cult of Mantra](../lore/mantra), appears in the music video. He can be seen in Club Hellhole, waiting for a 
+delivery of special blood. He has "Alfgram" tattooed across his head.
+
+[Unbeleevable Episode 4](../for-sof/unbeleevable4) officially confirms this connection by showing a screenshot 
+of Alfgram in the music video. Prior to this episode, the appearance was only theorised about by the community.
 
 ***
 
@@ -67,9 +79,22 @@ appears on the [lofiles](lofiles).
 
 ## Read More
 
+Related files:
+
+- [Unbeleevable Episode 3](../for-sof/unbeleevable3)
+- [Unbeleevable Episode 4](../for-sof/unbeleevable4)
+- [Book of Eclipse](../for-sof/book-of-eclipse)
+
 Related characters:
 
 - [Alfgram](../characters/alfgram)
+- [Skys](../characters/skys)
+
+Related lore:
+
+- [Cult of Mantra](../lore/mantra)
+- [Ecliptism](../lore/ecliptism)
+- [Project Kingslayer](../lore/incident-kingslayer)
 
 Related music:
 
