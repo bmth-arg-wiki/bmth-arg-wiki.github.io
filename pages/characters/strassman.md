@@ -4,7 +4,7 @@ description: "Dr. Karl Strassman is an renowned employee at Nex Gen, discussing 
 He has a keen interest in spirituality and neuroscience."
 categories: ["characters"]
 tags: ["bmth", "arg", "strassman", "skys", "mantra", "cult", "nex gen", "arc/hive", "operation", "trinity", "dallas", 
-       "dallus", "lauren", "ava", "neosages", "dust", "kingslayer", "pusse", "youtopia", "synth"]
+       "dallus", "lauren", "ava", "angel", "feya", "neosages", "dust", "kingslayer", "pusse", "youtopia", "synth"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/strassman/strassman-300x300.png"
 ---
 # Dr. Karl Strassman
@@ -66,12 +66,23 @@ Both Strassman and Dallus became important members of the [cult](../lore/mantra)
 Ava is Skys' best disciple, and he is not aware of the relationship forming between the two. Strassman sends 
 Ava the [Russian Poem](../for-sof/russianpoem). In [Unbeleevable Episode 3](../for-sof/unbeleevable3) it is revealed that 
 she is pregnant with Strassman's child. After a Novosovian operative is identified as a traitor in the cult, he is 
-used as an example and test subject for [Project Kingslayer](../lore/incident-kingslayer). Since Strassman and Ava are 
-still hiding their affair, she begs Strassman to flee from the cult.
+used as an example and test subject for [Project Kingslayer](../lore/incident-kingslayer).
+
+In 2015, [Dallus](dallus-lauren) realised what the experiments were doing and left the cult. Strassman stayed behind, 
+but had to leave when Ava was about to give birth. The two fled to Dallus, where Strassman delivered their daughter 
+himself. The birth led to Ava's death, but before she passed away she referred to the child as an Angel, and Strassman 
+decided to name her that. Ava had believed their daughter was destined to save the world.
+
+[Feya](feya), a member of Skys' inner circle, found the [poem](../for-sof/russianpoem)s Strassman had written to Ava. 
+After telling Skys, the cult leader immediately hunted down Strassman, beating him badly. The real reason Strassman decided 
+to leave the cult is Project Kingslayer. Skys manipulates him into thinking that he will stop the experiment, get himself together 
+and that they can start a new project together. He also promises Angel will be taken care of.
+Strassman believes him and returns to October Palace, working on researching the 'spirit molecule' with gifted 
+children as his test subjects.
 
 In 2020, the Fall of October Palace took place, which was the end of the Mantra cult. Many cult members perished at 
 the hands of Skys at his supposed funeral, which takes place during the [MANTRA](../music/amo-mantra) official music video. 
-Strassman does not seem present at the funeral during the video.
+Strassman does not seem to be present at the funeral during the video.
 
 ### Operation Trinity (~Christmas Day 2020)
 
@@ -79,10 +90,12 @@ Strassman does not seem present at the funeral during the video.
 ordered by [Victor Carmine](victor-carmine) from [Arc/Hive](../lore/archive). During the operation, the three men 
 in charge of the Mantra cult were extracted. They were nicknamed "The Trinity".
 
-We learn from [Dallus diary](../for-sof/dallus-diary), written a few weeks after Operation Trintity, that 
-both Dallus and Strassman had families. Ava had Strassman's child Angel, but had sadly passed away at the 
-time of writing. Angel is also missing, presumed dead. This has completely destroyed Strassman. 
-Skys has also gone into a coma.
+From [Dallus diary](../for-sof/dallus-diary) we learn that Angel is presumed missing, but [Unbeleevable (episode 4)](../for-sof/unbeleevable4) 
+tells us Angel was actually taken during Operation Trinity. It is unclear where Angel is after this point, 
+but she may have become a test subject for [Project D.U.S.T.](../for-sof/project_dust).
+
+Strassman is completely devastated by the loss of Ava and Angel. Skys has gone into a coma, leaving 
+him and his partner Dallus to build a new life in the DTC.
 
 ### SYNTH research (2027-203?)
 
@@ -188,12 +201,15 @@ Related files:
 - [Unbeleevable Episode 1](../for-sof/unbeleevable)
 - [Unbeleevable Episode 2](../for-sof/unbeleevable2)
 - [Unbeleevable Episode 3](../for-sof/unbeleevable3)
+- [Unbeleevable Episode 4](../for-sof/unbeleevable4)
 - [Dreadit](../for-sof/dreadit)
 - [Artifacts](../for-sof/artifacts)
 
 Related characters:
 
 - [Ava](ava)
+- [Angel](angel)
+- [Feya](feya)
 - [Skys](skys)
 - [Dallus Lauren](dallus-lauren)
 - [Elena Lauren](elena-lauren)
