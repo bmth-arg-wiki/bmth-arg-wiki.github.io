@@ -39,11 +39,11 @@ The story mostly focuses on the misdeeds of Nex Gen Corporation, which trace bac
 Using knowledge from their [Project Kingslayer](../lore/incident-kingslayer), the company eventually continues the cult's 
 work after its fall in 2020. The Mantra era of the story starts roughly around 2004.
 
-{% assign page_links = '/pages/characters/skys, /pages/characters/strassman, /pages/characters/dallus-lauren, /pages/characters/medea, /pages/characters/alfgram, /pages/characters/ava' | split: ", " %}
+{% assign page_links = '/pages/characters/skys, /pages/characters/strassman, /pages/characters/dallus-lauren, /pages/characters/medea, /pages/characters/alfgram, /pages/characters/ava, /pages/characters/feya, /pages/characters/angel' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 After [Operation Trinity](../lore/operation-trinity), Dallus confirms that [Ava](ava) is dead and her and Strassman's child 
-Angel is missing. [Medea](medea) is attacked by Skys in the music video for [MANTRA](../music/amo-mantra). [Victor Carmine's reconstructed 
+Angel was taken by [Arc/Hive](../lore/archive). [Medea](medea) is attacked by Skys in the music video for [MANTRA](../music/amo-mantra). [Victor Carmine's reconstructed 
 interview](../for-sof/carmine_interview) confirms that her head exploded, and she too died.
 
 From the [Unbeleevable](../for-sof/unbeleevable) episodes, hosted by Dr. Lee MD, we learn a lot about the Mantra 
