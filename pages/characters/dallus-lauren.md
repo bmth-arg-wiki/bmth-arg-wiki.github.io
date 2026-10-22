@@ -48,12 +48,32 @@ Both Dallus and Lauren decided to stay and push the boundaries of neurospiritual
 
 Skys' torture escalated with the start of [Project Kingslayer](../lore/incident-kingslayer) in 2015. A message from Skys 
 recruiting the youth of [Novosovia](../lore/novosovia) reached [Victor Carmine](victor-carmine) in the [DTC](../lore/dtc) instead. 
-According to [Unbeleevable episode 3](../for-sof/unbeleevable3), this eventually caused Dallus to snap.
+[Unbeleevable episode 3](../for-sof/unbeleevable3) and [episode 4](../for-sof/unbeleevable4) reveal that Dallus 
+left the cult as a result of the experiments in 2015.
 
-However, the cult of Mantra (also known as the Neosages) actually falls somewhat later in an event also named the October Massacre,  
-at October Palace in Novosovia. Dallus and [Elena](elena-lauren) flee from Novosovia with their son Ren, while Elena goes 
-into labour. [ARC/HIVE](../lore/archive) was very interested in the scientist and his companions, leading boss [Victor Carmine](victor-carmine) 
-to order their extraction in an operation nicknamed [Operation Trinity](../lore/operation-trinity).
+When [Strassman](strassman) later fled the cult with the pregnant [Ava](ava), the two came to Dallus. Strassman 
+delivered their daughter [Angel](angel) himself, but the birth led to Ava's death. After a confrontation with a 
+manipulative, crying Skys they return to the cult.
+
+### The Fall of Mantra
+
+{% include content/info.html
+title="Real-life reference"
+content="This section contains heavy references to Rick Strassman's book 'The Spirit Molecule', in which he 
+studies the effect of DMT."
+%}
+
+In 2020, the tensions between the cult of Mantra, Victor Carmine's Arc/Hive and the Novosovian government resulted 
+in the fall of the cult: [The October Massacre](../lore/october-massacre). 
+After Strassman and Dallus returned to the cult, they had been working on more ethical research 
+around the 'spirit molecule' with gifted children. When the cult fell, the gifted children were taken to the [Arc/Hive](../lore/archive) 
+in the [DTC](../lore/dtc). 
+
+[ARC/HIVE](../lore/archive) was very interested in the so-called Trinity and their research within the cult, and their extraction 
+was ordered by[Victor Carmine](victor-carmine) in an operation nicknamed [Operation Trinity](../lore/operation-trinity).
+
+During the massacre, Strassman, Skys and Dallus himself were also taken back to Arc/Hive. Dallus' wife [Elena](elena-lauren) 
+flees too, along with their child Ren. Elena goes into labour during the extraction from Novosovia.
 
 Dallus and his family were extracted in time for their youngest, [Lyra](lyra-lauren), to be born in the safety of ARC/HIVE's lab. 
 Shortly after, he writes his [diary](../for-sof/dallus-diary) and [Project D.U.S.T.](../for-sof/project_dust) is first proposed.
@@ -118,11 +138,14 @@ Related files:
 - [Unbeleevable Episode 1](../for-sof/unbeleevable)
 - [Unbeleevable Episode 2](../for-sof/unbeleevable2)
 - [Unbeleevable Episode 3](../for-sof/unbeleevable3)
+- [Unbeleevable Episode 4](../for-sof/unbeleevable4)
 
 Related characters:
 
 - [Skys](skys)
 - [Karl Strassman](strassman)
+- [Angel](angel)
+- [Feya](feya)
 - [Ikaro (Ren) Lauren](ren)
 - [Lyra Lauren](lyra-lauren)
 - [Elena Lauren](elena-lauren)
