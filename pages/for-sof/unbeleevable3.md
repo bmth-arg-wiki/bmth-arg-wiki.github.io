@@ -192,14 +192,15 @@ Related characters:
 - [Victor Carmine](../characters/victor-carmine)
 - [Medea](../characters/medea)
 - [Ava](../characters/ava)
+- [Feya](../characters/feya)
 
-Unbeleevable:
 
-- [Unbeleevable Episode 1](unbeleevable)
-- [Unbeleevable Episode 2](unbeleevable2)
 
 Related files:
 
+- [Unbeleevable Episode 1](unbeleevable)
+- [Unbeleevable Episode 2](unbeleevable2)
+- [Unbeleevable Episode 4](unbeleevable4)
 - [Operation Trinity](trinity_document)
 - [Book of Eclipse](book-of-eclipse)
 - [Skys' Diary](skys-diary)
@@ -210,6 +211,7 @@ Related lore:
 - [Church of GENXSIS](../lore/church)
 - [ARC/HIVE Corp.](../lore/archive)
 - [NEX GEN Corp.](../lore/nex-gen-corporation)
+- [Unbeleevable series](../lore/unbeleevable)
 
 Related music:
 

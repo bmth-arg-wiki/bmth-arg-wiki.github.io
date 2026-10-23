@@ -183,14 +183,13 @@ Related characters:
 - [Angel](../characters/angel)
 - [Alfgram](../characters/alfgram)
 
-Unbeleevable:
+
+
+Related files:
 
 - [Unbeleevable Episode 1](unbeleevable)
 - [Unbeleevable Episode 2](unbeleevable2)
 - [Unbeleevable Episode 3](unbeleevable3)
-
-Related files:
-
 - [Russian Poem](russianpoem)
 - [Book of Eclipse](book-of-eclipse)
 
@@ -202,6 +201,7 @@ Related lore:
 - [Project Kingslayer](../lore/incident-kingslayer)
 - [October Massacre](../lore/october-massacre)
 - [Ecliptism](../lore/ecliptism)
+- [Unbeleevable series](../lore/unbeleevable)
 
 Related music:
 

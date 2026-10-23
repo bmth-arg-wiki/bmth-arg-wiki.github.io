@@ -153,6 +153,8 @@ Related files:
 - [The Science Study](thesciencestudy)
 - [Sky_&_The_Starjammers.png](skystarjammers)
 - [Unbeleevable Episode 2](unbeleevable2)
+- [Unbeleevable Episode 3](unbeleevable3)
+- [Unbeleevable Episode 4](unbeleevable4)
 
 Related characters:
 
@@ -160,6 +162,7 @@ Related characters:
 
 Related lore:
 
+- [Unbeleevable series](../lore/unbeleevable)
 - [Mantra cult](../lore/mantra)
 - [MANTRA (song)](../music/amo-mantra)
 - [Church of Genxsis](../lore/church)
