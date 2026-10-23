@@ -98,7 +98,7 @@ Possibly relevant lore & character articles:
 
 - [Angeldust](../characters/angeldust)
 - [Lore booklet](../lore/booklet)
-- Archangels [Raphael](../characters//raphael), [Gabriel](../characters//gabriel) [Michael](../characters/michael) and [Uriel](.../characters/uriel)
+- Archangels [Raphael](../characters/raphael), [Gabriel](../characters/gabriel), [Michael](../characters/michael) and [Uriel](../characters/uriel)
 - [Youtopia](../lore/youtopia)
 - [The insights](../lore/insights)
 - [S.Y.N.T.H.S.](../lore/synths)
