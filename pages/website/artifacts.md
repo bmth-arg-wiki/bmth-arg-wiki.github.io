@@ -5,7 +5,7 @@ used as Spotify canvases for POST HUMAN: NeX GEn."
 categories: ["website"]
 tags: ["bmth", "arg", "artifacts", "app", "dashboard", "nex gen", "post human", "spotify", "canvas", 
        "videos", "multidimensional navigator", "m8"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/website/artifacts-videos/artifacts-300x300.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/artifacts-videos/artifacts-300x300.png"
 ---
 
 # Artifacts
