@@ -5,7 +5,7 @@ categories: ["for-sof"]
 tags: ["bmth", "arg", "slider", "module", "puzzle", "youtopia", "artifacts", "relics", "selene", 
        "sof", "kingslayer", "prophecy", "gat3keeper", "gatekeeper", "prosthetic", "finger", 
        "synth", "carmine", "victor", "m8", "vex", "strassman", "sandpit turtle", "stampede", "trampled"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/refs/heads/main/files/artifacts/vex-bear-300x300.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/artifacts/vex-bear-300x300.png"
 previous: "for-sof/cities-coordinates"
 previous_text: "Cities Coordinates"
 next: "for-sof/unbeleevable3"
