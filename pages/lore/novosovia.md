@@ -4,7 +4,8 @@ description: "Novosovia is a fictional Eastern-European country. They are at war
 at least part of the story."
 categories: ["for-sof"]
 tags: ["bmth", "arg", "nex gen", "church of genxsis", "archive", "arc/hive", "mantra", "cult", "novosovia", "october palace",
-       "skys", "starjammers", "youtopia", "dtc", "divided", "territories", "columbia", "new elysium"]
+       "skys", "starjammers", "youtopia", "dtc", "divided", "territories", "columbia", "new elysium", "angel", 
+       "unbeleevable"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/novosovia/novosovia-300x300.png"
 ---
 
@@ -22,8 +23,7 @@ at least part of the story.
 
 Many of the important characters in the story are from Novosovia, including 
 [Skys](../characters/skys), [Dr. Karl Strassman](../characters/strassman), 
-[Dr. Dallus Lauren](../characters/dallus-lauren), [Elena Lauren](../characters/elena-lauren) 
-and [Ikaro Lauren](../characters/ren).
+[Dr. Dallus Lauren](../characters/dallus-lauren), and [Ikaro Lauren](../characters/ren).
 
 ***
 
@@ -70,16 +70,19 @@ return in 2004.
 
 The October Palace, known for the [Mantra cult](mantra), is located in Novosovia. The cult was located here 
 after Skys returned to Novosovia with his band in 2004. While the government was not fond of the cult, they managed 
-to exist for over a decade in the country.
+to exist for over a decade in the country. That tolerance eventually ran out: in 2020 the government sent troops 
+to October Palace, and the clash that followed became known as the [October Massacre](october-massacre).
 
 During [Operation Trinity](../for-sof/trinity_document) in 2020, several of our characters are extracted and brought 
 to the [DTC](../lore/dtc). The Operation brings not only Strassman, Dallus and Skys to the DTC, but also Dallus' family 
-and some children referred to as "the Special Six" in [Project D.U.S.T.](../for-sof/project_dust). It is unknown what 
-happens to Strassman's family, his wife Ava and child Angel, since Ava is dead and Angel is missing by the time 
-Dallus writes [his diary](../for-sof/dallus-diary) in January 2021.
+and some children referred to as "the Special Six" in [Project D.U.S.T.](../for-sof/project_dust). Ava does not survive 
+the cult, and by the time Dallus writes [his diary](../for-sof/dallus-diary) in January 2021, her daughter [Angel](../characters/angel) is 
+listed as missing. [Unbeleevable Episode 4](../for-sof/unbeleevable4) later reveals that Angel was in fact taken by 
+[Arc/Hive](archive) during the extraction, leaving her whereabouts after that unknown.
 
 During the time of the cult in Novosovia, a corporate off-shoot of the cult is established. [Genxsis](../lore/church) 
-would eventually go global, but started from the research here according to Sof's journal.
+would eventually go global, but started from the research here according to Sof's journal. Unbeleevable Episode 4 
+confirms that the cult of Mantra itself grew into the Church of Genxsis.
 
 ***
 
@@ -90,15 +93,24 @@ Related files:
 - [Operation Trinity](../for-sof/trinity_document)
 - [Unbeleevable Episode 1](../for-sof/unbeleevable)
 - [Unbeleevable Episode 2](../for-sof/unbeleevable2)
+- [Unbeleevable Episode 3](../for-sof/unbeleevable3)
+- [Unbeleevable Episode 4](../for-sof/unbeleevable4)
 - [Book of Eclipse](../for-sof/book-of-eclipse)
 
 Related characters:
 
 - [Skys](../characters/skys)
-- [Dr. Karl Strassman](../characters/strassman),
+- [Dr. Karl Strassman](../characters/strassman)
+- [Ava](../characters/ava)
+- [Angel](../characters/angel)
 - [Dr. Dallus Lauren](../characters/dallus-lauren)
 - [Elena Lauren](../characters/elena-lauren)
-- [Ikaro Lauren](../characters/ren).
+- [Ikaro Lauren](../characters/ren)
+- [Lyra Lauren](../characters/lyra-lauren)
+- [Medea](../characters/medea)
+- [Victor Carmine](../characters/victor-carmine)
+- [Alfgram](../characters/alfgram)
+- [Feya](../characters/feya)
 
 Related lore:
 
@@ -108,4 +120,3 @@ Related lore:
 - [DTC](dtc)
 - [New Elysium](new-elysium)
 - [Sof's journal](../website/journal)
-- [Radiogenic Leukotrichia](radiogenic-leukotrichia)
