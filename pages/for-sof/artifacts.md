@@ -14,9 +14,16 @@ next_text: "Unbeleevable 3 (Jigsaw Puzzle)"
 
 # Module Puzzle Artifacts
 
-The module puzzles are connector-type puzzles that reveal six different 3D models, which seem to be 
+{% include content/info.html
+title="Not the Spotify canvases"
+content="This page is about the artifact items that can be found in the inventory on the website. 
+The spotify canvases labelled as 'Artifacts' under the media player can be found [here](../website/artifacts).
+%}
+
+The module puzzles were connector-type puzzles that reveal six different 3D models, which seem to be 
 connected to the characters in our world. They are located in [Sof](../characters/sof)'s inventory 
-on the [website](../website/website).
+on the [website](../website/website). Since the October 2026 update, the module puzzles have been removed 
+and the items can be viewed directly from the inventory.
 
 ***
 
