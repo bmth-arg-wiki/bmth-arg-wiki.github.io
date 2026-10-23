@@ -325,6 +325,7 @@ Related files:
 - [Unbeleevable Episode 1](../for-sof/unbeleevable)
 - [Unbeleevable Episode 2](../for-sof/unbeleevable2)
 - [Unbeleevable Episode 3](../for-sof/unbeleevable3)
+- [Unbeleevable Episode 4](../for-sof/unbeleevable4)
 
 Related characters:
 
@@ -332,7 +333,11 @@ Related characters:
 
 Related lore:
 
-- [Ecliptism](../lore/ecliptism)
+- [Radiogenic Leukotrichia](../lore/radiogenic-leukotrichia)
+- [Novosovia](../lore/novosovia)
+- [Mares](../lore/mares)
+- [Cult of Mantra](../lore/mantra)
+- [Unbeleevable series](../lore/unbeleevable)
 
 Related music:
 
