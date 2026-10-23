@@ -58,7 +58,7 @@ Carmine fails to get his hands on Mantra's Kingslayer research.
 After times of tension and betrayal in the cult, Medea starts to worry about threats to her family 
 back home and her own baby. Eventually she re-established contact with Arc/Hive, telling them 
 about the research Strassman and Skys had been conducting on gifted kids. To ensure her safety, 
-she also tells them Angel's daughter has unexplained powers.
+she also tells them Strassman's daughter [Angel](../characters/angel) has unexplained powers.
 
 On her entry into the cult, a bio chip was also placed in Medea's neck. She gave Arc/Hive access 
 to this chip, and they have had access to monitor her since she arrived. They also know about her 
@@ -69,7 +69,7 @@ more research Arc/Hive would soon uncover.
 
 ### Operation Trinity
 
-The October Massacre started with intervention from the Novosovian government. The DTC and 
+The [October Massacre](october-massacre) started with intervention from the Novosovian government. The DTC and 
 Novosovia had a complicated history involving a lot of war. Carmine had strong ties to the 
 DTC government and wanted to prevent the research from falling into the hands of the Novosovian 
 government.
