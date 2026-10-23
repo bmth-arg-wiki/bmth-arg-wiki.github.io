@@ -45,7 +45,7 @@ pages for you to enjoy."
 The wiki has grown to over 100+ pages, growing regularly with updates from [our small team](pages/about). 
 These are the newest (or most recently expanded) pages on our wiki!
 
-{% assign page_links = '/pages/for-sof/unbeleevable4, /pages/website/skys-diary, /pages/characters/feya, /pages/characters/angel, /pages/music/song-die4u, /pages/lore/october-massacre, /pages/lore/story-recap, /pages/lore/church' | split: ", " %}
+{% assign page_links = '/pages/lore/unbeleevable, /pages/website/artifacts, /pages/for-sof/unbeleevable4, /pages/website/skys-diary, /pages/characters/feya, /pages/characters/angel, /pages/music/song-die4u, /pages/lore/october-massacre, /pages/lore/story-recap, /pages/lore/church' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ***
