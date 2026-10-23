@@ -20,7 +20,7 @@ Alfgram was one of [Skys'](skys) most loyal disciples within the cult of [Mantra
 He was patient zero for [Project Kingslayer](../lore/incident-kingslayer), after which he claimed to have access to ancient powers. 
 He also claimed he was able to visit different realities. 
 
-After Skys confronts Strassman about the nature of the experiments, the experiments for Project Kingslayer continue 
+After Skys confronts [Strassman](strassman) about the nature of the experiments, the experiments for Project Kingslayer continue 
 in secret. Alfgram decides to leave the cult with a few devout followers, starting [ecliptism](../lore/ecliptism)
 The [Book of Eclipse](../for-sof/book-of-eclipse) details Skys hunting Alfgram down and killing him.
 

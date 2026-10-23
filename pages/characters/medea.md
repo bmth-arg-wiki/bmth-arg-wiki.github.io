@@ -29,7 +29,7 @@ in the [cult of Mantra](../lore/mantra) by [Dr. Lee MD](lee-md).
 
 From [Unbeleevable 3](../for-sof/unbeleevable3) and an interview with her father [Victor Carmine](victor-carmine) 
 we learn more about her involvement in Mantra. Medea was this woman's code name, and she was sent in as a secret agent 
-on behalf of [Arc/Hive](../lore/archive) from the [DTC](../lore/dtc). She was given instructions to seduce Skys and 
+on behalf of [Arc/Hive](../lore/archive) from the [DTC](../lore/dtc). She was given instructions to seduce [Skys](skys) and 
 gain access to his secrets. However, she ended up falling for Skys, who was also in love with her. The two are known to 
 have at least two children together. Skys is also confirmed to have many more children, although exact numbers are not given.
 
@@ -42,7 +42,7 @@ have at least two children together. Skys is also confirmed to have many more ch
 a bio chip placed when she entered the cult.
 
 Medea eventually caves under the pressure of threats to her family back home and re-establishes contact with 
-Arc/Hive. Feeling that her baby is in danger, she shares the secret experiment that Strassman and Skys ran on 
+Arc/Hive. Feeling that her baby is in danger, she shares the secret experiment that [Strassman](strassman) and Skys ran on 
 gifted kids with Arc/Hive. The experiment used ancient practices, aiming to uncover the so-called "spirit molecule". 
 Medea also admits that [Angel](angel) had powers that could not be explained by traditional science.
 

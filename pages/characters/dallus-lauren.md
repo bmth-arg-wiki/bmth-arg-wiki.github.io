@@ -33,7 +33,7 @@ My father envisioned a future where these would mitigate the environmental colla
 
 The [Trinity document](../for-sof/trinity_document) shows us that Dallus in the man we see
 in the music video for [in the dark](../music/amo-in-the-dark), played by Forest Whitaker. It is unknown when exactly
-this event takes place, but we seem to see Skys as a [synth](../lore/synths) here, placing it after 2026 and before his death.
+this event takes place, but we seem to see [Skys](skys) as a [synth](../lore/synths) here, placing it after 2026 and before his death.
 
 ![Comparison of photos to Operation Trinity document shot](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/dallus/dallus_mantraleader.png)
 

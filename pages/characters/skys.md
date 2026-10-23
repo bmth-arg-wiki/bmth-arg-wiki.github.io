@@ -124,7 +124,7 @@ him reach an audience, despite the [Novosovian](../lore/novosovia) government be
 ### Project Kingslayer
 
 [Unbeleevable 3](../for-sof/unbeleevable3) reveals that Skys started [Project Kingslayer](../lore/incident-kingslayer) 
-with his associate Alfgram as patient zero in 2015. This escalated the torture in the cult, but Alfgram claimed 
+with his associate [Alfgram](alfgram) as patient zero in 2015. This escalated the torture in the cult, but Alfgram claimed 
 to have strong abilities after the ritual, now even more certain that pain was a means to enlightenment.
 
 Skys also sent out a message to the disillusioned youth of Novosovia, attempting to recruit them into his cult. 
@@ -136,13 +136,13 @@ children together, although it is hinted at that Skys may have had many more.
 After a while in the cult, [Strassman](strassman) writes the [Russian Poem](../for-sof/russianpoem) to [Ava](ava). 
 She was Skys' top disciple, but the two kept their affair a secret from Skys. 
 
-Feya, another one of Skys' disciples, reveals that there is a Novosovian 
+[Feya](feya), another one of Skys' disciples, reveals that there is a Novosovian 
 operative in the cult. Alfgram convinces Skys to make an example out of the traitor and also use him as a test subject. 
 According to [Dr. Lee MD](lee-md), this is when Skys house of cards comes crashing down. [Dallus](dallus-lauren) has 
 realised what the experiments were doing and left the cult in 2015. Medea is naturally also worried, since she 
 came into the cult on her father's orders to bring it down originally.
 
-[Rebecca](../characters/rebecca) refers to Skys in her [November 2027 Grumblr post](../for-sof/grumblr2) as "The Brain Butcher", 
+[Rebecca](rebecca) refers to Skys in her [November 2027 Grumblr post](../for-sof/grumblr2) as "The Brain Butcher", 
 which seems to be a name the public gave him. Since he's been in a coma since the events of Mantra, this nickname 
 likely refers to his actions in the cult from 2015 to 2020.
 

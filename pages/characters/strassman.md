@@ -43,7 +43,7 @@ introducing us to this key player in the story.
 
 ### Neospiritualism (<2004)
 
-Dr. Karl Strassman was a researcher looking into the science of spiritualism. Before getting involved with Skys, 
+Dr. Karl Strassman was a researcher looking into the science of spiritualism. Before getting involved with [Skys](skys), 
 Strassman founded Neospiritualism, as we learn from [Unbeleevable Episode 2](../for-sof/unbeleevable2).
 When [Skys](skys) came to Novosovia with his band [Skys & the Starjammers](../for-sof/skystarjammers) in 2004, 
 his eccentric behaviour in interviews caught Strassman's attention. Despite his lack of traditional education, Skys' 
@@ -70,7 +70,7 @@ used as an example and test subject for [Project Kingslayer](../lore/incident-ki
 
 In 2015, [Dallus](dallus-lauren) realised what the experiments were doing and left the cult. Strassman stayed behind, 
 but had to leave when Ava was about to give birth. The two fled to Dallus, where Strassman delivered their daughter 
-himself. The birth led to Ava's death, but before she passed away she referred to the child as an Angel, and Strassman 
+himself. The birth led to Ava's death, but before she passed away she referred to the child as an [Angel](angel), and Strassman 
 decided to name her that. Ava had believed their daughter was destined to save the world.
 
 [Feya](feya), a member of Skys' inner circle, found the [poem](../for-sof/russianpoem)s Strassman had written to Ava. 

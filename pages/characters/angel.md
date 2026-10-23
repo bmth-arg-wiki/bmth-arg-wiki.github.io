@@ -10,7 +10,7 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/charact
 
 {% include content/info.html
 title="Work in progress"
-content="This page is a stub and will be expanded once the Unbeleevable Episode 4 transcript is available."
+content="This page is a stub and will be expanded once the [Unbeleevable Episode 4](../for-sof/unbeleevable4) transcript is available."
 %}
 
 Angel is the daughter of [Dr. Karl Strassman](strassman) and [Ava](ava). She was taken by 
