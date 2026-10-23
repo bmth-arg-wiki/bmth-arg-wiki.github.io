@@ -13,7 +13,7 @@ next_text: "03. nihilist blues"
 
 {% include content/info.html
 title="Mantra (Song)"
-content="This article is about the song MANTRA, not about [the cult](../lore/mantra)."
+content="This article is about the song MANTRA, not about [the Neosages/Mantra cult](../lore/mantra)."
 %}
 
 > "Do you want to start a cult with me?"
@@ -25,10 +25,15 @@ we can learn more about in a few different files:
 - [Trinity document](../for-sof/trinity_document)
 - [Unbeleevable Episode 1](../for-sof/unbeleevable)
 - [Unbeleevable Episode 2](../for-sof/unbeleevable2)
+- [Unbeleevable Episode 4](../for-sof/unbeleevable4)
 - [Skys & the Starjammers poster](../for-sof/skystarjammers)
 
 There was also a website with a teaser called `joinmantra.org`. It is no longer 
 available on the internet, but you can learn more about it in the [cult article](../lore/mantra).
+
+[Unbeleevable Episode 4](../for-sof/unbeleevable4) ends on Skys alone with a bottle of pills, spiralling out of control after 
+[Medea](../characters/medea)'s secret contact with Arc/Hive is exposed. This moment seems to continue into this music video, 
+where Skys fakes his own death through an overdose.
 
 ***
 
@@ -113,18 +118,22 @@ Related files:
 - [Trinity document](../for-sof/trinity_document)
 - [Unbeleevable Episode 1](../for-sof/unbeleevable)
 - [Unbeleevable Episode 2](../for-sof/unbeleevable2)
+- [Unbeleevable Episode 4](../for-sof/unbeleevable4)
 - [Skys & the Starjammers poster](../for-sof/skystarjammers)
 
 Related characters:
 
 - [Skys](../characters/skys)
 - [Medea](../characters/medea)
+- [Feya](../characters/feya)
 - [Strassman](../characters/strassman)
 - [Dallus Lauren](../characters/dallus-lauren)
+- [Victor Carmine](../characters/victor-carmine)
 
 Related lore:
 
 - [Mantra cult](../lore/mantra)
+- [October Massacre](../lore/october-massacre)
 - [ARC/HIVE](../lore/archive)
 - [joinmantra.org](../lore/mantra#joinmantraorg)
 
