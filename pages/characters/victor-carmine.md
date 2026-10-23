@@ -76,6 +76,11 @@ gain information, and bring down the cult. Skys falls for Medea, who eventually 
 no longer contacting him. Most of the details of this area come from [Dr. Lee MD](lee-md) in his 
 [third episode of Unbeleevable](../for-sof/unbeleevable3).
 
+After several traitors are exposed in the cult, Medea starts to worry about the safety of her family back home 
+and her baby. She re-establishes contact with Victor and Arc/Hive, sharing information about the research on gifted 
+children and Strassman's baby [Angel](../characters/angel). Arc/Hive has also been tracking her through the chip 
+placed into her neck when she entered the cult, putting more pressure on her to cooperate.
+
 ### Operation Trinity
 
 Victor Carmine ordered [Operation Trinity](../for-sof/trinity_document) in 2020, ordering 
