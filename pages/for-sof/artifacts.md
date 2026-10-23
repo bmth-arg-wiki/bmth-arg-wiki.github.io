@@ -17,7 +17,7 @@ next_text: "Unbeleevable 3 (Jigsaw Puzzle)"
 {% include content/info.html
 title="Not the Spotify canvases"
 content="This page is about the artifact items that can be found in the inventory on the website. 
-The spotify canvases labelled as 'Artifacts' under the media player can be found [here](../website/artifacts).
+The spotify canvases labelled as 'Artifacts' under the media player can be found [here](../website/artifacts)."
 %}
 
 The module puzzles were connector-type puzzles that reveal six different 3D models, which seem to be 
