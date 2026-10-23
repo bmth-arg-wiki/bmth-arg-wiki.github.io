@@ -4,7 +4,8 @@ description: "Ecliptism is a shadowy sect, formed from Mantra cult extremists. T
 a hidden dimension can be access through pain under specific conditions."
 categories: ["lore"]
 tags: ["mantra", "experimentation", "cult", "drug", "bring me the horizon", "bmth", 
-       "arg", "lore", "invitation to salvation", "joinmantra.org", "starjammers", "skys", "alfgram", "die4u"]
+       "arg", "lore", "invitation to salvation", "joinmantra.org", "starjammers", "skys", "alfgram", "die4u", 
+       "unbeleevable"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/book-of-eclipse/book-300x300.png"
 ---
 
@@ -51,7 +52,14 @@ Alfgram sees pride in Skys, something he believes will prevent him for ascending
 but Skys disagrees, prompting Alfgram and his most loyal followers to leave October Palace. These followers call him
 the "First Shadow", or "Shepherd of Suffering", for seeing through Skys' intentions.
 
-Skys awoke the next morning, furious to find them gone and ordering his most loyal disciples to hunt
+[Unbeleevable Episode 4](../for-sof/unbeleevable4) tells the story from a different perspective. When 
+[Karl Strassman](../characters/strassman) briefly walked away from the cult in 2015, Skys persuaded him to return 
+by vowing to get rid of [Project Kingslayer](../lore/incident-kingslayer) for good and instead let Strassman lead 
+ethical neurospiritual research with gifted children.  
+Skys moved the project from the public view into the secrecy of the palace's basement. His very own patient 
+zero Alfgram was furious and confronted Skys, resulting in him leving the cult.
+
+According to the book, Skys awoke the next morning, furious to find them gone and ordering his most loyal disciples to hunt
 them down, taking weapons with him. Alfgram had visions of Skys while hiding with his followers, that told him 
 Skys would not stop until they were dead. Skys eventually tracks him down and gives him a chance to
 surrender, but kills Alfgram after he refuses.
@@ -146,6 +154,7 @@ Related files:
 - [Unbeleevable Episode 1](../for-sof/unbeleevable)
 - [Unbeleevable Episode 2](../for-sof/unbeleevable2)
 - [Unbeleevable Episode 3](../for-sof/unbeleevable3)
+- [Unbeleevable Episode 4](../for-sof/unbeleevable4)
 - [Dreadit post](../for-sof/dreadit)
 - [Survival Horror anniversary post](../for-sof/survival-horror-anniversary)
 
