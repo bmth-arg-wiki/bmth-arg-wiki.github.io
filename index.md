@@ -38,13 +38,14 @@ information as much as possible and indicate whenever something is not confirmed
 
 {% include content/info.html
 title="Latest updates"
-content="Last update on 13-06-2026, now showing the full advent calendar."
+content="Last update on 23-10-2026. A huge update just landed! We've already updated some of the lore 
+pages for you to enjoy."
 %}
 
 The wiki has grown to over 100+ pages, growing regularly with updates from [our small team](pages/about). 
 These are the newest (or most recently expanded) pages on our wiki!
 
-{% assign page_links = '/pages/lore/october-massacre, /pages/lore/radiogenic-leukotrichia, /pages/website/advent, /pages/lore/story-recap, /pages/lore/church, /pages/music/sao_paulo_live, /pages/for-sof/museum, /pages/website/skys-diary' | split: ", " %}
+{% assign page_links = '/pages/for-sof/unbeleevable4, /pages/website/skys-diary, /pages/characters/feya, /pages/characters/angel, /pages/music/song-die4u, /pages/lore/october-massacre, /pages/lore/story-recap, /pages/lore/church' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ***
