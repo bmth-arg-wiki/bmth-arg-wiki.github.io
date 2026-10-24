@@ -7,7 +7,7 @@ tags: ["webpage", "m8", "multidimensional", "navigator", "8-line", "version 1", 
 "ARG", "post human", "wifi", "version 2", "emulator"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/oldsite-300x300.png"
 ---
-# Website Version 1.0
+# Website Version 1.0 & 2.0
 
 [POST HUMAN: NeX GEn](../music/ph-nex-gen) was released on the 24th of May 2024, along with the first version of the 
 website. The page got a big makeover on the 4th of December 2024, giving us version 2.0. 
@@ -116,7 +116,7 @@ Here's how that looked like:
 
 ### Password Screen & Overview
 
-![Password screen 2.0](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/pssword-screen-2-0.png)
+![Password screen 2.0](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/password-screen-2-0.png)
 ![Overview 3.0](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/interface_2_0.png)
 
 Note: an additional tab was added in for the [Idle Game](idle.md) on July 16th 2025.

@@ -1,6 +1,6 @@
 ---
 title: "Scream Star"
-description: "This page is about the rhythm game Scream Star, which is a game released to promote Nex Gen."
+description: "This page is about the rhythm game Scream Star, which was a game released to promote Nex Gen."
 categories: ["website", "music"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/emulator/screamstar-300x300.png"
 tags: ["arg", "bmth", "bring me the horizon", "scream star", "rhythm game"]
@@ -12,25 +12,27 @@ next_text: "Escape Game/Paintings"
 
 {% include content/info.html
 title="Game Not Available"
-content="Currently Scream Star is not available and re-directs to the official BMTH website. It is unknown 
-if or when the game will return."
+content="As of late 2025, Scream Star is not available and its website re-directs to the official BMTH one. 
+It is unknown if or when the game will return."
 %}
 
-[Scream Star](https://www.scream-star.com/) is a rhythm game that includes most of the songs from the 
-album [POST HUMAN: NeX GEn](../music/ph-nex-gen). The game can also be connected to your own Spotify.
+[Scream Star](https://www.scream-star.com/) was a rhythm game that included most of the songs from the 
+album [POST HUMAN: NeX GEn](../music/ph-nex-gen). The game could also connect to your own Spotify account.
 
-While it does not seem to expand on the lore, it has a few fun assets and is now also playable through the 
-emulator on the website since the 11th of April 2025. This update also introduced the first lore-related game, exclusive 
-to the webpage, to the [emulator](emulator) category. The only character that is prominently featured in the 
-game is [Eve](../characters/eve).
+While it didn't seem to expand on the lore, it had a few fun assets and was also playable through the 
+emulator on the ARG website from April 11th 2025 to its demise.
+(This update also introduced the first lore-related [Escape Game](emulator-escape.md), exclusive to the ARG, 
+to the [emulator](emulator) category.)
+
+The only character that was prominently featured in Scream Star was [Eve](../characters/eve).
 
 ![Scream Star gameplay screenshot](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/other-webpages/screamstar/gameplay.png)
 
 ***
 
-## Track list
+## Tracklist
 
-The following songs appear in the game uncensored:
+The following songs appeared in the game uncensored:
 
 - [YOUtopia](../music/song-youtopia) 
 - [Kool-Aid](../music/song-koolaid)
@@ -46,12 +48,12 @@ The following songs appear in the game uncensored:
 - [AmEN!](../music/song-amen)
 - [DiE4u](../music/song-die4u)
 
-The intro to the album, [Dreamseeker](../music/song-dreamseeker), [P.U.S.S-E](../music/song-pusse) and 
-[DIg It](../music/song-digit) are not available in the game. 
+The [Dreamseeker](../music/song-dreamseeker) intro, [P.U.S.S-E](../music/song-pusse) interlude, and closing track [DIg It](../music/song-digit) 
+were not available in the game. 
 
 ***
 
-## Gallery
+## Assets Gallery
 
 {% include gallery-nav.html folder="other-webpages/screamstar/gallery" %}
 
@@ -59,14 +61,14 @@ The intro to the album, [Dreamseeker](../music/song-dreamseeker), [P.U.S.S-E](..
 
 ## Read More
 
-Related files:
+Emulator and other games:
 
 - [Emulator](emulator)
 - [Escape Game](emulator-escape)
 - [M8 Mobile](emulator-m8mobile)
 - [Worm](emulator-worm)
 
-Related characters:
+Related character:
 
 - [E.V.E.](../characters/eve)
 

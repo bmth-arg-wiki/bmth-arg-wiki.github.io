@@ -12,21 +12,26 @@ next_text: "M8 Mobile"
 
 # Escape Game
 
+{% include content/info.html
+title="Game Not Available"
+content="As of October 22nd 2026, this escape game has entirely disappeared, rendering M8 Mobile accessible without a password."
+%}
+
 > You have entered a small room with three oddly unsettling 
 > paintings in front of you. They almost look alive, the sooner you get 
 > out of this room the better.
 
 ![Initial password prompt screenshot](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/emulator/escape/odd-paintings.png)
 
-The image shown seems to contain several glowing numbers and a prompt to "Submit Answer".
+The image shown contains several glowing numbers and a prompt to "Submit Answer".
 
 ***
 
 ## About
 
-This mysterious game dropped on April 11th, taking a while to solve. On the 20th of August the
-game was updated, with a little star placed next to it. This made the numbers on the puzzle easier to read, which resulted
-in the puzzle being solved the same day.
+This mysterious game dropped on April 11th 2025 and took a while to solve.
+On the 20th of August, the game was updated, with a little star placed next to its icon in the [Emulator](emulator.md)'s menu. 
+This made the numbers easier to read, which resulted in the puzzle being solved the same day.
 
 ***
 
@@ -56,14 +61,9 @@ Solving this puzzle unlocks the game [M8 mobile](emulator-m8mobile).
 
 ## Read More
 
-Related website pages:
+Emulator and other games:
 
 - [Emulator](emulator)
 - [Scream Star](emulator-screamstar)
 - [M8 mobile](emulator-m8mobile)
 - [Worm/Snake](emulator-worm)
-- [Idle Game](idle)
-
-Related characters:
-
-- [M8](../m8)
