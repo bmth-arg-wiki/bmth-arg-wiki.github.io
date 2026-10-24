@@ -106,7 +106,7 @@ save [Youtopia](../lore/youtopia.md).
 
 Formerly known as the [FOR SOF folder](../for-sof/for-sof.md#for-sof), it still contains the same documents.
 
-![https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/documents-list.png]
+![Docs list on oct 22nd 2026](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/documents-list.png)
 
 {% assign page_links = '/pages/for-sof/for-sof' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
