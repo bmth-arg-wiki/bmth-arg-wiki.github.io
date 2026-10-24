@@ -2,7 +2,7 @@
 title: "Emulator"
 description: "This page is about the emulator on the Multidimensional Navigator 8."
 categories: ["website", "lore"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/emulator-300x300.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/v3-app-icons/05-emulator-300x300.png"
 tags: ["arg", "bmth", "bring me the horizon", "scream star", "escape room", "puzzle"]
 ---
 
