@@ -312,6 +312,40 @@ unlock both pages.
 
 ![Skys' seventh diary entry](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/skys-scrapbook/01-skysdiary7.png)
 
+Entry 7 is unlocked by a small kitchen game. Click around a kitchen to find the ingredients you need 
+for a recipe.
+
+<details class="hint">
+<summary>Hint</summary>
+
+{{ "
+
+Click the paper at the bottom left to open up a page showing silhouettes of the items you will need to find 
+by clicking through the kitchen cabinets.
+
+![Page 7 recipe](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/skys-scrapbook/kitchen-puzzle/skysdiary7-password1.png)
+
+" | markdownify }}
+</details>
+
+<details class="password">
+<summary>Password</summary>
+
+{{ "
+
+1. Click the “?” in the bottom left corner to reveal the shadows of the ingredients you will need: 
+   the half eaten apple, sliced bread, moldy potato, and canned leeches.
+2. Find these ingredients in the four cupboards. Don't forget to click on the apple again once it's 
+   on the counter to cut it up.
+3. Use the whisk to mix it all up, and there you have a delicious sweet leech cake!
+4. Click “well done!” to access the entry.
+
+![Page 7 ingredients in bowl](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/skys-scrapbook/kitchen-puzzle/skysdiary7-password2.png)
+
+![The result: sweet leech cake!](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/skys-scrapbook/kitchen-puzzle/skysdiary7-password3.png)
+
+" | markdownify }}
+</details>
 
 <details class="transcript">
 <summary>Transcription Entry 7</summary>
@@ -357,6 +391,39 @@ unlock both pages.
 
 ![Skys' eighth diary entry](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/skys-scrapbook/01-skysdiary8.png)
 
+Entry 8 uses the same kitchen game as entry 7, with a new set of ingredients to find.
+
+<details class="hint">
+<summary>Hint</summary>
+
+{{ "
+
+Click the paper at the bottom left to open up a page showing silhouettes of the items you will need to find 
+by clicking through the kitchen cabinets.
+
+![Page 8 recipe](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/skys-scrapbook/kitchen-puzzle/skysdiary8-password1.png)
+
+" | markdownify }}
+</details>
+
+<details class="password">
+<summary>Password</summary>
+
+{{ "
+
+1. Click the “?” in the bottom left corner to reveal the shadows of the ingredients you will need: 
+   the milk bottle, the pill bottle, the honeycomb, and the salt shaker.
+2. Find these ingredients in the four cupboards. Don't forget to click on the pill bottle again once it's 
+   on the counter to open it.
+3. Use the whisk to mix it all up, and there you have a yummy prescription strength cupcake!
+4. Click “well done!” to access the entry.
+
+![Ingredients for page 8](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/skys-scrapbook/kitchen-puzzle/skysdiary8-password2.png)
+
+![Yummy! A prescription strength cupcake](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/skys-scrapbook/kitchen-puzzle/skysdiary8-password3.png)
+
+" | markdownify }}
+</details>
 
 <details class="transcript">
 <summary>Transcription Entry 8</summary>
