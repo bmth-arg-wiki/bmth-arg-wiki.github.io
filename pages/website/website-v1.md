@@ -15,7 +15,7 @@ It then got another overhaul on October 22nd 2026, resulting in the current 3.0 
 
 ***
 
-## Version 1.0
+## Version 1.0 & 2.0
 
 ###  Password Screen & Overview
 
@@ -116,7 +116,7 @@ Here's how that looked like:
 
 ### Password Screen & Overview
 
-![Password screen 2.0](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/pssword-screen-2-0.png)
+![Password screen 2.0](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/password-screen-2-0.png)
 ![Overview 3.0](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/interface_2_0.png)
 
 Note: an additional tab was added in for the [Idle Game](idle.md) on July 16th 2025.
