@@ -157,6 +157,8 @@ the Spyder access codes were found on cards across three cities: Berlin, Sheffie
 Upon entering these numbers, the browser loads a page from a newspaper called 'The Daily Whisper', 
 whose name is a play on the real life publication 'The Daily Mail'.
 
+Note: As of somewhere in 2025, the access codes are not needed to open Spyder anymore.
+
 ![daily whisper unlock](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/tdw-unlock.png)
 
 ### Transcription
@@ -211,11 +213,12 @@ we are lead to a table of content for all the articles on this website.
 
 ## Read More
 
-Related files:
+Related file:
 
 - [Dreaddit](../for-sof/dreadit)
+- [Coordinates](../for-sof/cities-coordinates)
 
-Related characters:
+Related character:
 
 - [M8](../m8)
 
@@ -223,15 +226,10 @@ Related website pages:
 
 - [Website](website)
 - [Old website](website-v1)
-- [Noctune Music Player](website-songs)
-- [Wi-Fi](wifi)
-- [Journal](journal)
 
 Related lore:
 
 - [Nex Gen Corporation](../lore/nex-gen-corporation)
-- [M8 webpage](../website/website)
-- [Wifi](wifi)
 - [What is a Loop-Hole](tdw-loophole)
 - [GAT3KEEPER](tdw-gatekeeper)
 - [Vanished Beyond the Veil](tdw-vanished)
