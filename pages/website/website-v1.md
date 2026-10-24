@@ -31,6 +31,8 @@ This number can be found on the album cover (although it's very tiny).
 <summary>Click me to reveal the serial number.</summary> 
 {{"
 93934521
+"| markdownify }}
+</details>
 
 ### Codek
 
