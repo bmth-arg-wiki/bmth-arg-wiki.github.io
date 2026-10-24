@@ -7,7 +7,7 @@ tags: ["webpage", "m8", "multidimensional", "navigator", "8-line", "version 1", 
 "ARG", "post human", "wifi", "version 2", "emulator"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/oldsite-300x300.png"
 ---
-# Website Version 1.0
+# Website Version 1.0 & 2.0
 
 [POST HUMAN: NeX GEn](../music/ph-nex-gen) was released on the 24th of May 2024, along with the first version of the 
 website. The page got a big makeover on the 4th of December 2024, giving us version 2.0. 
@@ -15,7 +15,7 @@ It then got another overhaul on October 22nd 2026, resulting in the current 3.0 
 
 ***
 
-## Version 1.0 & 2.0
+## Version 1.0
 
 ###  Password Screen & Overview
 
