@@ -99,14 +99,14 @@ As of this most recent update, only M8 Mobile and Worm remain in the emulator.
 Four of the earliest documents that introduce us to the four concepts we must master in order to 
 save [Youtopia](../lore/youtopia.md).
 
-{% assign page_links = '/pages/for-sof/insight1-connection, /pages/for-sof/insight2-empathy, /pages/for-sof/insight3-purpose, /pages/for-sof/insight4-vision' | split: ", " %}
+{% assign page_links = '/pages/lore/insight1-connection, /pages/lore/insight2-empathy, /pages/lore/insight3-purpose, /pages/lore/insight4-vision' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ### Documents
 
 Formerly known as the [FOR SOF folder](../for-sof/for-sof.md#for-sof), it still contains the same documents.
 
-https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/documents-list.png
+![https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/documents-list.png]
 
 {% assign page_links = '/pages/for-sof/for-sof' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
