@@ -29,7 +29,7 @@ Please note that an additional tab was added for the [idle game](idle) in July 2
 
 ## ARG Website - Main Page
 
-{% assign page_links = '/pages/website/skys-diary, /pages/website/advent, /pages/website/wifi, /pages/website/webbrowser, /pages/website/journal, /pages/website/idle, /pages/website/website-songs, /pages/website/website-v1, /pages/website/artifacts, /pages/lore/unbeleevable' | split: ", " %}
+{% assign page_links = '/pages/website/artifacts, /pages/website/skys-diary, /pages/website/advent, /pages/website/wifi, /pages/website/webbrowser, /pages/website/journal, /pages/website/idle, /pages/website/website-songs, /pages/website/website-v1, /pages/website/artifacts, /pages/lore/unbeleevable' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ***

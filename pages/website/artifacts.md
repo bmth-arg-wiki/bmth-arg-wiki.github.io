@@ -20,6 +20,8 @@ The Artifacts app has appeared on the [website](website) as a new app on the das
 collection of videos, several of which have been used as Spotify canvas animations for songs from 
 [POST HUMAN: NeX GEn](../music/ph-nex-gen).
 
+{% include gallery-nav.html folder="webpage/artifacts-videos/gallery/" %}
+
 ***
 
 ## Read More

@@ -5,7 +5,15 @@ async function fetchFiles(url) {
     return response.json();
 }
 
-function buildCard(file, aspect, columns) {
+function findPoster(file, siblings) {
+    const base = file.name.replace(/\.mp4$/i, '');
+    const match = ['.jpg', '.jpeg', '.png']
+        .map((ext) => base + ext)
+        .find((name) => siblings.has(name));
+    return match ? siblings.get(match) : null;
+}
+
+function buildCard(file, aspect, columns, siblings) {
     const column = document.createElement('div');
     column.className = `column ${columns}`;
 
@@ -19,13 +27,28 @@ function buildCard(file, aspect, columns) {
     link.classList.add('glightbox');
     link.href = file.download_url;
 
-    const img = document.createElement('img');
-    img.src = file.download_url;
-    img.alt = '';
-    img.classList.add('img-contain');
-    img.loading = 'lazy';
+    const isVideo = /\.mp4$/i.test(file.name);
+    let media;
+    if (isVideo) {
+        media = document.createElement('video');
+        media.muted = true;
+        media.loop = true;
+        media.playsInline = true;
+        media.preload = 'metadata';
+        media.classList.add('has-ratio', 'img-contain');
+        const poster = findPoster(file, siblings);
+        if (poster) {
+            media.poster = poster;
+        }
+    } else {
+        media = document.createElement('img');
+        media.alt = '';
+        media.loading = 'lazy';
+        media.classList.add('img-contain');
+    }
+    media.src = file.download_url;
 
-    link.appendChild(img);
+    link.appendChild(media);
     figure.appendChild(link);
     card.appendChild(figure);
     column.appendChild(card);
@@ -51,10 +74,23 @@ async function loadGallery(gallery) {
         const files = await fetchFiles(url);
         gallery.innerHTML = '';
 
+        const siblings = new Map(files.map((file) => [file.name, file.download_url]));
+        const videoBases = new Set(
+            files
+                .filter((file) => /\.mp4$/i.test(file.name))
+                .map((file) => file.name.replace(/\.mp4$/i, '')),
+        );
+
         files.forEach((file) => {
-            if (file.type === 'file' && /\.(jpg|jpeg|png|gif)$/i.test(file.name)) {
-                gallery.appendChild(buildCard(file, aspect, columns));
+            if (file.type !== 'file' || !/\.(jpg|jpeg|png|gif|mp4)$/i.test(file.name)) {
+                return;
             }
+            const isVideo = /\.mp4$/i.test(file.name);
+            const base = file.name.replace(/\.[^.]+$/, '');
+            if (!isVideo && videoBases.has(base)) {
+                return;
+            }
+            gallery.appendChild(buildCard(file, aspect, columns, siblings));
         });
 
         initLightbox(`.gallery[data-folder="${folder}"] .glightbox`);
