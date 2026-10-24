@@ -14,7 +14,7 @@ next_text: "M8 Mobile"
 
 {% include content/info.html
 title="Game Not Available"
-content="As of October 22nd 2026, this escape room has entirely disappeared, rendering M8 Mobile accessible without a password."
+content="As of October 22nd 2026, this escape game has entirely disappeared, rendering M8 Mobile accessible without a password."
 %}
 
 > You have entered a small room with three oddly unsettling 

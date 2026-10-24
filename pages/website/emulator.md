@@ -14,7 +14,7 @@ At first, the emulator only redirected to the website for the game [Scream Star]
 Thanks to a later update on the April 11th 2025, it is now possible to play it directly from the ARG website. 
 As of late 2025, Scream Star is entirely inaccessible.
 
-On April 11th 2025, the [Escape Room](emulator-escape) appeared and was then solved on August 20th 2025 to reveal 
+On April 11th 2025, the [Escape Game](emulator-escape) appeared and was then solved on August 20th 2025 to reveal 
 the [M8 Mobile](emulator-m8mobile) game. As of October 22nd 2026, no password is needed to play M8 Mobile.
 
 On October 30th 2025, the [Worm](emulator-worm.md) game dropped. 

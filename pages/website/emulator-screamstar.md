@@ -21,7 +21,7 @@ album [POST HUMAN: NeX GEn](../music/ph-nex-gen). The game could also connect to
 
 While it didn't seem to expand on the lore, it had a few fun assets and was also playable through the 
 emulator on the ARG website from April 11th 2025 to its demise.
-(This update also introduced the first lore-related [Escape Room](emulator-escape.md) game, exclusive to the ARG, 
+(This update also introduced the first lore-related [Escape Game](emulator-escape.md), exclusive to the ARG, 
 to the [emulator](emulator) category.)
 
 The only character that was prominently featured in Scream Star was [Eve](../characters/eve).
