@@ -38,8 +38,9 @@ information as much as possible and indicate whenever something is not confirmed
 
 {% include content/info.html
 title="Latest updates"
-content="Last update on 23-10-2026. A huge update just landed! We've already updated some of the lore 
-pages for you to enjoy."
+content="Last update on 24-10-2026. We've been hard at work to bring you Unbeleevable 4, the new artifact 
+videos and the last two pages of Skys' diary. The website overhaul has also been documented. Please enjoy the new 
+update!"
 %}
 
 The wiki has grown to over 100+ pages, growing regularly with updates from [our small team](pages/about). 

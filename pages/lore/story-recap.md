@@ -8,6 +8,12 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/p
 
 # Story Recap
 
+{% include content/info.html
+title="Latest updates"
+content="This document was last updated in May of 2026. It is slightly outdated at the 
+time of writing, after [Unbeleevable 4](../for-sof/unbeleevable4) came out."
+%}
+
 The story of Post Human has gotten quite extensive, spanning many generations. Our wiki has also grown over these past two years 
 and people have been asking for a full recap of the story, so here it is! Since the story is quite long, this one has been turned 
 into a PDF so you can also read it on the go.
@@ -36,3 +42,8 @@ The most useful sources for a beginner are:
 - [Journal](../website/journal)
 - [Lore booklet](../lore/booklet)
 - [ARG website page](../website/website)
+
+Missing from recap:
+
+- [Unbeleevable 4](../for-sof/unbeleevable4)
+- [Skys' scrapbook page 7 & 8](../website/skys-diary)
