@@ -12,7 +12,7 @@ next_text: "Escape Game/Paintings"
 
 {% include content/info.html
 title="Game Not Available"
-content="As of late 2025, Scream Star is not available and its website re-directs to the official BMTH on. 
+content="As of late 2025, Scream Star is not available and its website re-directs to the official BMTH one. 
 It is unknown if or when the game will return."
 %}
 
