@@ -11,11 +11,10 @@ previous_text: "M8 Mobile"
 
 # Worm
 
-Worm is one of the games in the emulator on the [website](website). It does not require a password. 
+Worm is a game that dropped on October 30th 2025 on the [website](website). It does not require a password. 
 
 Worm is a snake-like game, where you move around using WASD or your arrow keys. The goal is to collect as many 
-[Nex Gen](../lore/nex-gen-corporation) logos as possible, while avoiding collision with other worms, your own tail 
-or the wall.
+[Nex Gen](../lore/nex-gen-corporation) logos as possible, while avoiding collision with other worms, your own tail, or the wall.
 
 ***
 
@@ -27,17 +26,13 @@ or the wall.
 
 ## Read More
 
+Emulator and other games:
+
+- [Emulator](emulator.md)
+- [Scream Star](emulator-screamstar)
+- [Escape Game](emulator-escape.md)
+- [M8 Mobile](emulator-m8mobile)
+
 Related characters:
 
-- [M8](../m8) (M8 systems logo in the application)
-
-Related website pages:
-
-- [M8 Mobile](emulator-m8mobile)
-- [Scream Star](emulator-screamstar)
-- [Idle Game](idle)
-- There is an M8 dress up game when you click the sticky note
-
-Related lore:
-
-- [Nex Gen Corporation](../lore/nex-gen-corporation)
+- [M8](../m8) (M8 systems logo shows up in the application)
