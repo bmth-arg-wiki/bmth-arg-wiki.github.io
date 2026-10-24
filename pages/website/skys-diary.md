@@ -24,7 +24,7 @@ Skys' scrapbook is an app on the website that contains diary entries from a youn
 start around the time Skys is kicked out by his parents at the age of 8 and flees to Ingleterra from his home country of 
 [Novosovia](../lore/novosovia).
 
-There are currently 6 released entries, with 2 entries inaccessible.
+All entries to Skys scrapbook are unlocked and available as of the 22th of October 2026.
 
 ***
 
@@ -304,6 +304,96 @@ unlock both pages.
 > who i was before i did this.
 >
 > Open the veil
+
+" | markdownify }}
+</details>
+
+### Entry 7
+
+![Skys' seventh diary entry](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/skys-scrapbook/01-skysdiary7.png)
+
+
+<details class="transcript">
+<summary>Transcription Entry 7</summary>
+
+{{ "
+
+> [Left page:]
+>
+> inside first
+>
+> Been running now... two months? maybe more. Lost count of everything but hunger, barely a bite in thriteen days. 
+> town didn't want me no more by the end.
+>
+> first was “tickled jipi” dancing in the square, twistin flames and floating bottle caps for bread crust
+>
+> But then there was this Jesta, he did sleight, coins and cards and bullshit. real Jealous type. watched me close 
+> one night. said my hands didn't move right and he scared 'em. Folks stopped Laughin. Started whisperin. said i was 
+> cursed. said i made a baby be born wrong
+>
+> a cow too, bloated and blue. really i was only ever tricking myself to think i found something.
+>
+> Not love, Not family, not even a friend, but maybe even peace? can't I at least suffer in peace?
+>
+> [Right page:]
+>
+> Then the riders came. Alby's men. I saw em from the woods, not his face but his scent. they didn't ask too many 
+> question but they howled my name and tore through that town.
+>
+> like wolves in a nursey I didn't look back just ran, But still heard it the scream of the fire when it finds flesh 
+> the magik he taught me. it's a cancer hollow as the look in their eyes before they died
+>
+> Just for being unlucky enough to know me where do i go now? the only map i have is made of scars maybe this is the 
+> end the dirt i lay on feels hungry should i feed it?
+>
+> “but somethin in me still itching i'll get up once more. Just one. and if i fall again let the earth finish the job.”
+
+*Made by Alec*
+
+" | markdownify }}
+</details>
+
+### Entry 8
+
+![Skys' eighth diary entry](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/skys-scrapbook/01-skysdiary8.png)
+
+
+<details class="transcript">
+<summary>Transcription Entry 8</summary>
+
+{{ "
+
+> [Left page:]
+>
+> Been walking for days. Belly empty, brain burning then i found a little leech pit out past the dead fields
+>
+> Big fat bastards.
+>
+> i ate 'em raw, didn't think. didn't care they wriggled in my throat like they was trying to get back out. 
+> blood bitter as bile. set me ablaze frome the inside
+>
+> i smeared it through my hair after. stained it black cant see pink no more. can't see me then i saw these angels. 
+> faces grey and battered past them, a gate open like a mouth and behind it: an asylum i went in. Had nowhere else.
+>
+> [Red ink drawing with “Running out of teardrops” written next to it.]
+>
+> [Right page:]
+>
+> Found a metal box in the wall. a sweets shop for psychopaths. bottles half-full. labels like scabs. started taking 
+> handfuls. like maybe one would kill me and the rest was just for company. now every night i sleep wrong.
+>
+> body won't move. can't scream. can't blink and then they come. The Mares.
+>
+> big black things with long arms and ribs like cages. they sit on my chest. climb in my ears. say things in tongues. 
+> i can't understand the words but they scrape me open from the inside. feels like my bones are trying to force 
+> their way outside my skin.
+>
+> i started cuttin. little scratches at first. then deeper. it centres me. like a map. i bleed i count. i wait 
+> for morning.
+>
+> i'm still here but don't know why
+
+*Made by Alec*
 
 " | markdownify }}
 </details>
