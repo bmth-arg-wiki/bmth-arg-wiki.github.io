@@ -2,6 +2,7 @@
 title: "06. DArkSide"
 categories: ["music"]
 description: "The song DArkSide from the album POST HUMAN: NEx Gen."
+tags: ["darkside", "bmth", "post human", "nex gen"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover_300.png"
 previous: "music/song-limousine"
 previous_text: "05. liMOusIne"
@@ -85,11 +86,10 @@ next_text: "07. a bulleT w/my namE On"
 
 ## Read More
 
+Related music:
+
 - [POST HUMAN: NeX GEn](ph-nex-gen)
 - [Lofiles](lofiles)
-
-Other singles:
-
 - [AmEN!](song-amen)
 - [DiE4u](song-die4u)
 - [Kool-Aid](song-koolaid)

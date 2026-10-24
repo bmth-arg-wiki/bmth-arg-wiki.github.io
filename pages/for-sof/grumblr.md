@@ -36,7 +36,7 @@ one and the file now showed us [Rebecca](../characters/rebecca)'s Grumblr page.
 
 ### Gallery
 
-{% include gallery.html folder="files/grumblr/gallery" %}
+{% include gallery-nav.html folder="files/grumblr/gallery" %}
 
 ***
 
@@ -151,8 +151,6 @@ This password seems to be a rearranged date in the filename itself, `GRUMBLR.Reb
 ***
 
 ## Read More
-
-More from [📁 FOR SOF](../for-sof)
 
 Related files:
 

@@ -106,15 +106,9 @@ clive
 The password refers to [M8](../m8)'s middle name, which is referenced in some lines she says
 in the sticky notes. Since the December 2024 update, the password is no longer needed to open the file.
 
+***
+
 ## Read More
-
-Related characters:
-
-- [Selene](../characters/selene)
-- [Sof](../characters/sof)
-- [Pan](../characters/pan)
-- [Miseria](../characters/miseria)
-- [Vanth](../characters/vanth)
 
 Related files:
 
@@ -124,6 +118,14 @@ Related files:
 - [Selene's Diary](selene_personal_journal)
 - [Scott's Diary](scott_personal_journal)
 - [LBR Sites](lbr_sites) (through password)
+
+Related characters:
+
+- [Selene](../characters/selene)
+- [Sof](../characters/sof)
+- [Pan](../characters/pan)
+- [Miseria](../characters/miseria)
+- [Vanth](../characters/vanth)
 
 Related articles:
 

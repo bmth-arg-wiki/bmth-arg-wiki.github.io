@@ -39,6 +39,11 @@ Uriel used to be user 0002 in the Multidimensional Navigator 8.
 
 ## Read More
 
+Related files:
+
+- [Selene's map](../for-sof/selenes_map)
+- [Youtopia Research](../for-sof/selene_youtopia_doc)
+
 Related characters:
 
 - [The Babylon](babylon)
@@ -51,11 +56,6 @@ Other [Archangels](characters#The-Archangels):
 - [Gabriel](gabriel)
 - [Michael](michael)
 
-Related files:
-
-- [Selene's map](../for-sof/selenes_map)
-- [Youtopia Research](../for-sof/selene_youtopia_doc)
-
 Related lore:
 
 - [Lore booklet](../lore/booklet)
@@ -67,3 +67,4 @@ Related music:
 
 - [[ost] (spi)ritual](../music/song-spiritual)
 - [Spectrograms](../music/spectrograms)
+

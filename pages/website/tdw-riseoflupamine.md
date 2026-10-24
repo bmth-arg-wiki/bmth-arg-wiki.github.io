@@ -139,7 +139,11 @@ Transcription by Alec
 
 ## Read More
 
-About the ARG website:
+Related characters:
+
+- [Rebecca Sinclair](../characters/rebecca)
+
+Related website pages:
 
 - [Website](website)
 - [Old website](website-v1)
@@ -165,4 +169,6 @@ Other Daily Whisper articles:
 
 Related lore:
 
+- [Nex Gen Corporation](../lore/nex-gen-corporation)
 - [Lupamine](../lore/lupamine)
+- [Synths](../lore/synths)

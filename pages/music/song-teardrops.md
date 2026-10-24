@@ -67,7 +67,7 @@ lost my halo, now i’m my own anti-christ.
 
 ## Music Video Gallery
 
-{% include gallery.html folder="music/ph1/teardrops/gallery" %}
+{% include gallery-nav.html folder="music/ph1/teardrops/gallery" %}
 
 ***
 
@@ -90,8 +90,9 @@ Related characters:
 
 - [Skys](../characters/skys)
 
-[POST HUMAN: SURVIVAL HORROR](ph-survival-horror):
+Related music:
 
+- [POST HUMAN: SURVIVAL HORROR](ph-survival-horror):
 - [Dear Diary,](song-dear-diary)
 - [Parasite Eve](song-parasite-eve)
 - [Obey](song-obey)

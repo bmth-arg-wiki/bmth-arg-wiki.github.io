@@ -21,22 +21,22 @@ or the wall.
 
 ## Gallery
 
-{% include gallery.html folder="webpage/emulator/worm/gallery" %}
+{% include gallery-nav.html folder="webpage/emulator/worm/gallery" %}
 
 ***
 
 ## Read More
 
-Other games:
+Related characters:
+
+- [M8](../m8) (M8 systems logo in the application)
+
+Related website pages:
 
 - [M8 Mobile](emulator-m8mobile)
 - [Scream Star](emulator-screamstar)
 - [Idle Game](idle)
 - There is an M8 dress up game when you click the sticky note
-
-Related characters:
-
-- [M8](../m8) (M8 systems logo in the application)
 
 Related lore:
 

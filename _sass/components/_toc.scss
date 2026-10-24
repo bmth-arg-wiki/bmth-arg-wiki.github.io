@@ -1,5 +1,9 @@
 @use "../variables" as *;
 
+/*
+ * Table of Contents
+ */
+
 @media screen and (min-width: $mobile-width) {
   // TOC is sticky on wider devices
   #toc-aside {
@@ -8,12 +12,8 @@
   }
 }
 
-/**
- * Headers
- */
 .toc-level-2,
 .toc-level-3 {
-  // Sometimes we're just gonna need more space
   overflow-wrap: break-word;
 }
 

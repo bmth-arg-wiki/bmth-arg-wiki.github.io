@@ -1,6 +1,1 @@
-<a class="button is-success" href="{{ include.link }}" target="_blank">
-    <span class="icon has-text-white">
-      <i class="{{ include.icon }}"></i>
-    </span>
-  <span class="has-text-white">{{ include.text }}</span>
-</a>
+{%- include content/buttons/button.html variant="success" default_icon="fa-solid fa-circle-check" link=include.link text=include.text icon=include.icon -%}

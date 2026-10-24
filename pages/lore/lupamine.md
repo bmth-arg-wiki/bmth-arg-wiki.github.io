@@ -79,17 +79,17 @@ drug a try himself. We do not learn how this ends.
 
 ## Read More
 
-Related characters:
-
-- [Rebecca Sinclair](../characters/rebecca) 
-- [Dr. Lee MD](../characters/lee-md)
-- [Victor Carmine](../characters/victor-carmine)
-
 Related files:
 
 - [Grumblr Post January 2027](../for-sof/grumblr)
 - [Grumblr Post November 2027](../for-sof/grumblr2)
 - [Tekka Interview](../for-sof/tekka_interview)
+
+Related characters:
+
+- [Rebecca Sinclair](../characters/rebecca) 
+- [Dr. Lee MD](../characters/lee-md)
+- [Victor Carmine](../characters/victor-carmine)
 
 Related lore:
 

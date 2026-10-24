@@ -28,7 +28,7 @@ In Project D.U.S.T. we learn that their child Lyra, despite being born outside o
 
 The picture Rebecca paints for the Laurens in [her November 2027 Grumblr post](../for-sof/grumblr2) is bleak. We learn that 
 Lyra has passed away in a car crash and that Dallus is not in a good mental state. We sadly do not know what happened to Elena, 
-with [Sof](sof) even stating in her [journal](../website/journal.md) that Elena seems to fade from records after the escape.
+with [Sof](sof) even stating in her [journal](../website/journal) that Elena seems to fade from records after the escape.
 
 In the [Gat3keeper article](../website/tdw-gatekeeper), we learn that Dallus was alone with the children on the day of the car crash 
 in 2024, with no mention of Elena.
@@ -36,14 +36,6 @@ in 2024, with no mention of Elena.
 ***
 
 ## Read More
-
-Related characters:
-
-- [Lyra Lauren](lyra-lauren)
-- [Ren Lauren](ren)
-- [Dallus Lauren](dallus-lauren)
-- [Strassman](strassman)
-- [Skys](skys)
 
 Related files:
 
@@ -55,9 +47,17 @@ Related files:
 - [Unbeleevable Episode 2](../for-sof/unbeleevable2)
 - [Unbeleevable Episode 3](../for-sof/unbeleevable3)
 
-Related TDW articles:
+Related characters:
 
-- [Gatekeeper](../website/tdw-gatekeeper)
+- [Lyra Lauren](lyra-lauren)
+- [Ren Lauren](ren)
+- [Dallus Lauren](dallus-lauren)
+- [Strassman](strassman)
+- [Skys](skys)
+
+Related Daily Whisper (news) articles:
+
+- [Gatekeeper Themepark](../website/tdw-gatekeeper)
 
 Related lore:
 

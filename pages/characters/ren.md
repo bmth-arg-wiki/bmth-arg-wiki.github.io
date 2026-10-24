@@ -3,6 +3,7 @@ title: "Ren/Ikaro"
 description: "Ikaro Lauren, or Ren, is Dallas Lauren's son and an employee at Nex Gen. Ren is a trans man and is 
  therefore sometimes referred to as Dallas' daughter."
 categories: ["characters"]
+tags: ["ren", "ikaro", "lauren", "nex gen", "8-line", "m8"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/ren/ren-300x300.png"
 ---
 # Ren
@@ -90,6 +91,11 @@ skin colour changing to a pinkish hue.
 
 ## Read More
 
+Related files:
+
+- [Ren's D8 log](../for-sof/lauren_d8_log)
+- [R8 specifications](../for-sof/r8)
+
 Related characters:
 
 - [Dr. Dallus Lauren](dallus-lauren)
@@ -103,15 +109,6 @@ Related characters:
 - [Selene](selene)
 - [Sof](sof)
 - [M8](../m8)
-
-Related files:
-
-- [Ren's D8 log](../for-sof/lauren_d8_log)
-- [R8 specifications](../for-sof/r8)
-
-Related articles:
-
-- [Gat3keeper Themepark Accidents](../website/tdw-gatekeeper)
 
 Related lore:
 
@@ -129,3 +126,7 @@ Related lore:
 - [Novosovia](../lore/novosovia)
 - [DTC](../lore/dtc)
 - [New Elysium](../lore/new-elysium)
+
+Related Daily Whisper (news) articles:
+
+- [Gat3keeper Themepark Accidents](../website/tdw-gatekeeper)

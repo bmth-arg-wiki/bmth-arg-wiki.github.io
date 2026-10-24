@@ -24,7 +24,7 @@ released 5 years ago.
 
 To open the tribute, you need to solve a slider puzzle. 
 
-![Post Human: Survival Horror 3D Tribute](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/709571bc68df707368a9fc86e2f72ec1f5366ac9/files/ph-sh-anniversary/slider-puzzle.png)
+![Post Human: Survival Horror 3D Tribute](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/ph-sh-anniversary/slider-puzzle.png)
 
 The solution to the slider puzzle above is nearly complete; once you move the bottom right piece up the 
 puzzle will unlock. The puzzle is easiest when you start from the top and follows the same rules as other 
@@ -34,13 +34,6 @@ slider puzzles.
 
 ## Read More
 
-Related characters:
-
-- [Skys](../characters/skys)
-- [Selene](../characters/selene)
-- [Sof](../characters/sof)
-- [Victor Carmine](../characters/victor-carmine)
-
 Related files:
 
 - [Scott's Diary](scott_personal_journal)
@@ -48,6 +41,13 @@ Related files:
 - [Kingslayer Codec](kingslayercodec)
 - [Unbeleevable Episode 2](unbeleevable2)
 - [Carmine's Interview](carmine_interview)
+
+Related characters:
+
+- [Skys](../characters/skys)
+- [Selene](../characters/selene)
+- [Sof](../characters/sof)
+- [Victor Carmine](../characters/victor-carmine)
 
 Related lore:
 

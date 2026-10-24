@@ -49,7 +49,7 @@ The error code seemed to be related to [Top 10 statues that cried blood](../musi
 
 ## Version 2
 
-{% include info.html 
+{% include content/info.html 
 title="Spoiler Warning!" 
 icon="fa-solid fa-triangle-exclamation"
 content="Version 2 contains slight spoilers for the Dreaddit file. If you want to avoid them, we suggest jumping directly to [Version 3](#Version-31)." 
@@ -150,7 +150,7 @@ Anyhoo! If you can get your hands on a PISS, we should be able to bypass this no
 On December 15th 2024, thanks to the [Coordinates file](../for-sof/cities-coordinates) from the [Inventory](../for-sof/for-sof),
 the Spyder access codes were found on cards across three cities: Berlin, Sheffield, and Mexico City.
 
-{% include gallery.html folder="lore/webbrowser/accesscodes" %}
+{% include gallery-nav.html folder="lore/webbrowser/accesscodes" %}
 
 ![clear access codes](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/webbrowser/login.png)
 
@@ -211,17 +211,21 @@ we are lead to a table of content for all the articles on this website.
 
 ## Read More
 
-About the ARG website:
+Related files:
+
+- [Dreaddit](../for-sof/dreadit)
+
+Related characters:
+
+- [M8](../m8)
+
+Related website pages:
 
 - [Website](website)
 - [Old website](website-v1)
 - [Noctune Music Player](website-songs)
 - [Wi-Fi](wifi)
 - [Journal](journal)
-
-Related files:
-
-- [Dreaddit](../for-sof/dreadit)
 
 Related lore:
 
@@ -242,10 +246,6 @@ Related lore:
 - [Inside the Blood-Red Spectacles](tdw-bloodredspectacles)
 - [NEX GEN's Rogue Sentinels](tdw-roguesentinels)
 
-Related character:
-
-- [M8](../m8)
-
-Related song:
+Related music:
 
 - [Top 10 statues that cried blood](../music/song-top10)

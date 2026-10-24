@@ -25,7 +25,7 @@ It belongs to [Sof](../characters/sof), who tries their best to chronicle what t
 
 ## Gallery
 
-Coming soon!
+{% include gallery-nav.html folder="webpage/journal/gallery" %}
 
 ***
 
@@ -511,6 +511,8 @@ The following pages, 11-40 detail the key players in the story, as understood by
 "| markdownify }}
 </details>
 
+***
+
 ## Locations
 
 Pages 40-50 discuss several locations in the fictional universe.
@@ -611,6 +613,8 @@ Pages 40-50 discuss several locations in the fictional universe.
 "| markdownify }}
 </details>
 
+***
+
 ## Groups
 
 Pages 51-56 discuss several groups: [the Cult of Mantra](../lore/mantra), [ARC/HIVE](../lore/archive), 
@@ -675,6 +679,8 @@ Pages 51-56 discuss several groups: [the Cult of Mantra](../lore/mantra), [ARC/H
 "| markdownify }}
 </details>
 
+***
+
 ## Incidents
 
 Pages 57-62 detail important incidents surrounding the experiments in the cult of Mantra and 
@@ -735,6 +741,8 @@ the research of ARC/HIVE (later known as NEX GEN).
 
 "| markdownify }}
 </details>
+
+***
 
 ## Files
 
@@ -1203,6 +1211,8 @@ the research of ARC/HIVE (later known as NEX GEN).
 
 "| markdownify }}
 </details>
+
+***
 
 ## Epilogue
 

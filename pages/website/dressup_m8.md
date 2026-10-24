@@ -24,13 +24,13 @@ back to the last cipher for the [Carmine Interview](../for-sof/carmine_interview
 
 ## Gallery
 
-{% include gallery.html folder="webpage/dressup/gallery" %}
+{% include gallery-nav.html folder="webpage/dressup/gallery" %}
 
 ***
 
 ## Read More
 
-Other games:
+Related files:
 
 - [Emulator](emulator)
 - [Scream Star](emulator-screamstar)

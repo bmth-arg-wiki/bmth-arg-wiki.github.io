@@ -2,6 +2,7 @@
 title: "14. [ost] p.u.s.s-e"
 categories: ["music"]
 description: "The song [ost] p.u.s.s-e from the album POST HUMAN: NEx Gen."
+tags: ["pusse", "p.u.s.s-e", "bmth", "post human", "nex gen", "spectrogram"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover_300.png"
 previous: "music/song-amen"
 previous_text: "13. AmEN!"
@@ -84,7 +85,25 @@ file and a pill bottle.
 
 ## Read More
 
-- [POST HUMAN: NeX GEn](ph-nex-gen)
-- [P.U.S.S-E (concept)](../lore/pusse)
-- [Spectrograms](spectrograms)
+Related files:
+
+- [Strassman Codec](../for-sof/strassmancodec)
+- [Dreadit post](../for-sof/dreadit)
+
+Related characters:
+
+- [Selene](../characters/selene)
+- [Strassman](../characters/strassman)
+- [E.V.E.](../characters/eve)
+
+Related lore:
+
 - [Insight 4: Purpose](../lore/insight4-vision)
+- [P.U.S.S-E (drug)](../lore/pusse)
+- [Nex Gen Corporation](../lore/nex-gen-corporation)
+- [Youtopia](../lore/youtopia)
+
+Related music:
+
+- [POST HUMAN: NeX GEn](ph-nex-gen)
+- [Spectrograms](spectrograms)

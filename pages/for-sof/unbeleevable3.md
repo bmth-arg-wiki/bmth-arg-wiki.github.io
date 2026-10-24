@@ -6,8 +6,8 @@ tags: ["unbeleevable", "lee", "nex gen"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/unbeleevable3/unbeleevable3-300x300.png"
 previous: "for-sof/artifacts"
 previous_text: "Artifacts (Module Puzzles)"
-next: "for-sof/victor_interview"
-next_text: "Victor's Interview"
+next: "for-sof/unbeleevable4"
+next_text: "Unbeleevable Ep.4"
 ---
 
 # Unbeleevable Episode 3
@@ -192,14 +192,15 @@ Related characters:
 - [Victor Carmine](../characters/victor-carmine)
 - [Medea](../characters/medea)
 - [Ava](../characters/ava)
+- [Feya](../characters/feya)
 
-Unbeleevable:
 
-- [Unbeleevable Episode 1](unbeleevable)
-- [Unbeleevable Episode 2](unbeleevable2)
 
 Related files:
 
+- [Unbeleevable Episode 1](unbeleevable)
+- [Unbeleevable Episode 2](unbeleevable2)
+- [Unbeleevable Episode 4](unbeleevable4)
 - [Operation Trinity](trinity_document)
 - [Book of Eclipse](book-of-eclipse)
 - [Skys' Diary](skys-diary)
@@ -210,6 +211,7 @@ Related lore:
 - [Church of GENXSIS](../lore/church)
 - [ARC/HIVE Corp.](../lore/archive)
 - [NEX GEN Corp.](../lore/nex-gen-corporation)
+- [Unbeleevable series](../lore/unbeleevable)
 
 Related music:
 

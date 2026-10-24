@@ -1,7 +1,6 @@
 ---
 title: "Genesis Storyline"
-description: "The genesis storyline refers to a post surrounding the narrative 
-development of the Church of Genxsis, used in the shows for Downloadfest."
+description: "The genesis storyline refers to an old post surrounding a past version of the cult of Genxsis' origins."
 categories: ["lore"]
 tags: ["genesis", "genxsis", "cult", "oliver sykes", "oli sykes", 
        "bring me the horizon", "bmth", "downloadfest", "nex gen", "experiments", 
@@ -11,19 +10,19 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials
 
 # Genesis Storyline — Narrative Development
 
-{% include info.html
+{% include content/info.html
 title="This info might not be canon"
 icon="fa-solid fa-warning"
-content="This article contains info from an old Instagram post from Oli. It has not been confirmed canon."
+content="This article contains info that directly contradicts Sof's journal in the ARG. 
+It appears in an old Instagram post from Oli and remains here for archival purposes. We do not consider it canon."
 %}
 
 ![Genesis Storyline Image.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/genesis-storyline.png)
 
 Source: [Oli's instagram](https://www.instagram.com/p/CtUpM05MsXl/?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D&img_index=7)
 
-The information presented in this story does conflict with what [Sof](../characters/sof) writes in her [journal](../website/journal.md), 
-since she states that Genxsis started as an offshoot from the [Mantra cult](mantra), something [Dr. Lee MD](../characters/lee-md) 
-also claims in his [Unbeleevable](../for-sof/unbeleevable) series.
+The information presented in this story does conflict with what [Sof](../characters/sof) writes in their [journal](../website/journal), 
+as they state that the cult likely started around the fall of the [Mantra cult](mantra) at [Arc/Hive](archive).
 
 ***
 
@@ -64,11 +63,11 @@ also claims in his [Unbeleevable](../for-sof/unbeleevable) series.
 
 ## Read More
 
-Related lore: 
-
-- [Church of Genxsis](church)
-- [Nex Gen Corporation](nex-gen-corporation)
-
 Related characters:
 
 - [E.V.E.](../characters/eve)
+
+Related lore:
+
+- [Church of Genxsis](church)
+- [Nex Gen Corporation](nex-gen-corporation)

@@ -56,13 +56,6 @@ Much of the website messages refer to some kind of corruption of Youtopia, altho
 
 ## Read More
 
-Related characters:
-
-- [Selene](../characters/selene)
-- [E.V.E.](../characters/eve)
-- [Strassman](../characters/strassman)
-- [Scott](../characters/scott)
-
 Related files:
 
 - [Strassman codec](../for-sof/strassmancodec)
@@ -71,6 +64,13 @@ Related files:
 - [Selene visits Youtopia](../for-sof/selene_youtopia_doc)
 - [LBR Sites confidential letter](../for-sof/lbr_sites)
 - [Dreadit post](../for-sof/dreadit)
+
+Related characters:
+
+- [Selene](../characters/selene)
+- [E.V.E.](../characters/eve)
+- [Strassman](../characters/strassman)
+- [Scott](../characters/scott)
 
 Related lore:
 

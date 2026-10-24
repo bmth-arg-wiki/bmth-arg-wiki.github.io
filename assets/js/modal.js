@@ -1,34 +1,26 @@
-const modal = document.querySelector('#image-modal');
+import GLightbox from 'glightbox';
 
-// Image elements
-let modalImage = document.getElementById('modal-image')
-let modalCaption = document.getElementById("modal-caption");
+document.addEventListener('DOMContentLoaded', () => {
+    const contentImages = document.querySelectorAll('.content img');
 
-// Buttons/interactable background
-const modalClose = document.querySelector('.modal-close');
-const modalBackground = document.querySelector('.modal-background');
+    contentImages.forEach(img => {
+        if (img.closest('a') || img.closest('.image-gallery-nav') || img.closest('.gallery-art-cards')) return;
 
-function closeModal() {
-    modal.classList.remove('is-active');
-}
+        const link = document.createElement('a');
+        link.classList.add('glightbox');
+        link.href = img.src;
+        link.dataset.gallery = 'content';
+        link.dataset.title = img.alt || '';
 
-if (modal) {
-    document.querySelectorAll('img').forEach(img => {
-        img.addEventListener('click', (e) => {
-            modalImage.src = e.target.src;
-
-            // Use a fallback for images without alt text
-            modalImage.alt = e.target.alt || '';
-            modalCaption.textContent = e.target.alt || '';
-
-            // Activate the modal
-            modal.classList.add('is-active');
-        });
+        img.parentNode.insertBefore(link, img);
+        link.appendChild(img);
     });
 
-    // Add event listeners
-    modalBackground.addEventListener('click', closeModal);
-    modalClose.addEventListener('click', closeModal);
-}
-
-
+    GLightbox({
+        selector: '.content .glightbox',
+        touchNavigation: true,
+        loop: false,
+        zoomable: true,
+        draggable: true,
+    });
+});

@@ -2,6 +2,7 @@
 title: "POST HUMAN: NeX GEn"
 categories: ["music"]
 description: "The album POST HUMAN: NeX GEn."
+tags: ["nex gen", "bmth", "post human", "arg", "sof", "selene", "m8"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover_300.png"
 previous: "music/ph-survival-horror"
 previous_text: "POST HUMAN: SURVIVAL HORROR"

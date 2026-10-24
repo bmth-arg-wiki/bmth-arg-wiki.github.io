@@ -1,3 +1,6 @@
+# Exclude agent files
+.agents
+
 # Exclude locally hosted for-sof
 _site/*
 

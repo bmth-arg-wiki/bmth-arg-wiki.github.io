@@ -90,7 +90,11 @@ Transcription by Alec
 
 ## Read More
 
-About the ARG website:
+Related characters:
+
+- [Elias Mortem](../characters/elias-mortem)
+
+Related website pages:
 
 - [Website](website)
 - [Old website](website-v1)
@@ -98,6 +102,10 @@ About the ARG website:
 - [Noctune Music Player](website-songs)
 - [Wi-Fi](wifi)
 - [Journal](journal)
+
+Related lore:
+
+- [NEX GEN Corporation](../lore/nex-gen-corporation)
 
 Other Daily Whisper articles:
 
@@ -113,11 +121,3 @@ Other Daily Whisper articles:
 - ["Red, White, and Blood"](tdw-redwhiteblood)
 - [The Future of Entertainment](tdw-futureentertainment)
 - [Inside the Blood-Red Spectacles](tdw-bloodredspectacles)
-
-Related Character:
-
-- [Elias Mortem](../characters/elias-mortem)
-
-Related Lore:
-
-- [NEX GEN Corporation](../lore/nex-gen-corporation)

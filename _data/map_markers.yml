@@ -8,7 +8,7 @@ markers:
   - id: "marker-walkthrough"
     lat: 224.5
     lng: 512.5
-    url: "/pages/walkthrough/walkthrough"
+    url: "/pages/website/walkthrough/walkthrough"
 
   - id: "marker-insights"
     lat: 70.5

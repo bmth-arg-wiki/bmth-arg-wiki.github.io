@@ -82,7 +82,7 @@ this is a war.
 
 ## Music Video Gallery
 
-{% include gallery.html folder="music/ph1/parasite-eve/gallery" %}
+{% include gallery-nav.html folder="music/ph1/parasite-eve/gallery" %}
 
 ***
 

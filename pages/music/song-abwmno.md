@@ -2,6 +2,7 @@
 title: "07. a bulleT w/my namE On"
 categories: ["music"]
 description: "The song a bulleT w/my namE On ft. Underoath from the album POST HUMAN: NEx Gen."
+tags: ["a bullet w my name on", "bmth", "post human", "nex gen", "abwmno", "bring me the horizon"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover_300.png"
 previous: "music/song-darkside"
 previous_text: "06. DArkSide"
@@ -118,6 +119,11 @@ reversed audio.
 
 ## Read More
 
-- [POST HUMAN: NeX GEn](ph-nex-gen)
+Related characters:
+
 - [Karl Strassman](../characters/strassman)
+
+Related music:
+
+- [POST HUMAN: NeX GEn](ph-nex-gen)
 - [Spectrograms](spectrograms)

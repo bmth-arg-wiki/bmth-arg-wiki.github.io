@@ -128,7 +128,11 @@ Transcription by Alec
 
 ## Read More
 
-About the ARG website:
+Related characters:
+
+- [Victor Carmine](../characters/victor-carmine)
+
+Related website pages:
 
 - [Website](website)
 - [Old website](website-v1)
@@ -152,11 +156,7 @@ Other Daily Whisper articles:
 - [Inside the Blood-Red Spectacles](tdw-bloodredspectacles)
 - [NEX GEN's Rogue Sentinels](tdw-roguesentinels)
 
-Related Characters:
+Related lore:
 
-- [Victor Carmine](../characters/victor-carmine)
+- [Nex Gen Corporation](../lore/nex-gen-corporation)
 
-Related Lore:
-
-- [NEX GEN Corp.](../lore/nex-gen-corporation)
-- [Spyder Web Browser](webbrowser)

@@ -109,7 +109,11 @@ Transcription by Alec
 
 ## Read More
 
-About the ARG website:
+Related characters:
+
+- [Lee M.D.](../characters/lee-md)
+
+Related website pages:
 
 - [Website](website)
 - [Old website](website-v1)
@@ -121,7 +125,7 @@ About the ARG website:
 Other Daily Whisper articles:
 
 - [What is a Loop-Hole?](tdw-loophole)
-- [GAT3KEEPER](tdw-gatekeeper)
+- [Gat3keeper Themepark](tdw-gatekeeper)
 - [Vanished Beyond the Veil](tdw-vanished)
 - [The Rise of Synthetic Humans](tdw-riseofsynth)
 - [Star Jayven Valex's Last Words](tdw-valexlastwords)
@@ -133,10 +137,6 @@ Other Daily Whisper articles:
 - [Inside the Blood-Red Spectacles](tdw-bloodredspectacles)
 - [NEX GEN's Rogue Sentinels](tdw-roguesentinels)
 
-Related Character:
-
-- [Lee M.D.](../characters/lee-md)
-
-Related Lore:
+Related lore:
 
 - [Synths](../lore/synths)

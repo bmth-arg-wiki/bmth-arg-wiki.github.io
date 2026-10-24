@@ -46,6 +46,8 @@ at the time of writing. The timeline goes from most to least recent.
 ![Syko Poster](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/gdansk_syko.jpg)
 ![Pickles Poster](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/gdansk_pickles.jpg)
 
+***
+
 ## June 8th 2024
 
 ![Selene Poster](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/socials/selene_poster.png)

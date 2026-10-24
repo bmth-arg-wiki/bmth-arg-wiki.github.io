@@ -37,7 +37,10 @@ booklet as a reminder that one shouldn't take themselves too seriously. It symbo
 
 ## Read More
 
-Also check out our [interactive map of Youtopia](../map)
+Related files:
+
+- [Selene's Map](../for-sof/selenes_map)
+- [Youtopia Research](../for-sof/selene_youtopia_doc)
 
 Related characters:
 
@@ -47,11 +50,6 @@ Related characters:
 - [Pan](pan)
 - [Miseria](miseria)
 - [Vanth](vanth)
-
-Related files:
-
-- [Selene's Map](../for-sof/selenes_map)
-- [Youtopia Research](../for-sof/selene_youtopia_doc)
 
 Related lore:
 

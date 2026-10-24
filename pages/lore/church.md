@@ -9,10 +9,9 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/ge
 ---
 # Church of Genxsis
 
-The Church of Genxsis is a religious organisation that likely has 
-involvement with [Nex Gen](nex-gen-corporation), formerly named [ARC/HIVE](archive). 
+The Church of Genxsis is a religious organisation that started with the [Cult of Mantra](mantra).
 It started with the birth of a pink-haired boy named [Skys](../characters/skys), who 
-ended up leading the cult of [Mantra](mantra).
+ended up leading a cult named after his drug mantra at October Palace.
 
 There have been at least two Church of Genxsis events hosted in real life:
 [Downloadfest](downloadfest) and Church of Genxsis Jakarta. There was also a
@@ -22,16 +21,24 @@ Church of Genxsis booth at NexFest Tokyo.
 
 ## Backstory
 
-![Website screenshot](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/church/church_sof_journal.png)
+![Website screenshot](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/church/church_sof_journal.png)
 
 According to [Sof](../characters/sof)'s [journal](../website/journal), Genxsis is a secretive, corporate-backed offshoot 
-from the Neosages, also known as the [Mantra cult](mantra). Most of what we learn about the cult comes from 
-[Unbeleevable episodes 1](../for-sof/unbeleevable) and [2](../for-sof/unbeleevable2).
+from the Neosages, also known as the [Mantra cult](mantra). Sof states that it is likely that the 
+cult started within the company that would later become [Nex Gen](nex-gen-corporation), [Arc/Hive](archive). 
 
-From flyers and posts we know that the Church focuses on unity and does not care much for 
-independent thought. They want to achieve a next step for humanity through mutation, aligning nicely with 
-Nex Gen's reputation of experimenting on people. From the documents left for Sof it becomes clear that the 
-history of these experiments goes a lot further back.
+The research [Skys](../characters/skys) carried out in [Novosovia](novosovia) was used for the cult, with 
+[Alfgram](../characters/alfgram) playing a major role in establishing their practices. 
+Alfgram himself would later leave the cult and become the founder of [ecliptism](ecliptism). 
+Both the practices of Mantra and ecliptism would later also surface in the [DTC](dtc).
+
+[Unbeleevable Episode 4](../for-sof/unbeleevable4) officially confirms the link between the two organisations: the 
+cult of Mantra became the Cult of Genxsis over time, evolving from Skys' underground movement into the 
+corporately-backed church that [Dr. Lee](../characters/lee-md) now investigates.
+
+From flyers and posts (from events) we know that the Church focuses on unity and does not care much for 
+independent thought. They want to achieve a next step for humanity through mutation, no matter the 
+cost.
 
 ***
 
@@ -76,12 +83,12 @@ There are four possible results from the personality test:
 
 > **Logic Dweller**
 > 
-> Logic is thine guiding light and it burns brightly within thine chest while the school of thought acts as thy beacon of judgement. Ye take precious time, to think and meditate in calm and focused serenity on the choices of lifeâ€™s pathways. Each option is weighed on the scales of truth and righteousness. Not without wrongs and mistakes as ye dwell on deep contemplation, however thy focus has never been of saint, but of the wise, humbled direction and focus.
+> Logic is thine guiding light and it burns brightly within thine chest while the school of thought acts as thy beacon of judgement. Ye take precious time, to think and meditate in calm and focused serenity on the choices of life's pathways. Each option is weighed on the scales of truth and righteousness. Not without wrongs and mistakes as ye dwell on deep contemplation, however thy focus has never been of saint, but of the wise, humbled direction and focus.
 
 ### Other website content
 
 The following two images also appear on the website, they are
-labeled as `key.png` and `pgminev1973.png` respectively.
+labelled as `key.png` and `pgminev1973.png` respectively.
 
 ![key.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/genxsis.faith/key.png)
 ![pmginev1973.png](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/genxsis.faith/pmginev1973.png)
@@ -126,34 +133,56 @@ from the Church of Genxsis to the announcement channel:
 
 > Transcendence or damnation, thy wish is thy wish #BRITsVoteBMTH
 
+Alfred Ingram Winter also appears on genxsis.faith, although he is never explicitly mentioned in the ARG and 
+it is unconfirmed whether he is canon.
+
 ***
 
 ## Live shows
 
-During [Kool-Aid](../music/song-koolaid) live, we see [Angeldust](../characters/angeldust) breaking down the 
-church.
+During [Kool-Aid](../music/song-koolaid) live, we see [Angeldust](../characters/angeldust) breaking down a 
+church that reappears often, likely being an important location to the Genxsis cult.
 
 ***
 
 ## Read More
+
+Related files:
+
+- [Unbeleevable Episode 1](../for-sof/unbeleevable)
+- [Unbeleevable Episode 2](../for-sof/unbeleevable2)
+- [Unbeleevable Episode 3](../for-sof/unbeleevable3)
+- [Unbeleevable Episode 4](../for-sof/unbeleevable4)
 
 Related characters:
 
 - [E.V.E](../characters/eve)
 - [Skys](../characters/skys)
 - [Dallus Lauren](../characters/dallus-lauren)
+- [Ikaro Lauren](../characters/ren)
 - [Karl Strassman](../characters/strassman)
+- [Ava](../characters/ava)
+- [Angel](../characters/angel)
 - [Dr. Lee MD](../characters/lee-md)
+- [Victor Carmine](../characters/victor-carmine)
+- [Medea](../characters/medea)
+- [Alfgram](../characters/alfgram)
+- [Feya](../characters/feya)
 
 Related lore:
 
+- [Mares](mares)
 - [Mantra Cult](mantra)
+- [Project Kingslayer](incident-kingslayer)
+- [Ecliptism](ecliptism)
 - [Arc/Hive](archive)
+- [Project D.U.S.T.](incident-dust)
 - [Nex Gen Corporation](nex-gen-corporation)
-- [Novosovia](novosovia)
+- [Chapel Incident](incident-chapel)
+- [New Elysium](new-elysium)
 - [DTC](dtc)
+- [Novosovia](novosovia)
 - [Downloadfest](downloadfest)
-- [Genesis Storyline](genesis-storyline) (canonicity unknown)
 
 Related music:
 

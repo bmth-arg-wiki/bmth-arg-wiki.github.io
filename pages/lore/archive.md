@@ -5,7 +5,7 @@ description: "ARC/HIVE is a company with ties to Nex Gen and the government. The
 project Trinity to retrieve Karl Strassman, Skys and Dallus Lauren."
 tags: ["arc/hive", "technology", "rebecca", "skys", "dallus", "lauren", "in the dark", "carmine", "victor", "aliens",
 "science", "company", "project dust", "elias mortem", "dr. elias mortem", "syko", "nex gen", 
-"altilium chordata", "operation", "trinity", "kingslayer", "moxypak", "cradle crash"]
+"altilium chordata", "operation", "trinity", "kingslayer", "moxypak", "cradle crash", "angel", "feya", "medea"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/archive/archive-300x300.png"
 ---
 
@@ -55,16 +55,39 @@ get access to his research. Skys falls in love with her at first sight, but to C
 Medea eventually falls in love with Skys too. This causes her to cut contact with her father, and 
 Carmine fails to get his hands on Mantra's Kingslayer research.
 
+After times of tension and betrayal in the cult, Medea starts to worry about threats to her family 
+back home and her own baby. Eventually she re-established contact with Arc/Hive, telling them 
+about the research Strassman and Skys had been conducting on gifted kids. To ensure her safety, 
+she also tells them Strassman's daughter [Angel](../characters/angel) has unexplained powers.
+
+On her entry into the cult, a bio chip was also placed in Medea's neck. She gave Arc/Hive access 
+to this chip, and they have had access to monitor her since she arrived. They also know about her 
+baby. 
+
+Project Kingslayer had been publicly discontinued, but resumed in the basement, leaving even 
+more research Arc/Hive would soon uncover.
+
 ### Operation Trinity
 
-The company was most relevant from 2020 until 2031, when the influential men behind the 
-[Mantra cult](mantra) were extracted in [Operation Trinity](../for-sof/trinity_document), at the orders of Carmine himself. 
-This time he succeeded, extracting the men and most of their families safely.
+The [October Massacre](october-massacre) started with intervention from the Novosovian government. The DTC and 
+Novosovia had a complicated history involving a lot of war. Carmine had strong ties to the 
+DTC government and wanted to prevent the research from falling into the hands of the Novosovian 
+government.
 
-After gaining access to the men behind the MANTRA cult, the company developed different types of 
+Taking matters into his own hands, he ordered [Operation Trinity](operation-trinity). According 
+to the [news article](../for-sof/trinity_document) the main priority of the mission was to take 
+Skys, Strassman and Lauren. Victor had another: he was also interested in the research on Angel 
+and the gifted kids.
+
+Victor manages to get what he wants: the men are taken along with Dallus' family, they have taken 
+Angel and some especially gifted kids that were even able to take out soldiers. Strassman is never 
+informed that DTC has taken Angel, presuming her missing instead.
+
+After gaining access to the men behind the MANTRA cult, Arc/Hive developed different types of 
 technology, for both sustainability and national security goals. 
 [Dr. Dallus Lauren](../characters/dallus-lauren) notably developed the MOXYPAK for the company, which helped purify 
-air after the devastation of World War 3.0.
+air after the devastation of World War 3.0. Strassman also started working for Arc/Hive, now 
+alone and devastated after the loss of Ava and Angel.
 
 [Dallus' Diary](../for-sof/dallus-diary) from 2021 provides another perspective on ARC/HIVE.
 Dallus was promised safety in return for his cooperation and also speaks about his [synth](synths) 
@@ -72,9 +95,6 @@ project, something Carmine is very interested in. Another key figure in the trin
 the leader of the [Mantra cult](mantra) himself. However, Skys has gone into a in a coma and his body 
 is now "useless", according to the diary.
 
-[Dr. Karl Strassman](../characters/strassman), a scientist with a particular interest in the spiritual side of science, 
-is the last member of the Trinity now employed at ARC/HIVE. He sadly lost his wife [Ava](../characters/ava) 
-and his child Angel is presumed dead.
 
 ![ARC/HIVE scientists](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/amo/inthedark/gallery/j_archivecamera.png)
 
@@ -187,17 +207,6 @@ We also see a mysterious printer at ARC/HIVE, printing some type of data, as wel
 
 ## Read More
 
-Related lore:
-
-- [Nex Gen Corporation](nex-gen-corporation)
-- [Cult of MANTRA/Neosages](mantra)
-- [Operation Trinity](../for-sof/trinity_document)
-- [Synths](synths)
-- [Lupamine](lupamine)
-- [Mares](mares)
-- [DTC](dtc)
-- [Novosovia](novosovia)
-
 Related files:
 
 - [Dallus' diary](../for-sof/dallus-diary)
@@ -210,17 +219,8 @@ Related files:
 - [Unbeleevable Episode 1](../for-sof/unbeleevable)
 - [Unbeleevable Episode 2](../for-sof/unbeleevable2)
 - [Unbeleevable Episode 3](../for-sof/unbeleevable3)
+- [Unbeleevable Episode 4](../for-sof/unbeleevable4)
 - [Artifacts](../for-sof/artifacts)
-
-Related Daily Whisper articles:
-
-- [Clone Chaos](../website/tdw-clonechaos)
-- [Rise of Synth](../website/tdw-riseofsynth)
-- [Rise of lupamine](../website/tdw-riseoflupamine)
-- [Rogue Sentinels: Combat Synths](../website/tdw-roguesentinels)
-- [Inside the Blood Red Spectacle](../website/tdw-bloodredspectacles)
-- [Mindstream](../website/tdw-futureentertainment)
-- [Faith on the Edge](../website/tdw-faithedge)
 
 Related characters:
 
@@ -235,6 +235,29 @@ Related characters:
 - [Ren](../characters/ren)
 - [Medea](../characters/medea)
 - [Ava](../characters/ava)
+- [Angel](../characters/angel)
+- [Feya](../characters/feya)
+
+Related Daily Whisper (news) articles:
+
+- [Clone Chaos](../website/tdw-clonechaos)
+- [Rise of Synth](../website/tdw-riseofsynth)
+- [Rise of lupamine](../website/tdw-riseoflupamine)
+- [Rogue Sentinels: Combat Synths](../website/tdw-roguesentinels)
+- [Inside the Blood Red Spectacle](../website/tdw-bloodredspectacles)
+- [Mindstream](../website/tdw-futureentertainment)
+- [Faith on the Edge](../website/tdw-faithedge)
+
+Related lore:
+
+- [Nex Gen Corporation](nex-gen-corporation)
+- [Cult of MANTRA/Neosages](mantra)
+- [Operation Trinity](../for-sof/trinity_document)
+- [Synths](synths)
+- [Lupamine](lupamine)
+- [Mares](mares)
+- [DTC](dtc)
+- [Novosovia](novosovia)
 
 Related music:
 

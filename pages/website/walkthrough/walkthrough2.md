@@ -908,6 +908,8 @@ We currently know very little about this letter, but it is theorized to be from 
 " | markdownify }}
 </details>
 
+***
+
 ## Kngsl@yer_EncrypMsg.codek
 
 > 🛈 This puzzle is a bit difficult to solve and involves precise clicking within a time limit.

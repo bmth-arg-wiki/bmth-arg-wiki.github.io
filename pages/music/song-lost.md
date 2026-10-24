@@ -2,6 +2,7 @@
 title: "10. LosT"
 categories: ["music"]
 description: "The song LosT from the album POST HUMAN: NEx Gen."
+tags: ["lost", "bmth", "post human", "nex gen", "single"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover_300.png"
 previous: "music/song-na"
 previous_text: "09. n/A"
@@ -96,10 +97,9 @@ appears in the [m8mobile game](../website/emulator-m8mobile) in an 8-bit version
 
 ## Read More
 
+Related music:
+
 - [POST HUMAN: NeX GEn](ph-nex-gen)
-
-Other singles:
-
 - [AmEN!](song-amen)
 - [DArkSide](song-darkside)
 - [DiE4u](song-die4u)

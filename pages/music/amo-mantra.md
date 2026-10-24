@@ -3,6 +3,7 @@ title: "02. MANTRA"
 categories: ["music"]
 description: "The song MANTRA from the album amo."
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/amo/album_cover_300.png"
+tags: ["bmth", "bring me the horizon", "amo", "arg", "mantra", "project", "kingslayer", "skys", "unbeleevable", "lore", "victor", "carmine"]
 previous: "music/amo"
 previous_text: "amo"
 next: "music/amo-nihilist-blues"
@@ -12,7 +13,7 @@ next_text: "03. nihilist blues"
 
 {% include content/info.html
 title="Mantra (Song)"
-content="This article is about the song MANTRA, not about [the cult](../lore/mantra)."
+content="This article is about the song MANTRA, not about [the Neosages/Mantra cult](../lore/mantra)."
 %}
 
 > "Do you want to start a cult with me?"
@@ -24,16 +25,21 @@ we can learn more about in a few different files:
 - [Trinity document](../for-sof/trinity_document)
 - [Unbeleevable Episode 1](../for-sof/unbeleevable)
 - [Unbeleevable Episode 2](../for-sof/unbeleevable2)
+- [Unbeleevable Episode 4](../for-sof/unbeleevable4)
 - [Skys & the Starjammers poster](../for-sof/skystarjammers)
 
 There was also a website with a teaser called `joinmantra.org`. It is no longer 
 available on the internet, but you can learn more about it in the [cult article](../lore/mantra).
 
+[Unbeleevable Episode 4](../for-sof/unbeleevable4) ends on Skys alone with a bottle of pills, spiralling out of control after 
+[Medea](../characters/medea)'s secret contact with Arc/Hive is exposed. This moment seems to continue into this music video, 
+where Skys fakes his own death through an overdose.
+
 ***
 
 ## Official Material
 
-{% include content/buttons/button-danger.html text="Official MV" link="https://www.youtube.com/watch?v=Thazgd1HFus" %}
+{% include content/buttons/button-danger.html text="Official MV" link="https://www.youtube.com/watch?v=VAXg78MKJcM" %}
 {% include content/buttons/button-danger.html text="Director's cut" link="https://www.youtube.com/watch?v=5-CKodNY41Y" %}
 
 <details class="lyrics">
@@ -83,7 +89,7 @@ You know it's easy to, so easy to believe
 
 ## Music Video Gallery
 
-{% include gallery.html folder="music/amo/mantra/gallery" %}
+{% include gallery-nav.html folder="music/amo/mantra/gallery" %}
 
 ***
 
@@ -112,17 +118,28 @@ Related files:
 - [Trinity document](../for-sof/trinity_document)
 - [Unbeleevable Episode 1](../for-sof/unbeleevable)
 - [Unbeleevable Episode 2](../for-sof/unbeleevable2)
+- [Unbeleevable Episode 4](../for-sof/unbeleevable4)
 - [Skys & the Starjammers poster](../for-sof/skystarjammers)
 
-Related Articles:
-
-- [Mantra cult](../lore/mantra)
-- [ARC/HIVE](../lore/archive)
-- [joinmantra.org](../lore/mantra#joinmantraorg)
-
-Related Characters:
+Related characters:
 
 - [Skys](../characters/skys)
 - [Medea](../characters/medea)
+- [Feya](../characters/feya)
 - [Strassman](../characters/strassman)
 - [Dallus Lauren](../characters/dallus-lauren)
+- [Victor Carmine](../characters/victor-carmine)
+
+Related lore:
+
+- [Mantra cult](../lore/mantra)
+- [October Massacre](../lore/october-massacre)
+- [ARC/HIVE](../lore/archive)
+- [joinmantra.org](../lore/mantra#joinmantraorg)
+
+Related music:
+
+- [amo](amo)
+- [nihilist blues ft. grimes](amo-nihilist-blues)
+- [in the dark](amo-in-the-dark)
+- [sugar, honey, ice and tea](amo-shit)

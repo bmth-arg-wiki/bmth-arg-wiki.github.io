@@ -86,7 +86,7 @@ It’s nicer when you can’t see the chains.
 
 ## Music Video Gallery
 
-{% include gallery.html folder="music/ph1/obey/gallery" %}
+{% include gallery-nav.html folder="music/ph1/obey/gallery" %}
 
 ***
 

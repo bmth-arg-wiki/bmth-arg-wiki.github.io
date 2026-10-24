@@ -20,7 +20,7 @@ redirect_from:
 This Daily Whisper column goes in depth into the case of a certain Mr. Q, 
 who suffered tragic repercussions after a MindXscape vacation. 
 Indeed, this MindTrip left him believing he was a secret agent. 
-He was then allegedly lobotomised in order to remove the fake memories from his mind. 
+He was then allegedly lobotomized in order to remove the fake memories from his mind. 
 
 In the wake of this tragedy, Memory Dream corp. still hails this new MindXscape technology as having a near-perfect success rate,
 while critics call it a "high-stakes game of neurological roulette."
@@ -113,7 +113,7 @@ Transcription by Alec
 
 ## Read More
 
-About the ARG website:
+Related website pages:
 
 - [Website](website)
 - [Old website](website-v1)

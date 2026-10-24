@@ -3,7 +3,7 @@ title: "Skys"
 description: "Skys is a cunning man with pink hair. He was abandoned by his parents at 8 and traveled around the world 
 after. He is the founder of the Mantra cult and a survivor of the incident at October Palace."
 categories: ["characters"]
-tags: ["skys", "mantra", "cult", "nex gen", "arc/hive", "operation", "trinity", "dallas", "dallus", "lauren", "strassman"]
+tags: ["skys", "mantra", "cult", "nex gen", "arc/hive", "operation", "trinity", "dallas", "dallus", "lauren", "strassman", "feya", "angel"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/characters/skys/skys-300x300.png"
 ---
 # Skys
@@ -49,7 +49,7 @@ to Novosovia in 2004. He quickly became the cult leader of the Neosages, better 
 A baby picture of Skys, according to [Dr. Lee MD](../for-sof/unbeleevable). Lee also tells us that Skys was born with the
 pink hair, which is the reason he was always special.
 
-Just like [Selene](selene) and [Sof](sof), Skys was born with Radiogenic Leukotrichia. 
+Just like [Selene](selene) and [Sof](sof), Skys was born with [Radiogenic Leukotrichia](../lore/radiogenic-leukotrichia). 
 This results from a genetic mutation, combined with radiation. As a result, the hair produces less 
 eumelanin (responsible for blue & black shades of hair) and increases the production of 
 pheomelanin. The latter is responsible for yellow and red hues in the hair, which causes 
@@ -103,16 +103,6 @@ which gives him his [mares](../lore/mares).
 It is unknown what happens between the asylum and Skys starting a band, but we know that Skys came back to Novosovia 
 with his band in 2004 from the same episode.
 
-### Skys & Early Ecliptism
-
-From the [Book of Eclipse](../for-sof/book-of-eclipse) we find out that Skys soon joined another religion. 
-They are mostly referred to as "followers of the First Shadow", with the First Shadow referring to [Alfgram](alfgram).
-
-It is unclear whether they met in Ingleterra or [Novosovia](../lore/novosovia), but Skys, Alfgram and their followers 
-ended up in October Palace somewhere in 2004. Skys knew he could not fulfill his goals alone and aligned 
-himself with Alfgram, who also believed that suffering was the way to salvation. The men were close like brothers, 
-according to the Book of Eclipse.
-
 ### Neosages/Cult of Mantra
 
 In the same year of 2004 that he came to Novosovia, Skys planned a show with his band. 
@@ -134,7 +124,7 @@ him reach an audience, despite the [Novosovian](../lore/novosovia) government be
 ### Project Kingslayer
 
 [Unbeleevable 3](../for-sof/unbeleevable3) reveals that Skys started [Project Kingslayer](../lore/incident-kingslayer) 
-with his associate Alfgram as patient zero in 2015. This escalated the torture in the cult, but Alfgram claimed 
+with his associate [Alfgram](alfgram) as patient zero in 2015. This escalated the torture in the cult, but Alfgram claimed 
 to have strong abilities after the ritual, now even more certain that pain was a means to enlightenment.
 
 Skys also sent out a message to the disillusioned youth of Novosovia, attempting to recruit them into his cult. 
@@ -146,30 +136,47 @@ children together, although it is hinted at that Skys may have had many more.
 After a while in the cult, [Strassman](strassman) writes the [Russian Poem](../for-sof/russianpoem) to [Ava](ava). 
 She was Skys' top disciple, but the two kept their affair a secret from Skys. 
 
-Thea, another one of Skys disciples, reveals that there is a Novosovian operative in the cult. Alfgram convinces Skys 
-to make an example out of the traitor and also use him as a test subject. 
+[Feya](feya), another one of Skys' disciples, reveals that there is a Novosovian 
+operative in the cult. Alfgram convinces Skys to make an example out of the traitor and also use him as a test subject. 
 According to [Dr. Lee MD](lee-md), this is when Skys house of cards comes crashing down. [Dallus](dallus-lauren) has 
-been growing distant from the cult since the birth of [Ren](ren). Ava is begging Strassman to flee from the cult, as 
-she has fallen pregnant, and their affair will be revealed soon due to it. Medea is naturally also worried, since she 
+realised what the experiments were doing and left the cult in 2015. Medea is naturally also worried, since she 
 came into the cult on her father's orders to bring it down originally.
 
-[Rebecca](../characters/rebecca) refers to Skys in her [November 2027 Grumblr post](../for-sof/grumblr2) as "The Brain Butcher", 
+[Rebecca](rebecca) refers to Skys in her [November 2027 Grumblr post](../for-sof/grumblr2) as "The Brain Butcher", 
 which seems to be a name the public gave him. Since he's been in a coma since the events of Mantra, this nickname 
 likely refers to his actions in the cult from 2015 to 2020.
 
+### Skys & Strassman's Confrontation
+
+In 2015, Strassman leaves the cult with a very pregnant [Ava](ava), who was about to give birth. He and Ava 
+flee to Dallus Lauren, where Strassman manages to deliver the baby and Ava dies during birth.
+ 
+[Feya](feya) found the poems Strassman had written to Ava and rats them out to Skys. Enraged, Skys hunts 
+Strassman down and nearly beats him to death.
+
+Strassman confessed to everything and admitted why he left, calling Skys out on the torture he was inflicting. 
+According to Dr. Lee's retelling, Skys bursts into tears for the first time in his life. Skys then promises to 
+stop the [Project Kingslayer](../lore/incident-kingslayer) experiments, to switch to ethical experiments 
+which Strassman would be in charge of, and to provide [Angel](angel) a proper life.
+
+Skys and Strassman then started research with gifted children, while Skys secretly continued Project Kingslayer 
+in the basement of the October Palace. 
+
 ### Skys & Alfgram Conflict
 
-Note: it is unknown where exactly between 2015 and 2020 this event takes place.
+The decision to (openly) stop Project Kingslayer caused division in the cult. Alfgram especially was angry with 
+Skys' decision. One night he left with some of his disciples, starting a new movement named [Ecliptism](../lore/ecliptism). 
+The Book of Eclipse tells the story from the perspective of Alfgram's followers:
 
 > Yet, as the rituals grew darker, Alfgram saw that Skys’s gaze began to waver. The prophet, once pure, 
 > took counsel in shadows with those whose eyes glinted with hidden ambition, and Alfgram’s heart grew heavy, 
 > for he saw the birth of pride within Skys.
 
-The followers of the First Shadow (Alfgram) had seven rituals to purify the soul and reach the Eclipse, something 
-akin to personal salvation. During the rituals, Alfgram noticed something he considered a sin in Skys: pride. 
+The cult performed several rituals. The Book of Eclipse speaks of seven rituals to purify the soul and reach "the Eclipse", 
+a state of enlightenment they believed in. 
 
-Alfgram would confront Skys about this later and speak his worries to his followers. This caused a divide 
-within the group. Alfgram decided to leave October Palace, where the rituals were taking place, while Skys was sleeping. 
+According to the book, Alfgram noticed pride in Skys during the rituals. He would then confront Skys about this and shares his worries with his followers.
+Alfgram then decided to leave October Palace, where the rituals were taking place, while Skys was sleeping. 
 The followers who were most loyal to Alfgram and his point of view left with him. This enraged Skys and he ordered 
 his followers to hunt Alfgram's group down. Eventually this led to a confrontation in which Skys offers Alfgram a 
 chance to back down, but he does not. Skys kills Alfgram, seeing the man he considered as a brother as prey, as written 
@@ -178,23 +185,31 @@ in the Book of Eclipse.
 ### The Fall of Mantra
 
 In 2020, an incident named The Fall of October Palace happens, which ends the era of the Mantra cult. The event is 
-also referred to as "The October Massacre".
+also referred to as [The October Massacre](../lore/october-massacre).
 
-The fall of Mantra seems to be initiated by Skys overdosing on the drug Mantra. The bottle of black pills also states 
-that Mantra is not suitable for human consumption. [Medea](medea) finds Skys on the floor after the overdose. She seems 
-slightly happy about this, and we learn from [Unbeleevable](../for-sof/unbeleevable2) that she was trying to 
-take down the cult from the inside.
+[Unbeleevable Episode 4](../for-sof/unbeleevable4) ends on Skys with a bottle of pills, seemingly spiralling out of 
+control. This appears to transition directly into the music video for [Mantra](../music/amo-mantra), where we are 
+led to believe Skys has taken an overdose during the fall of the cult. Skys' spiral out of control is followed by 
+the [Novosovian](../lore/novosovia) government attacking the cult.
+
+The bottle of black pills also states that Mantra is not suitable for human consumption. [Medea](medea) finds 
+Skys on the floor after the overdose. She seems slightly happy about this, and we learn from 
+Unbeleevable ([episode 4](../for-sof/unbeleevable4.md)) that she was back in contact with her father at 
+Arc/Hive.
 
 Soon after, a funeral takes place for Skys, with many cult members in attendance. Skys is displayed in a coffin. 
 Medea provides each follower with a Mantra pill. They take the pill at the same time and eventually start 
-convulsing, along with Medea. Bolts of electricity take out the cult members and even make Medea's head explode. 
+convulsing, along with Medea herself. Bolts of electricity take out the cult members and even make Medea's head explode. 
 Skys smirks in his coffin, seemingly still being alive.
 
 ### Operation Trinity & Project D.U.S.T.
 
 Victor Carmine [extracts the Trinity](../lore/operation-trinity) at the end of 2020: it consists of Skys, Dallus Lauren 
-and Karl Strassman.
-Even though Skys is in a coma after the events, his research continues in [Project D.U.S.T.](../lore/incident-dust).
+and Karl Strassman. The gifted children they were researching and the men's families were taken too. 
+Ren fled with Elena and Dallus, with Lyra then being born at Arc/Hive's labs. Strassman's daughter 
+[Angel](angel) is also taken, but according to Dallus' diary Strassman is told that his daughter is missing instead.
+
+Even though Skys has gone into a coma after the events, his research continues in [Project D.U.S.T.](../lore/incident-dust).
 During the October Massacre, the Mantra cult is able to fend off several troops, seemingly using supernatural
 abilities, as we learn from [the Project D.U.S.T. research proposal](../for-sof/project_dust).
 A [reconstructed interview](../for-sof/carmine_interview) reveals that this continuation project of Kingslayer is short
@@ -248,17 +263,6 @@ one can interpret it as Rebecca saying she will kill Skys, or that she will allo
 
 ## Read More
 
-Related characters:
-
-- [Dallus Lauren](dallus-lauren)
-- [Karl Strassman](strassman)
-- [Alfgram](alfgram)
-- [Medea](medea)
-- [Ava](ava)
-- [Victor Carmine](victor-carmine)
-- [Dr. Elias Mortem](elias-mortem)
-- [Rebecca Sinclair](rebecca)
-
 Related files:
 
 - [Skys' Diary](../for-sof/skys-diary)
@@ -274,10 +278,25 @@ Related files:
 - [Unbeleevable email & Episode 1](../for-sof/unbeleevable)
 - [Unbeleevable Episode 2](../for-sof/unbeleevable2)
 - [Unbeleevable Episode 3](../for-sof/unbeleevable3)
+- [Unbeleevable Episode 4](../for-sof/unbeleevable4)
+
+Related characters:
+
+- [Dallus Lauren](dallus-lauren)
+- [Karl Strassman](strassman)
+- [Alfgram](alfgram)
+- [Medea](medea)
+- [Ava](ava)
+- [Angel](angel)
+- [Feya](feya)
+- [Victor Carmine](victor-carmine)
+- [Dr. Elias Mortem](elias-mortem)
+- [Rebecca Sinclair](rebecca)
 
 Related lore:
 
 - [Mantra Cult](../lore/mantra)
+- [October Massacre](../lore/october-massacre)
 - [Project Kingslayer](../lore/incident-kingslayer)
 - [Ecliptism](../lore/ecliptism)
 - [Church of Genxsis](../lore/church)
@@ -285,6 +304,7 @@ Related lore:
 - [Arc/Hive](../lore/archive)
 - [Project D.U.S.T.](../lore/incident-dust)
 - [Nex Gen Corporation](../lore/nex-gen-corporation)
+- [Radiogenic Leukotrichia](../lore/radiogenic-leukotrichia)
 - [Mares](../lore/mares)
 - [Synths](../lore/synths)
 - [Novosovia](../lore/novosovia)

@@ -32,15 +32,20 @@
   $input-shadow: none
 );
 
-// Other components
+// Layout components
 @use "components/_header";
-@use "components/_search_bar";
+@use "components/_search";
 @use "components/_toc";
 @use "components/_footer";
 
-// Content (components)
-@use "components/_contents";
-@use "components/_page_card";
+// Content modules
+@use "components/content/_typography";
+@use "components/content/_content";
+@use "components/content/_images";
+@use "components/content/_glightbox";
+@use "components/content/_tables";
+
+// Other components
 @use "components/_map";
 
 // Themes
@@ -48,21 +53,10 @@
 @use "themes/_dark";
 
 /*
-/ DEBUG
-
-* {
-  outline: 2px red solid;
-  background-color: rgba(100,0,0,0.2);
-}
- */
-
-
-/*
  * Mobile
  */
 
 @media screen and (max-width: variables.$mobile-width) {
-  // If we are using mobile, the Table of Contents doesn't fit next to page content
   #page-box {
     flex-direction: column;
     max-width: 90%;

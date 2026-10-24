@@ -29,7 +29,7 @@ Please note that an additional tab was added for the [idle game](idle) in July 2
 
 ## ARG Website - Main Page
 
-{% assign page_links = '/pages/website/wifi, /pages/website/webbrowser, /pages/website/journal, /pages/website/idle, /pages/website/website-songs, /pages/website/website-v1' | split: ", " %}
+{% assign page_links = '/pages/website/skys-diary, /pages/website/advent, /pages/website/wifi, /pages/website/webbrowser, /pages/website/journal, /pages/website/idle, /pages/website/website-songs, /pages/website/website-v1, /pages/website/artifacts, /pages/lore/unbeleevable' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ***
@@ -117,7 +117,7 @@ but used to contain more. You can read more about it in the [article on website 
 Spyder is the in-universe [web browser](webbrowser) on the page and can be used to read several articles on 
 the web.
 
-{% include gallery.html folder="webpage/newbuttons" %}
+{% include gallery-nav.html folder="webpage/newbuttons" %}
 
 The buttons on the new dashboard are virtually the same as the old ones, their main difference being their design 
 and placement. They are now in the top right corner of the website.
@@ -128,7 +128,7 @@ There is also an [emulator](emulator) section, which allows you to play differen
 
 ## Read More
 
-About the ARG website:
+Related website pages:
 
 - [Old website](website-v1)
 - [Webbrowser Spyder](webbrowser)

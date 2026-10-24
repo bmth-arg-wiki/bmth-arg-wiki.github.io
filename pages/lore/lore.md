@@ -14,14 +14,14 @@ This overview contains links for different lore pages, including sources posted 
 
 ## ARG Website - Main Page
 
-{% assign page_links = '/pages/website/website, /pages/website/wifi, /pages/website/webbrowser, /pages/website/emulator, /pages/website/journal, /pages/website/website-songs, /pages/website/website-v1' | split: ", " %}
+{% assign page_links = '/pages/website/website, /pages/website/wifi, /pages/website/webbrowser, /pages/website/emulator, /pages/website/journal, /pages/website/website-songs, /pages/website/website-v1, /pages/lore/unbeleevable' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ***
 
 ## Important Events
 
-{% assign page_links = '/pages/lore/incident-kingslayer, /pages/lore/operation-trinity, /pages/lore/incident-dust, /pages/lore/vspr37, /pages/lore/dreamseeker, /pages/lore/incident-chapel' | split: ", " %}
+{% assign page_links = '/pages/lore/incident-kingslayer, /pages/lore/october-massacre, /pages/lore/operation-trinity, /pages/lore/incident-dust, /pages/lore/vspr37, /pages/lore/dreamseeker, /pages/lore/incident-chapel' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ***
@@ -42,7 +42,7 @@ This overview contains links for different lore pages, including sources posted 
 
 ## World-building
 
-{% assign page_links = '/pages/lore/youtopia, /pages/lore/dtc, /pages/lore/new-elysium, /pages/lore/novosovia, /pages/lore/pusse, /pages/m8, /pages/lore/vspr37, /pages/lore/mares, /pages/lore/night-of-pan' | split: ", " %}
+{% assign page_links = '/pages/lore/youtopia, /pages/lore/dtc, /pages/lore/new-elysium, /pages/lore/novosovia, /pages/lore/pusse, /pages/m8, /pages/lore/vspr37, /pages/lore/mares, /pages/lore/radiogenic-leukotrichia, /pages/lore/night-of-pan' | split: ", " %}
 {% include page-card-gallery.html links=page_links %}
 
 ***

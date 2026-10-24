@@ -153,6 +153,12 @@ where the logo on the password screen stems from. The password is no longer need
 
 ## Read More
 
+Related files:
+
+- [Rebecca's first Grumblr post](grumblr)
+- [Rebecca's second Grumblr post](grumblr2)
+- [LBR sites](lbr_sites)
+
 Related characters:
 
 - [Rebecca](../characters/rebecca)
@@ -161,14 +167,16 @@ Related characters:
 - [Karl Strassman](../characters/strassman)
 - [Victor Carmine](../characters)
 
-Related files:
+Related Daily Whisper (news) articles:
 
-- [Rebecca's Grumblr post](grumblr)
-- [Second Grumblr post](grumblr2)
-- [LBR sites](lbr_sites)
+- [What is a Loop-Hole?](../website/tdw-loophole)
+- [The Rise of Synthetic Humans](../website/tdw-riseofsynth)
+- [Star Jayven Valex's Last Words](../website/tdw-valexlastwords)
+- [The Dark Rise of Lupamine](../website/tdw-riseoflupamine)
+- [Clone Chaos](../website/tdw-clonechaos)
+- [NEX GEN's Rogue Sentinels](../website/tdw-roguesentinels)
 
-Related articles:
+Related lore:
 
 - [ARC/HIVE](../lore/archive)
 - [Nex Gen Corporation](../lore/nex-gen-corporation)
-

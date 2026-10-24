@@ -2,6 +2,7 @@
 title: "01. [ost] Dreamseeker"
 categories: ["music"]
 description: "[ost] Dreamseeker, the intro to the album POST HUMAN: NEx Gen."
+tags: ["dreamseeker", "bmth", "post human", "nex gen", "spectrogram"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover_300.png"
 previous: "music/ph-nex-gen"
 previous_text: "NeX GEn"
@@ -39,18 +40,18 @@ The [booklet](../lore/booklet) also mentions a fictional console named Dreamseek
 
 ## Read More
 
+Related files:
+
+- [Dreadit post](../for-sof/dreadit)
+- [Selene's map](../for-sof/selenes_map)
+- [Selene Youtopia Research](../for-sof/selene_youtopia_doc)
+
 Related characters:
 
 - [E.V.E.](../characters/eve)
 - [Selene](../characters/selene)
 - [M8](../m8)
 - [Strassman](../characters/strassman)
-
-Related files:
-
-- [Dreadit post](../for-sof/dreadit)
-- [Selene's map](../for-sof/selenes_map)
-- [Selene Youtopia Research](../for-sof/selene_youtopia_doc)
 
 Related lore:
 
@@ -65,4 +66,3 @@ Related music:
 
 - [POST HUMAN: NeX GEn](ph-nex-gen)
 - [Youtopia (song)](song-youtopia)
-

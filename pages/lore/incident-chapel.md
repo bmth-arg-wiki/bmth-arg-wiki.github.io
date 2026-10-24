@@ -26,6 +26,12 @@ They also mysteriously write that the basement is "calling" them, curious about 
 
 ## Read More
 
+Related files:
+
+- [Project D.U.S.T. Proposal](../for-sof/project_dust)
+- [Chapel Incident video](../for-sof/chapel)
+- [Operation Trinity article](../for-sof/trinity_document)
+
 Related characters:
 
 - [Victor Carmine](../characters/victor-carmine)
@@ -33,12 +39,6 @@ Related characters:
 - [Skys](../characters/skys)
 - [Karl Strassman](../characters/strassman)
 - [Dallus Lauren](../characters/dallus-lauren)
-
-Related files:
-
-- [Project D.U.S.T. Proposal](../for-sof/project_dust)
-- [Chapel Incident video](../for-sof/chapel)
-- [Operation Trinity article](../for-sof/trinity_document)
 
 Related lore:
 

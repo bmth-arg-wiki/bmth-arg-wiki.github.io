@@ -5,7 +5,7 @@ a mysterious genetic anomaly that causes pink hair. The newspaper also features 
 about spiritual science, the third eye and a picture we are told is young Skys in the Unbeleevable video."
 categories: ["for-sof"]
 tags: ["science study", "skys", "pink", "mantra", "Radiogenic Leukotrichia", "for sof", "unbeleevable", 
-       "new elysium", "2037", "vspr-37", "novosovia"]
+       "new elysium", "2037", "vspr-37", "novosovia", "radiogenic leukotrichia"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/science_study/scistudy-300x300.png"
 previous: "for-sof/project_dust"
 previous_text: "Jan15_2031_declassified_PROJECT"
@@ -31,7 +31,7 @@ in on different portions of it.
 
 ## Document contents
 
-{% include gallery.html folder="files/science_study/gallery" %}
+{% include gallery-nav.html folder="files/science_study/gallery" %}
 
 ***
 
@@ -199,25 +199,27 @@ it? □
 grave
 </details>
 
-This password was found in the [music player](../website/website#website-songs). The song
-Wrist has an anagram for the password in the song information.
+This password was found in the [music player](../website/website-songs). The song
+Wrist used to have an anagram for the password in the song information in the [old version of the dashboard](../website/website-v1).
 
 ***
 
 ## Read More
+
+Related files:
+
+- [Unbeleevable Episode 1 & e-mail](unbeleevable)
+- [Unbeleevable Episode 2](unbeleevable2)
+- [Skys' scrapbook](../website/skys-diary)
 
 Related characters:
 
 - [Skys](../characters/skys)
 - [Strassman](../characters/strassman) (through spiritual research)
 
-Related files:
+Related lore:
 
-- [Unbeleevable Episode 1 & e-mail](unbeleevable)
-- [Unbeleevable Episode 2](unbeleevable2)
-
-Related articles:
-
+- [Radiogenic Leukotrichia](../lore/radiogenic-leukotrichia)
 - [Mantra cult](../lore/mantra)
-- [ARC/HIVE Corp.](../lore/archive)
-- [Nex Gen Corp.](../lore/nex-gen-corporation)
+- [ARC/HIVE](../lore/archive)
+- [Nex Gen Corporation](../lore/nex-gen-corporation)

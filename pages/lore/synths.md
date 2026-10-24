@@ -84,7 +84,7 @@ slipped through the classified channels: They know us now."
 
 Gideon is referring to the Sentinels. He claims that they have learned to see humans as parasites, remarking that 
 Elias disappeared right after they were able to access his last known transmission. Mortem was the lead scientist on 
-[Project D.U.S.T.](../for-sof/project_dust). From [Sof's journal](../website/journal.md) we learn that Dr. Mortem, along with his team, 
+[Project D.U.S.T.](../for-sof/project_dust). From [Sof's journal](../website/journal) we learn that Dr. Mortem, along with his team, 
 had been slaughtered in the [Chapel incident](../for-sof/chapel). 
 [Sof](../characters/sof) also questions whether D.U.S.T. or the dark side of [Youtopia](youtopia) became Mortem's downfall eventually.
 
@@ -100,10 +100,29 @@ One of the units infiltrated an ARC/HIVE vault, seemingly doing something they w
 
 ## Read More
 
+Related files:
+
+- [Dallus' diary](../for-sof/dallus-diary)
+- [Rebecca's first Grumblr post](../for-sof/grumblr)
+- [Rebecca's second Grumblr post](../for-sof/grumblr2)
+- [Tekka Magazine Synth interview with Rebecca](../for-sof/tekka_interview)
+- 
+
 Related characters:
 
 - [Rebecca Sinclair](../characters/rebecca)
-- [Dallus Lauren](../characters/dallus-lauren)
+- [Skys](../characters/skys)
+- [Dr. Dallus Lauren](../characters/dallus-lauren)
+- [Dr. Karl Strassman](../characters/strassman)
+- [Victor Carmine](../characters/victor-carmine)
+
+Related Daily Whisper (news) articles:
+
+- [Clone Chaos](../website/tdw-clonechaos)
+- [What is a Loop-Hole?](../website/tdw-loophole)
+- [The Dark Rise of Lupamine](../website/tdw-riseoflupamine)
+- [The Rise of Synthetic Humans](../website/tdw-riseofsynth)
+- [NEX GEN's Rogue Sentinels](../website/tdw-roguesentinels)
 
 Related lore:
 

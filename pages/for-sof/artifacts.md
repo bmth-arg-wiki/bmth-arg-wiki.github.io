@@ -5,7 +5,7 @@ categories: ["for-sof"]
 tags: ["bmth", "arg", "slider", "module", "puzzle", "youtopia", "artifacts", "relics", "selene", 
        "sof", "kingslayer", "prophecy", "gat3keeper", "gatekeeper", "prosthetic", "finger", 
        "synth", "carmine", "victor", "m8", "vex", "strassman", "sandpit turtle", "stampede", "trampled"]
-image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/refs/heads/main/files/artifacts/vex-bear-300x300.png"
+image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/artifacts/vex-bear-300x300.png"
 previous: "for-sof/cities-coordinates"
 previous_text: "Cities Coordinates"
 next: "for-sof/unbeleevable3"
@@ -14,9 +14,16 @@ next_text: "Unbeleevable 3 (Jigsaw Puzzle)"
 
 # Module Puzzle Artifacts
 
-The module puzzles are connector-type puzzles that reveal six different 3D models, which seem to be 
+{% include content/info.html
+title="Not the Spotify canvases"
+content="This page is about the artifact items that can be found in the inventory on the website. 
+The spotify canvases labelled as 'Artifacts' under the media player can be found [here](../website/artifacts).
+%}
+
+The module puzzles were connector-type puzzles that reveal six different 3D models, which seem to be 
 connected to the characters in our world. They are located in [Sof](../characters/sof)'s inventory 
-on the [website](../website/website).
+on the [website](../website/website). Since the October 2026 update, the module puzzles have been removed 
+and the items can be viewed directly from the inventory.
 
 ***
 
@@ -156,8 +163,7 @@ to [Skys](../characters/skys), who dyed his hair with leech blood in Ingleterra 
 an abandoned asylum (Source: [Unbeleevable 2](../for-sof/unbeleevable2)).
 
 The label on the bottle has the text 'DCPHR-4', along with a sequence of characters: `6479bnmcxz`. 
-This is theorised to be a clue to [Victor's Journal](../for-sof/carmine_interview)'s final tab, which is still locked 
-behind a cipher at the time of writing.
+This is part of a clue to [Victor's Journal](../for-sof/carmine_interview)'s final tab's password.
 
 ### Grey/Silver Puzzle
 
@@ -198,55 +204,66 @@ their secrets in Unbeleevable [1](unbeleevable), [2](unbeleevable2) and [3](unbe
 
 ### Vex
 
-{% include gallery.html folder="files/artifacts/vex" %}
+{% include gallery-nav.html folder="files/artifacts/vex" %}
 
 ### Strassman's glasses
 
-{% include gallery.html folder="files/artifacts/glasses" %}
+{% include gallery-nav.html folder="files/artifacts/glasses" %}
 
 ### M8
 
-{% include gallery.html folder="files/artifacts/m8" %}
+{% include gallery-nav.html folder="files/artifacts/m8" %}
 
 ### Prosthetic finger
 
-{% include gallery.html folder="files/artifacts/prosthetic-finger" %}
+{% include gallery-nav.html folder="files/artifacts/prosthetic-finger" %}
 
 ### Gat3keeper plushie
 
-{% include gallery.html folder="files/artifacts/park-plushie" %}
+{% include gallery-nav.html folder="files/artifacts/park-plushie" %}
 
 ### Sandpit turtle
 
-{% include gallery.html folder="files/artifacts/sandpit-turtle" %}
+{% include gallery-nav.html folder="files/artifacts/sandpit-turtle" %}
 
 ### That's The Spirit Umbrella
 
-{% include gallery.html folder="files/artifacts/umbrella" %}
+{% include gallery-nav.html folder="files/artifacts/umbrella" %}
 
 ### Cap & Archangel patches
 
-{% include gallery.html folder="files/artifacts/merch" %}
+{% include gallery-nav.html folder="files/artifacts/merch" %}
 
 ### Leech Blood Hair Dye
 
-{% include gallery.html folder="files/artifacts/dye" %}
+{% include gallery-nav.html folder="files/artifacts/dye" %}
 
 ### FANTOM Mask
 
-{% include gallery.html folder="files/artifacts/gasmask" %}
+{% include gallery-nav.html folder="files/artifacts/gasmask" %}
 
 ### Creature Remnant
 
-{% include gallery.html folder="files/artifacts/goxmog" %}
+{% include gallery-nav.html folder="files/artifacts/goxmog" %}
 
 ### Dr. Lee's Suit
 
-{% include gallery.html folder="files/artifacts/lee-suit" %}
+{% include gallery-nav.html folder="files/artifacts/lee-suit" %}
 
 ***
 
 ## Read More
+
+Related files:
+
+- [Unbeleevable Leak Email + Episode 1](unbeleevable)
+- [Unbeleevable Episode 2](unbeleevable2)
+- [Unbeleevable Episode 3](unbeleevable3)
+- [Kingslayer Codec](kingslayercodec)
+- [Scott's Diary](scott_personal_journal)
+- [Selene's Diary](selene_personal_journal)
+- [Goxmog Sightings](goxmog)
+- [Carmine's Interview](carmine_interview) (through a clue on the dye)
 
 Related characters:
 
@@ -262,17 +279,6 @@ Related characters:
 - [Michael](../characters/michael)
 - [Uriel](../characters/uriel)
 
-Related files:
-
-- [Unbeleevable Leak Email + Episode 1](unbeleevable)
-- [Unbeleevable Episode 2](unbeleevable2)
-- [Unbeleevable Episode 3](unbeleevable3)
-- [Kingslayer Codec](kingslayercodec)
-- [Scott's Diary](scott_personal_journal)
-- [Selene's Diary](selene_personal_journal)
-- [Goxmog Sightings](goxmog)
-- [Carmine's Interview](carmine_interview) (through a clue on the dye)
-
 Related article in The Daily Whisper:
 
 - [Gat3keeper Tragedies](../website/tdw-gatekeeper)
@@ -284,5 +290,3 @@ Related lore:
 - [Arc/Hive](../lore/archive)
 - [Nex Gen](../lore/nex-gen-corporation)
 - [New Elysium](../lore/new-elysium)
-
-

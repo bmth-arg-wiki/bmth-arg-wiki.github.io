@@ -44,6 +44,11 @@ remained user 0009 until the December 2024 update.
 
 ## Read More
 
+Related files:
+
+- [Selene's Map](../for-sof/selenes_map)
+- [Youtopia Research](../for-sof/selene_youtopia_doc)
+
 Related characters:
 
 - [Gabriel](gabriel)
@@ -52,11 +57,6 @@ Related characters:
 - [Pan](pan)
 - [Vanth](vanth)
 - [The Babylon](babylon)
-
-Related files:
-
-- [Selene's Map](../for-sof/selenes_map)
-- [Youtopia Research](../for-sof/selene_youtopia_doc)
 
 Related lore:
 

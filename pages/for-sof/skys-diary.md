@@ -121,12 +121,6 @@ later replaced by a new version of the same puzzle, this time unlocking the [M8 
 
 ## Read More
 
-More [files](for-sof)!
-
-Related characters:
-
-- [Skys](../characters/skys)
-
 Related files:
 
 - [Skys & the Starjammers](skystarjammers)
@@ -137,12 +131,9 @@ Related files:
 - [Book of Eclipse](book-of-eclipse)
 - [Rebecca's second Grumblr post](grumblr2)
 
-Other puzzle files:
+Related characters:
 
-- [Grumblr second entry](grumblr2)
-- [Book of Eclipse](book-of-eclipse)
-- [Unbeleevable episode 2](unbeleevable2)
-- [Cities coordinates](cities-coordinates)
+- [Skys](../characters/skys)
 
 Related lore:
 
@@ -150,3 +141,10 @@ Related lore:
 - [ARC/HIVE Corp.](../lore/archive)
 - [Nex Gen Corp.](../lore/nex-gen-corporation)
 - [Church of Genxsis](../lore/church)
+
+Other puzzle files:
+
+- [Grumblr second entry](grumblr2)
+- [Book of Eclipse](book-of-eclipse)
+- [Unbeleevable episode 2](unbeleevable2)
+- [Cities coordinates](cities-coordinates)

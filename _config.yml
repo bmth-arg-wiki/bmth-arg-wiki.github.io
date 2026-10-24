@@ -5,6 +5,8 @@ repository: bmth-arg-wiki/bmth-arg-wiki.github.io
 url: "https://www.secrettinfoilsociety.com"
 baseurl: ""
 
+github_api: "https://api.github.com/repos/bmth-arg-wiki"
+
 sass:
   load_paths:
     - _sass

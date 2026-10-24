@@ -43,6 +43,11 @@ Before the June 4th 2024 update, Michael used to be user 0011.
 
 ## Read More
 
+Related files:
+
+- [Selene's Map](../for-sof/selenes_map)
+- [Youtopia Research](../for-sof/selene_youtopia_doc)
+
 Related characters:
 
 - [Vanth](vanth)
@@ -51,11 +56,6 @@ Related characters:
 - [Raphael](raphael)
 - [Gabriel](gabriel)
 - [Uriel](uriel)
-
-Related files:
-
-- [Selene's Map](../for-sof/selenes_map)
-- [Youtopia Research](../for-sof/selene_youtopia_doc)
 
 Related lore:
 

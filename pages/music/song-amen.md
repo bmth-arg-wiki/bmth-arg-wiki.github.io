@@ -2,6 +2,7 @@
 title: "13. AmEN!"
 categories: ["music"]
 description: "The song AmEN! from the album POST HUMAN: NEx Gen."
+tags: ["amen", "bmth", "post human", "nex gen", "single", "genxsis", "youtopia", "toast"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/music/ph2/album_cover_300.png"
 previous: "music/song-rip"
 previous_text: "12. R.i.p (duskCOre RemIx)"
@@ -123,7 +124,13 @@ Palumbo of Glassjaw. It has an [official Music Video](https://www.youtube.com/wa
 
 ## Read More
 
-Other singles:
+Related lore:
+
+- [Church of Genxsis](../lore/church)
+- [Ecliptism](../lore/ecliptism)
+- [Mantra Cult](../lore/mantra)
+
+Related music:
 
 - [DArkSide](song-darkside)
 - [DiE4u](song-die4u)

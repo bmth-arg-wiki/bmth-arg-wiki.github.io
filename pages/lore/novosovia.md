@@ -4,7 +4,8 @@ description: "Novosovia is a fictional Eastern-European country. They are at war
 at least part of the story."
 categories: ["for-sof"]
 tags: ["bmth", "arg", "nex gen", "church of genxsis", "archive", "arc/hive", "mantra", "cult", "novosovia", "october palace",
-       "skys", "starjammers", "youtopia", "dtc", "divided", "territories", "columbia", "new elysium"]
+       "skys", "starjammers", "youtopia", "dtc", "divided", "territories", "columbia", "new elysium", "angel", 
+       "unbeleevable"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/novosovia/novosovia-300x300.png"
 ---
 
@@ -15,15 +16,14 @@ image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/no
 >
 > Status: Likely in a state of collapse after years of war and conflict
 >
-> - [Sof's journal](../website/journal.md)
+> - [Sof's journal](../website/journal)
 
 Novosovia is a fictional Eastern-European country. They are at war with Ingleterra for 
 at least part of the story.
 
 Many of the important characters in the story are from Novosovia, including 
 [Skys](../characters/skys), [Dr. Karl Strassman](../characters/strassman), 
-[Dr. Dallus Lauren](../characters/dallus-lauren), [Elena Lauren](../characters/elena-lauren) 
-and [Ikaro Lauren](../characters/ren).
+[Dr. Dallus Lauren](../characters/dallus-lauren), and [Ikaro Lauren](../characters/ren).
 
 ***
 
@@ -41,11 +41,11 @@ and [Ikaro Lauren](../characters/ren).
 Novosovia is a fictional Eastern-European country. The country is under constant stress, being described as 
 hyper-religious by both [Sof](../characters/sof) and Dr. Lee MD. The country was suffering from the effects of 
 radiation as a consequence of World War 3. The radioactive fall-out, combined with a genetic component, 
-caused [Skys](../characters/skys) to be born with a condition named Radiogenic Leukotrichia. In the year 2037 
+caused [Skys](../characters/skys) to be born with a condition named [Radiogenic Leukotrichia](radiogenic-leukotrichia). In the year 2037 
 in New Elysium, there would eventually be a [newspaper](../for-sof/thesciencestudy) describing this phenomenon.
 
 [Strassman](../characters/strassman) was born in the country in the small city of Zelenopol, according to the 
-[lore booklet](booklet). [Sof's journal](../website/journal.md) confirms that Dallus is also from
+[lore booklet](booklet). [Sof's journal](../website/journal) confirms that Dallus is also from
 the country and would establish his family here, until the fall of Mantra would force them to re-locate.
 
 > Mothers aren’t supposed to leave, or so the mindflicks would have you believe. Unless of course, they’re
@@ -58,7 +58,7 @@ residents of the DTC and Novosovia.
 ### Pink Hair
 
 In the Novosovian culture at the time of Skys' youth (approximately the 90's), both the conditions that cause
-white hair and pink hair (Radiogenic Leukotrichia) are feared, with Sof explaining pink hair would get you labeled
+white hair and pink hair ([Radiogenic Leukotrichia](radiogenic-leukotrichia)) are feared, with Sof explaining pink hair would get you labeled
 as a witch. From the newspaper in 2037, it seems like the Novosovians still fear the condition.
 
 Skys' parents decided to hide him away from the world, frequently locking him up. On his 8th birthday, they kicked 
@@ -70,39 +70,53 @@ return in 2004.
 
 The October Palace, known for the [Mantra cult](mantra), is located in Novosovia. The cult was located here 
 after Skys returned to Novosovia with his band in 2004. While the government was not fond of the cult, they managed 
-to exist for over a decade in the country.
+to exist for over a decade in the country. That tolerance eventually ran out: in 2020 the government sent troops 
+to October Palace, and the clash that followed became known as the [October Massacre](october-massacre).
 
 During [Operation Trinity](../for-sof/trinity_document) in 2020, several of our characters are extracted and brought 
 to the [DTC](../lore/dtc). The Operation brings not only Strassman, Dallus and Skys to the DTC, but also Dallus' family 
-and some children referred to as "the Special Six" in [Project D.U.S.T.](../for-sof/project_dust). It is unknown what 
-happens to Strassman's family, his wife Ava and child Angel, since Ava is dead and Angel is missing by the time 
-Dallus writes [his diary](../for-sof/dallus-diary) in January 2021.
+and some children referred to as "the Special Six" in [Project D.U.S.T.](../for-sof/project_dust). Ava does not survive 
+the cult, and by the time Dallus writes [his diary](../for-sof/dallus-diary) in January 2021, her daughter [Angel](../characters/angel) is 
+listed as missing. [Unbeleevable Episode 4](../for-sof/unbeleevable4) later reveals that Angel was in fact taken by 
+[Arc/Hive](archive) during the extraction, leaving her whereabouts after that unknown.
 
 During the time of the cult in Novosovia, a corporate off-shoot of the cult is established. [Genxsis](../lore/church) 
-would eventually go global, but started from the research here according to Sof's journal.
+would eventually go global, but started from the research here according to Sof's journal. Unbeleevable Episode 4 
+confirms that the cult of Mantra itself grew into the Church of Genxsis.
 
 ***
 
 ## Read More
-
-Related characters:
-
-- [Skys](../characters/skys)
-- [Dr. Karl Strassman](../characters/strassman),
-- [Dr. Dallus Lauren](../characters/dallus-lauren)
-- [Elena Lauren](../characters/elena-lauren)
-- [Ikaro Lauren](../characters/ren).
 
 Related files:
 
 - [Operation Trinity](../for-sof/trinity_document)
 - [Unbeleevable Episode 1](../for-sof/unbeleevable)
 - [Unbeleevable Episode 2](../for-sof/unbeleevable2)
+- [Unbeleevable Episode 3](../for-sof/unbeleevable3)
+- [Unbeleevable Episode 4](../for-sof/unbeleevable4)
 - [Book of Eclipse](../for-sof/book-of-eclipse)
+
+Related characters:
+
+- [Skys](../characters/skys)
+- [Dr. Karl Strassman](../characters/strassman)
+- [Ava](../characters/ava)
+- [Angel](../characters/angel)
+- [Dr. Dallus Lauren](../characters/dallus-lauren)
+- [Elena Lauren](../characters/elena-lauren)
+- [Ikaro Lauren](../characters/ren)
+- [Lyra Lauren](../characters/lyra-lauren)
+- [Medea](../characters/medea)
+- [Victor Carmine](../characters/victor-carmine)
+- [Alfgram](../characters/alfgram)
+- [Feya](../characters/feya)
 
 Related lore:
 
+- [Radiogenic Leukotrichia](radiogenic-leukotrichia)
 - [Mantra Cult](mantra)
+- [October Massacre](october-massacre)
 - [DTC](dtc)
 - [New Elysium](new-elysium)
-- [Sof's journal](../website/journal.md)
+- [Sof's journal](../website/journal)

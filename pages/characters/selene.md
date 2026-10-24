@@ -27,6 +27,9 @@ something which eventually helps her reach [Youtopia](../lore/youtopia) as [docu
 Selene is the immune girl from the [Dreaddit post](../for-sof/dreadit) [E.V.E](eve) and [Dr. Karl Strassman](strassman) are studying.
 Her high amounts of naturally produced DMT is what gave her the immunity to the [VSPR-37](../lore/vspr37) pandemic. 
 
+Like her daughter [Sof](sof) and cult leader [Skys](skys), Selene was born with [Radiogenic Leukotrichia](../lore/radiogenic-leukotrichia), 
+giving her naturally pink hair. 
+
 [Nex Gen](../lore/nex-gen-corporation) retrieves her during the outbreak of the pandemic as seen in the 
 [Kingslayer Codec](../for-sof/kingslayercodec). The codec also reveals that they have codenamed Selene NYX-01, labelling 
 [Scott](scott) as NYX-02.
@@ -112,16 +115,6 @@ was also used as the password for her [diary](../for-sof/selene_personal_journal
 
 # Read More
 
-Related characters:
-
-- [Sof](sof)
-- [M8](../m8)
-- [E.V.E.](eve)
-- [Dr. Karl Strassman](strassman)
-- [Ikaro (Ren) Lauren](ren)
-- [Scott](scott)
-- [Syko (speculated)](syko)
-
 Related files:
 
 - [Dreaddit post](../for-sof/dreadit)
@@ -132,7 +125,18 @@ Related files:
 - [Selene Youtopia doc](../for-sof/selene_youtopia_doc)
 - [The Science Study](../for-sof/thesciencestudy)
 
+Related characters:
+
+- [Sof](sof)
+- [M8](../m8)
+- [E.V.E.](eve)
+- [Dr. Karl Strassman](strassman)
+- [Ikaro (Ren) Lauren](ren)
+- [Scott](scott)
+- [Syko (speculated)](syko)
+
 Related lore:
+
 
 - [Project Kingslayer](../lore/incident-kingslayer)
 - [Arc/Hive](../lore/archive)
@@ -141,6 +145,7 @@ Related lore:
 - [YOUtopia](../lore/youtopia)
 - [P.U.S.S-E](../lore/pusse)
 - [Mares](../lore/mares)
+- [Radiogenic Leukotrichia](../lore/radiogenic-leukotrichia)
 - [DTC](../lore/dtc)
 - [New Elysium](../lore/new-elysium)
 

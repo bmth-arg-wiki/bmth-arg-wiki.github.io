@@ -87,14 +87,14 @@ Connecting to this network also makes the [Spyder browser](webbrowser) homepage 
 
 ## Read More
 
-About the ARG website:
+Related characters:
+
+- [M8](../m8)
+
+Related website pages:
 
 - [Website](website)
 - [Old website](website-v1)
 - [Webbrowser Spyder](webbrowser)
 - [Noctune Music Player](website-songs)
 - [Journal](journal)
-
-Related character:
-
-- [M8](../m8)

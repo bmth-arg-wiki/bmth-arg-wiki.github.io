@@ -30,7 +30,7 @@ The capslock doc could be found in the `FOR SOF` folder on the computer before t
 
 ![Capslock doc password screen](https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/capslock_doc/capslockdoc_password.png)
 
-{% include info.html
+{% include content/info.html
 title="Beware spoilers!"
 icon="fa-solid fa-lock-open"
 content="This article contains heavy spoilers and was discovered earlier than it was supposed to be. It is unsure when and 
@@ -49,7 +49,7 @@ We find a storage crate that belongs to [Selene](../characters/selene).
 
 ### Gallery
 
-{% include gallery.html folder="files/capslock_doc/gallery" %}
+{% include gallery-nav.html folder="files/capslock_doc/gallery" %}
 
 **!!! DO NOT EMAIL THIS ADDRESS, IT IS A PLACEHOLDER AND 
 WAS NEVER MEANT TO BE FOUND !!!**
@@ -138,8 +138,6 @@ placeholder address anymore**.
 ***
 
 ## Read More
-
-More from [📁 FOR SOF](../for-sof)
 
 Related files:
 

@@ -46,6 +46,12 @@ Before the June 4th 2024 update, he used to be user 0013.
 
 ## Read More
 
+Related files:
+
+- [Unbeleevable (speculated)](../for-sof/unbeleevable)
+- [Selene's Map](../for-sof/selenes_map)
+- [Youtopia Research](../for-sof/selene_youtopia_doc)
+
 Related characters:
 
 - [Archangel Gabriel](gabriel)
@@ -54,16 +60,9 @@ Related characters:
 - [Syko / Oli](syko)
 - [Pickles / Mat N.](pickles)
 
-Related files:
-
-- [Unbeleevable (speculated)](../for-sof/unbeleevable)
-- [Selene's Map](../for-sof/selenes_map)
-- [Youtopia Research](../for-sof/selene_youtopia_doc)
-
 Related lore:
 
 - [Lore booklet](../lore/booklet)
 - [Insights](../lore/insights)
 - [Insight 2: Empathy](../lore/insight2-empathy)
 - [Youtopia](../lore/youtopia)
-

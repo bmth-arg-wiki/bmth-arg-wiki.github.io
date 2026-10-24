@@ -58,6 +58,13 @@ the incident seemingly having taken a great toll on him.
 
 ## Read More
 
+Related files:
+
+- [Operation Trinity](../for-sof/trinity_document)
+- [Project D.U.S.T proposal](../for-sof/project_dust)
+- [Dallus' Diary](../for-sof/dallus-diary)
+- [Rebecca's second Grumblr post](../for-sof/grumblr2)
+
 Related characters:
 
 - [Ren Lauren](ren)
@@ -67,17 +74,6 @@ Related characters:
 - [Dr. Elias Mortem](elias-mortem)
 - [Skys](skys)
 - [Dr. Karl Strassman](strassman)
-
-Related files:
-
-- [Operation Trinity](../for-sof/trinity_document)
-- [Project D.U.S.T proposal](../for-sof/project_dust)
-- [Dallus' Diary](../for-sof/dallus-diary)
-- [Rebecca's second Grumblr post](../for-sof/grumblr2)
-
-Related TDW:
-
-- [Gatekeeper](../website/tdw-gatekeeper)
 
 Related lore:
 
@@ -90,6 +86,10 @@ Related lore:
 - [Mares](../lore/mares)
 - [DTC](../lore/dtc)
 - [New Elysium](../lore/new-elysium)
+
+Related Daily Whisper (news) articles:
+
+- [Gatekeeper Themepark](../website/tdw-gatekeeper)
 
 Related music:
 

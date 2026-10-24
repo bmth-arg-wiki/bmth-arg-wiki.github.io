@@ -25,7 +25,7 @@ from the same day.
 
 ### Gallery
 
-{% include gallery.html folder="files/goxmog/gallery" %}
+{% include gallery-nav.html folder="files/goxmog/gallery" %}
 
 ***
 

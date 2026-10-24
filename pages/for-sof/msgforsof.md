@@ -24,7 +24,7 @@ You can also hear thunder partway through the audio, which upsets the baby, caus
 her. She says that there is something she still needs to do. Near the end of the recording an alarm goes off, 
 which prompts Selene to say that's her cue, say a few more words goodbye and then end the recording.
 
-From the [lore booklet](../lore/booklet) and [Sof's journal](../website/journal.md) we learn more about what happened to Sof 
+From the [lore booklet](../lore/booklet) and [Sof's journal](../website/journal) we learn more about what happened to Sof 
 after she was born in 2040. They are a demi-god who was raised by M8 and is now discovering their true origins 
 through the documents left by Selene, who they resent for it.
 
@@ -91,8 +91,6 @@ Because unlocking these secrets will be difficult, but learning the truth will b
 
 ## Read More
 
-More from [📁 FOR SOF](../for-sof)
-
 Related files:
 
 - [Capslock doc](capslock_doc)
@@ -100,14 +98,14 @@ Related files:
 - [Dreaddit post](dreadit)
 - [Selene's journal](selene_personal_journal)
 
-Related articles:
-
-- [Nex Gen Corporation](../lore/nex-gen-corporation)
-- [Sof's journal](../website/journal.md)
-- [Lore booklet](../lore/booklet)
-
 Related characters:
 
 - [Selene](../characters/selene)
 - [Sof](../characters/sof)
 - [M8](../m8)
+
+Related articles:
+
+- [Nex Gen Corporation](../lore/nex-gen-corporation)
+- [Sof's journal](../website/journal)
+- [Lore booklet](../lore/booklet)

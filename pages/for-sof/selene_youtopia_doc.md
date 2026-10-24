@@ -14,7 +14,7 @@ next_text: "USB Chapel video"
 # Selene Youtopia Doc
 
 This document was distributed at the Nex Gen pop up shops. These were located all over the world and featured 
-decorations labeling them as [LBR sites](lbr_sites), or Lesser Banishing Ritual sites. The ritual plays a large role 
+decorations labelling them as [LBR sites](lbr_sites), or Lesser Banishing Ritual sites. The ritual plays a large role 
 in the ARG, including the ritual being performed in [[ost] (spi)ritual](../music/song-spiritual).
 
 The document itself contains research from [Nex Gen corporation](../lore/nex-gen-corporation), with Selene as their test 
@@ -30,7 +30,7 @@ content="This material was distributed in a physical folder. This included separ
 accidentally gone out of order. Oops :("
 %}
 
-{% include gallery.html folder="files/selene_youtopia_doc/gallery" %}
+{% include gallery-nav.html folder="files/selene_youtopia_doc/gallery" %}
 
 ***
 
@@ -169,12 +169,6 @@ accidentally gone out of order. Oops :("
 
 ## Read More
 
-Related characters:
-
-- [Selene](../characters/selene)
-- [Sof](../characters/sof)
-- [Scott](../characters/syko)
-
 Related files:
 
 - [Selene's map of Youtopia (document)](selenes_map)
@@ -183,7 +177,13 @@ Related files:
 - [Scott's diary](scott_personal_journal)
 - [Message for Sof](msgforsof)
 
+Related characters:
+
+- [Selene](../characters/selene)
+- [Sof](../characters/sof)
+- [Scott](../characters/syko)
+
 Related lore:
 
-- [Sof's journal](../website/journal.md)
+- [Sof's journal](../website/journal)
 - [Nex Gen Corp.](../lore/nex-gen-corporation)

@@ -92,6 +92,20 @@ and the dark side of Youtopia.
 
 ## Read More
 
+Related files:
+
+- [Book of Eclipse](../for-sof/book-of-eclipse)
+- [Operation Trinity Article](../for-sof/trinity_document)
+- [Dallus' Diary](../for-sof/dallus-diary)
+- [Project D.U.S.T. Proposal](../for-sof/project_dust)
+- [Kingslayer Codec](../for-sof/kingslayercodec)
+- [Lauren D8 Log](../for-sof/lauren_d8_log)
+- [Victor Carmine Interview](../for-sof/carmine_interview)
+- [LBR Sites Letter](../for-sof/lbr_sites)
+- [Chapel Incident Video](../for-sof/chapel)
+- [Unbeleevable Episode 3](../for-sof/unbeleevable3)
+- [Dreadit](../for-sof/dreadit)
+
 Related characters:
 
 - [Selene](../characters/selene)
@@ -107,26 +121,12 @@ Related characters:
 - [Alfgram](../characters/alfgram)
 - [Angeldust (speculated)](../characters/angeldust)
 
-Related files:
-
-- [Book of Eclipse](../for-sof/book-of-eclipse)
-- [Operation Trinity Article](../for-sof/trinity_document)
-- [Dallus' Diary](../for-sof/dallus-diary)
-- [Project D.U.S.T. Proposal](../for-sof/project_dust)
-- [Kingslayer Codec](../for-sof/kingslayercodec)
-- [Lauren D8 Log](../for-sof/lauren_d8_log)
-- [Victor Carmine Interview](../for-sof/carmine_interview)
-- [LBR Sites Letter](../for-sof/lbr_sites)
-- [Chapel Incident Video](../for-sof/chapel)
-- [Unbeleevable Episode 3](../for-sof/unbeleevable3)
-- [Dreadit](../for-sof/dreadit)
-
 Related lore:
 
 - [Sof's journal](../website/journal)
 - [Cult of Mantra](mantra)
+- [October Massacre](october-massacre)
 - [Project Kingslayer](incident-kingslayer)
 - [Arc/Hive](archive)
 - [Operation Trinity](operation-trinity)
-- []
 - [Chapel Incident](incident-chapel)

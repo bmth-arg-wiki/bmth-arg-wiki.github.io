@@ -76,7 +76,7 @@ The weather as displayed after the 26th of May update for roughly 1-2 months.
 
 ### Buttons
 
-{% include gallery.html folder="webpage/buttons" %}
+{% include gallery-nav.html folder="webpage/buttons" %}
 
 The page also provided a button to manage your [Wi-fi](wifi), which will likely be needed to access the browser.
 The Codek messaging app also stated that it needs a connection to the internet. The website button with M8 on it showed us some system information.
@@ -86,7 +86,7 @@ serial number we used to access the webpage.
 
 ### Website Backgrounds
 
-{% include gallery.html folder="webpage/gallery" %}
+{% include gallery-nav.html folder="webpage/gallery" %}
 
 Before its big makeover, the website used to have a few wallpapers that you could rotate to your liking.
 

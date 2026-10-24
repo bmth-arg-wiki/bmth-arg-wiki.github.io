@@ -1,9 +1,9 @@
 ---
 title: "Russian Poem"
 description: "The Russian poem is a mysterious poem from Strassman to Ava. It contains details of their affair, 
-which is hidden from Skys at the time of sending."
+which is hidden from Skys at the time of sending, until Feya eventually stumbles across it."
 categories: ["for-sof"]
-tags: ["russian", "poem", "skys", "mantra", "cult", "for sof"]
+tags: ["russian", "poem", "skys", "ava", "strassman", "mantra", "cult", "for sof", "feya", "unbeleevable"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/files/russian_poem/poem-300x300.png"
 previous: "for-sof/unbeleevable"
 previous_text: "Nex Gen leak 'UNBELEEVABLE'"
@@ -28,6 +28,11 @@ met at October Palace at a concert from [Skys & the Starjammers](skystarjammers)
 Sadly, [Dallus' diary](dallus-diary) reveals that Ava did not make it out of the [Mantra cult](../lore/mantra) 
 alive.
 
+The poems did not stay hidden forever. [Unbeleevable Episode 4](unbeleevable4) shows what happened after 
+[Feya](../characters/feya) found Strassman's writings and reported them to the 
+cult leader. Skys hunted Strassman down and beat him badly, starting a confrontation that would leave a huge 
+impact on the cult.
+
 ***
 
 ## About
@@ -37,7 +42,7 @@ the [Skys & The Starjammers poster](skystarjammers). The password
 for this was found in an [Instagram post](https://www.instagram.com/p/C-DhcBaC4NP/).
 
 More context was provided in December 2024, when a website
-update dropped [Sof](../characters/sof)'s thoughts on the matter in their [journal](../website/journal.md).
+update dropped [Sof](../characters/sof)'s thoughts on the matter in their [journal](../website/journal).
 
 ***
 
@@ -112,18 +117,21 @@ The password was found by taking multiple pieces of a letter from an
 
 ## Read more
 
-Related characters:
-
-- [Ava](../characters/ava)
-- [Strassman](../characters/strassman)
-
 Related files:
 
 - [Skys & the Starjammers Poster](../for-sof/skystarjammers)
 - [Unbeleevable Episode 1](../for-sof/unbeleevable)
 - [Unbeleevable Episode 2](../for-sof/unbeleevable2)
 - [Unbeleevable Episode 3](../for-sof/unbeleevable3)
+- [Unbeleevable Episode 4](../for-sof/unbeleevable4)
 - [Dallus' Diary](dallus-diary)
+
+Related characters:
+
+- [Ava](../characters/ava)
+- [Strassman](../characters/strassman)
+- [Skys](../characters/skys)
+- [Feya](../characters/feya)
 
 Related lore:
 

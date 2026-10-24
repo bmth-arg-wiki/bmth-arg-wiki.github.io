@@ -117,7 +117,7 @@ freely accessible since the December 2024th update.
 
 ## Password context
 
-{% include info.html
+{% include content/info.html
 title="The Kingslayer Puzzle"
 content="The puzzle is very time-consuming, and the password screen only allows very little time to enter the password after you click check. So keep the password ready!"
 %}
@@ -153,23 +153,27 @@ continues until the end.
 
 ## Read More
 
-Related file:
+Related files:
 
 - [Project D.U.S.T.](project_dust) (brief mention of Project Kingslayer)
 - [Unbeleevable](unbeleevable) (brief mention of the FANTOM Team)
 - [Selene's Diary](selene_personal_journal)
 - [Scott's Diary](scott_personal_journal)
 
-Related articles:
-
-- [Nex Gen](../lore/nex-gen-corporation)
-- [Sof's journal](../website/journal.md)
-
 Related characters:
 
 - [Selene](../characters/selene)
 - [Scott](../characters/syko)
 
-Related songs:
-  
+Related website pages:
+
+- [Sof's journal](../website/journal)
+
+Related lore:
+
+- [Nex Gen](../lore/nex-gen-corporation)
+- [Synths](../lore/synths) (maybe)
+
+Related music:
+
 - [Itch for the Cure & Kingslayer](../music/song-kingslayer-itch)

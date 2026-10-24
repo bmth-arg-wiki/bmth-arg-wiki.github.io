@@ -56,16 +56,16 @@ team shortly after.
 
 ## Read More
 
-Related characters:
-
-- [Selene](selene)
-- [Syko (speculated)](syko)
-
 Related files:
 
 - [Scott's Diary](../for-sof/scott_personal_journal)
 - [Selene's Diary](../for-sof/selene_personal_journal)
 - [Kingslayer Codek](../for-sof/kingslayercodec)
+
+Related characters:
+
+- [Selene](selene)
+- [Syko (speculated)](syko)
 
 Related lore:
 

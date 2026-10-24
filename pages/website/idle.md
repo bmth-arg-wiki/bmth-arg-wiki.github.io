@@ -34,7 +34,7 @@ to upload the files instead.
 
 ## Gallery
 
-{% include gallery.html folder="webpage/idle" %}
+{% include gallery-nav.html folder="webpage/idle" %}
 
 ***
 

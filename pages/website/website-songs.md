@@ -81,7 +81,7 @@ Has been removed before 25-05-2024, sadly we have no resources for this! Have an
 
 ## Read More
 
-About the ARG website:
+Related website pages:
 
 - [Website](website)
 - [Old website](website-v1)

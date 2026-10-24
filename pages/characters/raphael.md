@@ -40,6 +40,11 @@ Additionally, the picture for user 0007 used to be [Uriel](uriel)'s picture.
 
 ## Read More
 
+Related files:
+
+- [Selene's map](../for-sof/selenes_map)
+- [Selene Youtopia Research](../for-sof/selene_youtopia_doc)
+
 Related characters:
 
 - [Pan](pan)
@@ -51,11 +56,6 @@ Other [archangels](characters#the-archangels):
 - [Gabriel](gabriel)
 - [Michael](michael)
 - [Uriel](uriel)
-
-Related files:
-
-- [Selene's map](../for-sof/selenes_map)
-- [Selene Youtopia Research](../for-sof/selene_youtopia_doc)
 
 Related lore:
 

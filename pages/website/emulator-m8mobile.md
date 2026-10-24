@@ -1,6 +1,6 @@
 ---
 title: "M8 Mobile"
-description: "This page is about the rhythm game Scream Star, which is a game released to promote Nex Gen."
+description: "This page is about M8 Mobile, a retro side-scroller game within the emulator where M8 flies and shoots."
 categories: ["website", "for-sof"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/webpage/emulator/m8mobile-300x300.png"
 tags: ["arg", "bmth", "bring me the horizon", "scream star", "rhythm game"]
@@ -52,13 +52,13 @@ being subtracted at least for taking damage.
 
 ## Gallery
 
-{% include gallery.html folder="webpage/emulator/m8mobile/gallery" %}
+{% include gallery-nav.html folder="webpage/emulator/m8mobile/gallery" %}
 
 ***
 
 ## Read More
 
-Other games:
+Related website pages:
 
 - [Emulator](emulator)
 - [Scream Star](emulator-screamstar)

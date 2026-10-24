@@ -198,15 +198,18 @@ Related files:
 
 - [Unbeleevable Episode 1](unbeleevable)
 - [Unbeleevable Episode 3](unbeleevable3)
+- [Unbeleevable Episode 4](unbeleevable4)
 - [Operation Trinity](trinity_document)
 - [Book of Eclipse](book-of-eclipse)
-- [Skys' Diary](skys-diary)
+- [Skys' Diary](skys-diary) (original first page)
+- [Skys' Scrapbook](../website/skys-diary) (full diary)
 - [The Science Study Newspaper](thesciencestudy)
 - [Russian Poem](russianpoem)
 - [Book of Eclipse](book-of-eclipse)
 
 Related lore:
 
+- [Unbeleevable series](../lore/unbeleevable)
 - [Cult of MANTRA](../lore/mantra)
 - [Church of GENXSIS](../lore/church)
 - [ARC/HIVE Corp.](../lore/archive)

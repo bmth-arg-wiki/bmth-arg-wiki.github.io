@@ -4,7 +4,7 @@ description: "Operation Trinity was ordered by Victor Carmine to extract the Tri
 after its fall."
 categories: ["lore", "for-sof"]
 tags: ["bmth", "arg", "project", "kingslayer", "skys", "unbeleevable", "lore", "dust", "operation", "trinity", "strassman", 
-"lauren", "dallus", "karl", "victor", "carmine", "archive", "nex gen"]
+"lauren", "dallus", "karl", "victor", "carmine", "archive", "nex gen", "angel", "feya"]
 image: "https://raw.githubusercontent.com/bmth-arg-wiki/wiki-assets/main/lore/operation-trinity/trinity-300x300.png"
 ---
 
@@ -18,15 +18,22 @@ for himself. At the time, Carmine is the head of [Arc/Hive](archive), a powerful
 
 ## Background
 
-The operation was mostly focused on the Trinity, as they possessed invaluable knowledge. Carmine had been 
-looking for this information since 2015, when he also sent in his daughter under the alias [Medea](../characters/medea). 
+The operation was publicly focused on the Trinity, for their knowledge of the cult's research. 
+Carmine was also interested in the gifted children and Strassman's daughter [Angel](../characters/angel).
+He had been looking for insider information since 2015, when he also sent in his daughter under the alias 
+[Medea](../characters/medea). While Medea ends up falling in love with Skys and cutting contact with Victor temporarily, she 
+eventually reveals the secrets of the cults hoping to protect her baby. Medea had a chip implanted when she arrived, 
+which has allowed Arc/Hive to keep track of her the whole time she was there.
+
 She eventually meets her end in the music video for [MANTRA (song)](../music/amo-mantra), which is later 
-confirmed by both the journalist and Carmine in a [reconstructed interview](../for-sof/carmine_interview).
+confirmed by both the journalist and Carmine himself in a [reconstructed interview](../for-sof/carmine_interview).
 
 [Dallus](../characters/dallus-lauren) writes his [journal](../for-sof/dallus-diary) shortly after Operation Trinity. 
-Strassman was keeping his relationship with [Ava](../characters/ava) a secret from [Skys](../characters/skys), because 
-he was told that she was off-limits. In the diary we find out that Ava is now dead and his child Angel is also missing 
-and presumed dead. 
+[Strassman](../characters/strassman) was keeping his relationship with [Ava](../characters/ava) a secret from [Skys](../characters/skys), because 
+he was told that she was off-limits. In the diary we find out that Ava is now dead, while his child [Angel](../characters/angel) is written 
+off as missing and presumed dead. [Unbeleevable Episode 4](../for-sof/unbeleevable4) later sets the record straight: 
+Angel survived the operation and was taken in by Arc/Hive, alongside the other gifted children the company 
+pulled out of Novosovia. 
 Dallus himself had better luck: his wife [Elena](../characters/elena-lauren) went into childbirth 
 during Operation Trinity, birthing the healthy [Lyra](../characters/lyra-lauren) in the safety of Arc/Hive's labs. 
 His son [Ikaro Lauren](../characters/ren) also escaped unharmed and is already showing promising signs for a career 
@@ -43,6 +50,17 @@ as a continuation of [Project Kingslayer](incident-kingslayer).
 
 ## Read More
 
+Related files:
+
+- [Operation Trinity article](../for-sof/trinity_document)
+- [Project D.U.S.T. proposal](../for-sof/project_dust)
+- [Skys & the Starjammers poster](../for-sof/skystarjammers)
+- [Unbeleevable Episode 1](../for-sof/unbeleevable)
+- [Unbeleevable Episode 2](../for-sof/unbeleevable2)
+- [Unbeleevable Episode 3](../for-sof/unbeleevable3)
+- [Unbeleevable Episode 4](../for-sof/unbeleevable4)
+- [Interview with Victor Carmine](../for-sof/carmine_interview)
+
 Related characters:
 
 - [Victor Carmine](../characters/victor-carmine)
@@ -54,19 +72,12 @@ Related characters:
 - [Elena Lauren](../characters/elena-lauren)
 - [Lyra Lauren](../characters/lyra-lauren)
 - [Ava](../characters/ava)
-
-Related files:
-
-- [Operation Trinity article](../for-sof/trinity_document)
-- [Project D.U.S.T. proposal](../for-sof/project_dust)
-- [Skys & the Starjammers poster](../for-sof/skystarjammers)
-- [Unbeleevable Episode 1](../for-sof/unbeleevable)
-- [Unbeleevable Episode 2](../for-sof/unbeleevable2)
-- [Unbeleevable Episode 3](../for-sof/unbeleevable3)
-- [Interview with Victor Carmine](../for-sof/carmine_interview)
+- [Angel](../characters/angel)
+- [Feya](../characters/feya)
 
 Related lore:
 
+- [October Massacre](october-massacre)
 - [Novosovia](novosovia)
 - [Mantra](mantra)
 - [DTC](dtc)

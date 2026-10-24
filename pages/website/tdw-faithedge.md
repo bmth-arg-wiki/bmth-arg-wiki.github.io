@@ -110,7 +110,11 @@ Transcription by Alec
 
 ## Read More
 
-About the ARG website:
+Related files:
+
+- [The Book of Eclipse](../for-sof/book-of-eclipse)
+
+Related website pages:
 
 - [Website](website)
 - [Old website](website-v1)
@@ -122,7 +126,7 @@ About the ARG website:
 Other Daily Whisper articles:
 
 - [What is a Loop-Hole?](tdw-loophole)
-- [GAT3KEEPER](tdw-gatekeeper)
+- [Gat3keeper Themepark](tdw-gatekeeper)
 - [Vanished Beyond the Veil](tdw-vanished)
 - [The Rise of Synthetic Humans](tdw-riseofsynth)
 - [Star Jayven Valex's Last Words](tdw-valexlastwords)
@@ -134,10 +138,8 @@ Other Daily Whisper articles:
 - [Inside the Blood-Red Spectacles](tdw-bloodredspectacles)
 - [NEX GEN's Rogue Sentinels](tdw-roguesentinels)
 
-Related Lore:
+Related lore:
 
-- [NEX GEN Corp.](../lore/nex-gen-corporation)
-
-Related file:
-
-- [The Book of Eclipse](../for-sof/book-of-eclipse)
+- [Nex Gen Corporation](../lore/nex-gen-corporation)
+- [Mantra cult](../lore/mantra)
+- [Ecliptism](../lore/ecliptism)

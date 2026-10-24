@@ -1,15 +1,15 @@
-@use "../variables" as *; // Import variables from the variables file
+@use "../variables" as *;
 
 /*
- * Global footer styling
+ * Footer styling
  */
 
-// Text underline for accessibility purposes
+// Text underline for accessibility
 .disclaimer a {
   text-decoration: underline;
 }
 
 .footer-link,
 .footer-link:visited {
-  color: $link
+  color: $link;
 }

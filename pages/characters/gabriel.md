@@ -42,6 +42,11 @@ Before the June 4th 2024 update, Gabriel used to be user 0017.
 
 ## Read More
 
+Related files:
+
+- [Selene's Map](../for-sof/selenes_map)
+- [Youtopia Research](../for-sof/selene_youtopia_doc)
+
 Related characters:
 
 - [Miseria](miseria)
@@ -50,11 +55,6 @@ Related characters:
 - [Raphael](raphael)
 - [Michael](michael)
 - [Uriel](uriel)
-
-Related files:
-
-- [Selene's Map](../for-sof/selenes_map)
-- [Youtopia Research](../for-sof/selene_youtopia_doc)
 
 Related lore:
 

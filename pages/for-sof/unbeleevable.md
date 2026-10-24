@@ -38,7 +38,7 @@ The story from this file continues in [Episode 2](unbeleevable2).
 The video the email is referring to is a video of Lee speaking about the Mantra
 cult. Within the ARG, this is broadcasted by Community Resource Analog Program (CRAP).
 
-{% include gallery.html folder="files/unbeleevable/gallery" %}
+{% include gallery-nav.html folder="files/unbeleevable/gallery" %}
 
 ***
 
@@ -147,20 +147,22 @@ name of the actor playing in [In The Dark](../music/amo-in-the-dark) is Forest W
 
 ## Read More
 
-Related characters:
-
-- [Lee MD](../characters/lee-md)
-
 Related files:
 
 - [Operation Trinity](trinity_document)
 - [The Science Study](thesciencestudy)
 - [Sky_&_The_Starjammers.png](skystarjammers)
 - [Unbeleevable Episode 2](unbeleevable2)
+- [Unbeleevable Episode 3](unbeleevable3)
+- [Unbeleevable Episode 4](unbeleevable4)
+
+Related characters:
+
+- [Lee MD](../characters/lee-md)
 
 Related lore:
 
+- [Unbeleevable series](../lore/unbeleevable)
 - [Mantra cult](../lore/mantra)
 - [MANTRA (song)](../music/amo-mantra)
 - [Church of Genxsis](../lore/church)
-
